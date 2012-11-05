@@ -413,7 +413,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Daddelfugl" title="Daddelfugl" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
 			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Daddelfugl" title="Daddelfugl" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
 			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pers%C3%B3wka" title="Persówka" lang="pl" hreflang="pl">Polski</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D1%83%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%B2%D0%B8%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BB%D1%8C" title="Сорокопутовый свиристель" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D1%83%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%B2%D0%B8%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BB%D1%8C" title="Сорокопутовый сви��истель" lang="ru" hreflang="ru">Русский</a></li>
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Hopeatilhi" title="Hopeatilhi" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C4%B0pekli_bo%C4%9Fan" title="İpekli boğan" lang="tr" hreflang="tr">Türkçe</a></li>
 			<li class="interwiki-zea"><a href="//zea.wikipedia.org/wiki/Zijdestaert" title="Zijdestaert" lang="zea" hreflang="zea">Zeêuws</a></li>

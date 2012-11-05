@@ -543,7 +543,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Poliarin%C4%97_%C5%BEuv%C4%97dra" title="Poliarinė žuvėdra" lang="lt" hreflang="lt">Lietuvių</a></li>
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Sarki_cs%C3%A9r" title="Sarki csér" lang="hu" hreflang="hu">Magyar</a></li>
 			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%86%E0%B5%BC%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%95%E0%B5%8D_%E0%B4%9F%E0%B5%87%E0%B5%BA" title="ആർട്ടിക് ടേൺ" lang="ml" hreflang="ml">മലയാളം</a></li>
-			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%A1%E1%80%AC%E1%80%90%E1%80%AD%E1%80%90%E1%80%BA%E1%80%85%E1%80%84%E1%80%BA%E1%80%9A%E1%80%B1%E1%80%AC%E1%80%BA" title="အာတိတ်စင်ယော်" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
+			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%A1%E1%80%AC%E1%80%90%E1%80%AD%E1%80%90%E1%80%BA%E1%80%85%E1%80%84%E1%80%BA%E1%80%9A%E1%80%B1%E1%80%AC%E1%80%BA" title="အာတိတ်စင်ယေ���်" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
 			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Noordse_stern" title="Noordse stern" lang="nl" hreflang="nl">Nederlands</a></li>
 			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A7%E3%82%AF%E3%82%A2%E3%82%B8%E3%82%B5%E3%82%B7" title="キョクアジサシ" lang="ja" hreflang="ja">日本語</a></li>
 			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Witj_baker" title="Witj baker" lang="frr" hreflang="frr">Nordfriisk</a></li>

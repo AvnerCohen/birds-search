@@ -359,7 +359,7 @@ Expensive parser function count: 0/500
 	<h5>Languages</h5>
 	<div class="body">
 		<ul>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B5%D8%B1%D8%AF_%D9%85%D8%AD%D9%85%D8%B1_%D8%A7%D9%84%D8%B0%D9%86%D8%A8" title="صرد محمر الذنب" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B5%D8%B1%D8%AF_%D9%85%D8%AD%D9%85%D8%B1_%D8%A7%D9%84%D8%B0%D9%86%D8%A8" title="��رد محمر الذنب" lang="ar" hreflang="ar">العربية</a></li>
 			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Pig-spern_Kreizazia" title="Pig-spern Kreizazia" lang="br" hreflang="br">Brezhoneg</a></li>
 			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Isabellw%C3%BCrger" title="Isabellwürger" lang="de" hreflang="de">Deutsch</a></li>
 			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/K%C3%B5nnu%C3%B5gija" title="Kõnnuõgija" lang="et" hreflang="et">Eesti</a></li>

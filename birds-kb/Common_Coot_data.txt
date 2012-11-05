@@ -1,1 +1,597 @@
-Scripts should use an informative User-Agent string with contact information, or they may be IP-blocked without notice.
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Eurasian Coot - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="canonical" href="/wiki/Eurasian_Coot" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eurasian_Coot&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Eurasian_Coot&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eurasian_Coot","wgTitle":"Eurasian Coot","wgCurRevisionId":515484276,"wgArticleId":283969,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Articles with hAudio microformats","Fulica","Birds of Europe","Birds of Iceland","Birds of Lithuania","Birds of New Zealand","Birds of Pakistan","Birds of South Australia","Birds of Southeast Asia","Birds of Tasmania","Birds of Thailand","Birds of Turkey","Birds of Western Australia","British Isles coastal fauna","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eurasian_Coot","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Common_Coot","wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"8e3e7b4c1302c65fdf68ff4c1598cfa9","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":283969,"title":"Eurasian Coot","namespace":0,"categories":["Articles with \'species\' microformats","Articles with hAudio microformats","Birds of Europe","Birds of Iceland","Birds of Lithuania","Birds of New Zealand","Birds of Pakistan","Birds of South Australia","Birds of Southeast Asia","Birds of Tasmania","Birds of Thailand","Birds of Turkey","Birds of Western Australia","Birds of Western Sahara","British Isles coastal fauna","Fulica","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Eurasian_Coot skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Eurasian Coot</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Common_Coot&amp;redirect=no" title="Common Coot">Common Coot</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Eurasian Coot</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Eurasian_Coot.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eurasian_Coot.jpg/220px-Eurasian_Coot.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eurasian_Coot.jpg/330px-Eurasian_Coot.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Eurasian_Coot.jpg/440px-Eurasian_Coot.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Feeding in <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a>, <a href="/wiki/Australia" title="Australia">Australia</a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Gruiformes" title="Gruiformes">Gruiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Rallidae" title="Rallidae">Rallidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Fulica" title="Fulica" class="mw-redirect">Fulica</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>F. atra</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Fulica atra</i></span></b><br />
+<small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>Fulica prior</i> <small>De Vis, 1888</small><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Eurasian Coot</b> (<i>Fulica atra</i>) also known as <b>Coot</b>, is a member of the rail and crake <a href="/wiki/Bird" title="Bird">bird</a> family, the <a href="/wiki/Rallidae" title="Rallidae">Rallidae</a>. The Australian subspecies is known as the <b>Australian Coot</b>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Distribution"><span class="tocnumber">1</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Breeding"><span class="tocnumber">3.1</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Diet"><span class="tocnumber">3.2</span> <span class="toctext">Diet</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Status"><span class="tocnumber">4</span> <span class="toctext">Status</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=1" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<p>The Coot breeds across much of the <a href="/wiki/Old_World" title="Old World">Old World</a> on freshwater lakes and ponds. It occurs and breeds in <a href="/wiki/Europe" title="Europe">Europe</a>, <a href="/wiki/Asia" title="Asia">Asia</a>, <a href="/wiki/Australia" title="Australia">Australia</a>, and <a href="/wiki/Africa" title="Africa">Africa</a>. The species has recently expanded its range into <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>. It is resident in the milder parts of its range, but <a href="/wiki/Bird_migration" title="Bird migration">migrates</a> further south and west from much of Asia in winter as the waters freeze.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<table class="metadata mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9; float:left">
+<tr>
+<td class="mbox-image">
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" /></div>
+</div>
+</td>
+<td class="mbox-text plainlist" style="line-height:1.1em;">
+<div class="haudio">
+<div style="padding:2px 0;" class="fn"><a href="/wiki/File:EurasianCoot.ogg" title="File:EurasianCoot.ogg">A Eurasian Coot's call</a></div>
+<div>
+<div id="ogg_player_1">
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/2/26/EurasianCoot.ogg&quot;,&quot;width&quot;:220,&quot;height&quot;:35,&quot;length&quot;:2.624,&quot;linkUrl&quot;:&quot;/wiki/File:EurasianCoot.ogg&quot;,&quot;isVideo&quot;:false});" style="width: 220px; text-align: center" title="Play sound"><img src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/play.png" width="22" height="22" alt="Play sound" /></button></div>
+</div>
+</div>
+<div style="padding:2px 0 0 0;" class="description">The call of a Eurasian Coot, recorded in <a href="/wiki/Homebush_Bay" title="Homebush Bay">Homebush Bay</a></div>
+</div>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="2" class="mbox-text" style="line-height:1.1em;"><span style="font-size:smaller;"><i>Problems listening to this file? See <a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">media help</a>.</i></span></td>
+</tr>
+</table>
+<p>The Coot is 32–42 cm (13–17 in) long and weighs 585–1,100 g (1.29–2.4 lb), and is largely black except for the white facial shield (which gave rise to the phrase "as <a href="/wiki/Baldness" title="Baldness">bald</a> as a coot", which the Oxford English Dictionary cites in use as early as 1430).<sup id="cite_ref-CRC_2-0" class="reference"><a href="#cite_note-CRC-2"><span>[</span>3<span>]</span></a></sup> As a swimming species, the Coot has partial webbing on its long strong toes.</p>
+<p>The juvenile is paler than the adult, has a whitish breast, and lacks the facial shield; the adult black plumage develops when about 3–4 months old, but the white shield is only fully developed at about one year old.</p>
+<p>This is a noisy bird with a wide repertoire of crackling, explosive, or trumpeting calls, often given at night.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=3" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Eurasian_coots_-_juveniles_with_adult.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eurasian_coots_-_juveniles_with_adult.jpg/220px-Eurasian_coots_-_juveniles_with_adult.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eurasian_coots_-_juveniles_with_adult.jpg/330px-Eurasian_coots_-_juveniles_with_adult.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Eurasian_coots_-_juveniles_with_adult.jpg/440px-Eurasian_coots_-_juveniles_with_adult.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Eurasian_coots_-_juveniles_with_adult.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Adult with a pair of juveniles</div>
+</div>
+</div>
+<p>The Coot is much less secretive than most of the rail family, and can be seen swimming on open water or walking across waterside grasslands. It is an aggressive species, and strongly territorial during the breeding season, and both parents are involved in territorial defence.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> During the non-breeding season they may form large flocks, possibly related to predator avoidance.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>It is reluctant to fly and when taking off runs across the water surface with much splashing. They do the same, but without actually flying, when travelling a short distance at speed in territorial disputes. As with many rails, its weak flight does not inspire confidence, but on migration, usually at night, it can cover surprisingly large distances. It bobs its head as it swims, and makes short dives from a little jump.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=4" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Eurasian-Coot--chick.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eurasian-Coot--chick.jpg/220px-Eurasian-Coot--chick.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eurasian-Coot--chick.jpg/330px-Eurasian-Coot--chick.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Eurasian-Coot--chick.jpg/440px-Eurasian-Coot--chick.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Eurasian-Coot--chick.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Young chick in Australia</div>
+</div>
+</div>
+<p>This species builds a nest of dead reeds or grasses, but also pieces of paper or plastic near the water's edge or on underwater obstacles protruding from the water, laying up to 10 eggs, sometimes 2 or 3 times per season. Usually only a few young survive. They are frequent <a href="/wiki/Prey" title="Prey" class="mw-redirect">prey</a> for birds such as <a href="/wiki/Heron" title="Heron">herons</a> and <a href="/wiki/Gull" title="Gull">gulls</a>.</p>
+<p>Coots can be very brutal to their own young under pressure such as the lack of food. They will bite young that are begging for food and repeatedly do this until it stops begging and starves to death. If the begging continues, they may bite so hard that the chick is killed.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=5" title="Edit section: Diet">edit</a>]</span> <span class="mw-headline" id="Diet">Diet</span></h3>
+<p>The Coot is an omnivore, and will take a variety of small live prey including the eggs of other water birds, as well as <a href="/wiki/Algae" title="Algae">algae</a>, vegetation, seeds and fruit.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> It shows considerable variation in its feeding techniques, grazing on land or in the water. In the water it may upend in the fashion of a <a href="/wiki/Mallard" title="Mallard">Mallard</a> or dive in search of food.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=6" title="Edit section: Status">edit</a>]</span> <span class="mw-headline" id="Status">Status</span></h2>
+<p>The Eurasian Coot is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=7" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Limmat_-_Dietikon_IMG_5927.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Limmat_-_Dietikon_IMG_5927.JPG/120px-Limmat_-_Dietikon_IMG_5927.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Nesting on <a href="/wiki/Limmat" title="Limmat">Limmat</a> river in <a href="/wiki/Dietikon" title="Dietikon">Dietikon</a>, Switzerland</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Coot_Nest_And_Eggs.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/31/Coot_Nest_And_Eggs.jpg/120px-Coot_Nest_And_Eggs.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Coot nest and eggs near a British lake.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:18px auto;"><a href="/wiki/File:Coot-with-chicks.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/31/Coot-with-chicks.jpg/120px-Coot-with-chicks.jpg" width="120" height="114" /></a></div>
+</div>
+<div class="gallerytext">
+<p>London, with three chicks</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:20050507-007-fulica-atra.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20050507-007-fulica-atra.jpg/120px-20050507-007-fulica-atra.jpg" width="120" height="79" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Parent feeding its chicks</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Soth%C3%B6ns-6.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Soth%C3%B6ns-6.JPG/120px-Soth%C3%B6ns-6.JPG" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Eurasian Coots in Stadsparken city park in Lund, Sweden</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:55px auto;"><a href="/wiki/File:Common_Coot-_Bharatpur_I_IMG_8610.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Common_Coot-_Bharatpur_I_IMG_8610.jpg/120px-Common_Coot-_Bharatpur_I_IMG_8610.jpg" width="120" height="40" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In a congregation (group) at <a href="/wiki/Bharatpur,_India" title="Bharatpur, India" class="mw-redirect">Bharatpur</a>, <a href="/wiki/Rajasthan" title="Rajasthan">Rajasthan</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Eurasian_Coot_with_open_beak.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Eurasian_Coot_with_open_beak.jpg/120px-Eurasian_Coot_with_open_beak.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In a park in Utrecht, Netherlands</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=8" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106002944">"<i>Fulica atra</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106002944">http://www.iucnredlist.org/apps/redlist/details/106002944</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Fulica+atra%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106002944&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Coot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Condon, H. T. (1975) <i>Checklist of the Birds of Australia: Non-Passerines</i> Royal Australasian Ornithologists Union, <b>57</b>:311</span></li>
+<li id="cite_note-CRC-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRC_2-0">^</a></b></span> <span class="reference-text"><i>CRC Handbook of Avian Body Masses</i> by John B. Dunning Jr. (Editor). CRC Press (1992), <a href="/wiki/Special:BookSources/9780849342585" class="internal mw-magiclink-isbn">ISBN 978-0-8493-4258-5</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Cave,A.J.; J.Visser; A.C. Perdeck. (1989). "Size and quality of the Coot (Fulica atra) territory in relation to age of its tenants and neighbours". <i>Ardea</i> <b>77</b>: 87 - 97</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">van den Hout PJ (2006) "Dense foraging flotillas of Eurasian coots <i>Fulica atra</i> explained by predation by Ganges soft-shell turtle <i>Aspideretus gangeticus</i>?". <i>Ardea</i> <b>94</b> (2): 271-274</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book">Attenborough, David (1998 Episode 9, 12 mins ff.). <i>The Life of Birds</i>. Princeton: Princeton University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-691-01633-7" title="Special:BookSources/978-0-691-01633-7">978-0-691-01633-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Life+of+Birds&amp;rft.aulast=Attenborough&amp;rft.aufirst=David&amp;rft.au=Attenborough%2C%26%2332%3BDavid&amp;rft.date=1998+Episode+9%2C+12+mins+ff.&amp;rft.place=Princeton&amp;rft.pub=Princeton+University+Press&amp;rft.isbn=978-0-691-01633-7&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Coot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Martin R. Perrow, J. Hans Schutten, John R. Howes, Tim Holzer, F. Jane Madgwick and Adrian J. D. Jowitt (1997) "Interactions between coot (<i>Fulica atra</i>) and submerged macrophytes: the role of birds in the restoration process". <i><a href="/wiki/Hydrobiologia" title="Hydrobiologia">Hydrobiologia</a></i> <b>342/343</b>: 241–255 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1023%2FA%3A1017007911190">10.1023/A:1017007911190</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Brigitte J. Bakker and Robin A. Fordham (1993) "<a rel="nofollow" class="external text" href="http://www.notornis.org.nz/free_issues/Notornis_40-1993/Notornis_40_2_131.pdf">Diving behaviour of the Australian Coot in a New Zealand lake</a>". <i>Notornis</i> <b>40</b> (2): 131–136</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Coot&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Fulica_atra" class="extiw" title="commons:Category:Fulica atra">Fulica atra</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Fulica_atra" class="extiw" title="wikispecies:Fulica atra">Fulica atra</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/common-coot-fulica-atra">Eurasian Coot videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/155_CootFatra.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5961/1000000
+Preprocessor generated node count: 43305/1500000
+Post-expand include size: 33976/2048000 bytes
+Template argument size: 10984/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:283969-0!*!0!!en!4!* and timestamp 20121026025717 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Eurasian_Coot&amp;oldid=515484276">http://en.wikipedia.org/w/index.php?title=Eurasian_Coot&amp;oldid=515484276</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Fulica" title="Category:Fulica">Fulica</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Iceland" title="Category:Birds of Iceland">Birds of Iceland</a></li><li><a href="/wiki/Category:Birds_of_Lithuania" title="Category:Birds of Lithuania">Birds of Lithuania</a></li><li><a href="/wiki/Category:Birds_of_New_Zealand" title="Category:Birds of New Zealand">Birds of New Zealand</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li><li><a href="/wiki/Category:Birds_of_Tasmania" title="Category:Birds of Tasmania">Birds of Tasmania</a></li><li><a href="/wiki/Category:Birds_of_Thailand" title="Category:Birds of Thailand">Birds of Thailand</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Coot&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Coot" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Eurasian_Coot"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Eurasian_Coot"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Eurasian_Coot" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Eurasian_Coot&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Eurasian_Coot&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Eurasian_Coot" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Eurasian_Coot" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Eurasian_Coot&amp;oldid=515484276" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Eurasian_Coot&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Eurasian_Coot&amp;id=515484276" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eurasian+Coot" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Eurasian+Coot&amp;oldid=515484276&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Eurasian_Coot&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9F%D1%81%D1%8B%D0%B4%D0%B6%D1%8D%D0%B4" title="Псыджэд" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Bl%C3%A4sshuhn" title="Blässhuhn" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%BA%D8%B1_%D8%A3%D9%88%D8%B1%D8%A7%D8%B3%D9%8A" title="غر أوراسي" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Adi_qa%C5%9Fqaldaq" title="Adi qaşqaldaq" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D2%A0%D0%B0%D1%88%D2%A1%D0%B0%D0%B1%D0%B0%D1%88" title="Ҡашҡабаш" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9B%D1%8B%D1%81%D1%83%D1%85%D0%B0" title="Лысуха" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9B%D1%8B%D1%81%D0%BA%D0%B0" title="Лыска" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%BA%D0%B0" title="Лиска" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-bar"><a href="//bar.wikipedia.org/wiki/B%C3%B6ichn" title="Böichn" lang="bar" hreflang="bar">Boarisch</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Jualenn_vailh" title="Jualenn vailh" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Fotja" title="Fotja" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D1%88%D0%B0_%D1%87%C4%83%D1%85" title="Кукша чăх" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Lyska_%C4%8Dern%C3%A1" title="Lyska černá" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Cwtiar" title="Cwtiar" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Blish%C3%B8ne" title="Blishøne" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Bl%C3%A4sshuhn" title="Blässhuhn" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-dv"><a href="//dv.wikipedia.org/wiki/%DE%90%DE%A6%DE%8D%DE%B0%DE%88%DE%A7_%DE%8B%DE%AB%DE%82%DE%A8" title="ސަލްވާ ދޫނި" lang="dv" hreflang="dv">ދިވެހިބަސް</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Lauk_(lind)" title="Lauk (lind)" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A6%CE%B1%CE%BB%CE%B1%CF%81%CE%AF%CE%B4%CE%B1" title="Φαλαρίδα" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Fulica_atra" title="Fulica atra" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Nigra_fuliko" title="Nigra fuliko" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Kopetazuri_arrunt" title="Kopetazuri arrunt" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Sj%C3%B3gvh%C3%B8na" title="Sjógvhøna" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Foulque_macroule" title="Foulque macroule" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Markol" title="Markol" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Fulica_atra" title="Fulica atra" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%92%D7%9E%D7%99%D7%AA_%D7%9E%D7%A6%D7%95%D7%99%D7%94" title="אגמית מצויה" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9B%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A2%E1%83%90" title="მელოტა" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D2%9A%D0%B0%D1%81%D2%9B%D0%B0%D0%BB%D0%B4%D0%B0%D2%9B" title="Қасқалдақ" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-mrj"><a href="//mrj.wikipedia.org/wiki/%D0%92%D3%B9%D0%B4%D1%86%D3%B9%D0%B2%D3%B9" title="Вӹдцӹвӹ" lang="mrj" hreflang="mrj">Кырык мары</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Laucis" title="Laucis" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Laukys" title="Laukys" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-lmo"><a href="//lmo.wikipedia.org/wiki/Fulica_atra" title="Fulica atra" lang="lmo" hreflang="lmo">Lumbaart</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Sz%C3%A1rcsa_(mad%C3%A1r)" title="Szárcsa (madár)" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Pangling_Hitam" title="Burung Pangling Hitam" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D0%B7%D0%B0%D0%BD_%D1%82%D2%AF%D0%BD%D0%B6%D2%AF%D2%AF" title="Халзан түнжүү" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Meerkoet" title="Meerkoet" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-nds-nl"><a href="//nds-nl.wikipedia.org/wiki/Blesente" title="Blesente" lang="nds-nl" hreflang="nds-nl">Nedersaksisch</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%90%E3%83%B3" title="オオバン" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-nap"><a href="//nap.wikipedia.org/wiki/Follaca" title="Follaca" lang="nap" hreflang="nap">Nnapulitano</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Bleskaader" title="Bleskaader" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Soth%C3%B8ne" title="Sothøne" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Soth%C3%B8ne" title="Sothøne" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%A9%D9%88%D9%B9" title="کوٹ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Bl%C3%A9rie" title="Blérie" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Fulica_atra" title="Fulica atra" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/%C5%81yska" title="Łyska" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Galeir%C3%A3o-comum" title="Galeirão-comum" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%BA%D0%B0_%D1%87%D0%BE%D1%80%D0%BD%D0%B0" title="Лиска чорна" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D1%8B%D1%81%D1%83%D1%85%D0%B0" title="Лысуха" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A3%D1%80%D0%B0%D0%B0%D0%BD%D0%B0%D0%B9" title="Ураанай" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/Giehpavuonccis" title="Giehpavuonccis" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-stq"><a href="//stq.wikipedia.org/wiki/Bl%C3%A4shanne" title="Bläshanne" lang="stq" hreflang="stq">Seeltersk</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Lyska_%C4%8Dierna" title="Lyska čierna" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Nokikana" title="Nokikana" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Soth%C3%B6na" title="Sothöna" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%A8%E0%B0%BE%E0%B0%AE%E0%B0%BE%E0%B0%B2_%E0%B0%95%E0%B1%8B%E0%B0%A1%E0%B0%BF" title="నామాల కోడి" lang="te" hreflang="te">తెలుగు</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Sakarmeke" title="Sakarmeke" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%BA%D0%B0_(%D0%BF%D1%82%D0%B0%D1%85)" title="Лиска (птах)" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/S%C3%A2m_c%E1%BA%A7m" title="Sâm cầm" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-vls"><a href="//vls.wikipedia.org/wiki/Koter" title="Koter" lang="vls" hreflang="vls">West-Vlams</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%AA%A8%E9%A1%B6%E9%B8%A1" title="骨顶鸡" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 16:24.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Coot&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw43 in 0.199 secs. -->
+	</body>
+</html>

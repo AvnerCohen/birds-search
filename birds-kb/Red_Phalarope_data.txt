@@ -390,7 +390,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Isovesip%C3%A4%C3%A4sky" title="Isovesipääsky" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Bredn%C3%A4bbad_simsn%C3%A4ppa" title="Brednäbbad simsnäppa" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_deniz_d%C3%BCd%C3%BCk%C3%A7%C3%BCn%C3%BC" title="Kızıl deniz düdükçünü" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%B2%D1%83%D0%BD%D0%B5%D1%86%D1%8C_%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D0%B4%D0%B7%D1%8C%D0%BE%D0%B1%D0%B8%D0%B9" title="Плавунець плоскодзьобий" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%B2%D1%83%D0%BD%D0%B5%D1%86%D1%8C_%D0%BF%D0%BB%D0%BE%D1%81%D0%BA%D0%BE%D0%B4%D0%B7%D1%8C%D0%BE%D0%B1%D0%B8%D0%B9" title="Плавунець плоскодзьобий" lang="uk" hreflang="uk">Українськ��</a></li>
 			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%81%B0%E7%93%A3%E8%B9%BC%E9%B9%AC" title="灰瓣蹼鹬" lang="zh" hreflang="zh">中文</a></li>
 		</ul>
 	</div>

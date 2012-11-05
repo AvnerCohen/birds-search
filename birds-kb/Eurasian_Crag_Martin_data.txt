@@ -934,7 +934,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kalliop%C3%A4%C3%A4sky" title="Kalliopääsky" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Klippsvala" title="Klippsvala" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kaya_k%C4%B1rlang%C4%B1c%C4%B1" title="Kaya kırlangıcı" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B2%A9%E7%87%95" title="岩燕" lang="zh" hreflang="zh">中文</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B2%A9%E7%87%95" title="���燕" lang="zh" hreflang="zh">中文</a></li>
 		</ul>
 	</div>
 </div>

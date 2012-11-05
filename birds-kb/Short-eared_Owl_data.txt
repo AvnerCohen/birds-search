@@ -501,7 +501,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C4%B1r_bayku%C5%9Fu" title="Kır baykuşu" lang="tr" hreflang="tr">Türkçe</a></li>
 			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D1%8F%D0%BD%D0%B0" title="Сова болотяна" lang="uk" hreflang="uk">Українська</a></li>
 			<li class="interwiki-wa"><a href="//wa.wikipedia.org/wiki/Duk_di_bw%C3%A8s" title="Duk di bwès" lang="wa" hreflang="wa">Walon</a></li>
-			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%9F%AD%E8%80%B3%E9%B8%AE" title="短耳鸮" lang="zh" hreflang="zh">中文</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%9F%AD%E8%80%B3%E9%B8%AE" title="短耳鸮" lang="zh" hreflang="zh">���文</a></li>
 		</ul>
 	</div>
 </div>

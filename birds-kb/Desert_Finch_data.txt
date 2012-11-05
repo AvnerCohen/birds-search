@@ -343,7 +343,7 @@ Expensive parser function count: 1/500
 	<h5>Languages</h5>
 	<div class="body">
 		<ul>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D8%B5%D9%81%D9%88%D8%B1_%D8%A7%D9%84%D8%A8%D8%A7%D8%AF%D9%8A%D8%A9" title="عصفور البادية" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D8%B5%D9%81%D9%88%D8%B1_%D8%A7%D9%84%D8%A8%D8%A7%D8%AF%D9%8A%D8%A9" title="عصفور البادية" lang="ar" hreflang="ar">العربي��</a></li>
 			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D0%B0_%D1%87%D0%B8%D0%BD%D0%BA%D0%B0" title="Пустинна чинка" lang="bg" hreflang="bg">Български</a></li>
 			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Wei%C3%9Ffl%C3%BCgelgimpel" title="Weißflügelgimpel" lang="de" hreflang="de">Deutsch</a></li>
 			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Carduelis_obsoleta" title="Carduelis obsoleta" lang="es" hreflang="es">Español</a></li>

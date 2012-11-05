@@ -575,7 +575,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/G%C4%85go%C5%82" title="Gągoł" lang="pl" hreflang="pl">Polski</a></li>
 			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%8C_%D0%BA%D1%80%D0%B8%D0%BA%D0%BB%D0%B8%D0%B2%D0%B0" title="Чернеть криклива" lang="rue" hreflang="rue">Русиньскый</a></li>
 			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C" title="Обыкновенный гоголь" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%9E%D1%80%D1%83%D0%BB%D1%83%D0%BE%D1%81" title="Орулуос" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%9E%D1%80%D1%83%D0%BB%D1%83%D0%BE%D1%81" title="Ор��луос" lang="sah" hreflang="sah">Саха тыла</a></li>
 			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/%C4%8Coa%C4%91gi" title="Čoađgi" lang="se" hreflang="se">Sámegiella</a></li>
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Telkk%C3%A4" title="Telkkä" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Knipa" title="Knipa" lang="sv" hreflang="sv">Svenska</a></li>

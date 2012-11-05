@@ -1,1 +1,552 @@
-Scripts should use an informative User-Agent string with contact information, or they may be IP-blocked without notice.
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Saker Falcon - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Saker_Falcon&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Saker_Falcon&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Saker_Falcon","wgTitle":"Saker Falcon","wgCurRevisionId":521486211,"wgArticleId":799223,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List endangered species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from November 2012","Falco (genus)","Falconry","Birds of Pakistan","Birds of Europe","Birds of Turkey","Birds of the United Arab Emirates"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Saker_Falcon","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"39bd0e8ba2c557bcac7c4b09ff1df7c5","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":799223,"title":"Saker Falcon","namespace":0,"categories":["All articles with unsourced statements","Articles with \'species\' microformats","Articles with unsourced statements from November 2012","Birds of Europe","Birds of Pakistan","Birds of Turkey","Birds of the United Arab Emirates","Falco (genus)","Falconry","IUCN Red List endangered species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Saker_Falcon skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Saker Falcon</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Saker Falcon</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Falco_cherrug_(Marek_Szczepanek).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Falco_cherrug_%28Marek_Szczepanek%29.jpg/240px-Falco_cherrug_%28Marek_Szczepanek%29.jpg" width="240" height="159" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Falco_cherrug_%28Marek_Szczepanek%29.jpg/360px-Falco_cherrug_%28Marek_Szczepanek%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Falco_cherrug_%28Marek_Szczepanek%29.jpg/480px-Falco_cherrug_%28Marek_Szczepanek%29.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Status_iucn3.1_EN.svg/220px-Status_iucn3.1_EN.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Status_iucn3.1_EN.svg/330px-Status_iucn3.1_EN.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Status_iucn3.1_EN.svg/440px-Status_iucn3.1_EN.svg.png 2x" /><br />
+<a href="/wiki/Endangered_species" title="Endangered species">Endangered</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Falconiformes" title="Falconiformes">Falconiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Falconidae" title="Falconidae">Falconidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Falcon" title="Falcon">Falco</a></i></span></td>
+</tr>
+<tr>
+<td>Subgenus:</td>
+<td><span class="subgenus" style="white-space:nowrap;">(<i><a href="/wiki/Hierofalco" title="Hierofalco" class="mw-redirect">Hierofalco</a></i>)</span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>F. cherrug</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Falco cherrug</i></span></b><br />
+<small><a href="/wiki/John_Edward_Gray" title="John Edward Gray">Gray</a>, 1834</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Falco_cherrug_distr.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Falco_cherrug_distr.png/240px-Falco_cherrug_distr.png" width="240" height="159" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Falco_cherrug_distr.png/360px-Falco_cherrug_distr.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Falco_cherrug_distr.png/480px-Falco_cherrug_distr.png 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Range of the Saker Falcon.<br />
+Yellow = breeding<br />
+Blue = wintering<br />
+Green = all-year</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Falco altaicus</i> <small>(<a href="/wiki/Mikhail_Aleksandrovich_Menzbier" title="Mikhail Aleksandrovich Menzbier">Menzbier</a>, 1891)</small><br />
+<i>Hierofalco altaicus</i> <small>Menzbier, 1891</small></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Saker Falcon</b> (<i>Falco cherrug</i>) is a very large <a href="/wiki/Falcon" title="Falcon">falcon</a>. This species breeds from eastern <a href="/wiki/Europe" title="Europe">Europe</a> eastwards across <a href="/wiki/Asia" title="Asia">Asia</a> to <a href="/wiki/Manchuria" title="Manchuria">Manchuria</a>. It is mainly <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> except in the southernmost parts of its range, wintering in <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a>, the <a href="/wiki/Arabian_peninsula" title="Arabian peninsula" class="mw-redirect">Arabian peninsula</a>, northern <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> and western <a href="/wiki/China" title="China">China</a>. During the end of the <a href="/wiki/Last_ice_age" title="Last ice age" class="mw-redirect">last ice age</a>–<a href="/wiki/Oxygen_isotope_stage" title="Oxygen isotope stage" class="mw-redirect">oxygen isotope stages</a> 3-2, some 40,000 to 10,000 years ago–it also occurred in <a href="/wiki/Poland" title="Poland">Poland</a> (Tomek &amp; Bocheński 2005).</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description_and_systematics"><span class="tocnumber">1</span> <span class="toctext">Description and systematics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ecology_and_status"><span class="tocnumber">2</span> <span class="toctext">Ecology and status</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#In_culture"><span class="tocnumber">3</span> <span class="toctext">In culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Etymology"><span class="tocnumber">3.1</span> <span class="toctext">Etymology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Footnotes"><span class="tocnumber">4</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Saker_Falcon&amp;action=edit&amp;section=1" title="Edit section: Description and systematics">edit</a>]</span> <span class="mw-headline" id="Description_and_systematics">Description and systematics</span></h2>
+<p>The Saker Falcon is a large <a href="/wiki/Hierofalcon" title="Hierofalcon">hierofalcon</a>, larger than the Lanner Falcon and almost as large as <a href="/wiki/Gyrfalcon" title="Gyrfalcon">Gyrfalcon</a> at 47–55&#160;cm (18-22 inches) length with a wingspan of 105–129&#160;cm (42-50 inches). Its broad blunt wings give it a shadow similar to Gyrfalcon, but its plumage is more similar to a <a href="/wiki/Lanner_Falcon" title="Lanner Falcon">Lanner Falcon</a>'s.</p>
+<p>Saker Falcons have brown upperbellies and contrasting grey flight feathers. The head and underparts are paler brown, with streaking from the breast down. <a href="/wiki/Male" title="Male">Males</a> (called <b>sakrets</b> in <a href="/wiki/Falconry" title="Falconry">falconry</a>) and <a href="/wiki/Female" title="Female">females</a> are similar, as are young birds, although these tend to be a duller brown. The call is a sharp <i>kiy-ee</i>.</p>
+<p>Adults can be distinguished from the similar <a href="/wiki/Lanner_Falcon" title="Lanner Falcon">Lanner Falcon</a> since the Lanner is blue-grey above with a reddish back to the head. However, juveniles of the two species can be very similar although the Saker Falcon always has a uniformly buff top of the head with dark streaks, and a less clear pattern on the sides of the head.</p>
+<p>A further complication is that some Asian birds have grey barred upperparts; these must be separated from Lanner on size, structure, and a weaker moustache stripe. Saker Falcons at the northeast edge of the range in the <a href="/wiki/Altai_Mountains" title="Altai Mountains">Altai Mountains</a> are slightly larger, and darker and more heavily spotted on the underparts than other populations. These, known as the <b><a href="/wiki/Altai_Falcon" title="Altai Falcon">Altai Falcon</a></b>, have been treated in the past either as a distinct species <i><b>"Falco altaicus"</b></i> or as a <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybrid</a> between Saker Falcon and Gyrfalcon, but modern opinion (e.g. Orta 1994) is to tentatively treat it as a form of Saker Falcon, until comprehensive studies of its <a href="/wiki/Population_genetics" title="Population genetics">population genetics</a> and <a href="/wiki/Ecology" title="Ecology">ecology</a> are available.</p>
+<p>Unfortunately, this <a href="/wiki/Species" title="Species">species</a> belongs to the close-knit hierofalcon complex. In this group, there is ample evidence for rampant hybridization and incomplete <a href="/wiki/Lineage_sorting" title="Lineage sorting" class="mw-redirect">lineage sorting</a> which confounds analyses of <a href="/wiki/DNA_sequence" title="DNA sequence" class="mw-redirect">DNA sequence</a> data to a massive extent; molecular studies with small <a href="/wiki/Sample_size" title="Sample size" class="mw-redirect">sample sizes</a> can simply not be expected to yield reliable conclusions in the entire hierofalcon group. The <a href="/wiki/Radiation_(biology)" title="Radiation (biology)" class="mw-redirect">radiation</a> of the entire living diversity of hierofalcons seems to have taken place in the <a href="/wiki/Eemian_interglacial" title="Eemian interglacial" class="mw-redirect">Eemian interglacial</a> at the start of the <a href="/wiki/Late_Pleistocene" title="Late Pleistocene">Late Pleistocene</a>, a mere 130,000-115,000 years ago; the Saker Falcon represents a lineage that expanded out of northeastern <a href="/wiki/Africa" title="Africa">Africa</a> into the interior of southeastern Europe and Asia, by way of the eastern <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> region.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>In captivity, Lanner and Saker can interbreed. For example, one such hybrid lives at the <a href="/wiki/African_Lion_Safari" title="African Lion Safari">African Lion Safari</a> in <a href="/wiki/Ontario" title="Ontario">Ontario</a>, <a href="/wiki/Canada" title="Canada">Canada</a>. <a href="/wiki/Gyrfalcon" title="Gyrfalcon">Gyrfalcon</a>-Saker hybrids are also available (see bird flu experiment described in "Ecology and status").</p>
+<p>A <a href="/wiki/Hungary" title="Hungary">Hungarian</a> mythological bird, the <a href="/wiki/Turul" title="Turul">Turul</a>, was probably a saker falcon (Kerecsensólyom).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Saker_Falcon&amp;action=edit&amp;section=2" title="Edit section: Ecology and status">edit</a>]</span> <span class="mw-headline" id="Ecology_and_status">Ecology and status</span></h2>
+<p>The Saker Falcon is a raptor of open grasslands preferably with some trees or cliffs. It often hunts by horizontal pursuit, rather than the <a href="/wiki/Peregrine_Falcon" title="Peregrine Falcon">Peregrine's</a> stoop from a height, and feeds mainly on <a href="/wiki/Rodent" title="Rodent">rodents</a> and birds. In Europe, <a href="/wiki/European_Ground_Squirrel" title="European Ground Squirrel" class="mw-redirect">Ground Squirrels</a> and <a href="/wiki/Feral_pigeon" title="Feral pigeon" class="mw-redirect">feral pigeons</a> are the most common prey items. This species usually builds no nest of its own, but lays its 3-6 eggs in an old stick nest in a tree which was previously used by other birds such as storks, ravens or buzzards. It also often nests on cliffs.</p>
+<p><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> categorises this bird as <a href="/wiki/Endangered" title="Endangered" class="mw-redirect">endangered</a>, due to a rapid population decline, particularly on the central Asian breeding grounds. Every since the collapse of the Soviet Union, the United Arab Emirates has been the main destination for thousands of falcons caught and sold illegally for hefty sums at the black market. <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a> is estimated to lose up to 1,000 Saker Falcons per year.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>The species also faces pressure from habitat loss and destruction. The population was estimated to be between 7,200 and 8,800 mature individuals in 2004. In the United States there are several <a href="/wiki/Captive_breeding" title="Captive breeding">captive breeding</a> projects. There are currently several successful breeding projects by falconers in Canada. The most dramatic decline of the Saker falcon in Asia has been in <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a> and <a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a>. On the contrary, a strongly protected and relatively abundant population persist in <a href="/wiki/Hungary" title="Hungary">Hungary</a>.</p>
+<p>Saker nests support a species-rich assemblage of <a href="/wiki/Commensal" title="Commensal" class="mw-redirect">commensal</a> insects (Merkl et al. 2004).</p>
+<p>Saker Falcons are known to be very susceptible to <a href="/wiki/Avian_influenza" title="Avian influenza">avian influenza</a>, individuals having been found infected with highly pathogenic H5N1 (in <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>) and H7N7 (in <a href="/wiki/Italy" title="Italy">Italy</a>) strains. Therefore an experiment was done with <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybrid</a> <a href="/wiki/Gyrfalcon" title="Gyrfalcon">gyr</a>-saker falcons, which found that 5 falcons vaccinated with a commercial H5N2 influenza vaccine survived infection with a highly pathogenic H5N1 strain, whereas 5 unvaccinated falcons died. This means that Sakers could be protected from bird flu by vaccination, at least in captivity.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Faucon_sacre_MHNT.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Faucon_sacre_MHNT.jpg/117px-Faucon_sacre_MHNT.jpg" width="117" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Egg - <a href="/wiki/Mus%C3%A9um_de_Toulouse" title="Muséum de Toulouse">Muséum de Toulouse</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Saker_Falcon_RWD3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Saker_Falcon_RWD3.jpg/120px-Saker_Falcon_RWD3.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Captive, Carolina Raptor Center, USA</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Saker_Falcon_RWD4_.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Saker_Falcon_RWD4_.jpg/120px-Saker_Falcon_RWD4_.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Captive, Carolina Raptor Center, USA</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Sakerfalcon.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1e/Sakerfalcon.JPG/109px-Sakerfalcon.JPG" width="109" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Captive bird, <a href="/wiki/Chew_Valley_Lake" title="Chew Valley Lake">Chew Valley Lake</a>, <a href="/wiki/England" title="England">England</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Falco_cherrug_Qatar.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Falco_cherrug_Qatar.jpg/85px-Falco_cherrug_Qatar.jpg" width="85" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Captive bird, <a href="/wiki/Doha" title="Doha">Doha</a>, <a href="/wiki/Qatar" title="Qatar">Qatar</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Aa_saker_female.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aa_saker_female.jpg/68px-Aa_saker_female.jpg" width="68" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Captive bird</p>
+</div>
+</div>
+</li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Turul-Tb-front.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turul-Tb-front.jpg/220px-Turul-Tb-front.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turul-Tb-front.jpg/330px-Turul-Tb-front.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Turul-Tb-front.jpg/440px-Turul-Tb-front.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Turul-Tb-front.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A saker falcon (<a href="/wiki/Turul" title="Turul">Turul</a>) monument at <a href="/wiki/Tatab%C3%A1nya" title="Tatabánya">Tatabánya</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a>.</div>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Saker_Falcon&amp;action=edit&amp;section=3" title="Edit section: In culture">edit</a>]</span> <span class="mw-headline" id="In_culture">In culture</span></h2>
+<p>Saker Falcon is the national bird of <a href="/wiki/Hungary" title="Hungary">Hungary</a>, known as <a href="/wiki/Turul" title="Turul">Turul</a> in the <a href="/wiki/Hungarian_mythology" title="Hungarian mythology">Hungarian mythology</a>.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from November 2012">citation needed</span></a></i>]</sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Saker_Falcon&amp;action=edit&amp;section=4" title="Edit section: Etymology">edit</a>]</span> <span class="mw-headline" id="Etymology">Etymology</span></h3>
+<p>The specific part of the <a href="/wiki/Scientific_name" title="Scientific name" class="mw-redirect">scientific name</a>, <i>cherrug</i>, comes from the <a href="/wiki/Hindi" title="Hindi">Hindi</a> name <i>charg</i> for a female Saker.<sup id="cite_ref-DSBN_5-0" class="reference"><a href="#cite_note-DSBN-5"><span>[</span>6<span>]</span></a></sup> The <a href="/wiki/Common_name" title="Common name">common name</a> <i>Saker</i> comes from the <a href="/wiki/Arabic" title="Arabic" class="mw-redirect">Arabic</a> <i>saqr</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Saker_Falcon&amp;action=edit&amp;section=5" title="Edit section: Footnotes">edit</a>]</span> <span class="mw-headline" id="Footnotes">Footnotes</span></h2>
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003619">"<i>Falco cherrug</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003619">http://www.iucnredlist.org/apps/redlist/details/106003619</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Falco+cherrug%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003619&amp;rfr_id=info:sid/en.wikipedia.org:Saker_Falcon"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Helbig <i>et al.</i> (1994), Wink <i>et al.</i> (1998), Wink <i>et al.</i> (2004), Nittinger <i>et al.</i> (2005)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.savethesaker.com/images/falco17.pdf">Laszlo Molnar: Saker Falcon protection in Eastern Europe</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation Journal">Antelava, Natalia (Sunday, 5 August 2007, 17:05 GMT 18:05 UK). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/asia-pacific/6932299.stm"><i>Kazakhs use eagle to save rare falcon</i></a>. BBC News<span class="printonly">. <a rel="nofollow" class="external free" href="http://news.bbc.co.uk/2/hi/asia-pacific/6932299.stm">http://news.bbc.co.uk/2/hi/asia-pacific/6932299.stm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kazakhs+use+eagle+to+save+rare+falcon&amp;rft.aulast=Antelava&amp;rft.aufirst=Natalia&amp;rft.au=Antelava%2C%26%2332%3BNatalia&amp;rft.date=Sunday%2C+5+August+2007%2C+17%3A05+GMT+18%3A05+UK&amp;rft.pub=BBC+News&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fasia-pacific%2F6932299.stm&amp;rfr_id=info:sid/en.wikipedia.org:Saker_Falcon"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation Journal">Lierz, Michael; Hafez M. Hafez, Robert Klopfleisch, Dörte Lüschow, Christine Prusas, Jens P. Teifke, Miriam Rudolf, Christian Grund, Donata Kalthoff, Thomas Mettenleiter, Martin Beer, and Timm Harder (November 2007). <a rel="nofollow" class="external text" href="http://www.cdc.gov/EID/content/13/11/1667.htm">"Protection and Virus Shedding of Falcons Vaccinated against Highly Pathogenic Avian Influenza A Virus (H5N1)"</a>. <i>Emerging Infectious Diseases</i> (Centers for Disease Control) <b>13</b> (11): 1667–74. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18217549">18217549</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.cdc.gov/EID/content/13/11/1667.htm">http://www.cdc.gov/EID/content/13/11/1667.htm</a></span><span class="reference-accessdate">. Retrieved 12 June 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Protection+and+Virus+Shedding+of+Falcons+Vaccinated+against+Highly+Pathogenic+Avian+Influenza+A+Virus+%28H5N1%29&amp;rft.jtitle=Emerging+Infectious+Diseases&amp;rft.aulast=Lierz&amp;rft.aufirst=Michael&amp;rft.au=Lierz%2C%26%2332%3BMichael&amp;rft.date=November+2007&amp;rft.volume=13&amp;rft.issue=11&amp;rft.pages=1667%E2%80%9374&amp;rft.pub=Centers+for+Disease+Control&amp;rft_id=info:pmid/18217549&amp;rft_id=http%3A%2F%2Fwww.cdc.gov%2FEID%2Fcontent%2F13%2F11%2F1667.htm&amp;rfr_id=info:sid/en.wikipedia.org:Saker_Falcon"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-DSBN-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-DSBN_5-0">^</a></b></span> <span class="reference-text"><span class="citation book">Jobling, James A (1991). <i>A Dictionary of Scientific Bird Names</i>. <a href="/wiki/OUP" title="OUP" class="mw-redirect">OUP</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0_19_854634_3" title="Special:BookSources/0 19 854634 3">0 19 854634 3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+Scientific+Bird+Names&amp;rft.aulast=Jobling&amp;rft.aufirst=James+A&amp;rft.au=Jobling%2C%26%2332%3BJames+A&amp;rft.date=1991&amp;rft.pub=%5B%5BOUP%5D%5D&amp;rft.isbn=0+19+854634+3&amp;rfr_id=info:sid/en.wikipedia.org:Saker_Falcon"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.collinsdictionary.com/dictionary/english/saker">"Definition of saker"</a>. <i>Collins English Dictionary</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.collinsdictionary.com/dictionary/english/saker">http://www.collinsdictionary.com/dictionary/english/saker</a></span><span class="reference-accessdate">. Retrieved 8 August 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Definition+of+saker&amp;rft.atitle=Collins+English+Dictionary&amp;rft_id=http%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Fsaker&amp;rfr_id=info:sid/en.wikipedia.org:Saker_Falcon"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+<h2><span class="editsection">[<a href="/w/index.php?title=Saker_Falcon&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li>Helbig, A.J.; Seibold, I.; Bednarek, W.; Brüning, H.; Gaucher, P.; Ristow, D.; Scharlau, W.; Schmidl, D. &amp; Wink, Michael (1994): Phylogenetic relationships among falcon species (genus Falco) according to DNA sequence variation of the cytochrome b gene. <i>In:</i> Meyburg, B.-U. &amp; Chancellor, R.D. (eds.): <i>Raptor conservation today</i>: 593-599. <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/1994/4.%201994.pdf">PDF fulltext</a></li>
+<li>Merkl, O.; Bagyura, J; Rózsa, L. (2004): Insects inhabiting Saker (Falco cherrug) nests in Hungary. <i>Ornis Hungarica</i> <b>14</b>: 1-4. <a rel="nofollow" class="external text" href="http://www.zoologia.hu/list/merkl_et_al.pdf">PDF fulltext</a></li>
+<li>Nittinger, F.; Haring, E.; Pinsker, W.; Wink, Michael &amp; Gamauf, A. (2005): Out of Africa? Phylogenetic relationships between <i>Falco biarmicus</i> and other hierofalcons (Aves Falconidae). <i>Journal of Zoological Systematics and Evolutionary Research</i> <b>43</b>(4): 321-331. <small><a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1439-0469.2005.00326.x">10.1111/j.1439-0469.2005.00326.x</a></small> <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/2005/28.2005.pdf">PDF fulltext</a></li>
+<li>Orta, Jaume (1994): 57. Saker Falcon. <i>In:</i> del Hoyo, Josep; Elliott, Andrew &amp; Sargatal, Jordi (eds.): <i><a href="/wiki/Handbook_of_Birds_of_the_World" title="Handbook of Birds of the World" class="mw-redirect">Handbook of Birds of the World</a>, Volume 2: New World Vultures to Guineafowl</i>: 273-274, plate 28. Lynx Edicions, Barcelona. <small><a href="/wiki/Special:BookSources/8487334156" class="internal mw-magiclink-isbn">ISBN 84-87334-15-6</a></small></li>
+<li>Tomek, Teresa &amp; Bocheński, Zygmunt (2005): Weichselian and Holocene bird remains from Komarowa Cave, Central Poland. <i>Acta zoologica cracoviensia</i> <b>48A</b>(1-2): 43-65. <a rel="nofollow" class="external text" href="http://www.ingentaconnect.com/search/download?pub=infobike%3a%2f%2fisez%2fazc%2f2005%2f00000048%2fF0020001%2fart00005&amp;mimetype=application%2fpdf">PDF fulltext</a></li>
+<li>Wink, Michael; Seibold, I.; Lotfikhah, F. &amp; Bednarek, W. (1998): Molecular systematics of holarctic raptors (Order Falconiformes). <i>In:</i> Chancellor, R.D., Meyburg, B.-U. &amp; Ferrero, J.J. (eds.): <i>Holarctic Birds of Prey</i>: 29-48. Adenex &amp; WWGBP. <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/1998/31.%201998.pdf">PDF fulltext</a></li>
+<li>Wink, Michael; Sauer-Gürth, Hedi; Ellis, David &amp; Kenward, Robert (2004): Phylogenetic relationships in the Hierofalco complex (Saker-, Gyr-, Lanner-, Laggar Falcon). <i>In:</i> Chancellor, R.D. &amp; Meyburg, B.-U. (eds.): <i>Raptors Worldwide</i>: 499-504. WWGBP, Berlin. <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/2004/27.2004.pdf">PDF fulltext</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Saker_Falcon&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Falco_cherrug" class="extiw" title="commons:Falco cherrug">Falco cherrug</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/search/species_search.html?action=SpcHTMDetails.asp&amp;sid=3619&amp;m=0">BirdLife International Species Factsheet</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cherrug.org">Southeast Europe Saker falcon Network</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 7180/1000000
+Preprocessor generated node count: 44036/1500000
+Post-expand include size: 45362/2048000 bytes
+Template argument size: 12856/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:799223-0!*!0!!en!4!* and timestamp 20121105085837 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Saker_Falcon&amp;oldid=521486211">http://en.wikipedia.org/w/index.php?title=Saker_Falcon&amp;oldid=521486211</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_endangered_species" title="Category:IUCN Red List endangered species">IUCN Red List endangered species</a></li><li><a href="/wiki/Category:Falco_(genus)" title="Category:Falco (genus)">Falco (genus)</a></li><li><a href="/wiki/Category:Falconry" title="Category:Falconry">Falconry</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_the_United_Arab_Emirates" title="Category:Birds of the United Arab Emirates">Birds of the United Arab Emirates</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2012" title="Category:Articles with unsourced statements from November 2012">Articles with unsourced statements from November 2012</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Saker+Falcon&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Saker+Falcon" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Saker_Falcon"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Saker_Falcon"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Saker_Falcon" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Saker_Falcon&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Saker_Falcon&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Saker_Falcon" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Saker_Falcon" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Saker_Falcon&amp;oldid=521486211" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Saker_Falcon&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Saker_Falcon&amp;id=521486211" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Saker+Falcon" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Saker+Falcon&amp;oldid=521486211&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Saker_Falcon&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%8B%D1%8F%D0%BA%D1%8A" title="Къыякъ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B5%D9%82%D8%B1_%D8%A7%D9%84%D8%BA%D8%B2%D8%A7%D9%84" title="صقر الغزال" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Falco_cherrug" title="Falco cherrug" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/%C3%9Ct%C9%99lgi_q%C4%B1z%C4%B1lqu%C5%9F" title="Ütəlgi qızılquş" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD" title="Бал��бан" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B2%D0%B5%D0%BD_%D1%81%D0%BE%D0%BA%D0%BE%D0%BB" title="Ловен сокол" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Falc%27hun_sakr" title="Falc'hun sakr" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Falc%C3%B3_sacre" title="Falcó sacre" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%AD%D1%82%D0%B5%D0%BB%C4%95%D0%BA" title="Этелĕк" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Raroh_velk%C3%BD" title="Raroh velký" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Slagfalk" title="Slagfalk" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Sakerfalke" title="Sakerfalke" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Falco_cherrug" title="Falco cherrug" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Tatarfalko" title="Tatarfalko" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Sakre_belatz" title="Sakre belatz" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%84%D8%A7%D8%A8%D8%A7%D9%86_(%D9%BE%D8%B1%D9%86%D8%AF%D9%87)" title="بالابان (پرنده)" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Faucon_sacre" title="Faucon sacre" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%B2%D5%A1%D5%AC%D5%B8%D5%A2%D5%A1%D5%B6" title="Բալոբան" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Falco_cherrug" title="Falco cherrug" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%96_%D7%A6%D7%99%D7%99%D7%93%D7%99%D7%9D" title="בז ציידים" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%A0%E1%83%98_(%E1%83%A4%E1%83%A0%E1%83%98%E1%83%9C%E1%83%95%E1%83%94%E1%83%9A%E1%83%98)" title="ბარი (ფრინველი)" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%98%D1%82%D0%B5%D0%BB%D0%B3%D1%96" title="Ителгі" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-ky"><a href="//ky.wikipedia.org/wiki/%D0%98%D1%82%D0%B5%D0%BB%D0%B3%D0%B8" title="Ителги" lang="ky" hreflang="ky">Кыргызча</a></li>
+			<li class="interwiki-lez"><a href="//lez.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD" title="Балабан" lang="lez" hreflang="lez">Лезги</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Stepes_piek%C5%ABns" title="Stepes piekūns" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Taurusis_sakalas" title="Taurusis sakalas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kerecsens%C3%B3lyom" title="Kerecsensólyom" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D1%81%D0%BA%D0%B8_%D1%81%D0%BE%D0%BA%D0%BE%D0%BB" title="Степски сокол" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%98%D0%B4%D0%BB%D1%8D%D0%B3_%D1%88%D0%BE%D0%BD%D1%85%D0%BE%D1%80" title="Идлэг шонхор" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Sakervalk" title="Sakervalk" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BB%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%8F%E3%83%A4%E3%83%96%E3%82%B5" title="セーカーハヤブサ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Tartarfalk" title="Tartarfalk" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B3%DB%8C%DA%A9%D8%B1_%D9%81%D8%A7%D9%84%DA%A9%D9%86" title="سیکر فالکن" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Falco_cherrug" title="Falco cherrug" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Rar%C3%B3g_(ptak)" title="Raróg (ptak)" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Falc%C3%A3o-sacre" title="Falcão-sacre" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-kaa"><a href="//kaa.wikipedia.org/wiki/%C4%B0ytelgi" title="İytelgi" lang="kaa" hreflang="kaa">Qaraqalpaqsha</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/%C8%98oim_dun%C4%83rean" title="Șoim dunărean" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD" title="Балабан" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0%D0%BD" title="Балобан" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Sokol_r%C3%A1roh" title="Sokol rároh" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Sokol_plenilec" title="Sokol plenilec" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Aavikkohaukka" title="Aavikkohaukka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Tatarfalk" title="Tatarfalk" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D3%98%D1%82%D3%99%D0%BB%D0%B3%D0%B5" title="Әтәлге" lang="tt" hreflang="tt">Татарча/tatarça</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Ulu_do%C4%9Fan" title="Ulu doğan" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D0%BD" title="Балабан" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/C%E1%BA%AFt_Saker" title="Cắt Saker" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%8C%8E%E9%9A%BC" title="猎隼" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 November 2012 at 08:58.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Saker_Falcon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv229 in 0.144 secs. -->
+	</body>
+</html>

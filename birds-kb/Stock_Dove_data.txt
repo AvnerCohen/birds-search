@@ -1,1 +1,435 @@
-Scripts should use an informative User-Agent string with contact information, or they may be IP-blocked without notice.
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Stock Dove - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stock_Dove&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stock_Dove&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stock_Dove","wgTitle":"Stock Dove","wgCurRevisionId":514973401,"wgArticleId":197199,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Columba (genus)","Birds of Europe","Birds of Turkey"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stock_Dove","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"09b52315584a69c0bf89acf142e879ec","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":197199,"title":"Stock Dove","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Europe","Birds of Turkey","Columba (genus)","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Stock_Dove skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Stock Dove</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Stock Dove</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Columba_oenas1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Columba_oenas1.jpg/250px-Columba_oenas1.jpg" width="250" height="167" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Columbiformes" title="Columbiformes" class="mw-redirect">Columbiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Dove" title="Dove" class="mw-redirect">Columbidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Columba_(genus)" title="Columba (genus)">Columba</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>C. oenas</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Columba oenas</i></span></b><br />
+<small><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758</small></td>
+</tr>
+</table>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pigeon_colombin_MHNT.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pigeon_colombin_MHNT.jpg/220px-Pigeon_colombin_MHNT.jpg" width="220" height="225" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pigeon_colombin_MHNT.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>Columba oenas</i></div>
+</div>
+</div>
+<p>The <b>Stock Dove</b> (<i>Columba oenas</i>) is a species of <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Columba_(genus)" title="Columba (genus)">Columba</a> genus in the <a href="/wiki/Columbidae" title="Columbidae">Columbidae</a> family. It is a member of the family <a href="/wiki/Columbidae" title="Columbidae">Columbidae</a>, <a href="/wiki/Dove" title="Dove" class="mw-redirect">doves</a> and pigeons.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ecology"><span class="tocnumber">2</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Stock_Dove&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>Stock Dove is a member of the <a href="/wiki/Bird" title="Bird">bird</a> family <a href="/wiki/Columbidae" title="Columbidae">Columbidae</a>, doves and pigeons.<sup id="cite_ref-Gibbs_1-0" class="reference"><a href="#cite_note-Gibbs-1"><span>[</span>2<span>]</span></a></sup> The genus <i><a href="/wiki/Columba_(genus)" title="Columba (genus)">Columba</a></i> is the largest within the <a href="/wiki/Columbidae" title="Columbidae">pigeon family</a>, and has the widest distribution. Its members are typically pale grey or brown, often with white head or neck markings or iridescent green or purple patches on the neck and breast. The neck feathers may be stiffened and aligned to form grooves, absent in this species. Stock Dove is lesser gray plumage pigeon in Europe. It is also, the rarest of the wild European pigeons.</p>
+<p>The three western European <i><a href="/wiki/Columba_(genus)" title="Columba (genus)">Columba</a></i> pigeons, though superficially alike, have very distinctive characteristics. The <a href="/wiki/Common_Wood_Pigeon" title="Common Wood Pigeon">Wood Pigeon</a> may be readily distinguished by the white on its neck (in adults) and wings. The <a href="/wiki/Rock_Pigeon" title="Rock Pigeon" class="mw-redirect">Rock Pigeon</a> and Stock Dove are more alike in size and plumage, but wild specimens of the former have a white rump and two well-marked dark bars on the wing, while the rump of the Stock Dove is grey and its wing bars incomplete. The <a href="/wiki/Feral_pigeon" title="Feral pigeon" class="mw-redirect">feral pigeon</a> (the same species as <a href="/wiki/Rock_Pigeon" title="Rock Pigeon" class="mw-redirect">Rock Pigeon</a>) is highly variable, and indistinctly marked grey specimens with the white rump missing can sometimes resemble the Stock Dove quite closely.</p>
+<p>The Stock Dove is sociable as well as gregarious, often consorting with Wood Pigeons, though doubtless it is the presence of food which brings them together.</p>
+<p>The short, deep, "grunting" <i>Ooo-uu-ooh</i> call is quite distinct from the modulated cooing notes of the Wood Pigeon; it is loud enough to be described, somewhat fancifully, as "roaring".</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Stock_Dove&amp;action=edit&amp;section=2" title="Edit section: Ecology">edit</a>]</span> <span class="mw-headline" id="Ecology">Ecology</span></h2>
+<p>Stock Dove is a tree hole nesting species which is in sharp decline,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> from habitat loss combined with hunting pressure.<sup id="cite_ref-refA_3-0" class="reference"><a href="#cite_note-refA-3"><span>[</span>4<span>]</span></a></sup> In part of its <a href="/wiki/Europe" title="Europe">European</a> and western <a href="/wiki/Asia" title="Asia">Asiatic</a> range the Stock Dove is a migrant. There has been a sharp decline in France (- 57% in 1976), although the species is not considered threatened in Europe, although it is classified in Schedule 2 to the <a href="/wiki/Birds_Directive" title="Birds Directive">Birds Directive</a> and Annex III the <a href="/wiki/Berne_Convention" title="Berne Convention" class="mw-redirect">Berne Convention</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> the number of wintering birds in France would be 100 000 to 200 000 Stock Doves.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The nest is usually in a hole in an old tree. Before deforestation, the Stock Dove was the most frequent pigeon, nesting mostly in oak or pine wood, but as it usually nests in cavities in trees it was normally only found in old forests. In plantations there are not as many holes to nest in, so it is scarcer. In addition, as the Stock Dove is double brooded, a second hole is required for the second brood. They have even been found to nest in rabbit burrows, ruins with cavities large enough to host nesting and old poplar hedges which have numerous cavities for nesting, and in cracks in crag or cliff faces, in <a href="/wiki/Hedera" title="Hedera" class="mw-redirect">ivy</a>, or in the thick growth round the boles of <a href="/wiki/Tilia_%C3%97_vulgaris" title="Tilia × vulgaris" class="mw-redirect">common lime (linden)</a> trees. It will also use <a href="/wiki/Nest_box" title="Nest box">nest boxes</a>. Typical inhabitant of extensive agricultural land, the nest hole to nest must be around 75&#160;cm in depth, and the entrance hole should be large enough to permit the passage of the fist. The Stock Dove needs a hole for every incubation. Though nesting material is seldom used, the squabs leave the hole very oily. Stock Doves prefer to nest close together. Outwith the breeding season Stock Doves roost in cavities too. The habitats of the Stock Dove are in more or less open country, for though it often nests in trees it prefers <a href="/wiki/Park" title="Park">parklands</a> to thick <a href="/wiki/Woodland" title="Woodland">woods</a>. It is also common on coasts where the cliffs provide holes. Its flight is quick, performed by regular beats, with an occasional sharp flick of the wings, characteristic of pigeons in general.</p>
+<p>It perches well, and in nuptial display walks along a horizontal branch with swelled neck, lowered wings, and fanned tail. During the circling spring flight the wings are smartly cracked like a whip.</p>
+<p>Most of its food is plant material; young shoots and seedlings are favoured, and it will take grain as well as insects and snails. In some areas it feeds mostly on acorns and pine seeds with a large proportion of shoots, leaves, insects, small snails and other mollucs. It feeds on a variety of foods including seeds, acorns, berries, bay berries, hawthorn berries, figs, cereal grains, beans, peas, and small invertebrates that obtained while walking on the floor. During autumn migration in October, Stock Doves stop over at places with an abundance of acorns, supplementing the diet with shoots and leaves.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Stock_Dove&amp;action=edit&amp;section=3" title="Edit section: Etymology">edit</a>]</span> <span class="mw-headline" id="Etymology">Etymology</span></h2>
+<p>The common name Stock Dove has caused some confusion about the origins of this bird. The modern usage of the word "stock" might imply that the bird has been tamed and kept as stock for food and merchandise, leading to the belief that this bird is a hybrid breed with its origins in human aviaries; however this is not the case. The word "Stock" in the common name of this species refers not to the stock of trade, but comes from the Old English "stocc" meaning "stump, post, stake, tree trunk, log,".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> Therefore, "Stock Dove" means "a dove which lives in hollow trees".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> Such hollow trees near human settlements would often be taken and used as wood stock for firewood, hence the name.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Stock_Dove&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106002449">"<i>Columba oenas</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106002449">http://www.iucnredlist.org/apps/redlist/details/106002449</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Columba+oenas%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106002449&amp;rfr_id=info:sid/en.wikipedia.org:Stock_Dove"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Gibbs-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gibbs_1-0">^</a></b></span> <span class="reference-text"><span class="citation book">Gibbs, David; Eustace Barnes, John Cox. <a rel="nofollow" class="external text" href="http://books.google.com/?id=aeZXAAAACAAJ&amp;dq=Pigeons+and+Doves:+A+Guide+to+the+Pigeons+and+Doves+of+the+World"><i>Pigeons and Doves: A Guide to the Pigeons and Doves of the World</i></a>. United Kingdom: Pica Press. pp.&#160;624. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-873403-60-7" title="Special:BookSources/1-873403-60-7">1-873403-60-7</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/?id=aeZXAAAACAAJ&amp;dq=Pigeons+and+Doves:+A+Guide+to+the+Pigeons+and+Doves+of+the+World">http://books.google.com/?id=aeZXAAAACAAJ&amp;dq=Pigeons+and+Doves:+A+Guide+to+the+Pigeons+and+Doves+of+the+World</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pigeons+and+Doves%3A+A+Guide+to+the+Pigeons+and+Doves+of+the+World&amp;rft.aulast=Gibbs&amp;rft.aufirst=David&amp;rft.au=Gibbs%2C%26%2332%3BDavid&amp;rft.pages=pp.%26nbsp%3B624&amp;rft.place=United+Kingdom&amp;rft.pub=Pica+Press&amp;rft.isbn=1-873403-60-7&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DaeZXAAAACAAJ%26dq%3DPigeons%2Band%2BDoves%3A%2BA%2BGuide%2Bto%2Bthe%2BPigeons%2Band%2BDoves%2Bof%2Bthe%2BWorld&amp;rfr_id=info:sid/en.wikipedia.org:Stock_Dove"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Elosegui, 1985</span></li>
+<li id="cite_note-refA-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-refA_3-0">^</a></b></span> <span class="reference-text">oiseaux menacés et surveillés en France, LPO, 598 p., <a href="/wiki/Special:BookSources/2950654878" class="internal mw-magiclink-isbn">ISBN 2-9506548-7-8</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.mnhn.fr/mnhn/crbpo/r%E9sultats_etat_populations.htm">http://www.mnhn.fr/mnhn/crbpo/r%E9sultats_etat_populations.htm</a> ÉTAT DE SANTÉ DES POPULATIONS D’OISEAUX NICHEURS EN FRANCE DE 1989 À 2001 (état zéro du programme STOC)</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Yeatman-Berthelot, 1991, Enquête Atlas)</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=stock">"Online Etymology Dictionary stock (n.1)"</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">"Roland Newkirk, paragraph 5" <a rel="nofollow" class="external text" href="http://www.takeourword.com/TOW118/page2.html">"Words to the Wise"</a></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Stock_Dove&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/260_StockDoveCoenas.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 4406/1000000
+Preprocessor generated node count: 36429/1500000
+Post-expand include size: 26892/2048000 bytes
+Template argument size: 6081/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:197199-0!*!0!!en!4!* and timestamp 20121017173702 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Stock_Dove&amp;oldid=514973401">http://en.wikipedia.org/w/index.php?title=Stock_Dove&amp;oldid=514973401</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Columba_(genus)" title="Category:Columba (genus)">Columba (genus)</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stock+Dove&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stock+Dove" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Stock_Dove"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Stock_Dove"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Stock_Dove" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Stock_Dove&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stock_Dove&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stock_Dove" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stock_Dove" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Stock_Dove&amp;oldid=514973401" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Stock_Dove&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Stock_Dove&amp;id=514973401" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stock+Dove" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Stock+Dove&amp;oldid=514973401&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stock_Dove&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%A2%D1%85%D1%8C%D1%8D%D1%80%D1%8B%D0%BA%D1%8A%D1%83%D0%B0%D1%89%D1%85%D1%8A%D1%83%D1%8D" title="Тхьэрыкъуащхъуэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%A8%D8%B1%D9%8A" title="حمام بري" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Columba_oenas" title="Columba oenas" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Columba_oenas" title="Columba oenas" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%A3%D1%80%D0%BC%D0%B0%D0%BD_%D0%BA%D2%AF%D0%B3%D3%99%D1%80%D1%81%D0%B5%D0%BD%D0%B5" title="Урман күгәрсене" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9A%D0%BB%D1%96%D0%BD%D1%82%D1%83%D1%85" title="Клінтух" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D1%8A%D0%BB%D1%8A%D0%B1_%D1%85%D1%80%D0%B0%D0%BB%D1%83%D0%BF%D0%B0%D1%80" title="Гълъб хралупар" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Koulm" title="Koulm" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Xixella" title="Xixella" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Holub_doup%C5%88%C3%A1k" title="Holub doupňák" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Huldue" title="Huldue" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Hohltaube" title="Hohltaube" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/%C3%95%C3%B5netuvi" title="Õõnetuvi" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Columba_oenas" title="Columba oenas" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Trukolombo" title="Trukolombo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Txoloma" title="Txoloma" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Holud%C3%BAgva" title="Holudúgva" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pigeon_colombin" title="Pigeon colombin" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Golub_duplja%C5%A1" title="Golub dupljaš" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Columba_oenas" title="Columba oenas" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%A2%D2%AF%D0%B7%D0%BA%D0%B5%D0%BF%D1%82%D0%B5%D1%80" title="Түзкептер" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Uldukas" title="Uldukas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/K%C3%A9k_galamb" title="Kék galamb" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A5%D2%AF%D0%BD%D1%85%D1%8D%D0%BB_%D1%82%D0%B0%D0%B3%D1%82%D0%B0%D0%B0" title="Хүнхэл тагтаа" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Holenduif" title="Holenduif" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%90%E3%83%88" title="ヒメモリバト" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/D%C3%BCnemd%C3%BC%C3%BCw" title="Dünemdüüw" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Skogdue" title="Skogdue" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Columba_oenas" title="Columba oenas" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Siniak_(ptak)" title="Siniak (ptak)" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pombo-bravo" title="Pombo-bravo" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D1%82%D1%83%D1%85" title="Клинтух" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sq"><a href="//sq.wikipedia.org/wiki/P%C3%ABllumbi_i_pyllit" title="Pëllumbi i pyllit" lang="sq" hreflang="sq">Shqip</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Holub_pl%C3%BA%C5%BEik" title="Holub plúžik" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1_%D0%B4%D1%83%D0%BF%D1%99%D0%B0%D1%88" title="Голуб дупљаш" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Golub_duplja%C5%A1" title="Golub dupljaš" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Uuttukyyhky" title="Uuttukyyhky" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Skogsduva" title="Skogsduva" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/G%C3%B6k%C3%A7e_g%C3%BCvercin" title="Gökçe güvercin" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1-%D1%81%D0%B8%D0%BD%D1%8F%D0%BA" title="Голуб-синяк" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%AC%A7%E9%B8%BD" title="欧鸽" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 September 2012 at 09:41.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Stock_Dove&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv212 in 0.158 secs. -->
+	</body>
+</html>

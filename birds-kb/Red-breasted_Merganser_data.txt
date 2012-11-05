@@ -420,7 +420,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A6%E3%83%9F%E3%82%A2%E3%82%A4%E3%82%B5" title="ウミアイサ" lang="ja" hreflang="ja">日本語</a></li>
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Siland" title="Siland" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
 			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Siland" title="Siland" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
-			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B1%D8%AA%DB%8C_%DA%86%DA%BE%D8%A7%D8%AA%DB%8C_%D8%A2%D9%84%DB%8C_%D9%85%D8%B1%DA%AF%D8%A7%D9%86%D8%B3%D8%B1" title="رتی چھاتی آلی مرگانسر" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B1%D8%AA%DB%8C_%DA%86%DA%BE%D8%A7%D8%AA%DB%8C_%D8%A2%D9%84%DB%8C_%D9%85%D8%B1%DA%AF%D8%A7%D9%86%D8%B3%D8%B1" title="رتی چھاتی آلی مرگانسر" lang="pnb" hreflang="pnb">پنج��بی</a></li>
 			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Hurlard" title="Hurlard" lang="pcd" hreflang="pcd">Picard</a></li>
 			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Mergus_serrator" title="Mergus serrator" lang="pms" hreflang="pms">Piemontèis</a></li>
 			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Szlachar" title="Szlachar" lang="pl" hreflang="pl">Polski</a></li>

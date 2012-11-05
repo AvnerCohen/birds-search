@@ -1,1 +1,508 @@
-Scripts should use an informative User-Agent string with contact information, or they may be IP-blocked without notice.
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>European Pied Flycatcher - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="canonical" href="/wiki/European_Pied_Flycatcher" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"European_Pied_Flycatcher","wgTitle":"European Pied Flycatcher","wgCurRevisionId":519129326,"wgArticleId":352874,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Ficedula","Birds of Europe"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"European_Pied_Flycatcher","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Pied_Flycatcher","wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"0eb85fe4019e24711dff3fcf69a5fac2","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":352874,"title":"European Pied Flycatcher","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Europe","Ficedula","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-European_Pied_Flycatcher skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">European Pied Flycatcher</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Pied_Flycatcher&amp;redirect=no" title="Pied Flycatcher">Pied Flycatcher</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">European Pied Flycatcher</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve,_Scotland_-male-8a.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg/220px-Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg" width="220" height="275" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg/330px-Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg/440px-Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Adult male in Scotland</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Muscicapidae" title="Muscicapidae" class="mw-redirect">Muscicapidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Ficedula" title="Ficedula">Ficedula</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>F. hypoleuca</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Ficedula hypoleuca</i></span></b><br />
+<small>(<a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1764)</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>European Pied Flycatcher</b> (<i>Ficedula hypoleuca</i>) is a small <a href="/wiki/Passerine" title="Passerine">passerine</a> bird in the <a href="/wiki/Old_World_flycatcher" title="Old World flycatcher">Old World flycatcher</a> family, one of the four <a href="/wiki/Species" title="Species">species</a> of <a href="/wiki/Western_Palearctic_black-and-white_flycatchers" title="Western Palearctic black-and-white flycatchers">Western Palearctic black-and-white flycatchers</a>. It breeds in most of <a href="/wiki/Europe" title="Europe">Europe</a> and western <a href="/wiki/Asia" title="Asia">Asia</a>. It is <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, wintering mainly in western <a href="/wiki/Africa" title="Africa">Africa</a>. It hybridizes with the <a href="/wiki/Collared_Flycatcher" title="Collared Flycatcher">Collared Flycatcher</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mating_systems"><span class="tocnumber">2</span> <span class="toctext">Mating systems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Gender_difference_in_mating_behavior"><span class="tocnumber">2.1</span> <span class="toctext">Gender difference in mating behavior</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Breeding_dispersal"><span class="tocnumber">2.2</span> <span class="toctext">Breeding dispersal</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Evolution_of_polygyny"><span class="tocnumber">2.3</span> <span class="toctext">Evolution of polygyny</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#.22Sexy_Son.22_hypothesis"><span class="tocnumber">2.3.1</span> <span class="toctext">"Sexy Son" hypothesis</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Deception_hypothesis"><span class="tocnumber">2.3.2</span> <span class="toctext">Deception hypothesis</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Female_aggression_hypothesis"><span class="tocnumber">2.3.3</span> <span class="toctext">Female aggression hypothesis</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Parental_care"><span class="tocnumber">3</span> <span class="toctext">Parental care</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Status_in_Britain"><span class="tocnumber">4</span> <span class="toctext">Status in Britain</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Lifecycle"><span class="tocnumber">5</span> <span class="toctext">Lifecycle</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Management_and_conservation"><span class="tocnumber">6</span> <span class="toctext">Management and conservation</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Grant_funding_for_conservation"><span class="tocnumber">7</span> <span class="toctext">Grant funding for conservation</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ficedula_hypoleuca_IMG_4747.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ficedula_hypoleuca_IMG_4747.JPG/220px-Ficedula_hypoleuca_IMG_4747.JPG" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ficedula_hypoleuca_IMG_4747.JPG/330px-Ficedula_hypoleuca_IMG_4747.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ficedula_hypoleuca_IMG_4747.JPG/440px-Ficedula_hypoleuca_IMG_4747.JPG 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ficedula_hypoleuca_IMG_4747.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Adult female in <a href="/wiki/Sweden" title="Sweden">Sweden</a>.</div>
+</div>
+</div>
+<p>This is a 12-13.5&#160;cm long bird. The breeding male is mainly black above and white below, with a large white wing patch, white tail sides and a small forehead patch. The Iberian <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> <i>iberiae</i> (known as <b>Iberian Pied Flycatcher</b>) has a larger forehead patch and a pale rump. Non-breeding males, females and juveniles have the black replaced by a pale brown, and may be very difficult to distinguish from other <i>Ficedula</i> flycatchers, particularly the <a href="/wiki/Collared_Flycatcher" title="Collared Flycatcher">Collared Flycatcher</a>, with which this species <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybridizes</a> to a limited extent.<sup id="cite_ref-parkin_1-0" class="reference"><a href="#cite_note-parkin-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The bill is black, and has the broad but pointed shape typical of aerial insectivores. As well as taking insects in flight, this species hunts <a href="/wiki/Caterpillar" title="Caterpillar">caterpillars</a> amongst the oak foliage, and will take berries. It is therefore a much earlier spring migrant than the more aerial <a href="/wiki/Spotted_Flycatcher" title="Spotted Flycatcher">Spotted Flycatcher</a>, and its loud rhythmic and melodious song is characteristic of oak woods in spring.</p>
+<p>They are birds of deciduous woodlands, parks and gardens, with a preference for <a href="/wiki/Oak" title="Oak">oak</a> trees. They build an open nest in a tree hole, and will readily adapt to an open-fronted nest box. 4-10 eggs are laid.</p>
+<p>The very similar <a href="/wiki/Atlas_Flycatcher" title="Atlas Flycatcher" class="mw-redirect">Atlas Flycatcher</a> (<i>Ficedula speculigera</i>), of the mountains of north west <a href="/wiki/Africa" title="Africa">Africa</a> was formerly classed as subspecies of the Pied Flycatcher.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=2" title="Edit section: Mating systems">edit</a>]</span> <span class="mw-headline" id="Mating_systems">Mating systems</span></h2>
+<p>The European pied flycatcher predominately practices a mixed mating system of <a href="/wiki/Monogamy" title="Monogamy">monogamy</a> and <a href="/wiki/Polygyny" title="Polygyny">polygyny</a>. Von Haartman specifically described the mating behaviour of the pied flycatcher as successive polygyny.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> Within the latter system, the males leave their home territory once their primary female lays her first egg. Males then create a second territory, presumably in order to attract a secondary female to breed. Even when they succeed at acquiring a second mate, the males typically return to the first female to exclusively provide for her and her offspring.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> Alatalo and Lundberg cited Askenmo and Winkel &amp; Winkel stating that males will sometimes care for both mates if the nests of the primary and secondary female are close together. The male may also care for both mates once the offspring of the primary female have <a href="/wiki/Fledged" title="Fledged" class="mw-redirect">fledged</a>. Alatalo and Lundberg also write that the polygyny of the pied flycatcher usually does not exceed two mates. They stated that only two cases of trigyny had been observed.<sup id="cite_ref-atalalo_4-0" class="reference"><a href="#cite_note-atalalo-4"><span>[</span>5<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=3" title="Edit section: Gender difference in mating behavior">edit</a>]</span> <span class="mw-headline" id="Gender_difference_in_mating_behavior">Gender difference in mating behavior</span></h3>
+<p>The male mating behavior has two key characteristics: desertion of the primary female and polyterritoriality. Firstly, the male travels large distances to find his second mate, an average of 200m to 3.5km. After breeding with this secondary female, the male will then desert her to return to his first mate. Secondly, the males of this species are polyterritorial; the males will acquire multiple nest sites to attract a female. Upon breeding with this first female, the male will procure more nesting sites, typically some distance from the site of the primary female, in order to attract a second female for mating. The males that have better success at polygyny are typically larger, older and more experienced at arriving earlier to the mating sites.<sup id="cite_ref-jstor_5-0" class="reference"><a href="#cite_note-jstor-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The female behaviour has also been studied in depth, especially due to the fact that some females accept polygyny while others are able to maintain monogamous relationships. The first female in a polygynous relationship does not suffer much in comparison to females in monogamous situations. These primary females gain greater reproductive success because they are able to secure full-time help from the male once he returns from his search for a second mate. The second female, however, often suffers from polygyny. These females have 60% less offspring than females that are in a monogamous relationship.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> Evidence suggests that it is evolutionarily advantageous for the secondary female to lay a smaller clutch. The smaller clutch ensures that she, and subsequently the deserting male, has a higher percentage of reproductive success, especially given that she rears the offspring herself.<sup id="cite_ref-jstor_5-1" class="reference"><a href="#cite_note-jstor-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>Another behavior that is relatively frequent in pied flycatchers is the practice of extra-pair copulations. <a href="/wiki/Extra-pair_copulation" title="Extra-pair copulation" class="mw-redirect">Extra-pair copulation</a> (EPC) specifically refers to the mating of an already paired male with an already-paired female. The male typically forces this on the female. It is hypothesized that the male benefits from the fact that his genes will be propagated in offspring that another male raises. Thus, the male practicing EPC will have a group of offspring raised successfully without any parental investment on his part. The female may benefit from EPC if the second male is judged to have superior genes to the original male. Another benefit that EPC adds is that there is an increase in genetic variability. However, females are not typically very welcoming of EPC. A female that is being pursued for an EPC will either passively allow the male to copulate with her, or will resist it and risk injury due to the male’s aggression.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=4" title="Edit section: Breeding dispersal">edit</a>]</span> <span class="mw-headline" id="Breeding_dispersal">Breeding dispersal</span></h3>
+<p>In an experiment conducted from 1948 to 1964 in the <a href="/wiki/Forest_of_Dean" title="Forest of Dean">Forest of Dean</a> in <a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a>, two hundred and fifty nest boxes were carefully recorded of their locations and analyzed for their inhabitance.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup> The median breeding dispersal of the pied flycatcher ranges from about 52 to 133 meters, with the average distance between nest sites being about 45 meters. This distance was typically dependent on the breeding density in each year. The study found little evidence to suggest a difference in breeding dispersal between years or between monogamous and polygynous males. As a result, the data for the separate categories could be combined. The breeding dispersal over longer distances could result in both mate fidelity as well as mate change, the latter of which occurs either while the previous mate is still alive, or following the death of the mate. The breeding dispersal distances of birds that survive more than three breeding seasons were studied, and the results showed that the site fidelity increased with more successive breeding attempts. The same long-term study also found that older pied flycatchers, both male and female, were more likely to move shorter distances between breeding seasons than younger birds were. When mates were observed to re-establish their pair bond, they tended to occupy certain areas that were near the nest site established in the previous breeding season. In addition, female birds were less likely to return to a former breeding site following the death of, or divorce from, their former partner. When a pair divorces, the females have been observed to move greater distances away than the males. As a result, females that keep the same mates from year to year end up moving shorter distances for each mating period than those that divorce. Divorce has little influence on the likelihood of males moving away from their original nest site. The study found that males that keep the same mate do not move significantly smaller distances than males that divorce.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=5" title="Edit section: Evolution of polygyny">edit</a>]</span> <span class="mw-headline" id="Evolution_of_polygyny">Evolution of polygyny</span></h3>
+<p>Since most bird species exhibit monogamous mating behaviours, the polygynous behavior of the pied flycatcher has sparked much research. There are three main hypotheses that seek to explain why female pied flycatchers settle polygynously when it lowers their overall <a href="/wiki/Fitness_(biology)" title="Fitness (biology)">fitness</a> and <a href="/wiki/Reproductive_success" title="Reproductive success">reproductive success</a> compared to a monogamous relationship.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
+<h4><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=6" title="Edit section: &quot;Sexy Son&quot; hypothesis">edit</a>]</span> <span class="mw-headline" id=".22Sexy_Son.22_hypothesis">"Sexy Son" hypothesis</span></h4>
+<p>The first hypothesis is the <a href="/wiki/Sexy_son_hypothesis" title="Sexy son hypothesis">"sexy son" hypothesis</a> which asserts that although females experience an initial reproductive loss with their first generation, the reproductive success of the second generation compensates for the initial loss. The second generation of males is thought to be privileged because it will inherit the increased mating ability, or attractiveness, from their fathers and thus will have high success in procuring mates upon maturation. Since these "sexy sons" are projected to have heightened reproductive success, the secondary female’s reproductive success is in turn improved. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> Alatalo and Lundberg refuted this theory, stating that offspring born to secondary females suffered from poor nutrition, which resulted in shorter [Tarsus (skeleton)|tarsi] and lower weights than the progeny of primary and monogamous females. These phenotypic traits contribute to lesser success in mate acquisition, rejecting the “sexy son” hypothesis.<sup id="cite_ref-atalalo_4-1" class="reference"><a href="#cite_note-atalalo-4"><span>[</span>5<span>]</span></a></sup></p>
+<h4><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=7" title="Edit section: Deception hypothesis">edit</a>]</span> <span class="mw-headline" id="Deception_hypothesis">Deception hypothesis</span></h4>
+<p>The second hypothesis claims that <a href="/wiki/Deception" title="Deception">deception</a> from the male flycatcher may explain a female's choice to mate with an already-mated male despite the relative decrease in reproductive success.<sup id="cite_ref-jstor_5-2" class="reference"><a href="#cite_note-jstor-5"><span>[</span>6<span>]</span></a></sup> The deception arises from the polyterritoriality of the males, meaning that the males are able to deceive the females through the use of separate territories. This hypothesis has been used to describe why males have developed polyterritorial behaviour. The typical long distances between nest sites suggest that males acquire multiple nest sites to facilitate the deception of the secondary female.<sup id="cite_ref-atalalo_4-2" class="reference"><a href="#cite_note-atalalo-4"><span>[</span>5<span>]</span></a></sup> A study showed that females will leave the male upon discovering that he is already mated, as long as she discovers this fact before laying season. <sup id="cite_ref-jstor_5-3" class="reference"><a href="#cite_note-jstor-5"><span>[</span>6<span>]</span></a></sup> However, another experiment with pied flycatchers in Norway produced results that refute the deception hypothesis. <sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> The secondary female pied flycatchers in their study raised larger clutches than primary females. The study also showed that deception is not an <a href="/wiki/Evolutionarily_stable_strategy" title="Evolutionarily stable strategy">evolutionarily stable strategy</a> for males, because secondary females would notice the frequent visits to the primary females and then elect to choose another mate. According to the deception hypothesis, already-mated males display polyterritorial behavior that increases their chances of acquiring another mate. Unmated males were shown to display mating behavior, consisting mostly of singing, at their nest site. On the other hand, already-mated males would need to disrupt their singing at their secondary territories in order to return to their primary nest. This can occur both before and after the time of their second mating.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> As a result, it decreases the chance that females would be deceived, leading to an evolutionarily unstable strategy.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
+<h4><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=8" title="Edit section: Female aggression hypothesis">edit</a>]</span> <span class="mw-headline" id="Female_aggression_hypothesis">Female aggression hypothesis</span></h4>
+<p>The conclusion of Stenmark et al.’s study leads to the third hypothesis, which asserts that females settle for polygyny because it is hard to find unmated males.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup> This theory assumes that there is aggression between females to find mates and asserts that polyterritoriality actually helps to alleviate this aggression, allowing the second female a place to settle and breed peacefully. <sup id="cite_ref-DaviesNicholas_16-0" class="reference"><a href="#cite_note-DaviesNicholas-16"><span>[</span>17<span>]</span></a></sup> Although the deception hypothesis suggests that males are more successful at farther secondary territories because they can hide their marital status, the female-female aggression suggests that males occupy distant secondary territories to reduce aggression between the primary and secondary females. Primary females display aggression and prevent other females from settling near the initial nest to ensure that they acquire the male <a href="/wiki/Parental_care" title="Parental care" class="mw-redirect">parental care</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> Primary females were seen in experiments to visit the second territory and behave aggressively towards the secondary female. The number of such visits decreased with increasing distance between the nests. It is also important for the primary female to be able to detect an intruding female as soon as possible, because the longer the intruder has been present in a territory, the more difficult it will be to evict the female. Female flycatchers are known to have the capacity to identify the songs of their own mates and check if they establish a second territory. The primary male was also shown to spend less time in the second territories during incubation periods than before they acquired a secondary mate, especially with greater distances between the two territories.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> <sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup> <sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=9" title="Edit section: Parental care">edit</a>]</span> <span class="mw-headline" id="Parental_care">Parental care</span></h2>
+<p>Studies were also done to examine the amount of contribution the male pied flycatcher provided in parental care as well as why some females choose to mate with mated males. <sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> When older and younger monogamous males were compared, there was no difference in feeding rate between each nest. When females were studied, scientists found that monogamous and primary females benefited significantly more from the male in terms of parental care than polygynous females did. The latter group could only partially compensate for the absence of a male, leading to secondary females and widows raising fewer offspring than the monogamous pairs did. In the study, differences in mates and the qualities of the territories were slight and therefore not considered, since they lead to no advantages for females to choose between the territories belonging to monogamous or already-mated males. The results of the study suggest that the males can control multiple territories and are thus able to deceive females into accepting polygyny, while the females do not have enough time to discover the marital status of the males.</p>
+<p>In terms of male parental care to clutches, the rate of male incubation feeding was directly related to the physical condition of the males, and negatively correlated with the ambient temperature. Polygynously mated females also received far less feeds than monogamously mated females, despite having no difference in the food delivery rates by the male. The reduction in delivery rate to the polygynously mated females led to a negative effect on their incubation efficiency, because the females needed to spend more time away from the nest acquiring food. This also prolonged the incubation period when compared to monogamous females. The male feeding behavior is related to the reproductive value as represented by the nests, as well as to the costs and benefits of incubation feeding. <sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=10" title="Edit section: Status in Britain">edit</a>]</span> <span class="mw-headline" id="Status_in_Britain">Status in Britain</span></h2>
+<p>It has on average decreased in population by 25% within the last 25 years. It has ceased to breed in several parts of its former range within <a href="/wiki/United_Kingdom" title="United Kingdom">Britain</a>. (It has never been more than a rare and irregular breeder in Ireland.) Records of its location can be found on that National Biodiversity Network here <a rel="nofollow" class="external autonumber" href="http://data.nbn.org.uk/gridMap/gridMap.jsp?allDs=1&amp;srchSpKey=NHMSYS0000530362">[1]</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=11" title="Edit section: Lifecycle">edit</a>]</span> <span class="mw-headline" id="Lifecycle">Lifecycle</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ficedula_hypoleuca-female.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ficedula_hypoleuca-female.jpg/220px-Ficedula_hypoleuca-female.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ficedula_hypoleuca-female.jpg/330px-Ficedula_hypoleuca-female.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ficedula_hypoleuca-female.jpg/440px-Ficedula_hypoleuca-female.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ficedula_hypoleuca-female.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Female in a <a href="/wiki/Nestbox" title="Nestbox" class="mw-redirect">nestbox</a> in Finland</div>
+</div>
+</div>
+<ul>
+<li>mid-September to mid-April: lives in sub Saharan <a href="/wiki/Africa" title="Africa">Africa</a></li>
+<li>mid April to end of May: migrates and arrives in countries such as the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li>
+<li>June to August: breeding season, one <a href="/w/index.php?title=Brood_only&amp;action=edit&amp;redlink=1" class="new" title="Brood only (page does not exist)">brood only</a></li>
+<li>August to mid September: flies back to sub Saharan Africa</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=12" title="Edit section: Management and conservation">edit</a>]</span> <span class="mw-headline" id="Management_and_conservation">Management and conservation</span></h2>
+<p>They breed in upland broadleaf woodland. This means that in <a href="/wiki/United_Kingdom" title="United Kingdom">Britain</a> they are limited due to geography to the North and West. They prefer mature <a href="/wiki/Oak" title="Oak">oak</a> woodland, but also breed in mature upland <a href="/wiki/Fraxinus" title="Fraxinus">ash</a> and <a href="/wiki/Birch" title="Birch">birch</a> woods.</p>
+<p>They require very high horizontal visibility - a low abundance of shrub and understorey, but with high proportion of <a href="/wiki/Moss" title="Moss">moss</a> and <a href="/wiki/Grass" title="Grass">grass</a>. <a href="/wiki/Grazing" title="Grazing">Grazing</a> needs to be managed to maintain this open character, but also allow the occasional replacement trees.</p>
+<p>They will sometimes use mature open <a href="/wiki/Conifer" title="Conifer" class="mw-redirect">conifer</a> woodland where natural tree holes occur. Generally they prefer trees that have tree holes, i.e. dead trees, or dead limbs on healthy trees. They also like <a href="/wiki/Lichen" title="Lichen">lichens</a> that grow on trees.</p>
+<p>Nest boxes are not likely to be required.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=13" title="Edit section: Grant funding for conservation">edit</a>]</span> <span class="mw-headline" id="Grant_funding_for_conservation">Grant funding for conservation</span></h2>
+<p>The <a href="/wiki/Forestry_Commission" title="Forestry Commission">Forestry Commission</a> offers grants under a scheme called England's Woodland Improvement Grant (EWIG); as does <a href="/wiki/Natural_England" title="Natural England">Natural England</a>'s <a href="/wiki/Environmental_Stewardship" title="Environmental Stewardship" class="mw-redirect">Environmental Stewardship</a> Scheme.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=14" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106006512">"<i>Ficedula hypoleuca</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106006512">http://www.iucnredlist.org/apps/redlist/details/106006512</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Ficedula+hypoleuca%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106006512&amp;rfr_id=info:sid/en.wikipedia.org:European_Pied_Flycatcher"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-parkin-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-parkin_1-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Parkin, David T. (2003). "Birding and DNA: species for the new millennium". <i>Bird Study</i> <b>50</b> (3): 223–242. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1080%2F00063650309461316">10.1080/00063650309461316</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Birding+and+DNA%3A+species+for+the+new+millennium&amp;rft.jtitle=Bird+Study&amp;rft.aulast=Parkin&amp;rft.aufirst=David+T.&amp;rft.au=Parkin%2C%26%2332%3BDavid+T.&amp;rft.date=2003&amp;rft.volume=50&amp;rft.issue=3&amp;rft.pages=223%E2%80%93242&amp;rft_id=info:doi/10.1080%2F00063650309461316&amp;rfr_id=info:sid/en.wikipedia.org:European_Pied_Flycatcher"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">2. von Haartman, Lars. “Successive Polygamy.” Behaviour 3.4 (1951): 256-274. JSTOR. BRILL. Washington University in St. Louis Lib., St. Louis. 09 Oct. 2012 &lt;<a rel="nofollow" class="external free" href="http://www.jstor.org/stable/4532732">http://www.jstor.org/stable/4532732</a>&gt;</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">3. Silverin, Bengt. “EFFECTS OF LONG-ACTING TESTOSTERONE TREATMENT ON FREELIVING PIED FLYCATCHERS, FICEDULA HYPOLEUCA, DURING THE BREEDING PERIOD.” Animal Behaviour 28.3 (1980): 906-912. Washington University in St. Louis Lib., St. Louis. 09 Oct. 2012</span></li>
+<li id="cite_note-atalalo-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-atalalo_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-atalalo_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-atalalo_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Alatalo, Rauno V. and Arne Lundberg. “Polyterritorial polygyny in the pied flycatcher ficedula hypoleuca- evidence for the deception hypothesis.” Annales Zoologici Fennici 21 (1984): 217-228. 09 Oct. 2012 &lt;<a rel="nofollow" class="external free" href="http://www.sekj.org/PDF/anzf21/anzf21-217-228.pdf">http://www.sekj.org/PDF/anzf21/anzf21-217-228.pdf</a>&gt;.</span></li>
+<li id="cite_note-jstor-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-jstor_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jstor_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-jstor_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-jstor_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Alatalo, Rauno V.; Carlson, Allan; Lundberg, Arne; Ulfstrand, Staffan (1981). "The Conflict Between Male Polygamy and Female Monogamy: The Case of the Pied Flycatcher <i>Ficedula hypoleuca</i>". <i>The American Naturalist</i> <b>117</b> (5): 738–753. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1086%2F283756">10.1086/283756</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Conflict+Between+Male+Polygamy+and+Female+Monogamy%3A+The+Case+of+the+Pied+Flycatcher+%27%27Ficedula+hypoleuca%27%27&amp;rft.jtitle=The+American+Naturalist&amp;rft.aulast=Alatalo&amp;rft.aufirst=Rauno+V.&amp;rft.au=Alatalo%2C%26%2332%3BRauno+V.&amp;rft.date=1981&amp;rft.volume=117&amp;rft.issue=5&amp;rft.pages=738%E2%80%93753&amp;rft_id=info:doi/10.1086%2F283756&amp;rfr_id=info:sid/en.wikipedia.org:European_Pied_Flycatcher"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">6. Lundberg, Arne, Rauno V. Alatalo, Allan Carlson, and Staffan Ulfstrand. “Biometry, habitat distribution and breeding success in the pied flycatcher ficedula hypoleuca.” Ornis Scandinavica 12.1 (1981): 68-79. Wiley-Blackwell. Nordic Society Oikos. Washington University in St. Louis Lib., St. Louis. 09 Oct. 2012 &lt;<a rel="nofollow" class="external free" href="http://www.jstor.org/stable/10.2307/3675907">http://www.jstor.org/stable/10.2307/3675907</a>&gt;</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">7. Alatalo, Rauno V., Karin Gottlander, and Arne Lundberg. “Extra-pair copulations and mate-guarding in the polyterritorial pied flycatcher, Ficedula hypoleuca.” Behaviour 101.1/3 (1987): 139-155. JSTOR. BRILL. Washington University in St. Louis Lib., St. Louis. 09 Oct. 201 &lt;<a rel="nofollow" class="external free" href="http://www.jstor.org/stable/4534593?seq=1">http://www.jstor.org/stable/4534593?seq=1</a>&gt;</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Harvey, P. H., Greenwood, P. J., Campbell, B., Stenning, M. J. (1984) Breeding dispersal of the pied flycatcher (Ficedula hypoleuca). Journal of Animal Ecology</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Orians, G. H. (1969) On the evolution of mating systems in birds and mammals. The American Naturalist</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">8. Weatherhead, Patrick J. and Raleigh J. Robertson. “Offspring quality and the polygyny threshold: ‘the sexy son hypothesis’.” The American Naturalist 113.2 (1979): 201-208. The University of Chicago Press. The American Society of Naturalists. Washington University in St. Louis Lib., St. Louis. 09 Oct. 2012 &lt;<a rel="nofollow" class="external free" href="http://www.jstor.org/stable/2460199?seq=5">http://www.jstor.org/stable/2460199?seq=5</a>&gt;</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">9. Stenmark, Geir, Tore Slagsvold, and Jan T. Lifjeld. “Polygyny in the pied flycatcher, Ficedula hypoleuca: a test of the deception hypothesis.” Animal Behaviour 36.6 (1988): 1646-1657. Washington University in St. Louis Lib., St. Louis. 09 Oct. 2012 &lt;<a rel="nofollow" class="external free" href="http://www.sciencedirect.com/science/article/pii/S0003347288801052">http://www.sciencedirect.com/science/article/pii/S0003347288801052</a>&gt;</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Lampe, H. M., Slagsvold, T. (1994) Individual recognition based on male song in a female bird. J. Ornithol. Suppl</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Dale, S., Slagsvold, T. (1994) Polygyny and deception in the pied flycatcher: can females determine male mating status? Animal Behavior</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Stenmark, Geir, Tore Slagsvold, and Jan T. Lifjeld. “Polygyny in the pied flycatcher, Ficedula hypoleuca: a test of the deception hypothesis.” Animal Behaviour 36.6 (1988): 1646-1657. Washington University in St. Louis Lib., St. Louis. 09 Oct. 2012 &lt;<a rel="nofollow" class="external free" href="http://www.sciencedirect.com/science/article/pii/S0003347288801052">http://www.sciencedirect.com/science/article/pii/S0003347288801052</a>&gt;</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Dale, Svein, Trond Amundsen, Jan T. Lifjeld, and Tore Slagsvold. “Mate Sampling Behaviour of Female Pied Flycatchers: Evidence for Active Mate Choice.” Behavioral Ecology and Sociobiology 27.2 (1990): 87-91. JSTOR. Springer. Washington University in St. Louis Lib., St. Louis. 09 Oct. 2012 &lt;<a rel="nofollow" class="external free" href="http://www.jstor.org/stable/10.2307/4600449">http://www.jstor.org/stable/10.2307/4600449</a>&gt;</span></li>
+<li id="cite_note-DaviesNicholas-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-DaviesNicholas_16-0">^</a></b></span> <span class="reference-text">1. Davies, Nicholas B., John R. Krebs, and Stuart A. West. An Introduction to Behavioural Ecology. 4th ed. John Wiley &amp; Sons, 2012. Print.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Kilpimaa, J., Alatalo, R. V., Ratti, O., Siikamaki, P. (1995) Do pied flycatcher females guard their monogamous status? Animal Behavior</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Ratti, O., Alatalo, R. V., Kilpimaa, J., Siikamaki, P. (1995) Does female-female aggression explain male polyterritoriality in the pied flycatcher? A reply to Slagsvold &amp; Dale. Animal Behavior</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Slagsvold, T., Amundsen, T., Dale, S., Lampe, H. (1992) Female-female aggression explains polyterritoriality in male pied flycatchers. Animal Behavior</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Slagsvold, T., Dale, S. (1995) Polygyny and female aggression in the pied flycatcher: a comment on Ratti et al. Animal Behavior</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">1. Alatalo, R. V., Lundberg, A., Stahlbrandt, K. (1982) Why do pied flycatcher females mate with already-mated males? Animal Behavior</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Lifjeld, J. T., Slagsvold, T. (1990) Manipulations of male parental investment in polygynous pied fly-catchers Behavioral Ecology</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">RSPB Woodland Management For Birds - Pied Flycatcher</span></li>
+</ol>
+</div>
+<p><br /></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/387_PiedFlycatcherFhypoleuca.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bsc-eoc.org/avibase/species.jsp?lang=EN&amp;id=97F9C53ACF6FEF18&amp;ts=1220606924050&amp;sec=summary">Avibase</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.oiseaux.net/birds/photos/pied.flycatcher.html">Oiseaux</a> Images.</li>
+<li><a rel="nofollow" class="external text" href="http://www.rspb.org.uk/wildlife/birdguide/name/p/piedflycatcher/index.aspx">RSPB Website Description</a></li>
+<li><a rel="nofollow" class="external text" href="http://sounds.bl.uk/View.aspx?item=022M-W1CDR0001406-0200V0.xml">Song of a Pied Flycatcher</a> - a British Library sound recording</li>
+</ul>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Ficedula_hypoleuca" class="extiw" title="commons:Ficedula hypoleuca">Ficedula hypoleuca</a></b></i></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5644/1000000
+Preprocessor generated node count: 39041/1500000
+Post-expand include size: 32127/2048000 bytes
+Template argument size: 7116/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:352874-0!*!0!!en!4!* and timestamp 20121101192453 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=European_Pied_Flycatcher&amp;oldid=519129326">http://en.wikipedia.org/w/index.php?title=European_Pied_Flycatcher&amp;oldid=519129326</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Ficedula" title="Category:Ficedula">Ficedula</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pied+Flycatcher&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pied+Flycatcher" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/European_Pied_Flycatcher"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:European_Pied_Flycatcher"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/European_Pied_Flycatcher" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/European_Pied_Flycatcher" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/European_Pied_Flycatcher" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=European_Pied_Flycatcher&amp;oldid=519129326" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=European_Pied_Flycatcher&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=European_Pied_Flycatcher&amp;id=519129326" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=European+Pied+Flycatcher" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=European+Pied+Flycatcher&amp;oldid=519129326&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=European_Pied_Flycatcher&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%96%D1%8C%D1%8B%D0%BA%D1%8A%D0%B0%D0%BD%D0%BA%D1%8A%D1%83%D1%8D%D0%BB%D1%8D%D0%BD" title="Жьыкъанкъуэлэн" lang="kbd" hreflang="kbd">Ады��эбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AE%D8%B7%D8%A7%D9%81_%D8%A7%D9%84%D8%B0%D8%A8%D8%A7%D8%A8_%D8%A3%D8%A8%D9%82%D8%B9" title="خطاف الذباب أبقع" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Ficedula_hypoleuca" title="Ficedula hypoleuca" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0_%D1%81%D0%B5%D0%B1%D0%B5%D0%BD_%D1%82%D1%83%D1%80%D2%93%D0%B0%D0%B9%D1%8B" title="Ала себен турғайы" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%96%D0%B0%D0%BB%D0%BE%D0%B1%D0%BD%D0%B0_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0" title="Жалоб��а мухоловка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Flouperig_brizh" title="Flouperig brizh" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Mastegatatxes" title="Mastegatatxes" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Lejsek_%C4%8Dernohlav%C3%BD" title="Lejsek černohlavý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Gwybedog_Brith" title="Gwybedog Brith" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Broget_fluesnapper" title="Broget fluesnapper" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Trauerschn%C3%A4pper" title="Trauerschnäpper" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Ficedula_hypoleuca" title="Ficedula hypoleuca" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Blanknigra_mu%C5%9Dkaptulo" title="Blanknigra muŝkaptulo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Euli-txori_arrunt" title="Euli-txori arrunt" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Flekkun%C3%A1pur" title="Flekkunápur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Gobemouche_noir" title="Gobemouche noir" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/B%C3%BBnte_Miggesnapper" title="Bûnte Miggesnapper" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Ficedula_hypoleuca" title="Ficedula hypoleuca" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Margasparn%C4%97_musinuk%C4%97" title="Margasparnė musinukė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kormos_l%C3%A9gykap%C3%B3" title="Kormos légykapó" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Bonte_vliegenvanger" title="Bonte vliegenvanger" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Suart_fleegensnaper" title="Suart fleegensnaper" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Svarthvit_fluesnapper" title="Svarthvit fluesnapper" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Svartkvit_flugesnappar" title="Svartkvit flugesnappar" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Ficedula_hypoleuca" title="Ficedula hypoleuca" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Mucho%C5%82%C3%B3wka_%C5%BCa%C5%82obna" title="Muchołówka żałobna" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Papa-moscas-preto" title="Papa-moscas-preto" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BF%D0%B5%D1%81%D1%82%D1%80%D1%83%D1%88%D0%BA%D0%B0" title="Мухоловка-пеструшка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/Girjelivkk%C3%A1r" title="Girjelivkkár" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kirjosieppo" title="Kirjosieppo" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Svartvit_flugsnappare" title="Svartvit flugsnappare" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kara_sinekkapan" title="Kara sinekkapan" lang="tr" hreflang="tr">Türkçe</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 October 2012 at 02:45.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Pied_Flycatcher&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv287 in 0.143 secs. -->
+	</body>
+</html>

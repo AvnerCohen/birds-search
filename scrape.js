@@ -1,32 +1,53 @@
 // This job will be reposible for scraping the birds list of the israbirding.com site.
 // Once scraped, it will spawn a number of child process (based on number of cpus?) to scrape
 // Wikipedia for the pages of each of the species.
-var request = require('request');
 var async = require('async');
 var nodeio = require('node.io');
 var fs = require('fs');
 var path = require('path');
 var log = require("./log").log;
+var http =require("http");
 
+var http = require('http');
+var options = {
+  host: 'en.wikipedia.org',
+  // port: 80,
+  path: '',
+  headers: {"user-agent": "BirdData/1.1 (http://www.israbirding.com/; israbirding@gmail.com)"}
+};
 
-request.defaults({
-    "User-Agent": "BirdData/1.1 (http://www.israbirding.com/; israbirding@gmail.com)"
-});
 
 function parseSpeciesName(orig) {
     return (orig.replace(/\ /g, "_"));
 }
 
 function scrapeWikiPage(species_name) {
-    //Second cycle.. Scrape and save only data is not already present
-    var filename = "./birds-kb/" + species_name + "_data.txt";
-    var stats = fs.lstatSync(filename);
-    if (!stats || stats.size < 121) {
-        console.log(species_name + "::1-Scraping");
-        request('http://en.wikipedia.org/wiki/' + species_name).pipe(fs.createWriteStream(filename));
-    } else {
-        log(species_name + "::0-Skipped scraping");
-    }
+
+  var filename = "./birds-kb/" + species_name + "_data.txt";
+
+  options.path="/wiki/" + species_name;
+  var data ="";
+    http.get(options, function(res) {
+    res.on("data", function(chunk) {
+       data +=chunk;
+    });
+    res.on("end", function(){
+      fs.writeFileSync(filename, data, "utf8");})
+    }).on('error', function(e) {
+    log("Got error: " + e.message);
+  });
+    // //Second cycle.. Scrape and save only data is not already present
+    // var filename = "./birds-kb/" + species_name + "_data.txt";
+    // var uri = 'http://en.wikipedia.org/wiki/' + species_name;
+
+    // var exists = fs.existsSync(filename);
+    // var stats = exists && fs.lstatSync(filename);
+    // if (!stats || stats.size < 121) {
+    //     console.log(filename + "::"+ uri +"::1-Scraping");
+    //     request(uri).pipe();
+    // } else {
+    //     log(species_name + "::0-Skipped scraping");
+    // }
 }
 
 

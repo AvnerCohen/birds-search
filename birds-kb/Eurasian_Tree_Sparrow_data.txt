@@ -839,7 +839,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Poljski_vrabac" title="Poljski vrabac" lang="hr" hreflang="hr">Hrvatski</a></li>
 			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Burung-gereja_Erasia" title="Burung-gereja Erasia" lang="id" hreflang="id">Bahasa Indonesia</a></li>
 			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Passer_montanus" title="Passer montanus" lang="it" hreflang="it">Italiano</a></li>
-			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%AF%E0%B3%81%E0%B2%B0%E0%B3%87%E0%B2%B6%E0%B2%BF%E0%B2%AF%E0%B2%A8%E0%B3%8D_%E0%B2%9F%E0%B3%8D%E0%B2%B0%E0%B3%80_%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%B0%E0%B3%8B" title="ಯುರೇಶಿಯನ್ ಟ್ರೀ ಸ್ಪ್ಯಾರೋ" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%AF%E0%B3%81%E0%B2%B0%E0%B3%87%E0%B2%B6%E0%B2%BF%E0%B2%AF%E0%B2%A8%E0%B3%8D_%E0%B2%9F%E0%B3%8D%E0%B2%B0%E0%B3%80_%E0%B2%B8%E0%B3%8D%E0%B2%AA%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%B0%E0%B3%8B" title="ಯುರೇಶಿಯನ್ ಟ್ರೀ ���್ಪ್ಯಾರೋ" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li>
 			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Beytika_dahlan" title="Beytika dahlan" lang="ku" hreflang="ku">Kurdî</a></li>
 			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Karkla%C5%BEvirblis" title="Karklažvirblis" lang="lt" hreflang="lt">Lietuvių</a></li>
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Mezei_ver%C3%A9b" title="Mezei veréb" lang="hu" hreflang="hu">Magyar</a></li>

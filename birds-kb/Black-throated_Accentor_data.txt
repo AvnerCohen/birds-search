@@ -320,7 +320,7 @@ Expensive parser function count: 1/500
 	<h5>Languages</h5>
 	<div class="body">
 		<ul>
-			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D3%80%D1%8B%D0%BA%D1%8A%D1%8B%D1%80%D0%B6%D1%8C%D1%8D%D0%B3%D1%8A%D1%83%D1%84%D3%80%D1%8B%D1%86%D3%80%D1%8D" title="КӀыкъыржьэгъуфӀыцӀэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D3%80%D1%8B%D0%BA%D1%8A%D1%8B%D1%80%D0%B6%D1%8C%D1%8D%D0%B3%D1%8A%D1%83%D1%84%D3%80%D1%8B%D1%86%D3%80%D1%8D" title="КӀыкъыржьэгъуфӀыцӀэ" lang="kbd" hreflang="kbd">Ад��гэбзэ</a></li>
 			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D8%B5%D9%81%D9%88%D8%B1_%D8%A7%D9%84%D8%B4%D9%88%D9%83_%D8%A3%D8%B3%D9%88%D8%AF_%D8%A7%D9%84%D8%B1%D9%82%D8%A8%D8%A9" title="عصفور الشوك أسود الرقبة" lang="ar" hreflang="ar">العربية</a></li>
 			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Gwrac%27hig_gouzoug_du" title="Gwrac'hig gouzoug du" lang="br" hreflang="br">Brezhoneg</a></li>
 			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Pardal_de_bardissa_golanegre" title="Pardal de bardissa golanegre" lang="ca" hreflang="ca">Català</a></li>

@@ -411,7 +411,7 @@ Expensive parser function count: 2/500
 			<li class="interwiki-ik"><a href="//ik.wikipedia.org/wiki/Aaqhaaliq" title="Aaqhaaliq" lang="ik" hreflang="ik">Iñupiak</a></li>
 			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/H%C3%A1vella" title="Hávella" lang="is" hreflang="is">Íslenska</a></li>
 			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Clangula_hyemalis" title="Clangula hyemalis" lang="it" hreflang="it">Italiano</a></li>
-			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%95%D7%96_%D7%A7%D7%A8%D7%97" title="ברווז קרח" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%95%D7%96_%D7%A7%D7%A8%D7%97" title="ברו��ז קרח" lang="he" hreflang="he">עברית</a></li>
 			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/K%C4%81kaulis" title="Kākaulis" lang="lv" hreflang="lv">Latviešu</a></li>
 			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Ledin%C4%97_antis" title="Ledinė antis" lang="lt" hreflang="lt">Lietuvių</a></li>
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Jegesr%C3%A9ce" title="Jegesréce" lang="hu" hreflang="hu">Magyar</a></li>

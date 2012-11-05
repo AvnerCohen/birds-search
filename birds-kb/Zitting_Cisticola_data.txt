@@ -358,7 +358,7 @@ Expensive parser function count: 0/500
 	<div class="body">
 		<ul>
 			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%B2%D8%AC%D8%A9_%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%A9_%D8%A7%D9%84%D8%B0%D9%86%D8%A8" title="هازجة مروحية الذنب" lang="ar" hreflang="ar">العربية</a></li>
-			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8B%E0%A6%AE%E0%A6%B0%E0%A6%BE_%E0%A6%9B%E0%A7%8B%E0%A6%9F%E0%A6%A8" title="ভোমরা ছোটন" lang="bn" hreflang="bn">বাংলা</a></li>
+			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%8B%E0%A6%AE%E0%A6%B0%E0%A6%BE_%E0%A6%9B%E0%A7%8B%E0%A6%9F%E0%A6%A8" title="ভোমরা ছোট���" lang="bn" hreflang="bn">বাংলা</a></li>
 			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%81%D1%82%D1%80%D0%BE%D0%BE%D0%BF%D0%B0%D1%88%D0%B0%D1%82%D0%BE_%D1%88%D0%B0%D0%B2%D0%B0%D1%80%D1%87%D0%B5" title="Пъстроопашато шаварче" lang="bg" hreflang="bg">Български</a></li>
 			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Jegig-broen" title="Jegig-broen" lang="br" hreflang="br">Brezhoneg</a></li>
 			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Trist" title="Trist" lang="ca" hreflang="ca">Català</a></li>

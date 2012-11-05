@@ -377,7 +377,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Feh%C3%A9rkarm%C3%BA_v%C3%A9rcse" title="Fehérkarmú vércse" lang="hu" hreflang="hu">Magyar</a></li>
 			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%97%D1%8D%D1%8D%D1%80%D0%B4_%D1%88%D0%BE%D0%BD%D1%85%D0%BE%D1%80" title="Зээрд шонхор" lang="mn" hreflang="mn">Монгол</a></li>
 			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kleine_torenvalk" title="Kleine torenvalk" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%81%E3%83%A7%E3%82%A6%E3%82%B2%E3%83%B3%E3%83%9C%E3%82%A6" title="ヒメチョウゲンボウ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%81%E3%83%A7%E3%82%A6%E3%82%B2%E3%83%B3%E3%83%9C%E3%82%A6" title="ヒ���チョウゲンボウ" lang="ja" hreflang="ja">日本語</a></li>
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/R%C3%B8dfalk" title="Rødfalk" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
 			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%86%DA%A9%D8%A7_%DA%A9%DB%8C%D8%B3%D9%B9%D8%B1%D9%84" title="نکا کیسٹرل" lang="pnb" hreflang="pnb">پنجابی</a></li>
 			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Falco_naumanni" title="Falco naumanni" lang="pms" hreflang="pms">Piemontèis</a></li>

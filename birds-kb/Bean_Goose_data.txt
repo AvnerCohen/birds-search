@@ -409,7 +409,7 @@ Expensive parser function count: 2/500
 			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Fabansero" title="Fabansero" lang="eo" hreflang="eo">Esperanto</a></li>
 			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Antzara_hankahori" title="Antzara hankahori" lang="eu" hreflang="eu">Euskara</a></li>
 			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Ekrug%C3%A1s" title="Ekrugás" lang="fo" hreflang="fo">Føroyskt</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Oie_des_moissons" title="Oie des moissons" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Oie_des_moissons" title="Oie des moissons" lang="fr" hreflang="fr">Fran��ais</a></li>
 			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Taigawink" title="Taigawink" lang="fy" hreflang="fy">Frysk</a></li>
 			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/S%C3%ADolgh%C3%A9" title="Síolghé" lang="ga" hreflang="ga">Gaeilge</a></li>
 			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Akurg%C3%A6s" title="Akurgæs" lang="is" hreflang="is">Íslenska</a></li>

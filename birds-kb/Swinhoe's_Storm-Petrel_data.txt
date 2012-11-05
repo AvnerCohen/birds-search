@@ -1,1 +1,417 @@
-Scripts should use an informative User-Agent string with contact information, or they may be IP-blocked without notice.
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Swinhoe's Storm Petrel - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="canonical" href="/wiki/Swinhoe%27s_Storm_Petrel" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Swinhoe\'s_Storm_Petrel","wgTitle":"Swinhoe\'s Storm Petrel","wgCurRevisionId":518073525,"wgArticleId":389358,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List near threatened species","Articles with \'species\' microformats","Storm-petrels","Oceanodroma","Birds of India","Birds of Indonesia","Birds of Japan","Birds of Malaysia","Birds of North Korea","Birds of Russia","Birds of Singapore","Birds of South Korea","Birds of Pakistan","Birds of Sri Lanka","Birds of Taiwan","Birds of Thailand","Birds of Saudi Arabia","Birds of Southeast Asia","Birds of Western Australia","Animals described in 1867"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Swinhoe\'s_Storm_Petrel","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Swinhoe\'s_Storm-Petrel","wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"ac53462c73ff476034ffe787efec024a","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":389358,"title":"Swinhoe\'s Storm Petrel","namespace":0,"categories":["Animals described in 1867","Articles with \'species\' microformats","Birds of India","Birds of Indonesia","Birds of Japan","Birds of Malaysia","Birds of North Korea","Birds of Pakistan","Birds of Russia","Birds of Saudi Arabia","Birds of Singapore","Birds of South Korea","Birds of Southeast Asia","Birds of Sri Lanka","Birds of Taiwan","Birds of Thailand","Birds of Western Australia","IUCN Red List near threatened species","Oceanodroma","Storm-petrels"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Swinhoe_s_Storm_Petrel skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Swinhoe's Storm Petrel</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Swinhoe%27s_Storm-Petrel&amp;redirect=no" title="Swinhoe's Storm-Petrel">Swinhoe's Storm-Petrel</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Swinhoe's Storm Petrel</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:OceanodromaMonorhisSmit.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/OceanodromaMonorhisSmit.jpg/220px-OceanodromaMonorhisSmit.jpg" width="220" height="136" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/220px-Status_iucn3.1_NT.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Near_Threatened" title="Near Threatened">Near Threatened</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Procellariiformes" title="Procellariiformes">Procellariiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Hydrobatidae" title="Hydrobatidae" class="mw-redirect">Hydrobatidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Hydrobatinae" title="Hydrobatinae">Hydrobatinae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Oceanodroma" title="Oceanodroma">Oceanodroma</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>O. monorhis</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Oceanodroma monorhis</i></span></b><br />
+<small>(<a href="/wiki/Robert_Swinhoe" title="Robert Swinhoe">Swinhoe</a>, 1867)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Thalassidroma monorhis</i> <small>Swinhoe, 1867</small></p>
+</td>
+</tr>
+</table>
+</div>
+<p><b>Swinhoe's Storm Petrel</b> (<i>Oceanodroma monorhis</i>), also known as <b>Swinhoe's Petrel</b>, is a small, all-brown <a href="/wiki/Seabird" title="Seabird">seabird</a> of the <a href="/wiki/Storm_petrel" title="Storm petrel">storm petrel</a> family <a href="/wiki/Hydrobatidae" title="Hydrobatidae" class="mw-redirect">Hydrobatidae</a>.</p>
+<p>It breeds on islands in the northwest <a href="/wiki/Pacific" title="Pacific" class="mw-redirect">Pacific</a> off <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Japan" title="Japan">Japan</a> and <a href="/wiki/Korea" title="Korea">Korea</a>. It nests in colonies close to the sea in rock crevices and lays a single white egg. It spends the rest of the year at sea, ranging into the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> and <a href="/wiki/Arabian_Sea" title="Arabian Sea">Arabian Sea</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Habits_and_observation"><span class="tocnumber">2</span> <span class="toctext">Habits and observation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Status"><span class="tocnumber">3</span> <span class="toctext">Status</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#North_Atlantic_status"><span class="tocnumber">4</span> <span class="toctext">North Atlantic status</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>Swinhoe's Storm Petrel is a small <a href="/wiki/Bird" title="Bird">bird</a>, 18–21&#160;cm in length with a 45–48&#160;cm wingspan, though distinctly larger than the <a href="/wiki/European_Storm_Petrel" title="European Storm Petrel">European Storm Petrel</a>. It is essentially dark brown in all plumages, and has a fluttering flight, pattering on the water surface as it picks <a href="/wiki/Plankton" title="Plankton">planktonic</a> food items from the ocean surface. Unlike the European Storm Petrel, it does not follow ships.</p>
+<p>In structure it most resembles a <a href="/wiki/Leach%27s_Storm_Petrel" title="Leach's Storm Petrel">Leach's Storm Petrel</a> with its forked tail, longish wings, and flight behaviour, but does not have a white rump and the call differs. It is difficult to distinguish from other all-dark <i>Oceanodroma</i> species, and the first <a href="/wiki/England" title="England">English</a> record had to be <a href="/wiki/DNA" title="DNA">DNA</a>-tested to eliminate the possibility that it was a Leach's Storm Petrel, since populations of north-eastern Pacific Leach's Storm Petrels contain individuals that show completely dark rumps.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit&amp;section=2" title="Edit section: Habits and observation">edit</a>]</span> <span class="mw-headline" id="Habits_and_observation">Habits and observation</span></h2>
+<p>This <a href="/wiki/Storm_petrel" title="Storm petrel">storm petrel</a> is strictly nocturnal at the breeding sites to avoid predation by <a href="/wiki/Gull" title="Gull">gulls</a> and <a href="/wiki/Skua" title="Skua">skuas</a>, and will even avoid coming to land on clear moonlit nights. Like most petrels, its walking ability is limited to a short shuffle to the burrow. It is strictly pelagic outside the breeding season, and this, together with its remote breeding sites, makes Swinhoe's Petrel a difficult bird to see from land. Only in storms might this species be pushed into headlands, but even then an out of range bird would probably defy definite identification.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit&amp;section=3" title="Edit section: Status">edit</a>]</span> <span class="mw-headline" id="Status">Status</span></h2>
+<p>Widespread throughout its large range, the Swinhoe's Storm Petrel was previously evaluated as Least Concern on the <a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List</a> of Threatened Species, but uplisted to <a href="/wiki/Near_Threatened" title="Near Threatened">Near Threatened</a> in 2012.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit&amp;section=4" title="Edit section: North Atlantic status">edit</a>]</span> <span class="mw-headline" id="North_Atlantic_status">North Atlantic status</span></h2>
+<p>In 1983, a bird was trapped on the Selvagens, <a href="/wiki/Madeira" title="Madeira">Madeira</a> on the 8th July and was confirmed to be the first record for the Atlantic Ocean.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> Since then a number of storm-petrels exhibiting plumage and structural characteristics have been recorded at sea, principally in the <a href="/wiki/North_Atlantic" title="North Atlantic" class="mw-redirect">North Atlantic</a>, while birds were trapped during the summer months in France (1989), England (1989 [two birds], 1990 [with birds retrapped from 1991 to 1994]), Spain (1994), Norway (1996, 1997), and again Madeira (1991, 1994).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> Other than the east <a href="/wiki/North_Atlantic" title="North Atlantic" class="mw-redirect">North Atlantic</a> and the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a> a number of other individuals have been identified in the western <a href="/wiki/North_Atlantic" title="North Atlantic" class="mw-redirect">North Atlantic</a>. One was photographed off <a href="/wiki/Hatteras,_North_Carolina" title="Hatteras, North Carolina">Hatteras, North Carolina</a>, on August 8, 1998, but this record was not accepted by the <a href="/wiki/American_Birding_Association" title="American Birding Association">American Birding Association</a> or the <a href="/wiki/American_Ornithologists%27_Union" title="American Ornithologists' Union">American Ornithologists' Union</a> as at-sea records are not usually entirely reliable due to identification difficulties (AOU 2000). A second Hatteras record on the June 2, 2008, which was accompanied by excellent photos, is far more robust and would, pending acceptance, represent the first North American record of this species.</p>
+<p>The records suggest that a small breeding population may have become established in the North Atlantic but as yet there has been no definitive proof.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003981">"<i>Oceanodroma monorhis</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003981">http://www.iucnredlist.org/apps/redlist/details/106003981</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Oceanodroma+monorhis%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003981&amp;rfr_id=info:sid/en.wikipedia.org:Swinhoe%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.birdlife.org/action/science/species/global_species_programme/whats_new.html">"Recently recategorised species"</a>. Birdlife International (2012)<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdlife.org/action/science/species/global_species_programme/whats_new.html">http://www.birdlife.org/action/science/species/global_species_programme/whats_new.html</a></span><span class="reference-accessdate">. Retrieved 15 June 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Recently+recategorised+species&amp;rft.atitle=&amp;rft.pub=Birdlife+International+%282012%29&amp;rft_id=http%3A%2F%2Fwww.birdlife.org%2Faction%2Fscience%2Fspecies%2Fglobal_species_programme%2Fwhats_new.html&amp;rfr_id=info:sid/en.wikipedia.org:Swinhoe%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">James, P.C., &amp; Robertson, H.A. 1985. First record of Swinhoe's Storm Petrel <i>Oceanodroma monorhis</i> in the Atlantic Ocean. <i>Ardea</i> 73: 105-106.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Morrison, S. 1998. All-dark petrels in the North Atlantic. <i>British Birds</i> 91: 540-560</span></li>
+</ol>
+<ul>
+<li><b><a href="/wiki/American_Ornithologists%27_Union" title="American Ornithologists' Union">American Ornithologists' Union</a></b> (AOU) (2000): Forty-second supplement to the American Ornithologists' Union Check-list of North American Birds. <i><a href="/wiki/Auk_(journal)" title="Auk (journal)" class="mw-redirect">Auk</a></i> <b>117</b>(3): 847–858. <small><a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier" class="mw-redirect">DOI</a>: 10.1642/0004-8038(2000)117[0847:FSSTTA]2.0.CO;2</small></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=3981&amp;m=0">BirdLife Species Factsheet</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.birdingisrael.com/birdNews/GuestOfHonor/storm-petrel/">Birding Israel</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.flickr.com/photos/dotcool/1304403740/">Flicker Field Guide Birds of the World</a> Photographs</li>
+<li><a rel="nofollow" class="external text" href="http://nature.ok.ru/htm_foto/birds/2_4.htm">Russian Nature</a> Photographs</li>
+<li><a rel="nofollow" class="external text" href="http://www.madeirabirds.com/swinhoes_storm_petrel_off_madeira">Video off Madeira Island</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 4456/1000000
+Preprocessor generated node count: 31255/1500000
+Post-expand include size: 25591/2048000 bytes
+Template argument size: 5733/2048000 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:389358-0!*!0!!en!4!* and timestamp 20121017212351 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;oldid=518073525">http://en.wikipedia.org/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;oldid=518073525</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_near_threatened_species" title="Category:IUCN Red List near threatened species">IUCN Red List near threatened species</a></li><li><a href="/wiki/Category:Storm-petrels" title="Category:Storm-petrels">Storm-petrels</a></li><li><a href="/wiki/Category:Oceanodroma" title="Category:Oceanodroma">Oceanodroma</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Indonesia" title="Category:Birds of Indonesia">Birds of Indonesia</a></li><li><a href="/wiki/Category:Birds_of_Japan" title="Category:Birds of Japan">Birds of Japan</a></li><li><a href="/wiki/Category:Birds_of_Malaysia" title="Category:Birds of Malaysia">Birds of Malaysia</a></li><li><a href="/wiki/Category:Birds_of_North_Korea" title="Category:Birds of North Korea">Birds of North Korea</a></li><li><a href="/wiki/Category:Birds_of_Russia" title="Category:Birds of Russia">Birds of Russia</a></li><li><a href="/wiki/Category:Birds_of_Singapore" title="Category:Birds of Singapore">Birds of Singapore</a></li><li><a href="/wiki/Category:Birds_of_South_Korea" title="Category:Birds of South Korea">Birds of South Korea</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Sri_Lanka" title="Category:Birds of Sri Lanka">Birds of Sri Lanka</a></li><li><a href="/wiki/Category:Birds_of_Taiwan" title="Category:Birds of Taiwan">Birds of Taiwan</a></li><li><a href="/wiki/Category:Birds_of_Thailand" title="Category:Birds of Thailand">Birds of Thailand</a></li><li><a href="/wiki/Category:Birds_of_Saudi_Arabia" title="Category:Birds of Saudi Arabia">Birds of Saudi Arabia</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:Animals_described_in_1867" title="Category:Animals described in 1867">Animals described in 1867</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Swinhoe%27s+Storm-Petrel&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Swinhoe%27s+Storm-Petrel" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Swinhoe%27s_Storm_Petrel"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Swinhoe%27s_Storm_Petrel"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Swinhoe%27s_Storm_Petrel" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Swinhoe%27s_Storm_Petrel" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Swinhoe%27s_Storm_Petrel" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;oldid=518073525" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Swinhoe%27s_Storm_Petrel&amp;id=518073525" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Swinhoe%27s+Storm+Petrel" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Swinhoe%27s+Storm+Petrel&amp;oldid=518073525&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Swinhoe%27s_Storm_Petrel&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B7%D8%A7%D8%A6%D8%B1_%D9%86%D9%88%D8%A1_%D8%B3%D9%88%D9%8A%D9%86%D9%87%D9%88" title="طائر نوء سوينهو" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Satanig_Swinhoe" title="Satanig Swinhoe" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Petrell_de_Swinhoe" title="Petrell de Swinhoe" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Oceanodroma_monorhis" title="Oceanodroma monorhis" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Oceanodroma_monorhis" title="Oceanodroma monorhis" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Oc%C3%A9anite_de_Swinhoe" title="Océanite de Swinhoe" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%AF%E3%83%AD%E3%82%A6%E3%83%9F%E3%83%84%E3%83%90%E3%83%A1" title="ヒメクロウミツバメ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Japanstormsvale" title="Japanstormsvale" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Japanstormsvale" title="Japanstormsvale" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B3%D9%88%D9%86%DB%81%D9%88%D9%84_%D8%AF%D8%A7_%D9%BE%DB%8C%D9%B9%D8%B1%D9%84" title="سونہول دا پیٹرل" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Painho-de-swinhoe" title="Painho-de-swinhoe" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%B0%D1%8F_%D0%BA%D0%B0%D1%87%D1%83%D1%80%D0%BA%D0%B0" title="Вилохвостая качурка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pikkukeiju" title="Pikkukeiju" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Swinhoes_stormsvala" title="Swinhoes stormsvala" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Oceanodroma_monorhis" title="Oceanodroma monorhis" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%BB%91%E5%8F%89%E5%B0%BE%E6%B5%B7%E7%87%95" title="黑叉尾海燕" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 October 2012 at 06:51.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Swinhoe%27s_Storm-Petrel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw29 in 0.171 secs. -->
+	</body>
+</html>

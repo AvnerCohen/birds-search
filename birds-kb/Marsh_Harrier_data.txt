@@ -1,1 +1,403 @@
-Scripts should use an informative User-Agent string with contact information, or they may be IP-blocked without notice.
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Marsh Harrier - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Marsh_Harrier&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Marsh_Harrier&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marsh_Harrier","wgTitle":"Marsh Harrier","wgCurRevisionId":505781148,"wgArticleId":200793,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with \'species\' microformats","Harriers (birds)","Birds of Australia","Birds of Pakistan","Birds of Palestine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Marsh_Harrier","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"a3e901290185dd8ad26fe78b0ab9ec5d","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":200793,"title":"Marsh Harrier","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Australia","Birds of Pakistan","Birds of Palestine","Harriers (birds)"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Marsh_Harrier skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Marsh Harrier</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Marsh harriers</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Rohrweihe.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rohrweihe.jpg/200px-Rohrweihe.jpg" width="200" height="305" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Western Marsh Harriers</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Falconiformes" title="Falconiformes">Falconiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Harrier_(bird)" title="Harrier (bird)">Circus</a></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Species</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i><a href="/wiki/Circus_aeruginosus" title="Circus aeruginosus" class="mw-redirect">Circus aeruginosus</a></i>
+<ul>
+<li><i>C. a. aeruginosus</i></li>
+<li><i>C. a. harterti</i></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Circus_ranivorus" title="Circus ranivorus" class="mw-redirect">Circus ranivorus</a></i></li>
+<li><i><a href="/wiki/Circus_spilonotus" title="Circus spilonotus" class="mw-redirect">Circus spilonotus</a></i>
+<ul>
+<li><i>C. s. spilonotus</i></li>
+<li><i>C.s. spilothorax</i></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Circus_approximans" title="Circus approximans" class="mw-redirect">Circus approximans</a></i></li>
+<li><i><a href="/wiki/Circus_maillardi" title="Circus maillardi" class="mw-redirect">Circus maillardi</a></i>
+<ul>
+<li><i>C. m. maillardi</i></li>
+<li><i>C. m. macrosceles</i></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>marsh harriers</b> are <a href="/wiki/Bird_of_prey" title="Bird of prey">birds of prey</a> of the <a href="/wiki/Harrier_(bird)" title="Harrier (bird)">harrier</a> subfamily. They are medium-sized <a href="/wiki/Bird_of_prey" title="Bird of prey">raptors</a> and the largest and broadest-winged harriers. Most of them are associated with marshland and dense reedbeds. They are found almost worldwide, excluding only the <a href="/wiki/Americas" title="Americas">Americas</a>.</p>
+<p>Until recently two species were generally recognized: the Marsh Harrier (<i>Circus aeruginosus</i>) and the <a href="/wiki/African_Marsh_Harrier" title="African Marsh Harrier">African Marsh Harrier</a> (<i>C. ranivorus</i>). The Marsh Harrier is now usually split into several species, sometimes as many as six. These are the <a href="/wiki/Western_Marsh_Harrier" title="Western Marsh Harrier">Western Marsh Harrier</a> (<i>C. aeruginosus</i>), <a href="/wiki/Eastern_Marsh_Harrier" title="Eastern Marsh Harrier">Eastern Marsh Harrier</a> (<i>C. spilonotus</i>), <a href="/wiki/Papuan_Harrier" title="Papuan Harrier">Papuan Harrier</a> (<i>C. spilonotus spilothorax</i> or <i>C. spilothorax</i>), <a href="/wiki/Swamp_Harrier" title="Swamp Harrier">Swamp Harrier</a> (<i>C. approximans</i>), <a href="/wiki/R%C3%A9union_Harrier" title="Réunion Harrier">Réunion Harrier</a> (<i>C. maillardi maillardi</i> or <i>C. maillardi</i>) and <a href="/wiki/Madagascar_Marsh_Harrier" title="Madagascar Marsh Harrier" class="mw-redirect">Madagascar Marsh Harrier</a> (<i>C. maillardi macrosceles</i> or <i>C. macrosceles</i>).</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Harrier&amp;action=edit&amp;section=1" title="Edit section: Species">edit</a>]</span> <span class="mw-headline" id="Species">Species</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg/220px-Western_Marsh_Harrier-_Bangalore%2C_India.jpg" width="220" height="308" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Western_Marsh_Harrier-_Bangalore,_India.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Western Marsh Harrier- Bangalore, India</div>
+</div>
+</div>
+<p>The <b><a href="/wiki/Western_Marsh_Harrier" title="Western Marsh Harrier">Western Marsh Harrier</a></b> (<i>Circus aeruginosus</i>), often simply called the <b>Marsh Harrier</b>, breeds widely across <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Asia" title="Asia">Asia</a>. It is migratory except in the mildest regions, and winters mainly in <a href="/wiki/Africa" title="Africa">Africa</a>. It hunts small <a href="/wiki/Mammal" title="Mammal">mammals</a>, <a href="/wiki/Insect" title="Insect">insects</a> and <a href="/wiki/Bird" title="Bird">birds</a>, surprising them as it drifts low over fields and reedbeds.</p>
+<p>The Western Marsh Harrier is a typical harrier, with long wings held in a shallow V in its low flight. It also resembles other harriers in having distinct male and female plumages, but its plumages are quite different from those of its relatives. The male has wings with grey and brown sections and black wingtips. Its head, tail and underparts are greyish, except for the chestnut belly. The female is mainly brown with a cream crown and cream leading edge to her wings.</p>
+<p>The <b><a href="/wiki/Eastern_Marsh_Harrier" title="Eastern Marsh Harrier">Eastern Marsh Harrier</a></b> (<i>C. spilonotus</i>) breeds in the grasslands and wetlands of southern <a href="/wiki/Siberia" title="Siberia">Siberia</a>, northern <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a>, north-east <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Manchuria" title="Manchuria">Manchuria</a> and <a href="/wiki/Japan" title="Japan">Japan</a>, and <a href="/wiki/Bird_migration" title="Bird migration">migrates</a> for the northern winter to <a href="/wiki/South-east_Asia" title="South-east Asia" class="mw-redirect">South-east Asia</a>, the <a href="/wiki/Philippines" title="Philippines">Philippines</a> and northern <a href="/wiki/Borneo" title="Borneo">Borneo</a>.</p>
+<p>Like all marsh harriers, it favours open, wet environments, and is frequently seen drifting low over ricefields, interspersing long, watchful circling glides with two or three slow, powerful wingbeats. Two subspecies are recognised: <i>C. s. spilonotus</i> of east Asia, and <i>C. s. spilothorax</i>, of <a href="/wiki/New_Guinea" title="New Guinea">New Guinea</a> and the islands nearby, which is sometimes thought to be a separate species and is often called the <b><a href="/wiki/Papuan_Harrier" title="Papuan Harrier">Papuan Harrier</a></b>.</p>
+<p>The <b><a href="/wiki/Swamp_Harrier" title="Swamp Harrier">Swamp Harrier</a></b> (<i>C. approximans</i>) at about 50 to 58 cm is slightly larger than <i>C. spilonotus</i>, often a little darker, and has less heavily barred wings and tail. It is commonly found in suitable habitat anywhere in <a href="/wiki/Australasia" title="Australasia">Australasia</a>, particularly in the higher rainfall areas to the east, south-east, and south-west, of <a href="/wiki/Australia" title="Australia">Australia</a> and throughout <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, but also in the tropical north of Australia and the island groups of <a href="/wiki/New_Caledonia" title="New Caledonia">New Caledonia</a>, <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a>, <a href="/wiki/Fiji" title="Fiji">Fiji</a>, <a href="/wiki/Tonga" title="Tonga">Tonga</a> and the <a href="/wiki/Society_Islands" title="Society Islands">Society Islands</a>. It is also known as the <b>Australasian Harrier</b> or <b>Pacific Marsh Harrier</b>.</p>
+<p>The <b><a href="/wiki/Madagascar_Marsh_Harrier" title="Madagascar Marsh Harrier" class="mw-redirect">Madagascar Marsh Harrier</a></b> or <b>Madagascar Harrier</b> (<i>C. maillardi</i>) is found on the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> islands of <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>, <a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a> and the <a href="/wiki/Comoros" title="Comoros">Comoros</a>. It is sometimes split into two species: Madagascar Harrier (<i>Circus macrosceles</i>) and <b>Réunion Harrier</b> (<i>C. maillardi).</i></p>
+<p>The <b><a href="/wiki/African_Marsh_Harrier" title="African Marsh Harrier">African Marsh Harrier</a></b> (<i>C. ranivorus</i>) is a distinct non-migratory species that has not usually been included as a subspecies of <i>C. aeruginosus</i>. It inhabits southern and eastern <a href="/wiki/Africa" title="Africa">Africa</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Harrier&amp;action=edit&amp;section=2" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li>Roger Clarke (1995) <i>The Marsh Harrier</i>, Hamlyn, London.</li>
+<li>James Ferguson-Lees (2001) <i>Raptors of the World</i>, Christopher Helm.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Harrier&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/112_MarshHarrierC.aeruginosus.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 2447/1000000
+Preprocessor generated node count: 12983/1500000
+Post-expand include size: 7518/2048000 bytes
+Template argument size: 2214/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:200793-0!*!0!!*!4!* and timestamp 20121018002952 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Marsh_Harrier&amp;oldid=505781148">http://en.wikipedia.org/w/index.php?title=Marsh_Harrier&amp;oldid=505781148</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Harriers_(birds)" title="Category:Harriers (birds)">Harriers (birds)</a></li><li><a href="/wiki/Category:Birds_of_Australia" title="Category:Birds of Australia">Birds of Australia</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marsh+Harrier&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marsh+Harrier" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Marsh_Harrier"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Marsh_Harrier"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Marsh_Harrier" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Marsh_Harrier&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Marsh_Harrier&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Marsh_Harrier" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Marsh_Harrier" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Marsh_Harrier&amp;oldid=505781148" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Marsh_Harrier&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Marsh_Harrier&amp;id=505781148" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Marsh+Harrier" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Marsh+Harrier&amp;oldid=505781148&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Marsh_Harrier&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A2%D1%80%D1%8A%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B1%D0%BB%D0%B0%D1%82%D0%B0%D1%80" title="Тръстиков блатар" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Arpellot_de_marjal" title="Arpellot de marjal" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Mot%C3%A1k_pochop" title="Moták pochop" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/R%C3%B8rh%C3%B8g" title="Rørhøg" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Rohrweihe" title="Rohrweihe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Mar%C4%89a_cirkuo" title="Marĉa cirkuo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Circus_aeruginosus" title="Circus aeruginosus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Busard_des_roseaux" title="Busard des roseaux" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Tartara%C3%B1a_das_xunqueiras" title="Tartaraña das xunqueiras" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Circus_aeruginosus" title="Circus aeruginosus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Nendrin%C4%97_ling%C4%97" title="Nendrinė lingė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Barna_r%C3%A9tih%C3%A9ja" title="Barna rétihéja" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Lang_Uban" title="Burung Lang Uban" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Bruine_kiekendief" title="Bruine kiekendief" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%83%81%E3%83%A5%E3%82%A6%E3%83%92" title="ヨーロッパチュウヒ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Sivhauk" title="Sivhauk" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/B%C5%82otniak_stawowy" title="Błotniak stawowy" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Tartaranh%C3%A3o-ruivo-dos-pauis" title="Tartaranhão-ruivo-dos-pauis" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BB%D1%83%D0%BD%D1%8C" title="Болотный лунь" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ka%C5%88a_mo%C4%8Diarna" title="Kaňa močiarna" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Rjavi_lunj" title="Rjavi lunj" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ruskosuohaukka" title="Ruskosuohaukka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Brun_k%C3%A4rrh%C3%B6k" title="Brun kärrhök" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Saz_tuygunu" title="Saz tuygunu" lang="tr" hreflang="tr">Türkçe</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 August 2012 at 18:37.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Marsh_Harrier&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv210 in 0.138 secs. -->
+	</body>
+</html>

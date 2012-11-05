@@ -327,7 +327,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%96%D1%8C%D0%B5%D1%86" title="Жьец" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
 			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%B1%D8%B2%D8%A9_%D8%A8%D8%A7%D9%87%D8%AA%D8%A9" title="مرزة باهتة" lang="ar" hreflang="ar">العربية</a></li>
 			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/%C3%87%C3%B6l_beliba%C4%9Fl%C4%B1s%C4%B1" title="Çöl belibağlısı" lang="az" hreflang="az">Azərbaycanca</a></li>
-			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%AF%D0%BB%D0%B0%D0%BD_%D0%BA%D3%A9%D0%B9%D0%B3%D3%99%D0%BD%D3%99%D0%B3%D0%B5" title="Ялан көйгәнәге" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%AF%D0%BB%D0%B0%D0%BD_%D0%BA%D3%A9%D0%B9%D0%B3%D3%99%D0%BD%D3%99%D0%B3%D0%B5" title="Ялан көйгәнәге" lang="ba" hreflang="ba">Башҡо��тса</a></li>
 			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9B%D1%83%D0%BD%D1%8C_%D1%81%D1%82%D1%8D%D0%BF%D0%B0%D0%B2%D1%8B" title="Лунь стэпавы" lang="be" hreflang="be">Беларуская</a></li>
 			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%B5%D0%BD_%D0%B1%D0%BB%D0%B0%D1%82%D0%B0%D1%80" title="Степен блатар" lang="bg" hreflang="bg">Български</a></li>
 			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Skoul_gwenn" title="Skoul gwenn" lang="br" hreflang="br">Brezhoneg</a></li>

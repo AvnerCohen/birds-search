@@ -697,7 +697,7 @@ Expensive parser function count: 2/500
 			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Falco_tinnunculus" title="Falco tinnunculus" lang="es" hreflang="es">Español</a></li>
 			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Turfalko" title="Turfalko" lang="eo" hreflang="eo">Esperanto</a></li>
 			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Belatz_gorri" title="Belatz gorri" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D9%84%DB%8C%D8%AC%D9%87" title="دلیجه" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D9%84%DB%8C%D8%AC%D9%87" title="دلیجه" lang="fa" hreflang="fa">��ارسی</a></li>
 			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Gr%C3%BDtissmyril" title="Grýtissmyril" lang="fo" hreflang="fo">Føroyskt</a></li>
 			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Faucon_cr%C3%A9cerelle" title="Faucon crécerelle" lang="fr" hreflang="fr">Français</a></li>
 			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Reade_Wikel" title="Reade Wikel" lang="fy" hreflang="fy">Frysk</a></li>

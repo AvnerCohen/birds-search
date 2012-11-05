@@ -1,1 +1,587 @@
-Scripts should use an informative User-Agent string with contact information, or they may be IP-blocked without notice.
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Green Bee-eater - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="canonical" href="/wiki/Green_Bee-eater" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Bee-eater&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Bee-eater&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Green_Bee-eater","wgTitle":"Green Bee-eater","wgCurRevisionId":519385335,"wgArticleId":242070,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Meropidae","Birds of Africa","Birds of Asia","Birds of Nepal","Birds of Pakistan","Birds of Palestine","Birds of Bhutan","Birds of India","Birds of Bangladesh"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Green_Bee-eater","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Little_Green_Bee-eater","wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"c4e6154c2125e28957a5252887f5e359","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":242070,"title":"Green Bee-eater","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Africa","Birds of Asia","Birds of Bangladesh","Birds of Bhutan","Birds of India","Birds of Nepal","Birds of Pakistan","Birds of Palestine","IUCN Red List least concern species","Meropidae"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Green_Bee-eater skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Green Bee-eater</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Little_Green_Bee-eater&amp;redirect=no" title="Little Green Bee-eater">Little Green Bee-eater</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">Not to be confused with <a href="/wiki/Little_Bee-eater" title="Little Bee-eater">Little Bee-eater</a>.</div>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Green Bee-eater</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Merops_orientalis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Merops_orientalis.jpg/220px-Merops_orientalis.jpg" width="220" height="439" srcset="//upload.wikimedia.org/wikipedia/commons/3/39/Merops_orientalis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/39/Merops_orientalis.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">ssp. <i>orientalis</i></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Coraciiformes" title="Coraciiformes">Coraciiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Meropidae" title="Meropidae" class="mw-redirect">Meropidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Merops_(genus)" title="Merops (genus)">Merops</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. orientalis</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Merops orientalis</i></span></b><br />
+<small><a href="/wiki/John_Latham_(ornithologist)" title="John Latham (ornithologist)">Latham</a>, 1802</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Merops viridis</i> <small>Neumann, 1910</small></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Green Bee-eater</b> (<i>Merops orientalis</i>) (sometimes <b>Little Green Bee-eater</b>) is a <a href="/wiki/Near_passerine" title="Near passerine">near passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Bee-eater" title="Bee-eater">bee-eater</a> <a href="/wiki/Family_(biology)" title="Family (biology)">family</a>. It is resident but prone to seasonal movements and is found widely distributed across sub-Saharan <a href="/wiki/Africa" title="Africa">Africa</a> from <a href="/wiki/Senegal" title="Senegal">Senegal</a> and <a href="/wiki/The_Gambia" title="The Gambia">The Gambia</a> to <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a>, the <a href="/wiki/Nile" title="Nile">Nile</a> valley, western Arabia and <a href="/wiki/Asia" title="Asia">Asia</a> through <a href="/wiki/India" title="India">India</a> to <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>.<sup id="cite_ref-fry_1-0" class="reference"><a href="#cite_note-fry-1"><span>[</span>2<span>]</span></a></sup> They are mainly insect eaters and they are found in grassland, thin scrub and forest often quite far from water. Several regional plumage variations are known and several subspecies have been named.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Taxonomy"><span class="tocnumber">1.1</span> <span class="toctext">Taxonomy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">2</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour_and_ecology"><span class="tocnumber">3</span> <span class="toctext">Behaviour and ecology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Green_Bee-eater&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Little_Green_Bee-eater.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Little_Green_Bee-eater.jpg/170px-Little_Green_Bee-eater.jpg" width="170" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Little_Green_Bee-eater.jpg/255px-Little_Green_Bee-eater.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Little_Green_Bee-eater.jpg/340px-Little_Green_Bee-eater.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Little_Green_Bee-eater.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Subspecies <i>muscatensis</i> from the UAE</div>
+</div>
+</div>
+<p>Like other bee-eaters, this species is a richly coloured, slender bird. It is about 9&#160;inches (16–18&#160;cm) long with about 2&#160;inches made up by the elongated central tail-feathers. The sexes are not visually distinguishable. The entire plumage is bright green and tinged with blue especially on the chin and throat. The crown and upper back are tinged with golden rufous. The flight feathers are rufous washed with green and tipped with blackish. A fine black line runs in front of and behind the eye. The iris is crimson and the bill is black while the legs are dark grey. The feet are weak with the three toes joined at the base.<sup id="cite_ref-whistler_2-0" class="reference"><a href="#cite_note-whistler-2"><span>[</span>3<span>]</span></a></sup> Southeast Asian birds have rufous crown and face, and green underparts, whereas Arabian <i>beludschicus</i> has a green crown, blue face and bluish underparts. The wings are green and the beak is black. The elongated tail feathers are absent in juveniles. Sexes are alike.<sup id="cite_ref-fry_1-1" class="reference"><a href="#cite_note-fry-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The calls is a nasal trill <i>tree-tree-tree-tree</i>, usually given in flight.<sup id="cite_ref-whistler_2-1" class="reference"><a href="#cite_note-whistler-2"><span>[</span>3<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Green_Bee-eater&amp;action=edit&amp;section=2" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Little_green_bee_eater_(cropped).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Little_green_bee_eater_%28cropped%29.jpg/170px-Little_green_bee_eater_%28cropped%29.jpg" width="170" height="294" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Little_green_bee_eater_%28cropped%29.jpg/255px-Little_green_bee_eater_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/97/Little_green_bee_eater_%28cropped%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Little_green_bee_eater_(cropped).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Race <i>cyanophrys</i> from Israel</div>
+</div>
+</div>
+<p>Several populations have been designated as subspecies:<sup id="cite_ref-hbk_3-0" class="reference"><a href="#cite_note-hbk-3"><span>[</span>4<span>]</span></a></sup></p>
+<ul>
+<li><i>viridissimus</i> is found from Senegal to northern Ethiopia (has more green on the throat, crown and nape with long streamers)</li>
+<li><i>cleopatra</i> from the Nile Valley to northern Sudan</li>
+<li><i>flavoviridis</i> from northern Chad to Sudan</li>
+<li><i>muscatensis</i> on the Arabian plateau (more yellowish green with narrow gorget on throat)</li>
+<li><i>cyanophrys</i> found in Israel and the Arabian region (includes <i>meccanus</i>)</li>
+<li><i>beludschicus</i>(=<i>biludschicus</i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup>) Iran to Pakistan (paler colours with a blue throat)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup></li>
+<li><i>orientalis</i> in India and Sri Lanka (has head and neck tinged with rufous)</li>
+<li><i>ferrugeiceps</i> (=<i>birmanus</i>) in northeastern India, Myanmar, Thailand and Vietnam (has rufous crown, name and mantle)</li>
+<li><i>ceylonicus</i> in Sri Lanka has the nape and hindneck with more pronounced golden brown sheen<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> often included within the nominate race</li>
+</ul>
+<p>A study of species within the genus <i>Merops</i> based on plumage characteristics found that most of the subspecies of <i>orientalis</i> grouping together with the most similar species being <i><a href="/wiki/Merops_leschenaulti" title="Merops leschenaulti" class="mw-redirect">Merops leschenaulti</a></i> and subspecies <i>ferrugeiceps</i> appeared closer to that group.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<p><a href="/wiki/Leucism" title="Leucism">Leucistic</a> individuals have been noted.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Green_Bee-eater&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<p>This is an abundant and fairly tame bird, familiar throughout its range. It is a bird which breeds in open country with bushes. In Africa and Arabia it is found in arid areas, but is more diverse in its habitats further east. This species often hunts from low perches, maybe only a metre or less high. It readily makes use of fence wires and electric wires. Unlike some other bee-eaters, they can be found well away from water.<sup id="cite_ref-hbk_3-1" class="reference"><a href="#cite_note-hbk-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>They are mostly see in the plains but can sometimes be found up to 5000 or 6000 feet in the Himalayas. They are resident in the lowlands of South Asia but some populations move seasonally but the patterns are unclear<sup id="cite_ref-whistler_2-2" class="reference"><a href="#cite_note-whistler-2"><span>[</span>3<span>]</span></a></sup> moving away to drier regions in the rainy season and to warmer regions in winter.<sup id="cite_ref-hbk_3-2" class="reference"><a href="#cite_note-hbk-3"><span>[</span>4<span>]</span></a></sup> In parts of Pakistan, they are summer visitors.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Green_Bee-eater&amp;action=edit&amp;section=4" title="Edit section: Behaviour and ecology">edit</a>]</span> <span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Green_Bee-eater_(Merops_orientalis)_with_a_dragonfly_W_IMG_2547.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Green_Bee-eater_%28Merops_orientalis%29_with_a_dragonfly_W_IMG_2547.jpg/170px-Green_Bee-eater_%28Merops_orientalis%29_with_a_dragonfly_W_IMG_2547.jpg" width="170" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Green_Bee-eater_%28Merops_orientalis%29_with_a_dragonfly_W_IMG_2547.jpg/255px-Green_Bee-eater_%28Merops_orientalis%29_with_a_dragonfly_W_IMG_2547.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Green_Bee-eater_%28Merops_orientalis%29_with_a_dragonfly_W_IMG_2547.jpg/340px-Green_Bee-eater_%28Merops_orientalis%29_with_a_dragonfly_W_IMG_2547.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Green_Bee-eater_(Merops_orientalis)_with_a_dragonfly_W_IMG_2547.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Race <i>orientalis</i> with a dragonfly in <a href="/wiki/Hyderabad,_India" title="Hyderabad, India">Hyderabad, India</a>.</div>
+</div>
+</div>
+<p>Like other species in the genus, bee-eaters predominantly eat <a href="/wiki/Insect" title="Insect">insects</a>, especially <a href="/wiki/Bee" title="Bee">bees</a>, <a href="/wiki/Wasp" title="Wasp">wasps</a> and <a href="/wiki/Ant" title="Ant">ants</a>, which are caught in the air by sorties from an open perch. Before swallowing prey, a bee-eater removes stings and breaks the exoskeleton of the prey by repeatedly thrashing it on the perch. <a href="/wiki/Bird_migration" title="Bird migration">Migration</a> is not known but they make seasonal movements in response to rainfall.<sup id="cite_ref-fry_1-2" class="reference"><a href="#cite_note-fry-1"><span>[</span>2<span>]</span></a></sup> These birds are somewhat sluggish in the mornings and may be found huddled next to each other on wires sometimes with their bills tucked in their backs well after sunrise. They sand-bathe more frequently than other bee-eater species and will sometimes bathe in water by dipping into water in flight.<sup id="cite_ref-hbk_3-3" class="reference"><a href="#cite_note-hbk-3"><span>[</span>4<span>]</span></a></sup> They are usually seen in small groups and often roost communally in large numbers (200-300). The birds move excitedly at the roost site and call loudly, often explosively dispersing before settling back to the roost tree.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> The Little Green Bee-Eater is also becoming common in urban and sub-urban neighborhoods, and has been observed perching on television antennae, only to launch into a brief, zig-zag flight formation to catch an insect, then return to the same perch and consume the meal. This behaviour is generally observed between the hours of 7:00 and 8:00am, and after 4:00pm.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Green_Bee-eaters_(Merops_orientalis)_at_Sindhrot_near_Vadodara,_Gujrat_Pix_254.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Green_Bee-eaters_%28Merops_orientalis%29_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_254.jpg/220px-Green_Bee-eaters_%28Merops_orientalis%29_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_254.jpg" width="220" height="160" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Green_Bee-eaters_%28Merops_orientalis%29_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_254.jpg/330px-Green_Bee-eaters_%28Merops_orientalis%29_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_254.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Green_Bee-eaters_%28Merops_orientalis%29_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_254.jpg/440px-Green_Bee-eaters_%28Merops_orientalis%29_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_254.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Green_Bee-eaters_(Merops_orientalis)_at_Sindhrot_near_Vadodara,_Gujrat_Pix_254.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Sand bathing.</div>
+</div>
+</div>
+<p>The breeding season is from March to June. Unlike many bee-eaters, these are often solitary nesters, making a tunnel in a sandy bank. The breeding pairs are often joined by <a href="/wiki/Helpers_at_the_nest" title="Helpers at the nest">helpers</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> They nest in hollows in vertical mud banks. The nest tunnel that they construct can run as much as 5 feet long and the 3-5 eggs are laid on the bare ground in the cavity at the end of the tunnel. The eggs are very spherical and glossy white.<sup id="cite_ref-whistler_2-3" class="reference"><a href="#cite_note-whistler-2"><span>[</span>3<span>]</span></a></sup> Clutch size varies with rainfall and insect food density. Both sexes incubate. The eggs hatch asynchronously with an incubation period of about 14 days and the chicks grow fledge in 3 to 4 weeks and in the fledging stage show a reduction in body weight.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup></p>
+<p>A study suggested that Green Bee-eaters may be capable of interpreting the behaviour of human observers. They showed an ability to predict whether a human at a particular location would be capable of spotting the nest entrance and then behaved appropriately to avoid giving away the nest location. The ability to look at a situation from another's point of view was previously believed to be possessed only by primates.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup></p>
+<p>Riverside habitats were found to support high populations in southern India (157 birds per square kilometre) dropping off too 101 per km² in agricultural areas and 43-58 per square km near human habitations.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup></p>
+<p>They feed on flying insects and can sometimes be nuisance to bee-keepers.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> The preferred prey was mostly beetles followed by <a href="/wiki/Hymenoptera" title="Hymenoptera">hymenopterans</a>. <a href="/wiki/Orthoptera" title="Orthoptera">Orthopterans</a> appear to be avoided.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup> They are sometimes known to take crabs.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup> Like most other birds they regurgitate the hard parts of their prey as pellets.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup></p>
+<p>An endoparasitic nematode (<i>Torquatoides balanocephala</i>) sometimes infects their gizzard.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Green_Bee-eater&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106001174">"<i>Merops orientalis</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106001174">http://www.iucnredlist.org/apps/redlist/details/106001174</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Merops+orientalis%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106001174&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-fry-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fry_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fry_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fry_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Fry, C.H. &amp; Fry, K. (1992). <i>Kingfishers, Bee-Eaters and Rollers. A Handbook.</i>. Princeton University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7136-8028-8" title="Special:BookSources/0-7136-8028-8">0-7136-8028-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kingfishers%2C+Bee-Eaters+and+Rollers.+A+Handbook.&amp;rft.aulast=Fry%2C+C.H.+%26+Fry%2C+K.&amp;rft.au=Fry%2C+C.H.+%26+Fry%2C+K.&amp;rft.date=1992&amp;rft.pub=Princeton+University+Press&amp;rft.isbn=0-7136-8028-8&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-whistler-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-whistler_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-whistler_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-whistler_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-whistler_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Whistler, Hugh (1949). <a rel="nofollow" class="external text" href="http://www.archive.org/details/popularhandbooko033226mbp"><i>Popular Handbook of Indian Birds. Fourth Edition.</i></a>. Gurney and Jackson. pp.&#160;295–296<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/popularhandbooko033226mbp">http://www.archive.org/details/popularhandbooko033226mbp</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Popular+Handbook+of+Indian+Birds.+Fourth+Edition.&amp;rft.aulast=Whistler%2C+Hugh&amp;rft.au=Whistler%2C+Hugh&amp;rft.date=1949&amp;rft.pages=pp.%26nbsp%3B295%E2%80%93296&amp;rft.pub=Gurney+and+Jackson&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2Fpopularhandbooko033226mbp&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-hbk-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-hbk_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hbk_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hbk_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hbk_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Ali, S &amp; S D Ripley (1983). <i>Handbook of the birds of India and Pakistan</i>. <b>4</b> (2 ed.). Oxford University Press. pp.&#160;108–111.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+birds+of+India+and+Pakistan&amp;rft.aulast=Ali%2C+S+%26+S+D+Ripley&amp;rft.au=Ali%2C+S+%26+S+D+Ripley&amp;rft.date=1983&amp;rft.volume=4&amp;rft.pages=pp.%26nbsp%3B108%E2%80%93111&amp;rft.edition=2&amp;rft.pub=Oxford+University+Press&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation Journal">Baker, ECS (1922). <a rel="nofollow" class="external text" href="http://www.archive.org/details/handlistofgenera00bake">"Handlist of the birds of the Indian empire"</a>. <i>J. Bombay Nat. Hist. Soc.</i> <b>28</b> (2): 141<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/handlistofgenera00bake">http://www.archive.org/details/handlistofgenera00bake</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Handlist+of+the+birds+of+the+Indian+empire&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Baker%2C+ECS&amp;rft.au=Baker%2C+ECS&amp;rft.date=1922&amp;rft.volume=28&amp;rft.issue=2&amp;rft.pages=141&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2Fhandlistofgenera00bake&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation Journal">Nurse,CG (1904). "Occurrence of the Common Indian Bee-eater <i>Merops viridis</i> in Baluchistan.". <i>J. Bombay Nat. Hist. Soc.</i> <b>15</b> (3): 530–531.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Occurrence+of+the+Common+Indian+Bee-eater+%27%27Merops+viridis%27%27+in+Baluchistan.&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Nurse%2CCG&amp;rft.au=Nurse%2CCG&amp;rft.date=1904&amp;rft.volume=15&amp;rft.issue=3&amp;rft.pages=530%E2%80%93531&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation book">Rasmussen PC &amp; JC Anderton (2005). <i>Birds of South Asia: The Ripley Guide.</i>. <b>2</b>. Smithsonian Institution and Lynx Edicions.. pp.&#160;268–269.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+South+Asia%3A+The+Ripley+Guide.&amp;rft.aulast=Rasmussen+PC+%26+JC+Anderton&amp;rft.au=Rasmussen+PC+%26+JC+Anderton&amp;rft.date=2005&amp;rft.volume=2&amp;rft.pages=pp.%26nbsp%3B268%E2%80%93269&amp;rft.pub=Smithsonian+Institution+and+Lynx+Edicions.&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation Journal">Burt, D Brent (2004). <a rel="nofollow" class="external text" href="http://www.faculty.sfasu.edu/burtdonal/PubPDFs/Burt2004.pdf">"Plumage-based phylogenetic analyses of the <i>Merops</i> bee-eaters"</a> (PDF). <i>Ibis</i> <b>146</b>: 481–492. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919x.2004.00289.x">10.1111/j.1474-919x.2004.00289.x</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.faculty.sfasu.edu/burtdonal/PubPDFs/Burt2004.pdf">http://www.faculty.sfasu.edu/burtdonal/PubPDFs/Burt2004.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Plumage-based+phylogenetic+analyses+of+the+%27%27Merops%27%27+bee-eaters&amp;rft.jtitle=Ibis&amp;rft.aulast=Burt%2C+D+Brent&amp;rft.au=Burt%2C+D+Brent&amp;rft.date=2004&amp;rft.volume=146&amp;rft.pages=481%E2%80%93492&amp;rft_id=info:doi/10.1111%2Fj.1474-919x.2004.00289.x&amp;rft_id=http%3A%2F%2Fwww.faculty.sfasu.edu%2Fburtdonal%2FPubPDFs%2FBurt2004.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Whistler,H (1919). "Abnormal variety of the Green Bee-eater <i>Merops viridis</i>". <i>J. Bombay Nat. Hist. Soc.</i> <b>26</b> (3): 844.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Abnormal+variety+of+the+Green+Bee-eater+%27%27Merops+viridis%27%27&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Whistler%2CH&amp;rft.au=Whistler%2CH&amp;rft.date=1919&amp;rft.volume=26&amp;rft.issue=3&amp;rft.pages=844&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation Journal">Dewar, Douglas (1906). "A Note on the Migration of the Common Indian Bee-eater (Merops viridis).". <i>J. Bombay Nat. Hist. Soc.</i> <b>17</b> (2): 520–522.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+Note+on+the+Migration+of+the+Common+Indian+Bee-eater+%28Merops+viridis%29.&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Dewar%2C+Douglas&amp;rft.au=Dewar%2C+Douglas&amp;rft.date=1906&amp;rft.volume=17&amp;rft.issue=2&amp;rft.pages=520%E2%80%93522&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bastawde,DB (1976). "The roosting habits of Green Bee-eater <i>Merops orientalis orientalis</i> Latham.". <i>J. Bombay Nat. Hist. Soc.</i> <b>73</b> (1): 215.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+roosting+habits+of+Green+Bee-eater+%27%27Merops+orientalis+orientalis%27%27+Latham.&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Bastawde%2CDB&amp;rft.au=Bastawde%2CDB&amp;rft.date=1976&amp;rft.volume=73&amp;rft.issue=1&amp;rft.pages=215&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation Journal">Burt, D. Brent (2002). <a rel="nofollow" class="external text" href="http://www.faculty.sfasu.edu/dbburt/PubPDFs/burt2002.pdf">"Social and Breeding Biology of Bee-eaters in</a> <a href="/wiki/Thailand" title="Thailand">Thailand</a>." (PDF). <i>Wilson Bull.</i> <b>114</b> (2): 275–279. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1676%2F0043-5643%282002%29114%5B0275%3ASABBOB%5D2.0.CO%3B2">10.1676/0043-5643(2002)114[0275:SABBOB]2.0.CO;2</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.faculty.sfasu.edu/dbburt/PubPDFs/burt2002.pdf">http://www.faculty.sfasu.edu/dbburt/PubPDFs/burt2002.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Social+and+Breeding+Biology+of+Bee-eaters+in+%5B%5BThailand%5D%5D.&amp;rft.jtitle=Wilson+Bull.&amp;rft.aulast=Burt%2C+D.+Brent&amp;rft.au=Burt%2C+D.+Brent&amp;rft.date=2002&amp;rft.volume=114&amp;rft.issue=2&amp;rft.pages=275%E2%80%93279&amp;rft_id=info:doi/10.1676%2F0043-5643%282002%29114%5B0275%3ASABBOB%5D2.0.CO%3B2&amp;rft_id=http%3A%2F%2Fwww.faculty.sfasu.edu%2Fdbburt%2FPubPDFs%2Fburt2002.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sridhar, S. &amp; K. Praveen Karanth (1993). <a rel="nofollow" class="external text" href="http://ces.iisc.ernet.in/praveen/Publications/Helpers%20in%20cooperatively%20breeding%20small%20green%20bee-eater%20(Merops%20orientalis).pdf">"Helpers in cooperatively breeding Small Green Bee-eaters (<i>Merops orientalis</i>)."</a> (PDF). <i>Curr. Sci. (Bangalore)</i> <b>65</b>: 489–490<span class="printonly">. <a rel="nofollow" class="external free" href="http://ces.iisc.ernet.in/praveen/Publications/Helpers%20in%20cooperatively%20breeding%20small%20green%20bee-eater%20(Merops%20orientalis).pdf">http://ces.iisc.ernet.in/praveen/Publications/Helpers%20in%20cooperatively%20breeding%20small%20green%20bee-eater%20(Merops%20orientalis).pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Helpers+in+cooperatively+breeding+Small+Green+Bee-eaters+%28%27%27Merops+orientalis%27%27%29.&amp;rft.jtitle=Curr.+Sci.+%28Bangalore%29&amp;rft.aulast=Sridhar%2C+S.+%26+K.+Praveen+Karanth&amp;rft.au=Sridhar%2C+S.+%26+K.+Praveen+Karanth&amp;rft.date=1993&amp;rft.volume=65&amp;rft.pages=489%E2%80%93490&amp;rft_id=http%3A%2F%2Fces.iisc.ernet.in%2Fpraveen%2FPublications%2FHelpers%2520in%2520cooperatively%2520breeding%2520small%2520green%2520bee-eater%2520%28Merops%2520orientalis%29.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Asokan S; Ali AMS;Manikannan R &amp; P. Radhakrishnan (2009). <a rel="nofollow" class="external text" href="http://www.idosi.org/wjz/wjz4%283%292009/2.pdf">"Observations on Nest-sites, Eggs and Nestling Growth Patterns of the Small Bee-eater <i>Merops orientalis</i> L. in India"</a>. <i>World Journal of Zoology</i> <b>4</b> (3): 163–168<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.idosi.org/wjz/wjz4%283%292009/2.pdf">http://www.idosi.org/wjz/wjz4%283%292009/2.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Observations+on+Nest-sites%2C+Eggs+and+Nestling+Growth+Patterns+of+the+Small+Bee-eater+%27%27Merops+orientalis%27%27+L.+in+India&amp;rft.jtitle=World+Journal+of+Zoology&amp;rft.aulast=Asokan+S%3B+Ali+AMS%3BManikannan+R+%26+P.+Radhakrishnan&amp;rft.au=Asokan+S%3B+Ali+AMS%3BManikannan+R+%26+P.+Radhakrishnan&amp;rft.date=2009&amp;rft.volume=4&amp;rft.issue=3&amp;rft.pages=163%E2%80%93168&amp;rft_id=http%3A%2F%2Fwww.idosi.org%2Fwjz%2Fwjz4%25283%25292009%2F2.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Asokan, S., A.M.S. Ali &amp; R. Manikannan (2010). <a rel="nofollow" class="external text" href="http://threatenedtaxa.org/ZooPrintJournal/2010/April/samsoor.htm">"Breeding biology of the Small Bee-eater <i>Merops orientalis</i> (Latham, 1801) in Nagapattinam District, Tamil Nadu, India"</a>. <i>Journal of Threatened Taxa</i> <b>2</b> (4): 797–804<span class="printonly">. <a rel="nofollow" class="external free" href="http://threatenedtaxa.org/ZooPrintJournal/2010/April/samsoor.htm">http://threatenedtaxa.org/ZooPrintJournal/2010/April/samsoor.htm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Breeding+biology+of+the+Small+Bee-eater+%27%27Merops+orientalis%27%27+%28Latham%2C+1801%29+in+Nagapattinam+District%2C+Tamil+Nadu%2C+India&amp;rft.jtitle=Journal+of+Threatened+Taxa&amp;rft.aulast=Asokan%2C+S.%2C+A.M.S.+Ali+%26+R.+Manikannan&amp;rft.au=Asokan%2C+S.%2C+A.M.S.+Ali+%26+R.+Manikannan&amp;rft.date=2010&amp;rft.volume=2&amp;rft.issue=4&amp;rft.pages=797%E2%80%93804&amp;rft_id=http%3A%2F%2Fthreatenedtaxa.org%2FZooPrintJournal%2F2010%2FApril%2Fsamsoor.htm&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation Journal">Watve Milind, Thakar J, Kale A, Pitambekar S. Shaikh I Vaze K, Jog M. Paranjape S. (2002). "Bee-eaters ( Merops orientalis) respond to what a predator can see". <i>Animal Cognition</i> <b>5</b> (4): 253–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2Fs10071-002-0155-6">10.1007/s10071-002-0155-6</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12461603">12461603</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Bee-eaters+%28+Merops+orientalis%29+respond+to+what+a+predator+can+see&amp;rft.jtitle=Animal+Cognition&amp;rft.aulast=Watve+Milind%2C+Thakar+J%2C+Kale+A%2C+Pitambekar+S.+Shaikh+I+Vaze+K%2C+Jog+M.+Paranjape+S.&amp;rft.au=Watve+Milind%2C+Thakar+J%2C+Kale+A%2C+Pitambekar+S.+Shaikh+I+Vaze+K%2C+Jog+M.+Paranjape+S.&amp;rft.date=2002&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=253%E2%80%939&amp;rft_id=info:doi/10.1007%2Fs10071-002-0155-6&amp;rft_id=info:pmid/12461603&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation Journal">Smitha, B., Thakar, J. &amp; Watve, M. (1999). <a rel="nofollow" class="external text" href="http://www.ias.ac.in/currsci/feb25/articles24.htm">"Do bee eaters have theory of mind?"</a>. <i>Current Science</i> <b>76</b>: 574–577<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ias.ac.in/currsci/feb25/articles24.htm">http://www.ias.ac.in/currsci/feb25/articles24.htm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Do+bee+eaters+have+theory+of+mind%3F&amp;rft.jtitle=Current+Science&amp;rft.aulast=Smitha%2C+B.%2C+Thakar%2C+J.+%26+Watve%2C+M.&amp;rft.au=Smitha%2C+B.%2C+Thakar%2C+J.+%26+Watve%2C+M.&amp;rft.date=1999&amp;rft.volume=76&amp;rft.pages=574%E2%80%93577&amp;rft_id=http%3A%2F%2Fwww.ias.ac.in%2Fcurrsci%2Ffeb25%2Farticles24.htm&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Asokan, S., Thiyagesan, K., Nagarajan, R., Kanakasabai, R. (2003). "Studies on <i>Merops orientalis</i> latham 1801 with special reference to its population in Mayiladuthurai, Tamil Nadu.". <i>Journal of Environmental Biology</i> <b>24</b> (4): 477–482. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15248666">15248666</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Studies+on+%27%27Merops+orientalis%27%27+latham+1801+with+special+reference+to+its+population+in+Mayiladuthurai%2C+Tamil+Nadu.&amp;rft.jtitle=Journal+of+Environmental+Biology&amp;rft.aulast=Asokan%2C+S.%2C+Thiyagesan%2C+K.%2C+Nagarajan%2C+R.%2C+Kanakasabai%2C+R.&amp;rft.au=Asokan%2C+S.%2C+Thiyagesan%2C+K.%2C+Nagarajan%2C+R.%2C+Kanakasabai%2C+R.&amp;rft.date=2003&amp;rft.volume=24&amp;rft.issue=4&amp;rft.pages=477%E2%80%93482&amp;rft_id=info:pmid/15248666&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sihag, R.C. (1993). "The green bee-eater Merops orientalis orientalis latham - (1) - Seasonal activity, population density, feeding capacity and bee capture efficiency in the apiary of honey bee, Apis mellifera L. in Haryana(India).". <i>Korean Journal of Apiculture</i> <b>8</b> (1): 5–9.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+green+bee-eater+Merops+orientalis+orientalis+latham+-+%281%29+-+Seasonal+activity%2C+population+density%2C+feeding+capacity+and+bee+capture+efficiency+in+the+apiary+of+honey+bee%2C+Apis+mellifera+L.+in+Haryana%28India%29.&amp;rft.jtitle=Korean+Journal+of+Apiculture&amp;rft.aulast=Sihag%2C+R.C.&amp;rft.au=Sihag%2C+R.C.&amp;rft.date=1993&amp;rft.volume=8&amp;rft.issue=1&amp;rft.pages=5%E2%80%939&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation Journal">Asokan, S (1998). "Food and feeding habits of the small green bee - eater <i>Merops orientalis</i> in Mayiladuthurai.". <i>Journal of Ecobiology</i> <b>10</b> (3): 199–204.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Food+and+feeding+habits+of+the+small+green+bee+-+eater+%27%27Merops+orientalis%27%27+in+Mayiladuthurai.&amp;rft.jtitle=Journal+of+Ecobiology&amp;rft.aulast=Asokan%2C+S&amp;rft.au=Asokan%2C+S&amp;rft.date=1998&amp;rft.volume=10&amp;rft.issue=3&amp;rft.pages=199%E2%80%93204&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation Journal">Khacher,Lavkumar (1995). "Little Green Bee-eater, <i>Merops orientalis</i> Latham feeding on crabs.". <i>J. Bombay Nat. Hist. Soc.</i> <b>92</b> (1): 121.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Little+Green+Bee-eater%2C+%27%27Merops+orientalis%27%27+Latham+feeding+on+crabs.&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Khacher%2CLavkumar&amp;rft.au=Khacher%2CLavkumar&amp;rft.date=1995&amp;rft.volume=92&amp;rft.issue=1&amp;rft.pages=121&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation Journal">Santharam,V (1981). "Pellet casting by Bee-eaters.". <i><a href="/wiki/Newsletter_for_Birdwatchers" title="Newsletter for Birdwatchers">Newsletter for Birdwatchers</a></i> <b>21</b> (12): 18.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Pellet+casting+by+Bee-eaters.&amp;rft.jtitle=%5B%5BNewsletter+for+Birdwatchers%5D%5D&amp;rft.aulast=Santharam%2CV&amp;rft.au=Santharam%2CV&amp;rft.date=1981&amp;rft.volume=21&amp;rft.issue=12&amp;rft.pages=18&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation Journal">Nandi, A. P. (2007). <a rel="nofollow" class="external text" href="http://www.parasitologyindia.org/journal_content/Vol%2031%20No%202%20Dec%202007.pdf">"Scanning electron microscope study of two avian nematodes: Ascaridia trilabium (Linstaw, 1904) and Torquatoides balanocephala (Gendre, 1922)"</a>. <i>Journal of Parasitic Diseases</i> <b>31</b> (2): 103–107<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.parasitologyindia.org/journal_content/Vol%2031%20No%202%20Dec%202007.pdf">http://www.parasitologyindia.org/journal_content/Vol%2031%20No%202%20Dec%202007.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Scanning+electron+microscope+study+of+two+avian+nematodes%3A+Ascaridia+trilabium+%28Linstaw%2C+1904%29+and+Torquatoides+balanocephala+%28Gendre%2C+1922%29&amp;rft.jtitle=Journal+of+Parasitic+Diseases&amp;rft.aulast=Nandi%2C+A.+P.&amp;rft.au=Nandi%2C+A.+P.&amp;rft.date=2007&amp;rft.volume=31&amp;rft.issue=2&amp;rft.pages=103%E2%80%93107&amp;rft_id=http%3A%2F%2Fwww.parasitologyindia.org%2Fjournal_content%2FVol%252031%2520No%25202%2520Dec%25202007.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Green_Bee-eater"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Green_Bee-eater&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Merops_orientalis" class="extiw" title="commons:Merops orientalis">Green Bee-eater</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Merops_orientalis" class="extiw" title="wikispecies:Merops orientalis">Merops orientalis</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/little-green-bee-eater-merops-orientalis">Internet Bird Collection</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bee-eaters" title="Template:Bee-eaters"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bee-eaters" title="Template talk:Bee-eaters"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bee-eaters&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Bee-eater" title="Bee-eater">Bee-eaters</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Meropidae)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><b>Genus</b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;background:#eef;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"><b>Species</b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Nyctyornis" title="Nyctyornis">Nyctyornis</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Red-bearded_Bee-eater" title="Red-bearded Bee-eater">Red-bearded Bee-eater</a></li>
+<li><a href="/wiki/Blue-bearded_Bee-eater" title="Blue-bearded Bee-eater">Blue-bearded Bee-eater</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Meropogon</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Purple-bearded_Bee-eater" title="Purple-bearded Bee-eater">Purple-bearded Bee-eater</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Merops_(genus)" title="Merops (genus)">Merops</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Little_Bee-eater" title="Little Bee-eater">Little Bee-eater</a></li>
+<li><a href="/wiki/Blue-cheeked_Bee-eater" title="Blue-cheeked Bee-eater">Blue-cheeked Bee-eater</a></li>
+<li><strong class="selflink">Green Bee-eater</strong></li>
+<li><a href="/wiki/White-throated_Bee-eater" title="White-throated Bee-eater">White-throated Bee-eater</a></li>
+<li><a href="/wiki/Swallow-tailed_Bee-eater" title="Swallow-tailed Bee-eater">Swallow-tailed Bee-eater</a></li>
+<li><a href="/wiki/Blue-tailed_Bee-eater" title="Blue-tailed Bee-eater">Blue-tailed Bee-eater</a></li>
+<li><a href="/wiki/Black_Bee-eater" title="Black Bee-eater">Black Bee-eater</a></li>
+<li><a href="/wiki/Blue-headed_Bee-eater" title="Blue-headed Bee-eater">Blue-headed Bee-eater</a></li>
+<li><a href="/wiki/Red-throated_Bee-eater" title="Red-throated Bee-eater">Red-throated Bee-eater</a></li>
+<li><a href="/wiki/White-fronted_Bee-eater" title="White-fronted Bee-eater">White-fronted Bee-eater</a></li>
+<li><a href="/wiki/Blue-breasted_Bee-eater" title="Blue-breasted Bee-eater">Blue-breasted Bee-eater</a></li>
+<li><a href="/wiki/Cinnamon-chested_Bee-eater" title="Cinnamon-chested Bee-eater">Cinnamon-chested Bee-eater</a></li>
+<li><a href="/wiki/Black-headed_Bee-eater" title="Black-headed Bee-eater">Black-headed Bee-eater</a></li>
+<li><a href="/wiki/Somali_Bee-eater" title="Somali Bee-eater">Somali Bee-eater</a></li>
+<li><a href="/wiki/B%C3%B6hm%27s_Bee-eater" title="Böhm's Bee-eater">Böhm's Bee-eater</a></li>
+<li><a href="/wiki/Blue-throated_Bee-eater" title="Blue-throated Bee-eater">Blue-throated Bee-eater</a></li>
+<li><a href="/wiki/Olive_Bee-eater" title="Olive Bee-eater">Olive Bee-eater</a></li>
+<li><a href="/wiki/Rainbow_Bee-eater" title="Rainbow Bee-eater">Rainbow Bee-eater</a></li>
+<li><a href="/wiki/European_Bee-eater" title="European Bee-eater">European Bee-eater</a></li>
+<li><a href="/wiki/Chestnut-headed_Bee-eater" title="Chestnut-headed Bee-eater">Chestnut-headed Bee-eater</a></li>
+<li><a href="/wiki/Rosy_Bee-eater" title="Rosy Bee-eater">Rosy Bee-eater</a></li>
+<li><a href="/wiki/Northern_Carmine_Bee-eater" title="Northern Carmine Bee-eater">Northern Carmine Bee-eater</a></li>
+<li><a href="/wiki/Southern_Carmine_Bee-eater" title="Southern Carmine Bee-eater">Southern Carmine Bee-eater</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 19148/1000000
+Preprocessor generated node count: 51719/1500000
+Post-expand include size: 130358/2048000 bytes
+Template argument size: 37709/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:242070-0!*!0!!en!4!* and timestamp 20121023132459 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Green_Bee-eater&amp;oldid=519385335">http://en.wikipedia.org/w/index.php?title=Green_Bee-eater&amp;oldid=519385335</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Meropidae" title="Category:Meropidae">Meropidae</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Nepal" title="Category:Birds of Nepal">Birds of Nepal</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li><li><a href="/wiki/Category:Birds_of_Bhutan" title="Category:Birds of Bhutan">Birds of Bhutan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Bangladesh" title="Category:Birds of Bangladesh">Birds of Bangladesh</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Little+Green+Bee-eater&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Little+Green+Bee-eater" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Bee-eater"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Green_Bee-eater"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Green_Bee-eater" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Green_Bee-eater&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Bee-eater&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Bee-eater" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Bee-eater" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Green_Bee-eater&amp;oldid=519385335" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Green_Bee-eater&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Green_Bee-eater&amp;id=519385335" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Bee-eater" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Green+Bee-eater&amp;oldid=519385335&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Bee-eater&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%88%D8%B1%D9%88%D8%A7%D8%B1_%D8%B4%D8%B1%D9%82%D9%8A_%D8%B5%D8%BA%D9%8A%D8%B1" title="وروار شرقي صغير" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%9C_%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%B6%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF" title="সবুজ বাঁশপাতি" lang="bn" hreflang="bn">বাংলা</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Gwespetaerig_glas" title="Gwespetaerig glas" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Abellerol_verd" title="Abellerol verd" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Smaragdspint" title="Smaragdspint" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Merops_orientalis" title="Merops orientalis" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Hindia_abelman%C4%9Dulo" title="Hindia abelmanĝulo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Erle-txori_berde" title="Erle-txori berde" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Gu%C3%AApier_d%27Orient" title="Guêpier d'Orient" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%A7%D7%A8%D7%A7_%D7%92%D7%9E%D7%93%D7%99" title="שרקרק גמדי" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%95%E0%B2%B3%E0%B3%8D%E0%B2%B3%E0%B2%BF_%E0%B2%AA%E0%B3%80%E0%B2%B0" title="ಕಳ್ಳಿ ಪೀರ" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Smaragdgyurgyalag" title="Smaragdgyurgyalag" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%A8%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%B5%E0%B5%87%E0%B4%B2%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%A4%E0%B5%8D%E0%B4%A4" title="നാട്ടുവേലിത്തത്ത" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%B5%E0%A5%87%E0%A4%A1%E0%A4%BE_%E0%A4%B0%E0%A4%BE%E0%A4%98%E0%A5%82" title="वेडा राघू" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kleine_groene_bijeneter" title="Kleine groene bijeneter" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9F%E3%83%89%E3%83%AA%E3%83%8F%E3%83%81%E3%82%AF%E3%82%A4" title="ミドリハチクイ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D1%89%D1%83%D1%80%D0%BA%D0%B0" title="Малая зелёная щурка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Gr%C3%B6n_dv%C3%A4rgbi%C3%A4tare" title="Grön dvärgbiätare" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%88_%E0%AE%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%9F%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%A9%E0%AF%8D" title="பச்சை ஈப்பிடிப்பான்" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Tr%E1%BA%A3u_%C4%91%E1%BA%A7u_hung" title="Trảu đầu hung" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BB%BF%E5%96%89%E8%9C%82%E8%99%8E" title="绿喉蜂虎" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 October 2012 at 13:24.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Little_Green_Bee-eater&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv280 in 0.137 secs. -->
+	</body>
+</html>

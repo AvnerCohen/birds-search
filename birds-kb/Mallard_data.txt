@@ -953,7 +953,7 @@ Expensive parser function count: 14/500
 			<li class="interwiki-udm"><a href="//udm.wikipedia.org/wiki/%D0%9B%D1%83%D0%B4%D3%B5%D3%A7%D0%B6" title="Лудӵӧж" lang="udm" hreflang="udm">Удмурт</a></li>
 			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B6%D0%B5%D0%BD%D1%8C" title="Крижень" lang="uk" hreflang="uk">Українська</a></li>
 			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/V%E1%BB%8Bt_c%E1%BB%95_xanh" title="Vịt cổ xanh" lang="vi" hreflang="vi">Tiếng Việt</a></li>
-			<li class="interwiki-bat-smg"><a href="//bat-smg.wikipedia.org/wiki/D%C4%97dliuoj%C4%97_p%C4%ABl%C4%97" title="Dėdliuojė pīlė" lang="bat-smg" hreflang="bat-smg">Žemaitėška</a></li>
+			<li class="interwiki-bat-smg"><a href="//bat-smg.wikipedia.org/wiki/D%C4%97dliuoj%C4%97_p%C4%ABl%C4%97" title="Dėdliuojė pīlė" lang="bat-smg" hreflang="bat-smg">Žemaitė��ka</a></li>
 			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BB%BF%E5%A4%B4%E9%B8%AD" title="绿头鸭" lang="zh" hreflang="zh">中文</a></li>
 		</ul>
 	</div>

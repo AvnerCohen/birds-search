@@ -867,7 +867,7 @@ Expensive parser function count: 2/500
 			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Sterna_hirundo" title="Sterna hirundo" lang="pt" hreflang="pt">Português</a></li>
 			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D1%8B%D1%88%D0%BA%D0%B0" title="Мартышка" lang="rue" hreflang="rue">Русиньскый</a></li>
 			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D1%80%D0%B0%D1%87%D0%BA%D0%B0" title="Речная крачка" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A2%D1%8B%D1%8B%D1%80%D0%B0%D0%B0%D1%85%D1%8B" title="Тыыраахы" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A2%D1%8B%D1%8B%D1%80%D0%B0%D0%B0%D1%85%D1%8B" title="Тыыраахы" lang="sah" hreflang="sah">Саха ты��а</a></li>
 			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ryb%C3%A1r_rie%C4%8Dny" title="Rybár riečny" lang="sk" hreflang="sk">Slovenčina</a></li>
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kalatiira" title="Kalatiira" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Fiskt%C3%A4rna" title="Fisktärna" lang="sv" hreflang="sv">Svenska</a></li>

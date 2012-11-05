@@ -552,7 +552,7 @@ Expensive parser function count: 7/500
 			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%82%D9%88%DB%8C_%D8%AA%D9%88%D9%86%D8%AF%D8%B1%D8%A7" title="قوی توندرا" lang="fa" hreflang="fa">فارسی</a></li>
 			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Cygne_siffleur" title="Cygne siffleur" lang="fr" hreflang="fr">Français</a></li>
 			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Lytse_Swan" title="Lytse Swan" lang="fy" hreflang="fy">Frysk</a></li>
-			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B3%A0%EB%8B%88" title="고니" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B3%A0%EB%8B%88" title="고���" lang="ko" hreflang="ko">한국어</a></li>
 			<li class="interwiki-ik"><a href="//ik.wikipedia.org/wiki/Qu%C4%A1ruk" title="Quġruk" lang="ik" hreflang="ik">Iñupiak</a></li>
 			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Dvergsvanur" title="Dvergsvanur" lang="is" hreflang="is">Íslenska</a></li>
 			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Cygnus_columbianus" title="Cygnus columbianus" lang="it" hreflang="it">Italiano</a></li>

@@ -406,7 +406,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Vanellus_leucurus" title="Vanellus leucurus" lang="it" hreflang="it">Italiano</a></li>
 			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Baltauodeg%C4%97_pemp%C4%97" title="Baltauodegė pempė" lang="lt" hreflang="lt">Lietuvių</a></li>
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Feh%C3%A9rfark%C3%BA_lileb%C3%ADbic" title="Fehérfarkú lilebíbic" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%B5%E0%B4%BE%E0%B4%B2%E0%B5%BB_%E0%B4%A4%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%B0%E0%B4%BF" title="വെള്ളവാലൻ തിത്തിരി" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%B5%E0%B4%BE%E0%B4%B2%E0%B5%BB_%E0%B4%A4%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%B0%E0%B4%BF" title="വെള്ളവാലൻ തിത്തിരി" lang="ml" hreflang="ml">���ലയാളം</a></li>
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Sumpvipe" title="Sumpvipe" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
 			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%86%D9%B9%DB%8C_%D9%BE%DA%86%DA%BE_%D8%A2%D9%84%D8%A7_%D9%84%DB%8C%D9%BE%D9%88%D9%86%DA%AF" title="چٹی پچھ آلا لیپونگ" lang="pnb" hreflang="pnb">پنجابی</a></li>
 			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Czajka_stepowa" title="Czajka stepowa" lang="pl" hreflang="pl">Polski</a></li>

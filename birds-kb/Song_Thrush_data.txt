@@ -641,7 +641,7 @@ Expensive parser function count: 3/500
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Laulurastas" title="Laulurastas" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Taltrast" title="Taltrast" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C3%96ter_ard%C4%B1%C3%A7_ku%C5%9Fu" title="Öter ardıç kuşu" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D1%80%D1%96%D0%B7%D0%B4_%D1%81%D0%BF%D1%96%D0%B2%D0%BE%D1%87%D0%B8%D0%B9" title="Дрізд співочий" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D1%80%D1%96%D0%B7%D0%B4_%D1%81%D0%BF%D1%96%D0%B2%D0%BE%D1%87%D0%B8%D0%B9" title="Дрізд співочий" lang="uk" hreflang="uk">Україн��ька</a></li>
 			<li class="interwiki-bat-smg"><a href="//bat-smg.wikipedia.org/wiki/Strazdos" title="Strazdos" lang="bat-smg" hreflang="bat-smg">Žemaitėška</a></li>
 			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%AD%90%E6%AD%8C%E9%B6%87" title="歐歌鶇" lang="zh" hreflang="zh">中文</a></li>
 		</ul>

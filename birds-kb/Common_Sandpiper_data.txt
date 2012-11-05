@@ -383,7 +383,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9A%D1%8A%D1%81%D0%BE%D0%BA%D1%80%D0%B8%D0%BB_%D0%BA%D1%8E%D0%BA%D0%B0%D0%B2%D0%B5%D1%86" title="Късокрил кюкавец" lang="bg" hreflang="bg">Български</a></li>
 			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Bistroll_kof_gwenn" title="Bistroll kof gwenn" lang="br" hreflang="br">Brezhoneg</a></li>
 			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Xivitona_vulgar" title="Xivitona vulgar" lang="ca" hreflang="ca">Català</a></li>
-			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Pis%C3%ADk_obecn%C3%BD" title="Pisík obecný" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Pis%C3%ADk_obecn%C3%BD" title="Pisík obecný" lang="cs" hreflang="cs">��esky</a></li>
 			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Pibydd_y_Dorlan" title="Pibydd y Dorlan" lang="cy" hreflang="cy">Cymraeg</a></li>
 			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Flussuferl%C3%A4ufer" title="Flussuferläufer" lang="de" hreflang="de">Deutsch</a></li>
 			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Vihitaja" title="Vihitaja" lang="et" hreflang="et">Eesti</a></li>

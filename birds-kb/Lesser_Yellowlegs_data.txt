@@ -352,7 +352,7 @@ Expensive parser function count: 0/500
 	<h5>Languages</h5>
 	<div class="body">
 		<ul>
-			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%96%D0%B0%D1%9E%D1%82%D0%B0%D0%BD%D0%BE%D0%B3%D1%96_%D0%BA%D1%83%D0%BB%D1%96%D0%BA" title="Жаўтаногі кулік" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%96%D0%B0%D1%9E%D1%82%D0%B0%D0%BD%D0%BE%D0%B3%D1%96_%D0%BA%D1%83%D0%BB%D1%96%D0%BA" title="Жаўтаногі кулік" lang="be-x-old" hreflang="be-x-old">Б��ларуская (тарашкевіца)‎</a></li>
 			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Strelleg_bihan_pavio%C3%B9_melen" title="Strelleg bihan pavioù melen" lang="br" hreflang="br">Brezhoneg</a></li>
 			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Gamba_groga_petita" title="Gamba groga petita" lang="ca" hreflang="ca">Català</a></li>
 			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Kleiner_Gelbschenkel" title="Kleiner Gelbschenkel" lang="de" hreflang="de">Deutsch</a></li>
@@ -369,7 +369,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Brodziec_%C5%BC%C3%B3%C5%82tonogi" title="Brodziec żółtonogi" lang="pl" hreflang="pl">Polski</a></li>
 			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Perna-amarela-pequeno" title="Perna-amarela-pequeno" lang="pt" hreflang="pt">Português</a></li>
 			<li class="interwiki-qu"><a href="//qu.wikipedia.org/wiki/Pikikuy" title="Pikikuy" lang="qu" hreflang="qu">Runa Simi</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B9_%D1%83%D0%BB%D0%B8%D1%82" title="Желтоногий улит" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B9_%D1%83%D0%BB%D0%B8%D1%82" title="Желтоногий у��ит" lang="ru" hreflang="ru">Русский</a></li>
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Keltajalkaviklo" title="Keltajalkaviklo" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Mindre_gulbena" title="Mindre gulbena" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_sar%C4%B1bacak" title="Küçük sarıbacak" lang="tr" hreflang="tr">Türkçe</a></li>
