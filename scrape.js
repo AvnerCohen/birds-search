@@ -6,15 +6,27 @@ var async = require('async');
 var nodeio = require('node.io');
 var fs = require('fs');
 var path = require('path');
-request.defaults({"User-Agent" : "BirdData/1.1 (http://www.israbirding.com/; israbirding@gmail.com)"});
+var log = require("./log").log;
+
+
+request.defaults({
+    "User-Agent": "BirdData/1.1 (http://www.israbirding.com/; israbirding@gmail.com)"
+});
+
 function parseSpeciesName(orig) {
     return (orig.replace(/\ /g, "_"));
 }
 
 function scrapeWikiPage(species_name) {
-    console.log(species_name + "::1-Scraping");
-
-    request('http://en.wikipedia.org/wiki/' + species_name).pipe(fs.createWriteStream("./birds-kb/" + species_name + "_data.txt"));
+    //Second cycle.. Scrape and save only data is not already present
+    var filename = "./birds-kb/" + species_name + "_data.txt";
+    var stats = fs.lstatSync(filename);
+    if (!stats || stats.size > 120) {
+        console.log(species_name + "::1-Scraping");
+        request('http://en.wikipedia.org/wiki/' + species_name).pipe(fs.createWriteStream(filename));
+    } else {
+        log(species_name + "::0-Skipped scraping");
+    }
 }
 
 
@@ -22,8 +34,8 @@ var doneOnce = false;
 var g_speciesList = [];
 var q = null;
 
-var CONCURRENT = 15;
-var TIMEOUT = 3 * 1000;
+var CONCURRENT = 20;
+var TIMEOUT = 2 * 1000;
 
 function doIt(species) {
 
@@ -52,10 +64,10 @@ function addToQueue(species_name) {
             bird: new_item
         }, addToQueue);
     }
-    if (q.length()<CONCURRENT/2 ) {
-    addToQueue();//Fill up
-    console.log("\x1B[31mFill up queue\x1B[0m");
-  }
+    if (q.length() < CONCURRENT / 2) {
+        addToQueue(); //Fill up
+        log("Fill up queue");
+    }
 
 }
 
