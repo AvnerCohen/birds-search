@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common Buzzard - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_Buzzard&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_Buzzard&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_Buzzard","wgTitle":"Common Buzzard","wgCurRevisionId":509675426,"wgArticleId":4193,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Latin language external links","IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from September 2011","Articles with unsourced statements from May 2011","Articles with unsourced statements from July 2009","Use dmy dates from May 2011","Buteo","Birds of prey","Birds of Asia","Birds of Europe","Birds of Pakistan","Birds of Iran","Birds of Palestine","Birds of Lithuania","Birds of South Africa","Birds of Turkey","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_Buzzard","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"20db61f1aeb1b008cd7b1dd31cc7d0e4","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":4193,"title":"Common Buzzard","namespace":0,"categories":["All articles with unsourced statements","Articles with \'species\' microformats","Articles with Latin language external links","Articles with unsourced statements from July 2009","Articles with unsourced statements from May 2011","Articles with unsourced statements from September 2011","Birds of Asia","Birds of Europe","Birds of Iran","Birds of Lithuania","Birds of Pakistan","Birds of Palestine","Birds of South Africa","Birds of Turkey","Birds of Western Sahara","Birds of prey","Buteo","IUCN Red List least concern species","Use dmy dates from May 2011"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({
+"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:deddd9b1d1718c216e913c8d345259d4 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_Buzzard skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common Buzzard</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Common Buzzard</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Buteo_buteo_-Netherlands-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Buteo_buteo_-Netherlands-8.jpg/220px-Buteo_buteo_-Netherlands-8.jpg" width="220" height="293" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">In the Netherlands</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Accipitriformes" title="Accipitriformes">Accipitriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Buteo" title="Buteo">Buteo</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>B. buteo</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Buteo buteo</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p>7-10, see text</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Buteo_buteo_dis.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Buteo_buteo_dis.PNG/220px-Buteo_buteo_dis.PNG" width="220" height="102" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Dark green: All-year distribution<br />
+Light green/blue: Breeding/winter range of Steppe Buzzard.</td>
+</tr>
+</table>
+</div>
+<p>The <b>Common Buzzard</b> (<i>Buteo buteo</i>) is a medium to large <a href="/wiki/Bird_of_prey" title="Bird of prey">bird of prey</a>, whose range covers most of <a href="/wiki/Europe" title="Europe">Europe</a> and extends into <a href="/wiki/Asia" title="Asia">Asia</a>. It is usually resident all year, except in the coldest parts of its range, and in the case of one <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Systematics"><span class="tocnumber">2</span> <span class="toctext">Systematics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Steppe_Buzzard"><span class="tocnumber">4</span> <span class="toctext">Steppe Buzzard</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Forest_Buzzard"><span class="tocnumber">5</span> <span class="toctext">Forest Buzzard</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Buzzard&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Common Buzzard measures between 40 and 58 cm (16 and 23 in) in length with a 109–136 cm (43–54 in) wingspan and a body mass of 427–1,364 g (0.94–3.01 lb), making it a medium-sized <a href="/wiki/Bird_of_prey" title="Bird of prey">raptor</a>.<sup id="cite_ref-CRC_1-0" class="reference"><a href="#cite_note-CRC-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>This broad-winged raptor has a wide variety of plumages, and in Europe can be confused with the similar <a href="/wiki/Rough-legged_Buzzard" title="Rough-legged Buzzard">Rough-legged Buzzard</a> (<i>Buteo lagopus</i>) and the only distantly related <a href="/wiki/European_Honey_Buzzard" title="European Honey Buzzard">European Honey Buzzard</a> (<i>Pernis apivorus</i>), which mimics the Common Buzzard's plumage for a degree of protection from <a href="/wiki/Northern_Goshawk" title="Northern Goshawk">Northern Goshawks</a><sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from September 2011">citation needed</span></a></i>]</sup>. The plumage can vary in Britain from almost pure white to black, but is usually shades of brown, with a pale 'necklace' of feathers.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Buzzard&amp;action=edit&amp;section=2" title="Edit section: Systematics">edit</a>]</span> <span class="mw-headline" id="Systematics">Systematics</span></h2>
+<p>The Common Buzzard was first described by <a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a> in his <i>Systema naturae</i> in 1758 as <i>Falco buteo</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> Buzzard subspecies fall into two groups. The western <i>Buteo</i> group is mainly resident or short-distance <a href="/wiki/Bird_migration" title="Bird migration">migrants</a>. They are:</p>
+<ul>
+<li><i>Buteo buteo buteo</i>: most of Europe</li>
+<li><i>B. b. rothschildi</i>: <a href="/wiki/Azores" title="Azores">Azores</a></li>
+<li><i>B. b. insularum</i>: <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a></li>
+<li><i>B. b. arrigonii</i>: <a href="/wiki/Corsica" title="Corsica">Corsica</a> and <a href="/wiki/Sardinia" title="Sardinia">Sardinia</a></li>
+<li><i>B. b. menetriesi</i>: <a href="/wiki/Caucasus" title="Caucasus">Caucasus</a></li>
+<li><i>B. b. harterti</i>: <a href="/wiki/Madeira" title="Madeira">Madeira</a>, doubtfully distinct from nominate <i>Buteo</i></li>
+</ul>
+<p>The eastern <i>vulpinus</i> group includes</p>
+<ul>
+<li><i>B. b. vulpinus</i> (<b>Steppe Buzzard</b>): <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a>: migrant breeder</li>
+<li><i>B. b. burmanicus</i> (<b>Himalayan Buzzard</b>): Himalayas and western China</li>
+<li><i>B. b. japonicus</i>: <a href="/wiki/Japan" title="Japan">Japan</a>: resident</li>
+<li><i>B. b. toyoshimai</i>: <a href="/wiki/Izu_Islands" title="Izu Islands">Izu Islands</a> and <a href="/wiki/Bonin_Islands" title="Bonin Islands">Bonin Islands</a></li>
+<li><i>B. b. oshiroi</i>: <a href="/wiki/Daito_Islands" title="Daito Islands" class="mw-redirect">Daito Islands</a></li>
+</ul>
+<p>Two resident forms on islands close to <a href="/wiki/Africa" title="Africa">Africa</a> are often assigned to the first group, but appear to be distinct <a href="/wiki/Species" title="Species">species</a>, more closely related to the African <a href="/wiki/Long-legged_Buzzard" title="Long-legged Buzzard">Long-legged Buzzard</a>, based on <a href="/wiki/Biogeography" title="Biogeography">biogeography</a> and preliminary <a href="/wiki/MtDNA" title="MtDNA" class="mw-redirect">mtDNA</a> <a href="/wiki/Cytochrome_b" title="Cytochrome b">cytochrome <i>b</i></a> <a href="/wiki/DNA_sequence" title="DNA sequence" class="mw-redirect">sequence</a> data (Clouet &amp; Wink 2000):</p>
+<ul>
+<li><i>Buteo bannermani</i> (<a href="/wiki/Cape_Verde_Buzzard" title="Cape Verde Buzzard">Cape Verde Buzzard</a>): <a href="/wiki/Cape_Verde_Islands" title="Cape Verde Islands" class="mw-redirect">Cape Verde Islands</a></li>
+<li><i>Buteo socotraensis</i> (<a href="/wiki/Socotra_Buzzard" title="Socotra Buzzard">Socotra Buzzard</a>) of <a href="/wiki/Socotra" title="Socotra">Socotra</a></li>
+</ul>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Buteo_buteo_-Hamerton_Zoo,_Cambridgeshire,_England_-head-8a.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Buteo_buteo_-Hamerton_Zoo%2C_Cambridgeshire%2C_England_-head-8a.jpg/220px-Buteo_buteo_-Hamerton_Zoo%2C_Cambridgeshire%2C_England_-head-8a.jpg" width="220" height="146" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Buteo_buteo_-Hamerton_Zoo,_Cambridgeshire,_England_-head-8a.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+At <a href="/wiki/Hamerton_Zoo" title="Hamerton Zoo">Hamerton Zoo</a>, England</div>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Buzzard&amp;action=edit&amp;section=3" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Buzzard_UK09.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Buzzard_UK09.JPG/170px-Buzzard_UK09.JPG" width="170" height="202" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Buzzard_UK09.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In flight, Devon, England. There are around 40,000 <a href="/wiki/Breeding_pair" title="Breeding pair">breeding pairs</a> in the United Kingdom</div>
+</div>
+</div>
+<p>The Common Buzzard breeds in <a href="/wiki/Woodland" title="Woodland">woodlands</a>, usually on the fringes, but favours hunting over open land. It eats mainly small <a href="/wiki/Mammal" title="Mammal">mammals</a>, and will come to <a href="/wiki/Carrion" title="Carrion">carrion</a>. A great opportunist, it adapts well to a varied diet of pheasant, rabbit, other small mammals to medium mammals, snakes and lizards, and can often be seen walking over recently ploughed fields looking for worms and insects. The birds have incredible strength and are therefore able to pick up food of all weights.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from May 2011">citation needed</span></a></i>]</sup></p>
+<p>Buzzards do not normally form <a href="/wiki/Flocks" title="Flocks" class="mw-redirect">flocks</a>, but several may be seen together on <a href="/wiki/Bird_migration" title="Bird migration">migration</a> or in good habitat. The <a href="/wiki/Victorian_era" title="Victorian era">Victorian</a> writer on <a href="/wiki/Dartmoor" title="Dartmoor">Dartmoor</a>, <a href="/wiki/William_Crossing" title="William Crossing">William Crossing</a>, noted he had on occasions seen flocks of 15 or more at some places. Though a rare occurrence, as many as 20 buzzards can be spotted in one field area, approximately 30 metres apart, so cannot be classed as a flock in the general sense, consisting of birds without a mate or territory. They are fiercely territorial, and, though rare, fights do break out if one strays onto another pair's territory, but dominant displays of aggression will normally see off the interloper. Pairs mate for life. To attract a mate (or impress his existing mate) the male performs a ritual aerial display before the beginning of spring. This spectacular display is known as 'the roller coaster'. He will rise high up in the sky, to turn and plummet downward, in a spiral, twisting and turning as he comes down. He then rises immediately upward to repeat the exercise.</p>
+<p>The call is a plaintive <i>peea-ay</i>, similar to a cat's <a href="/wiki/Cat_communication#Meow" title="Cat communication">meow</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Buzzard&amp;action=edit&amp;section=4" title="Edit section: Steppe Buzzard">edit</a>]</span> <span class="mw-headline" id="Steppe_Buzzard">Steppe Buzzard</span></h2>
+<p>The Steppe Buzzard, <i>B. (b.) vulpinus</i> breeds from east Europe eastward to the Far East, excluding Japan. It is a long-distance <a href="/wiki/Bird_migration" title="Bird migration">migrant</a>, excepting some north <a href="/wiki/Himalayas" title="Himalayas">Himalayan</a> birds, and winters in Africa, India and southeastern Asia. In the open country favoured on the wintering grounds, steppe buzzards are often seen perched on roadside telephone poles.</p>
+<p>Steppe Buzzard is some times split as a separate species, <i>B. vulpinus</i>. Compared to the nominate form, it is slightly smaller (45–50&#160;cm long), longer winged and longer tailed. There are two colour morphs: the rufous form which gives this subspecies its scientific name (<i>vulpes</i> is Latin for "fox"), and a dark grey form.</p>
+<p>The tail of <i>vulpinus</i> is paler than the nominate form, and often quite rufous, recalling North American <a href="/wiki/Red-tailed_Hawk" title="Red-tailed Hawk">Red-tailed Hawk</a>. The upper wings have pale primary patches, and the primary flight feathers are also paler when viewed from below. Adults have a black trailing edge to the wings, and both morphs often have plain underparts, lacking the breast band frequently seen in <i>B. b. buteo</i>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Buzzard&amp;action=edit&amp;section=5" title="Edit section: Forest Buzzard">edit</a>]</span> <span class="mw-headline" id="Forest_Buzzard">Forest Buzzard</span></h2>
+<p>The Forest Buzzard, <i>B. (b.) trizonatus</i>,<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from July 2009">citation needed</span></a></i>]</sup> is another form sometimes upgraded to a full species, though most recent authorities have placed it as a subspecies of another species, the <a href="/wiki/Mountain_Buzzard" title="Mountain Buzzard">Mountain Buzzard</a>, <i>B. oreophilus</i>. This is a resident breeding species in woodlands in southern and eastern South Africa.</p>
+<p>It is very similar to the abundant summer migrant Steppe Buzzard, but the adult can be distinguished with a good view by its whiter underparts and unbarred flanks. The juvenile differs from the same-age steppe buzzard by its white front and tear-shaped flank streaks.</p>
+<p>The Forest Buzzard, as its name implies, inhabits evergreen woodlands, including introduced <a href="/wiki/Eucalyptus" title="Eucalyptus">eucalyptus</a> and <a href="/wiki/Pine" title="Pine">pines</a>, whereas the steppe buzzard prefers more open habitats. However, habitat alone is not a good indicator for these forms.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Buzzard&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/160032591">"<i>Buteo buteo</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/160032591">http://www.iucnredlist.org/apps/redlist/details/160032591</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Buteo+buteo%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F160032591&amp;rfr_id=info:sid/en.wikipedia.org:Common_Buzzard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-CRC-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRC_1-0">^</a></b></span> <span class="reference-text"><i>CRC Handbook of Avian Body Masses</i> by John B. Dunning Jr. (Editor). CRC Press (1992), <a href="/wiki/Special:BookSources/9780849342585" class="internal mw-magiclink-isbn">ISBN 978-0-8493-4258-5</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Raptors of the World</i> by Ferguson-Lees, Christie, Franklin, Mead &amp; Burton. Houghton Mifflin (2001), <a href="/wiki/Special:BookSources/0618127623" class="internal mw-magiclink-isbn">ISBN 0-618-12762-3</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Latin)</span> <span class="citation book"><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus, C</a> (1758). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata.</i>. Holmiae. (Laurentii Salvii).. pp.&#160;90. "F. cera pedibusque luteis, corpore fusco, abdomine paludo maculis fuscis."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata.&amp;rft.aulast=Linnaeus&amp;rft.aufirst=C&amp;rft.au=Linnaeus%2C%26%2332%3BC&amp;rft.date=1758&amp;rft.pages=pp.%26nbsp%3B90&amp;rft.pub=Holmiae.+%28Laurentii+Salvii%29.&amp;rfr_id=info:sid/en.wikipedia.org:Common_Buzzard"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li>Clouet, Michel and Wink, Michael (2000): The Buzzards of Cape Verde (<i>Buteo (buteo) bannermani</i>) and Socotra (<i>Buteo buteo</i> spp.) - First results of a genetic analysis based on nucleotide sequences of the cytochrome <i>b</i> gene. <i>Alauda</i> <b>68</b>(1): 55-58. <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/2000/8.%202000.pdf">PDF fulltext</a></li>
+<li>Ferguson-Lees, Christie, Franklin, Mead and Burton Raptors of the World <a href="/wiki/Special:BookSources/0713680261" class="internal mw-magiclink-isbn">ISBN 0-7136-8026-1</a></li>
+<li>Mullarney, Svensson, Zetterstrom and Grant, <i>Collins Bird Guide</i> <a href="/wiki/Special:BookSources/0002197286" class="internal mw-magiclink-isbn">ISBN 0-00-219728-6</a></li>
+<li>Ian Sinclair, Phil Hockey and Warwick Tarboton, <i>SASOL Birds of Southern Africa</i> (Struik 2002) <a href="/wiki/Special:BookSources/1868727211" class="internal mw-magiclink-isbn">ISBN 1-86872-721-1</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Buzzard&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Buteo_buteo" class="extiw" title="commons:Buteo buteo">Buteo buteo</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li>Steppe Buzzard - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/149.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+<li>Madeira Birds: <a rel="nofollow" class="external text" href="http://www.madeirabirds.com/buzzard">Buzzard</a>. Page about the controversial subspecies <i>harterti</i>. Retrieved 2006-NOV-28.</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/119_CommonBuzzardBbuteo.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Buteoninae" title="Template:Buteoninae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Buteoninae" title="Template talk:Buteoninae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Buteoninae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Family_(biology)" title="Family (biology)">Subfamily</a>: <b><a href="/wiki/Buteoninae" title="Buteoninae">Buteoninae</a></b></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b> (extinctions: † indicates a species confirmed to be extinct)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Geranoaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-chested_Buzzard-Eagle" title="Black-chested Buzzard-Eagle">Black-chested Buzzard-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Buteo" title="Buteo">Buteo</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Common Buzzard</strong></li>
+<li><a href="/wiki/Red-tailed_Hawk" title="Red-tailed Hawk">Red-tailed Hawk</a></li>
+<li><a href="/wiki/Long-legged_Buzzard" title="Long-legged Buzzard">Long-legged Buzzard</a></li>
+<li><a href="/wiki/Rough-legged_Buzzard" title="Rough-legged Buzzard">Rough-legged Buzzard</a></li>
+<li><a href="/wiki/Ferruginous_Hawk" title="Ferruginous Hawk">Ferruginous Hawk</a></li>
+<li><a href="/wiki/Red-shouldered_Hawk" title="Red-shouldered Hawk">Red-shouldered Hawk</a></li>
+<li><a href="/wiki/Broad-winged_Hawk" title="Broad-winged Hawk">Broad-winged Hawk</a></li>
+<li><a href="/wiki/Swainson%27s_Hawk" title="Swainson's Hawk">Swainson's Hawk</a></li>
+<li><a href="/wiki/Roadside_Hawk" title="Roadside Hawk">Roadside Hawk</a></li>
+<li><a href="/wiki/Ridgway%27s_Hawk" title="Ridgway's Hawk">Ridgway's Hawk</a></li>
+<li><a href="/wiki/White-rumped_Hawk" title="White-rumped Hawk">White-rumped Hawk</a></li>
+<li><a href="/wiki/Short-tailed_Hawk" title="Short-tailed Hawk">Short-tailed Hawk</a></li>
+<li><a href="/wiki/White-throated_Hawk" title="White-throated Hawk">White-throated Hawk</a></li>
+<li><a href="/wiki/White-tailed_Hawk" title="White-tailed Hawk">White-tailed Hawk</a></li>
+<li><a href="/wiki/Gal%C3%A1pagos_Hawk" title="Galápagos Hawk" class="mw-redirect">Galápagos Hawk</a></li>
+<li><a href="/wiki/Variable_Hawk" title="Variable Hawk">Variable Hawk</a></li>
+<li><a href="/wiki/Grey_Hawk" title="Grey Hawk">Grey Hawk</a></li>
+<li><a href="/wiki/Zone-tailed_Hawk" title="Zone-tailed Hawk">Zone-tailed Hawk</a></li>
+<li><a href="/wiki/Hawaiian_Hawk" title="Hawaiian Hawk">Hawaiian Hawk</a></li>
+<li><a href="/wiki/Rufous-tailed_Hawk" title="Rufous-tailed Hawk">Rufous-tailed Hawk</a></li>
+<li><a href="/wiki/Mountain_Buzzard" title="Mountain Buzzard">Mountain Buzzard</a></li>
+<li><a href="/wiki/Madagascar_Buzzard" title="Madagascar Buzzard">Madagascar Buzzard</a></li>
+<li><a href="/wiki/Upland_Buzzard" title="Upland Buzzard">Upland Buzzard</a></li>
+<li><a href="/wiki/Red-necked_Buzzard" title="Red-necked Buzzard">Red-necked Buzzard</a></li>
+<li><a href="/wiki/Jackal_Buzzard" title="Jackal Buzzard">Jackal Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Parabuteo</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harris%27s_Hawk" title="Harris's Hawk">Harris's Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Buteogallus" title="Buteogallus">Buteogallus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rufous_Crab-hawk" title="Rufous Crab-hawk" class="mw-redirect">Rufous Crab-hawk</a></li>
+<li><a href="/wiki/Common_Black_Hawk" title="Common Black Hawk">Common Black Hawk</a></li>
+<li><a href="/wiki/Cuban_Black_Hawk" title="Cuban Black Hawk">Cuban Black Hawk</a></li>
+<li><a href="/wiki/Great_Black_Hawk" title="Great Black Hawk">Great Black Hawk</a></li>
+<li><a href="/wiki/Savanna_Hawk" title="Savanna Hawk">Savanna Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Busarellus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-collared_Hawk" title="Black-collared Hawk">Black-collared Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Leucopternis" title="Leucopternis">Leucopternis</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-browed_Hawk" title="White-browed Hawk">White-browed Hawk</a></li>
+<li><a href="/wiki/White-necked_Hawk" title="White-necked Hawk">White-necked Hawk</a></li>
+<li><a href="/wiki/Black-faced_Hawk" title="Black-faced Hawk">Black-faced Hawk</a></li>
+<li><a href="/wiki/Grey-backed_Hawk" title="Grey-backed Hawk">Grey-backed Hawk</a></li>
+<li><a href="/wiki/Plumbeous_Hawk" title="Plumbeous Hawk">Plumbeous Hawk</a></li>
+<li><a href="/wiki/Mantled_Hawk" title="Mantled Hawk">Mantled Hawk</a></li>
+<li><a href="/wiki/Barred_Hawk" title="Barred Hawk">Barred Hawk</a></li>
+<li><a href="/wiki/Slate-coloured_Hawk" title="Slate-coloured Hawk">Slate-coloured Hawk</a></li>
+<li><a href="/wiki/Semiplumbeous_Hawk" title="Semiplumbeous Hawk">Semiplumbeous Hawk</a></li>
+<li><a href="/wiki/White_Hawk" title="White Hawk">White Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Kaupifalco</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lizard_Buzzard" title="Lizard Buzzard">Lizard Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Butastur" title="Butastur">Butastur</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rufous-winged_Buzzard" title="Rufous-winged Buzzard">Rufous-winged Buzzard</a></li>
+<li><a href="/wiki/Grasshopper_Buzzard" title="Grasshopper Buzzard">Grasshopper Buzzard</a></li>
+<li><a href="/wiki/White-eyed_Buzzard" title="White-eyed Buzzard">White-eyed Buzzard</a></li>
+<li><a href="/wiki/Grey-faced_Buzzard" title="Grey-faced Buzzard">Grey-faced Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Harpyhaliaetus" title="Harpyhaliaetus">Harpyhaliaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crowned_Solitary_Eagle" title="Crowned Solitary Eagle">Crowned Solitary Eagle</a></li>
+<li><a href="/wiki/Montane_Solitary_Eagle" title="Montane Solitary Eagle">Montane Solitary Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Morphnus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crested_Eagle" title="Crested Eagle">Crested Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpia</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harpy_Eagle" title="Harpy Eagle">Harpy Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Pithecophaga</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Philippine_Eagle" title="Philippine Eagle">Philippine Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpyopsis</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/New_Guinea_Harpy_Eagle" title="New Guinea Harpy Eagle" class="mw-redirect">New Guinea Harpy Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Spizaetus" title="Spizaetus">Spizaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_Hawk-Eagle" title="Black Hawk-Eagle">Black Hawk-Eagle</a></li>
+<li><a href="/wiki/Black-and-white_Hawk-Eagle" title="Black-and-white Hawk-Eagle">Black-and-white Hawk-Eagle</a></li>
+<li><a href="/wiki/Ornate_Hawk-Eagle" title="Ornate Hawk-Eagle">Ornate Hawk-Eagle</a></li>
+<li><a href="/wiki/Black-and-chestnut_Eagle" title="Black-and-chestnut Eagle">Black-and-chestnut Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Nisaetus" title="Nisaetus">Nisaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crested_Hawk-Eagle" title="Crested Hawk-Eagle" class="mw-redirect">Crested Hawk-Eagle</a></li>
+<li><a href="/wiki/Mountain_Hawk-Eagle" title="Mountain Hawk-Eagle">Mountain Hawk-Eagle</a></li>
+<li><a href="/wiki/Blyth%27s_Hawk-Eagle" title="Blyth's Hawk-Eagle">Blyth's Hawk-Eagle</a></li>
+<li><a href="/wiki/Javan_Hawk-Eagle" title="Javan Hawk-Eagle">Javan Hawk-Eagle</a></li>
+<li><a href="/wiki/Sulawesi_Hawk-Eagle" title="Sulawesi Hawk-Eagle">Sulawesi Hawk-Eagle</a></li>
+<li><a href="/wiki/Philippine_Hawk-Eagle" title="Philippine Hawk-Eagle">Philippine Hawk-Eagle</a></li>
+<li><a href="/wiki/Wallace%27s_Hawk-Eagle" title="Wallace's Hawk-Eagle">Wallace's Hawk-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Lophaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Long-crested_Eagle" title="Long-crested Eagle">Long-crested Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Stephanoaetus" title="Stephanoaetus">Stephanoaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crowned_Eagle" title="Crowned Eagle">Crowned Eagle</a></li>
+<li><a href="/wiki/Malagasy_Crowned_Eagle" title="Malagasy Crowned Eagle">Malagasy Crowned Eagle</a>†</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Polemaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Martial_Eagle" title="Martial Eagle">Martial Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Hieraaetus" title="Hieraaetus">Hieraaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African_Hawk-Eagle" title="African Hawk-Eagle">African Hawk-Eagle</a></li>
+<li><a href="/wiki/New_Guinea_Hawk-Eagle" title="New Guinea Hawk-Eagle" class="mw-redirect">New Guinea Hawk-Eagle</a></li>
+<li><a href="/wiki/Ayres%27s_Hawk-Eagle" title="Ayres's Hawk-Eagle">Ayres's Hawk-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Aquila_(genus)" title="Aquila (genus)">Aquila</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bonelli%27s_Eagle" title="Bonelli's Eagle">Bonelli's Eagle</a></li>
+<li><a href="/wiki/Booted_Eagle" title="Booted Eagle">Booted Eagle</a></li>
+<li><a href="/wiki/Little_Eagle" title="Little Eagle">Little Eagle</a></li>
+<li><a href="/wiki/Rufous-bellied_Eagle" title="Rufous-bellied Eagle" class="mw-redirect">Rufous-bellied Eagle</a></li>
+<li><a href="/wiki/Golden_Eagle" title="Golden Eagle">Golden Eagle</a></li>
+<li><a href="/wiki/Eastern_Imperial_Eagle" title="Eastern Imperial Eagle">Eastern Imperial Eagle</a></li>
+<li><a href="/wiki/Spanish_Imperial_Eagle" title="Spanish Imperial Eagle">Spanish Imperial Eagle</a></li>
+<li><a href="/wiki/Steppe_Eagle" title="Steppe Eagle">Steppe Eagle</a></li>
+<li><a href="/wiki/Tawny_Eagle" title="Tawny Eagle">Tawny Eagle</a></li>
+<li><a href="/wiki/Greater_Spotted_Eagle" title="Greater Spotted Eagle">Greater Spotted Eagle</a></li>
+<li><a href="/wiki/Lesser_Spotted_Eagle" title="Lesser Spotted Eagle">Lesser Spotted Eagle</a></li>
+<li><a href="/wiki/Indian_Spotted_Eagle" title="Indian Spotted Eagle">Indian Spotted Eagle</a></li>
+<li><a href="/wiki/Verreaux%27s_Eagle" title="Verreaux's Eagle">Verreaux's Eagle</a></li>
+<li><a href="/wiki/Gurney%27s_Eagle" title="Gurney's Eagle">Gurney's Eagle</a></li>
+<li><a href="/wiki/Wahlberg%27s_Eagle" title="Wahlberg's Eagle">Wahlberg's Eagle</a></li>
+<li><a href="/wiki/Wedge-tailed_Eagle" title="Wedge-tailed Eagle">Wedge-tailed Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Ictinaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_Eagle" title="Black Eagle">Black Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Sea_eagle" title="Sea eagle">Haliaeetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-bellied_Sea_Eagle" title="White-bellied Sea Eagle">White-bellied Sea Eagle</a></li>
+<li><a href="/wiki/Sanford%27s_Sea_Eagle" title="Sanford's Sea Eagle">Sanford's Sea Eagle</a></li>
+<li><a href="/wiki/African_Fish_Eagle" title="African Fish Eagle">African Fish Eagle</a></li>
+<li><a href="/wiki/Madagascar_Fish_Eagle" title="Madagascar Fish Eagle">Madagascar Fish Eagle</a></li>
+<li><a href="/wiki/Pallas%27s_Fish_Eagle" title="Pallas's Fish Eagle">Pallas's Fish Eagle</a></li>
+<li><a href="/wiki/White-tailed_Eagle" title="White-tailed Eagle">White-tailed Eagle</a></li>
+<li><a href="/wiki/Bald_Eagle" title="Bald Eagle">Bald Eagle</a></li>
+<li><a href="/wiki/Steller%27s_Sea_Eagle" title="Steller's Sea Eagle">Steller's Sea Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Ichthyophaga" title="Ichthyophaga">Ichthyophaga</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lesser_Fish_Eagle" title="Lesser Fish Eagle">Lesser Fish Eagle</a></li>
+<li><a href="/wiki/Grey-headed_Fish_Eagle" title="Grey-headed Fish Eagle">Grey-headed Fish Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpagornis</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Haast%27s_Eagle" title="Haast's Eagle">Haast's Eagle</a>†</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" style=";" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Eagle" title="Eagle">Eagle</a></li>
+<li><a href="/wiki/Buzzard" title="Buzzard">Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-de-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 9079/1000000
+Preprocessor generated node count: 52590/1500000
+Post-expand include size: 104535/2048000 bytes
+Template argument size: 62901/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 5/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4193-0!*!0!!en!4!* and timestamp 20121011010630 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_Buzzard&amp;oldid=509675426">http://en.wikipedia.org/w/index.php?title=Common_Buzzard&amp;oldid=509675426</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Buteo" title="Category:Buteo">Buteo</a></li><li><a href="/wiki/Category:Birds_of_prey" title="Category:Birds of prey">Birds of prey</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li><li><a href="/wiki/Category:Birds_of_Lithuania" title="Category:Birds of Lithuania">Birds of Lithuania</a></li><li><a href="/wiki/Category:Birds_of_South_Africa" title="Category:Birds of South Africa">Birds of South Africa</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Latin_language_external_links" title="Category:Articles with Latin language external links">Articles with Latin language external links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2011" title="Category:Articles with unsourced statements from September 2011">Articles with unsourced statements from September 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2011" title="Category:Articles with unsourced statements from May 2011">Articles with unsourced statements from May 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2009" title="Category:Articles with unsourced statements from July 2009">Articles with unsourced statements from July 2009</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">Use dmy dates from May 2011</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Buzzard&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Buzzard" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_Buzzard"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_Buzzard"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_Buzzard" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_Buzzard&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_Buzzard&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_Buzzard" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_Buzzard" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_Buzzard&amp;oldid=509675426" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_Buzzard&amp;id=509675426" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+Buzzard" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+Buzzard&amp;oldid=509675426&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_Buzzard&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%8B%D0%B9" title="Къый" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/M%C3%A4usebussard" title="Mäusebussard" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Buteo_buteo" title="Buteo buteo" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Adi_sar" title="Adi sar" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D2%BA%D0%B0%D1%80" title="Һар" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%8E%D0%BA_%D0%B7%D0%B2%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D1%8B" title="Канюк звычайны" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%97%D0%B2%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D1%8B_%D0%BA%D0%B0%D0%BD%D1%8E%D0%BA" title="Звычайны канюк" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD_%D0%BC%D0%B8%D1%88%D0%B5%D0%BB%D0%BE%D0%B2" title="Обикновен мишелов" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Baou_voutin" title="Baou voutin" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Aligot_com%C3%BA" title="Aligot comú" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BB%D0%B0%D0%BD%D0%BA%C4%83" title="Шаланкă" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/K%C3%A1n%C4%9B_lesn%C3%AD" title="Káně lesní" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-co"><a href="//co.wikipedia.org/wiki/Buzaiu" title="Buzaiu" lang="co" hreflang="co">Corsu</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Bwncath" title="Bwncath" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Musv%C3%A5ge" title="Musvåge" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/M%C3%A4usebussard" title="Mäusebussard" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Hiireviu" title="Hiireviu" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Buteo_buteo" title="Buteo buteo" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Komuna_buteo" title="Komuna buteo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Zapelatz_arrunt" title="Zapelatz arrunt" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%B1%DA%AF%D9%BE%D9%87" title="سارگپه" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/M%C3%BAsv%C3%A1kur" title="Músvákur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Buse_variable" title="Buse variable" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/M%C3%BBzebiter" title="Mûzebiter" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Clamh%C3%A1n" title="Clamhán" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Mi%C3%B1ato_com%C3%BAn" title="Miñato común" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A7%90%EB%98%A5%EA%B0%80%EB%A6%AC" title="말똥가리" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Obi%C4%8Dni_%C5%A1kanjac" title="Obični škanjac" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Elang_buteo" title="Elang buteo" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Buteo_buteo" title="Buteo buteo" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A2%D7%A7%D7%91_%D7%97%D7%95%D7%A8%D7%A3" title="עקב חורף" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-csb"><a href="//csb.wikipedia.org/wiki/M%C3%ABsznik" title="Mësznik" lang="csb" hreflang="csb">Kaszëbsczi</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Paprastasis_suopis" title="Paprastasis suopis" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Eger%C3%A9sz%C3%B6lyv" title="Egerészölyv" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Lang_Gempal" title="Burung Lang Gempal" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Buizerd" title="Buizerd" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%83%8E%E3%82%B9%E3%83%AA" title="ヨーロッパノスリ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/M%C3%BCsensiif" title="Müsensiif" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Musv%C3%A5k" title="Musvåk" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Buteo_buteo" title="Buteo buteo" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Buteo_buteo" title="Buteo buteo" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Myszo%C5%82%C3%B3w_zwyczajny" title="Myszołów zwyczajny" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Buteo_buteo" title="Buteo buteo" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D1%8E%D0%BA" title="Обыкновенный канюк" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80_%D1%8D%D0%BB%D0%B8%D1%8D" title="Сар элиэ" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/S%C3%A1hp%C3%A1nboaimm%C3%A1%C5%A1" title="Sáhpánboaimmáš" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Common_buzzard" title="Common buzzard" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/My%C5%A1iak_h%C3%B4rny" title="Myšiak hôrny" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Kanja" title="Kanja" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Obi%C4%8Dni_%C5%A1kanjac" title="Obični škanjac" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Hiirihaukka" title="Hiirihaukka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ormvr%C3%A5k" title="Ormvråk" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-chr"><a href="//chr.wikipedia.org/wiki/%E1%8F%91%E1%8E%B5" title="ᏑᎵ" lang="chr" hreflang="chr">ᏣᎳᎩ</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_%C5%9Fahin" title="Bayağı şahin" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%8E%D0%BA_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9" title="Канюк звичайний" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vec"><a href="//vec.wikipedia.org/wiki/Osela%C5%BE" title="Oselaž" lang="vec" hreflang="vec">Vèneto</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E9%B5%9F" title="普通鵟" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 August 2012 at 22:13.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Buzzard&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv246 in 0.153 secs. -->
+	</body>
+</html>

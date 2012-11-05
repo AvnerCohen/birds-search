@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Northern Gannet - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Northern_Gannet&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Northern_Gannet&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Northern_Gannet","wgTitle":"Northern Gannet","wgCurRevisionId":516119067,"wgArticleId":251885,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Gannets","Birds of Canada","Birds of Saint Pierre and Miquelon","Birds of Europe","Birds of the Faroe Islands","Fauna of Trinidad and Tobago","Birds of Asia","British Isles coastal fauna","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Northern_Gannet","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"483d00f0588060aa44239d5f7e73a006","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":251885,"title":"Northern Gannet","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Asia","Birds of Canada","Birds of Europe","Birds of Saint Pierre and Miquelon","Birds of Western Sahara","Birds of the Faroe Islands","British Isles coastal fauna","Fauna of Trinidad and Tobago","Gannets","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Northern_Gannet skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Northern Gannet</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Northern Gannet</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Northern_Gannet_2006_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Northern_Gannet_2006_2.jpg/220px-Northern_Gannet_2006_2.jpg" width="220" height="147" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Suliformes" title="Suliformes">Suliformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Sulidae" title="Sulidae">Sulidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Morus_(bird)" title="Morus (bird)" class="mw-redirect">Morus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. bassanus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Morus bassanus</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Basst%C3%B6lpel_(Sula_bassana)_world.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Basst%C3%B6lpel_%28Sula_bassana%29_world.png/220px-Basst%C3%B6lpel_%28Sula_bassana%29_world.png" width="220" height="102" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Northern Gannet range</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Sula bassana</i></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Northern Gannet</b> (<i>Morus bassanus</i>) is a <a href="/wiki/Seabird" title="Seabird">seabird</a> and is the largest member of the <a href="/wiki/Gannet" title="Gannet">gannet</a> family, <a href="/wiki/Sulidae" title="Sulidae">Sulidae</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ecology"><span class="tocnumber">3</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Northern_Gannet&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Northern_Gannet_juvenile_RWD.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Northern_Gannet_juvenile_RWD.jpg/220px-Northern_Gannet_juvenile_RWD.jpg" width="220" height="166" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Northern_Gannet_juvenile_RWD.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Young birds are dark brown</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Two_Gannets_edit_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Two_Gannets_edit_2.jpg/220px-Two_Gannets_edit_2.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Two_Gannets_edit_2.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Pair at <a href="/wiki/Gasp%C3%A9_Peninsula" title="Gaspé Peninsula">Gaspé Peninsula</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a></div>
+</div>
+</div>
+<p>Young birds are dark brown in their first year, and gradually acquire more white in subsequent seasons until they reach maturity after five years.</p>
+<p>Adults are 81–110 cm (32–43 in) long, weigh 2.2–3.6 kg (4.9–7.9 lb) and have a 165–180 cm (65–71 in) wingspan. Before fledging, the immature birds (at about 10 weeks of age) can weigh more than 4&#160;kg (8.8&#160;lb). Their plumage is white with black wing tips. The bill is light bluish. The eye is light blue, and it is surrounded by bare, black skin. During breeding, the head and neck are brushed in a delicate yellow.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Northern_Gannet&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:442px;"><a href="/wiki/File:Northern_Gannet_colonies.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Northern_Gannet_colonies.png/440px-Northern_Gannet_colonies.png" width="440" height="155" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Northern_Gannet_colonies.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Breeding colonies in the north Atlantic<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></div>
+</div>
+</div>
+<p>Their breeding range is the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">North Atlantic</a>. They normally <a href="/wiki/Bird_nest" title="Bird nest">nest</a> in large colonies, on cliffs overlooking the ocean or on small rocky islands. The largest colony of this bird, with over 60,000 couples, is found on <a href="/wiki/Bonaventure_Island" title="Bonaventure Island">Bonaventure Island</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a>, but 68% of the world population breeds around the coasts of <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> and <a href="/wiki/Ireland" title="Ireland">Ireland</a>, with the largest colonies on the <a href="/wiki/Bass_Rock" title="Bass Rock">Bass Rock</a> (whence the species' Latin name) and <a href="/wiki/Boreray,_St_Kilda" title="Boreray, St Kilda">Boreray, St Kilda</a>.</p>
+<p>In the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, Gannets are a protected species. However, a legal exception is made for the inhabitants of the district of <a href="/wiki/Ness,_Lewis" title="Ness, Lewis">Ness</a> (also known as Nis) of the <a href="/wiki/Lewis" title="Lewis">Isle of Lewis</a> who are allowed to kill up to 2000 gannets (locally known as <i>guga</i>) annually to serve as a traditional local delicacy—the taste is described as <a href="/wiki/Fish" title="Fish">fishy</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>Many of these Gannets are taken from <a href="/wiki/Sula_Sgeir" title="Sula Sgeir">Sula Sgeir</a>, which is itself named after them.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Northern_Gannet&amp;action=edit&amp;section=3" title="Edit section: Ecology">edit</a>]</span> <span class="mw-headline" id="Ecology">Ecology</span></h2>
+<p>Gannet pairs may remain together over several seasons. They perform elaborate greeting rituals at the nest, stretching their bills and necks skywards and gently tapping bills together.</p>
+<p>They are <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> and most winter at sea, heading further south in the Atlantic.</p>
+<p>These birds are spectacular divers, plunging into the ocean at high speed, with their bodies completely straightened out like an arrow before striking the water. If a fish is taken after diving, gannets swallow the fish underwater before surfacing. Although they are strong and agile fliers, they are clumsy in takeoffs and landings. They mainly eat small <a href="/wiki/Fish" title="Fish">fish</a> (2.5–30.5&#160;cm in length) which gather in groups near the surface. Virtually any small fish (roughly 80–90% of the diet) or other small <a href="/wiki/Pelagic" title="Pelagic" class="mw-redirect">pelagic</a> species (largely <a href="/wiki/Squid" title="Squid">squid</a>) will be taken opportunistically. Various <a href="/wiki/Cod" title="Cod">cod</a>, <a href="/wiki/Smelt_(fish)" title="Smelt (fish)">smelt</a>, and <a href="/wiki/Herring" title="Herring">herring</a> species are most frequently taken.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>Although Northern Gannet populations are now stable, their numbers were once greatly reduced due to loss of <a href="/wiki/Habitat_(ecology)" title="Habitat (ecology)" class="mw-redirect">habitat</a>, removal of eggs and killing of adults.</p>
+<p>Predators of eggs and nestlings include <a href="/wiki/Great_black-backed_gull" title="Great black-backed gull" class="mw-redirect">Great Black-backed</a> and <a href="/wiki/American_Herring_Gull" title="American Herring Gull">Herring Gulls</a>, <a href="/wiki/Common_Raven" title="Common Raven">Common Ravens</a>, <a href="/wiki/Ermine" title="Ermine" class="mw-redirect">ermine</a>, and <a href="/wiki/Red_fox" title="Red fox">red fox</a>. The only known natural predator of adults is the <a href="/wiki/Bald_Eagle" title="Bald Eagle">Bald Eagle</a>, though large <a href="/wiki/Shark" title="Shark">sharks</a> and <a href="/wiki/Pinniped" title="Pinniped">seals</a> may rarely snatch a gannet out at sea.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>Old names for the Northern Gannet include Solan, Solan Goose, and Solant Bird.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Northern_Gannet&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003652">"<i>Morus bassanus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003652">http://www.iucnredlist.org/apps/redlist/details/106003652</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Morus+bassanus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003652&amp;rfr_id=info:sid/en.wikipedia.org:Northern_Gannet"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Cramp, Stanley., K. E. L. Simmons (1977). <i>Handbook of the Birds of Europe, the Middle East, and North Africa: The Birds of the Western Palearctic</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-857358-8" title="Special:BookSources/0-19-857358-8">0-19-857358-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+Europe%2C+the+Middle+East%2C+and+North+Africa%3A+The+Birds+of+the+Western+Palearctic&amp;rft.aulast=Cramp%2C+Stanley.%2C+K.+E.+L.+Simmons&amp;rft.au=Cramp%2C+Stanley.%2C+K.+E.+L.+Simmons&amp;rft.date=1977&amp;rft.isbn=0-19-857358-8&amp;rfr_id=info:sid/en.wikipedia.org:Northern_Gannet"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.culturehebrides.com/heritage/guga/">Culture Hebrides - Island holidays in the Gaelic Heartland of Scotland</a> The Rough Guide to Scottish Highlands and Islands</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Mowbray, Thomas B.. <a rel="nofollow" class="external text" href="http://bna.birds.cornell.edu/bna/species/693/articles/foodhabits">"Northern Gannet — Food Habits — Birds of North America Online"</a>. Bna.birds.cornell.edu<span class="printonly">. <a rel="nofollow" class="external free" href="http://bna.birds.cornell.edu/bna/species/693/articles/foodhabits">http://bna.birds.cornell.edu/bna/species/693/articles/foodhabits</a></span><span class="reference-accessdate">. Retrieved 2011-10-17</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Northern+Gannet+%E2%80%94+Food+Habits+%E2%80%94+Birds+of+North+America+Online&amp;rft.atitle=&amp;rft.aulast=Mowbray%2C+Thomas+B.&amp;rft.au=Mowbray%2C+Thomas+B.&amp;rft.pub=Bna.birds.cornell.edu&amp;rft_id=http%3A%2F%2Fbna.birds.cornell.edu%2Fbna%2Fspecies%2F693%2Farticles%2Ffoodhabits&amp;rfr_id=info:sid/en.wikipedia.org:Northern_Gannet"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web">Mowbray, Thomas B.. <a rel="nofollow" class="external text" href="http://bna.birds.cornell.edu/bna/species/693/articles/behavior">"Northern Gannet — Behavior — Birds of North America Online"</a>. Bna.birds.cornell.edu<span class="printonly">. <a rel="nofollow" class="external free" href="http://bna.birds.cornell.edu/bna/species/693/articles/behavior">http://bna.birds.cornell.edu/bna/species/693/articles/behavior</a></span><span class="reference-accessdate">. Retrieved 2011-10-17</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Northern+Gannet+%E2%80%94+Behavior+%E2%80%94+Birds+of+North+America+Online&amp;rft.atitle=&amp;rft.aulast=Mowbray%2C+Thomas+B.&amp;rft.au=Mowbray%2C+Thomas+B.&amp;rft.pub=Bna.birds.cornell.edu&amp;rft_id=http%3A%2F%2Fbna.birds.cornell.edu%2Fbna%2Fspecies%2F693%2Farticles%2Fbehavior&amp;rfr_id=info:sid/en.wikipedia.org:Northern_Gannet"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Northern_Gannet&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Morus_bassanus" class="extiw" title="commons:Morus bassanus">Northern Gannet</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.eldey.is">Live camera from Eldey, Iceland</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.faroeislandsphoto.com/keyword/s%C3%BAla">Northern Gannets Pictures from Faroe Islands</a></li>
+<li><a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob710.htm">BTO BirdFacts - Northern Gannet</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/northern-gannet-sula-bassana">Northern Gannet videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://sdakotabirds.com/species/northern_gannet_info.htm">Northern Gannet Information and Photographs</a> South Dakota Birds and Birding</li>
+<li><a rel="nofollow" class="external text" href="http://www.bird-stamps.org/cspecies/1600100.htm">Stamps</a></li>
+<li><a rel="nofollow" class="external text" href="http://vireo.acnatsci.org/search.html?Form=Search&amp;SEARCHBY=Common&amp;KEYWORDS=northern+gannet&amp;showwhat=images&amp;AGE=All&amp;SEX=All&amp;ACT=All&amp;Search=Search&amp;VIEW=All&amp;ORIENTATION=All&amp;RESULTS=24">Northern Gannet photo gallery</a> VIREO</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Suliformes" title="Template:Suliformes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Suliformes" title="Template talk:Suliformes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Suliformes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Order_(biology)" title="Order (biology)">Order</a>: <a href="/wiki/Suliformes" title="Suliformes">Suliformes</a> (Phalacrocoraciformes)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Frigatebird" title="Frigatebird">Frigatebirds</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Fregatidae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Fregata</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Frigatebird" title="Frigatebird">Fregata</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Magnificent_Frigatebird" title="Magnificent Frigatebird">Magnificent Frigatebird</a> (or Man O'War)</li>
+<li><a href="/wiki/Ascension_Frigatebird" title="Ascension Frigatebird">Ascension Frigatebird</a></li>
+<li><a href="/wiki/Christmas_Frigatebird" title="Christmas Frigatebird">Christmas Island Frigatebird</a></li>
+<li><a href="/wiki/Great_Frigatebird" title="Great Frigatebird">Great Frigatebird</a></li>
+<li><a href="/wiki/Lesser_Frigatebird" title="Lesser Frigatebird">Lesser Frigatebird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Sulidae" title="Sulidae">Gannets and boobies</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Sulidae)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Booby" title="Booby">Sula</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue-footed_Booby" title="Blue-footed Booby">Blue-footed Booby</a></li>
+<li><a href="/wiki/Peruvian_Booby" title="Peruvian Booby">Peruvian Booby</a></li>
+<li><a href="/wiki/Masked_Booby" title="Masked Booby">Masked Booby</a></li>
+<li><a href="/wiki/Nazca_Booby" title="Nazca Booby">Nazca Booby</a></li>
+<li><a href="/wiki/Red-footed_Booby" title="Red-footed Booby">Red-footed Booby</a></li>
+<li><a href="/wiki/Brown_Booby" title="Brown Booby">Brown Booby</a></li>
+<li><a href="/wiki/Tasman_Booby" title="Tasman Booby">Tasman Booby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Papasula</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abbott%27s_Booby" title="Abbott's Booby">Abbott's Booby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Gannet" title="Gannet">Morus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Northern Gannet</strong></li>
+<li><a href="/wiki/Cape_Gannet" title="Cape Gannet">Cape Gannet</a></li>
+<li><a href="/wiki/Australasian_Gannet" title="Australasian Gannet">Australasian Gannet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Darter" title="Darter">Darters</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Anhingidae · <a href="/wiki/Genus" title="Genus">genus</a> <i>Anhinga</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Darter" title="Darter">Anhinga</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anhinga" title="Anhinga">Anhinga</a></li>
+<li><a href="/wiki/Oriental_Darter" title="Oriental Darter">Oriental Darter</a></li>
+<li><a href="/wiki/African_Darter" title="African Darter">African Darter</a></li>
+<li><a href="/wiki/Australasian_Darter" title="Australasian Darter">Australasian Darter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Cormorant" title="Cormorant">Cormorants</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Phalacrocoracidae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Phalacrocorax</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Cormorant" title="Cormorant">Phalacrocorax</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Double-crested_Cormorant" title="Double-crested Cormorant">Double-crested Cormorant</a> (White-crested Cormorant)</li>
+<li><a href="/wiki/Neotropic_Cormorant" title="Neotropic Cormorant">Neotropic Cormorant</a> (Olivaceous Cormorant)</li>
+<li><a href="/wiki/Little_Black_Cormorant" title="Little Black Cormorant">Little Black Cormorant</a></li>
+<li><a href="/wiki/Great_Cormorant" title="Great Cormorant">Great Cormorant</a></li>
+<li><a href="/wiki/White-breasted_Cormorant" title="White-breasted Cormorant">White-breasted Cormorant</a></li>
+<li><a href="/wiki/Indian_Cormorant" title="Indian Cormorant">Indian Cormorant</a></li>
+<li><a href="/wiki/Cape_Cormorant" title="Cape Cormorant">Cape Cormorant</a></li>
+<li><a href="/wiki/Socotra_Cormorant" title="Socotra Cormorant">Socotra Cormorant</a></li>
+<li><a href="/wiki/Bank_Cormorant" title="Bank Cormorant">Bank Cormorant</a> (Wahlberg's Cormorant)</li>
+<li><a href="/wiki/Japanese_Cormorant" title="Japanese Cormorant">Japanese Cormorant</a> (Temminck's Cormorant)</li>
+<li><a href="/wiki/European_Shag" title="European Shag">European Shag</a></li>
+<li><a href="/wiki/Brandt%27s_Cormorant" title="Brandt's Cormorant">Brandt's Cormorant</a></li>
+<li><a href="/wiki/Spectacled_Cormorant" title="Spectacled Cormorant">Spectacled Cormorant</a></li>
+<li><a href="/wiki/Pelagic_Cormorant" title="Pelagic Cormorant">Pelagic Cormorant</a> (Baird's Cormorant)</li>
+<li><a href="/wiki/Red-faced_Cormorant" title="Red-faced Cormorant">Red-faced Cormorant</a></li>
+<li><a href="/wiki/Rock_Shag" title="Rock Shag">Rock Shag</a></li>
+<li><a href="/wiki/Guanay_Cormorant" title="Guanay Cormorant">Guanay Cormorant</a></li>
+<li><a href="/wiki/Australian_Pied_Cormorant" title="Australian Pied Cormorant">Pied Cormorant</a> (Yellow-faced Cormorant)</li>
+<li><a href="/wiki/Black-faced_Cormorant" title="Black-faced Cormorant">Black-faced Cormorant</a></li>
+<li><a href="/wiki/King_Shag" title="King Shag" class="mw-redirect">King Shag</a> (Rough-faced Shag)</li>
+<li><a href="/wiki/Bronze_Shag" title="Bronze Shag">Stewart Island Shag</a></li>
+<li><a href="/wiki/Chatham_Shag" title="Chatham Shag">Chatham Shag</a></li>
+<li><a href="/wiki/Auckland_Shag" title="Auckland Shag">Auckland Shag</a></li>
+<li><a href="/wiki/Campbell_Shag" title="Campbell Shag">Campbell Shag</a></li>
+<li><a href="/wiki/Bounty_Shag" title="Bounty Shag">Bounty Shag</a></li>
+<li><a href="/wiki/Imperial_Shag" title="Imperial Shag">Imperial Shag</a> (Blue-eyed Shag)</li>
+<li><a href="/wiki/Heard_Shag" title="Heard Shag" class="mw-redirect">Heard Shag</a></li>
+<li><a href="/wiki/Kerguelen_Shag" title="Kerguelen Shag">Kerguelen Shag</a></li>
+<li><a href="/wiki/Macquarie_Shag" title="Macquarie Shag">Macquarie Shag</a></li>
+<li><a href="/wiki/South_Georgia_Shag" title="South Georgia Shag">South Georgia Shag</a></li>
+<li><a href="/wiki/Red-legged_Cormorant" title="Red-legged Cormorant">Red-legged Cormorant</a></li>
+<li><a href="/wiki/Spotted_Shag" title="Spotted Shag">Spotted Shag</a></li>
+<li><a href="/wiki/Pitt_Shag" title="Pitt Shag">Pitt Shag</a> (Featherstone's Shag)</li>
+<li><a href="/wiki/Little_Pied_Cormorant" title="Little Pied Cormorant">Little Pied Cormorant</a></li>
+<li><a href="/wiki/Reed_Cormorant" title="Reed Cormorant">Long-tailed Cormorant</a></li>
+<li><a href="/wiki/Crowned_Cormorant" title="Crowned Cormorant">Crowned Cormorant</a></li>
+<li><a href="/wiki/Little_Cormorant" title="Little Cormorant">Little Cormorant</a></li>
+<li><a href="/wiki/Pygmy_Cormorant" title="Pygmy Cormorant">Pygmy Cormorant</a></li>
+<li><a href="/wiki/Flightless_Cormorant" title="Flightless Cormorant">Flightless Cormorant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-eo-ga"></span> <span id="interwiki-es-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 10789/1000000
+Preprocessor generated node count: 59982/1500000
+Post-expand include size: 126579/2048000 bytes
+Template argument size: 65337/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:251885-0!*!0!!en!4!* and timestamp 20121022130532 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Northern_Gannet&amp;oldid=516119067">http://en.wikipedia.org/w/index.php?title=Northern_Gannet&amp;oldid=516119067</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Gannets" title="Category:Gannets">Gannets</a></li><li><a href="/wiki/Category:Birds_of_Canada" title="Category:Birds of Canada">Birds of Canada</a></li><li><a href="/wiki/Category:Birds_of_Saint_Pierre_and_Miquelon" title="Category:Birds of Saint Pierre and Miquelon">Birds of Saint Pierre and Miquelon</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_the_Faroe_Islands" title="Category:Birds of the Faroe Islands">Birds of the Faroe Islands</a></li><li><a href="/wiki/Category:Fauna_of_Trinidad_and_Tobago" title="Category:Fauna of Trinidad and Tobago">Fauna of Trinidad and Tobago</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Northern+Gannet&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Northern+Gannet" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Northern_Gannet"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Northern_Gannet"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Northern_Gannet" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Northern_Gannet&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Northern_Gannet&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Northern_Gannet" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Northern_Gannet" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Northern_Gannet&amp;oldid=516119067" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Northern_Gannet&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Northern_Gannet&amp;id=516119067" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Northern+Gannet" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Northern+Gannet&amp;oldid=516119067&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Northern_Gannet&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D8%B7%D9%8A%D8%B4_%D8%B4%D9%85%D8%A7%D9%84%D9%8A" title="أطيش شمالي" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Morus_bassanus" title="Morus bassanus" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9E%D0%BB%D1%83%D1%88%D0%B0_%D0%BF%D0%B0%D1%9E%D0%BD%D0%BE%D1%87%D0%BD%D0%B0%D1%8F" title="Олуша паўночная" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9E%D0%BB%D1%83%D1%88%D0%B0_%D0%BF%D0%B0%D1%9E%D0%BD%D0%BE%D1%87%D0%BD%D0%B0%D1%8F" title="Олуша паўночная" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%91%D1%8F%D0%BB_%D1%80%D0%B8%D0%B1%D0%BE%D1%8F%D0%B4" title="Бял рибояд" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Morskoul_boutin" title="Morskoul boutin" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Mascarell_com%C3%BA" title="Mascarell comú" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Terej_b%C3%ADl%C3%BD" title="Terej bílý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Hugan" title="Hugan" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Sule" title="Sule" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Basst%C3%B6lpel" title="Basstölpel" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Suula" title="Suula" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Morus_bassanus" title="Morus bassanus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Norda_sulo" title="Norda sulo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/S%C3%BAla" title="Súla" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Fou_de_Bassan" title="Fou de Bassan" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Mascato" title="Mascato" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Bluna" title="Bluna" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/S%C3%BAla_(fugl)" title="Súla (fugl)" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Morus_bassanus" title="Morus bassanus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%95%D7%9C%D7%94_%D7%A6%D7%A4%D7%95%D7%A0%D7%99%D7%AA" title="סולה צפונית" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kw"><a href="//kw.wikipedia.org/wiki/Sether" title="Sether" lang="kw" hreflang="kw">Kernowek</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/%C5%A0iaurinis_pad%C5%ABk%C4%97lis" title="Šiaurinis padūkėlis" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Szula_(mad%C3%A1r)" title="Szula (madár)" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Jan-van-gent" title="Jan-van-gent" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%82%AB%E3%83%84%E3%82%AA%E3%83%89%E3%83%AA" title="シロカツオドリ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Jan_faan_Gent" title="Jan faan Gent" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Havsule" title="Havsule" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Havsule" title="Havsule" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Margat" title="Margat" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Sula_bassana" title="Sula bassana" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/G%C5%82uptak" title="Głuptak" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Ganso-patola" title="Ganso-patola" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BE%D0%BB%D1%83%D1%88%D0%B0" title="Северная олуша" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Sula_biela" title="Sula biela" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Bluna" title="Bluna" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Suula" title="Suula" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Havssula" title="Havssula" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/S%C3%BCms%C3%BCk_ku%C5%9Fu" title="Sümsük kuşu" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%D0%BD%D0%B0_%D0%BE%D0%BB%D1%83%D1%88%D0%B0" title="Північна олуша" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/%C3%93_bi%E1%BB%83n_ph%C6%B0%C6%A1ng_B%E1%BA%AFc" title="Ó biển phương Bắc" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%8C%97%E6%96%B9%E5%A1%98%E9%B9%85" title="北方塘鹅" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 October 2012 at 09:15.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Northern_Gannet&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw17 in 0.174 secs. -->
+	</body>
+</html>

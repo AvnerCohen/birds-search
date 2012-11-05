@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Pied Avocet - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pied_Avocet&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pied_Avocet&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pied_Avocet","wgTitle":"Pied Avocet","wgCurRevisionId":515504510,"wgArticleId":330897,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Recurvirostra","Birds of Europe","Birds of Asia","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pied_Avocet","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"df36372f546b10fe44fe942430ca4259","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":330897,"title":"Pied Avocet","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Asia","Birds of Europe","Birds of Western Sahara","IUCN Red List least concern species","Recurvirostra"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pied_Avocet skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Pied Avocet</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Pied Avocet</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Pied_Avocet_Recurvirostra_avosetta.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pied_Avocet_Recurvirostra_avosetta.jpg/250px-Pied_Avocet_Recurvirostra_avosetta.jpg" width="250" height="167" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup> &lt;/ref&gt;</small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Recurvirostridae" title="Recurvirostridae">Recurvirostridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Recurvirostra" title="Recurvirostra" class="mw-redirect">Recurvirostra</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>R. avosetta</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Recurvirostra avosetta</i></span></b><br />
+<small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Pied Avocet</b>, <i>Recurvirostra avosetta,</i> is a large black and white <a href="/wiki/Wader" title="Wader">wader</a> in the <a href="/wiki/Avocet" title="Avocet">avocet</a> and <a href="/wiki/Stilt" title="Stilt">stilt</a> family, <a href="/wiki/Recurvirostridae" title="Recurvirostridae">Recurvirostridae</a>. They breed in temperate <a href="/wiki/Europe" title="Europe">Europe</a> and western and <a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a>. It is a <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> species and most winter in <a href="/wiki/Africa" title="Africa">Africa</a> or southern Asia. Some remain to winter in the mildest parts of their range, for example in southern <a href="/wiki/Spain" title="Spain">Spain</a> and southern <a href="/wiki/England" title="England">England</a>.</p>
+<p>This species gets its <a href="/wiki/English_language" title="English language">English</a> and <a href="/wiki/Scientific_name" title="Scientific name" class="mw-redirect">scientific names</a> from the <a href="/wiki/Venetian_language" title="Venetian language">Venetian</a> name <i>avosetta</i>. It appeared first in Aldrovandi's <i>Ornithologia</i> (1603).<sup id="cite_ref-ODBBN_1-0" class="reference"><a href="#cite_note-ODBBN-1"><span>[</span>2<span>]</span></a></sup> While the name may refer to black and white outfits once worn by European advocates or lawyers, the actual <a href="/wiki/Etymology" title="Etymology">etymology</a> is unknown.<sup id="cite_ref-ODBBN_1-1" class="reference"><a href="#cite_note-ODBBN-1"><span>[</span>2<span>]</span></a></sup> Other <a href="/wiki/Common_name" title="Common name">common names</a> include <b>Black-capped Avocet</b>, <b>Eurasian Avocet</b> or just <b>Avocet</b>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The Pied Avocet is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behaviour"><span class="tocnumber">2</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#In_Britain"><span class="tocnumber">3</span> <span class="toctext">In Britain</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pied_Avocet&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Pied Avocet is a striking white wader with bold black markings. Adults have white <a href="/wiki/Feather" title="Feather">plumage</a> except for a black cap and black patches in the wings and on the back. They have long, upturned <a href="/wiki/Beak" title="Beak">bills</a> and long, bluish legs. It is approximately 16.5–17.75 inches (42–45.1 cm) in length of which the bill is approximately 2.95–3.35 inches (7.5–8.5 cm) and the legs are approximately 3–4 inches (7.6–10 cm). Its wing-span is approximately 30–31.5 inches (76–80 cm).<sup id="cite_ref-BWP_3-0" class="reference"><a href="#cite_note-BWP-3"><span>[</span>4<span>]</span></a></sup> Males and females look alike. The juvenile resembles the adult but with more greyish and sepia tones.</p>
+<p>The call of the Avocet is a far-carrying, liquid, melodious <i>kluit kluit</i>.<sup id="cite_ref-BWP_3-1" class="reference"><a href="#cite_note-BWP-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pied_Avocet&amp;action=edit&amp;section=2" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pied_Avocet_chick.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pied_Avocet_chick.jpg/220px-Pied_Avocet_chick.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pied_Avocet_chick.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Pied Avocet (juveline) near Oosterend, Texel island, the Netherlands.</div>
+</div>
+</div>
+<p>These birds forage in shallow brackish water or on mud flats, often scything their bills from side to side in water (a feeding technique that is unique to the avocets<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup>). They mainly eat <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a> and <a href="/wiki/Insect" title="Insect">insects</a>.</p>
+<p>Their <a href="/wiki/Breeding_in_the_wild" title="Breeding in the wild">breeding</a> <a href="/wiki/Habitat_(ecology)" title="Habitat (ecology)" class="mw-redirect">habitat</a> is shallow lakes with brackish water and exposed bare mud. They nest on open ground, often in small groups, sometimes with other waders. 3-5 <a href="/wiki/Egg_(biology)" title="Egg (biology)">eggs</a> are laid in a lined scrape or on a mound of vegetation.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pied_Avocet&amp;action=edit&amp;section=3" title="Edit section: In Britain">edit</a>]</span> <span class="mw-headline" id="In_Britain">In Britain</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:69px;"><a href="/wiki/File:RSPBlogo.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/f/f3/RSPBlogo.png" width="67" height="68" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:RSPBlogo.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Logo of the <a href="/wiki/RSPB" title="RSPB" class="mw-redirect">RSPB</a></div>
+</div>
+</div>
+<p>The Avocet became <a href="/wiki/Extinction" title="Extinction">extinct</a> in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> in 1840.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> Its successful recolonisation at <a href="/wiki/Minsmere_RSPB_reserve" title="Minsmere RSPB reserve">Minsmere</a>, <a href="/wiki/Suffolk" title="Suffolk">Suffolk</a> in 1947<sup id="cite_ref-BWP_3-2" class="reference"><a href="#cite_note-BWP-3"><span>[</span>4<span>]</span></a></sup> led to its adoption as the logo of the <a href="/wiki/Royal_Society_for_the_Protection_of_Birds" title="Royal Society for the Protection of Birds">Royal Society for the Protection of Birds</a>.<br style="clear:both;" /></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pied_Avocet&amp;action=edit&amp;section=4" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Saebelschnaebler_(Recurvirostra_avosetta).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Saebelschnaebler_%28Recurvirostra_avosetta%29.jpg/120px-Saebelschnaebler_%28Recurvirostra_avosetta%29.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult feeding</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:31px auto;"><a href="/wiki/File:Recurvirostra_avosetta_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Recurvirostra_avosetta_1.jpg/120px-Recurvirostra_avosetta_1.jpg" width="120" height="88" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult in flight</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:S%C3%A4belschn%C3%A4bler_K%C3%BCken_0506111.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/S%C3%A4belschn%C3%A4bler_K%C3%BCken_0506111.jpg/120px-S%C3%A4belschn%C3%A4bler_K%C3%BCken_0506111.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Avocet chick</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Recurvirostra_avosetta_MHNT.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Recurvirostra_avosetta_MHNT.JPG/117px-Recurvirostra_avosetta_MHNT.JPG" width="117" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Avocet egg</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30.5px auto;">
+<div id="ogg_player_1">
+<div><a href="/wiki/File:Pied_Avocet.ogv" class="image" title="Pied Avocet.ogv"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pied_Avocet.ogv/mid-Pied_Avocet.ogv.jpg" width="120" height="89" alt="" /></a></div>
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/5/54/Pied_Avocet.ogv&quot;,&quot;width&quot;:120,&quot;height&quot;:89,&quot;length&quot;:13.165714285714,&quot;linkUrl&quot;:&quot;/wiki/File:Pied_Avocet.ogv&quot;,&quot;isVideo&quot;:true});" style="width: 120px; text-align: center" title="Play video"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/play.png" width="22" height="22" alt="Play video" /></button></div>
+</div>
+</div>
+</div>
+<div class="gallerytext">
+<p>Video showing bird seeking food</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pied_Avocet&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003107">"<i>Recurvirostra avosetta</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003107">http://www.iucnredlist.org/apps/redlist/details/106003107</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Recurvirostra+avosetta%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003107&amp;rfr_id=info:sid/en.wikipedia.org:Pied_Avocet"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-ODBBN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ODBBN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ODBBN_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Lockwood, W B (1993). <i>The Oxford Dictionary of British Bird Names</i>. <a href="/wiki/OUP" title="OUP" class="mw-redirect">OUP</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-866196-2" title="Special:BookSources/978-0-19-866196-2">978-0-19-866196-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oxford+Dictionary+of+British+Bird+Names&amp;rft.aulast=Lockwood&amp;rft.aufirst=W+B&amp;rft.au=Lockwood%2C%26%2332%3BW+B&amp;rft.date=1993&amp;rft.pub=%5B%5BOUP%5D%5D&amp;rft.isbn=978-0-19-866196-2&amp;rfr_id=info:sid/en.wikipedia.org:Pied_Avocet"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org/species.jsp?lang=EN&amp;avibaseid=C73ED2F5D88625BA">Recurvirostra avosetta</a> on <a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org">Avibase</a></span></li>
+<li id="cite_note-BWP-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-BWP_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BWP_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BWP_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><i>The Birds of the Western Palearctic [Abridged]</i>. <a href="/wiki/OUP" title="OUP" class="mw-redirect">OUP</a>. 1997. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854099-X" title="Special:BookSources/0-19-854099-X">0-19-854099-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+Western+Palearctic+%5BAbridged%5D&amp;rft.date=1997&amp;rft.pub=%5B%5BOUP%5D%5D&amp;rft.isbn=0-19-854099-X&amp;rfr_id=info:sid/en.wikipedia.org:Pied_Avocet"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Francisco Moreira(1995) "<a rel="nofollow" class="external text" href="http://www3.interscience.wiley.com/journal/120817705/abstract">The winter feeding ecology of Avocets Recurvirostra avosetta on intertidal areas. I. Feeding strategies</a>" Ibis <b>37</b>:92–98</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/tol/news/uk/article2373774.ece">timesonline</a></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pied_Avocet&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Recurvirostra_avosetta" class="extiw" title="wikispecies:Recurvirostra avosetta">Recurvirostra avosetta</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Recurvirostra_avosetta" class="extiw" title="commons:Recurvirostra avosetta">Recurvirostra avosetta</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li>(Pied) Avocet - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/294.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.ebepe.com/html/avocet.html">Avocets</a> Image documentation</li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/pied-avocet-recurvirostra-avosetta">Pied Avocet videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.waarneming.nl/soort.php?id=20&amp;wno_datum_van=&amp;wno_datum_tm=&amp;tab=info#">waarneming.nl</a> Also sounds. This is originally a Dutch site, but you can change the language at the top.</li>
+<li><a rel="nofollow" class="external text" href="http://www.stevenround-birdphotography.com/Avocet.htm">Avocet Images</a></li>
+</ul>
+<p><span id="interwiki-de-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 7446/1000000
+Preprocessor generated node count: 41457/1500000
+Post-expand include size: 34361/2048000 bytes
+Template argument size: 14126/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:330897-0!*!0!!en!4!* and timestamp 20121018030854 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Pied_Avocet&amp;oldid=515504510">http://en.wikipedia.org/w/index.php?title=Pied_Avocet&amp;oldid=515504510</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Recurvirostra" title="Category:Recurvirostra">Recurvirostra</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pied+Avocet&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pied+Avocet" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pied_Avocet"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Pied_Avocet"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Pied_Avocet" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Pied_Avocet&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pied_Avocet&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pied_Avocet" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pied_Avocet" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Pied_Avocet&amp;oldid=515504510" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Pied_Avocet&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Pied_Avocet&amp;id=515504510" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pied+Avocet" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pied+Avocet&amp;oldid=515504510&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pied_Avocet&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9F%D1%81%D1%8B%D0%BA%D1%8A%D1%83%D0%B0%D0%BA%D1%8A%D0%BE" title="Псыкъуакъо" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Bontelsie" title="Bontelsie" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%91%D0%B5%D2%99_%D1%81%D1%83%D2%A1%D1%8B%D1%88" title="Беҙ суҡыш" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%A8%D1%8B%D0%BB%D0%B0%D0%B4%D0%B7%D1%8E%D0%B1" title="Шыладзюб" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B1%D0%BB%D0%B5%D0%BA%D0%BB%D1%8E%D0%BD" title="Саблеклюн" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Avosetenn_vistr" title="Avosetenn vistr" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Bec_d%27alena" title="Bec d'alena" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Tenkozobec_opa%C4%8Dn%C3%BD" title="Tenkozobec opačný" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Cambig" title="Cambig" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Klyde" title="Klyde" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/S%C3%A4belschn%C3%A4bler" title="Säbelschnäbler" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Naaskelnokk" title="Naaskelnokk" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Recurvirostra_avosetta" title="Recurvirostra avosetta" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Avoceto" title="Avoceto" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Abozeta" title="Abozeta" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Nevfatti" title="Nevfatti" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Avocette_%C3%A9l%C3%A9gante" title="Avocette élégante" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Kl%C3%BAt" title="Klút" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Bj%C3%BAgnefja" title="Bjúgnefja" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Recurvirostra_avosetta" title="Recurvirostra avosetta" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%99%D7%99%D7%A4%D7%9F_%D7%A2%D7%A7%D7%95%D7%93" title="סייפן עקוד" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%91%D1%96%D0%B7%D1%82%D2%B1%D0%BC%D1%81%D1%8B%D2%9B" title="Бізтұмсық" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Avocet%C4%97" title="Avocetė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Gulip%C3%A1n" title="Gulipán" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kluut" title="Kluut" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BD%E3%83%AA%E3%83%8F%E3%82%B7%E3%82%BB%E3%82%A4%E3%82%BF%E3%82%AB%E3%82%B7%E3%82%AE" title="ソリハシセイタカシギ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/S%C3%BCtjer" title="Sütjer" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Avosett" title="Avosett" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Avosett" title="Avosett" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%A6%DA%88_%D8%A7%DB%8C%D9%88%D8%B3%D9%B9" title="پائڈ ایوسٹ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Cl%C3%A9pe" title="Clépe" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Recurvirostra_avosetta" title="Recurvirostra avosetta" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Szablodzi%C3%B3b_zwyczajny" title="Szablodziób zwyczajny" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Alfaiate_(ave)" title="Alfaiate (ave)" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BB%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%BA%D0%B0" title="Шилоклювка" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BB%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%BA%D0%B0" title="Шилоклювка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Avosetti" title="Avosetti" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Sk%C3%A4rfl%C3%A4cka" title="Skärfläcka" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%99%E0%B8%81%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%87%E0%B8%AD%E0%B8%99" title="นกปากงอน" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_k%C4%B1l%C4%B1%C3%A7gaga" title="Bayağı kılıçgaga" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A7%D0%BE%D0%B1%D0%BE%D1%82%D0%B0%D1%80" title="Чоботар" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zea"><a href="//zea.wikipedia.org/wiki/Kluut" title="Kluut" lang="zea" hreflang="zea">Zeêuws</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%8F%8D%E5%98%B4%E9%B9%AC" title="反嘴鹬" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 18:46.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Pied_Avocet&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw33 in 0.206 secs. -->
+	</body>
+</html>

@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Black Stork - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Black_Stork&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Black_Stork&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Black_Stork","wgTitle":"Black Stork","wgCurRevisionId":514093862,"wgArticleId":237790,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Ciconia","Migratory birds (Eastern hemisphere)","Birds of Malaysia","Birds of Africa","Birds of Asia","Birds of Bhutan","Birds of Europe","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Black_Stork","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"8498f4598deb6332f4d57980cb3869a4","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":237790,"title":"Black Stork","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Africa","Birds of Asia","Birds of Bhutan","Birds of Europe","Birds of Malaysia","Birds of Western Sahara","Ciconia","IUCN Red List least concern species","Migratory birds (Eastern hemisphere)"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Black_Stork skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Black Stork</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Black Stork</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Ciconia_nigra_-Kruger_National_Park-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ciconia_nigra_-Kruger_National_Park-8.jpg/220px-Ciconia_nigra_-Kruger_National_Park-8.jpg" width="220" height="331" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">in Kruger National Park, South Africa</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Ciconiiformes" title="Ciconiiformes">Ciconiiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Ciconiidae" title="Ciconiidae" class="mw-redirect">Ciconiidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Ciconia" title="Ciconia">Ciconia</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>C. nigra</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Ciconia nigra</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Ciconia_nigra_distr.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ciconia_nigra_distr.png/220px-Ciconia_nigra_distr.png" width="220" height="152" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">
+<div style="text-align:left;"><big><span style="margin:0px; font-size:90%;"><span style="border:1px solid #aaa; background-color:#FFA000; color:black;">&#160;&#160;&#160;&#160;&#160;</span>&#160; Breeding summer visitor</span><br />
+<span style="margin:0px; font-size:90%;"><span style="border:1px solid #aaa; background-color:#3BA06F; color:black;">&#160;&#160;&#160;&#160;&#160;</span>&#160; Resident year-round</span><br />
+<span style="margin:0px; font-size:90%;"><span style="border:1px solid #aaa; background-color:#3B6FFF; color:black;">&#160;&#160;&#160;&#160;&#160;</span>&#160; Winter visitor</span></big></div>
+(ranges are approximate)</td>
+</tr>
+</table>
+</div>
+<p>The <b>Black Stork</b> <i>Ciconia nigra</i> is a large wading bird in the <a href="/wiki/Stork" title="Stork">stork</a> family Ciconiidae. It is a widespread, but uncommon, species that breeds in the warmer parts of Europe (predominantly in central and eastern regions), across temperate Asia and Southern Africa. This is a shy and wary species, unlike the closely related <a href="/wiki/White_Stork" title="White Stork">White Stork</a>. It is seen in pairs or small flocks—in marshy areas, rivers or inland waters. The Black Stork feeds on <a href="/wiki/Amphibian" title="Amphibian">amphibians</a> and <a href="/wiki/Insect" title="Insect">insects</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy_and_etymology"><span class="tocnumber">1</span> <span class="toctext">Taxonomy and etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Migration"><span class="tocnumber">3.1</span> <span class="toctext">Migration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Breeding"><span class="tocnumber">4</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Works_cited"><span class="tocnumber">6</span> <span class="toctext">Works cited</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Stork&amp;action=edit&amp;section=1" title="Edit section: Taxonomy and etymology">edit</a>]</span> <span class="mw-headline" id="Taxonomy_and_etymology">Taxonomy and etymology</span></h2>
+<p>The stork family contains several genera in three major groups: the open-billed and wood storks (<i><a href="/wiki/Mycteria" title="Mycteria">Mycteria</a></i> and <i><a href="/wiki/Anastomus" title="Anastomus" class="mw-redirect">Anastomus</a></i>), the giant storks (<i><a href="/wiki/Ephippiorhynchus" title="Ephippiorhynchus">Ephippiorhynchus</a></i>, <i><a href="/wiki/Jabiru" title="Jabiru">Jabiru</a></i> and <i><a href="/wiki/Leptoptilos" title="Leptoptilos">Leptoptilos</a></i>), and the "typical storks", <i><a href="/wiki/Ciconia" title="Ciconia">Ciconia</a></i>. The typical storks include the White Stork and six other <a href="/wiki/Extant_taxon" title="Extant taxon">extant</a> species, which are characterised by straight bills and mainly black and white plumage.<sup id="cite_ref-kahl_1-0" class="reference"><a href="#cite_note-kahl-1"><span>[</span>2<span>]</span></a></sup> Within the genus <i>Ciconia</i>, the Black Stork's closest relatives are the other European species, the <a href="/wiki/White_Stork" title="White Stork">White Stork</a> and its former subspecies, the black-billed <a href="/wiki/Oriental_White_Stork" title="Oriental White Stork" class="mw-redirect">Oriental White Stork</a> of east Asia.<sup id="cite_ref-wood_2-0" class="reference"><a href="#cite_note-wood-2"><span>[</span>3<span>]</span></a></sup> The Black Stork was found to be <a href="/wiki/Basal_(phylogenetics)" title="Basal (phylogenetics)">basal</a> in analysis of mitochondrial cytochrome b DNA by Beth Slikas in 1997.<sup id="cite_ref-Slikas1997_3-0" class="reference"><a href="#cite_note-Slikas1997-3"><span>[</span>4<span>]</span></a></sup> Fossil remains have been recovered from <a href="/wiki/Miocene" title="Miocene">Miocene</a> beds <a href="/wiki/Rusinga_Island" title="Rusinga Island">Rusinga</a> and <a href="/wiki/Maboko_Island" title="Maboko Island">Maboko Islands</a> in Kenya, which are indistinguishable from the White and Black Storks.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The Black Stork was one of the many <a href="/wiki/Aves_in_the_10th_edition_of_Systema_Naturae" title="Aves in the 10th edition of Systema Naturae">species originally described</a> by <a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a> in the landmark 1758 <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">10th edition</a> of his <i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i>, where it was given the binomial name of <i>Ardea nigra</i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> It was moved to the new <a href="/wiki/Genus" title="Genus">genus</a> <i><a href="/wiki/Ciconia" title="Ciconia">Ciconia</a></i> by French <a href="/wiki/Zoologist" title="Zoologist" class="mw-redirect">zoologist</a> <a href="/wiki/Mathurin_Jacques_Brisson" title="Mathurin Jacques Brisson">Mathurin Jacques Brisson</a> two years later.<sup id="cite_ref-Brisson1_6-0" class="reference"><a href="#cite_note-Brisson1-6"><span>[</span>7<span>]</span></a></sup> Both the genus and the <a href="/wiki/Specific_name_(zoology)" title="Specific name (zoology)">specific names</a> are <a href="/wiki/Latin" title="Latin">Latin</a>; <i>Ciconia</i> is "stork" and <i>nigra</i> is "black".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> The word <i>stork</i> is derived from the <a href="/wiki/Old_English" title="Old English">Old English</a> word <i>storc</i>, thought to be related to the <a href="/wiki/Old_High_German" title="Old High German">Old High German</a> <i>storah</i>, meaning "stork", and the Old English <i>stearc</i>, meaning "stiff".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Stork&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>Slightly smaller than the White Stork, the Black Stork is a large bird, 95 to 100&#160;cm (37–39&#160;in) in length with a 145–155&#160;cm (5&#160;ft) wingspan,<sup id="cite_ref-cramp323_9-0" class="reference"><a href="#cite_note-cramp323-9"><span>[</span>10<span>]</span></a></sup> and weighing around 3 kilograms (6.6&#160;lb). They can stand as tall as 102&#160;cm (40&#160;in).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> Like all storks, it has long legs, a long neck, and a long, straight, pointed beak. The plumage is all black with a purplish green sheen, except for the white lower breast, belly, axillaries and undertail coverts. The breast feathers are long and shaggy forming a ruff which is used in some courtship displays. The bare skin around its eyes is red, as are its red bill and legs. The sexes are identical in appearance, except that males are larger than females on average.<sup id="cite_ref-cramp323_9-1" class="reference"><a href="#cite_note-cramp323-9"><span>[</span>10<span>]</span></a></sup></p>
+<p>The juvenile resembles the adult in plumage pattern, but the areas corresponding to the adult black feathers are browner and less glossy. The scapulars, wing and upper tail coverts have pale tips. The legs, bill, and bare skin around the eyes are greyish green.<sup id="cite_ref-cramp323_9-2" class="reference"><a href="#cite_note-cramp323-9"><span>[</span>10<span>]</span></a></sup> It may be confused with the juvenile <a href="/wiki/Yellow-billed_Stork" title="Yellow-billed Stork">Yellow-billed Stork</a>, but the latter has a paler wings and mantle, longer bill, and white under the wings.<sup id="cite_ref-cramp322_11-0" class="reference"><a href="#cite_note-cramp322-11"><span>[</span>12<span>]</span></a></sup></p>
+<p>It walks slowly and steadily on the ground. Like all storks, it flies with its neck outstretched. It has a rasping call, but rarely indulges in mutual bill-clattering when adults meet at the nest.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Stork&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<p>During the summer, the Black Stork is found from Eastern Asia (Siberia and China) west to Central Europe, reaching Estonia in the north, Poland, <a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a> and <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a> in Germany, Czech Republic, Hungary, and Greece in the south, with an outlying population in Spain and Portugal. They are nowhere abundant in these western parts of their distribution, but more densely inhabit the eastern Transcaucasus.<sup id="cite_ref-cramp324_12-0" class="reference"><a href="#cite_note-cramp324-12"><span>[</span>13<span>]</span></a></sup> A population of Black Stork is also resident in Southern Africa.</p>
+<p>Preferring more wooded areas than the better known White Stork, the Black Stork breeds in large marshy wetlands with interspersed <a href="/wiki/Conifer" title="Conifer" class="mw-redirect">coniferous</a> or broadleaved <a href="/wiki/Woodland" title="Woodland">woodlands</a>, but also inhabits <a href="/wiki/Hill" title="Hill">hills</a> and <a href="/wiki/Mountain" title="Mountain">mountains</a> with sufficient network of <a href="/wiki/Creek_(stream)" title="Creek (stream)" class="mw-redirect">creeks</a>. It does inhabit more areas in the Caspian lowlands.<sup id="cite_ref-cramp323_9-3" class="reference"><a href="#cite_note-cramp323-9"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Black_Stork&amp;action=edit&amp;section=4" title="Edit section: Migration">edit</a>]</span> <span class="mw-headline" id="Migration">Migration</span></h3>
+<p>The Black Stork is a strong <a href="/wiki/Bird_migration" title="Bird migration">migrant</a>, wintering in tropical <a href="/wiki/Africa" title="Africa">Africa</a> and <a href="/wiki/India" title="India">India</a>. A broad-winged soaring bird, the Black Stork is assisted by thermals of hot air for long distance flight, although are less dependent on them than the White Stork. Since thermals only form over land, storks, together with large <a href="/wiki/Bird_of_prey" title="Bird of prey">raptors</a>, must cross the <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> at the narrowest points, and many Black Storks can be seen going through the <a href="/wiki/Bosporus" title="Bosporus" class="mw-redirect">Bosporus</a>. They fly approximately 100 to 250&#160;km a day with daily maxima up to 500&#160;km.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ciconia_nigra_Eurasian_Migration_.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ciconia_nigra_Eurasian_Migration_.png/220px-Ciconia_nigra_Eurasian_Migration_.png" width="220" height="279" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ciconia_nigra_Eurasian_Migration_.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<b>Red Line</b>: Migration Border<br />
+<b>Orange Arrow</b>: Western Migration<br />
+<b>Yellow Arrow</b>: Eastern Migration<br />
+<b>Blue</b>: Winter Location</div>
+</div>
+</div>
+<p>The storks migrate from the middle of August to the end of September. They return in the middle of March. About 10 percent of the western storks choose the passage <a href="/wiki/Sicily" title="Sicily">Sicily</a> - <a href="/wiki/Cap_Bon" title="Cap Bon">Cap Bon</a>, <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>. The common route goes over <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>. Many birds are fly around the Sahara next to the coast. Most birds are wintering in the wetlands of <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a> or <a href="/wiki/Mali" title="Mali">Mali</a>. The eastern birds take the route <a href="/wiki/Bosphorus" title="Bosphorus">Bosphorus</a>-<a href="/wiki/Sinai" title="Sinai" class="mw-redirect">Sinai</a>-<a href="/wiki/Nile" title="Nile">Nile</a> to Africa. Birds that summer in <a href="/wiki/Siberia" title="Siberia">Siberia</a> winter in northern and northeastern <a href="/wiki/India" title="India">India</a>. In Southern Africa, Black Storks that nest in the central montane areas perform season winter movements to warmer coastal and subtropical zones.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Stork&amp;action=edit&amp;section=5" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h2>
+<p>The Black Stork builds a stick nest high in trees or on cliffs.<sup id="cite_ref-cramp323_9-4" class="reference"><a href="#cite_note-cramp323-9"><span>[</span>10<span>]</span></a></sup> It nests in Central Europe in April to May, and is a winter visitor to northern India, Nepal east to Myanmar.</p>
+<p>Black Stork parents have been known to kill one of their young, generally the smallest, in times of food shortage to reduce brood size and hence increase the chance of survival of the remaining nestlings. Stork nestlings do not attack each other, and their parents' method of feeding them (disgorging large amounts of food at once) means that stronger siblings cannot outcompete weaker ones for food directly, hence parental infanticide is an efficient way of reducing brood size. Despite this, this behaviour has not commonly been observed.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Stork&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Ciconia_nigra" class="extiw" title="commons:Ciconia nigra">Black Stork<br />
+(<i>Ciconia nigra</i>)</a></b></i></td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003830">"<i>Ciconia nigra</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003830">http://www.iucnredlist.org/apps/redlist/details/106003830</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Ciconia+nigra%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003830&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-kahl-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-kahl_1-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Kahl, M. Philip (1987). "An overview of the storks of the world". <i>Colonial Waterbirds</i> <b>10</b> (2): 131–134. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F1521251">10.2307/1521251</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=An+overview+of+the+storks+of+the+world&amp;rft.jtitle=Colonial+Waterbirds&amp;rft.aulast=Kahl&amp;rft.aufirst=M.+Philip&amp;rft.au=Kahl%2C%26%2332%3BM.+Philip&amp;rft.date=1987&amp;rft.volume=10&amp;rft.issue=2&amp;rft.pages=131%26ndash%3B134&amp;rft_id=info:doi/10.2307%2F1521251&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-wood-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-wood_2-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Wood, D Scott (1984). <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/j751633412207kk3/fulltext.pdf">"Concordance between classifications of the Ciconiidae based on behavioral and morphological data"</a>. <i>Journal of Ornithology</i> <b>125</b>: 25–37. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2FBF01652936">10.1007/BF01652936</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.springerlink.com/content/j751633412207kk3/fulltext.pdf">http://www.springerlink.com/content/j751633412207kk3/fulltext.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Concordance+between+classifications+of+the+Ciconiidae+based+on+behavioral+and+morphological+data&amp;rft.jtitle=Journal+of+Ornithology&amp;rft.aulast=Wood&amp;rft.aufirst=D+Scott&amp;rft.au=Wood%2C%26%2332%3BD+Scott&amp;rft.date=1984&amp;rft.volume=125&amp;rft.pages=25%26ndash%3B37&amp;rft_id=info:doi/10.1007%2FBF01652936&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Fj751633412207kk3%2Ffulltext.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Slikas1997-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Slikas1997_3-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Slikas, Beth (1997). "Phylogeny of the Avian Family Ciconiidae (Storks) Based on CytochromebSequences and DNA–DNA Hybridization Distances". <i>Molecular Phylogenetics and Evolution</i> <b>8</b> (3): 275–300. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1006%2Fmpev.1997.0431">10.1006/mpev.1997.0431</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1055-7903">1055-7903</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9417889">9417889</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Phylogeny+of+the+Avian+Family+Ciconiidae+%28Storks%29+Based+on+CytochromebSequences+and+DNA%E2%80%93DNA+Hybridization+Distances&amp;rft.jtitle=Molecular+Phylogenetics+and+Evolution&amp;rft.aulast=Slikas&amp;rft.aufirst=Beth&amp;rft.au=Slikas%2C%26%2332%3BBeth&amp;rft.date=1997&amp;rft.volume=8&amp;rft.issue=3&amp;rft.pages=275%E2%80%93300&amp;rft_id=info:doi/10.1006%2Fmpev.1997.0431&amp;rft.issn=1055-7903&amp;rft_id=info:pmid/9417889&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation Journal">Dykes, Gareth J.; Alexander, Cyril Walker (2008). "New Records of Fossil ‘Waterbirds’ from the Miocene of Kenya". <i>American Museum novitates</i> (3610). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0003-0082">0003-0082</a>. <a href="/wiki/Handle_System" title="Handle System">hdl</a>:<a rel="nofollow" class="external text" href="http://hdl.handle.net/2246%2F5906">2246/5906</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=New+Records+of+Fossil+%E2%80%98Waterbirds%E2%80%99+from+the+Miocene+of+Kenya&amp;rft.jtitle=American+Museum+novitates&amp;rft.aulast=Dykes%2C+Gareth+J.%3B+Alexander%2C+Cyril+Walker&amp;rft.au=Dykes%2C+Gareth+J.%3B+Alexander%2C+Cyril+Walker&amp;rft.date=2008&amp;rft.issue=3610&amp;rft.issn=0003-0082&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus, Carl</a> (1758) (in Latin). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata</i>. <a href="/wiki/Stockholm" title="Stockholm">Holmiae</a>: (Laurentii Salvii). p.&#160;142.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata&amp;rft.aulast=Linnaeus&amp;rft.aufirst=Carl&amp;rft.au=Linnaeus%2C%26%2332%3BCarl&amp;rft.date=1758&amp;rft.pages=p.%26nbsp%3B142&amp;rft.place=%5B%5BStockholm%7CHolmiae%5D%5D&amp;rft.pub=%28Laurentii+Salvii%29&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Brisson1-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brisson1_6-0">^</a></b></span> <span class="reference-text"><span class="citation book">Brisson, Mathurin Jacques (1760) (in French). <i>Ornithologie; ou, Méthode contenant la division des oiseaux en ordres, sections, genres, espéces &amp; leurs variétés. &amp;c Vol-ume 1</i>. Paris: C. J. B. Bauche. p.&#160;48.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ornithologie%3B+ou%2C+M%C3%A9thode+contenant+la+division+des+oiseaux+en+ordres%2C+sections%2C+genres%2C+esp%C3%A9ces+%26+leurs+vari%C3%A9t%C3%A9s.+%26c+Vol-ume+1&amp;rft.aulast=Brisson&amp;rft.aufirst=Mathurin+Jacques&amp;rft.au=Brisson%2C%26%2332%3BMathurin+Jacques&amp;rft.date=1760&amp;rft.pages=p.%26nbsp%3B48&amp;rft.place=Paris&amp;rft.pub=C.+J.+B.++Bauche&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation book">Lewis, Charlton Thomas; Kingery, Hugh Macmaster (1918). <i>An Elementary Latin Dictionary</i>. New York: American Book Company. p.&#160;126. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-910205-8" title="Special:BookSources/0-19-910205-8">0-19-910205-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Elementary+Latin+Dictionary&amp;rft.aulast=Lewis&amp;rft.aufirst=Charlton+Thomas&amp;rft.au=Lewis%2C%26%2332%3BCharlton+Thomas&amp;rft.au=Kingery%2C%26%2332%3BHugh+Macmaster&amp;rft.date=1918&amp;rft.pages=p.%26nbsp%3B126&amp;rft.place=New+York&amp;rft.pub=American+Book+Company&amp;rft.isbn=0-19-910205-8&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/stork">"Stork"</a>. Merriam-Webster<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.merriam-webster.com/dictionary/stork">http://www.merriam-webster.com/dictionary/stork</a></span><span class="reference-accessdate">. Retrieved 1 December 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Stork&amp;rft.atitle=&amp;rft.pub=Merriam-Webster&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fstork&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-cramp323-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-cramp323_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cramp323_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-cramp323_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-cramp323_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-cramp323_9-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Cramp 1977, p. 323.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><i>Field Guide to the Birds of East Africa: Kenya, Tanzania, Uganda, Rwanda, Burundi</i> by Stevenson &amp; Fanshawe. Elsevier Science (2001), <a href="/wiki/Special:BookSources/9780856610790" class="internal mw-magiclink-isbn">ISBN 978-0856610790</a></span></li>
+<li id="cite_note-cramp322-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-cramp322_11-0">^</a></b></span> <span class="reference-text">Cramp 1977, p. 322.</span></li>
+<li id="cite_note-cramp324-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-cramp324_12-0">^</a></b></span> <span class="reference-text">Cramp 1977, p. 324.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Zielinski, Piotr (2002). <a rel="nofollow" class="external text" href="http://www.ekologia.uni.lodz.pl/zielinski1.pdf">"Brood reduction and parental infanticide — are the White Stork <i>Ciconia ciconia</i> and the Black Stork <i>C. nigra</i> exceptional?"</a> (PDF). <i>Acta Ornithologica</i> <b>37</b> (2): 113–119<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ekologia.uni.lodz.pl/zielinski1.pdf">http://www.ekologia.uni.lodz.pl/zielinski1.pdf</a></span><span class="reference-accessdate">. Retrieved 14 February 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Brood+reduction+and+parental+infanticide+%E2%80%94+are+the+White+Stork+%27%27Ciconia+ciconia%27%27+and+the+Black+Stork+%27%27C.+nigra%27%27+exceptional%3F&amp;rft.jtitle=Acta+Ornithologica&amp;rft.aulast=Zielinski%2C+Piotr&amp;rft.au=Zielinski%2C+Piotr&amp;rft.date=2002&amp;rft.volume=37&amp;rft.issue=2&amp;rft.pages=113%E2%80%93119&amp;rft_id=http%3A%2F%2Fwww.ekologia.uni.lodz.pl%2Fzielinski1.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Stork&amp;action=edit&amp;section=7" title="Edit section: Works cited">edit</a>]</span> <span class="mw-headline" id="Works_cited">Works cited</span></h2>
+<ul>
+<li><span class="citation book">Cramp (ed), Stanley, ed. (1977). <i>Handbook of the Birds of Europe the Middle East and North Africa, the Birds of the Western Palearctic, Volume 1: Ostrich to Ducks</i>. Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-857358-8" title="Special:BookSources/0-19-857358-8">0-19-857358-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+Europe+the+Middle+East+and+North+Africa%2C+the+Birds+of+the+Western+Palearctic%2C+Volume+1%3A+Ostrich+to+Ducks&amp;rft.date=1977&amp;rft.pub=Oxford%3A+Oxford+University+Press&amp;rft.isbn=0-19-857358-8&amp;rfr_id=info:sid/en.wikipedia.org:Black_Stork"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Stork&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li>Black Stork - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/084.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Storks" title="Template:Storks"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Storks" title="Template talk:Storks"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Storks&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;">
+<ul>
+<li><a href="/wiki/Stork" title="Stork">Storks</a>
+<ul>
+<li><a href="/wiki/Order_(biology)" title="Order (biology)">order</a>: <a href="/wiki/Ciconiiformes" title="Ciconiiformes">Ciconiiformes</a></li>
+<li><a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Ciconiidae</li>
+</ul>
+</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Genus" title="Genus">Genus</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;background: #eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Species" title="Species">Species</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Mycteria" title="Mycteria">Mycteria</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Milky_Stork" title="Milky Stork">Milky Stork</a> (<i>M. cinerea</i>)</li>
+<li><a href="/wiki/Yellow-billed_Stork" title="Yellow-billed Stork">Yellow-billed Stork</a> (<i>M. ibis</i>)</li>
+<li><a href="/wiki/Painted_Stork" title="Painted Stork">Painted Stork</a> (<i>M. leucocephala</i>)</li>
+<li><a href="/wiki/Wood_Stork" title="Wood Stork">Wood Stork</a> (<i>M. americana</i>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Openbill_stork" title="Openbill stork">Anastomus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asian_Openbill" title="Asian Openbill">Asian Openbill</a> (<i>A. oscitans</i>)</li>
+<li><a href="/wiki/African_Openbill" title="African Openbill">African Openbill</a> (<i>A. lamelligerus</i>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Ciconia" title="Ciconia">Ciconia</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abdim%27s_Stork" title="Abdim's Stork">Abdim's Stork</a> (<i>C. abdimii</i>)</li>
+<li><a href="/wiki/Woolly-necked_Stork" title="Woolly-necked Stork">Woolly-necked Stork</a> (<i>C. episcopus</i>)</li>
+<li><a href="/wiki/Storm%27s_Stork" title="Storm's Stork">Storm's Stork</a> (<i>C. stormi</i>)</li>
+<li><a href="/wiki/Maguari_Stork" title="Maguari Stork">Maguari Stork</a> (<i>C. maguari</i>)</li>
+<li><a href="/wiki/Oriental_Stork" title="Oriental Stork">Oriental Stork</a> (<i>C. boyciana</i>)</li>
+<li><a href="/wiki/White_Stork" title="White Stork">White Stork</a> (<i>C. ciconia</i>)</li>
+<li><strong class="selflink">Black Stork</strong> (<i>C. nigra</i>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Ephippiorhynchus" title="Ephippiorhynchus">Ephippiorhynchus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-necked_Stork" title="Black-necked Stork">Black-necked Stork</a> (<i>E. asiaticus</i>)</li>
+<li><a href="/wiki/Saddle-billed_Stork" title="Saddle-billed Stork">Saddle-billed Stork</a> (<i>E. senegalensis</i>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Jabiru</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jabiru" title="Jabiru">Jabiru</a> (<i>J. mycteria</i>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Leptoptilos" title="Leptoptilos">Leptoptilos</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lesser_Adjutant" title="Lesser Adjutant">Lesser Adjutant</a> (<i>L. javanicus</i>)</li>
+<li><a href="/wiki/Greater_Adjutant" title="Greater Adjutant">Greater Adjutant</a> (<i>L. dubius</i>)</li>
+<li><a href="/wiki/Marabou_Stork" title="Marabou Stork">Marabou Stork</a> (<i>L. crumeniferus</i>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div>19 living species in six genera</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-cs-ga"></span> <span id="interwiki-de-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 11647/1000000
+Preprocessor generated node count: 52971/1500000
+Post-expand include size: 87385/2048000 bytes
+Template argument size: 24236/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:237790-0!*!0!!en!4!* and timestamp 20121022132054 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Black_Stork&amp;oldid=514093862">http://en.wikipedia.org/w/index.php?title=Black_Stork&amp;oldid=514093862</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Ciconia" title="Category:Ciconia">Ciconia</a></li><li><a href="/wiki/Category:Migratory_birds_(Eastern_hemisphere)" title="Category:Migratory birds (Eastern hemisphere)">Migratory birds (Eastern hemisphere)</a></li><li><a href="/wiki/Category:Birds_of_Malaysia" title="Category:Birds of Malaysia">Birds of Malaysia</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Bhutan" title="Category:Birds of Bhutan">Birds of Bhutan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Black+Stork&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Black+Stork" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Black_Stork"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Black_Stork"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Black_Stork" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Black_Stork&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Black_Stork&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Black_Stork" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Black_Stork" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Black_Stork&amp;oldid=514093862" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Black_Stork&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Black_Stork&amp;id=514093862" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Black+Stork" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Black+Stork&amp;oldid=514093862&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Black_Stork&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%8B%D1%80%D0%BF%D1%81%D1%8B%D1%85%D1%8D%D1%83%D1%8D" title="Къырпсыхэуэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%84%D9%82%D9%84%D9%82_%D8%A3%D8%B3%D9%88%D8%AF" title="لقلق أسود" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-av"><a href="//av.wikipedia.org/wiki/%D0%A7%D3%80%D0%B5%D0%B3%D3%80%D0%B5%D1%80%D0%B0%D0%B1_%D0%BB%D0%B0%D0%BA%D1%8A%D0%BB%D0%B0%D0%BA%D1%8A" title="ЧӀегӀераб лакълакъ" lang="av" hreflang="av">Авар</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Qara_leyl%C9%99k" title="Qara leylək" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D2%A0%D0%B0%D1%83%D2%99%D1%8B" title="Ҡауҙы" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D1%8B_%D0%B1%D1%83%D1%81%D0%B5%D0%BB" title="Чорны бусел" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D1%8B_%D0%B1%D1%83%D1%81%D0%B5%D0%BB" title="Чорны бусел" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B5%D0%BD_%D1%89%D1%8A%D1%80%D0%BA%D0%B5%D0%BB" title="Черен щъркел" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/C%27hwibon_zu" title="C'hwibon zu" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Cigonya_negra" title="Cigonya negra" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/%C4%8C%C3%A1p_%C4%8Dern%C3%BD" title="Čáp černý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Schwarzstorch" title="Schwarzstorch" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-dsb"><a href="//dsb.wikipedia.org/wiki/Carny_b%C3%B3%C5%9Bon" title="Carny bóśon" lang="dsb" hreflang="dsb">Dolnoserbski</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Must-toonekurg" title="Must-toonekurg" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CF%80%CE%B5%CE%BB%CE%B1%CF%81%CE%B3%CF%8C%CF%82" title="Μαυροπελαργός" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Ciconia_nigra" title="Ciconia nigra" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Nigra_cikonio" title="Nigra cikonio" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Amiamoko_beltz" title="Amiamoko beltz" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%84%DA%A9%E2%80%8C%D9%84%DA%A9_%D8%B3%DB%8C%D8%A7%D9%87" title="لک‌لک سیاه" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Svartstorkur" title="Svartstorkur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Cigogne_noire" title="Cigogne noire" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Swarte_Earrebarre" title="Swarte Earrebarre" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Cego%C3%B1a_negra" title="Cegoña negra" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A8%B9%ED%99%A9%EC%83%88" title="먹황새" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%8D%D6%87_%D5%A1%D6%80%D5%A1%D5%A3%D5%AB%D5%AC" title="Սև արագիլ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-hsb"><a href="//hsb.wikipedia.org/wiki/%C4%8Corny_ba%C4%87on" title="Čorny baćon" lang="hsb" hreflang="hsb">Hornjoserbsce</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Crna_roda" title="Crna roda" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Ciconia_nigra" title="Ciconia nigra" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%97%D7%A1%D7%99%D7%93%D7%94_%D7%A9%D7%97%D7%95%D7%A8%D7%94" title="חסידה שחורה" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-csb"><a href="//csb.wikipedia.org/wiki/Cz%C3%B4rny_b%C3%B2c%C3%B3n" title="Czôrny bòcón" lang="csb" hreflang="csb">Kaszëbsczi</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D2%9A%D0%B0%D1%80%D0%B0_%D0%B4%D0%B5%D0%B3%D0%B5%D0%BB%D0%B5%D0%BA" title="Қара дегелек" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Leglega_re%C5%9F" title="Leglega reş" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-mrj"><a href="//mrj.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BC_%D1%86%D3%93%D1%80%D0%BB%D3%93%D0%BD%D0%B3%D3%B9" title="Шим цӓрлӓнгӹ" lang="mrj" hreflang="mrj">Кырык мары</a></li>
+			<li class="interwiki-ltg"><a href="//ltg.wikipedia.org/wiki/Malnuo_%C5%BEugure" title="Malnuo žugure" lang="ltg" hreflang="ltg">Latgaļu</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Ciconia_nigra" title="Ciconia nigra" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Melnais_st%C4%81r%C4%B7is" title="Melnais stārķis" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Juodasis_gandras" title="Juodasis gandras" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Fekete_g%C3%B3lya" title="Fekete gólya" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A6%D1%80%D0%BD_%D1%88%D1%82%D1%80%D0%BA" title="Црн штрк" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B3%E0%A4%BE_%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%8B%E0%A4%9A%E0%A4%BE" title="काळा करकोचा" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80_%D3%A9%D1%80%D3%A9%D0%B2%D1%82%D0%B0%D1%81" title="Хар өрөвтас" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Zwarte_ooievaar" title="Zwarte ooievaar" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8A%E3%83%99%E3%82%B3%E3%82%A6" title="ナベコウ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Suart_aarebaare" title="Suart aarebaare" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Svartstork" title="Svartstork" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%A9%D8%A7%D9%84%DB%8C_%D8%B3%D9%B9%D8%A7%D8%B1%DA%A9" title="کالی سٹارک" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Chicon%C2%B7nhe_n%C3%B2re" title="Chicon·nhe nòre" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Ciconia_nigra" title="Ciconia nigra" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Bocian_czarny" title="Bocian czarny" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Cegonha-preta" title="Cegonha-preta" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%91%D1%83%D0%B7%D1%91%D0%BA_%D1%87%D0%BE%D1%80%D0%BD%D1%8B%D0%B9" title="Бузёк чорный" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B8%D1%81%D1%82" title="Чёрный аист" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%B0_%D1%8D%D2%BB%D0%B8%D1%80" title="Хара эһир" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Bocian_%C4%8Dierny" title="Bocian čierny" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/%C4%8Crna_%C5%A1torklja" title="Črna štorklja" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A6%D1%80%D0%BD%D0%B0_%D1%80%D0%BE%D0%B4%D0%B0" title="Црна рода" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Mustahaikara" title="Mustahaikara" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Svart_stork" title="Svart stork" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kara_leylek" title="Kara leylek" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0_%D1%87%D0%BE%D1%80%D0%BD%D0%B8%D0%B9" title="Лелека чорний" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/H%E1%BA%A1c_%C4%91en" title="Hạc đen" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%BB%91%E9%B9%B3" title="黑鹳" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 September 2012 at 00:21.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Black_Stork&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv277 in 0.151 secs. -->
+	</body>
+</html>

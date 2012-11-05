@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Dalmatian Pelican - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dalmatian_Pelican","wgTitle":"Dalmatian Pelican","wgCurRevisionId":520934933,"wgArticleId":307251,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List vulnerable species","Articles with \'species\' microformats","Pelecanus","Pelicans","Birds of Asia","Birds of Pakistan","Birds of Europe","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dalmatian_Pelican","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"1a94a8c3216e08bf5a04eaab779b8748","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":307251,"title":"Dalmatian Pelican","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Asia","Birds of Europe","Birds of Pakistan","Birds of Western Sahara","IUCN Red List vulnerable species","Pelecanus","Pelicans"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Dalmatian_Pelican skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Dalmatian Pelican</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Dalmatian Pelican</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:ComputerHotline_-_Pelecanus_crispus_(by)_(1).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/ComputerHotline_-_Pelecanus_crispus_%28by%29_%281%29.jpg/220px-ComputerHotline_-_Pelecanus_crispus_%28by%29_%281%29.jpg" width="220" height="331" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/ComputerHotline_-_Pelecanus_crispus_%28by%29_%281%29.jpg/330px-ComputerHotline_-_Pelecanus_crispus_%28by%29_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/ComputerHotline_-_Pelecanus_crispus_%28by%29_%281%29.jpg/440px-ComputerHotline_-_Pelecanus_crispus_%28by%29_%281%29.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/220px-Status_iucn3.1_VU.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/330px-Status_iucn3.1_VU.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/440px-Status_iucn3.1_VU.svg.png 2x" /><br />
+<a href="/wiki/Vulnerable_species" title="Vulnerable species">Vulnerable</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Pelican" title="Pelican">Pelecaniformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Pelican" title="Pelican">Pelecanidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Pelican" title="Pelican">Pelecanus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. crispus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Pelecanus crispus</i></span></b><br />
+<small><a href="/wiki/Carl_Friedrich_Bruch" title="Carl Friedrich Bruch">Bruch</a>, 1832</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Dalmatian Pelican</b> (<i>Pelecanus crispus</i>) is a massive member of the <a href="/wiki/Pelican" title="Pelican">pelican</a> family. It breeds from southeastern <a href="/wiki/Europe" title="Europe">Europe</a> to <a href="/wiki/India" title="India">India</a> and <a href="/wiki/China" title="China">China</a> in swamps and shallow lakes. The nest is a crude heap of vegetation.</p>
+<p>No <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> are known to exist over its wide range, but based on size differences, a <a href="/wiki/Pleistocene" title="Pleistocene">Pleistocene</a> <a href="/wiki/Paleosubspecies" title="Paleosubspecies" class="mw-redirect">paleosubspecies</a> <i>Pelecanus crispus palaeocrispus</i> has been described from <a href="/wiki/Fossil" title="Fossil">fossils</a> recovered at <a href="/wiki/Binagady" title="Binagady" class="mw-redirect">Binagady</a>, <a href="/wiki/Azerbaijan" title="Azerbaijan">Azerbaijan</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Habitat"><span class="tocnumber">2</span> <span class="toctext">Habitat</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Movements"><span class="tocnumber">3</span> <span class="toctext">Movements</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Feeding"><span class="tocnumber">4</span> <span class="toctext">Feeding</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Breeding"><span class="tocnumber">5</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Status"><span class="tocnumber">6</span> <span class="toctext">Status</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pelecanus_crispus-20030720.jpg" class="image"><img alt="Pelecanus crispus-20030720.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pelecanus_crispus-20030720.jpg/220px-Pelecanus_crispus-20030720.jpg" width="220" height="341" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pelecanus_crispus-20030720.jpg/330px-Pelecanus_crispus-20030720.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pelecanus_crispus-20030720.jpg/440px-Pelecanus_crispus-20030720.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pelecanus_crispus-20030720.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+</div>
+</div>
+</div>
+<p>This huge bird is the largest of the pelicans and one of the largest living bird species. It measures 160 to 183 cm (5&#160;ft 3&#160;in to 6&#160;ft 0&#160;in) in length, 9–15 kg (20–33 lb) in weight and 290–351 cm (9&#160;ft 6&#160;in–11&#160;ft 6&#160;in) in wingspan.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Burnie_2-0" class="reference"><a href="#cite_note-Burnie-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-CRC_3-0" class="reference"><a href="#cite_note-CRC-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Harrison_6-0" class="reference"><a href="#cite_note-Harrison-6"><span>[</span>7<span>]</span></a></sup> With a mean weight of around 11.5&#160;kg (25&#160;lb), it is the world's heaviest flying bird species on average although large male <a href="/wiki/Bustard" title="Bustard">bustards</a> and <a href="/wiki/Swan" title="Swan">swans</a> can exceed the pelican in maximum weight.<sup id="cite_ref-CRC_3-1" class="reference"><a href="#cite_note-CRC-3"><span>[</span>4<span>]</span></a></sup> It also appears to have one of the largest wingspans of any living bird, rivaling those of the <a href="/wiki/Great_albatross" title="Great albatross">great albatrosses</a>.<sup id="cite_ref-Harrison_6-1" class="reference"><a href="#cite_note-Harrison-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-Handbook_7-0" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>The somewhat similar-looking <a href="/wiki/Great_White_Pelican" title="Great White Pelican">Great White Pelican</a> is typically slightly smaller but the largest male individuals can be essentially the same size as a typical Dalmatian.<sup id="cite_ref-Handbook_7-1" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-Harrison_6-2" class="reference"><a href="#cite_note-Harrison-6"><span>[</span>7<span>]</span></a></sup> However, the Dalmatian differs from this other very large species in that it has curly nape <a href="/wiki/Feather" title="Feather">feathers</a>, grey legs and silvery-white (rather than pure white) <a href="/wiki/Plumage" title="Plumage">plumage</a>. In winter, adult pelicans of this species go from silvery-gray to a dingier brownish-gray cream color.<sup id="cite_ref-Arkive_8-0" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup> Immature birds are grey and lack the pink facial patch of immature White Pelicans. The loose feathers around the forehead of the Dalmatian Pelican can form a W-like-shape on the face right above the bill.<sup id="cite_ref-Handbook_7-2" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup> In the breeding season it has an orange-red lower mandible and pouch against a yellow upper mandible. In winter, the whole bill is a somewhat dull yellow. The <a href="/wiki/Beak" title="Beak">bill</a>, at 36 to 45 cm (14 to 18 in) long, is the second largest of any bird, after the <a href="/wiki/Australian_Pelican" title="Australian Pelican">Australian Pelican</a>.<sup id="cite_ref-Handbook_7-3" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup> The bare skin around the eye can vary from yellow to purplish in color.<sup id="cite_ref-Redlist_9-0" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> Among standard measurements, compared to the Great White Pelican, the Dalmatian's <a href="/wiki/Tarsus_(skeleton)" title="Tarsus (skeleton)">tarsus</a> is slightly shorter, at 11.6 to 12.2 cm (4.6 to 4.8 in), but its <a href="/wiki/Tail" title="Tail">tail</a> and <a href="/wiki/Wing_chord_(biology)" title="Wing chord (biology)">wing chord</a> length are notably larger, at 22 to 24 cm (8.7 to 9.4 in) long and 68 to 80 cm (27 to 31 in), respectively.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> When the Dalmatian Pelican is in in flight, unlike other pelicans, the wings are all grayish-white but for black wing tips.<sup id="cite_ref-Handbook_7-4" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup> While on the wing, it is an elegant soaring bird and, if in a flock, all the members of it will move in graceful synchrony. The neck is then held back like a <a href="/wiki/Heron" title="Heron">heron's</a> in flight. It is the largest surviving creature that can fly.</p>
+<p>The Dalmatian Pelican is often silent, as are most pelicans, although it can be fairly vocal during the mating season. At this time, birds may engage in a wide range of guttural, deep vocalisations including barks, hisses and grunts.<sup id="cite_ref-Arkive_8-1" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit&amp;section=2" title="Edit section: Habitat">edit</a>]</span> <span class="mw-headline" id="Habitat">Habitat</span></h2>
+<p>The Dalmatian Pelican is found in <a href="/wiki/Lake" title="Lake">lakes</a>, <a href="/wiki/River" title="River">rivers</a>, <a href="/wiki/Delta" title="Delta">deltas</a> and <a href="/wiki/Estuary" title="Estuary">estuaries</a>. Compared to the Great White Pelican, the Dalmatian is not as tied to lowland areas and will nest in suitable wetlands at many elevations. It is less opportunistic in breeding habitat selection than the Great White, usually returning to a traditional breeding site year after year unless it becomes completely unsuitable. During the winter, Dalmatian Pelicans usually stay on ice-free lakes in Europe or <i>jheels</i> (seasonal lakes) in <a href="/wiki/India" title="India">India</a>. They also visit, typically during winter, inshore areas along sheletered coasts for feeding.<sup id="cite_ref-Handbook_7-5" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit&amp;section=3" title="Edit section: Movements">edit</a>]</span> <span class="mw-headline" id="Movements">Movements</span></h2>
+<p>This pelican usually <a href="/wiki/Bird_migration" title="Bird migration">migrates</a> short distances. It is dispersive in <a href="/wiki/Europe" title="Europe">Europe</a>, based on feeding opportunities, with most western birds staying through the winter in the <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> region. In the <a href="/wiki/Danube_Delta" title="Danube Delta">Danube Delta</a>, Dalmatian Pelicans arrive in March and leave by the end of August. It is more actively migratory in <a href="/wiki/Asia" title="Asia">Asia</a>, where most of the birds that breed in <a href="/wiki/Russia" title="Russia">Russia</a> fly down for the winter to the central <a href="/wiki/Middle_East" title="Middle East">Middle East</a>, largely around <a href="/wiki/Iran" title="Iran">Iran</a> through to the <a href="/wiki/Indian_Subcontinent" title="Indian Subcontinent" class="mw-redirect">Indian Subcontinent</a>, from <a href="/wiki/Nepal" title="Nepal">Nepal</a> to central <a href="/wiki/India" title="India">India</a>.<sup id="cite_ref-Arkive_8-2" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup> The pelicans who breed in <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a> winter along the east coast of <a href="/wiki/China" title="China">China</a>, including the <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> area.<sup id="cite_ref-Redlist_9-1" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit&amp;section=4" title="Edit section: Feeding">edit</a>]</span> <span class="mw-headline" id="Feeding">Feeding</span></h2>
+<p>This pelican feeds almost entirely on <a href="/wiki/Fish" title="Fish">fish</a>. Preferred prey species can include <a href="/wiki/Common_carp" title="Common carp">Common carp</a>, <a href="/wiki/European_perch" title="European perch">European perch</a>, <a href="/wiki/Common_rudd" title="Common rudd">Common rudd</a>, <a href="/wiki/Eel" title="Eel">eels</a>, <a href="/wiki/Catfish" title="Catfish">catfish</a> (especially <a href="/wiki/Siluridae" title="Siluridae">silurids</a> during winter), <a href="/wiki/Mullet_(fish)" title="Mullet (fish)">mullet</a> and <a href="/wiki/Northern_Pike" title="Northern Pike" class="mw-redirect">Northern Pike</a>, the latter having measured up to 50&#160;cm (20&#160;in) when taken.<sup id="cite_ref-Handbook_7-6" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-Arkive_8-3" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup> In the largest remnant colony, located in Greece, the preferred prey is reportedly the native <i><a href="/wiki/Alburnus_belvica" title="Alburnus belvica">Alburnus belvica</a></i>.<sup id="cite_ref-Redlist_9-2" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> The Dalmatian Pelican requires around 1,200&#160;g (2.6&#160;lb) of fish per day and can take locally abundant smaller fish such as <a href="/wiki/Goby" title="Goby">gobies</a>, but usually ignore them in lieu of slightly larger fish.<sup id="cite_ref-Handbook_7-7" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-Arkive_8-4" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup> It usually forages alone or in groups of only twos or threes. It normally swims along, placidly and slowly, until it quickly dunks its head underwater and scoops the fish out, along with great masses of water. The water is dumped out of the sides of the pouch and the fish is swallowed. Occasionally it may feed cooperatively with other pelicans by corraling fish into shallow waters and may even cooperate similarly while fishing alongside <a href="/wiki/Cormorant" title="Cormorant">cormorants</a> in <a href="/wiki/Greece" title="Greece">Greece</a>.<sup id="cite_ref-Handbook_7-8" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup> Occasionally, the pelican may not immediately eat the fish contained in its gular pouch, so it can save the prey for later consumption.<sup id="cite_ref-Arkive_8-5" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup> Other small wetlands-dwellers may supplement the diet, including <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a>, <a href="/wiki/Worm" title="Worm">worms</a>, <a href="/wiki/Beetle" title="Beetle">beetles</a> and small <a href="/wiki/Water_bird" title="Water bird">water birds</a>, usually nestlings and eggs.<sup id="cite_ref-Arkive_8-6" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit&amp;section=5" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h2>
+<p>Among a highly social family in general, Dalmatian Pelicans may have the least social of inclinations. This species naturally nests in relatively small group compared to most other pelican species and sometimes may even nest alone. However, small colonies are usually formed, which regularly include upwards of 250 pairs (especially historically). Occasionally, Dalmatian Pelicans may mix in with colonies of Great White Pelicans.<sup id="cite_ref-Handbook_7-9" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup> Nesting sites selected are usually either <a href="/wiki/Island" title="Island">islands</a> in large bodies of water (typically lagoons or river deltas<sup id="cite_ref-Arkive_8-7" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup>) or dense mats of aquatic vegetation, such as extensive <a href="/wiki/Reedbed" title="Reedbed" class="mw-redirect">reedbeds</a> of <i><a href="/wiki/Phragmites" title="Phragmites">Phragmites</a></i> and <i><a href="/wiki/Typha" title="Typha">Typha</a></i>. Due to their large size, these pelicans often trample the vegetation in the area surrounding their nests into the muddy substrate and thus nesting sites may become unsuitably muddy after around three years of usage.<sup id="cite_ref-Redlist_9-3" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup></p>
+<p>The nest is a moderately-sized pile of grass, reeds, sticks and feathers, usually measuring about 1&#160;m (3.3&#160;ft) deep and 63&#160;cm (25&#160;in) across. Nests are usually located on or near the ground, often being placed on dense floating vegetation. Nests tend to be flimsy until cemented together by droppings. Breeding commences in March or April, about a month before the Great White Pelican breeds. The Dalmatian Pelican lays a clutch of 1 to 6 eggs, with two eggs being the norm. Eggs weigh between 120 and 195 g (4.2 and 6.9 oz).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> Incubation, which is spilt between both parents, lasts for 30 to 34 days. The chicks are born naked but soon sprout white down feathers. When the young are 6 to 7 weeks of age, the pelicans frequently gather in "pods". The offspring fledge at around 85 days and become independent at 100 to 105 days old. Nesting success relies on local environmental conditions, with any where from 58% to 100% of hatchlings successfully surviving to adulthood. The nesting sites often insure limited nest predation, though carnivorous mammals who eat egg and nestling can access nests when water levels are low enough for them to cross, as has been recorded with <a href="/wiki/Wild_boar" title="Wild boar">wild boars</a> destroying nests in <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>.<sup id="cite_ref-Redlist_9-4" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/Jackal" title="Jackal">Jackals</a>, <a href="/wiki/Fox" title="Fox">foxes</a>, <a href="/wiki/Gray_Wolf" title="Gray Wolf" class="mw-redirect">wolves</a>, <a href="/wiki/Dog" title="Dog">dogs</a> and <a href="/wiki/Eurasian_Lynx" title="Eurasian Lynx" class="mw-redirect">lynxes</a> are also regular nest predators when water levels are low and <a href="/wiki/White-tailed_Eagle" title="White-tailed Eagle">White-tailed Eagles</a> may attack pelicans at the colony to at least the size of fledgings.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup> Sexual maturity is thought to be obtained at 3 or 4 years of age.<sup id="cite_ref-Handbook_7-10" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit&amp;section=6" title="Edit section: Status">edit</a>]</span> <span class="mw-headline" id="Status">Status</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pelecanus_crispus_at_Beijing_Zoo.JPG" class="image"><img alt="Pelecanus crispus at Beijing Zoo.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pelecanus_crispus_at_Beijing_Zoo.JPG/220px-Pelecanus_crispus_at_Beijing_Zoo.JPG" width="220" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pelecanus_crispus_at_Beijing_Zoo.JPG/330px-Pelecanus_crispus_at_Beijing_Zoo.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pelecanus_crispus_at_Beijing_Zoo.JPG/440px-Pelecanus_crispus_at_Beijing_Zoo.JPG 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pelecanus_crispus_at_Beijing_Zoo.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+</div>
+</div>
+</div>
+<p>More so than the White Pelican, this species has declined greatly throughout its range. Once, millions of Dalmatian Pelicans could be reportedly found in the country of <a href="/wiki/Romania" title="Romania">Romania</a> alone. Through the 20th century, the species has undergone a dramatic decline, the reasons for which are not entirely understood. The most likely culprit appears to be habitat loss, in connection to drainage of wetlands and development. Colonies are regularly disturbed by human activity and, as in all pelicans, the parents may temporarily leave their nest if threatened, which in turns endangers the chicks to predation. Occasionally, the Dalmatian Pelican may be shot by fishermen, in a misplaced sense of competition over resources.<sup id="cite_ref-Arkive_8-8" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup> Today, such killings are generally at a small scale but local over-exploitation of fishing stock is a continued concern. These pelicans are killed by local people in <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a>, due to the use of pelican bills as pouches.<sup id="cite_ref-Arkive_8-9" class="reference"><a href="#cite_note-Arkive-8"><span>[</span>9<span>]</span></a></sup> Despite the clandestine nature of Mongolian poaching for pelican skulls, up to 50 pelican bills can be found in a commercial market there and its known (due to the species' rarity) that a single pelican is considered a fair trade for 10 horses and 30 sheep.<sup id="cite_ref-Oriental_15-0" class="reference"><a href="#cite_note-Oriental-15"><span>[</span>16<span>]</span></a></sup> Dalmatian Pelicans also fly into and are killed by power-lines with some regularity.<sup id="cite_ref-Redlist_9-5" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> In Greece, pelicans are often disturbed by power boats, usually ones bearing tourists, so much so that they are basically unable to feed on the fish they need.<sup id="cite_ref-Handbook_7-11" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup> As of 1994, in Europe there are over a thousand breeding pairs, most of them in <a href="/wiki/Greece" title="Greece">Greece</a>, but also in <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>, <a href="/wiki/Republic_of_Macedonia" title="Republic of Macedonia">Macedonia</a>, <a href="/wiki/Romania" title="Romania">Romania</a>, <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> and <a href="/wiki/Albania" title="Albania">Albania</a> (<a href="/wiki/Karavasta_Lagoon" title="Karavasta Lagoon">Karavasta Lagoon</a>). They have been considered extinct in <a href="/wiki/Croatia" title="Croatia">Croatia</a> sinces the 1950s, although a single Dalmatian Pelican was observed there in 2011.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup> The largest single remaining colony is at <a href="/wiki/List_of_lakes_in_Greece" title="List of lakes in Greece">Lake Mikri</a> in Greece, with around 1,400 pairs, with approximately 450 pairs left in the <a href="/wiki/Danube_Delta" title="Danube Delta">Danube Delta</a>.<sup id="cite_ref-Redlist_9-6" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> The country with the largest breeding population today, including about 70% of pairs or possibly over 3,000 pairs, is Russia. Worldwide, there are an estimated 3,000–5,000 breeding pairs.<sup id="cite_ref-Redlist_9-7" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> Due to exploitation at all stages of the life cycle, the species is critically endangered in its Mongolian range, with a total population of fewer than 130 individual birds.<sup id="cite_ref-Redlist_9-8" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-Oriental_15-1" class="reference"><a href="#cite_note-Oriental-15"><span>[</span>16<span>]</span></a></sup> It is possible that up to 10,000–20,000 pelicans exist at the species level.<sup id="cite_ref-Redlist_9-9" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> One report of approximately 8,000 Dalmatian Pelicans in India turned out to be a congregation of misidentified Great White Pelicans.<sup id="cite_ref-Handbook_7-12" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>The Dalmatian Pelican is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies. Conservations efforts have been untaken on behalf of the species, especially in Europe.<sup id="cite_ref-Redlist_9-10" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> Although they normally nest on the ground, Dalmatian Pelicans have nested on platforms put out in <a href="/wiki/Turkey" title="Turkey">Turkey</a>, <a href="/wiki/Greece" title="Greece">Greece</a>, <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> and <a href="/wiki/Romania" title="Romania">Romania</a> in order to encourage them to breed.<sup id="cite_ref-Handbook_7-13" class="reference"><a href="#cite_note-Handbook-7"><span>[</span>8<span>]</span></a></sup> Rafts over water have also been set up for the species to use in Greece and Bulgaria.<sup id="cite_ref-Redlist_9-11" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> Power-lines have also been marked or dismantled in areas adjacent to colonies in these countries. Additionally, water level management and educational programs may be aiding them at a local level.<sup id="cite_ref-Redlist_9-12" class="reference"><a href="#cite_note-Redlist-9"><span>[</span>10<span>]</span></a></sup> Although efforts have been undertaken in Asia, there is a much higher rate of poaching, shooting and habitat destruction and implementing conservation efforts may be more difficult.<sup id="cite_ref-Oriental_15-2" class="reference"><a href="#cite_note-Oriental-15"><span>[</span>16<span>]</span></a></sup> In 2012, when unusually frigid winter conditions caused the <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a> to freeze over, it resulted in the death from starvation of at least 20 of the Dalmatian Pelicans that overwinter there. Despite local authorities initial attempt to prevent it, many locals turned out with fish and hand-fed the birds, apparently allowing the huge pelicans to survive the winter.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit&amp;section=7" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003811/0">"<i>Pelecanus crispus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003811/0">http://www.iucnredlist.org/apps/redlist/details/106003811/0</a></span><span class="reference-accessdate">. Retrieved 5 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Pelecanus+crispus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003811%2F0&amp;rfr_id=info:sid/en.wikipedia.org:Dalmatian_Pelican"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Birdlife International</span></li>
+<li id="cite_note-Burnie-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Burnie_2-0">^</a></b></span> <span class="reference-text">Burnie D and Wilson DE (Eds.), <i>Animal: The Definitive Visual Guide to the World's Wildlife</i>. DK Adult (2005), <a href="/wiki/Special:BookSources/0789477645" class="internal mw-magiclink-isbn">ISBN 0789477645</a></span></li>
+<li id="cite_note-CRC-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-CRC_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CRC_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>CRC Handbook of Avian Body Masses</i> by John B. Dunning Jr. (Editor). CRC Press (1992), <a href="/wiki/Special:BookSources/9780849342585" class="internal mw-magiclink-isbn">ISBN 978-0-8493-4258-5</a>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><i>Firefly Encyclopedia of Birds</i> by Christopher Perrins. Firefly Books (2003), <a href="/wiki/Special:BookSources/1552977773" class="internal mw-magiclink-isbn">ISBN 1552977773</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book">Ali, S. (1993). <i>The Book of Indian Birds</i>. Bombay: Bombay Natural History Society. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-149-563731-3" title="Special:BookSources/0-149-563731-3">0-149-563731-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Book+of+Indian+Birds&amp;rft.aulast=Ali%2C+S.&amp;rft.au=Ali%2C+S.&amp;rft.date=1993&amp;rft.place=Bombay&amp;rft.pub=Bombay+Natural+History+Society&amp;rft.isbn=0-149-563731-3&amp;rfr_id=info:sid/en.wikipedia.org:Dalmatian_Pelican"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Harrison-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Harrison_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Harrison_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Harrison_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Harrison, Peter, <i>Seabirds: An Identification Guide</i>. Houghton Mifflin Harcourt (1991), <a href="/wiki/Special:BookSources/9780395602911" class="internal mw-magiclink-isbn">ISBN 978-0-395-60291-1</a></span></li>
+<li id="cite_note-Handbook-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Handbook_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Handbook_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Handbook_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Handbook_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Handbook_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Handbook_7-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Handbook_7-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Handbook_7-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Handbook_7-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Handbook_7-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Handbook_7-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Handbook_7-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Handbook_7-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Handbook_7-13"><sup><i><b>n</b></i></sup></a></span> <span class="reference-text">del Hoyo, et al., <i>Handbook of the Birds of the World. Volume 1: Ostrich to Ducks</i>. Lynx Edicons (1992), <a href="/wiki/Special:BookSources/9788487334108" class="internal mw-magiclink-isbn">ISBN 978-84-87334-10-8</a></span></li>
+<li id="cite_note-Arkive-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Arkive_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Arkive_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Arkive_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Arkive_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Arkive_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Arkive_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Arkive_8-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Arkive_8-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Arkive_8-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Arkive_8-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arkive.org/dalmatian-pelican/pelecanus-crispus/">Dalmatian pelican videos, photos and facts – Pelecanus crispus</a>. ARKive. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-Redlist-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Redlist_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Redlist_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Redlist_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Redlist_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Redlist_9-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Redlist_9-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Redlist_9-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Redlist_9-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Redlist_9-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Redlist_9-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Redlist_9-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Redlist_9-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Redlist_9-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/speciesfactsheet.php?id=3811">Dalmatian Pelican (Pelecanus crispus) – BirdLife species factsheet</a>. Birdlife.org (1998-10-03). Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://avis.indianbiodiversity.org/fauna-of-british-india-2nd-ed-vol-vi-1929/dalmatian-pelican-pelecanus-crispus.html">Dalmatian Pelican (Pelecanus crispus)</a>. Avis.indianbiodiversity.org. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://avis.indianbiodiversity.org/pelecaniformes-pelecanidae-pelicans/great-white-pelican-pelecanus-onocrotalus.html">Great White Pelican – Pelecanus onocrotalus</a>. Avis.indianbiodiversity.org. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.waza.org/en/zoo/visit-the-zoo/ducks-geese-pelikanes-and-relatives/pelecanus-crispus">Dalmatian Pelican – Pelecanus crispus&#160;: WAZA&#160;: World Association of Zoos and Aquariums</a>. WAZA. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Crivelli, A. J. (April 1996). <a rel="nofollow" class="external text" href="http://ec.europa.eu/environment/nature/conservation/wildbirds/action_plans/docs/pelecanus_crispus.pdf">ACTION PLAN FOR THE DALMATIAN PELICAN (Pelecanus crispus) IN EUROPE</a>. europa.eu</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.planetofbirds.com/pelecaniformes-pelecanidae-dalmatian-pelican-pelecanus-crispus">Dalmatian Pelican (Pelecanus crispus)</a>. Planet of Birds (2011-06-08). Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-Oriental-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Oriental_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Oriental_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Oriental_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Nyambayar, B., Bräunlich, A., Tseveenmyadag, N., Shar, S. &amp; Gantogs, S. (2007). <a rel="nofollow" class="external text" href="http://www.orientalbirdclub.org/publications/ba7pdfs/dalmatianpelican.pdf">"Conservation of the critically endangered east Asian population of Dalmatian Pelican Pelecanus crispus in western Mongolia"</a>. <i>BirdingASIA</i> <b>7</b>: 68–74<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.orientalbirdclub.org/publications/ba7pdfs/dalmatianpelican.pdf">http://www.orientalbirdclub.org/publications/ba7pdfs/dalmatianpelican.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Conservation+of+the+critically+endangered+east+Asian+population+of+Dalmatian+Pelican+Pelecanus+crispus+in+western+Mongolia&amp;rft.jtitle=BirdingASIA&amp;rft.aulast=Nyambayar%2C+B.%2C+Br%C3%A4unlich%2C+A.%2C+Tseveenmyadag%2C+N.%2C+Shar%2C+S.+%26+Gantogs%2C+S.&amp;rft.au=Nyambayar%2C+B.%2C+Br%C3%A4unlich%2C+A.%2C+Tseveenmyadag%2C+N.%2C+Shar%2C+S.+%26+Gantogs%2C+S.&amp;rft.date=2007&amp;rft.volume=7&amp;rft.pages=68%E2%80%9374&amp;rft_id=http%3A%2F%2Fwww.orientalbirdclub.org%2Fpublications%2Fba7pdfs%2Fdalmatianpelican.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Dalmatian_Pelican"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Coleman, Loren. (2011-03-24) <a rel="nofollow" class="external text" href="http://www.cryptomundo.com/cryptozoo-news/dalmatian-pelican/">Croatian Dalmatian Pelican Sighted</a>. Cryptomundo. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/world-europe-17117482">Trapped Dalmatian pelicans hand-fed in frozen Caspian Sea</a>. Bbc.co.uk (2012-02-21). Retrieved on 2012-08-22.</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Pelecanus_crispus" class="extiw" title="commons:Pelecanus crispus">Pelecanus crispus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=3811&amp;m=0">BirdLife Species Factsheet.</a></li>
+<li><a rel="nofollow" class="external text" href="http://ec.europa.eu/environment/nature/directive/birdactionplan/pelecanuscrispus.htm">European Commission for Environment: Action plan for the Dalmatian Pelican</a> (1994)</li>
+<li><a rel="nofollow" class="external text" href="http://finnature.fi/photo_album.html.14.html">Dalmatian Pelican photo gallery by Jari Peltomäki</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.euronatur.org/fileadmin/docs/jagd/ADRIATIC_FLYWAY_2009_Conference_Proceedings.pdf">Conference Proceedings of the 2009 Adriatic Flyway Conference in Ulcinj, Montenegro</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pelecaniformes" title="Template:Pelecaniformes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pelecaniformes" title="Template talk:Pelecaniformes" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pelecaniformes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Order_(biology)" title="Order (biology)">Order</a>: <a href="/wiki/Pelecaniformes" title="Pelecaniformes">Pelecaniformes</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Pelican" title="Pelican">Pelicans</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Pelecanidae&#160;• <a href="/wiki/Genus" title="Genus">genus</a>: <i>Pelecanus</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Pelican" title="Pelican">Pelecanus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Brown_Pelican" title="Brown Pelican">Brown Pelican</a>&#160;• <a href="/wiki/Peruvian_Pelican" title="Peruvian Pelican">Peruvian Pelican</a>&#160;• <a href="/wiki/American_White_Pelican" title="American White Pelican">American White Pelican</a>&#160;• <a href="/wiki/Great_White_Pelican" title="Great White Pelican">Great White Pelican</a>&#160;• <strong class="selflink">Dalmatian Pelican</strong>&#160;• <a href="/wiki/Pink-backed_Pelican" title="Pink-backed Pelican">Pink-backed Pelican</a>&#160;• <a href="/wiki/Spot-billed_Pelican" title="Spot-billed Pelican">Spot-billed Pelican</a>&#160;• <a href="/wiki/Australian_Pelican" title="Australian Pelican">Australian Pelican</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Shoebill" title="Shoebill">Shoebill</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Balaenicipitidae&#160;• <a href="/wiki/Genus" title="Genus">genus</a>: <i>Balaeniceps</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Balaeniceps" title="Balaeniceps" class="mw-redirect">Balaeniceps</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Shoebill" title="Shoebill">Shoebill</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Hamerkop" title="Hamerkop">Hamerkop</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Scopidae&#160;• <a href="/wiki/Genus" title="Genus">genus</a>: <i>Scopus</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Scopus" title="Scopus">Scopus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Hamerkop" title="Hamerkop">Hamerkop</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-uk-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 14314/1000000
+Preprocessor generated node count: 72027/1500000
+Post-expand include size: 95969/2048000 bytes
+Template argument size: 52859/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:307251-0!*!0!!en!4!* and timestamp 20121101184740 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Dalmatian_Pelican&amp;oldid=520934933">http://en.wikipedia.org/w/index.php?title=Dalmatian_Pelican&amp;oldid=520934933</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_vulnerable_species" title="Category:IUCN Red List vulnerable species">IUCN Red List vulnerable species</a></li><li><a href="/wiki/Category:Pelecanus" title="Category:Pelecanus">Pelecanus</a></li><li><a href="/wiki/Category:Pelicans" title="Category:Pelicans">Pelicans</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dalmatian+Pelican&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dalmatian+Pelican" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Dalmatian_Pelican"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Dalmatian_Pelican"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Dalmatian_Pelican" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Dalmatian_Pelican&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dalmatian_Pelican&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dalmatian_Pelican" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dalmatian_Pelican" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Dalmatian_Pelican&amp;oldid=520934933" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Dalmatian_Pelican&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Dalmatian_Pelican&amp;id=520934933" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dalmatian+Pelican" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Dalmatian+Pelican&amp;oldid=520934933&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dalmatian_Pelican&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%96%D1%8C%D1%8D%D0%B4%D0%B7%D1%8B%D1%83%D1%8D%D0%B8%D0%BD" title="Жьэдзыуэин" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D8%AC%D8%B9_%D8%AF%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D9%8A" title="بجع دالماسي" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Q%C4%B1vr%C4%B1ml%C9%99l%C9%99k_qutan" title="Qıvrımlələk qutan" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B4%D1%80%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2_%D0%BF%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD" title="Къдроглав пеликан" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Pilikant_penn_fuilh" title="Pilikant penn fuilh" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Pelic%C3%A0_cresp" title="Pelicà cresp" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Pelik%C3%A1n_kade%C5%99av%C3%BD" title="Pelikán kadeřavý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Kr%C3%B8ltoppet_pelikan" title="Krøltoppet pelikan" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Krauskopfpelikan" title="Krauskopfpelikan" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CF%81%CE%B3%CF%85%CF%81%CE%BF%CF%80%CE%B5%CE%BB%CE%B5%CE%BA%CE%AC%CE%BD%CE%BF%CF%82" title="Αργυροπελεκάνος" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Pelecanus_crispus" title="Pelecanus crispus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Krispa_pelikano" title="Krispa pelikano" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Pelecanus_crispus" title="Pelecanus crispus" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%DA%A9%D8%A7%D9%86_%D9%BE%D8%A7_%D8%AE%D8%A7%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C" title="پلیکان پا خاکستری" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/P%C3%A9lican_fris%C3%A9" title="Pélican frisé" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Dalmatinski_pelikan" title="Dalmatinski pelikan" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Pelecanus_crispus" title="Pelecanus crispus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A9%D7%A7%D7%A0%D7%90%D7%99_%D7%9E%D7%A1%D7%95%D7%9C%D7%A1%D7%9C" title="שקנאי מסולסל" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%91%D2%B1%D0%B9%D1%80%D0%B0_%D0%B1%D1%96%D1%80%D2%9B%D0%B0%D0%B7%D0%B0%D0%BD" title="Бұйра бірқазан" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Borzas_g%C3%B6d%C3%A9ny" title="Borzas gödény" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B4%D1%80%D0%B0%D0%B2_%D0%BF%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD" title="Кадрав пеликан" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kroeskoppelikaan" title="Kroeskoppelikaan" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B7%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%83%9A%E3%83%AA%E3%82%AB%E3%83%B3" title="ニシハイイロペリカン" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/H%CC%81iyzina_masa%C5%9F_yolu_pelikan" title="H́iyzina masaş yolu pelikan" lang="ce" hreflang="ce">Нохчийн</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Kr%C3%B8llpelikan" title="Krøllpelikan" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%88%D8%A7%D9%84%D9%85%DB%8C%D9%B9%DB%8C%D9%86_%D9%BE%DB%8C%D9%84%DB%8C%DA%A9%D8%A7%D9%86" title="ڈالمیٹین پیلیکان" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Pelecanus_crispus" title="Pelecanus crispus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pelikan_k%C4%99dzierzawy" title="Pelikan kędzierzawy" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pelicano-crespo" title="Pelicano-crespo" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD" title="Кудрявый пеликан" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Dalmatian_Pelican" title="Dalmatian Pelican" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Pelik%C3%A1n_ku%C4%8Derav%C3%BD" title="Pelikán kučeravý" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D0%BC%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%BF%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD" title="Далматински пеликан" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kiharapelikaani" title="Kiharapelikaani" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Krushuvad_pelikan" title="Krushuvad pelikan" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%AE%E0%AF%87%E0%AE%9A%E0%AE%BF%E0%AE%AF_%E0%AE%95%E0%AF%82%E0%AE%B4%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%9F%E0%AE%BE" title="தால்மேசிய கூழைக்கடா" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Tepeli_pelikan" title="Tepeli pelikan" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D1%96%D0%BA%D0%B0%D0%BD_%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8F%D0%B2%D0%B8%D0%B9" title="Пелікан кучерявий" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%8D%B7%E7%BE%BD%E9%B5%9C%E9%B6%98" title="卷羽鵜鶘" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 November 2012 at 18:47.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Dalmatian_Pelican&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv211 in 0.152 secs. -->
+	</body>
+</html>

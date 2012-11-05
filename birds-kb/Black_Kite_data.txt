@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Black Kite - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Black_Kite&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Black_Kite&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8a791e4a23d87b78fafd87230486fc5d */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Black_Kite","wgTitle":"Black Kite","wgCurRevisionId":515486946,"wgArticleId":200971,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from July 2010","Kites (birds)","Birds of Africa","Birds of Asia","Birds of Armenia","Birds of Iran","Birds of Pakistan","Birds of Palestine","Birds of Southeast Asia","Birds of Bangladesh","Birds of India","Birds of Thailand","Birds of Europe","Birds of Turkey","Milvus","Birds of South Australia","Birds of Western Australia","Birds of South Africa","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Black_Kite","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"44a9baa7d2f3481754f4caf9337405d8","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":200971,"title":"Black Kite","namespace":0,"categories":["All articles with unsourced statements","Articles with \'species\' microformats","Articles with unsourced statements from July 2010","Birds of Africa","Birds of Armenia","Birds of Asia","Birds of Bangladesh","Birds of Europe","Birds of India","Birds of Iran","Birds of Pakistan","Birds of Palestine","Birds of South Africa","Birds of South Australia","Birds of Southeast Asia","Birds of Thailand","Birds of Turkey","Birds of Western Australia","Birds of Western Sahara","IUCN Red List least concern species","Kites (birds)","Milvus"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/OggPlayer.js?12"></script><script>
+wgOggPlayer.msg = {"ogg-play":"Play","ogg-pause":"Pause","ogg-stop":"Stop","ogg-no-player":"Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.","ogg-player-videoElement":"Native browser support","ogg-player-oggPlugin":"Browser plugin","ogg-player-cortado":"Cortado (Java)","ogg-player-vlc-mozilla":"VLC","ogg-player-vlc-activex":"VLC (ActiveX)","ogg-player-quicktime-mozilla":"QuickTime","ogg-player-quicktime-activex":"QuickTime (ActiveX)","ogg-player-totem":"Totem","ogg-player-kaffeine":"Kaffeine","ogg-player-kmplayer":"KMPlayer","ogg-player-mplayerplug-in":"mplayerplug-in","ogg-player-thumbnail":"Still image only","ogg-player-selected":"(selected)","ogg-use-player":"Use player:","ogg-more":"More…","ogg-download":"Download file","ogg-desc-link":"About this file","ogg-dismiss":"Close","ogg-player-soundthumb":"No player","ogg-no-xiphqt":"You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
+wgOggPlayer.cortadoUrl = "http://bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/cortado-ovt-stripped-0.6.0.jar";
+wgOggPlayer.extPathUrl = "//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler";
+</script><style>
+.ogg-player-options {
+	border: solid 1px #ccc;
+	padding: 2pt;
+	text-align: left;
+	font-size: 10pt;
+}
+
+.center .ogg-player-options ul {
+	margin: 0.3em 0px 0px 1.5em;
+}
+</style><script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Black_Kite skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Black Kite</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Black Kite</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:2007-black-kite.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2007-black-kite.jpg/220px-2007-black-kite.jpg" width="220" height="155" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">From <a href="/wiki/Bengaluru" title="Bengaluru" class="mw-redirect">Bengaluru</a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Falconiformes" title="Falconiformes">Falconiformes</a><br />
+(or <a href="/wiki/Accipitriformes" title="Accipitriformes">Accipitriformes</a>, q.v.)</span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Milvus" title="Milvus">Milvus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. migrans</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Milvus migrans</i></span></b><br />
+<small>(<a href="/wiki/Pieter_Boddaert" title="Pieter Boddaert">Boddaert</a>, 1783)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p>5, see text</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Milvus_migrans_distr.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Milvus_migrans_distr.png/220px-Milvus_migrans_distr.png" width="220" height="174" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Black and Yellow-billed Kite ranges.<br />
+Orange: summer only<br />
+Green: all year<br />
+Blue: winter only</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>Falco migrans</i> <small>Boddaert, 1783</small></li>
+<li><i>Milvus affinis</i></li>
+<li><i>Milvus ater</i></li>
+<li><i>Milvus melanotis</i></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Black Kite</b> (<i>Milvus migrans</i>) is a medium-sized <a href="/wiki/Bird_of_prey" title="Bird of prey">bird of prey</a> in the family Accipitridae, which also includes many other diurnal <a href="/wiki/Bird_of_prey" title="Bird of prey">raptors</a>. Unlike others of the group, Black Kites are opportunistic hunters and are more likely to scavenge. They spend a lot of time soaring and gliding in thermals in search of food. Their angled wing and distinctive forked tail make them easy to identify. This <a href="/wiki/Kite_(bird)" title="Kite (bird)">kite</a> is widely distributed through the temperate and tropical parts of <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a> and parts of <a href="/wiki/Australasia" title="Australasia">Australasia</a> and <a href="/wiki/Oceania" title="Oceania">Oceania</a>, with the temperate region populations tending to be migratory. Several subspecies are recognized and formerly had their own English names. The European populations are small, but the South Asian population is very large.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Systematics_and_taxonomy"><span class="tocnumber">2</span> <span class="toctext">Systematics and taxonomy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Subspecies"><span class="tocnumber">2.1</span> <span class="toctext">Subspecies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Distribution"><span class="tocnumber">3</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behaviour_and_ecology"><span class="tocnumber">4</span> <span class="toctext">Behaviour and ecology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Food_and_foraging"><span class="tocnumber">4.1</span> <span class="toctext">Food and foraging</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Flocking_and_roosting"><span class="tocnumber">4.2</span> <span class="toctext">Flocking and roosting</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Breeding"><span class="tocnumber">4.3</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Mortality_factors"><span class="tocnumber">4.4</span> <span class="toctext">Mortality factors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>Black Kites can be distinguished from <a href="/wiki/Red_Kite" title="Red Kite">Red Kites</a> by the slightly smaller size, less forked tail (visible in flight), and generally dark <a href="/wiki/Plumage" title="Plumage">plumage</a> without any rufous. The sexes are alike. The upper plumage is brown but the head and neck tend to be paler. The patch behind the eye appears darker. The outer flight feathers are black and the feathers have dark cross bars and are mottled at the base. The lower parts of the body are pale brown, becoming lighter towards the chin. The body feathers have dark shafts giving it a streaked appearance. The cere and gape are yellow, but the bill is black (unlike in the <a href="/wiki/Yellow-billed_Kite" title="Yellow-billed Kite">Yellow-billed Kite</a>). The legs are yellow and the claws are black. They have a distinctive shrill whistle followed by a rapid whinnying call.<sup id="cite_ref-whistler_1-0" class="reference"><a href="#cite_note-whistler-1"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=2" title="Edit section: Systematics and taxonomy">edit</a>]</span> <span class="mw-headline" id="Systematics_and_taxonomy">Systematics and taxonomy</span></h2>
+<p>The <a href="/wiki/Red_Kite" title="Red Kite">Red Kite</a> has been known to <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybridize</a> with the Black Kite (in captivity where both species were kept together, and in the wild on the <a href="/wiki/Cape_Verde_Islands" title="Cape Verde Islands" class="mw-redirect">Cape Verde Islands</a>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>Recent DNA studies suggest that the yellow-billed, African races, <i>parasitus</i> and <i>aegyptius</i>, differ significantly from Black Kites in the Eurasian <a href="/wiki/Clade" title="Clade">clade</a>, and should be considered as a separate, <a href="/wiki/Allopatric" title="Allopatric" class="mw-redirect">allopatric</a> species <a href="/wiki/Yellow-billed_Kite" title="Yellow-billed Kite">Yellow-billed Kite</a>, <i>M. aegyptius</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> They occur throughout <a href="/wiki/Africa" title="Africa">Africa</a> except for the <a href="/wiki/Congo_River" title="Congo River">Congo</a> basin and the <a href="/wiki/Sahara_Desert" title="Sahara Desert" class="mw-redirect">Sahara Desert</a>. There have been some suggestions that the Black-eared Kite (<i>M. m. lineatus</i>) should be elevated to full species status as <i>M. lineatus</i>, but this is not well supported.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=3" title="Edit section: Subspecies">edit</a>]</span> <span class="mw-headline" id="Subspecies">Subspecies</span></h3>
+<ul>
+<li><i>Milvus migrans migrans</i> <small>(<a href="/wiki/Pieter_Boddaert" title="Pieter Boddaert">Boddaert</a>, 1783)</small>: <b>European Black Kite</b></li>
+</ul>
+<dl>
+<dd>Breeds central, southern and eastern Europe to <a href="/wiki/Tien_Shan" title="Tien Shan" class="mw-redirect">Tien Shan</a> and south to northwest <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>. Winters in <a href="/wiki/Sub-Saharan_Africa" title="Sub-Saharan Africa">Sub-Saharan Africa</a>. The head is whitish.</dd>
+</dl>
+<ul>
+<li><i>Milvus migrans lineatus</i> <small>(<a href="/wiki/John_Edward_Gray" title="John Edward Gray">J. E. Gray</a>, 1831)</small>: <b>Black-eared Kite</b></li>
+</ul>
+<dl>
+<dd><a href="/wiki/Siberia" title="Siberia">Siberia</a> to <a href="/wiki/Amurland" title="Amurland" class="mw-redirect">Amurland</a> S around <a href="/wiki/Himalaya" title="Himalaya" class="mw-redirect">Himalaya</a> to N <a href="/wiki/India" title="India">India</a>, N <a href="/wiki/Indochina" title="Indochina">Indochina</a> and S <a href="/wiki/China" title="China">China</a>; <a href="/wiki/Japan" title="Japan">Japan</a>. Northern inland birds migrate to E <a href="/wiki/Persian_Gulf" title="Persian Gulf">Persian Gulf</a> coast and S Asia in winter. This has a larger pale carpal patch.</dd>
+</dl>
+<ul>
+<li><i>Milvus migrans govinda</i> <small>(<a href="/wiki/William_Henry_Sykes" title="William Henry Sykes">Sykes</a>, 1832)</small>: <b>Small Indian Kite</b> (formerly <b>Pariah Kite</b>)</li>
+</ul>
+<dl>
+<dd>Eastern <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> east through tropical <a href="/wiki/India" title="India">India</a> and <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a> to Indochina and <a href="/wiki/Malay_Peninsula" title="Malay Peninsula">Malay Peninsula</a>. Resident. A dark brown kite found throughout the subcontinent. Can be seen circling and soaring in urban areas. Easily distinguished by the shallow forked tail. The name <i>Pariah</i> originates from the Indian caste system and usage of this name is deprecated.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></dd>
+</dl>
+<ul>
+<li><i>Milvus migrans affinis</i> <small>(<a href="/wiki/John_Gould" title="John Gould">Gould</a>, 1838)</small>: <b>Fork-tailed Kite</b></li>
+</ul>
+<dl>
+<dd><a href="/wiki/Sulawesi" title="Sulawesi">Sulawesi</a> and possibly <a href="/wiki/Lesser_Sunda_Islands" title="Lesser Sunda Islands">Lesser Sunda Islands</a>; <a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a> except mountains; NE and E Australia.</dd>
+</dl>
+<ul>
+<li><i>Milvus migrans formosanus</i> <small>(<a href="/wiki/Nagamichi_Kuroda" title="Nagamichi Kuroda">Kuroda</a>, 1920)</small>: <b>Taiwan Kite</b></li>
+</ul>
+<dl>
+<dd><a href="/wiki/Taiwan" title="Taiwan">Taiwan</a> and <a href="/wiki/Hainan" title="Hainan">Hainan</a>; resident.</dd>
+</dl>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=4" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Black_Kite_June09.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Black_Kite_June09.jpg/220px-Black_Kite_June09.jpg" width="220" height="330" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Black_Kite_June09.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Black Kite in flight, <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a> <a href="/wiki/Australia" title="Australia">Australia</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Milvus_migrans_head.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Milvus_migrans_head.jpg/220px-Milvus_migrans_head.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Milvus_migrans_head.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>Milvus migrans'</i> head</div>
+</div>
+</div>
+<p>The species is found in Europe, Asia, Africa and Australia. The temperate populations of this kite tend to be migratory while the tropical ones are resident. <a href="/wiki/Europe" title="Europe">European</a> and central <a href="/wiki/Asia" title="Asia">Asian</a> birds (<a href="/wiki/Subspecies" title="Subspecies">subspecies</a> <i>M. m. milvus</i> and <b>Black-eared Kite</b> <i>M. m. lineatus</i>, respectively) are <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, moving to the tropics in winter, but races in warmer regions such as the <a href="/wiki/India" title="India">Indian</a> <i>M. m. govinda</i> (<b>Pariah Kite</b>), or the Australasian <i>M. m. affinis</i> (<b>Fork-tailed Kite</b>), are resident. In some areas such as in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, the Black Kite occurs only as a wanderer on migration. These birds are usually of the nominate race, but in November 2006 a juvenile of the eastern <i>lineatus</i>, not previously recorded in western Europe, was found in <a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>The species is not found in the <a href="/wiki/Indonesia" title="Indonesia">Indonesian</a> <a href="/wiki/Archipelago" title="Archipelago">archipelago</a> between the <a href="/wiki/South_East_Asia" title="South East Asia" class="mw-redirect">South East Asian</a> mainland and the <a href="/wiki/Wallace_Line" title="Wallace Line">Wallace Line</a>. Vagrants, most likely of the Black-eared Kite, on occasion range far into the <a href="/wiki/Pacific" title="Pacific" class="mw-redirect">Pacific</a>, out to the <a href="/wiki/Hawaiian_islands" title="Hawaiian islands" class="mw-redirect">Hawaiian islands</a>.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from July 2010">citation needed</span></a></i>]</sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Milvus_migrans_front(ThKraft).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Milvus_migrans_front%28ThKraft%29.jpg/220px-Milvus_migrans_front%28ThKraft%29.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Milvus_migrans_front(ThKraft).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>Milvus migrans migrans</i></div>
+</div>
+</div>
+<p>In India, the population of <i>M. m. govinda</i> is particularly large especially in areas of high human population. Here the birds avoid heavily forested regions. A survey in 1967 in the 150 square kilometres of the city of New Delhi produced an estimate of about 2200 pairs or roughly 15 per square kilometer.<sup id="cite_ref-whistler_1-1" class="reference"><a href="#cite_note-whistler-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=5" title="Edit section: Behaviour and ecology">edit</a>]</span> <span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=6" title="Edit section: Food and foraging">edit</a>]</span> <span class="mw-headline" id="Food_and_foraging">Food and foraging</span></h3>
+<p>Black Kites are most often seen gliding and soaring on thermals as they search for food. The flight is buoyant and the bird glides with ease, changing directions easily. They will swoop down with their legs lowered to snatch small live prey, <a href="/wiki/Fish" title="Fish">fish</a>, household refuse and <a href="/wiki/Carrion" title="Carrion">carrion</a>, for which behaviour they are known in British <a href="/wiki/Military_slang" title="Military slang">military slang</a> as the <a href="/wiki/Shite-hawk" title="Shite-hawk">shite-hawk</a>. They are opportunist hunters and have been known to take birds, bats and rodents.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> They are attracted to smoke and fires, where they seek escaping prey.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> This behaviour has led to Australian native beliefs that kites spread fires by picking up burning twigs and dropping them on dry grass.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> The Indian populations are well adapted to living in cities and are found in densely populated areas. Large numbers may be seen soaring in <a href="/wiki/Thermal" title="Thermal">thermals</a> over cities. In some places they will readily swoop and snatch food held by humans.<sup id="cite_ref-whistler_1-2" class="reference"><a href="#cite_note-whistler-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-hbk_12-0" class="reference"><a href="#cite_note-hbk-12"><span>[</span>13<span>]</span></a></sup> Black Kites in Spain prey on nestling waterfowl especially during summer to feed their young. Predation of nests of other pairs of Black Kites has also been noted.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup> Kites have also been seen to tear and carry away the nests of <a href="/wiki/Baya_Weaver" title="Baya Weaver">Baya Weavers</a> in an attempt to obtain eggs or chicks.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=7" title="Edit section: Flocking and roosting">edit</a>]</span> <span class="mw-headline" id="Flocking_and_roosting">Flocking and roosting</span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;">
+<div id="ogg_player_1">
+<div><a href="/wiki/File:Black_Kite_eulo95.ogg" class="image" title="Black Kite eulo95.ogg"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Black_Kite_eulo95.ogg/mid-Black_Kite_eulo95.ogg.jpg" width="220" height="165" alt="" /></a></div>
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/5/59/Black_Kite_eulo95.ogg&quot;,&quot;width&quot;:220,&quot;height&quot;:165,&quot;length&quot;:34,&quot;linkUrl&quot;:&quot;/wiki/File:Black_Kite_eulo95.ogg&quot;,&quot;isVideo&quot;:true});" style="width: 220px; text-align: center" title="Play video"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/play.png" width="22" height="22" alt="Play video" /></button></div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Black_Kite_eulo95.ogg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Eulo, SW Queensland, Australia</div>
+</div>
+</div>
+<p>In winter, kites form large communal roosts. Flocks may fly about before settling at the roost.<sup id="cite_ref-hbk_12-1" class="reference"><a href="#cite_note-hbk-12"><span>[</span>13<span>]</span></a></sup> When migrating, the Black Kite has a greater propensity to form large flocks than other migratory raptors, particularly prior to making a crossing across water.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup> In India, the subspecies <i>govinda</i> shows large seasonal fluctuations with the highest numbers seen from July to October, after the Monsoons, and it has been suggested that they make local movements in response to high rainfall.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=8" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Milvus_migrans_MHNT.ZOO.2006.11.86.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Milvus_migrans_MHNT.ZOO.2006.11.86.jpg/220px-Milvus_migrans_MHNT.ZOO.2006.11.86.jpg" width="220" height="189" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Milvus_migrans_MHNT.ZOO.2006.11.86.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Eggs of <i>Milvus migrans</i> - <a href="/wiki/MHNT" title="MHNT" class="mw-redirect">MHNT</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bird_of_prey_in_Hong_Kong.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bird_of_prey_in_Hong_Kong.jpg/220px-Bird_of_prey_in_Hong_Kong.jpg" width="220" height="185" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bird_of_prey_in_Hong_Kong.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>Milvus migrans lineatus</i> in flight in <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></div>
+</div>
+</div>
+<p>The breeding season of Black Kites in India begins in winter, the young birds fledging before the <a href="/wiki/Monsoon" title="Monsoon">monsoons</a>. The nest is a rough platform of twigs and rags placed in a tree. Nest sites may be reused in subsequent years. European birds breed in summer. Birds in the Italian Alps tended to build their nest close to water in steep cliffs or tall trees.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> Nest orientation may be related to wind and rainfall.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> The nests may sometimes be decorated with bright materials such as white plastic and a study in Spain suggests that they may have a role in signalling to keep away other kites.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup> After pairing, the male frequently copulates with the female. Unguarded females may be approached by other males, and extra pair copulations are frequent. Males returning from a foraging trip will frequently copulate on return, as this increases the chances of his sperm fertilizing the eggs rather than a different male.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup> Both the male and female take part in nest building, incubation and care of chicks. The typical clutch size is 2 or sometimes 3 eggs.<sup id="cite_ref-hbk_12-2" class="reference"><a href="#cite_note-hbk-12"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> The incubation period varies from 30–34 days. Chicks of the Indian population stayed at the nest for nearly two months.<sup id="cite_ref-delhi_22-0" class="reference"><a href="#cite_note-delhi-22"><span>[</span>23<span>]</span></a></sup> Chicks hatched later in European populations appeared to fledge faster. The care of young by the parents also rapidly decreased with the need for adults to migrate.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup> Siblings show aggression to each other and often the weaker chick may be killed, but parent birds were found to preferentially feed the smaller chicks in experimentally altered nests.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup> Newly hatched young have down (prepennae) which are sepia on the back and black around the eye and buff on the head, neck and underparts. This is replaced by brownish gray second down (preplumulae). After 9 to 12 days the second down appears on the whole body except the top of the head. Body feathers begin to appear after 18 to 22 days. The feathers on the head become noticeable from the 24th to 29th day. The nestlings initially feed on food fallen at the bottom of the nest and begin to tear flesh after 33–39 days. They are able to stand on their legs after 17–19 days and begin flapping their wings after 27–31 days. After 50 days they begin to move to branches next to the nest.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>28<span>]</span></a></sup> Birds are able to breed after their second year.<sup id="cite_ref-delhi_22-1" class="reference"><a href="#cite_note-delhi-22"><span>[</span>23<span>]</span></a></sup> Parent birds guard their nest and will dive aggressively at intruders. Humans who intrude the nest appear to be recognized by birds and singled out for dive attacks.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>29<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=9" title="Edit section: Mortality factors">edit</a>]</span> <span class="mw-headline" id="Mortality_factors">Mortality factors</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Blac_Kite_I4-_Kolkata_IMG_1159.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Blac_Kite_I4-_Kolkata_IMG_1159.jpg/220px-Blac_Kite_I4-_Kolkata_IMG_1159.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Blac_Kite_I4-_Kolkata_IMG_1159.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>Milvus migrans govinda</i> calling</div>
+</div>
+</div>
+<p>Black-eared Kites in Japan were found to accumulate nearly 70% of mercury accumulated from polluted food in the feathers, thus excreting it in the moult process.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>30<span>]</span></a></sup> Black Kites often perch on electric wires and are frequent victims of electrocution.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup> Their habit of swooping to pick up dead <a href="/wiki/Rodent" title="Rodent">rodents</a> or other <a href="/wiki/Roadkill" title="Roadkill">roadkill</a> leads to collisions with vehicles.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>33<span>]</span></a></sup> Instances of mass poisoning as a result of feeding on poisoned voles in agricultural fields have been noted.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>34<span>]</span></a></sup> They are also a major nuisance at some <a href="/wiki/Airport" title="Airport">airports</a>, where their size makes them a significant <a href="/wiki/Birdstrike" title="Birdstrike" class="mw-redirect">birdstrike</a> hazard.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>35<span>]</span></a></sup></p>
+<p>Like most bird species, they have parasites, several species of endoparasitic <a href="/wiki/Trematode" title="Trematode" class="mw-redirect">trematodes</a> are known<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>36<span>]</span></a></sup> and some <a href="/wiki/Digenea" title="Digenea">Digenea</a> species that are transmitted via fishes.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>37<span>]</span></a></sup><sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>38<span>]</span></a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>39<span>]</span></a></sup></p>
+<p>Birds with abnormal development of a secondary upper mandible have been recorded in <i>govinda</i><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>40<span>]</span></a></sup> and <i>lineatus</i>.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>41<span>]</span></a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=10" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/160032423">"<i>Milvus migrans</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/160032423">http://www.iucnredlist.org/apps/redlist/details/160032423</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Milvus+migrans%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F160032423&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-whistler-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-whistler_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-whistler_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-whistler_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Whistler, Hugh (1949). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/popularhandbooko033226mbp#page/n422/mode/1up/"><i>Popular handbook of Indian birds</i></a> (4 ed.). Gurney and Jackson, London. pp.&#160;371–373. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4067-4576-6" title="Special:BookSources/1-4067-4576-6">1-4067-4576-6</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/popularhandbooko033226mbp#page/n422/mode/1up/">http://www.archive.org/stream/popularhandbooko033226mbp#page/n422/mode/1up/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Popular+handbook+of+Indian+birds&amp;rft.aulast=Whistler%2C+Hugh&amp;rft.au=Whistler%2C+Hugh&amp;rft.date=1949&amp;rft.pages=pp.%26nbsp%3B371%E2%80%93373&amp;rft.edition=4&amp;rft.pub=Gurney+and+Jackson%2C+London&amp;rft.isbn=1-4067-4576-6&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fpopularhandbooko033226mbp%23page%2Fn422%2Fmode%2F1up%2F&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation Journal">Hille, Sabine and Jean-marc Thiollay (2000). <a rel="nofollow" class="external text" href="http://journals.cambridge.org/action/displayAbstract?aid=62169">"The imminent extinction of the Kites <i>Milvus milvus fasciicauda</i> and <i>Milvus m. migrans</i> on the Cape Verde Islands"</a>. <i>Bird Conservation International</i> <b>10</b> (4): 361–369. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1017%2FS0959270900000319">10.1017/S0959270900000319</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://journals.cambridge.org/action/displayAbstract?aid=62169">http://journals.cambridge.org/action/displayAbstract?aid=62169</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+imminent+extinction+of+the+Kites+%27%27Milvus+milvus+fasciicauda%27%27+and+%27%27Milvus+m.+migrans%27%27+on+the+Cape+Verde+Islands&amp;rft.jtitle=Bird+Conservation+International&amp;rft.aulast=Hille%2C+Sabine+and+Jean-marc+Thiollay&amp;rft.au=Hille%2C+Sabine+and+Jean-marc+Thiollay&amp;rft.date=2000&amp;rft.volume=10&amp;rft.issue=4&amp;rft.pages=361%E2%80%93369&amp;rft_id=info:doi/10.1017%2FS0959270900000319&amp;rft_id=http%3A%2F%2Fjournals.cambridge.org%2Faction%2FdisplayAbstract%3Faid%3D62169&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation Journal">Johnson JA, Richard T. Watson and David P. Mindell (2005). <a rel="nofollow" class="external text" href="http://www.peregrinefund.org/pdfs/ResearchLibrary/Johnson%20et%20al_2005.pdf">"Prioritizing species conservation: does the Cape Verde kite exist?"</a> (PDF). <i>Proc. R. Soc. B</i> <b>272</b> (1570): 1365–1371. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1098%2Frspb.2005.3098">10.1098/rspb.2005.3098</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1560339">1560339</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16006325">16006325</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.peregrinefund.org/pdfs/ResearchLibrary/Johnson%20et%20al_2005.pdf">http://www.peregrinefund.org/pdfs/ResearchLibrary/Johnson%20et%20al_2005.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Prioritizing+species+conservation%3A+does+the+Cape+Verde+kite+exist%3F&amp;rft.jtitle=Proc.+R.+Soc.+B&amp;rft.aulast=Johnson+JA%2C+Richard+T.+Watson+and+David+P.+Mindell&amp;rft.au=Johnson+JA%2C+Richard+T.+Watson+and+David+P.+Mindell&amp;rft.date=2005&amp;rft.volume=272&amp;rft.issue=1570&amp;rft.pages=1365%E2%80%931371&amp;rft_id=info:doi/10.1098%2Frspb.2005.3098&amp;rft_id=info:pmc/1560339&amp;rft_id=info:pmid/16006325&amp;rft_id=http%3A%2F%2Fwww.peregrinefund.org%2Fpdfs%2FResearchLibrary%2FJohnson%2520et%2520al_2005.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation Journal">Schreiber, Arnd; Stubbe, Michael &amp; Stubbe, Annegret (2000). "Red kite (<i>Milvus milvus</i>) and black kite (<i>M. migrans</i>): minute genetic interspecies distance of two raptors breeding in a mixed community (Falconiformes: Accipitridae)". <i>Biological Journal of the Linnean Society</i> <b>69</b> (3): 351–365. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1095-8312.2000.tb01210.x">10.1111/j.1095-8312.2000.tb01210.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Red+kite+%28%27%27Milvus+milvus%27%27%29+and+black+kite+%28%27%27M.+migrans%27%27%29%3A+minute+genetic+interspecies+distance+of+two+raptors+breeding+in+a+mixed+community+%28Falconiformes%3A+Accipitridae%29&amp;rft.jtitle=Biological+Journal+of+the+Linnean+Society&amp;rft.aulast=Schreiber%2C+Arnd%3B+Stubbe%2C+Michael+%26+Stubbe%2C+Annegret&amp;rft.au=Schreiber%2C+Arnd%3B+Stubbe%2C+Michael+%26+Stubbe%2C+Annegret&amp;rft.date=2000&amp;rft.volume=69&amp;rft.issue=3&amp;rft.pages=351%E2%80%93365&amp;rft_id=info:doi/10.1111%2Fj.1095-8312.2000.tb01210.x&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation Journal">Agoramoorthy, G (2005). <a rel="nofollow" class="external text" href="http://www.ias.ac.in/currsci/sep102005/727.pdf">"Disallow caste discrimination in biological and social contexts"</a>. <i>Current Science</i> <b>89</b> (5): 727<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ias.ac.in/currsci/sep102005/727.pdf">http://www.ias.ac.in/currsci/sep102005/727.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Disallow+caste+discrimination+in+biological+and+social+contexts&amp;rft.jtitle=Current+Science&amp;rft.aulast=Agoramoorthy%2C+G&amp;rft.au=Agoramoorthy%2C+G&amp;rft.date=2005&amp;rft.volume=89&amp;rft.issue=5&amp;rft.pages=727&amp;rft_id=http%3A%2F%2Fwww.ias.ac.in%2Fcurrsci%2Fsep102005%2F727.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation book">Blanford WT (1896). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/faunaofbritishin03oate#page/374/mode/1up/"><i>Fauna of British India. Birds. Volume 3</i></a>. Taylor and Francis, London. pp.&#160;374–378<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/faunaofbritishin03oate#page/374/mode/1up/">http://www.archive.org/stream/faunaofbritishin03oate#page/374/mode/1up/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fauna+of+British+India.+Birds.+Volume+3&amp;rft.aulast=Blanford+WT&amp;rft.au=Blanford+WT&amp;rft.date=1896&amp;rft.pages=pp.%26nbsp%3B374%E2%80%93378&amp;rft.pub=Taylor+and+Francis%2C+London&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Ffaunaofbritishin03oate%23page%2F374%2Fmode%2F1up%2F&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation Journal">Badley, John and Philip Hyde (2006). "The Black-eared Kite in Lincolnshire - a new British bird". <i>Birding World</i> <b>19</b> (11): 465–470.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Black-eared+Kite+in+Lincolnshire+-+a+new+British+bird&amp;rft.jtitle=Birding+World&amp;rft.aulast=Badley%2C+John+and+Philip+Hyde&amp;rft.au=Badley%2C+John+and+Philip+Hyde&amp;rft.date=2006&amp;rft.volume=19&amp;rft.issue=11&amp;rft.pages=465%E2%80%93470&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Galushin V M (1971). "A huge urban population of birds of prey in Delhi, India". <i>Ibis</i> <b>113</b>: 552.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+huge+urban+population+of+birds+of+prey+in+Delhi%2C+India&amp;rft.jtitle=Ibis&amp;rft.aulast=Galushin+V+M&amp;rft.au=Galushin+V+M&amp;rft.date=1971&amp;rft.volume=113&amp;rft.pages=552&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation Journal">Narayanan, E (1989). "Pariah Kite <i>Milvus migrans</i> capturing Whitebreasted Kingfisher <i><a href="/wiki/Halcyon_smyrnensis" title="Halcyon smyrnensis" class="mw-redirect">Halcyon smyrnensis</a></i>". <i>J. Bombay Nat. Hist. Soc.</i> <b>86</b> (3): 445.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Pariah+Kite+%27%27Milvus+migrans%27%27+capturing+Whitebreasted+Kingfisher+%27%27%5B%5BHalcyon+smyrnensis%5D%5D%27%27&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Narayanan%2C+E&amp;rft.au=Narayanan%2C+E&amp;rft.date=1989&amp;rft.volume=86&amp;rft.issue=3&amp;rft.pages=445&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation book">Hollands, David (1984). <i>Eagles, hawks, and falcons of Australia</i>. Nelson. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-17-006411-5" title="Special:BookSources/0-17-006411-5">0-17-006411-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Eagles%2C+hawks%2C+and+falcons+of+Australia&amp;rft.aulast=Hollands%2C+David&amp;rft.au=Hollands%2C+David&amp;rft.date=1984&amp;rft.pub=Nelson&amp;rft.isbn=0-17-006411-5&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation Journal">Chisholm AH (1971). "The use by birds of tools and playthings". <i>Vict. Nat.</i> <b>88</b>: 180–188.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+use+by+birds+of+tools+and+playthings&amp;rft.jtitle=Vict.+Nat.&amp;rft.aulast=Chisholm+AH&amp;rft.au=Chisholm+AH&amp;rft.date=1971&amp;rft.volume=88&amp;rft.pages=180%E2%80%93188&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-hbk-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-hbk_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hbk_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hbk_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Ali, S &amp; S D Ripley (1978). <i>Handbook of the birds of India and Pakistan</i>. <b>1</b> (2 ed.). Oxford University Press. pp.&#160;226–230. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-562063-1" title="Special:BookSources/0-19-562063-1">0-19-562063-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+birds+of+India+and+Pakistan&amp;rft.aulast=Ali%2C+S+%26+S+D+Ripley&amp;rft.au=Ali%2C+S+%26+S+D+Ripley&amp;rft.date=1978&amp;rft.volume=1&amp;rft.pages=pp.%26nbsp%3B226%E2%80%93230&amp;rft.edition=2&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-562063-1&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Veiga, J. P. and Hiraldo, F. (1990). "Food habits and the survival and growth of nestlings in two sympatric kites (<i>Milvus milvus</i> and <i>Milvus migrans</i>)". <i>Holarct. Ecol.</i> <b>13</b>: 62–71.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Food+habits+and+the+survival+and+growth+of+nestlings+in+two+sympatric+kites+%28%27%27Milvus+milvus%27%27+and+%27%27Milvus+migrans%27%27%29&amp;rft.jtitle=Holarct.+Ecol.&amp;rft.aulast=Veiga%2C+J.+P.+and+Hiraldo%2C+F.&amp;rft.au=Veiga%2C+J.+P.+and+Hiraldo%2C+F.&amp;rft.date=1990&amp;rft.volume=13&amp;rft.pages=62%E2%80%9371&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Wesley,H Daniel; Relton,A; Moses,A Alagappa (1991). "A strange predatory habit of the Pariah Kite <i>Milvus migrans</i>". <i>J. Bombay Nat. Hist. Soc.</i> <b>88</b> (1): 110–111.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+strange+predatory+habit+of+the+Pariah+Kite+%27%27Milvus+migrans%27%27&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Wesley%2CH+Daniel%3B+Relton%2CA%3B+Moses%2CA+Alagappa&amp;rft.au=Wesley%2CH+Daniel%3B+Relton%2CA%3B+Moses%2CA+Alagappa&amp;rft.date=1991&amp;rft.volume=88&amp;rft.issue=1&amp;rft.pages=110%E2%80%93111&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation Journal">Agostini N &amp; A Duchi (1994). <a rel="nofollow" class="external text" href="http://www.raptormigration.org/Agostini%20Water-crossing%20Black%20Kite.pdf">"Water-crossing behavior of Black Kites (<i>Milvus migrans</i>) during migration"</a>. <i>Bird Behaviour</i> <b>10</b>: 45–48. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.3727%2F015613894791748935">10.3727/015613894791748935</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.raptormigration.org/Agostini%20Water-crossing%20Black%20Kite.pdf">http://www.raptormigration.org/Agostini%20Water-crossing%20Black%20Kite.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Water-crossing+behavior+of+Black+Kites+%28%27%27Milvus+migrans%27%27%29+during+migration&amp;rft.jtitle=Bird+Behaviour&amp;rft.aulast=Agostini+N+%26+A+Duchi&amp;rft.au=Agostini+N+%26+A+Duchi&amp;rft.date=1994&amp;rft.volume=10&amp;rft.pages=45%E2%80%9348&amp;rft_id=info:doi/10.3727%2F015613894791748935&amp;rft_id=http%3A%2F%2Fwww.raptormigration.org%2FAgostini%2520Water-crossing%2520Black%2520Kite.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil &amp; DB Bastawade (1985). "Population ecology and communal roosting behaviour of pariah kite Milvus migrans govinda in Pune (Maharashtra)". <i>J. Bombay. Nat. Hist. Soc.</i> <b>82</b> (2): 337–346.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Population+ecology+and+communal+roosting+behaviour+of+pariah+kite+Milvus+migrans+govinda+in+Pune+%28Maharashtra%29&amp;rft.jtitle=J.+Bombay.+Nat.+Hist.+Soc.&amp;rft.aulast=Mahabal%2C+Anil+%26+DB+Bastawade&amp;rft.au=Mahabal%2C+Anil+%26+DB+Bastawade&amp;rft.date=1985&amp;rft.volume=82&amp;rft.issue=2&amp;rft.pages=337%E2%80%93346&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sergio, Fabrizio; Paolo Pedrini and Luigi Marchesi (2003). "Adaptive selection of foraging and nesting habitat by black kites (Milvus migrans) and its implications for conservation: a multi-scale approach". <i>Biological Conservation</i> <b>112</b> (3): 351–362. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2FS0006-3207%2802%2900332-4">10.1016/S0006-3207(02)00332-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Adaptive+selection+of+foraging+and+nesting+habitat+by+black+kites+%28Milvus+migrans%29+and+its+implications+for+conservation%3A+a+multi-scale+approach&amp;rft.jtitle=Biological+Conservation&amp;rft.aulast=Sergio%2C+Fabrizio%3B+Paolo+Pedrini+and+Luigi+Marchesi&amp;rft.au=Sergio%2C+Fabrizio%3B+Paolo+Pedrini+and+Luigi+Marchesi&amp;rft.date=2003&amp;rft.volume=112&amp;rft.issue=3&amp;rft.pages=351%E2%80%93362&amp;rft_id=info:doi/10.1016%2FS0006-3207%2802%2900332-4&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Viñuela J &amp; C Sunyer (1992). "Nest orientation and hatching success of Black Kites Milvus migrans in Spain". <i>Ibis</i> <b>134</b> (4): 340–345. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.1992.tb08013.x">10.1111/j.1474-919X.1992.tb08013.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Nest+orientation+and+hatching+success+of+Black+Kites+Milvus+migrans+in+Spain&amp;rft.jtitle=Ibis&amp;rft.aulast=Vi%C3%B1uela+J+%26+C+Sunyer&amp;rft.au=Vi%C3%B1uela+J+%26+C+Sunyer&amp;rft.date=1992&amp;rft.volume=134&amp;rft.issue=4&amp;rft.pages=340%E2%80%93345&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.1992.tb08013.x&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sergio, F; J. Blas; G. Blanco; A. Tanferna; L. López; J. A. Lemus; F. Hiraldo (2011). "Raptor Nest Decorations Are a Reliable Threat Against Conspecifics". <i>Science</i> <b>331</b> (6015): 327–330. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1126%2Fscience.1199422">10.1126/science.1199422</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21252345">21252345</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Raptor+Nest+Decorations+Are+a+Reliable+Threat+Against+Conspecifics&amp;rft.jtitle=Science&amp;rft.aulast=Sergio%2C+F%3B+J.+Blas%3B+G.+Blanco%3B+A.+Tanferna%3B+L.+L%C3%B3pez%3B+J.+A.+Lemus%3B+F.+Hiraldo&amp;rft.au=Sergio%2C+F%3B+J.+Blas%3B+G.+Blanco%3B+A.+Tanferna%3B+L.+L%C3%B3pez%3B+J.+A.+Lemus%3B+F.+Hiraldo&amp;rft.date=2011&amp;rft.volume=331&amp;rft.issue=6015&amp;rft.pages=327%E2%80%93330&amp;rft_id=info:doi/10.1126%2Fscience.1199422&amp;rft_id=info:pmid/21252345&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation Journal">Koga, K. and Shiraishi, S. (1994). "Copulation behaviour of the Black Kite <i>Milvus migrans</i> in Nagasaki Peninsula". <i>Bird Study</i> <b>41</b> (1): 29–36. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1080%2F00063659409477194">10.1080/00063659409477194</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Copulation+behaviour+of+the+Black+Kite+%27%27Milvus+migrans%27%27+in+Nagasaki+Peninsula&amp;rft.jtitle=Bird+Study&amp;rft.aulast=Koga%2C+K.+and+Shiraishi%2C+S.&amp;rft.au=Koga%2C+K.+and+Shiraishi%2C+S.&amp;rft.date=1994&amp;rft.volume=41&amp;rft.issue=1&amp;rft.pages=29%E2%80%9336&amp;rft_id=info:doi/10.1080%2F00063659409477194&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation Journal">Kimiya Koga, Satoshi Siraishi and Teru Aki Uchida (1989). "Breeding Ecology of the Black-eared Kite <i>Milvus migrans lineatus</i> in the Nagasaki Peninsula, Kyushu". <i>Jap. J. Ornithol</i> <b>38</b> (2): 57–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.3838%2Fjjo.38.57">10.3838/jjo.38.57</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Breeding+Ecology+of+the+Black-eared+Kite+%27%27Milvus+migrans+lineatus%27%27+in+the+Nagasaki+Peninsula%2C+Kyushu&amp;rft.jtitle=Jap.+J.+Ornithol&amp;rft.aulast=Kimiya+Koga%2C+Satoshi+Siraishi+and+Teru+Aki+Uchida&amp;rft.au=Kimiya+Koga%2C+Satoshi+Siraishi+and+Teru+Aki+Uchida&amp;rft.date=1989&amp;rft.volume=38&amp;rft.issue=2&amp;rft.pages=57%E2%80%9366&amp;rft_id=info:doi/10.3838%2Fjjo.38.57&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-delhi-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-delhi_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-delhi_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Desai,JH; Malhotra,AK (1979). "Breeding biology of the Pariah Kite <i>Milvus migrans</i> at Delhi Zoological Park". <i>Ibis</i> <b>121</b> (3): 320–325. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.1979.tb06849.x">10.1111/j.1474-919X.1979.tb06849.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Breeding+biology+of+the+Pariah+Kite+%27%27Milvus+migrans%27%27+at+Delhi+Zoological+Park&amp;rft.jtitle=Ibis&amp;rft.aulast=Desai%2CJH%3B+Malhotra%2CAK&amp;rft.au=Desai%2CJH%3B+Malhotra%2CAK&amp;rft.date=1979&amp;rft.volume=121&amp;rft.issue=3&amp;rft.pages=320%E2%80%93325&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.1979.tb06849.x&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bustamante J. &amp; Hiraldo F. (1989). "Post-fledging dependence period and maturation of flight skills in the Black Kite <i>Milvus migrans</i>". <i>Bird Study</i> <b>56</b>: 199–204.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Post-fledging+dependence+period+and+maturation+of+flight+skills+in+the+Black+Kite+%27%27Milvus+migrans%27%27&amp;rft.jtitle=Bird+Study&amp;rft.aulast=Bustamante+J.+%26+Hiraldo+F.&amp;rft.au=Bustamante+J.+%26+Hiraldo+F.&amp;rft.date=1989&amp;rft.volume=56&amp;rft.pages=199%E2%80%93204&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bustamante, J (1994). <a rel="nofollow" class="external text" href="http://www.ebd.csic.es/bustamante/publicaciones/Bustamante_%281994%29_Ibis_136_176-184.PDF">"Family break-up in Black and Red Kites <i>Milvus migrans</i> and <i>Milvus milvus</i>:is time of independence an offspring decision"</a>. <i>Ibis</i> <b>136</b> (2): 176–184. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.1994.tb01082.x">10.1111/j.1474-919X.1994.tb01082.x</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ebd.csic.es/bustamante/publicaciones/Bustamante_%281994%29_Ibis_136_176-184.PDF">http://www.ebd.csic.es/bustamante/publicaciones/Bustamante_%281994%29_Ibis_136_176-184.PDF</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Family+break-up+in+Black+and+Red+Kites+%27%27Milvus+migrans%27%27+and+%27%27Milvus+milvus%27%27%3Ais+time+of+independence+an+offspring+decision&amp;rft.jtitle=Ibis&amp;rft.aulast=Bustamante%2C+J&amp;rft.au=Bustamante%2C+J&amp;rft.date=1994&amp;rft.volume=136&amp;rft.issue=2&amp;rft.pages=176%E2%80%93184&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.1994.tb01082.x&amp;rft_id=http%3A%2F%2Fwww.ebd.csic.es%2Fbustamante%2Fpublicaciones%2FBustamante_%25281994%2529_Ibis_136_176-184.PDF&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation Journal">Viñuela, Javier (1999). "Sibling aggression, hatching asynchrony, and nestling mortality in the black kite ( <i>Milvus migrans</i> )". <i>Behavioral Ecology and Sociobiology</i> <b>45</b> (1): 33–45. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2Fs002650050537">10.1007/s002650050537</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sibling+aggression%2C+hatching+asynchrony%2C+and+nestling+mortality+in+the+black+kite+%28+%27%27Milvus+migrans%27%27+%29&amp;rft.jtitle=Behavioral+Ecology+and+Sociobiology&amp;rft.aulast=Vi%C3%B1uela&amp;rft.aufirst=Javier&amp;rft.au=Vi%C3%B1uela%2C%26%2332%3BJavier&amp;rft.date=1999&amp;rft.volume=45&amp;rft.issue=1&amp;rft.pages=33%E2%80%9345&amp;rft_id=info:doi/10.1007%2Fs002650050537&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation Journal">Desai, J. H. &amp; A. K. Malhotra (1980). "Embryonic development of Pariah Kite <i>Milvus migrans govinda</i>". <i>J. Yamashina Inst. Ornith.</i> <b>12</b>: 82–86.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Embryonic+development+of+Pariah+Kite+%27%27Milvus+migrans+govinda%27%27&amp;rft.jtitle=J.+Yamashina+Inst.+Ornith.&amp;rft.aulast=Desai%2C+J.+H.+%26+A.+K.+Malhotra&amp;rft.au=Desai%2C+J.+H.+%26+A.+K.+Malhotra&amp;rft.date=1980&amp;rft.volume=12&amp;rft.pages=82%E2%80%9386&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation Journal">Koga, Kimiya; Satoshi Shiraishi, Teruaki Uchida (1989). <a rel="nofollow" class="external text" href="http://www.journalarchive.jst.go.jp/english/jnlabstract_en.php?cdjournal=jjo1986&amp;cdvol=38&amp;noissue=1&amp;startpage=31">"Growth and Development of the Black-eared Kite Milvus migrans lineatus"</a>. <i>Japanese Journal of Ornithology</i> <b>38</b> (1): 31–42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.3838%2Fjjo.38.31">10.3838/jjo.38.31</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.journalarchive.jst.go.jp/english/jnlabstract_en.php?cdjournal=jjo1986&amp;cdvol=38&amp;noissue=1&amp;startpage=31">http://www.journalarchive.jst.go.jp/english/jnlabstract_en.php?cdjournal=jjo1986&amp;cdvol=38&amp;noissue=1&amp;startpage=31</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Growth+and+Development+of+the+Black-eared+Kite+Milvus+migrans+lineatus&amp;rft.jtitle=Japanese+Journal+of+Ornithology&amp;rft.aulast=Koga&amp;rft.aufirst=Kimiya&amp;rft.au=Koga%2C%26%2332%3BKimiya&amp;rft.date=1989&amp;rft.volume=38&amp;rft.issue=1&amp;rft.pages=31%E2%80%9342&amp;rft_id=info:doi/10.3838%2Fjjo.38.31&amp;rft_id=http%3A%2F%2Fwww.journalarchive.jst.go.jp%2Fenglish%2Fjnlabstract_en.php%3Fcdjournal%3Djjo1986%26cdvol%3D38%26noissue%3D1%26startpage%3D31&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation Journal">Malhotra,AK (1990). "Site fidelity and power of recognition in Pariah Kite <i>Milvus migrans govinda</i>". <i>J. Bombay Nat. Hist. Soc.</i> <b>87</b> (3): 458.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Site+fidelity+and+power+of+recognition+in+Pariah+Kite+%27%27Milvus+migrans+govinda%27%27&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Malhotra%2CAK&amp;rft.au=Malhotra%2CAK&amp;rft.date=1990&amp;rft.volume=87&amp;rft.issue=3&amp;rft.pages=458&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation Journal">Honda, K; T Nasu &amp; R Tatsukawa (1986). "Seasonal changes in mercury accumulation in the black-eared kite, Milvus migrans lineatus". <i>Environmental Pollution Series A, Ecological and Biological</i> <b>42</b> (4): 325–334. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2F0143-1471%2886%2990016-4">10.1016/0143-1471(86)90016-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Seasonal+changes+in+mercury+accumulation+in+the+black-eared+kite%2C+Milvus+migrans+lineatus&amp;rft.jtitle=Environmental+Pollution+Series+A%2C+Ecological+and+Biological&amp;rft.aulast=Honda%2C+K%3B+T+Nasu+%26+R+Tatsukawa&amp;rft.au=Honda%2C+K%3B+T+Nasu+%26+R+Tatsukawa&amp;rft.date=1986&amp;rft.volume=42&amp;rft.issue=4&amp;rft.pages=325%E2%80%93334&amp;rft_id=info:doi/10.1016%2F0143-1471%2886%2990016-4&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation Journal">Ferrer, Miguel; Manuel de la Riva and Javier Castroviejo (1991). "Electrocution of Raptors on Power Lines in Southwestern Spain". <i>Journal of Field Ornithology</i> <b>62</b> (2): 181–190.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Electrocution+of+Raptors+on+Power+Lines+in+Southwestern+Spain&amp;rft.jtitle=Journal+of+Field+Ornithology&amp;rft.aulast=Ferrer%2C+Miguel%3B+Manuel+de+la+Riva+and+Javier+Castroviejo&amp;rft.au=Ferrer%2C+Miguel%3B+Manuel+de+la+Riva+and+Javier+Castroviejo&amp;rft.date=1991&amp;rft.volume=62&amp;rft.issue=2&amp;rft.pages=181%E2%80%93190&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation Journal">Janss, GFE (2000). <a rel="nofollow" class="external text" href="http://vsites.unb.br/ib/zoo/grcolli/disciplinas/estat/Janss2000.pdf">"Avian mortality from power lines: a morphologic approach of a species-specific mortality"</a>. <i>Biological Conservation</i> <b>95</b> (3): 353–359. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2FS0006-3207%2800%2900021-5">10.1016/S0006-3207(00)00021-5</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://vsites.unb.br/ib/zoo/grcolli/disciplinas/estat/Janss2000.pdf">http://vsites.unb.br/ib/zoo/grcolli/disciplinas/estat/Janss2000.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Avian+mortality+from+power+lines%3A+a+morphologic+approach+of+a+species-specific+mortality&amp;rft.jtitle=Biological+Conservation&amp;rft.aulast=Janss%2C+GFE&amp;rft.au=Janss%2C+GFE&amp;rft.date=2000&amp;rft.volume=95&amp;rft.issue=3&amp;rft.pages=353%E2%80%93359&amp;rft_id=info:doi/10.1016%2FS0006-3207%2800%2900021-5&amp;rft_id=http%3A%2F%2Fvsites.unb.br%2Fib%2Fzoo%2Fgrcolli%2Fdisciplinas%2Festat%2FJanss2000.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation Journal">Cooper JE (1973). <a rel="nofollow" class="external text" href="http://www.jwildlifedis.org/cgi/reprint/9/4/368.pdf">"Post-mortem findings in East African birds of prey"</a>. <i>J. Wildlife Diseases</i> <b>9</b> (4): 368–375<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.jwildlifedis.org/cgi/reprint/9/4/368.pdf">http://www.jwildlifedis.org/cgi/reprint/9/4/368.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Post-mortem+findings+in+East+African+birds+of+prey&amp;rft.jtitle=J.+Wildlife+Diseases&amp;rft.aulast=Cooper+JE&amp;rft.au=Cooper+JE&amp;rft.date=1973&amp;rft.volume=9&amp;rft.issue=4&amp;rft.pages=368%E2%80%93375&amp;rft_id=http%3A%2F%2Fwww.jwildlifedis.org%2Fcgi%2Freprint%2F9%2F4%2F368.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mendelssohn, H; Paz, U (1977). "Mass mortality of birds of prey caused by Azodrin, an organophosphorus insecticide". <i>Biological Conservation</i> <b>11</b> (3): 163. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2F0006-3207%2877%2990001-5">10.1016/0006-3207(77)90001-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mass+mortality+of+birds+of+prey+caused+by+Azodrin%2C+an+organophosphorus+insecticide&amp;rft.jtitle=Biological+Conservation&amp;rft.aulast=Mendelssohn&amp;rft.aufirst=H&amp;rft.au=Mendelssohn%2C%26%2332%3BH&amp;rft.au=Paz%2C%26%2332%3BU&amp;rft.date=1977&amp;rft.volume=11&amp;rft.issue=3&amp;rft.pages=163&amp;rft_id=info:doi/10.1016%2F0006-3207%2877%2990001-5&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation Journal">Owino A; N Biwott;G Amutete (2004). "Bird strike incidents involving Kenya Airways flights at three Kenyan airports, 1991-2001". <i>African Journal of Ecology</i> <b>42</b> (2): 122–128. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1365-2028.2004.00507.x">10.1111/j.1365-2028.2004.00507.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Bird+strike+incidents+involving+Kenya+Airways+flights+at+three+Kenyan+airports%2C+1991-2001&amp;rft.jtitle=African+Journal+of+Ecology&amp;rft.aulast=Owino+A%3B+N+Biwott%3BG+Amutete&amp;rft.au=Owino+A%3B+N+Biwott%3BG+Amutete&amp;rft.date=2004&amp;rft.volume=42&amp;rft.issue=2&amp;rft.pages=122%E2%80%93128&amp;rft_id=info:doi/10.1111%2Fj.1365-2028.2004.00507.x&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation Journal">Karyakarte PP (1970). "A new species of Echinochasmus (Trematoda: Echinostomatidae) from the kite, <i>Milvus migrans</i> (Boddaert), in India". <i>Rivista di Parassitologia</i> <b>31</b> (2): 113–6.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+new+species+of+Echinochasmus+%28Trematoda%3A+Echinostomatidae%29+from+the+kite%2C+%27%27Milvus+migrans%27%27+%28Boddaert%29%2C+in+India&amp;rft.jtitle=Rivista+di+Parassitologia&amp;rft.aulast=Karyakarte+PP&amp;rft.au=Karyakarte+PP&amp;rft.date=1970&amp;rft.volume=31&amp;rft.issue=2&amp;rft.pages=113%E2%80%936&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation Journal">Seo M;Guk SM; Chai JY;Sim S; Sohn WM (2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2532613/">"Holostephanus metorchis (Digenea: Cyathocotylidae) from Chicks Experimentally Infected with Metacercariae from a Fish, Pseudorasbora parva, in the Republic of Korea"</a>. <i>The Korean Journal of Parasitology</i> <b>46</b> (2): 83–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.3347%2Fkjp.2008.46.2.83">10.3347/kjp.2008.46.2.83</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2532613">2532613</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18552543">18552543</a><span class="printonly">. //www.ncbi.nlm.nih.gov/pmc/articles/PMC2532613/</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Holostephanus+metorchis+%28Digenea%3A+Cyathocotylidae%29+from+Chicks+Experimentally+Infected+with+Metacercariae+from+a+Fish%2C+Pseudorasbora+parva%2C+in+the+Republic+of+Korea&amp;rft.jtitle=The+Korean+Journal+of+Parasitology&amp;rft.aulast=Seo+M%3BGuk+SM%3B+Chai+JY%3BSim+S%3B+Sohn+WM&amp;rft.au=Seo+M%3BGuk+SM%3B+Chai+JY%3BSim+S%3B+Sohn+WM&amp;rft.date=2008&amp;rft.volume=46&amp;rft.issue=2&amp;rft.pages=83%E2%80%936&amp;rft_id=info:doi/10.3347%2Fkjp.2008.46.2.83&amp;rft_id=info:pmc/2532613&amp;rft_id=info:pmid/18552543&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2532613%2F&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation Journal">Lal, Makund Behari (1939). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/proceedingsofthe020220mbp#page/n126/mode/1up">"Studies in Helminthology-Trematode parasites of birds"</a>. <i>Proceedings of the Indian Academy of Sciences. Section B</i> <b>10</b> (2): 111–200<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/proceedingsofthe020220mbp#page/n126/mode/1up">http://www.archive.org/stream/proceedingsofthe020220mbp#page/n126/mode/1up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Studies+in+Helminthology-Trematode+parasites+of+birds&amp;rft.jtitle=Proceedings+of+the+Indian+Academy+of+Sciences.+Section+B&amp;rft.aulast=Lal%2C+Makund+Behari&amp;rft.au=Lal%2C+Makund+Behari&amp;rft.date=1939&amp;rft.volume=10&amp;rft.issue=2&amp;rft.pages=111%E2%80%93200&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fproceedingsofthe020220mbp%23page%2Fn126%2Fmode%2F1up&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sheena, P.; K. Manjula, K. Subair, K. Janardanan (2007). "The life cycle of Mesostephanus indicum Mehra, 1947 (Digenea: Cyathocotylidae)". <i>Parasitology Research</i> <b>101</b> (4): 1015–1018. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2Fs00436-007-0579-7">10.1007/s00436-007-0579-7</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17514481">17514481</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+life+cycle+of+Mesostephanus+indicum+Mehra%2C+1947+%28Digenea%3A+Cyathocotylidae%29&amp;rft.jtitle=Parasitology+Research&amp;rft.aulast=Sheena&amp;rft.aufirst=P.&amp;rft.au=Sheena%2C%26%2332%3BP.&amp;rft.date=2007&amp;rft.volume=101&amp;rft.issue=4&amp;rft.pages=1015%E2%80%931018&amp;rft_id=info:doi/10.1007%2Fs00436-007-0579-7&amp;rft_id=info:pmid/17514481&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation Journal">Rawal UM (1971). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Auk/v088n01/p0166-p0166.pdf">"Pariah Kite with Double Bill"</a>. <i>The Auk</i> <b>88</b> (1): 166<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Auk/v088n01/p0166-p0166.pdf">http://elibrary.unm.edu/sora/Auk/v088n01/p0166-p0166.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Pariah+Kite+with+Double+Bill&amp;rft.jtitle=The+Auk&amp;rft.aulast=Rawal+UM&amp;rft.au=Rawal+UM&amp;rft.date=1971&amp;rft.volume=88&amp;rft.issue=1&amp;rft.pages=166&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FAuk%2Fv088n01%2Fp0166-p0166.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation Journal">Biswas, Biswamoy (1956). "A Large Indian Kite <i>Milvus migrans lineatus</i> (Gray) with a split bill". <i>J. Bombay Nat. Hist. Soc.</i> <b>53</b> (3): 474–475.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+Large+Indian+Kite+%27%27Milvus+migrans+lineatus%27%27+%28Gray%29+with+a+split+bill&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Biswas%2C+Biswamoy&amp;rft.au=Biswas%2C+Biswamoy&amp;rft.date=1956&amp;rft.volume=53&amp;rft.issue=3&amp;rft.pages=474%E2%80%93475&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><span class="citation Journal">Desai, J. H.; Malhotra, A. K. (1982). "Annual gonadal cycle of Black Kite Milvus migrans govinda". <i>J. Yamashina Inst. Orn.</i> <b>14</b>: 143–150.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Annual+gonadal+cycle+of+Black+Kite+Milvus+migrans+govinda&amp;rft.jtitle=J.+Yamashina+Inst.+Orn.&amp;rft.aulast=Desai&amp;rft.aufirst=J.+H.&amp;rft.au=Desai%2C%26%2332%3BJ.+H.&amp;rft.au=Malhotra%2C%26%2332%3BA.+K.&amp;rft.date=1982&amp;rft.volume=14&amp;rft.pages=143%E2%80%93150&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation Journal">Hardy, J. (1985). "Black Kite capturing small passerines". <i>Australasian Raptor Association News</i> <b>6</b>: 14.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Black+Kite+capturing+small+passerines&amp;rft.jtitle=Australasian+Raptor+Association+News&amp;rft.aulast=Hardy&amp;rft.aufirst=J.&amp;rft.au=Hardy%2C%26%2332%3BJ.&amp;rft.date=1985&amp;rft.volume=6&amp;rft.pages=14&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation Journal"><a href="/wiki/American_Ornithologists%27_Union" title="American Ornithologists' Union">American Ornithologists' Union</a> (2000). "Forty-second supplement to the American Ornithologists' Union Check-list of North American Birds". <i><a href="/wiki/Auk_(journal)" title="Auk (journal)" class="mw-redirect">Auk</a></i> <b>117</b> (3): 847–858. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1642%2F0004-8038%282000%29117%5B0847%3AFSSTTA%5D2.0.CO%3B2">10.1642/0004-8038(2000)117[0847:FSSTTA]2.0.CO;2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Forty-second+supplement+to+the+American+Ornithologists%27+Union+Check-list+of+North+American+Birds&amp;rft.jtitle=%5B%5BAuk+%28journal%29%7CAuk%5D%5D&amp;rft.aulast=%5B%5BAmerican+Ornithologists%27+Union%5D%5D&amp;rft.au=%5B%5BAmerican+Ornithologists%27+Union%5D%5D&amp;rft.date=2000&amp;rft.volume=117&amp;rft.issue=3&amp;rft.pages=847%E2%80%93858&amp;rft_id=info:doi/10.1642%2F0004-8038%282000%29117%5B0847%3AFSSTTA%5D2.0.CO%3B2&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation Journal">Crochet Pierre-André (2005). "Recent DNA studies of kites". <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> <b>18</b> (12): 486–488.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Recent+DNA+studies+of+kites&amp;rft.jtitle=%5B%5BBirding+World%5D%5D&amp;rft.aulast=Crochet+Pierre-Andr%C3%A9&amp;rft.au=Crochet+Pierre-Andr%C3%A9&amp;rft.date=2005&amp;rft.volume=18&amp;rft.issue=12&amp;rft.pages=486%E2%80%93488&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation Journal">Forsman Dick (2003). "Identification of Black-eared Kite". <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> <b>16</b> (4): 156–60.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Identification+of+Black-eared+Kite&amp;rft.jtitle=%5B%5BBirding+World%5D%5D&amp;rft.aulast=Forsman+Dick&amp;rft.au=Forsman+Dick&amp;rft.date=2003&amp;rft.volume=16&amp;rft.issue=4&amp;rft.pages=156%E2%80%9360&amp;rfr_id=info:sid/en.wikipedia.org:Black_Kite"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Kite&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Milvus_migrans" class="extiw" title="commons:Category:Milvus migrans">Milvus migrans</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Milvus_migrans" class="extiw" title="wikispecies:Milvus migrans">Milvus migrans</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/black-kite-milvus-migrans">Black Kite videos, photos &amp; sounds</a></li>
+<li>Black Kite - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/126.pdf">Species text in The Atlas of Southern African Birds</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/104_BlackkiteMmigrans.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+<p><span id="interwiki-de-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 35710/1000000
+Preprocessor generated node count: 51704/1500000
+Post-expand include size: 235001/2048000 bytes
+Template argument size: 70878/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:200971-0!*!0!!en!4!* and timestamp 20121017143831 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Black_Kite&amp;oldid=515486946">http://en.wikipedia.org/w/index.php?title=Black_Kite&amp;oldid=515486946</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Kites_(birds)" title="Category:Kites (birds)">Kites (birds)</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Armenia" title="Category:Birds of Armenia">Birds of Armenia</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li><li><a href="/wiki/Category:Birds_of_Bangladesh" title="Category:Birds of Bangladesh">Birds of Bangladesh</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Thailand" title="Category:Birds of Thailand">Birds of Thailand</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Milvus" title="Category:Milvus">Milvus</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:Birds_of_South_Africa" title="Category:Birds of South Africa">Birds of South Africa</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2010" title="Category:Articles with unsourced statements from July 2010">Articles with unsourced statements from July 2010</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Black+Kite&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Black+Kite" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Black_Kite"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Black_Kite"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Black_Kite" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Black_Kite&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Black_Kite&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Black_Kite" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Black_Kite" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Black_Kite&amp;oldid=515486946" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Black_Kite&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Black_Kite&amp;id=515486946" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Black+Kite" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Black+Kite&amp;oldid=515486946&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Black_Kite&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B0%D1%88%D1%8B%D1%80%D0%B3%D1%8A%D1%8D%D1%89%D1%85%D1%8C%D1%8D%D1%85%D1%83" title="Къашыргъэщхьэху" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Swartwou" title="Swartwou" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AD%D8%AF%D8%A3%D8%A9_%D8%B3%D9%88%D8%AF%D8%A7%D8%A1" title="حدأة سوداء" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Milvus_migrans" title="Milvus migrans" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Qara_%C3%A7ala%C4%9Fan" title="Qara çalağan" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AD%E0%A7%81%E0%A6%AC%E0%A6%A8_%E0%A6%9A%E0%A6%BF%E0%A6%B2" title="ভুবন চিল" lang="bn" hreflang="bn">বাংলা</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%A2%D3%A9%D0%B9%D0%BB%D3%A9%D0%B3%D3%99%D0%BD" title="Төйлөгән" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%88%D1%83%D0%BD_%D1%87%D0%BE%D1%80%D0%BD%D1%8B" title="Каршун чорны" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BD%D1%8F" title="Черна каня" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Barged_du" title="Barged du" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Mil%C3%A0_negre" title="Milà negre" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%A5%D1%83%D1%80%D0%B0_%D1%85%C4%95%D1%80%D0%B5%D0%BD" title="Хура хĕрен" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Lu%C5%88%C3%A1k_hn%C4%9Bd%C3%BD" title="Luňák hnědý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-co"><a href="//co.wikipedia.org/wiki/Milvu_neru" title="Milvu neru" lang="co" hreflang="co">Corsu</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Sort_glente" title="Sort glente" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Schwarzmilan" title="Schwarzmilan" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Must-harksaba" title="Must-harksaba" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Milvus_migrans" title="Milvus migrans" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Nigra_milvo" title="Nigra milvo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Miru_beltz" title="Miru beltz" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%B1%DA%A9%D9%88%D8%B1_%D8%B3%DB%8C%D8%A7%D9%87" title="کورکور سیاه" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Svartgle%C3%B0a" title="Svartgleða" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Milan_noir" title="Milan noir" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Swarte_Glee" title="Swarte Glee" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Millafre_negro" title="Millafre negro" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%86%94%EA%B0%9C" title="솔개" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Milvus_migrans" title="Milvus migrans" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%93%D7%99%D7%94_%D7%9E%D7%A6%D7%95%D7%99%D7%94" title="דיה מצויה" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%B9%E0%B2%A6%E0%B3%8D%E0%B2%A6%E0%B3%81" title="ಹದ್ದು" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D2%9A%D0%B0%D1%80%D0%B0_%D0%BA%D0%B5%D0%B7%D2%9B%D2%B1%D0%B9%D1%80%D1%8B%D2%9B" title="Қара кезқұйрық" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-mrj"><a href="//mrj.wikipedia.org/wiki/%D3%92%D0%BC%D3%B9%D1%80%D1%82" title="Ӓмӹрт" lang="mrj" hreflang="mrj">Кырык мары</a></li>
+			<li class="interwiki-lez"><a href="//lez.wikipedia.org/wiki/%D0%A7%D3%80%D1%83%D0%BB%D0%B0%D0%B2_%D1%87%D0%B0%D0%BB%D0%B0%D0%B3%D1%8A%D0%B0%D0%BD" title="ЧӀулав чалагъан" lang="lez" hreflang="lez">Лезги</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Meln%C4%81_klija" title="Melnā klija" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Juodasis_peslys" title="Juodasis peslys" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-ln"><a href="//ln.wikipedia.org/wiki/Ng%C3%B3be" title="Ngóbe" lang="ln" hreflang="ln">Lingála</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Barna_k%C3%A1nya" title="Barna kánya" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B0%E0%B5%81%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D" title="ചക്കിപ്പരുന്ത്" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%98%E0%A4%BE%E0%A4%B0" title="घार" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Helang_Kembara_Hitam" title="Burung Helang Kembara Hitam" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80_%D1%8D%D0%BB%D1%8D%D1%8D" title="Хар элээ" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%85%E1%80%BD%E1%80%94%E1%80%BA_(%E1%80%84%E1%80%BE%E1%80%80%E1%80%BA)" title="စွန် (ငှက်)" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Zwarte_wouw" title="Zwarte wouw" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%88%E3%83%93" title="トビ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/J%C3%A1r%C5%BAa_%C7%B5ir%C7%B5a" title="Járźa ǵirǵa" lang="ce" hreflang="ce">Нохчийн</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Svartglente" title="Svartglente" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Milvus_migrans" title="Milvus migrans" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Milvus_migrans" title="Milvus migrans" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kania_czarna" title="Kania czarna" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Milhafre-preto" title="Milhafre-preto" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%88%D1%83%D0%BD_%D1%87%D0%BE%D1%80%D0%BD%D1%8B%D0%B9" title="Коршун чорный" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D1%88%D1%83%D0%BD" title="Чёрный коршун" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Haja_tmav%C3%A1" title="Haja tmavá" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/%C4%8Crni_%C5%A1karnik" title="Črni škarnik" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Haarahaukka" title="Haarahaukka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Brun_glada" title="Brun glada" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%94%E0%B8%B3" title="เหยี่ยวดำ" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kara_%C3%A7aylak" title="Kara çaylak" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-udm"><a href="//udm.wikipedia.org/wiki/%D0%A1%D1%8C%D3%A7%D0%B4_%D0%B4%D1%83%D1%88%D0%B5%D1%81" title="Сьӧд душес" lang="udm" hreflang="udm">Удмурт</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A8%D1%83%D0%BB%D1%96%D0%BA%D0%B0_%D1%87%D0%BE%D1%80%D0%BD%D0%B8%D0%B9" title="Шуліка чорний" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E9%BA%BB%E9%B7%B9" title="麻鷹" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%BB%91%E9%B8%A2" title="黑鸢" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 16:43.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Black_Kite&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv195 in 0.161 secs. -->
+	</body>
+</html>

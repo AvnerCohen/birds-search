@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Glossy Ibis - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Glossy_Ibis&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Glossy_Ibis&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8a791e4a23d87b78fafd87230486fc5d */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Glossy_Ibis","wgTitle":"Glossy Ibis","wgCurRevisionId":519856035,"wgArticleId":237138,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Plegadis","Wading birds","Birds of North America","Birds of Australia","Birds of Europe","Birds of Africa","Birds of Asia","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Glossy_Ibis","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"dd407853955295afc2950564c3dc41ce","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":237138,"title":"Glossy Ibis","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Africa","Birds of Asia","Birds of Australia","Birds of Europe","Birds of North America","Birds of Western Sahara","IUCN Red List least concern species","Plegadis","Wading birds"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Glossy_Ibis skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Glossy Ibis</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Glossy Ibis</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Plegadis_falcinellus_(aka)_background_blurred.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plegadis_falcinellus_%28aka%29_background_blurred.jpg/220px-Plegadis_falcinellus_%28aka%29_background_blurred.jpg" width="220" height="204" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plegadis_falcinellus_%28aka%29_background_blurred.jpg/330px-Plegadis_falcinellus_%28aka%29_background_blurred.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plegadis_falcinellus_%28aka%29_background_blurred.jpg/440px-Plegadis_falcinellus_%28aka%29_background_blurred.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Breeding plumage</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Ciconiiformes" title="Ciconiiformes">Ciconiiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Threskiornithidae" title="Threskiornithidae">Threskiornithidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Plegadis" title="Plegadis">Plegadis</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. falcinellus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Plegadis falcinellus</i></span></b><br />
+<small><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1766</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Glossy Ibis</b> (<i>Plegadis falcinellus</i>) is a <a href="/wiki/Wading_bird" title="Wading bird" class="mw-redirect">wading bird</a> in the <a href="/wiki/Ibis" title="Ibis">ibis</a> family Threskiornithidae.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Distribution"><span class="tocnumber">1</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behaviour"><span class="tocnumber">2</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Habitat"><span class="tocnumber">3</span> <span class="toctext">Habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Diet"><span class="tocnumber">4</span> <span class="toctext">Diet</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Description"><span class="tocnumber">5</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Conservation"><span class="tocnumber">6</span> <span class="toctext">Conservation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=1" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<p>This is the most widespread ibis species, breeding in scattered sites in warm regions of <a href="/wiki/Europe" title="Europe">Europe</a>, <a href="/wiki/Asia" title="Asia">Asia</a>, <a href="/wiki/Africa" title="Africa">Africa</a>, <a href="/wiki/Australia" title="Australia">Australia</a>, and the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> and <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a> region of the <a href="/wiki/Americas" title="Americas">Americas</a>. It is thought to have originated in the <a href="/wiki/Old_World" title="Old World">Old World</a> and spread naturally from Africa to northern <a href="/wiki/South_America" title="South America">South America</a> in the 19th century, from where it spread to North America.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> This species is <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>; most European birds winter in Africa, and in <a href="/wiki/North_America" title="North America">North America</a> birds from north of <a href="/wiki/North_Carolina" title="North Carolina">the Carolinas</a> winter farther south. Birds from other populations may disperse widely outside the breeding season. While generally declining in Europe it has recently established a breeding colony in Southern Spain, and there appears to be a growing trend for the Spanish birds to winter in Britiain and Ireland, with at least 22 records in 2010.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Glossy_Ibis_(Plegadis_falcinellus)_at_Bharatpur_I_IMG_5384.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Glossy_Ibis_%28Plegadis_falcinellus%29_at_Bharatpur_I_IMG_5384.jpg/250px-Glossy_Ibis_%28Plegadis_falcinellus%29_at_Bharatpur_I_IMG_5384.jpg" width="250" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Glossy_Ibis_%28Plegadis_falcinellus%29_at_Bharatpur_I_IMG_5384.jpg/375px-Glossy_Ibis_%28Plegadis_falcinellus%29_at_Bharatpur_I_IMG_5384.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Glossy_Ibis_%28Plegadis_falcinellus%29_at_Bharatpur_I_IMG_5384.jpg/500px-Glossy_Ibis_%28Plegadis_falcinellus%29_at_Bharatpur_I_IMG_5384.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Glossy_Ibis_(Plegadis_falcinellus)_at_Bharatpur_I_IMG_5384.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Non-breeding plumage</div>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=2" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<p>Glossy Ibises undertake dispersal movements after breeding and are very nomadic. The more northerly populations are fully migratory and travel on a broad front, for example across the <a href="/wiki/Sahara_Desert" title="Sahara Desert" class="mw-redirect">Sahara Desert</a>. Populations in temperate regions breed during the local spring, while tropical populations nest to coincide with the rainy season. Nesting is often in mixed-species colonies. When not nesting flocks of over 100 individuals may occur on migration, and during the winter or dry seasons the species is usually found foraging in small flocks. Glossy Ibis often roosts communally at night in large flocks, with other species, occasionally in trees which can be some distance from wetland feeding areas.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=3" title="Edit section: Habitat">edit</a>]</span> <span class="mw-headline" id="Habitat">Habitat</span></h2>
+<p>Glossy Ibis feed in very shallow water and nest in freshwater or brackish wetlands with tall dense stands of emergent vegetation such as reeds, <a href="/wiki/Papyrus" title="Papyrus">papyrus</a> or rushes) and low trees or bushes. They show a preference for marshes at the margins of lakes and rivers but can also be found at <a href="/wiki/Lagoon" title="Lagoon">lagoons</a>, <a href="/wiki/Flood-plain" title="Flood-plain" class="mw-redirect">flood-plains</a>, wet <a href="/wiki/Meadow" title="Meadow">meadows</a>, <a href="/wiki/Swamp" title="Swamp">swamps</a>, <a href="/wiki/Reservoir" title="Reservoir">reservoirs</a>, <a href="/wiki/Sewage" title="Sewage">sewage</a> <a href="/wiki/Pond" title="Pond">ponds</a>, paddies and irrigated farmland. It is less commonly found in coastal locations such as estuaries, deltas, <a href="/wiki/Salt_marsh" title="Salt marsh">salt marshes</a> and coastal lagoons. Preferred roosting sites are normally in large trees which may distant from the feeding areas.</p>
+<p>The nests are usually a platform of twigs and vegetation positioned at least 1m above water, sometimes up to 7 m in tall, dense stands of emergent vegetation, low trees or bushes.<sup id="cite_ref-factsheet_3-0" class="reference"><a href="#cite_note-factsheet-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=4" title="Edit section: Diet">edit</a>]</span> <span class="mw-headline" id="Diet">Diet</span></h2>
+<p>The diet of the Glossy Ibis is variable according to the season and is very dependent on what is available. Prey includes adult and larval <a href="/wiki/Insect" title="Insect">insects</a> such as aquatic <a href="/wiki/Beetle" title="Beetle">beetles</a>, <a href="/wiki/Dragonflies" title="Dragonflies" class="mw-redirect">dragonflies</a>, <a href="/wiki/Damselflies" title="Damselflies" class="mw-redirect">damselflies</a>, <a href="/wiki/Grasshopper" title="Grasshopper">grasshoppers</a>, <a href="/wiki/Cricket" title="Cricket">crickets</a>, <a href="/wiki/Flies" title="Flies" class="mw-redirect">flies</a> and <a href="/wiki/Caddis" title="Caddis" class="mw-redirect">caddisflies</a>, <a href="/wiki/Annelida" title="Annelida" class="mw-redirect">Annelida</a> including <a href="/wiki/Leech" title="Leech">leeches</a>, <a href="/wiki/Molluscs" title="Molluscs" class="mw-redirect">molluscs</a> (e.g. <a href="/wiki/Snails" title="Snails" class="mw-redirect">snails</a> and <a href="/wiki/Mussels" title="Mussels" class="mw-redirect">mussels</a>), <a href="/wiki/Crustaceans" title="Crustaceans" class="mw-redirect">crustaceans</a> (e.g. <a href="/wiki/Crab" title="Crab">crabs</a> and <a href="/wiki/Crayfish" title="Crayfish">crayfish</a>) and occasionally <a href="/wiki/Fish" title="Fish">fish</a>, <a href="/wiki/Amphibian" title="Amphibian">amphibians</a>, <a href="/wiki/Lizard" title="Lizard">lizards</a>, small <a href="/wiki/Snake" title="Snake">snakes</a> and nestling birds.<sup id="cite_ref-factsheet_3-1" class="reference"><a href="#cite_note-factsheet-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=5" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>This species is a mid-sized ibis. It is 48–66 cm (19–26 in) long, averaging around 59.4&#160;cm (23.4&#160;in) with an 80–105 cm (31–41 in) wingspan.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Hancock_5-0" class="reference"><a href="#cite_note-Hancock-5"><span>[</span>6<span>]</span></a></sup> The <a href="/wiki/Culmen_(bird)" title="Culmen (bird)" class="mw-redirect">culmen</a> measures 9.7 to 14.4 cm (3.8 to 5.7 in) in length, each wing measures 24.8–30.6 cm (9.8–12.0 in), the tail is 9–11.2 cm (3.5–4.4 in) and the <a href="/wiki/Tarsus_(skeleton)" title="Tarsus (skeleton)">tarsus</a> measures 6.8–11.3 cm (2.7–4.4 in).<sup id="cite_ref-Hancock_5-1" class="reference"><a href="#cite_note-Hancock-5"><span>[</span>6<span>]</span></a></sup> The body mass of this ibis can range from 485 to 970 g (1.07 to 2.1 lb).<sup id="cite_ref-Hancock_5-2" class="reference"><a href="#cite_note-Hancock-5"><span>[</span>6<span>]</span></a></sup> Breeding adults have reddish-brown bodies and shiny bottle-green wings. Non-breeders and juveniles have duller bodies. This species has a brownish bill, dark facial skin bordered above and below in blue-gray (non-breeding) to cobalt blue (breeding), and red-brown legs. Unlike herons, ibises fly with necks outstretched, their flight being graceful and often in V-formation.</p>
+<p>Sounds made by this rather quiet ibis include a variety of croaks and grunts, including a hoarse <i>grrrr</i> made when breeding.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=6" title="Edit section: Conservation">edit</a>]</span> <span class="mw-headline" id="Conservation">Conservation</span></h2>
+<p>The Glossy Ibis is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies. Glossy Ibises are threatened by wetland habitat degradation and loss through drainage, increased salinity, groundwater extraction and invasion by exotic plants. It is also threatened locally by hunting, disturbance and <a href="/wiki/Pesticide" title="Pesticide">pesticides</a>.<sup id="cite_ref-factsheet_3-2" class="reference"><a href="#cite_note-factsheet-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>The common name Black <a href="/wiki/Curlew" title="Curlew">Curlew</a> may be a reference to the Glossy Ibis and this name appears in <a href="/wiki/Anglo-Saxon" title="Anglo-Saxon" class="mw-redirect">Anglo-Saxon</a> literature, indicating that it may have bred in early <a href="/wiki/Medieval" title="Medieval" class="mw-redirect">medieval</a> <a href="/wiki/England" title="England">England</a> but Walden &amp; Albarella do not mention this species.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=7" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Glossy_Ibis_RWD.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glossy_Ibis_RWD.jpg/120px-Glossy_Ibis_RWD.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Non-breeding plumage</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32px auto;"><a href="/wiki/File:1968._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA._%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0._%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/1968._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA._%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0._%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0.jpg/120px-1968._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA._%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0._%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0.jpg" width="120" height="86" /></a></div>
+</div>
+<div class="gallerytext">
+<p>USSR-stamp, 1968</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=8" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003777">"<i>Plegadis falcinellus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003777">http://www.iucnredlist.org/apps/redlist/details/106003777</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Plegadis+falcinellus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003777&amp;rfr_id=info:sid/en.wikipedia.org:Glossy_Ibis"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/NAB/v054n03/p00241-p00247.pdf">http://elibrary.unm.edu/sora/NAB/v054n03/p00241-p00247.pdf</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Hudson N. &amp; the Rarities Committee, Report on Rare Birds in Great Britain 2010, British Birds 104, pp 557-629</span></li>
+<li id="cite_note-factsheet-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-factsheet_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-factsheet_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-factsheet_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003777/0">http://www.iucnredlist.org/apps/redlist/details/106003777/0</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.arkive.org/glossy-ibis/plegadis-falcinellus/#text=Facts">[1]</a></span></li>
+<li id="cite_note-Hancock-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hancock_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hancock_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hancock_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Hancock, Kushlan &amp; Kahl (1992). <i>Storks, Ibises, and Spoonbills of the World</i>. Academic Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-322730-0" title="Special:BookSources/978-0-12-322730-0">978-0-12-322730-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Storks%2C+Ibises%2C+and+Spoonbills+of+the+World&amp;rft.aulast=Hancock%2C+Kushlan+%26+Kahl&amp;rft.au=Hancock%2C+Kushlan+%26+Kahl&amp;rft.date=1992&amp;rft.pub=Academic+Press&amp;rft.isbn=978-0-12-322730-0&amp;rfr_id=info:sid/en.wikipedia.org:Glossy_Ibis"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Yalden D.W. &amp; Albarella U. (2009), The History of British Birds, Oxford University Press, <a href="/wiki/Special:BookSources/9780199581160" class="internal mw-magiclink-isbn">ISBN 978-0-19-958116-0</a></span></li>
+</ol>
+</div>
+<ul>
+<li><i>Handbook of the Birds of Europe, the Middle East, and North Africa: The Birds of the Western Palearctic</i></li>
+<li><i>Field Guide to the Birds of North America, 4th Edition</i></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Glossy_Ibis&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Plegadis_falcinellus" class="extiw" title="commons:Category:Plegadis falcinellus">Plegadis falcinellus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=3777&amp;m=0">BirdLife Species Factsheet</a></li>
+<li>Glossy Ibis - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/093.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.birds.cornell.edu/programs/AllAboutBirds/BirdGuide/Glossy_Ibis_dtl.html">Glossy Ibis Information with photographs and sound</a> from the Cornell Laboratory of Ornithology.</li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/glossy-ibis-plegadis-falcinellus">Glossy Ibis videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.sdakotabirds.com/species/glossy_ibis_info.htm">Glossy Ibis Information and Photos</a> from South Dakota Birds and Birding</li>
+<li><a rel="nofollow" class="external text" href="http://www.enature.com/fieldguides/detail.asp?recnum=BD0128">Glossy Ibis Information</a> from eNature.com</li>
+<li><a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide/pool/tags/Plegadis%20falcinellus">Field Guide Photo Page on Flickr</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Threskiornithidae" title="Template:Threskiornithidae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Threskiornithidae" title="Template talk:Threskiornithidae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Threskiornithidae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;">Traditional listing of <a href="/wiki/Ibis" title="Ibis">Ibises</a> and <a href="/wiki/Spoonbill" title="Spoonbill">spoonbills</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: <a href="/wiki/Threskiornithidae" title="Threskiornithidae">Threskiornithidae</a>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Ibis" title="Ibis">Ibises</a> (<b>subfamily: Threskiornithinae</b>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b> (prefix † indicates <a href="/wiki/Extinct" title="Extinct" class="mw-redirect">extinct</a> species)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Threskiornis" title="Threskiornis">Threskiornis</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/African_Sacred_Ibis" title="African Sacred Ibis">African Sacred Ibis</a>&#160;(<i>T.&#160;aethiopicus</i>)&#160;•  <a href="/wiki/Malagasy_Sacred_Ibis" title="Malagasy Sacred Ibis">Malagasy Sacred Ibis</a>&#160;(<i>T.&#160;bernieri</i>)&#160;•  †<a href="/wiki/Reunion_Ibis" title="Reunion Ibis">Reunion Ibis</a>&#160;(<i>T.&#160;solitarius</i>)&#160;•  <a href="/wiki/Black-headed_Ibis" title="Black-headed Ibis">Black-headed Ibis</a>&#160;(<i>T.&#160;melanocephalus</i>)&#160;•  <a href="/wiki/Australian_White_Ibis" title="Australian White Ibis">Australian White Ibis</a>&#160;(<i>T.&#160;molucca</i>) and supporting page <span class="nowrap"><a href="/wiki/Solomons_White_Ibis" title="Solomons White Ibis">Solomons White Ibis</a></span> (<i>T.&#160;molucca&#160;pygmaeus</i>)&#160;•  <a href="/wiki/Straw-necked_Ibis" title="Straw-necked Ibis">Straw-necked Ibis</a>&#160;(<i>T.&#160;spinicollis</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Pseudibis" title="Pseudibis">Pseudibis</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Red-naped_Ibis" title="Red-naped Ibis">Red-naped Ibis</a>&#160;(<i>P.&#160;papillosa</i>)&#160;•  <a href="/wiki/White-shouldered_Ibis" title="White-shouldered Ibis">White-shouldered Ibis</a>&#160;(<i>P.&#160;davisoni</i>)&#160;•  <a href="/wiki/Giant_Ibis" title="Giant Ibis">Giant Ibis</a>&#160;(<i>P.&#160;gigantea</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Geronticus" title="Geronticus">Geronticus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Northern_Bald_Ibis" title="Northern Bald Ibis">Northern Bald Ibis</a>&#160;(<i>G.&#160;eremita</i>)&#160;•  <a href="/wiki/Southern_Bald_Ibis" title="Southern Bald Ibis">Southern Bald Ibis</a>&#160;(<i>G.&#160;calvus</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Nipponia</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Crested_Ibis" title="Crested Ibis">Crested Ibis</a>&#160;(<i>N.&#160;nippon</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Bostrychia" title="Bostrychia">Bostrychia</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Olive_Ibis" title="Olive Ibis">Olive Ibis</a>&#160;(<i>B.&#160;olivacea</i>)&#160;•  <a href="/wiki/Sao_Tome_Ibis" title="Sao Tome Ibis" class="mw-redirect">Sao Tome Ibis</a>&#160;(<i>B.&#160;bocagei</i>)&#160;•  <a href="/wiki/Spot-breasted_Ibis" title="Spot-breasted Ibis">Spot-breasted Ibis</a>&#160;(<i>B.&#160;rara</i>)&#160;•  <a href="/wiki/Hadada_Ibis" title="Hadada Ibis">Hadada Ibis</a>&#160;(<i>B.&#160;hagedash</i>)&#160;•  <a href="/wiki/Wattled_Ibis" title="Wattled Ibis">Wattled Ibis</a>&#160;(<i>B.&#160;carunculata</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Theristicus" title="Theristicus">Theristicus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Plumbeous_Ibis" title="Plumbeous Ibis">Plumbeous Ibis</a>&#160;(<i>T.&#160;caerulescens</i>)&#160;•  <a href="/wiki/Buff-necked_Ibis" title="Buff-necked Ibis">Buff-necked Ibis</a>&#160;(<i>T.&#160;caudatus</i>)&#160;•  <a href="/wiki/Black-faced_Ibis" title="Black-faced Ibis">Black-faced Ibis</a>&#160;(<i>T.&#160;melanopis</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Cercibis</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Sharp-tailed_Ibis" title="Sharp-tailed Ibis">Sharp-tailed Ibis</a>&#160;(<i>C.&#160;oxycerca</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Mesembrinibis</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Green_Ibis" title="Green Ibis">Green Ibis</a>&#160;(<i>M.&#160;cayennensis</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Phimosus</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Bare-faced_Ibis" title="Bare-faced Ibis">Bare-faced Ibis</a>&#160;(<i>P.&#160;infuscatus</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Eudocimus" title="Eudocimus">Eudocimus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/American_White_Ibis" title="American White Ibis">American White Ibis</a>&#160;(<i>E.&#160;albus</i>)&#160;•  <a href="/wiki/Scarlet_Ibis" title="Scarlet Ibis">Scarlet Ibis</a>&#160;(<i>E.&#160;ruber</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Plegadis" title="Plegadis">Plegadis</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><strong class="selflink">Glossy Ibis</strong>&#160;(<i>P.&#160;falcinellus</i>)&#160;•  <a href="/wiki/White-faced_Ibis" title="White-faced Ibis">White-faced Ibis</a>&#160;(<i>P.&#160;chihi</i>)&#160;•  <a href="/wiki/Puna_Ibis" title="Puna Ibis">Puna Ibis</a>&#160;(<i>P.&#160;ridgwayi</i>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Lophotibis</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><a href="/wiki/Madagascar_Ibis" title="Madagascar Ibis">Madagascar Ibis</a>&#160;(<i>L.&#160;cristata</i>)</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Spoonbill" title="Spoonbill">Spoonbills</a> (<b>subfamily: Plataleinae</b>&#160;• <b>genus: <i>Platalea</i>)</b></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Spoonbill" title="Spoonbill">Platalea</a></i><br />
+(spoonbills)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"><a href="/wiki/Eurasian_Spoonbill" title="Eurasian Spoonbill">Eurasian Spoonbill</a>&#160;(<i>P.&#160;leucorodia</i>)&#160;•  <a href="/wiki/Black-faced_Spoonbill" title="Black-faced Spoonbill">Black-faced Spoonbill</a>&#160;(<i>P.&#160;minor</i>)&#160;•  <a href="/wiki/African_Spoonbill" title="African Spoonbill">African Spoonbill</a>&#160;(<i>P.&#160;alba</i>)&#160;•  <a href="/wiki/Royal_Spoonbill" title="Royal Spoonbill">Royal Spoonbill</a>&#160;(<i>P.&#160;regia</i>)&#160;•  <a href="/wiki/Yellow-billed_Spoonbill" title="Yellow-billed Spoonbill">Yellow-billed Spoonbill</a>&#160;(<i>P.&#160;flavipes</i>)&#160;•  <a href="/wiki/Roseate_Spoonbill" title="Roseate Spoonbill">Roseate Spoonbill</a>&#160;(<i>P.&#160;ajaja</i>)</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 11339/1000000
+Preprocessor generated node count: 60996/1500000
+Post-expand include size: 138374/2048000 bytes
+Template argument size: 83403/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:237138-0!*!0!!en!4!* and timestamp 20121026002946 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Glossy_Ibis&amp;oldid=519856035">http://en.wikipedia.org/w/index.php?title=Glossy_Ibis&amp;oldid=519856035</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Plegadis" title="Category:Plegadis">Plegadis</a></li><li><a href="/wiki/Category:Wading_birds" title="Category:Wading birds">Wading birds</a></li><li><a href="/wiki/Category:Birds_of_North_America" title="Category:Birds of North America">Birds of North America</a></li><li><a href="/wiki/Category:Birds_of_Australia" title="Category:Birds of Australia">Birds of Australia</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Glossy+Ibis&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Glossy+Ibis" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Glossy_Ibis"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Glossy_Ibis"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Glossy_Ibis" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Glossy_Ibis&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Glossy_Ibis&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Glossy_Ibis" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Glossy_Ibis" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Glossy_Ibis&amp;oldid=519856035" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Glossy_Ibis&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Glossy_Ibis&amp;id=519856035" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Glossy+Ibis" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Glossy+Ibis&amp;oldid=519856035&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Glossy_Ibis&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Glansibis" title="Glansibis" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%85%D9%86%D8%AC%D9%84_%D8%A7%D9%84%D9%85%D8%B5%D9%82%D9%88%D9%84" title="أبو منجل المصقول" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Adi_qaranaz" title="Adi qaranaz" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0" title="Каравайка" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0" title="Каравайка" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D1%81%D1%82%D1%8F%D1%89_%D0%B8%D0%B1%D0%B8%D1%81" title="Блестящ ибис" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Ibiz_du" title="Ibiz du" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Cap%C3%B3_reial" title="Capó reial" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Ibis_hn%C4%9Bd%C3%BD" title="Ibis hnědý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Brauner_Sichler" title="Brauner Sichler" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-dv"><a href="//dv.wikipedia.org/wiki/%DE%86%DE%A6%DE%85%DE%AA_%DE%84%DE%AA%DE%85%DE%A8%DE%8C%DE%AA%DE%82%DE%B0%DE%84%DE%A8" title="ކަޅު ބުޅިތުންބި" lang="dv" hreflang="dv">ދިވެހިބަސް</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A7%CE%B1%CE%BB%CE%BA%CF%8C%CE%BA%CE%BF%CF%84%CE%B1" title="Χαλκόκοτα" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Plegadis_falcinellus" title="Plegadis falcinellus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Bruna_ibiso" title="Bruna ibiso" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Plegadis_falcinellus" title="Plegadis falcinellus" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%B1%D8%A7%D8%B3_%D8%B4%DB%8C%D8%B4%D9%87%E2%80%8C%D8%A7%DB%8C" title="اکراس شیشه‌ای" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Bognev" title="Bognev" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ibis_falcinelle" title="Ibis falcinelle" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Plegadis_falcinellus" title="Plegadis falcinellus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%92%D7%9C%D7%9F_%D7%97%D7%95%D7%9D" title="מגלן חום" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D2%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%B9" title="Қарабай" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Plegadis_falcinellus" title="Plegadis falcinellus" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Rudasis_ibis" title="Rudasis ibis" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Batla" title="Batla" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A6%D1%80%D0%BD_%D0%B8%D0%B1%D0%B8%D1%81" title="Црн ибис" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BF%E0%A4%AE%E0%A4%A3%E0%A4%BE_%E0%A4%85%E0%A4%B5%E0%A4%BE%E0%A4%95" title="चिमणा अवाक" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Zwarte_ibis" title="Zwarte ibis" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA%E3%83%88%E3%82%AD" title="ブロンズトキ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Bronseibis" title="Bronseibis" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%AF%D9%84%D8%A7%D8%B3%DB%8C_%D8%A2%D8%A6%DB%8C%D8%A8%D8%B3" title="گلاسی آئیبس" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Ch%C3%A0rlo_(Oizo)" title="Chàrlo (Oizo)" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Plegadis_falcinellus" title="Plegadis falcinellus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ibis_kasztanowaty" title="Ibis kasztanowaty" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/%C3%8Dbis-preto" title="Íbis-preto" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/%C8%9Aig%C4%83nu%C8%99" title="Țigănuș" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0" title="Коровайка" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0" title="Каравайка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pronssi-iibis" title="Pronssi-iibis" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Bronsibis" title="Bronsibis" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%B2%E0%AF%8D" title="அன்றில்" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_aynak" title="Bayağı aynak" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0" title="Коровайка" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%BD%A9%E9%B9%AE" title="彩鹮" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 October 2012 at 00:29.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Glossy_Ibis&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","ext.EventLogging"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv286 in 0.156 secs. -->
+	</body>
+</html>

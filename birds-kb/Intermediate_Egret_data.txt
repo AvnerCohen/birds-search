@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Intermediate Egret - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Intermediate_Egret&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Intermediate_Egret&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Intermediate_Egret","wgTitle":"Intermediate Egret","wgCurRevisionId":518753147,"wgArticleId":591533,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Ardea","Birds of Asia","Birds of Australia","Birds of Kenya","Birds of Bhutan","Birds of India","Birds of Sri Lanka","Birds of China","Birds of Korea","Birds of Japan","Birds of Pakistan","Birds of Southeast Asia","Birds of Bangladesh","Birds of Burma","Birds of Vietnam","Birds of Cambodia","Birds of Thailand","Birds of Malaysia","Birds of Singapore","Birds of Brunei","Birds of Indonesia","Birds of the Philippines","Birds of South Australia","Birds of Western Australia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Intermediate_Egret","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"3b9887bbbda5d29321738d772c8b8170","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":591533,"title":"Intermediate Egret","namespace":0,"categories":["Ardea","Articles with \'species\' microformats","Birds of Asia","Birds of Australia","Birds of Bangladesh","Birds of Bhutan","Birds of Brunei","Birds of Burma","Birds of Cambodia","Birds of China","Birds of India","Birds of Indonesia","Birds of Japan","Birds of Kenya","Birds of Korea","Birds of Malaysia","Birds of Pakistan","Birds of Singapore","Birds of South Australia","Birds of Southeast Asia","Birds of Sri Lanka","Birds of Thailand","Birds of Vietnam","Birds of Western Australia","Birds of the Philippines","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/OggPlayer.js?12"></script><script>
+wgOggPlayer.msg = {"ogg-play":"Play","ogg-pause":"Pause","ogg-stop":"Stop","ogg-no-player":"Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.","ogg-player-videoElement":"Native browser support","ogg-player-oggPlugin":"Browser plugin","ogg-player-cortado":"Cortado (Java)","ogg-player-vlc-mozilla":"VLC","ogg-player-vlc-activex":"VLC (ActiveX)","ogg-player-quicktime-mozilla":"QuickTime","ogg-player-quicktime-activex":"QuickTime (ActiveX)","ogg-player-totem":"Totem","ogg-player-kaffeine":"Kaffeine","ogg-player-kmplayer":"KMPlayer","ogg-player-mplayerplug-in":"mplayerplug-in","ogg-player-thumbnail":"Still image only","ogg-player-selected":"(selected)","ogg-use-player":"Use player:","ogg-more":"More…","ogg-download":"Download file","ogg-desc-link":"About this file","ogg-dismiss":"Close","ogg-player-soundthumb":"No player","ogg-no-xiphqt":"You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
+wgOggPlayer.cortadoUrl = "http://bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/cortado-ovt-stripped-0.6.0.jar";
+wgOggPlayer.extPathUrl = "//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler";
+</script><style>
+.ogg-player-options {
+	border: solid 1px #ccc;
+	padding: 2pt;
+	text-align: left;
+	font-size: 10pt;
+}
+
+.center .ogg-player-options ul {
+	margin: 0.3em 0px 0px 1.5em;
+}
+</style><script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Intermediate_Egret skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Intermediate Egret</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Intermediate Egret</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Intermediateegret.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Intermediateegret.jpg/220px-Intermediateegret.jpg" width="220" height="220" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Pelecaniformes" title="Pelecaniformes">Pelecaniformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Ardeidae" title="Ardeidae" class="mw-redirect">Ardeidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><b>Mesophoyx</b></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. intermedia</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Mesophoyx intermedia</i></span></b><br />
+<small>(<a href="/wiki/Johann_Georg_Wagler" title="Johann Georg Wagler">Wagler</a>, 1827)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Ardea intermedia</i><br />
+<i>Egretta intermedia</i></p>
+</td>
+</tr>
+</table>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)-_In_Breeding_plumage_at_Bharatpur_I_IMG_5353.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Intermediate_Egret_%28Mesophoyx_intermedia%29-_In_Breeding_plumage_at_Bharatpur_I_IMG_5353.jpg/220px-Intermediate_Egret_%28Mesophoyx_intermedia%29-_In_Breeding_plumage_at_Bharatpur_I_IMG_5353.jpg" width="220" height="182" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)-_In_Breeding_plumage_at_Bharatpur_I_IMG_5353.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In Breeding plumage at <a href="/wiki/Keoladeo_National_Park" title="Keoladeo National Park">Keoladeo National Park</a>, <a href="/wiki/Bharatpur,_India" title="Bharatpur, India" class="mw-redirect">Bharatpur</a>, <a href="/wiki/Rajasthan" title="Rajasthan">Rajasthan</a>, <a href="/wiki/India" title="India">India</a></div>
+</div>
+</div>
+<p>The <b>Intermediate Egret</b>, <b>Median Egret</b>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> <b>Smaller Egret</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> or <b>Yellow-billed Egret</b> (<i>Mesophoyx intermedia</i>) is a medium-sized <a href="/wiki/Heron" title="Heron">heron</a>. Some taxonomists put the species in the genus <i><a href="/wiki/Egretta" title="Egretta">Egretta</a></i> or <i><a href="/wiki/Ardea" title="Ardea">Ardea</a></i>. It is a resident breeder from east <a href="/wiki/Africa" title="Africa">Africa</a> across the <a href="/wiki/Indian_Subcontinent" title="Indian Subcontinent" class="mw-redirect">Indian Subcontinent</a> to <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a> and <a href="/wiki/Australia" title="Australia">Australia</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Differences_from_Great_Egret"><span class="tocnumber">1.1</span> <span class="toctext">Differences from Great Egret</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Differences_from_Little_Egret"><span class="tocnumber">1.2</span> <span class="toctext">Differences from Little Egret</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">2</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Other_references"><span class="tocnumber">3.1</span> <span class="toctext">Other references</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Intermediate_Egret&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>This species, as its scientific name implies, is intermediate in size between the <a href="/wiki/Great_Egret" title="Great Egret">Great Egret</a> and smaller white egrets like the <a href="/wiki/Little_Egret" title="Little Egret">Little Egret</a> and <a href="/wiki/Cattle_Egret" title="Cattle Egret">Cattle Egret</a>, though nearer to Little than Great. It is about 56–72&#160;cm (22–28&#160;in) long with a 105–115&#160;cm (41–45&#160;in) wingspan and weighs c.400g (14&#160;oz),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> with all-white plumage, generally dark legs and a thickish yellow bill. Breeding birds may have a reddish or black bill, greenish yellow <a href="/wiki/Gape" title="Gape">gape</a> skin, loose filamentous plumes on their breast and back, and dull yellow or pink on their upper legs (regional variations). The sexes are similar.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Intermediate_Egret&amp;action=edit&amp;section=2" title="Edit section: Differences from Great Egret">edit</a>]</span> <span class="mw-headline" id="Differences_from_Great_Egret">Differences from Great Egret</span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)_W2_IMG_6625.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Intermediate_Egret_%28Mesophoyx_intermedia%29_W2_IMG_6625.jpg/220px-Intermediate_Egret_%28Mesophoyx_intermedia%29_W2_IMG_6625.jpg" width="220" height="185" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)_W2_IMG_6625.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Head Detail of Intermediate Egret.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Comparison_of_Great_Egret_and_Intermediate_Egret_Heads..jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Comparison_of_Great_Egret_and_Intermediate_Egret_Heads..jpg/220px-Comparison_of_Great_Egret_and_Intermediate_Egret_Heads..jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Comparison_of_Great_Egret_and_Intermediate_Egret_Heads..jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Sketch comparing Gapes of Intermediate and Great Egrets</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Flickr_-_Dario_Sanches_-_GAR%C3%87A-BRANCA-GRANDE_(Ardea_alba)_(2).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flickr_-_Dario_Sanches_-_GAR%C3%87A-BRANCA-GRANDE_%28Ardea_alba%29_%282%29.jpg/220px-Flickr_-_Dario_Sanches_-_GAR%C3%87A-BRANCA-GRANDE_%28Ardea_alba%29_%282%29.jpg" width="220" height="155" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Flickr_-_Dario_Sanches_-_GAR%C3%87A-BRANCA-GRANDE_(Ardea_alba)_(2).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Adult feeding young</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Casmerodius_albus_portrait.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Casmerodius_albus_portrait.jpg/220px-Casmerodius_albus_portrait.jpg" width="220" height="150" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Casmerodius_albus_portrait.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Head detail</div>
+</div>
+</div>
+<p>The non-breeding colours are similar, but the Intermediate is smaller, with neck length a little less than body length, a slightly domed head, and a shorter, thicker bill. The <a href="/wiki/Great_Egret" title="Great Egret">Great Egret</a> has a noticeable kink near the middle of its neck, and the top of its longer bill nearly aligns with the flat top of its head. Close up, the bare skin of the Great Egret's gape line extends in a dagger shape behind the eye, while the Intermediate's is less pointed and ends below the eye. The Intermediate tends to stalk upright with neck extended forward. The Great is more patient, often adopting a sideways-leaning "one-eyed" stance.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Intermediate_Egret&amp;action=edit&amp;section=3" title="Edit section: Differences from Little Egret">edit</a>]</span> <span class="mw-headline" id="Differences_from_Little_Egret">Differences from Little Egret</span></h3>
+<p><a href="/wiki/Little_Egret" title="Little Egret">Little Egrets</a> have yellow-soled feet and black bills. They often run after fish in shallow water. Breeding birds have long nuptial plumes on the back of their heads.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Intermediate_Egret&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<p>The Intermediate Egret stalks its prey methodically in shallow coastal or fresh water, including flooded fields. It eats fish, frogs, crustaceans and insects. It often nests in <a href="/wiki/Bird_colony" title="Bird colony">colonies</a> with other herons, usually on platforms of sticks in trees or shrubs. Two to five eggs are laid, the clutch size varying with region.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Intermediate_Egret&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text">BirdLife International (2008). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/144682"><i>Mesophoyx intermedia</i></a>. In: <a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a> 2008. IUCN Red List of Threatened Species. Downloaded on 9 February 2009. Database entry includes justification for why this species is of least concern.</span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Grewal, Bikram; Bill Harvey and Otto Pfister (2002). <i>Photographic guide to birds of India</i>. Periplus editions.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Photographic+guide+to+birds+of+India&amp;rft.aulast=Grewal&amp;rft.aufirst=Bikram&amp;rft.au=Grewal%2C%26%2332%3BBikram&amp;rft.date=2002&amp;rft.pub=Periplus+editions&amp;rfr_id=info:sid/en.wikipedia.org:Intermediate_Egret"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Ali, S. (1993). <i>The Book of Indian Birds</i>. Bombay: Bombay Natural History Society. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-149-563731-3" title="Special:BookSources/0-149-563731-3">0-149-563731-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Book+of+Indian+Birds&amp;rft.aulast=Ali%2C+S.&amp;rft.au=Ali%2C+S.&amp;rft.date=1993&amp;rft.place=Bombay&amp;rft.pub=Bombay+Natural+History+Society&amp;rft.isbn=0-149-563731-3&amp;rfr_id=info:sid/en.wikipedia.org:Intermediate_Egret"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">del Hoyo,J., Elliott, A. and Sargatal, J.(1992) <a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">Handbook of the Birds of the World</a>. Volume 1: Ostrich to Ducks. <a href="/wiki/Lynx_Edicions" title="Lynx Edicions">Lynx Edicions</a>, <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>.</span></li>
+</ol>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Intermediate_Egret&amp;action=edit&amp;section=6" title="Edit section: Other references">edit</a>]</span> <span class="mw-headline" id="Other_references">Other references</span></h3>
+<ul>
+<li><i>Birds of The Gambia</i> by Barlow, Wacher and Disley, <a href="/wiki/Special:BookSources/1873403321" class="internal mw-magiclink-isbn">ISBN 1-873403-32-1</a></li>
+<li><i>Birds of India</i> by Grimmett, Inskipp and Inskipp, <a href="/wiki/Special:BookSources/0691049106" class="internal mw-magiclink-isbn">ISBN 0-691-04910-6</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Intermediate_Egret&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li>(Intermediate Egret = ) Yellow-billed Egret - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/068.pdf">Species text in The Atlas of Southern African Birds</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Intermediate_Egret&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;">
+<div id="ogg_player_1">
+<div><a href="/wiki/File:Intermediate_Egret_day95.ogg" class="image" title="Intermediate Egret day95.ogg"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Intermediate_Egret_day95.ogg/mid-Intermediate_Egret_day95.ogg.jpg" width="120" height="90" alt="" /></a></div>
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/f/f1/Intermediate_Egret_day95.ogg&quot;,&quot;width&quot;:120,&quot;height&quot;:90,&quot;length&quot;:89.52,&quot;linkUrl&quot;:&quot;/wiki/File:Intermediate_Egret_day95.ogg&quot;,&quot;isVideo&quot;:true});" style="width: 120px; text-align: center" title="Play video"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/play.png" width="22" height="22" alt="Play video" /></button></div>
+</div>
+</div>
+</div>
+<div class="gallerytext">
+<p>Feeding on mice, SE Queensland, Australia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)_at_Bharatpur_I_IMG_5704.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Intermediate_Egret_%28Mesophoyx_intermedia%29_at_Bharatpur_I_IMG_5704.jpg/108px-Intermediate_Egret_%28Mesophoyx_intermedia%29_at_Bharatpur_I_IMG_5704.jpg" width="108" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Stalking in Non-breeding plumage at <a href="/wiki/Keoladeo_National_Park" title="Keoladeo National Park">Keoladeo National Park</a>, <a href="/wiki/Bharatpur,_India" title="Bharatpur, India" class="mw-redirect">Bharatpur</a>, <a href="/wiki/Rajasthan" title="Rajasthan">Rajasthan</a>, <a href="/wiki/India" title="India">India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32px auto;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)_in_Hyderabad_W2_IMG_4975.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Intermediate_Egret_%28Mesophoyx_intermedia%29_in_Hyderabad_W2_IMG_4975.jpg/120px-Intermediate_Egret_%28Mesophoyx_intermedia%29_in_Hyderabad_W2_IMG_4975.jpg" width="120" height="86" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Calling with tongue sticking out- showing gape clearly in <a href="/wiki/Hyderabad,_India" title="Hyderabad, India">Hyderabad, India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:22.5px auto;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)_in_Hyderabad_W_IMG_4981.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Intermediate_Egret_%28Mesophoyx_intermedia%29_in_Hyderabad_W_IMG_4981.jpg/120px-Intermediate_Egret_%28Mesophoyx_intermedia%29_in_Hyderabad_W_IMG_4981.jpg" width="120" height="105" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Neck &amp; gape view in <a href="/wiki/Hyderabad,_India" title="Hyderabad, India">Hyderabad, India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:28px auto;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)-_In_Breeding_plumage_at_Bharatpur_I_IMG_5617.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Intermediate_Egret_%28Mesophoyx_intermedia%29-_In_Breeding_plumage_at_Bharatpur_I_IMG_5617.jpg/120px-Intermediate_Egret_%28Mesophoyx_intermedia%29-_In_Breeding_plumage_at_Bharatpur_I_IMG_5617.jpg" width="120" height="94" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Preening in Breeding plumage at <a href="/wiki/Keoladeo_National_Park" title="Keoladeo National Park">Keoladeo National Park</a>, <a href="/wiki/Bharatpur,_India" title="Bharatpur, India" class="mw-redirect">Bharatpur</a>, <a href="/wiki/Rajasthan" title="Rajasthan">Rajasthan</a>, <a href="/wiki/India" title="India">India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)-_In_Breeding_plumage_at_Bharatpur_I_IMG_5350.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Intermediate_Egret_%28Mesophoyx_intermedia%29-_In_Breeding_plumage_at_Bharatpur_I_IMG_5350.jpg/116px-Intermediate_Egret_%28Mesophoyx_intermedia%29-_In_Breeding_plumage_at_Bharatpur_I_IMG_5350.jpg" width="116" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In Breeding plumage at <a href="/wiki/Keoladeo_National_Park" title="Keoladeo National Park">Keoladeo National Park</a>, <a href="/wiki/Bharatpur,_India" title="Bharatpur, India" class="mw-redirect">Bharatpur</a>, <a href="/wiki/Rajasthan" title="Rajasthan">Rajasthan</a>, <a href="/wiki/India" title="India">India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:25px auto;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)_at_Bharatpur_I_IMG_5705.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Intermediate_Egret_%28Mesophoyx_intermedia%29_at_Bharatpur_I_IMG_5705.jpg/120px-Intermediate_Egret_%28Mesophoyx_intermedia%29_at_Bharatpur_I_IMG_5705.jpg" width="120" height="100" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Stalking at <a href="/wiki/Keoladeo_National_Park" title="Keoladeo National Park">Keoladeo National Park</a>, <a href="/wiki/Bharatpur,_India" title="Bharatpur, India" class="mw-redirect">Bharatpur</a>, <a href="/wiki/Rajasthan" title="Rajasthan">Rajasthan</a>, <a href="/wiki/India" title="India">India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)_W_IMG_6634.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Intermediate_Egret_%28Mesophoyx_intermedia%29_W_IMG_6634.jpg/119px-Intermediate_Egret_%28Mesophoyx_intermedia%29_W_IMG_6634.jpg" width="119" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>near <a href="/wiki/Hodal" title="Hodal">Hodal</a>, <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a>, <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15.5px auto;"><a href="/wiki/File:Intermediate_Egret_(Mesophoyx_intermedia)_W_IMG_6625.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Intermediate_Egret_%28Mesophoyx_intermedia%29_W_IMG_6625.jpg/120px-Intermediate_Egret_%28Mesophoyx_intermedia%29_W_IMG_6625.jpg" width="120" height="119" /></a></div>
+</div>
+<div class="gallerytext">
+<p>near <a href="/wiki/Hodal" title="Hodal">Hodal</a>, <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a>, <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Intermediate_Egret_02.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Intermediate_Egret_02.jpg/80px-Intermediate_Egret_02.jpg" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<div style="text-align: center;">Non-breeding colours</div>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Intermediate_Egret.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Intermediate_Egret.jpg/120px-Intermediate_Egret.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<div style="text-align: center;">Stalking</div>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Intermediate_egret_0245111.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Intermediate_egret_0245111.JPG/120px-Intermediate_egret_0245111.JPG" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<div style="text-align: center;">At Ranganthittu Bird Sanctuary</div>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Egret%27s_tongue.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Egret%27s_tongue.JPG/120px-Egret%27s_tongue.JPG" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Egret showing its tongue‎</p>
+</div>
+</div>
+</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 4227/1000000
+Preprocessor generated node count: 32634/1500000
+Post-expand include size: 16289/2048000 bytes
+Template argument size: 3459/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:591533-0!*!0!!en!4!* and timestamp 20121019191118 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Intermediate_Egret&amp;oldid=518753147">http://en.wikipedia.org/w/index.php?title=Intermediate_Egret&amp;oldid=518753147</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Ardea" title="Category:Ardea">Ardea</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Australia" title="Category:Birds of Australia">Birds of Australia</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_Bhutan" title="Category:Birds of Bhutan">Birds of Bhutan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Sri_Lanka" title="Category:Birds of Sri Lanka">Birds of Sri Lanka</a></li><li><a href="/wiki/Category:Birds_of_China" title="Category:Birds of China">Birds of China</a></li><li><a href="/wiki/Category:Birds_of_Korea" title="Category:Birds of Korea">Birds of Korea</a></li><li><a href="/wiki/Category:Birds_of_Japan" title="Category:Birds of Japan">Birds of Japan</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li><li><a href="/wiki/Category:Birds_of_Bangladesh" title="Category:Birds of Bangladesh">Birds of Bangladesh</a></li><li><a href="/wiki/Category:Birds_of_Burma" title="Category:Birds of Burma">Birds of Burma</a></li><li><a href="/wiki/Category:Birds_of_Vietnam" title="Category:Birds of Vietnam">Birds of Vietnam</a></li><li><a href="/wiki/Category:Birds_of_Cambodia" title="Category:Birds of Cambodia">Birds of Cambodia</a></li><li><a href="/wiki/Category:Birds_of_Thailand" title="Category:Birds of Thailand">Birds of Thailand</a></li><li><a href="/wiki/Category:Birds_of_Malaysia" title="Category:Birds of Malaysia">Birds of Malaysia</a></li><li><a href="/wiki/Category:Birds_of_Singapore" title="Category:Birds of Singapore">Birds of Singapore</a></li><li><a href="/wiki/Category:Birds_of_Brunei" title="Category:Birds of Brunei">Birds of Brunei</a></li><li><a href="/wiki/Category:Birds_of_Indonesia" title="Category:Birds of Indonesia">Birds of Indonesia</a></li><li><a href="/wiki/Category:Birds_of_the_Philippines" title="Category:Birds of the Philippines">Birds of the Philippines</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Intermediate+Egret&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Intermediate+Egret" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Intermediate_Egret"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Intermediate_Egret"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Intermediate_Egret" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Intermediate_Egret&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Intermediate_Egret&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Intermediate_Egret" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Intermediate_Egret" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Intermediate_Egret&amp;oldid=518753147" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Intermediate_Egret&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Intermediate_Egret&amp;id=518753147" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Intermediate+Egret" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Intermediate+Egret&amp;oldid=518753147&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Intermediate_Egret&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Geelbekwitreier" title="Geelbekwitreier" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D9%84%D8%B4%D9%88%D9%86_%D9%85%D8%AA%D9%88%D8%B3%D8%B7" title="بلشون متوسط" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Martinet_intermedi" title="Martinet intermedi" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Mittelreiher" title="Mittelreiher" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Mesophoyx_intermedia" title="Mesophoyx intermedia" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Intermeza_egreto" title="Intermeza egreto" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Egretta_intermedia" title="Egretta intermedia" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/H%C3%A9ron_interm%C3%A9diaire" title="Héron intermédiaire" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Kuntul_Perak" title="Kuntul Perak" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Egretta_intermedia" title="Egretta intermedia" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Vidutinis_baltasis_garnys" title="Vidutinis baltasis garnys" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%86%E0%B4%B1%E0%B5%81%E0%B4%AE%E0%B5%81%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B4%BF" title="ചെറുമുണ്ടി" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Bangau_Kerbau" title="Burung Bangau Kerbau" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Middelste_zilverreiger" title="Middelste zilverreiger" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%82%B5%E3%82%AE" title="チュウサギ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%AF%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D8%A7_%D8%A7%DB%8C%DA%AF%D8%B1%D9%B9" title="درمیانا ایگرٹ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Czapla_czarnonoga" title="Czapla czarnonoga" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F_%D1%86%D0%B0%D0%BF%D0%BB%D1%8F" title="Средняя белая цапля" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Mellanh%C3%A4ger" title="Mellanhäger" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/Egretta_intermedia" title="Egretta intermedia" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%B8%AD%E7%99%BD%E9%B9%AD" title="中白鹭" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2012 at 19:11.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Intermediate_Egret&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv286 in 0.136 secs. -->
+	</body>
+</html>

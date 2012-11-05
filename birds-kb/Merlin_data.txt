@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Merlin - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Merlin&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Merlin&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Merlin","wgTitle":"Merlin","wgCurRevisionId":521500308,"wgArticleId":20807,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Welsh language text","All articles with unsourced statements","Articles with unsourced statements from November 2011","Articles with unsourced statements from February 2012","Commons category template with no category set","Arthurian characters","Fictional immortals","Fictional prophets","Fictional wizards","Literary archetypes by name","Medieval legends","Welsh mythology","Holy Grail","Legendary people"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Merlin","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"953e91fac321f1e3c2cce43d06c1c6b8","wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":20807,"title":"Merlin","namespace":0,"categories":["All articles with unsourced statements","Arthurian characters","Articles containing Welsh language text","Articles with unsourced statements from February 2012","Articles with unsourced statements from November 2011","Commons category template with no category set","Fictional immortals","Fictional prophets","Fictional wizards","Holy Grail","Legendary people","Literary archetypes by name","Medieval legends","Welsh mythology"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Merlin skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Merlin</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For other uses, see <a href="/wiki/Merlin_(disambiguation)" title="Merlin (disambiguation)">Merlin (disambiguation)</a>.</div>
+<div class="dablink">"Merlyn" redirects here. For other uses, see <a href="/wiki/Merlyn_(disambiguation)" title="Merlyn (disambiguation)">Merlyn (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:227px;"><a href="/wiki/File:Merlin_(illustration_from_middle_ages).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Merlin_%28illustration_from_middle_ages%29.jpg/225px-Merlin_%28illustration_from_middle_ages%29.jpg" width="225" height="245" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Merlin_%28illustration_from_middle_ages%29.jpg/338px-Merlin_%28illustration_from_middle_ages%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Merlin_%28illustration_from_middle_ages%29.jpg/450px-Merlin_%28illustration_from_middle_ages%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Merlin_(illustration_from_middle_ages).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Merlin reciting his <a href="/wiki/Poem" title="Poem" class="mw-redirect">poems</a>, as illustrated in the French book from the 13th century "Merlin", by <a href="/wiki/Robert_de_Boron" title="Robert de Boron">Robert de Boron</a>.</div>
+</div>
+</div>
+<p><b>Merlin</b> is a legendary figure best known as the <a href="/wiki/Magician_(fantasy)" title="Magician (fantasy)">wizard</a> featured in the <a href="/wiki/Arthurian_legend" title="Arthurian legend" class="mw-redirect">Arthurian legend</a>. The standard depiction of the character first appears in <a href="/wiki/Geoffrey_of_Monmouth" title="Geoffrey of Monmouth">Geoffrey of Monmouth</a>'s <i><a href="/wiki/Historia_Regum_Britanniae" title="Historia Regum Britanniae">Historia Regum Britanniae</a></i>, written c. 1136, and is based on an amalgamation of previous historical and legendary figures. Geoffrey combined existing stories of <a href="/wiki/Myrddin_Wyllt" title="Myrddin Wyllt">Myrddin Wyllt</a> (Merlinus Caledonensis), a <a href="/wiki/Hen_Ogledd" title="Hen Ogledd">North Brythonic</a> <a href="/wiki/Prophet" title="Prophet">prophet</a> and <a href="/wiki/Insane" title="Insane" class="mw-redirect">madman</a> with no connection to <a href="/wiki/King_Arthur" title="King Arthur">King Arthur</a>, with tales of the <a href="/wiki/Romano-British" title="Romano-British" class="mw-redirect">Romano-British</a> war leader <a href="/wiki/Ambrosius_Aurelianus" title="Ambrosius Aurelianus">Ambrosius Aurelianus</a> to form the composite figure he called <b>Merlin Ambrosius</b> (<a href="/wiki/Welsh_language" title="Welsh language">Welsh</a>: <span lang="cy" xml:lang="cy"><i>Myrddin Emrys</i></span>).</p>
+<p>Geoffrey's rendering of the character was immediately popular, especially in <a href="/wiki/Wales" title="Wales">Wales</a>.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup> Later writers expanded the account to produce a fuller image of the wizard. Merlin's traditional biography casts him as a <a href="/wiki/Cambion" title="Cambion">cambion</a>: born of a mortal woman, sired by an <a href="/wiki/Incubus" title="Incubus">incubus</a>, the non-human wellspring from whom he inherits his supernatural powers and abilities.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> The name of Merlin's mother is not usually stated but is given as Adhan in the oldest version of the <a href="/w/index.php?title=Prose_Brut&amp;action=edit&amp;redlink=1" class="new" title="Prose Brut (page does not exist)">Prose Brut</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> Merlin matures to an ascendant sagehood and engineers the birth of Arthur through magic and intrigue.<sup id="cite_ref-thorpe_3-0" class="reference"><a href="#cite_note-thorpe-3"><span>[</span>4<span>]</span></a></sup> Later authors have Merlin serve as the king's advisor until he is bewitched and imprisoned by the <a href="/wiki/Lady_of_the_Lake" title="Lady of the Lake">Lady of the Lake</a>.<sup id="cite_ref-thorpe_3-1" class="reference"><a href="#cite_note-thorpe-3"><span>[</span>4<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name_and_etymology"><span class="tocnumber">1</span> <span class="toctext">Name and etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geoffrey.27s_sources"><span class="tocnumber">2</span> <span class="toctext">Geoffrey's sources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Merlin_Ambrosius.2C_or_Myrddin_Emrys"><span class="tocnumber">2.1</span> <span class="toctext">Merlin Ambrosius, or Myrddin Emrys</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Later_adaptations_of_the_legend"><span class="tocnumber">3</span> <span class="toctext">Later adaptations of the legend</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Fiction_featuring_Merlin"><span class="tocnumber">4</span> <span class="toctext">Fiction featuring Merlin</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=1" title="Edit section: Name and etymology">edit</a>]</span> <span class="mw-headline" id="Name_and_etymology">Name and etymology</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Idylls_of_the_King_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Idylls_of_the_King_1.jpg/220px-Idylls_of_the_King_1.jpg" width="220" height="291" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Idylls_of_the_King_1.jpg/330px-Idylls_of_the_King_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Idylls_of_the_King_1.jpg/440px-Idylls_of_the_King_1.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Idylls_of_the_King_1.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Merlin advising King Arthur in <a href="/wiki/Gustave_Dor%C3%A9" title="Gustave Doré">Gustave Doré</a>'s illustration.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arthur-Pyle_The_Enchanter_Merlin.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arthur-Pyle_The_Enchanter_Merlin.JPG/220px-Arthur-Pyle_The_Enchanter_Merlin.JPG" width="220" height="252" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arthur-Pyle_The_Enchanter_Merlin.JPG/330px-Arthur-Pyle_The_Enchanter_Merlin.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Arthur-Pyle_The_Enchanter_Merlin.JPG/440px-Arthur-Pyle_The_Enchanter_Merlin.JPG 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Arthur-Pyle_The_Enchanter_Merlin.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>The Enchanter Merlin</i>, by <a href="/wiki/Howard_Pyle" title="Howard Pyle">Howard Pyle</a> from <i>The Story of King Arthur and His Knights</i>. (1903)</div>
+</div>
+</div>
+<p>The name "Merlin" derives from the <a href="/wiki/Welsh_language" title="Welsh language">Welsh</a> <i><a href="/wiki/Myrddin" title="Myrddin" class="mw-redirect">Myrddin</a></i>, the name of the bard <a href="/wiki/Myrddin_Wyllt" title="Myrddin Wyllt">Myrddin Wyllt</a>, one of the chief sources for the later legendary figure. <a href="/wiki/Geoffrey_of_Monmouth" title="Geoffrey of Monmouth">Geoffrey of Monmouth</a> <a href="/wiki/Latinisation_(literature)" title="Latinisation (literature)" class="mw-redirect">Latinised</a> the name to <i>Merlinus</i> in his works. The medievalist <a href="/wiki/Gaston_Paris" title="Gaston Paris">Gaston Paris</a> suggests that Geoffrey chose the form <i>Merlinus</i> rather than the regular <i>Merdinus</i> to avoid a resemblance to the <a href="/wiki/Anglo-Norman_language" title="Anglo-Norman language">Anglo-Norman</a> word <i>merde</i> (from <a href="/wiki/Latin" title="Latin">Latin</a> <i>merda</i>), for <a href="/wiki/Feces" title="Feces">faeces</a>.<sup id="cite_ref-OED_4-0" class="reference"><a href="#cite_note-OED-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The Celticist A. O. H. Jarman suggests the Welsh name <i><span lang="cy" xml:lang="cy">Myrddin</span></i> (<small>Welsh pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Wikipedia:IPA_for_Welsh" title="Wikipedia:IPA for Welsh" class="mw-redirect">[ˈmərðɪn]</a></span>) was derived from the toponym <i>Caerfyrddin</i>, the Welsh name for the town known in English as <a href="/wiki/Carmarthen" title="Carmarthen">Carmarthen</a>.<sup id="cite_ref-Koch321_5-0" class="reference"><a href="#cite_note-Koch321-5"><span>[</span>6<span>]</span></a></sup> This contrasts with the popular but false <a href="/wiki/Folk_etymology" title="Folk etymology">folk etymology</a> that the town was named for the bard. The name Carmarthen derives from the town's previous Roman name, <a href="/wiki/Moridunum_(Carmarthen)" title="Moridunum (Carmarthen)">Moridunum</a>.<sup id="cite_ref-OED_4-1" class="reference"><a href="#cite_note-OED-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Koch321_5-1" class="reference"><a href="#cite_note-Koch321-5"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=2" title="Edit section: Geoffrey's sources">edit</a>]</span> <span class="mw-headline" id="Geoffrey.27s_sources">Geoffrey's sources</span></h2>
+<p>Geoffrey's composite Merlin is based primarily on <a href="/wiki/Myrddin_Wyllt" title="Myrddin Wyllt">Myrddin Wyllt</a>, also called Merlinus Caledonensis, and Aurelius Ambrosius, a mostly fictionalised version of the historical war leader <a href="/wiki/Ambrosius_Aurelianus" title="Ambrosius Aurelianus">Ambrosius Aurelianus</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> The former had nothing to do with Arthur: in British poetry he was a bard driven mad after witnessing the horrors of war, who fled civilization to become a <a href="/wiki/Wild_man" title="Wild man">wild man of the wood</a> in the 6th century.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> Geoffrey had this individual in mind when he wrote his earliest surviving work, the <i><a href="/wiki/Prophetiae_Merlini" title="Prophetiae Merlini">Prophetiae Merlini</a></i> (<i>Prophecies of Merlin</i>), which he claimed were the actual words of the legendary madman.</p>
+<p>Geoffrey's <i>Prophetiae</i> do not reveal much about Merlin's background. When he included the prophet in his next work, <i>Historia Regum Britanniae</i>, he supplemented the characterisation by attributing to him stories about Aurelius Ambrosius, taken from <a href="/wiki/Nennius" title="Nennius">Nennius</a>' <i><a href="/wiki/Historia_Brittonum" title="Historia Brittonum">Historia Brittonum</a></i>. According to Nennius, Ambrosius was discovered when the British king <a href="/wiki/Vortigern" title="Vortigern">Vortigern</a> was trying to erect a tower. The tower always collapsed before completion, and his wise men told him the only solution was to sprinkle the foundation with the blood of a child born without a father. Ambrosius was rumoured to be such a child, but when brought before the king, he revealed the real reason for the tower's collapse: below the foundation was a lake containing two <a href="/wiki/Dragon" title="Dragon">dragons</a> who destroyed the tower by fighting. Geoffrey retells this story in <i>Historia Regum Britanniæ</i> with some embellishments, and gives the fatherless child the name of the prophetic bard, Merlin. He keeps this new figure separate from Aurelius Ambrosius, and to disguise his changing of Nennius, he simply states that Ambrosius was another name for Merlin. He goes on to add new episodes that tie Merlin into the story of King Arthur and his predecessors.</p>
+<p>Geoffrey dealt with Merlin again in his third work, <i><a href="/wiki/Vita_Merlini" title="Vita Merlini">Vita Merlini</a></i>. He based the <i>Vita</i> on stories of the original 6th-century Myrddin. Though set long after his time frame for the life of "Merlin Ambrosius", he tries to assert the characters are the same with references to King Arthur and his death as told in the <i>Historia Regum Britanniae</i>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=3" title="Edit section: Merlin Ambrosius, or Myrddin Emrys">edit</a>]</span> <span class="mw-headline" id="Merlin_Ambrosius.2C_or_Myrddin_Emrys">Merlin Ambrosius, or Myrddin Emrys</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Ambrosius_Aurelianus" title="Ambrosius Aurelianus">Ambrosius Aurelianus</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BLEgerton3028Fol30rStonehengeCropped.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BLEgerton3028Fol30rStonehengeCropped.jpg/220px-BLEgerton3028Fol30rStonehengeCropped.jpg" width="220" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BLEgerton3028Fol30rStonehengeCropped.jpg/330px-BLEgerton3028Fol30rStonehengeCropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BLEgerton3028Fol30rStonehengeCropped.jpg/440px-BLEgerton3028Fol30rStonehengeCropped.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BLEgerton3028Fol30rStonehengeCropped.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A giant helps Merlin build <a href="/wiki/Stonehenge" title="Stonehenge">Stonehenge</a>. From a manuscript of the <a href="/wiki/Roman_de_Brut" title="Roman de Brut">Roman de Brut</a> by <a href="/wiki/Wace" title="Wace">Wace</a> (British Library, Egerton 3208).</div>
+</div>
+</div>
+<p>Geoffrey's account of Merlin Ambrosius' early life in the <i>Historia Regum Britanniae</i> is based on the story of Ambrosius in the <i>Historia Brittonum</i>. He adds his own embellishments to the tale, which he sets in <a href="/wiki/Carmarthen" title="Carmarthen">Carmarthen</a>, <a href="/wiki/Wales" title="Wales">Wales</a> (Welsh: Caerfyrddin). While Nennius' Ambrosius eventually reveals himself to be the son of a <a href="/wiki/Ancient_Rome" title="Ancient Rome">Roman</a> <a href="/wiki/Consul" title="Consul">consul</a>, Geoffrey's Merlin is begotten on a king's daughter by an incubus. The story of Vortigern's tower is essentially the same; the underground dragons, one white and one red, represent the Saxons and the British, and their final battle is a portent of things to come.</p>
+<p>At this point Geoffrey inserts a long section of Merlin's prophecies, taken from his earlier <i>Prophetiae Merlini</i>. He tells only two further tales of the character. In the first, Merlin creates <a href="/wiki/Stonehenge" title="Stonehenge">Stonehenge</a> as a burial place for Aurelius Ambrosius. In the second, Merlin's magic enables <a href="/wiki/Uther_Pendragon" title="Uther Pendragon">Uther Pendragon</a> to enter into <a href="/wiki/Tintagel" title="Tintagel">Tintagel</a> in disguise and father his son Arthur with his enemy's wife, <a href="/wiki/Igraine" title="Igraine">Igraine</a>. These episodes appear in many later adaptations of Geoffrey's account. As <a href="/wiki/Lewis_Thorpe" title="Lewis Thorpe">Lewis Thorpe</a> notes, Merlin disappears from the narrative after this; he does not tutor and advise Arthur as in later versions.<sup id="cite_ref-thorpe_3-2" class="reference"><a href="#cite_note-thorpe-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=4" title="Edit section: Later adaptations of the legend">edit</a>]</span> <span class="mw-headline" id="Later_adaptations_of_the_legend">Later adaptations of the legend</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Nuremberg_chronicles_-_Merlin_(CXXXVIIIr).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nuremberg_chronicles_-_Merlin_%28CXXXVIIIr%29.jpg/250px-Nuremberg_chronicles_-_Merlin_%28CXXXVIIIr%29.jpg" width="250" height="264" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nuremberg_chronicles_-_Merlin_%28CXXXVIIIr%29.jpg/375px-Nuremberg_chronicles_-_Merlin_%28CXXXVIIIr%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nuremberg_chronicles_-_Merlin_%28CXXXVIIIr%29.jpg/500px-Nuremberg_chronicles_-_Merlin_%28CXXXVIIIr%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nuremberg_chronicles_-_Merlin_(CXXXVIIIr).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Merlin, from the <i><a href="/wiki/Nuremberg_Chronicle" title="Nuremberg Chronicle">Nuremberg Chronicle</a></i> (1493).</div>
+</div>
+</div>
+<p>Several decades later, the poet <a href="/wiki/Robert_de_Boron" title="Robert de Boron">Robert de Boron</a> retold this material in his poem <i>Merlin</i>. Only a few lines of the poem have survived, but a prose retelling became popular and was later incorporated into two other romances. In Robert's account, as in Geoffrey's <i>Historia</i>, Merlin is begotten by a demon on a virgin as an intended <a href="/wiki/Antichrist" title="Antichrist">Antichrist</a>. This plot is thwarted when the expectant mother informs her confessor Blaise of her predicament; they immediately baptize the boy at birth, thus freeing him from the power of Satan. The demonic legacy invests Merlin with a preternatural knowledge of the past and present, which is supplemented by God, who gives the boy a prophetic knowledge of the future.</p>
+<p>Robert de Boron lays great emphasis on Merlin's power to <a href="/wiki/Shapeshift" title="Shapeshift" class="mw-redirect">shapeshift</a>, on his joking personality, and on his connection to the <a href="/wiki/Holy_Grail" title="Holy Grail">Holy Grail</a>. This text introduces Merlin's master Blaise, who is pictured as writing down Merlin's deeds, explaining how they came to be known and preserved. Robert was inspired by <a href="/wiki/Wace" title="Wace">Wace</a>'s <i><a href="/wiki/Roman_de_Brut" title="Roman de Brut">Roman de Brut</a></i>, an <a href="/wiki/Anglo-Norman_language" title="Anglo-Norman language">Anglo-Norman</a> adaptation of Geoffrey's <i>Historia</i>. Robert's poem was rewritten in prose in the 12th century as the <i>Estoire de Merlin</i>, also called the Vulgate or Prose <i>Merlin</i>. It was originally attached to a cycle of prose versions of Robert's poems, which tells the story of the <a href="/wiki/Holy_Grail" title="Holy Grail">Holy Grail</a>: brought from the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> to Britain by followers of <a href="/wiki/Joseph_of_Arimathea" title="Joseph of Arimathea">Joseph of Arimathea</a>, the Grail is eventually recovered by Arthur's knight <a href="/wiki/Percival" title="Percival">Percival</a>.</p>
+<p>The Prose <i>Merlin</i> contains many instances of Merlin's shapeshifting. He appears as a woodcutter with an axe about his neck, big shoes, a torn coat, bristly hair, and a large beard. He is later found in the forest of Northumberland by a follower of Uther's disguised as an ugly man and tending a great herd of beasts. He then appears first as a handsome man and then as a beautiful boy. Years later, he approaches Arthur disguised as a peasant wearing leather boots, a wool coat, a hood, and a belt of knotted sheepskin. He is described as tall, black and bristly, and as seeming cruel and fierce. Finally, he appears as an old man with a long beard, short and hunchbacked, in an old torn woolen coat, who carries a club and drives a multitude of beasts before him (Loomis, 1927).</p>
+<p>The Prose <i>Merlin</i> later came to serve as a sort of prequel to the vast <a href="/wiki/Lancelot-Grail" title="Lancelot-Grail">Lancelot-Grail</a>, also known as the Vulgate Cycle. The authors of that work expanded it with the Vulgate <i>Suite du Merlin</i> (Vulgate Merlin Continuation), which describes King Arthur's early adventures. The Prose <i>Merlin</i> was also used as a prequel to the later <a href="/wiki/Post-Vulgate_Cycle" title="Post-Vulgate Cycle">Post-Vulgate Cycle</a>, the authors of which added their own continuation, the <i>Huth Merlin</i> or Post-Vulgate <i>Suite du Merlin</i>.</p>
+<p>In the <i>Livre d'Artus</i>, Merlin enters Rome in the form of a huge stag with a white fore-foot. He bursts into the presence of <a href="/wiki/Julius_Caesar" title="Julius Caesar">Julius Caesar</a> and tells the emperor that only the wild man of the woods can interpret the dream that has been troubling him. Later, he returns in the form of a black, shaggy man, barefoot, with a torn coat. In another episode, he decides to do something that will be spoken of forever. Going into the <a href="/wiki/Broc%C3%A9liande" title="Brocéliande">forest of Brocéliande</a>, he transforms himself into a herdsman carrying a club and wearing a wolf-skin and leggings. He is large, bent, black, lean, hairy and old, and his ears hang down to his waist. His head is as big as a buffalo's, his hair is down to his waist, he has a hump on his back, his feet and hands are backwards, he's hideous, and is over 18 feet tall. By his arts, he calls a herd of deer to come and graze around him (Loomis, 1927).</p>
+<p>These works were adapted and translated into several other languages. The Post-Vulgate <i>Suite</i> was the inspiration for the early parts of Sir <a href="/wiki/Thomas_Malory" title="Thomas Malory">Thomas Malory</a>'s <a href="/wiki/English_language" title="English language">English language</a> <i><a href="/wiki/Le_Morte_d%27Arthur" title="Le Morte d'Arthur">Le Morte d'Arthur</a></i>. Many later medieval works also deal with the Merlin legend. The <a href="/wiki/Italy" title="Italy">Italian</a> <i><a href="/w/index.php?title=The_Prophecies_of_Merlin&amp;action=edit&amp;redlink=1" class="new" title="The Prophecies of Merlin (page does not exist)">The Prophecies of Merlin</a></i> contains long prophecies of Merlin (mostly concerned with 13th-century Italian politics), some by his ghost after his death. The prophecies are interspersed with episodes relating Merlin's deeds and with various Arthurian adventures in which Merlin does not appear at all. The earliest English verse romance concerning Merlin is <i>Arthour and Merlin</i>, which drew from the chronicles and the French Lancelot-Grail.</p>
+<p>As the Arthurian myths were retold and embellished, Merlin's prophetic aspects were sometimes de-emphasised in favour of portraying him as a wizard and elder advisor to Arthur. On the other hand, in the <a href="/wiki/Lancelot-Grail" title="Lancelot-Grail">Lancelot-Grail</a> it is said that Merlin was never baptized and never did any good in his life, only evil. Medieval Arthurian tales abound in inconsistencies.</p>
+<p>A manuscript found in <a href="/wiki/Bath_(city)" title="Bath (city)" class="mw-redirect">Bath</a> from the 1420s simply records a "Merlyn" as having helped <a href="/wiki/Uther_Pendragon" title="Uther Pendragon">Uther Pendragon</a> with his "sotelness" or subtleness, presumably but not necessarily magic. His role could be embellished and added to that of <a href="/wiki/Aurelianus_Ambrosius" title="Aurelianus Ambrosius" class="mw-redirect">Aurelianus Ambrosius</a>, or he could be made into one of old Uther's favourite advisors and naught more.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Beguiling_of_Merlin.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Beguiling_of_Merlin.jpg/250px-Beguiling_of_Merlin.jpg" width="250" height="439" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Beguiling_of_Merlin.jpg/375px-Beguiling_of_Merlin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Beguiling_of_Merlin.jpg/500px-Beguiling_of_Merlin.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Beguiling_of_Merlin.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nimue, The Lady of the Lake, shown holding the infatuated Merlin trapped and reading from a book of spells, in "<a href="/wiki/The_Beguiling_of_Merlin" title="The Beguiling of Merlin">The Beguiling of Merlin</a>" by <a href="/wiki/Edward_Burne-Jones" title="Edward Burne-Jones">Edward Burne-Jones</a>.</div>
+</div>
+</div>
+<p>In the Lancelot-Grail and later accounts, Merlin's eventual downfall came from his lusting after a huntress named <a href="/wiki/Lady_of_the_Lake" title="Lady of the Lake">Niviane</a> (or Nymue, Nimue, Niniane, Nyneue, or Viviane in some versions of the legend), who was the daughter of the king of Northumberland. In the Suite du Merlin,<sup id="cite_ref-wilhelm_8-0" class="reference"><a href="#cite_note-wilhelm-8"><span>[</span>9<span>]</span></a></sup> for example, Niviane is about to depart from Arthur's court, but, with some encouragement from Merlin, Arthur asks her to stay in his castle with the queen. During her stay, Merlin falls in love with her and desires her. Niviane, frightened that Merlin might take advantage of her with his spells, swears that she will never love him unless he swears to teach her all of his magic. Merlin consents, unaware that throughout the course of her lessons, Niviane will use Merlin's own powers against him, forcing him to do her bidding.<sup id="cite_ref-wilhelm_8-1" class="reference"><a href="#cite_note-wilhelm-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>When Niviane finally goes back to her country, Merlin escorts her, accompanied by his trusty assistant Natalie Nissim. However, along the way, Merlin receives a vision that Arthur is in need of assistance against the schemes of <a href="/wiki/Morgan_le_Fay" title="Morgan le Fay">Morgan le Fay</a>. Niviane and Merlin rush back to Arthur's castle, but have to stop for the night in a stone chamber, once inhabited by two lovers. Merlin relates that when the lovers died, they were placed in a magic tomb within a room in the chamber. That night, while Merlin is asleep, Niviane, still disgusted with Merlin's desire for her, as well as his demonic heritage, casts a spell over him and places him in the magic tomb so that he can never escape, thus causing his death.<sup id="cite_ref-wilhelm_8-2" class="reference"><a href="#cite_note-wilhelm-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>Merlin's death is recounted differently in other versions of the narrative; the enchanted prison is variously described as a cave (in the <i>Lancelot-Grail</i>), a large rock (in <i>Le Morte d'Arthur</i>), an invisible tower, or a tree.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from November 2011">citation needed</span></a></i>]</sup> In his book "The Meaning of Trees: botany, history, healing, lore" Fred Hageneder writes on page 149, "According to Breton legend, the legendary wise man Merlin climbed the Pine of Barenton (from <i>bel nemeton</i>, "Sacred Grove of Bel"), just as shamans climb the World Tree. Here, he had a profound revelation and he never returned to the mortal world. In later versions,Merlins <i>glas tann</i> was mistranslated as a "glass house". It is actually a living tree (from the Cornish <i>glas</i> "(ever)green", and <i>tann</i>, "sacred tree"), and from these words the name of Glastonbury, in Somerset, England is sometimes derived.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from February 2012">citation needed</span></a></i>]</sup> Hence, according to legend, it is a sacred tree in which the soul of Merlin awaits his return." In the <i>Prophetiae Merlini</i>, Niviane confines him in the forest of Brocéliande with walls of air, visible as mist to others but as a beautiful tower to him (Loomis, 1927). This is unfortunate for Arthur, who has lost his greatest counselor. Another version has it that Merlin angers Arthur to the point where he beheads, cuts in half, burns, and curses Merlin.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from November 2011">citation needed</span></a></i>]</sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=5" title="Edit section: Fiction featuring Merlin">edit</a>]</span> <span class="mw-headline" id="Fiction_featuring_Merlin">Fiction featuring Merlin</span></h2>
+<div class="rellink">Further information: <a href="/wiki/List_of_films_in_which_Merlin_appears" title="List of films in which Merlin appears">List of films in which Merlin appears</a>&#160;and&#160;<a href="/wiki/Fiction_featuring_Merlin" title="Fiction featuring Merlin">Fiction featuring Merlin</a></div>
+<p>Many parts of Arthurian fiction include Merlin as a character. <a href="/wiki/Mark_Twain" title="Mark Twain">Mark Twain</a> made Merlin the villain in his <a href="/wiki/1889_in_literature" title="1889 in literature">1889 novel</a> <i><a href="/wiki/A_Connecticut_Yankee_in_King_Arthur%27s_Court" title="A Connecticut Yankee in King Arthur's Court">A Connecticut Yankee in King Arthur's Court</a></i>. <a href="/wiki/C._S._Lewis" title="C. S. Lewis">C. S. Lewis</a> used the figure of Merlin Ambrosius in his 1946 novel <i><a href="/wiki/That_Hideous_Strength" title="That Hideous Strength">That Hideous Strength</a></i>, the third book in the <a href="/wiki/Space_Trilogy" title="Space Trilogy" class="mw-redirect">Space Trilogy</a>. Merlin is also portrayed in the <a href="/wiki/T._A._Barron" title="T. A. Barron">T. A. Barron</a> series <a href="/wiki/The_Lost_Years_of_Merlin" title="The Lost Years of Merlin">The Lost Years of Merlin</a> and <i>The Great Tree of Avalon</i>.</p>
+<p>Merlin is well known in the series of "Harry Potter" as one of the greatest wizards of all time. According to the newly released website, pottermore, Merlin was described with deeper biographical background. According to J.K. Rowling, Merlin was born sometime during the medieval era. During his formative years, he attended Hogwarts School of Witchcraft and Wizardry, and was Sorted into Slytherin House. It's possible that he was taught by Salazar﻿ Slytherin himself, given the time period Merlin lived.</p>
+<p>Merlin is a major character in <a href="/wiki/T._H._White" title="T. H. White">T. H. White</a>'s collection <i><a href="/wiki/The_Once_and_Future_King" title="The Once and Future King">The Once and Future King</a></i> and the related <i><a href="/wiki/The_Book_of_Merlyn" title="The Book of Merlyn">The Book of Merlyn</a></i>. <a href="/wiki/Mary_Stewart_(novelist)" title="Mary Stewart (novelist)">Mary Stewart</a> produced an influential quintet of Arthurian novels, with Merlin as the protagonist in the first three: <i><a href="/wiki/The_Crystal_Cave" title="The Crystal Cave">The Crystal Cave</a></i> (1970), <i><a href="/wiki/The_Hollow_Hills" title="The Hollow Hills">The Hollow Hills</a></i> (1973) and <i><a href="/wiki/The_Last_Enchantment" title="The Last Enchantment">The Last Enchantment</a></i> (1979). Merlin plays a modern-day villain in <a href="/wiki/Roger_Zelazny" title="Roger Zelazny">Roger Zelazny</a>'s short story "<a href="/wiki/The_Last_Defender_of_Camelot_(short_story)" title="The Last Defender of Camelot (short story)">The Last Defender of Camelot</a>" (1979), which won the 1980 Balrog Award for short fiction and was adapted into an episode of the television series <i><a href="/wiki/The_Twilight_Zone" title="The Twilight Zone">The Twilight Zone</a></i> in 1986. Kristine Jones explores Merlin's childhood in <i><a href="/w/index.php?title=Merlin_of_Carmarthen&amp;action=edit&amp;redlink=1" class="new" title="Merlin of Carmarthen (page does not exist)">Merlin of Carmarthen</a></i>. <i><a href="/w/index.php?title=Merlin%27s_Mirror&amp;action=edit&amp;redlink=1" class="new" title="Merlin's Mirror (page does not exist)">Merlin's Mirror</a></i>, by <a href="/wiki/Andre_Norton" title="Andre Norton">Andre Norton</a>, tells the story of the half-human, half-alien Merlin.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:MerlinDisney.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1f/MerlinDisney.gif/150px-MerlinDisney.gif" width="150" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/1/1f/MerlinDisney.gif 1.5x, //upload.wikimedia.org/wikipedia/en/1/1f/MerlinDisney.gif 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MerlinDisney.gif" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Merlin_(Disney)" title="Merlin (Disney)" class="mw-redirect">Disney's</a> version of Merlin.</div>
+</div>
+</div>
+<p>Merlin is an important figure in films and television programs, where he functions often as a teacher or mentor figure, a role that he shares with other wizard and wizard-like figures in popular texts, such as <a href="/wiki/Gandalf_the_White" title="Gandalf the White" class="mw-redirect">Gandalf the White</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> One of the best known of the film Merlins is the <a href="/wiki/Merlin_(Disney)" title="Merlin (Disney)" class="mw-redirect">Merlin</a> of the 1963 animated Disney film <i><a href="/wiki/The_Sword_in_the_Stone_(film)" title="The Sword in the Stone (film)">The Sword in the Stone</a></i>, based on <a href="/wiki/T._H._White" title="T. H. White">T. H. White</a>'s <a href="/wiki/The_Sword_in_the_Stone" title="The Sword in the Stone">novel of the same name</a>. In the 1967 episode <i>Merlin, the Magician</i> from the TV show <a href="/wiki/The_Time_Tunnel" title="The Time Tunnel">The Time Tunnel</a>, Merlin is portrayed by <a href="/w/index.php?title=Christopher_Cary&amp;action=edit&amp;redlink=1" class="new" title="Christopher Cary (page does not exist)">Christopher Cary</a>. The character, played by <a href="/wiki/Nicol_Williamson" title="Nicol Williamson">Nicol Williamson</a>, has a large role in the 1981 film <i><a href="/wiki/Excalibur_(film)" title="Excalibur (film)">Excalibur</a></i>. <a href="/wiki/Laurence_Naismith" title="Laurence Naismith">Laurence Naismith</a> appears as Merlyn in the film version of the musical play <i><a href="/wiki/Camelot_(musical)" title="Camelot (musical)">Camelot</a></i> (based on T. H. White's <i><a href="/wiki/The_Once_and_Future_King" title="The Once and Future King">The Once and Future King</a></i>). In the 1998 miniseries <i><a href="/wiki/Merlin_(film)" title="Merlin (film)">Merlin</a></i>, the protagonist Merlin (played by actor <a href="/wiki/Sam_Neill" title="Sam Neill">Sam Neill</a>) battled the pagan goddess <a href="/wiki/Queen_Mab" title="Queen Mab">Queen Mab</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup></p>
+<p>In 1981, the television series <i><a href="/wiki/Mr._Merlin" title="Mr. Merlin">Mr. Merlin</a></i> featured Merlin living undercover in modern-day <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>. In 2006 and 2007, the television series <i><a href="/wiki/Stargate_SG-1" title="Stargate SG-1">Stargate SG-1</a></i> used Merlin and Arthurian legend as major plot points. In 2005, Merlin appeared as leader of the Woads of Britton and father to <a href="/wiki/Guinevere" title="Guinevere">Guinevere</a> in <i><a href="/wiki/King_Arthur_(film)" title="King Arthur (film)">King Arthur</a></i>. Also in 2007, the film <i><a href="/wiki/The_Last_Legion" title="The Last Legion">The Last Legion</a></i> portrayed Merlin (initially called Ambrosinus) as a druid and tutor of both the last <a href="/wiki/Roman_Emperor" title="Roman Emperor" class="mw-redirect">Roman Emperor</a> <a href="/wiki/Romulus_Augustus" title="Romulus Augustus" class="mw-redirect">Romulus Augustus</a> <a href="/wiki/Caesar_(title)" title="Caesar (title)">Caesar</a>, as well as of his son <a href="/wiki/King_Arthur" title="King Arthur">Arthur</a>.</p>
+<p>In 1985, Merlin was portrayed in the arcade game <i><a href="/wiki/Gauntlet_(arcade_game)" title="Gauntlet (arcade game)" class="mw-redirect">Gauntlet (arcade game)</a></i>. His role in the game series continued until Gauntlet 4 for the Sega Genesis.</p>
+<p>In 2008, the <a href="/wiki/BBC" title="BBC">BBC</a> created a television series, also called <i><a href="/wiki/Merlin_(TV_series)" title="Merlin (TV series)">Merlin</a></i>, where Merlin is portrayed by <a href="/wiki/Colin_Morgan" title="Colin Morgan">Colin Morgan</a>. Merlin was the protagonist of the 2008 fantasy film <i><a href="/wiki/Merlin_and_the_War_of_the_Dragons" title="Merlin and the War of the Dragons">Merlin and the War of the Dragons</a></i>. The <i><a href="/wiki/Doctor_Who" title="Doctor Who">Doctor Who</a></i> episode <i><a href="/wiki/Battlefield_(Doctor_Who)" title="Battlefield (Doctor Who)">Battlefield</a></i> suggests that Arthurian legend in our world is influenced by actual events in a parallel world, and that <a href="/wiki/Doctor_(Doctor_Who)" title="Doctor (Doctor Who)">the Doctor</a> is himself Merlin.</p>
+<p>In the 2010 film <i><a href="/wiki/The_Sorcerer%27s_Apprentice" title="The Sorcerer's Apprentice">The Sorcerer's Apprentice</a></i>, modern day New Yorker David Stutler, played by <a href="/wiki/Jay_Baruchel" title="Jay Baruchel">Jay Baruchel</a>, discovers he is the last descendant of Merlin and is trained as a sorcerer by Balthazar Blake, portrayed by <a href="/wiki/Nicolas_Cage" title="Nicolas Cage">Nicolas Cage</a>, a former student of the great wizard, so that he may ultimately do battle with Merlin's old nemesis Morganna, played by <a href="/wiki/Alice_Krige" title="Alice Krige">Alice Krige</a>.</p>
+<p>In the 2011 TV series <i><a href="/wiki/Camelot_(TV_series)" title="Camelot (TV series)">Camelot</a></i>, Merlin was played by <a href="/wiki/Joseph_Fiennes" title="Joseph Fiennes">Joseph Fiennes</a>. Ashley Cowie, Scottish author, historian, and archaeologist, and his team search the U.K. for treasures said to have been hidden away by Merlin in the 5th episode of season 1's "Legend Quest".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup></p>
+<p>A <a href="/wiki/Asteroid_belt" title="Asteroid belt">main belt</a> <a href="/wiki/Asteroid" title="Asteroid">asteroid</a> is named <a href="/wiki/2598_Merlin" title="2598 Merlin">Merlin</a> in honour of the legendary wizard. Merlin is a character in the <a href="/wiki/MMORPG" title="MMORPG" class="mw-redirect">MMO role-playing games</a> <i><a href="/wiki/Wizard101" title="Wizard101">Wizard101</a></i> (under the alias of Merle Ambrose, a take on the name Merlin Ambrosius) and <i><a href="/wiki/RuneScape" title="RuneScape">RuneScape</a></i>. In the role-playing game <i><a href="/wiki/Magic_and_Mayhem" title="Magic and Mayhem">Magic and Mayhem</a></i>, Merlin is the game's final antagonist. The Disney version of Merlin appears in the <a href="/wiki/Action_role-playing_game" title="Action role-playing game">ARPGs</a> <i><a href="/wiki/Kingdom_Hearts" title="Kingdom Hearts">Kingdom Hearts</a></i>, <i><a href="/wiki/Kingdom_Hearts_II" title="Kingdom Hearts II">Kingdom Hearts II</a></i> and <i><a href="/wiki/Kingdom_Hearts_Birth_by_Sleep" title="Kingdom Hearts Birth by Sleep">Kingdom Hearts Birth by Sleep</a></i>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<div class="column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul>
+<li><a href="/wiki/Aradia_(goddess)" title="Aradia (goddess)" class="mw-redirect">Aradia</a></li>
+<li><a href="/wiki/Celtic_mythology" title="Celtic mythology">Celtic mythology</a></li>
+<li><a href="/wiki/Circe" title="Circe">Circe</a></li>
+<li><a href="/wiki/Druid" title="Druid">Druid</a></li>
+<li><a href="/wiki/European_dragon" title="European dragon">European dragon</a></li>
+<li><a href="/wiki/Myddfai" title="Myddfai">Myddfai</a></li>
+<li><a href="/wiki/N%C3%AD%C3%B0h%C3%B6ggr" title="Níðhöggr">Níðhöggr</a></li>
+<li><a href="/wiki/V%C3%B6lva" title="Völva">Völva</a></li>
+</ul>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text">Lloyd-Morgan, Ceridwen. "Narratives and Non-Narrtives: Aspects of Welsh Arthurian Tradition." <i>Arthurian Literature</i>. 21. (2004): 115-136.</span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Katharine_Mary_Briggs" title="Katharine Mary Briggs">Katharine Mary Briggs</a> (1976). <i>An Encyclopedia of Fairies, Hobgoblins, Brownies, Boogies, and Other Supernatural Creatures</i>, p.440. New York: Pantheon Books. <a href="/wiki/Special:BookSources/039473467X" class="internal mw-magiclink-isbn">ISBN 0-394-73467-X</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Bibliographical Bulletin of the Arthurian Society</i> Vol LIX (2007) p 108, item 302</span></li>
+<li id="cite_note-thorpe-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-thorpe_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-thorpe_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-thorpe_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Geoffrey_of_Monmouth" title="Geoffrey of Monmouth">Geoffrey of Monmouth</a> (1977). <a href="/wiki/Lewis_Thorpe" title="Lewis Thorpe">Lewis Thorpe</a>. ed. <i><a href="/wiki/Historia_Regum_Britanniae" title="Historia Regum Britanniae">The History of the Kings of Britain</a></i>. Penguin Classics. <a href="/wiki/Penguin_Books" title="Penguin Books">Penguin Books</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-14-044170-0" title="Special:BookSources/0-14-044170-0">0-14-044170-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%5B%5BHistoria+Regum+Britanniae%7CThe+History+of+the+Kings+of+Britain%5D%5D&amp;rft.aulast=Geoffrey+of+Monmouth&amp;rft.au=Geoffrey+of+Monmouth&amp;rft.date=1977&amp;rft.series=Penguin+Classics&amp;rft.pub=%5B%5BPenguin+Books%5D%5D&amp;rft.isbn=0-14-044170-0&amp;rfr_id=info:sid/en.wikipedia.org:Merlin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-OED-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-OED_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OED_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal"><a rel="nofollow" class="external text" href="http://dictionary.oed.com/cgi/entry/00306349?query_type=word&amp;queryword=merlin&amp;first=1&amp;max_to_show=10&amp;sort_type=alpha&amp;result_place=2&amp;search_id=0h1m-im2NWy-2375&amp;hilite=00306349">"Merlin"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i>. 2008<span class="printonly">. <a rel="nofollow" class="external free" href="http://dictionary.oed.com/cgi/entry/00306349?query_type=word&amp;queryword=merlin&amp;first=1&amp;max_to_show=10&amp;sort_type=alpha&amp;result_place=2&amp;search_id=0h1m-im2NWy-2375&amp;hilite=00306349">http://dictionary.oed.com/cgi/entry/00306349?query_type=word&amp;queryword=merlin&amp;first=1&amp;max_to_show=10&amp;sort_type=alpha&amp;result_place=2&amp;search_id=0h1m-im2NWy-2375&amp;hilite=00306349</a></span><span class="reference-accessdate">. Retrieved June 7, 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Merlin&amp;rft.jtitle=%5B%5BOxford+English+Dictionary%5D%5D&amp;rft.date=2008&amp;rft_id=http%3A%2F%2Fdictionary.oed.com%2Fcgi%2Fentry%2F00306349%3Fquery_type%3Dword%26queryword%3Dmerlin%26first%3D1%26max_to_show%3D10%26sort_type%3Dalpha%26result_place%3D2%26search_id%3D0h1m-im2NWy-2375%26hilite%3D00306349&amp;rfr_id=info:sid/en.wikipedia.org:Merlin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Koch321-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Koch321_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Koch321_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Koch, p. 321.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Ashe, Geoffrey. <i>The Discovery of Arthur</i>, Owl Books, 1987.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Dames, Michael. <i>Merlin and Wales: A Magician's Landscape</i>, Thames &amp; Hudson Ltd, 2004</span></li>
+<li id="cite_note-wilhelm-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-wilhelm_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wilhelm_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-wilhelm_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Robert de Boron (1994). James J. Wilhelm. ed. <i>Suite du Merlin</i>. Garland Reference Library.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Suite+du+Merlin&amp;rft.aulast=Robert+de+Boron&amp;rft.au=Robert+de+Boron&amp;rft.date=1994&amp;rft.pub=Garland+Reference+Library&amp;rfr_id=info:sid/en.wikipedia.org:Merlin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Torregrossa, Kyle Murdough and Bryson Poland, Michael A., “Merlin Goes to the Movies: The Changing Role of Merlin in Cinema Arthuriana,” <i>Film &amp; History: An Interdisciplinary Journal of Film and Television Studies</i> 29.3–4 (1999): 54–65; Torregrossa, Michael A., “The Way of the Wizard: Reflections of Merlin on Film," in <i>The Medieval Hero on Screen: Representations from Beowulf to Buffy</i>, eds. Martha W. Driver and Sid Ray (Jefferson, NC: McFarland, 2004), pp. 167–91.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Jennie M. Morton, "Of Magicians and Masculinity: Merlin and the Manifestation of the New Man," in: <i>Culture and the Medieval King</i>, ed. Christine Havens, Keith Russo, and Richard Utz, Special Issue (4.1, Spring 2008) of <i><a rel="nofollow" class="external text" href="http://www.uni.edu/universitas/spring08/default.htm">UNIversitas: The University of Northern Iowa Journal of Research, Scholarship, and Creative Activity</a></i></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.syfy.com/legendquest/">"Legend Quest"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.syfy.com/legendquest/">http://www.syfy.com/legendquest/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Legend+Quest&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.syfy.com%2Flegendquest%2F&amp;rfr_id=info:sid/en.wikipedia.org:Merlin"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=8" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li><span class="citation Journal"><i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i>. 2008. <a rel="nofollow" class="external free" href="http://dictionary.oed.com.dax.lib.unf.edu">http://dictionary.oed.com.dax.lib.unf.edu</a><span class="reference-accessdate">. Retrieved June 7, 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=&amp;rft.jtitle=%5B%5BOxford+English+Dictionary%5D%5D&amp;rft.date=2008&amp;rft_id=http%3A%2F%2Fdictionary.oed.com.dax.lib.unf.edu&amp;rfr_id=info:sid/en.wikipedia.org:Merlin"><span style="display: none;">&#160;</span></span></li>
+<li>Arbrois De Jubainville, H., <i>Merlin est-il un personage historique?</i>, Revue des questions historiques 5, 1868.</li>
+<li>Breton-Guay, Neomie, <i>Merlin l'Enchanteur dans les images de la renaissance arthurienne</i>, 2006.</li>
+<li>Cadieux-Larochelle, Josee, <i>Pour forger un mythe: les avatars de Merlin</i>, 1996.</li>
+<li>Castleden, Rodney, <i>King Arthur: The Truth behind the legend</i>, London, New-York, G. Routhledge, 2000.</li>
+<li>Donnard, Ana, Merlin, <i>L'intermediaire des mondes</i>. Minas Gerais federal University.</li>
+<li>Dumezil, Georges, <i>Mythes et Dieux des Indo-europeens</i> Flammarion, 1992.</li>
+<li>Gaster, M, <i>The Legend of Merlin: A Postscript</i>, Folklore, 1905</li>
+<li>Gaster, M, "<a href="//en.wikisource.org/wiki/Folk-Lore._Volume_16/The_Legend_of_Merlin" class="extiw" title="s:Folk-Lore. Volume 16/The Legend of Merlin">The Legend of Merlin</a>" <i>Folk-Lore</i>, 1905.</li>
+<li>Gill, N.S., <i>Who was Merlin and was Merlin Real?</i> Ancient/Classical History, <a rel="nofollow" class="external free" href="http://ancienthistory.about.com/cs/people/a/merlin_2.htm">http://ancienthistory.about.com/cs/people/a/merlin_2.htm</a>. 2007.</li>
+<li>Heather, P.J., <i>Divination</i>, Folklore, 1954.</li>
+<li>Hersart, Theodore, <i>Myrdhin ou l'enchanteur Merlin: son histoire, ses oeuvres, son influence</i>, Paris, Terre de Brume, 1989.</li>
+<li>Holdstock, Robert, <i>Le graal de fer</i>, Paris, Pocket, 2006.</li>
+<li>Joe, Jimmy, <i>Timeless Myths: The Many Faces of Merlin</i>, <a rel="nofollow" class="external free" href="http://www.timelessmyths.com/arthurian/merlin.html">http://www.timelessmyths.com/arthurian/merlin.html</a>. 2007.</li>
+<li><span class="citation book">Koch, John T. (2006). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=f899xH_quaMC&amp;printsec=frontcover&amp;dq=Celtic+Culture#v=onepage&amp;q=&amp;f=false"><i>Celtic Culture: A Historical Encyclopedia</i></a>. ABC-CLIO. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85109-440-7" title="Special:BookSources/1-85109-440-7">1-85109-440-7</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/books?id=f899xH_quaMC&amp;printsec=frontcover&amp;dq=Celtic+Culture#v=onepage&amp;q=&amp;f=false">http://books.google.com/books?id=f899xH_quaMC&amp;printsec=frontcover&amp;dq=Celtic+Culture#v=onepage&amp;q=&amp;f=false</a></span><span class="reference-accessdate">. Retrieved November 23, 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Celtic+Culture%3A+A+Historical+Encyclopedia&amp;rft.aulast=Koch&amp;rft.aufirst=John+T.&amp;rft.au=Koch%2C%26%2332%3BJohn+T.&amp;rft.date=2006&amp;rft.pub=ABC-CLIO&amp;rft.isbn=1-85109-440-7&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Df899xH_quaMC%26printsec%3Dfrontcover%26dq%3DCeltic%2BCulture%23v%3Donepage%26q%3D%26f%3Dfalse&amp;rfr_id=info:sid/en.wikipedia.org:Merlin"><span style="display: none;">&#160;</span></span></li>
+<li>La Croix, Arnaud de, <i>Arthur, Merlin et le Graal, un mythe revisite</i>, Monaco, Editions du Rocher, 2001.</li>
+<li>Lacy, Norris J. (Ed.) (1991). <i>The New Arthurian Encyclopedia</i>. New York: Garland. <a href="/wiki/Special:BookSources/0824043774" class="internal mw-magiclink-isbn">ISBN 0-8240-4377-4</a>.</li>
+<li>Loomis, Roger Sherman (1927). <i>Celtic Myth and Arthurian Romance</i>. Columbia University Press.</li>
+<li>Monmouth, Geoffrey. The History of the Kings of Britain. The Romance of Arthur. Ed. James J. Wilhelm. New York: Garland Publishing, 1994. 63–93.</li>
+<li>Rider, Jeff, <i>The fictional margin: The Merlin of the Brut</i>, Modern Philology, 1989, University of Chicago Press.</li>
+<li>Torregrossa, Michael A. “Merlin Goes to the Movies: The Changing Role of Merlin in Cinema Arthuriana.” <i>Film &amp; History: An Interdisciplinary Journal of Film and Television Studies</i> 29.3–4 (1999): 54–65.</li>
+<li>Torregrossa, Michael A. “The Way of the Wizard: Reflections of Merlin on Film." In <i>The Medieval Hero on Screen: Representations from Beowulf to Buffy</i>. Eds. Martha W. Driver and Sid Ray. Jefferson, NC: McFarland, 2004. pp.&#160;167–91.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Merlin&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Merlin" class="extiw" title="commons:Category:Merlin">Merlin</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/programmes/p003k9j2">BBC audio file</a>, Radio 4 <i><a href="/wiki/In_Our_Time_(BBC_Radio_4)" title="In Our Time (BBC Radio 4)">In Our Time</a></i>, 45 minutes.</li>
+<li><a rel="nofollow" class="external text" href="http://www.hti.umich.edu/cgi/t/text/text-idx?c=cme;idno=Merlin">Merlin: or the early History of King Arthur: a prose romance</a> (<a href="/wiki/Early_English_Text_Society" title="Early English Text Society">Early English Text Society</a> [Series]. Original series: 10, 112), edited by Henry Wheatly. (1450s) (The complete prose Middle English translation of the <i>Vulgate Merlin</i>. Chapter I to VI cover Robert de Boron's <i>Merlin</i>.)</li>
+<li><i>Prose Merlin</i>, <a rel="nofollow" class="external text" href="http://www.lib.rochester.edu/camelot/teams/pmint.htm">Introduction</a> and <a rel="nofollow" class="external text" href="http://www.lib.rochester.edu/camelot/teams/confront.htm">Text</a> (TEAMS Middle English text series) edited by John Conlea, 1998. (1450s) (A selection of many passages of the prose Middle English translation of the <i>Vulgate Merlin</i> with connecting summary. The sections from <a rel="nofollow" class="external text" href="http://www.lib.rochester.edu/camelot/teams/melbifr.htm">The Birth of Merlin</a> to <a rel="nofollow" class="external text" href="http://www.lib.rochester.edu/camelot/teams/swordfr.htm">Arthur and the Sword in the Stone</a> cover Robert de Boron's <i>Merlin</i>).</li>
+<li><a rel="nofollow" class="external text" href="http://www.nls.uk/auchinleck/mss/arthur.html"><i>Of Arthour and Merlin: Auchinleck Manuscript</i></a> (National Library of Scotland) (1330s). (A Middle-English verse adaptation of the <i>Vulgate Merlin</i> combined with material closer to Geoffrey of Monmouth's <i>Historia</i>. Lines 1–3059 cover approximately Robert de Boron's <i>Merlin</i>).</li>
+<li><a rel="nofollow" class="external text" href="http://expositions.bnf.fr/arthur/livres/merlin/index.htm"><i>XIIIth century Merlin manuscript BNF fr. 95</i></a> Bibliothèque Nationale de France, selection of illuminated folios, Modern French Translation, Commentaries.</li>
+<li><a rel="nofollow" class="external text" href="http://www.liverpoolmuseums.org.uk/ladylever/collections/merlin.asp"><i>The Beguiling of Merlin</i></a>. <a href="/wiki/Edward_Burne-Jones" title="Edward Burne-Jones">Edward Burne-Jones</a>, Liverpool Museums</li>
+<li><a rel="nofollow" class="external text" href="http://www.lib.rochester.edu/camelot/merlmenu.htm">Merlin: Texts, Images, Basic Information</a>, Camelot Project at the University of Rochester. (Numerous further texts and art concerning Merlin.)</li>
+<li><a rel="nofollow" class="external text" href="http://www.merlintheopera.com"><i>Merlin</i>&#160;: Opera by Ezequiel Viñao with a Libretto by Caleb Carr</a>, (Words and Music. Excerpts from the opera)</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Arthurian_Legend" title="Template:Arthurian Legend"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Arthurian_Legend" title="Template talk:Arthurian Legend"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Arthurian_Legend&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/King_Arthur" title="King Arthur">King Arthur</a> and the <a href="/wiki/Matter_of_Britain" title="Matter of Britain">Matter of Britain</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/List_of_Arthurian_characters" title="List of Arthurian characters">Key people</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/King_Arthur" title="King Arthur">King Arthur</a></li>
+<li><a href="/wiki/Constantine_(Briton)" title="Constantine (Briton)">Constantine</a></li>
+<li><a href="/wiki/Sir_Ector" title="Sir Ector">Sir Ector</a></li>
+<li><a href="/wiki/Gorlois" title="Gorlois">Gorlois</a></li>
+<li><a href="/wiki/Guinevere" title="Guinevere">Queen Guinevere</a></li>
+<li><a href="/wiki/Igraine" title="Igraine">Igraine</a></li>
+<li><a href="/wiki/Iseult" title="Iseult">Iseult</a></li>
+<li><a href="/wiki/Lady_of_the_Lake" title="Lady of the Lake">Lady of the Lake</a></li>
+<li><a href="/wiki/King_Lot" title="King Lot">King Lot</a></li>
+<li><a href="/wiki/Mark_of_Cornwall" title="Mark of Cornwall">King Mark</a></li>
+<li><strong class="selflink">Merlin</strong></li>
+<li><a href="/wiki/Mordred" title="Mordred">Mordred</a></li>
+<li><a href="/wiki/Morgan_le_Fay" title="Morgan le Fay">Morgan le Fay</a></li>
+<li><a href="/wiki/Morgause" title="Morgause">Morgause</a></li>
+<li><a href="/wiki/Uther_Pendragon" title="Uther Pendragon">Uther Pendragon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Round_Table" title="Round Table">Knights of the<br />
+Round Table</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agravain" title="Agravain">Agravain</a></li>
+<li><a href="/wiki/Bagdemagus" title="Bagdemagus">Bagdemagus</a></li>
+<li><a href="/wiki/Bedivere" title="Bedivere">Bedivere</a></li>
+<li><a href="/wiki/Bors" title="Bors">Bors</a></li>
+<li><a href="/wiki/Sir_Breunor" title="Sir Breunor">Breunor (La Cote Mal Taillée)</a></li>
+<li><a href="/wiki/Calogrenant" title="Calogrenant">Calogrenant</a></li>
+<li><a href="/wiki/Caradoc" title="Caradoc">Caradoc</a></li>
+<li><a href="/wiki/Dagonet" title="Dagonet">Dagonet</a></li>
+<li><a href="/wiki/Dinadan" title="Dinadan">Dinadan</a></li>
+<li><a href="/wiki/Gaheris" title="Gaheris">Gaheris</a></li>
+<li><a href="/wiki/Galahad" title="Galahad">Galahad</a></li>
+<li><a href="/wiki/Gareth" title="Gareth">Gareth</a></li>
+<li><a href="/wiki/Gawain" title="Gawain">Gawain</a></li>
+<li><a href="/wiki/Geraint" title="Geraint">Geraint</a></li>
+<li><a href="/wiki/Griflet" title="Griflet">Griflet</a></li>
+<li><a href="/wiki/Hector_de_Maris" title="Hector de Maris">Hector de Maris</a></li>
+<li><a href="/wiki/Sir_Kay" title="Sir Kay">Kay</a></li>
+<li><a href="/wiki/Lamorak" title="Lamorak">Lamorak</a></li>
+<li><a href="/wiki/Lancelot" title="Lancelot">Lancelot</a></li>
+<li><a href="/wiki/Leodegrance" title="Leodegrance">Leodegrance</a></li>
+<li><a href="/wiki/Sir_Lionel" title="Sir Lionel">Lionel</a></li>
+<li><a href="/wiki/Sir_Lucan" title="Sir Lucan">Lucan</a></li>
+<li><a href="/wiki/Maleagant" title="Maleagant">Maleagant</a></li>
+<li><a href="/wiki/Morholt" title="Morholt">Marhaus</a></li>
+<li><a href="/wiki/Palamedes_(Arthurian_legend)" title="Palamedes (Arthurian legend)">Palamedes</a></li>
+<li><a href="/wiki/Pelleas" title="Pelleas">Pelleas</a></li>
+<li><a href="/wiki/Pellinore" title="Pellinore">Pellinore</a></li>
+<li><a href="/wiki/Percival" title="Percival">Percival</a></li>
+<li><a href="/wiki/Safir_(Arthurian_legend)" title="Safir (Arthurian legend)">Safir</a></li>
+<li><a href="/wiki/Sagramore" title="Sagramore">Sagramore</a></li>
+<li><a href="/wiki/Segwarides" title="Segwarides">Segwarides</a></li>
+<li><a href="/wiki/Sir_Tor" title="Sir Tor">Tor</a></li>
+<li><a href="/wiki/Tristan" title="Tristan">Tristan</a></li>
+<li><a href="/wiki/Urien" title="Urien">Uriens</a></li>
+<li><a href="/wiki/Ywain" title="Ywain">Ywain</a></li>
+<li><a href="/wiki/Ywain_the_Bastard" title="Ywain the Bastard">Ywain the Bastard</a></li>
+<li><a href="/wiki/Elyan_the_White" title="Elyan the White">Elyan the White</a></li>
+<li><a href="/wiki/Sir_Ector" title="Sir Ector">Sir Ector</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Objects</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Excalibur" title="Excalibur">Excalibur</a></li>
+<li><a href="/wiki/Holy_Grail" title="Holy Grail">Holy Grail</a></li>
+<li><a href="/wiki/Round_Table" title="Round Table">Round Table</a></li>
+<li><a href="/wiki/Siege_Perilous" title="Siege Perilous">Siege Perilous</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Sites_and_places_associated_with_Arthurian_legend" title="Sites and places associated with Arthurian legend">Places</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Avalon" title="Avalon">Avalon</a></li>
+<li><a href="/wiki/Broc%C3%A9liande" title="Brocéliande">Brocéliande</a></li>
+<li><a href="/wiki/Caerleon" title="Caerleon">Caerleon</a></li>
+<li><a href="/wiki/Camelot" title="Camelot">Camelot</a></li>
+<li><a href="/wiki/Corbenic" title="Corbenic">Corbenic</a></li>
+<li><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></li>
+<li><a href="/wiki/Logres" title="Logres">Logres</a></li>
+<li><a href="/wiki/Lyonesse" title="Lyonesse">Lyonesse</a></li>
+<li><a href="/wiki/Sarras" title="Sarras">Sarras</a></li>
+<li><a href="/wiki/Tintagel" title="Tintagel">Tintagel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/King_Arthur_in_various_media" title="King Arthur in various media" class="mw-redirect">In media</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_books_about_King_Arthur" title="List of books about King Arthur">Books</a></li>
+<li><a href="/wiki/List_of_films_based_on_Arthurian_legend" title="List of films based on Arthurian legend">Films</a></li>
+<li><a href="/wiki/King_Arthur_in_various_media" title="King Arthur in various media" class="mw-redirect">Various media</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Other</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sir_Balin" title="Sir Balin">Sir Balin</a></li>
+<li><a href="/wiki/Sir_Balan" title="Sir Balan">Sir Balan</a></li>
+<li><a href="/wiki/Dolorous_Stroke" title="Dolorous Stroke">Dolorous Stroke</a></li>
+<li><a href="/wiki/Elaine_of_Astolat" title="Elaine of Astolat">Elaine of Astolat</a></li>
+<li><a href="/wiki/Elaine_of_Corbenic" title="Elaine of Corbenic">Elaine of Corbenic</a></li>
+<li><a href="/wiki/Fisher_King" title="Fisher King">Fisher King</a></li>
+<li><a href="/wiki/Green_Knight" title="Green Knight">Green Knight</a></li>
+<li><a href="/wiki/Red_Knight" title="Red Knight">Red Knight</a></li>
+<li><a href="/wiki/Dindrane" title="Dindrane">Dindrane</a></li>
+<li><a href="/wiki/Hellawes_(sorceress)" title="Hellawes (sorceress)">Hellawes</a></li>
+<li><a href="/wiki/King_Arthur%27s_messianic_return" title="King Arthur's messianic return">King Arthur's messianic return</a></li>
+<li><a href="/wiki/King_Arthur%27s_family" title="King Arthur's family">King Arthur's family</a></li>
+<li><a href="/wiki/Historical_basis_for_King_Arthur" title="Historical basis for King Arthur">Historical basis for King Arthur</a></li>
+<li><a href="/wiki/Claudas" title="Claudas">Claudas</a></li>
+<li><a href="/wiki/Lucius_Tiberius" title="Lucius Tiberius">Emperor Lucius</a></li>
+<li><a href="/wiki/Questing_Beast" title="Questing Beast">Questing Beast</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-no-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 6692/1000000
+Preprocessor generated node count: 37544/1500000
+Post-expand include size: 52666/2048000 bytes
+Template argument size: 18536/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 4/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20807-0!*!0!!en!4!* and timestamp 20121105120225 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Merlin&amp;oldid=521500308">http://en.wikipedia.org/w/index.php?title=Merlin&amp;oldid=521500308</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Arthurian_characters" title="Category:Arthurian characters">Arthurian characters</a></li><li><a href="/wiki/Category:Fictional_immortals" title="Category:Fictional immortals">Fictional immortals</a></li><li><a href="/wiki/Category:Fictional_prophets" title="Category:Fictional prophets">Fictional prophets</a></li><li><a href="/wiki/Category:Fictional_wizards" title="Category:Fictional wizards">Fictional wizards</a></li><li><a href="/wiki/Category:Literary_archetypes_by_name" title="Category:Literary archetypes by name">Literary archetypes by name</a></li><li><a href="/wiki/Category:Medieval_legends" title="Category:Medieval legends">Medieval legends</a></li><li><a href="/wiki/Category:Welsh_mythology" title="Category:Welsh mythology">Welsh mythology</a></li><li><a href="/wiki/Category:Holy_Grail" title="Category:Holy Grail">Holy Grail</a></li><li><a href="/wiki/Category:Legendary_people" title="Category:Legendary people">Legendary people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Welsh_language_text" title="Category:Articles containing Welsh language text">Articles containing Welsh language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2011" title="Category:Articles with unsourced statements from November 2011">Articles with unsourced statements from November 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2012" title="Category:Articles with unsourced statements from February 2012">Articles with unsourced statements from February 2012</a></li><li><a href="/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Merlin&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Merlin" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Merlin"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Merlin"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Merlin" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Merlin&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Merlin&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Merlin" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Merlin" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Merlin&amp;oldid=521500308" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Merlin&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Merlin&amp;id=521500308" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Merlin" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Merlin&amp;oldid=521500308&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Merlin&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%84%D9%8A%D9%86" title="مرلين" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BB%D0%B8%D0%BD" title="Мерлин" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Merzhin" title="Merzhin" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Merl%C3%AD" title="Merlí" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Merlin" title="Merlin" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Myrddin" title="Myrddin" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Merlin" title="Merlin" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Merlin" title="Merlin" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Merlin" title="Merlin" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9C%CE%AD%CF%81%CE%BB%CE%B9%CE%BD_%CE%BF_%CE%9C%CE%AC%CE%B3%CE%BF%CF%82" title="Μέρλιν ο Μάγος" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Merl%C3%ADn" title="Merlín" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Merlin_(mitologio)" title="Merlin (mitologio)" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Merlin" title="Merlin" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%84%DB%8C%D9%86" title="مرلین" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Merlin_(magicien)" title="Merlin (magicien)" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Merl%C3%ADn" title="Merlín" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A9%80%EB%A6%B0" title="멀린" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Merlin_(%C4%8Darobnjak)" title="Merlin (čarobnjak)" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Merlin" title="Merlin" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Mago_Merlino" title="Mago Merlino" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%9C%D7%99%D7%9F" title="מרלין" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Merlinus" title="Merlinus" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Merlin" title="Merlin" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Merlin" title="Merlin" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Merlijn_(mythologie)" title="Merlijn (mythologie)" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%AA%E3%83%B3" title="マーリン" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Merlin" title="Merlin" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%85%D8%B1%D9%84%D9%86" title="مرلن" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Merlin" title="Merlin" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Merlin" title="Merlin" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Merlin" title="Merlin" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BB%D0%B8%D0%BD" title="Мерлин" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Merlin" title="Merlin" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Merlin" title="Merlin" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Merlin" title="Merlin" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Merlin" title="Merlin" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B4%E0%B8%99" title="เมอร์ลิน" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Merlin" title="Merlin" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BB%D1%96%D0%BD" title="Мерлін" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%A2%85%E6%9E%97_(%E4%BA%9E%E7%91%9F%E7%8E%8B%E5%82%B3%E8%AA%AA)" title="梅林 (亞瑟王傳說)" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 November 2012 at 12:02.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Merlin&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw46 in 0.176 secs. -->
+	</body>
+</html>

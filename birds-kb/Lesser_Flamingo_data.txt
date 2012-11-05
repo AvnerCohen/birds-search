@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Lesser Flamingo - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lesser_Flamingo&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lesser_Flamingo&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lesser_Flamingo","wgTitle":"Lesser Flamingo","wgCurRevisionId":519987983,"wgArticleId":286374,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List near threatened species","Articles with \'species\' microformats","Phoenicopteridae","Flamingos","Birds of Africa","Birds of Pakistan","Birds of India","Birds of Tanzania","Birds of Oman","Birds of Yemen","Birds of Iran","Birds of Afghanistan","Birds of Mauritania","Birds of the Gambia","Birds of Senegal","Birds of Guinea","Birds of Sierra Leone","Birds of Liberia","Birds of Guinea-Bissau","Birds of Ghana","Birds of Togo","Birds of Benin","Birds of Nigeria","Birds of Niger","Birds of Chad","Birds of Cameroon","Birds of Egypt","Birds of Ethiopia","Birds of Eritrea","Birds of Sudan","Birds of Djibouti","Birds of Somalia","Birds of Kenya","Birds of Burundi","Birds of Rwanda","Birds of Malawi","Birds of Mozambique","Birds of Zambia","Birds of Zimbabwe","Birds of Swaziland","Birds of Lesotho","Birds of South Africa","Birds of Namibia","Birds of Botswana","Birds of Angola","Birds of the Republic of the Congo","Birds of Gabon","Birds of Madagascar","Articles containing video clips","Birds of the Democratic Republic of the Congo","Birds of Ivory Coast"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lesser_Flamingo","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"760cdb63718220082d536b909fc7ae29","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":286374,"title":"Lesser Flamingo","namespace":0,"categories":["Articles containing video clips","Articles with \'species\' microformats","Birds of Afghanistan","Birds of Africa","Birds of Angola","Birds of Benin","Birds of Botswana","Birds of Burundi","Birds of Cameroon","Birds of Chad","Birds of Djibouti","Birds of Egypt","Birds of Eritrea","Birds of Ethiopia","Birds of Gabon","Birds of Ghana","Birds of Guinea","Birds of Guinea-Bissau","Birds of India","Birds of Iran","Birds of Ivory Coast","Birds of Kenya","Birds of Lesotho","Birds of Liberia","Birds of Madagascar","Birds of Malawi","Birds of Mauritania","Birds of Mozambique","Birds of Namibia","Birds of Niger","Birds of Nigeria","Birds of Oman","Birds of Pakistan","Birds of Rwanda","Birds of Senegal","Birds of Sierra Leone","Birds of Somalia","Birds of South Africa","Birds of Sudan","Birds of Swaziland","Birds of Tanzania","Birds of Togo","Birds of Yemen","Birds of Zambia","Birds of Zimbabwe","Birds of the Democratic Republic of the Congo","Birds of the Gambia","Birds of the Republic of the Congo","Flamingos","IUCN Red List near threatened species","Phoenicopteridae"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/OggPlayer.js?12"></script><script>
+wgOggPlayer.msg = {"ogg-play":"Play","ogg-pause":"Pause","ogg-stop":"Stop","ogg-no-player":"Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.","ogg-player-videoElement":"Native browser support","ogg-player-oggPlugin":"Browser plugin","ogg-player-cortado":"Cortado (Java)","ogg-player-vlc-mozilla":"VLC","ogg-player-vlc-activex":"VLC (ActiveX)","ogg-player-quicktime-mozilla":"QuickTime","ogg-player-quicktime-activex":"QuickTime (ActiveX)","ogg-player-totem":"Totem","ogg-player-kaffeine":"Kaffeine","ogg-player-kmplayer":"KMPlayer","ogg-player-mplayerplug-in":"mplayerplug-in","ogg-player-thumbnail":"Still image only","ogg-player-selected":"(selected)","ogg-use-player":"Use player:","ogg-more":"More…","ogg-download":"Download file","ogg-desc-link":"About this file","ogg-dismiss":"Close","ogg-player-soundthumb":"No player","ogg-no-xiphqt":"You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
+wgOggPlayer.cortadoUrl = "http://bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/cortado-ovt-stripped-0.6.0.jar";
+wgOggPlayer.extPathUrl = "//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler";
+</script><style>
+.ogg-player-options {
+	border: solid 1px #ccc;
+	padding: 2pt;
+	text-align: left;
+	font-size: 10pt;
+}
+
+.center .ogg-player-options ul {
+	margin: 0.3em 0px 0px 1.5em;
+}
+</style><script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lesser_Flamingo skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Lesser Flamingo</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Lesser Flamingo</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Lesser-flamingos.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lesser-flamingos.jpg/220px-Lesser-flamingos.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lesser-flamingos.jpg/330px-Lesser-flamingos.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lesser-flamingos.jpg/440px-Lesser-flamingos.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/220px-Status_iucn3.1_NT.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/330px-Status_iucn3.1_NT.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/440px-Status_iucn3.1_NT.svg.png 2x" /><br />
+<a href="/wiki/Near_Threatened" title="Near Threatened">Near Threatened</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Phoenicopteriformes" title="Phoenicopteriformes" class="mw-redirect">Phoenicopteriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Phoenicopteridae" title="Phoenicopteridae" class="mw-redirect">Phoenicopteridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Phoenicopterus" title="Phoenicopterus" class="mw-redirect">Phoenicopterus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. minor</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Phoenicopterus minor</i></span></b><br />
+<small><a href="/wiki/%C3%89tienne_Geoffroy_Saint-Hilaire" title="Étienne Geoffroy Saint-Hilaire">Geoffroy Saint-Hilaire</a>, 1798</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Phoeniconaias_minor_distr_map.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Phoeniconaias_minor_distr_map.png/220px-Phoeniconaias_minor_distr_map.png" width="220" height="170" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Phoeniconaias_minor_distr_map.png/330px-Phoeniconaias_minor_distr_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Phoeniconaias_minor_distr_map.png/440px-Phoeniconaias_minor_distr_map.png 2x" /></a></td>
+</tr>
+</table>
+</div>
+<p>The <b>Lesser Flamingo</b> (<i>Phoenicopterus minor</i>) is a species of <a href="/wiki/Flamingo" title="Flamingo">flamingo</a> occurring in <a href="/wiki/Sub-Saharan" title="Sub-Saharan" class="mw-redirect">sub-Saharan</a> <a href="/wiki/Africa" title="Africa">Africa</a> with another population in India. Birds are occasionally reported from further north, but these are generally considered vagrants.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics"><span class="tocnumber">1</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Threats"><span class="tocnumber">2</span> <span class="toctext">Threats</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Breeding"><span class="tocnumber">3</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Conservation"><span class="tocnumber">4</span> <span class="toctext">Conservation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Media"><span class="tocnumber">5</span> <span class="toctext">Media</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Flamingo&amp;action=edit&amp;section=1" title="Edit section: Characteristics">edit</a>]</span> <span class="mw-headline" id="Characteristics">Characteristics</span></h2>
+<p>The Lesser Flamingo is the smallest species of flamingo, though it is a tall and largish bird by most standards. The species can weigh from 1.2 to 2.7 kg (2.6 to 6.0 lb).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> The standing height is around 80 to 90 cm (31 to 35 in).<sup id="cite_ref-Seaworld_2-0" class="reference"><a href="#cite_note-Seaworld-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> The total length (from <a href="/wiki/Beak" title="Beak">beak</a> to tail) and wingspan are in the same range of measurements, from 90 to 105 cm (35 to 41 in).<sup id="cite_ref-Seaworld_2-1" class="reference"><a href="#cite_note-Seaworld-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lesser_Flamingos_I3_IMG_9297.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lesser_Flamingos_I3_IMG_9297.jpg/220px-Lesser_Flamingos_I3_IMG_9297.jpg" width="220" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lesser_Flamingos_I3_IMG_9297.jpg/330px-Lesser_Flamingos_I3_IMG_9297.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lesser_Flamingos_I3_IMG_9297.jpg/440px-Lesser_Flamingos_I3_IMG_9297.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lesser_Flamingos_I3_IMG_9297.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In <a href="/wiki/Chilika" title="Chilika" class="mw-redirect">Chilika</a>, <a href="/wiki/Orissa" title="Orissa">Orissa</a>, <a href="/wiki/India" title="India">India</a>.</div>
+</div>
+</div>
+<p>Most of the plumage is pinkish white. The clearest difference between this species and the <a href="/wiki/Greater_Flamingo" title="Greater Flamingo">Greater Flamingo</a>, the only other Old World species of flamingo, is the much more extensive black on the bill. Size is less helpful unless the species are together, since the sexes of each species also differ in height.</p>
+<p>The Lesser Flamingo may be the most numerous species of flamingo, with a population that (at its peak) probably numbers up to two million individual birds. This species feeds primarily on <i><a href="/wiki/Spirulina_(dietary_supplement)" title="Spirulina (dietary supplement)">Spirulina</a></i>, algae which grow only in very alkaline lakes. Although blue-green in colour, the algae contain the <a href="/wiki/Photosynthetic_pigment" title="Photosynthetic pigment">photosynthetic pigments</a> that give the birds their pink colour. Their deep bill is specialised for filtering tiny food items. The lesser flamingo also feeds on shrimp.</p>
+<p>Lesser Flamingos are prey to a variety of species, including <a href="/wiki/Marabou_Stork" title="Marabou Stork">Marabou Storks</a>, <a href="/wiki/Baboon" title="Baboon">Baboons</a>, <a href="/wiki/African_Fish_Eagle" title="African Fish Eagle">African Fish Eagles</a> and Wildcats.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Flamingo&amp;action=edit&amp;section=2" title="Edit section: Threats">edit</a>]</span> <span class="mw-headline" id="Threats">Threats</span></h2>
+<p>In the Rann of Kutch salt marsh of India and Pakistan, Greater Flamingos are occasionally electrocuted when they sit on 1000 watt electric cables near their breeding areas. Recently 49 deaths were officially recorded in the region.</p>
+<p>People are killing them for food in the salt marshes Rann of Kutch in India and Pakistan.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Flamingo&amp;action=edit&amp;section=3" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h2>
+<p>In <a href="/wiki/Africa" title="Africa">Africa</a>, where they are most numerous, the Lesser Flamingos breed principally on the highly <a href="/wiki/Corrosive_substance" title="Corrosive substance">caustic</a> <a href="/wiki/Lake_Natron" title="Lake Natron">Lake Natron</a> in northern <a href="/wiki/Tanzania" title="Tanzania">Tanzania</a>. Their other African breeding sites are at <a href="/wiki/Etosha_Pan" title="Etosha Pan" class="mw-redirect">Etosha Pan</a>, <a href="/wiki/Makgadikgadi_Pan" title="Makgadikgadi Pan">Sua Pan</a> and <a href="/wiki/Kamfers_Dam" title="Kamfers Dam">Kamfers Dam</a>. The last confirmed breeding at <a href="/w/index.php?title=Aftout_es_Saheli&amp;action=edit&amp;redlink=1" class="new" title="Aftout es Saheli (page does not exist)">Aftout es Saheli</a> in coastal <a href="/wiki/Mauritania" title="Mauritania">Mauritania</a> was in 1965. Breeding occurred at <a href="/wiki/Lake_Magadi" title="Lake Magadi">Lake Magadi</a> in <a href="/wiki/Kenya" title="Kenya">Kenya</a> in 1962 when Lake Natron was unsuitable due to flooding. In the early 20th century, breeding was also observed at <a href="/wiki/Lake_Nakuru" title="Lake Nakuru">Lake Nakuru</a>.<sup id="cite_ref-ABB_5-0" class="reference"><a href="#cite_note-ABB-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The species also breeds in southwestern and southern <a href="/wiki/Asia" title="Asia">Asia</a>. In 1974, they bred at the <a href="/wiki/Rann_of_Kutch" title="Rann of Kutch">Rann of Kutch</a>, but since then only at the <a href="/w/index.php?title=Zinzuwadia&amp;action=edit&amp;redlink=1" class="new" title="Zinzuwadia (page does not exist)">Zinzuwadia</a> and <a href="/w/index.php?title=Purabcheria&amp;action=edit&amp;redlink=1" class="new" title="Purabcheria (page does not exist)">Purabcheria</a> salt pans in north-western <a href="/wiki/India" title="India">India</a>.<sup id="cite_ref-ABB_5-1" class="reference"><a href="#cite_note-ABB-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>Like all flamingos, they lay a single chalky white egg on a mound they build of mud. Chicks join creches soon after hatching, sometimes numbering over a hundred thousand individuals. The creches are marshalled by a few adult birds who lead them by foot to fresh water, a journey that can reach over 20 miles (32&#160;km).</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Flamingo&amp;action=edit&amp;section=4" title="Edit section: Conservation">edit</a>]</span> <span class="mw-headline" id="Conservation">Conservation</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phoenicopterus_minor_-Lake_Bogoria,_Kenya-8a.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Phoenicopterus_minor_-Lake_Bogoria%2C_Kenya-8a.jpg/220px-Phoenicopterus_minor_-Lake_Bogoria%2C_Kenya-8a.jpg" width="220" height="148" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Phoenicopterus_minor_-Lake_Bogoria%2C_Kenya-8a.jpg/330px-Phoenicopterus_minor_-Lake_Bogoria%2C_Kenya-8a.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Phoenicopterus_minor_-Lake_Bogoria%2C_Kenya-8a.jpg/440px-Phoenicopterus_minor_-Lake_Bogoria%2C_Kenya-8a.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phoenicopterus_minor_-Lake_Bogoria,_Kenya-8a.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A huge flock of Lesser Flamingoes at <a href="/wiki/Lake_Bogoria" title="Lake Bogoria">Lake Bogoria</a>, Kenya</div>
+</div>
+</div>
+<p>Despite being the most numerous species of flamingo, it is classified as near-<a href="/wiki/Threatened" title="Threatened" class="mw-redirect">threatened</a> due to its declining population and the low number of breeding sites, some of which are threatened by human activities.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>The population in the two key east African lakes, <a href="/wiki/Lake_Nakuru" title="Lake Nakuru">Nakuru</a> and <a href="/wiki/Lake_Bogoria" title="Lake Bogoria">Bogoria</a>, have been adversely affected in recent years by suspected <a href="/wiki/Heavy_metals" title="Heavy metals" class="mw-redirect">heavy metal</a> <a href="/wiki/Poison" title="Poison">poisoning</a>, while its primary African breeding area in <a href="/wiki/Lake_Natron" title="Lake Natron">Lake Natron</a> is currently under threat by a proposed soda ash plant by <a href="/wiki/Tata_Chemicals" title="Tata Chemicals">Tata Chemicals</a>.<sup id="cite_ref-ABB2_7-0" class="reference"><a href="#cite_note-ABB2-7"><span>[</span>8<span>]</span></a></sup> The only breeding site in South Africa, situated at <a href="/wiki/Kamfers_Dam" title="Kamfers Dam">Kamfers Dam</a>, is threatened by pollution and encroaching development.<sup id="cite_ref-MG_8-0" class="reference"><a href="#cite_note-MG-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>The Lesser Flamingo is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Flamingo&amp;action=edit&amp;section=5" title="Edit section: Media">edit</a>]</span> <span class="mw-headline" id="Media">Media</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Lesser_Flamingos_I_-_Chilika_IMG_9298.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Lesser_Flamingos_I_-_Chilika_IMG_9298.jpg/120px-Lesser_Flamingos_I_-_Chilika_IMG_9298.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In <a href="/wiki/Chilika" title="Chilika" class="mw-redirect">Chilika</a>, <a href="/wiki/Orissa" title="Orissa">Orissa</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:39.5px auto;"><a href="/wiki/File:Lesser_Flamingos_I3_-_Chilika_IMG_9295.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lesser_Flamingos_I3_-_Chilika_IMG_9295.jpg/120px-Lesser_Flamingos_I3_-_Chilika_IMG_9295.jpg" width="120" height="71" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In <a href="/wiki/Chilika" title="Chilika" class="mw-redirect">Chilika</a>, <a href="/wiki/Orissa" title="Orissa">Orissa</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:39px auto;"><a href="/wiki/File:Lesser_Flamingoes_I_IMG_9294.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lesser_Flamingoes_I_IMG_9294.jpg/120px-Lesser_Flamingoes_I_IMG_9294.jpg" width="120" height="72" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In <a href="/wiki/Chilika" title="Chilika" class="mw-redirect">Chilika</a>, <a href="/wiki/Orissa" title="Orissa">Orissa</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Phoeniconaias_minor.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Phoeniconaias_minor.jpg/97px-Phoeniconaias_minor.jpg" width="97" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>At <a href="/wiki/Disney%27s_Animal_Kingdom" title="Disney's Animal Kingdom">Disney's Animal Kingdom</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Flamingo00.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flamingo00.jpg/86px-Flamingo00.jpg" width="86" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A painting by <a href="/wiki/C._G._Finch-Davies" title="C. G. Finch-Davies">C. G. Finch-Davies</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Phoeniconaias_minor3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Phoeniconaias_minor3.jpg/120px-Phoeniconaias_minor3.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Lake_Nakuru" title="Lake Nakuru">Lake Nakuru</a>, <a href="/wiki/Kenya" title="Kenya">Kenya</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;">
+<div id="ogg_player_3">
+<div><a href="/wiki/File:Phoeniconaias_minor.ogg" class="image" title="Phoeniconaias minor.ogg"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Phoeniconaias_minor.ogg/mid-Phoeniconaias_minor.ogg.jpg" width="90" height="120" alt="" /></a></div>
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_3&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/a/a9/Phoeniconaias_minor.ogg&quot;,&quot;width&quot;:90,&quot;height&quot;:120,&quot;length&quot;:8.5,&quot;linkUrl&quot;:&quot;/wiki/File:Phoeniconaias_minor.ogg&quot;,&quot;isVideo&quot;:true});" style="width: 90px; text-align: center" title="Play video"><img src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/play.png" width="22" height="22" alt="Play video" /></button></div>
+</div>
+</div>
+</div>
+<div class="gallerytext">
+<p>Video taken at <a href="/wiki/Disney%27s_Animal_Kingdom" title="Disney's Animal Kingdom">Disney's Animal Kingdom</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Lesser_Flamingos,_2000_adults,_Kamfersdam.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lesser_Flamingos%2C_2000_adults%2C_Kamfersdam.jpg/120px-Lesser_Flamingos%2C_2000_adults%2C_Kamfersdam.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Breeding colony at <a href="/wiki/Kamfers_Dam" title="Kamfers Dam">Kamfers Dam</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Flamingo&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003771">"<i>Phoeniconaias minor</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003771">http://www.iucnredlist.org/apps/redlist/details/106003771</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Phoeniconaias+minor%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003771&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Flamingo"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.arkive.org/lesser-flamingo/phoeniconaias-minor/#text=Facts">[1]</a></span></li>
+<li id="cite_note-Seaworld-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Seaworld_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Seaworld_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.seaworld.org/animal-info/info-books/flamingo/physical-characteristics.htm">[2]</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.sandiegozoo.org/animalbytes/t-flamingo.html">[3]</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation book">Ali, S. (1993). <i>The Book of Indian Birds</i>. Bombay: Bombay Natural History Society. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-149-563731-3" title="Special:BookSources/0-149-563731-3">0-149-563731-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Book+of+Indian+Birds&amp;rft.aulast=Ali%2C+S.&amp;rft.au=Ali%2C+S.&amp;rft.date=1993&amp;rft.place=Bombay&amp;rft.pub=Bombay+Natural+History+Society&amp;rft.isbn=0-149-563731-3&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Flamingo"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-ABB-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-ABB_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ABB_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">"A Vision in Pink, Lesser Flamingo Breeding Success". <i>Africa - Birds &amp; Birding</i> <b>13</b> (2): 42–49. April/May 2008.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+Vision+in+Pink%2C+Lesser+Flamingo+Breeding+Success&amp;rft.jtitle=Africa+-+Birds+%26+Birding&amp;rft.date=April%2FMay+2008&amp;rft.volume=13&amp;rft.issue=2&amp;rft.pages=42%E2%80%9349&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Flamingo"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web">Anderson, Mark D. <a rel="nofollow" class="external text" href="http://www.savetheflamingo.co.za/">"Save the Flamingo"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.savetheflamingo.co.za/">http://www.savetheflamingo.co.za/</a></span><span class="reference-accessdate">. Retrieved 2008-08-20</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Save+the+Flamingo&amp;rft.atitle=&amp;rft.aulast=Anderson&amp;rft.aufirst=Mark+D&amp;rft.au=Anderson%2C%26%2332%3BMark+D&amp;rft_id=http%3A%2F%2Fwww.savetheflamingo.co.za%2F&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Flamingo"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-ABB2-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ABB2_7-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">"TA-TA to Lake Natron's flamingos". <i>Africa - Birds &amp; Birding</i> <b>12</b> (4): 16. August/September 2007.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=TA-TA+to+Lake+Natron%27s+flamingos&amp;rft.jtitle=Africa+-+Birds+%26+Birding&amp;rft.date=August%2FSeptember+2007&amp;rft.volume=12&amp;rft.issue=4&amp;rft.pages=16&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Flamingo"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-MG-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-MG_8-0">^</a></b></span> <span class="reference-text"><span class="citation news">Macleod, Fiona (20 August 2008). <a rel="nofollow" class="external text" href="http://www.mg.co.za/article/2008-08-20-flamingo-row-officials-under-house-arrest">"Flamingo row: Officials 'under house arrest'"</a>. Mail&amp;Guardian<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.mg.co.za/article/2008-08-20-flamingo-row-officials-under-house-arrest">http://www.mg.co.za/article/2008-08-20-flamingo-row-officials-under-house-arrest</a></span><span class="reference-accessdate">. Retrieved 2008-08-20</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Flamingo+row%3A+Officials+%27under+house+arrest%27&amp;rft.atitle=&amp;rft.aulast=Macleod&amp;rft.aufirst=Fiona&amp;rft.au=Macleod%2C%26%2332%3BFiona&amp;rft.date=20+August+2008&amp;rft.pub=Mail%26Guardian&amp;rft_id=http%3A%2F%2Fwww.mg.co.za%2Farticle%2F2008-08-20-flamingo-row-officials-under-house-arrest&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Flamingo"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Flamingo&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Phoenicopterus_minor" class="extiw" title="commons:Phoenicopterus minor">Lesser Flamingo (<i>Phoenicopterus minor</i>)</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.flamingo-sg.org/en/species/phoeniconaias-minor">Lesser Flamingo</a> from the IUCN/Wetlands International Flamingo Specialist Group</li>
+<li><a rel="nofollow" class="external text" href="http://www.flamingoresources.org/">Flamingo Resource Centre</a> - a collection of resources and information related to flamingos</li>
+<li>ARKive - <a rel="nofollow" class="external text" href="http://www.arkive.org/species/GES/birds/Phoenicopterus_minor/">Images and movies of the lesser flamingo <i>(Phoenicopterus minor)</i></a></li>
+<li>Lesser Flamingo - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/097.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+<li>Save the Flamingo - <a rel="nofollow" class="external text" href="http://www.savetheflamingo.co.za/">A site dedicated to the conservation of the South African breeding colony</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Flamingos" title="Template:Flamingos"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Flamingos" title="Template talk:Flamingos"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Flamingos&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Flamingo" title="Flamingo">Flamingos</a> (<a href="/wiki/Order_(biology)" title="Order (biology)">order</a>: Phoenicopteriformes · <a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Phoenicopteridae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Phoenicopterus</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/Species" title="Species">Species</a></b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Greater_Flamingo" title="Greater Flamingo">Greater Flamingo</a></li>
+<li><strong class="selflink">Lesser Flamingo</strong></li>
+<li><a href="/wiki/Chilean_Flamingo" title="Chilean Flamingo">Chilean Flamingo</a></li>
+<li><a href="/wiki/James%27s_Flamingo" title="James's Flamingo">James's Flamingo</a></li>
+<li><a href="/wiki/Andean_Flamingo" title="Andean Flamingo">Andean Flamingo</a></li>
+<li><a href="/wiki/American_Flamingo" title="American Flamingo">American Flamingo</a> (Caribbean Flamingo)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 9188/1000000
+Preprocessor generated node count: 56458/1500000
+Post-expand include size: 48054/2048000 bytes
+Template argument size: 15456/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:286374-0!*!0!!en!4!* and timestamp 20121026175744 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Lesser_Flamingo&amp;oldid=519987983">http://en.wikipedia.org/w/index.php?title=Lesser_Flamingo&amp;oldid=519987983</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_near_threatened_species" title="Category:IUCN Red List near threatened species">IUCN Red List near threatened species</a></li><li><a href="/wiki/Category:Phoenicopteridae" title="Category:Phoenicopteridae">Phoenicopteridae</a></li><li><a href="/wiki/Category:Flamingos" title="Category:Flamingos">Flamingos</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Tanzania" title="Category:Birds of Tanzania">Birds of Tanzania</a></li><li><a href="/wiki/Category:Birds_of_Oman" title="Category:Birds of Oman">Birds of Oman</a></li><li><a href="/wiki/Category:Birds_of_Yemen" title="Category:Birds of Yemen">Birds of Yemen</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Afghanistan" title="Category:Birds of Afghanistan">Birds of Afghanistan</a></li><li><a href="/wiki/Category:Birds_of_Mauritania" title="Category:Birds of Mauritania">Birds of Mauritania</a></li><li><a href="/wiki/Category:Birds_of_the_Gambia" title="Category:Birds of the Gambia">Birds of the Gambia</a></li><li><a href="/wiki/Category:Birds_of_Senegal" title="Category:Birds of Senegal">Birds of Senegal</a></li><li><a href="/wiki/Category:Birds_of_Guinea" title="Category:Birds of Guinea">Birds of Guinea</a></li><li><a href="/wiki/Category:Birds_of_Sierra_Leone" title="Category:Birds of Sierra Leone">Birds of Sierra Leone</a></li><li><a href="/wiki/Category:Birds_of_Liberia" title="Category:Birds of Liberia">Birds of Liberia</a></li><li><a href="/wiki/Category:Birds_of_Guinea-Bissau" title="Category:Birds of Guinea-Bissau">Birds of Guinea-Bissau</a></li><li><a href="/wiki/Category:Birds_of_Ghana" title="Category:Birds of Ghana">Birds of Ghana</a></li><li><a href="/wiki/Category:Birds_of_Togo" title="Category:Birds of Togo">Birds of Togo</a></li><li><a href="/wiki/Category:Birds_of_Benin" title="Category:Birds of Benin">Birds of Benin</a></li><li><a href="/wiki/Category:Birds_of_Nigeria" title="Category:Birds of Nigeria">Birds of Nigeria</a></li><li><a href="/wiki/Category:Birds_of_Niger" title="Category:Birds of Niger">Birds of Niger</a></li><li><a href="/wiki/Category:Birds_of_Chad" title="Category:Birds of Chad">Birds of Chad</a></li><li><a href="/wiki/Category:Birds_of_Cameroon" title="Category:Birds of Cameroon">Birds of Cameroon</a></li><li><a href="/wiki/Category:Birds_of_Egypt" title="Category:Birds of Egypt">Birds of Egypt</a></li><li><a href="/wiki/Category:Birds_of_Ethiopia" title="Category:Birds of Ethiopia">Birds of Ethiopia</a></li><li><a href="/wiki/Category:Birds_of_Eritrea" title="Category:Birds of Eritrea">Birds of Eritrea</a></li><li><a href="/wiki/Category:Birds_of_Sudan" title="Category:Birds of Sudan">Birds of Sudan</a></li><li><a href="/wiki/Category:Birds_of_Djibouti" title="Category:Birds of Djibouti">Birds of Djibouti</a></li><li><a href="/wiki/Category:Birds_of_Somalia" title="Category:Birds of Somalia">Birds of Somalia</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_Burundi" title="Category:Birds of Burundi">Birds of Burundi</a></li><li><a href="/wiki/Category:Birds_of_Rwanda" title="Category:Birds of Rwanda">Birds of Rwanda</a></li><li><a href="/wiki/Category:Birds_of_Malawi" title="Category:Birds of Malawi">Birds of Malawi</a></li><li><a href="/wiki/Category:Birds_of_Mozambique" title="Category:Birds of Mozambique">Birds of Mozambique</a></li><li><a href="/wiki/Category:Birds_of_Zambia" title="Category:Birds of Zambia">Birds of Zambia</a></li><li><a href="/wiki/Category:Birds_of_Zimbabwe" title="Category:Birds of Zimbabwe">Birds of Zimbabwe</a></li><li><a href="/wiki/Category:Birds_of_Swaziland" title="Category:Birds of Swaziland">Birds of Swaziland</a></li><li><a href="/wiki/Category:Birds_of_Lesotho" title="Category:Birds of Lesotho">Birds of Lesotho</a></li><li><a href="/wiki/Category:Birds_of_South_Africa" title="Category:Birds of South Africa">Birds of South Africa</a></li><li><a href="/wiki/Category:Birds_of_Namibia" title="Category:Birds of Namibia">Birds of Namibia</a></li><li><a href="/wiki/Category:Birds_of_Botswana" title="Category:Birds of Botswana">Birds of Botswana</a></li><li><a href="/wiki/Category:Birds_of_Angola" title="Category:Birds of Angola">Birds of Angola</a></li><li><a href="/wiki/Category:Birds_of_the_Republic_of_the_Congo" title="Category:Birds of the Republic of the Congo">Birds of the Republic of the Congo</a></li><li><a href="/wiki/Category:Birds_of_Gabon" title="Category:Birds of Gabon">Birds of Gabon</a></li><li><a href="/wiki/Category:Birds_of_Madagascar" title="Category:Birds of Madagascar">Birds of Madagascar</a></li><li><a href="/wiki/Category:Birds_of_the_Democratic_Republic_of_the_Congo" title="Category:Birds of the Democratic Republic of the Congo">Birds of the Democratic Republic of the Congo</a></li><li><a href="/wiki/Category:Birds_of_Ivory_Coast" title="Category:Birds of Ivory Coast">Birds of Ivory Coast</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lesser+Flamingo&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lesser+Flamingo" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Lesser_Flamingo"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Lesser_Flamingo"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Lesser_Flamingo" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Lesser_Flamingo&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lesser_Flamingo&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lesser_Flamingo" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lesser_Flamingo" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Lesser_Flamingo&amp;oldid=519987983" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Lesser_Flamingo&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Lesser_Flamingo&amp;id=519987983" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lesser+Flamingo" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Lesser+Flamingo&amp;oldid=519987983&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lesser_Flamingo&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Kleinflamink" title="Kleinflamink" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%AD%D8%A7%D9%85_%D8%A7%D9%84%D9%82%D8%B2%D9%85" title="النحام القزم" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Ki%C3%A7ik_q%C4%B1z%C4%B1lqaz" title="Kiçik qızılqaz" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Flammeg_bihan" title="Flammeg bihan" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Flamenc_menut" title="Flamenc menut" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Plame%C5%88%C3%A1k_mal%C3%BD" title="Plameňák malý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Zwergflamingo" title="Zwergflamingo" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Phoenicopterus_minor" title="Phoenicopterus minor" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Malgranda_flamengo" title="Malgranda flamengo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Phoeniconaias_minor" title="Phoeniconaias minor" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%81%D9%84%D8%A7%D9%85%DB%8C%D9%86%DA%AF%D9%88%DB%8C_%DA%A9%D9%88%DA%86%DA%A9%D8%AA%D8%B1" title="فلامینگوی کوچکتر" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Flamant_nain" title="Flamant nain" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Patuljasti_plamenac" title="Patuljasti plamenac" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Phoeniconaias_minor" title="Phoeniconaias minor" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A4%D7%9C%D7%9E%D7%99%D7%A0%D7%92%D7%95_%D7%96%D7%95%D7%98%D7%A8" title="פלמינגו זוטר" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Ma%C5%BEasis_flamingas" title="Mažasis flamingas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kis_flaming%C3%B3" title="Kis flamingó" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Phoeniconaias" title="Phoeniconaias" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B3%E3%83%95%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B4" title="コフラミンゴ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Dvergflamingo" title="Dvergflamingo" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%86%DA%A9%D8%A7_%D9%81%D9%84%DB%8C%D9%85%D9%86%DA%AF%D9%88" title="نکا فلیمنگو" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Flaming_ma%C5%82y" title="Flaming mały" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Flamingo-pequeno" title="Flamingo-pequeno" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%84%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B3%D0%BE" title="Малый фламинго" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Plameniak_men%C5%A1%C3%AD" title="Plameniak menší" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Mindre_flamingo" title="Mindre flamingo" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_flamingo" title="Küçük flamingo" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-udm"><a href="//udm.wikipedia.org/wiki/%D0%9F%D0%B8%D1%87%D0%B8_%D1%84%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B3%D0%BE" title="Пичи фламинго" lang="udm" hreflang="udm">Удмурт</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/H%E1%BB%93ng_h%E1%BA%A1c_nh%E1%BB%8F" title="Hồng hạc nhỏ" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B0%8F%E7%BA%A2%E9%B9%B3" title="小红鹳" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 October 2012 at 17:57.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Lesser_Flamingo&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw44 in 0.170 secs. -->
+	</body>
+</html>

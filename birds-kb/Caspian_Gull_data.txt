@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Caspian Gull - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Caspian_Gull&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Caspian_Gull&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Caspian_Gull","wgTitle":"Caspian Gull","wgCurRevisionId":520339106,"wgArticleId":376388,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Gulls","Larus","Birds of Turkey","Birds of Pakistan","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Caspian_Gull","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"b61e86d17de2ac7b37d44bd2466a2ed1","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":376388,"title":"Caspian Gull","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Pakistan","Birds of Turkey","Birds of Western Sahara","Gulls","IUCN Red List least concern species","Larus"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Caspian_Gull skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Caspian Gull</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">"Larus cachinnans" redirects here. For another species for which this name has been, see <a href="/wiki/Yellow-legged_Gull" title="Yellow-legged Gull">Yellow-legged Gull</a>.</div>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Caspian Gull</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Larus_cachinnans_3_(Marek_Szczepanek).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Larus_cachinnans_3_%28Marek_Szczepanek%29.jpg/240px-Larus_cachinnans_3_%28Marek_Szczepanek%29.jpg" width="240" height="154" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Larus_cachinnans_3_%28Marek_Szczepanek%29.jpg/360px-Larus_cachinnans_3_%28Marek_Szczepanek%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Larus_cachinnans_3_%28Marek_Szczepanek%29.jpg/480px-Larus_cachinnans_3_%28Marek_Szczepanek%29.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">adult Caspian Gull, Poland</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Laridae" title="Laridae" class="mw-redirect">Laridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Larus" title="Larus">Larus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>L. cachinnans</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Larus cachinnans</i></span></b><br />
+<small><a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1811, <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a></small></td>
+</tr>
+</table>
+</div>
+<p><b>Caspian Gull</b> is a <a href="/wiki/English_names_for_organisms" title="English names for organisms" class="mw-redirect">name</a> applied to the <a href="/wiki/Gull" title="Gull">gull</a> <a href="/wiki/Taxon" title="Taxon">taxon</a> <i>Larus (argentatus) cachinnans</i>, a member of the <a href="/wiki/European_Herring_Gull" title="European Herring Gull">Herring Gull</a>/<a href="/wiki/Lesser_Black-backed_Gull" title="Lesser Black-backed Gull">Lesser Black-backed Gull</a> complex.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Breeding"><span class="tocnumber">3</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Feeding"><span class="tocnumber">4</span> <span class="toctext">Feeding</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Classification_and_subspecies"><span class="tocnumber">5</span> <span class="toctext">Classification and subspecies</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Identification"><span class="tocnumber">7.1</span> <span class="toctext">Identification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>It is a large gull at 56–68 cm (22–27 in) long, with a 137 to 155 cm (54 to 61 in) wingspan and a body mass of 680–1,590 g (1.5–3.5 lb).<sup id="cite_ref-CRC_1-0" class="reference"><a href="#cite_note-CRC-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Olsen_2-0" class="reference"><a href="#cite_note-Olsen-2"><span>[</span>3<span>]</span></a></sup> Among standard measurements, the <a href="/wiki/Wing_chord_(biology)" title="Wing chord (biology)">wing chord</a> is 38.5 to 48 cm (15.2 to 19 in), the <a href="/wiki/Beak" title="Beak">bill</a> is 4.6 to 6.4 cm (1.8 to 2.5 in) and the <a href="/wiki/Tarsus_(skeleton)" title="Tarsus (skeleton)">tarsus</a> is 5.8 to 7.7 cm (2.3 to 3.0 in).<sup id="cite_ref-Olsen_2-1" class="reference"><a href="#cite_note-Olsen-2"><span>[</span>3<span>]</span></a></sup> The Caspian Gull has a long, slender bill, accentuated by the sloping forehead. The legs, wings and neck are longer than those of the Herring Gull and <a href="/wiki/Yellow-legged_Gull" title="Yellow-legged Gull">Yellow-legged Gull</a>. The eye is small and often dark, the legs vary from pale pink to a pale yellowish colour. The back and wings are a slightly darker shade of grey than the Herring Gull but slightly paler than the Yellow-legged Gull. The outermost <a href="/wiki/Remiges" title="Remiges" class="mw-redirect">primary feather</a> has a large white tip and a white tongue running up the inner web.</p>
+<p>First-winter birds have a pale head with dark streaking on the back of the neck. The underparts are pale and the back is greyish. The greater and median <a href="/wiki/Wing-coverts" title="Wing-coverts" class="mw-redirect">wing-coverts</a> have whitish tips forming two pale lines across the wing.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<p>The Caspian Gull breeds around the <a href="/wiki/Black_Sea" title="Black Sea">Black</a> and <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Seas</a>, extending eastwards across <a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a> to north-west <a href="/wiki/China" title="China">China</a>. In <a href="/wiki/Europe" title="Europe">Europe</a> it has been spreading north and west and now breeds in <a href="/wiki/Poland" title="Poland">Poland</a> and eastern <a href="/wiki/Germany" title="Germany">Germany</a>. Some birds migrate south as far as the <a href="/wiki/Red_Sea" title="Red Sea">Red Sea</a> and <a href="/wiki/Persian_Gulf" title="Persian Gulf">Persian Gulf</a> while others disperse into <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a>, in countries such as <a href="/wiki/Sweden" title="Sweden">Sweden</a>, Norway and Denmark. Small numbers are now seen regularly in <a href="/wiki/Great_Britain" title="Great Britain">Britain</a>, especially in <a href="/wiki/South-east_England" title="South-east England" class="mw-redirect">South-east England</a>, <a href="/wiki/East_Anglia" title="East Anglia">East Anglia</a> and the <a href="/wiki/English_Midlands" title="English Midlands" class="mw-redirect">Midlands</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=3" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h2>
+<p>It typically nests on flat, low-lying ground by water unlike the Yellow-legged Gull which mainly nests on cliffs in areas where the two overlap. The breeding season starts from early April. Two or three eggs are laid and incubated for 27 to 31 days.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=4" title="Edit section: Feeding">edit</a>]</span> <span class="mw-headline" id="Feeding">Feeding</span></h2>
+<p>They are <a href="/wiki/Scavenger" title="Scavenger">scavengers</a> and <a href="/wiki/Predator" title="Predator" class="mw-redirect">predators</a> with a very varied diet. During the breeding season they often eat <a href="/wiki/Rodent" title="Rodent">rodents</a> such as <a href="/wiki/Ground_squirrel" title="Ground squirrel">ground squirrels</a>, flying some distance into the steppes to find them.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=5" title="Edit section: Classification and subspecies">edit</a>]</span> <span class="mw-headline" id="Classification_and_subspecies">Classification and subspecies</span></h2>
+<p>This form has a troubled taxonomic history, summarised in the <a href="/wiki/European_Herring_Gull" title="European Herring Gull">Herring Gull</a> article. The Caspian Gull used to be treated as a as a subspecies of the Herring Gull but it is now treated as a full species by many authorities (e.g. the <a href="/wiki/British_Ornithologists%27_Union" title="British Ornithologists' Union">British Ornithologists' Union</a> Records Committee). Some authorities include the Yellow-legged Gull (<i>L. michahellis</i>) within <i>L. cachinnans</i> but it is now commonly considered to be a separate species.</p>
+<p>The <b>Steppe Gull</b> or <b>Baraba Gull</b> (<i>L. (cachinnans) barabensis</i>) may be regarded as a subspecies of the Caspian Gull or as a separate species. It is also very similar genetically to its northern neighbour, the <i>taimyrensis</i> race of <a href="/wiki/Heuglin%27s_Gull" title="Heuglin's Gull">Heuglin's Gull</a>. The Steppe Gull breeds in Central Asia, particularly northern <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>. Its non-breeding range is still little-known but most are thought to winter in south-west <a href="/wiki/Asia" title="Asia">Asia</a> from the Persian Gulf to north-west <a href="/wiki/India" title="India">India</a>. There are possible records of this form from <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> and <a href="/wiki/South_Korea" title="South Korea">South Korea</a>.</p>
+<p>The <b><a href="/wiki/Mongolian_Gull" title="Mongolian Gull" class="mw-redirect">Mongolian Gull</a></b> (<i>L. (vegae/cachinnans) mongolicus</i>) may be classed as a subspecies of the Caspian Gull, a subspecies of the <a href="/wiki/East_Siberian_Gull" title="East Siberian Gull" class="mw-redirect">East Siberian Gull</a> or as a species in its own right. It breeds in <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a> and surrounding areas and migrates south-east in winter.</p>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:Larus_cachinnans_1_young_(Marek_Szczepanek).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Larus_cachinnans_1_young_%28Marek_Szczepanek%29.jpg/120px-Larus_cachinnans_1_young_%28Marek_Szczepanek%29.jpg" width="120" height="79" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Young Caspian Gulls in Poland</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:36px auto;"><a href="/wiki/File:Larus_cachinnans_2_young_(Marek_Szczepanek).jpg" class="image"><img alt="Larus cachinnans 2 young (Marek Szczepanek).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Larus_cachinnans_2_young_%28Marek_Szczepanek%29.jpg/120px-Larus_cachinnans_2_young_%28Marek_Szczepanek%29.jpg" width="120" height="78" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/160032603">"<i>Larus cachinnans</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/160032603">http://www.iucnredlist.org/apps/redlist/details/160032603</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Larus+cachinnans%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F160032603&amp;rfr_id=info:sid/en.wikipedia.org:Caspian_Gull"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-CRC-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRC_1-0">^</a></b></span> <span class="reference-text"><i>CRC Handbook of Avian Body Masses</i> by John B. Dunning Jr. (Editor). CRC Press (1992), <a href="/wiki/Special:BookSources/9780849342585" class="internal mw-magiclink-isbn">ISBN 978-0-8493-4258-5</a>.</span></li>
+<li id="cite_note-Olsen-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Olsen_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Olsen_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>Gulls: Of North America, Europe, and Asia</i> by Klaus Malling Olsen &amp; Hans Larsson. Princeton University Press (2004). <a href="/wiki/Special:BookSources/9780691119977" class="internal mw-magiclink-isbn">ISBN 978-0691119977</a>.</span></li>
+</ol>
+</div>
+<ul>
+<li>Paul Doherty &amp; Bill Oddie (2001) <i>Gulls: A Video Guide to the Gulls of Europe, Asia &amp; North America</i>. Videocassette. Bird Images.</li>
+<li>Dick Newell (2003) <i>What is a Caspian Gull?</i>. BirdGuides (<a rel="nofollow" class="external free" href="http://www.birdguides.com/birdnews/articles.asp">http://www.birdguides.com/birdnews/articles.asp</a>), accessed 18/9/06, subscription only.</li>
+<li>Klaus Malling Olsen &amp; Hans Larsson (2003) <i>Gulls of North America, Europe, and Asia</i>, Princeton University Press.</li>
+<li>D.W. Snow &amp; C.M. Perrins (1998) <i>The Birds of the Western Palearctic, Concise Edition</i> (Vol. 1), Oxford University Press, Oxford.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=8" title="Edit section: Identification">edit</a>]</span> <span class="mw-headline" id="Identification">Identification</span></h3>
+<ul>
+<li>Garner &amp; Quinn, British Birds 90:25-63, 369-84</li>
+<li>Bakker, Theo, Rudy Offereins and Rik Winters (2000) Caspian Gull identification gallery, <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> 13(2): 60-74 (identification article including 34 images of Caspian Gulls of various ages)</li>
+<li>Jonsson, Lars (1998) Yellow-legged gulls and yellow legged herring gulls in the Baltic <i>Alula</i> 4 (3/1998): 74-100.</li>
+<li>Neubauer, Gregory &amp; Richard Millington (2000) Caspian Gull identification revisited <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> 13(11): 462-5 (addresses identification in juvenile plumage)</li>
+<li>Small, Brian (2001) The juvenile Caspian Gull in Suffolk <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> 14(9): 385-7</li>
+<li>Gibbins, Chris, Brian J. Small and John Sweeney (2010) From the Rarities Committee's files: Identification of Caspian Gull, part 1: typical birds <i><a href="/wiki/British_Birds_(magazine)" title="British Birds (magazine)">British Birds</a></i> 103(3): 142-183 (detailed identification paper, covering typical individuals)</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Caspian_Gull&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Larus_cachinnans" class="extiw" title="commons:Category:Larus cachinnans">Larus cachinnans</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.xs4all.nl/~calidris/gullindex.htm">Caspian Gull photos</a>, Rudy's Gull-index</li>
+<li><a rel="nofollow" class="external text" href="http://www.xs4all.nl/~daarruud/lubna_index.html">Gulls in Poland</a> incl. Caspian Gull and hybrids</li>
+<li><a rel="nofollow" class="external text" href="http://www.xs4all.nl/~daarruud/cachinnans.html">Caspian Gulls in Amsterdam</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.berksbirds.co.uk/articles/caspiangullid.asp">Identification of Caspian Gull</a>, Berkshire Birds</li>
+<li><a rel="nofollow" class="external text" href="http://www.birdskorea.org/Birds/Identification/ID_Notes/BK-ID-Steppe-Gull.shtml">Steppe Gull <i>barabensis</i> in South Korea</a>, Birds Korea</li>
+<li><a rel="nofollow" class="external text" href="http://www.iesmeulmeester.nl/fotos.php?actie=cat&amp;cat=25">Pictures of Caspain Gulls from all ages</a> included some hybrids and ringed Caspian Gulls</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Gulls" title="Template:Gulls"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Gulls" title="Template talk:Gulls"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gulls&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Gull" title="Gull">Gulls</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: <b>Laridae</b>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;background:#eef;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Species" title="Species">Species</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Larus" title="Larus">Larus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pacific_Gull" title="Pacific Gull">Pacific Gull</a></li>
+<li><a href="/wiki/Belcher%27s_Gull" title="Belcher's Gull">Belcher's Gull</a></li>
+<li><a href="/wiki/Olrog%27s_Gull" title="Olrog's Gull">Olrog's Gull</a></li>
+<li><a href="/wiki/Black-tailed_Gull" title="Black-tailed Gull">Black-tailed Gull</a></li>
+<li><a href="/wiki/Heermann%27s_Gull" title="Heermann's Gull">Heermann's Gull</a></li>
+<li><a href="/wiki/Common_Gull" title="Common Gull">Common Gull (or Mew Gull)</a></li>
+<li><a href="/wiki/Ring-billed_Gull" title="Ring-billed Gull">Ring-billed Gull</a></li>
+<li><a href="/wiki/California_Gull" title="California Gull">California Gull</a></li>
+<li><a href="/wiki/Great_Black-backed_Gull" title="Great Black-backed Gull">Great Black-backed Gull</a></li>
+<li><a href="/wiki/Kelp_Gull" title="Kelp Gull">Kelp Gull (or Cape Gull)</a></li>
+<li><a href="/wiki/Glaucous-winged_Gull" title="Glaucous-winged Gull">Glaucous-winged Gull</a></li>
+<li><a href="/wiki/Western_Gull" title="Western Gull">Western Gull</a></li>
+<li><a href="/wiki/Yellow-footed_Gull" title="Yellow-footed Gull">Yellow-footed Gull</a></li>
+<li><a href="/wiki/Glaucous_Gull" title="Glaucous Gull">Glaucous Gull</a></li>
+<li><a href="/wiki/Iceland_Gull" title="Iceland Gull">Iceland Gull</a></li>
+<li><a href="/wiki/Kumlien%27s_Gull" title="Kumlien's Gull">Kumlien's Gull</a></li>
+<li><a href="/wiki/Thayer%27s_Gull" title="Thayer's Gull">Thayer's Gull</a></li>
+<li><a href="/wiki/European_Herring_Gull" title="European Herring Gull">European Herring Gull</a></li>
+<li><a href="/wiki/Heuglin%27s_Gull" title="Heuglin's Gull">Heuglin's Gull</a></li>
+<li><a href="/wiki/American_Herring_Gull" title="American Herring Gull">American Herring Gull</a></li>
+<li><a href="/wiki/Yellow-legged_Gull" title="Yellow-legged Gull">Yellow-legged Gull</a></li>
+<li><strong class="selflink">Caspian Gull</strong></li>
+<li><a href="/wiki/Vega_Gull" title="Vega Gull">Vega Gull (or East Siberian Gull&#160;/ Mongolian Gull)</a></li>
+<li><a href="/wiki/Armenian_Gull" title="Armenian Gull">Armenian Gull</a></li>
+<li><a href="/wiki/Slaty-backed_Gull" title="Slaty-backed Gull">Slaty-backed Gull</a></li>
+<li><a href="/wiki/Lesser_Black-backed_Gull" title="Lesser Black-backed Gull">Lesser Black-backed Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Ichthyaetus" title="Ichthyaetus">Ichthyaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-eyed_Gull" title="White-eyed Gull">White-eyed Gull</a></li>
+<li><a href="/wiki/Sooty_Gull" title="Sooty Gull">Sooty Gull</a></li>
+<li><a href="/wiki/Great_Black-Headed_Gull" title="Great Black-Headed Gull" class="mw-redirect">Great Black-Headed Gull (or Pallas's Gull)</a></li>
+<li><a href="/wiki/Audouin%27s_Gull" title="Audouin's Gull">Audouin's Gull</a></li>
+<li><a href="/wiki/Mediterranean_Gull" title="Mediterranean Gull">Mediterranean Gull</a></li>
+<li><a href="/wiki/Relict_Gull" title="Relict Gull">Relict Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Leucophaeus" title="Leucophaeus">Leucophaeus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dolphin_Gull" title="Dolphin Gull">Dolphin Gull</a></li>
+<li><a href="/wiki/Laughing_Gull" title="Laughing Gull">Laughing Gull</a></li>
+<li><a href="/wiki/Franklin%27s_Gull" title="Franklin's Gull">Franklin's Gull</a></li>
+<li><a href="/wiki/Lava_Gull" title="Lava Gull">Lava Gull</a></li>
+<li><a href="/wiki/Grey_Gull" title="Grey Gull">Grey Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Chroicocephalus" title="Chroicocephalus">Chroicocephalus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Silver_Gull" title="Silver Gull">Silver Gull</a></li>
+<li><a href="/wiki/Red-billed_Gull" title="Red-billed Gull">Red-billed Gull</a></li>
+<li><a href="/wiki/Huahine_Gull" title="Huahine Gull">Huahine Gull</a></li>
+<li><a href="/wiki/Hartlaub%27s_Gull" title="Hartlaub's Gull">Hartlaub's Gull</a></li>
+<li><a href="/wiki/Brown-hooded_Gull" title="Brown-hooded Gull">Brown-hooded Gull</a></li>
+<li><a href="/wiki/Grey-headed_Gull" title="Grey-headed Gull">Grey-headed Gull (or Grey-hooded Gull)</a></li>
+<li><a href="/wiki/Andean_Gull" title="Andean Gull">Andean Gull</a></li>
+<li><a href="/wiki/Black-billed_Gull" title="Black-billed Gull">Black-billed Gull</a></li>
+<li><a href="/wiki/Brown-headed_Gull" title="Brown-headed Gull">Brown-headed Gull</a></li>
+<li><a href="/wiki/Black-Headed_Gull" title="Black-Headed Gull" class="mw-redirect">Black-Headed Gull</a></li>
+<li><a href="/wiki/Slender-billed_Gull" title="Slender-billed Gull">Slender-billed Gull</a></li>
+<li><a href="/wiki/Bonaparte%27s_Gull" title="Bonaparte's Gull">Bonaparte's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Saundersilarus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Saunders%27s_Gull" title="Saunders's Gull">Saunders's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Hydrocoloeus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Little_Gull" title="Little Gull">Little Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Rhodostethia</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ross%27s_Gull" title="Ross's Gull">Ross's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Kittiwake" title="Kittiwake">Rissa</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-legged_Kittiwake" title="Black-legged Kittiwake">Black-legged Kittiwake</a></li>
+<li><a href="/wiki/Red-legged_Kittiwake" title="Red-legged Kittiwake">Red-legged Kittiwake</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Pagophila</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ivory_Gull" title="Ivory Gull">Ivory Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Xema</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sabine%27s_Gull" title="Sabine's Gull">Sabine's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Creagrus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swallow-tailed_Gull" title="Swallow-tailed Gull">Swallow-tailed Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 7922/1000000
+Preprocessor generated node count: 45942/1500000
+Post-expand include size: 51894/2048000 bytes
+Template argument size: 20798/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:376388-0!*!0!!en!4!* and timestamp 20121028230931 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Caspian_Gull&amp;oldid=520339106">http://en.wikipedia.org/w/index.php?title=Caspian_Gull&amp;oldid=520339106</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Gulls" title="Category:Gulls">Gulls</a></li><li><a href="/wiki/Category:Larus" title="Category:Larus">Larus</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Caspian+Gull&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Caspian+Gull" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Caspian_Gull"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Caspian_Gull"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Caspian_Gull" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Caspian_Gull&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Caspian_Gull&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Caspian_Gull" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Caspian_Gull" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Caspian_Gull&amp;oldid=520339106" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Caspian_Gull&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Caspian_Gull&amp;id=520339106" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Caspian+Gull" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Caspian+Gull&amp;oldid=520339106&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Caspian_Gull&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D8%B3_%D8%A3%D8%B5%D9%81%D8%B1_%D8%A7%D9%84%D8%B3%D8%A7%D9%82" title="نورس أصفر الساق" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0-%D1%80%D0%B0%D0%B3%D0%B0%D1%82%D1%83%D1%85%D0%B0" title="Чайка-рагатуха" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%96%D1%8A%D0%BB%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D0%BA%D0%B0_%D1%87%D0%B0%D0%B9%D0%BA%D0%B0" title="Жълтокрака чайка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Gouelan_gris_ar_c%27hreisteiz" title="Gouelan gris ar c'hreisteiz" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Gavi%C3%A0_caspi" title="Gavià caspi" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Racek_b%C4%9Blohlav%C3%BD" title="Racek bělohlavý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Steppenm%C3%B6we" title="Steppenmöwe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Larus_cachinnans" title="Larus cachinnans" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Kaspia_mevo" title="Kaspia mevo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Larus_cachinnans" title="Larus cachinnans" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Go%C3%A9land_pontique" title="Goéland pontique" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Galeb_klaukavac" title="Galeb klaukavac" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Larus_cachinnans" title="Larus cachinnans" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D3%A8%D0%B3%D1%96%D0%B7%D1%88%D0%B0%D2%93%D0%B0%D0%BB%D0%B0" title="Өгізшағала" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Kaspijinis_kiras" title="Kaspijinis kiras" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/S%C3%A1rgal%C3%A1b%C3%BA_sir%C3%A1ly" title="Sárgalábú sirály" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Pontische_meeuw" title="Pontische meeuw" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A2%E3%82%B7%E3%82%BB%E3%82%B0%E3%83%AD%E3%82%AB%E3%83%A2%E3%83%A1" title="キアシセグロカモメ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Kaspim%C3%A5ke" title="Kaspimåke" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%A9%DB%8C%D8%B3%D9%BE%DB%8C%D9%86_%DA%AF%D9%84" title="کیسپین گل" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Mewa_bia%C5%82og%C5%82owa" title="Mewa białogłowa" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%85%D0%BE%D1%82%D1%83%D0%BD%D1%8C%D1%8F" title="Хохотунья" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Aroharmaalokki" title="Aroharmaalokki" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Kaspisk_trut" title="Kaspisk trut" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/G%C3%BCm%C3%BC%C5%9F_mart%C4%B1" title="Gümüş martı" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%B6%D0%BE%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B9" title="Мартин жовтоногий" lang="uk" hreflang="uk">Українська</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 October 2012 at 23:09.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Caspian_Gull&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw45 in 0.152 secs. -->
+	</body>
+</html>

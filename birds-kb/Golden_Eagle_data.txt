@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Golden Eagle - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Golden_Eagle","wgTitle":"Golden Eagle","wgCurRevisionId":520340591,"wgArticleId":88295,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected pages","IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from November 2007","Articles with links needing disambiguation from October 2012","Articles with unsourced statements from December 2010","Aquila (genus)","Eagles","African raptors","Birds of Asia","Birds of Canada","Birds of Europe","Birds of Mexico","Birds of the United States","Arctic birds","National symbols of Mexico","Animals described in 1758","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Golden_Eagle","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"e01ec25fb26d2bc7d033a1ccfed01421","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":88295,"title":"Golden Eagle","namespace":0,"categories":["African raptors","All articles with unsourced statements","Animals described in 1758","Aquila (genus)","Arctic birds","Articles with \'species\' microformats","Articles with links needing disambiguation from October 2012","Articles with unsourced statements from December 2010","Articles with unsourced statements from November 2007","Birds of Asia","Birds of Canada","Birds of Europe","Birds of Mexico","Birds of Western Sahara","Birds of the United States","Eagles","IUCN Red List least concern species","National symbols of Mexico","Wikipedia semi-protected pages"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Golden_Eagle skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Golden Eagle</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For other uses, see <a href="/wiki/Golden_Eagle_(disambiguation)" title="Golden Eagle (disambiguation)">Golden Eagle (disambiguation)</a>.</div>
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" /></a></div>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Golden Eagle</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:GoldenEagle-Nova.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/GoldenEagle-Nova.jpg/220px-GoldenEagle-Nova.jpg" width="220" height="201" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/GoldenEagle-Nova.jpg/330px-GoldenEagle-Nova.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/GoldenEagle-Nova.jpg/440px-GoldenEagle-Nova.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Adult of the North American subspecies <i>Aquila chrysaetos canadensis</i></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animalia" title="Animalia" class="mw-redirect">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Accipitriformes" title="Accipitriformes">Accipitriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Aquila_(genus)" title="Aquila (genus)">Aquila</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. chrysaetos</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Aquila chrysaetos</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/w/index.php?title=File:Cypron-Range_Aquila_chrysaetos.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cypron-Range_Aquila_chrysaetos.svg/220px-Cypron-Range_Aquila_chrysaetos.svg.png" width="220" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cypron-Range_Aquila_chrysaetos.svg/330px-Cypron-Range_Aquila_chrysaetos.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cypron-Range_Aquila_chrysaetos.svg/440px-Cypron-Range_Aquila_chrysaetos.svg.png 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Light brown&#160;: Wintering only<br />
+<p>Brown&#160;: Breeding only<br />
+Dark brown&#160;: All-year</p>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Falco chrysaëtos</i> <small>Linnaeus, 1758</small></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Golden Eagle</b> (<i>Aquila chrysaetos</i>) is one of the best known <a href="/wiki/Bird_of_prey" title="Bird of prey">birds of prey</a> in the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a>. Like all <a href="/wiki/Eagle" title="Eagle">eagles</a>, it belongs to the family <a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a>. Once widespread across the <a href="/wiki/Holarctic" title="Holarctic">Holarctic</a>, it has disappeared from many of the more heavily populated areas. Despite being <a href="/wiki/Extirpated" title="Extirpated" class="mw-redirect">extirpated</a> from or uncommon in some its former range, the species is still fairly ubiquitous, being present in <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a>, <a href="/wiki/North_America" title="North America">North America</a>, and parts of <a href="/wiki/Africa" title="Africa">Africa</a>. The highest density of nesting Golden Eagles in the world lies in southern <a href="/wiki/Alameda_County" title="Alameda County" class="mw-redirect">Alameda County</a>, California. These birds are dark brown, with lighter golden-brown plumage on their heads and necks.</p>
+<p>Golden Eagles use their agility and speed combined with extremely powerful talons to snatch up a variety of prey, including rabbits, <a href="/wiki/Marmot" title="Marmot">marmots</a>, ground squirrels, and large mammals such as <a href="/wiki/Fox" title="Fox">foxes</a> and young <a href="/wiki/Ungulate" title="Ungulate">ungulates</a>.<sup id="cite_ref-Watson_1-0" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> They will also eat <a href="/wiki/Carrion" title="Carrion">carrion</a> if live prey is scarce, as well as reptiles. Birds, including large species up to the size of swans and cranes have also been recorded as prey. For centuries, this species has been one of the most highly regarded birds used in <a href="/wiki/Falconry" title="Falconry">falconry</a>, with the Eurasian subspecies having been used to hunt and kill unnatural, dangerous prey such as <a href="/wiki/Gray_Wolves" title="Gray Wolves" class="mw-redirect">Gray Wolves</a> (<i>Canis lupus</i>) in some native communities. Due to their hunting prowess, the Golden Eagle is regarded with great mystic reverence in some ancient, tribal cultures.</p>
+<p>Golden Eagles maintain territories that may be as large as 155&#160;km<sup>2</sup> (60&#160;sq&#160;mi). They are monogamous and may remain together for several years or possibly for life. Golden Eagles nest in high places including cliffs, trees, or human structures such as telephone poles. They build huge <a href="/wiki/Bird_nest" title="Bird nest">nests</a> to which they may return for several breeding years. Females lay from one to four <a href="/wiki/Bird_egg" title="Bird egg">eggs</a>, and both parents incubate them for 40 to 45 days. Typically, one or two young survive to fledge in about three months.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Taxonomy_and_systematics"><span class="tocnumber">2</span> <span class="toctext">Taxonomy and systematics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Subspecies_and_distribution"><span class="tocnumber">2.1</span> <span class="toctext">Subspecies and distribution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Ecology"><span class="tocnumber">3</span> <span class="toctext">Ecology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Habitat"><span class="tocnumber">3.1</span> <span class="toctext">Habitat</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Movements"><span class="tocnumber">3.2</span> <span class="toctext">Movements</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Feeding"><span class="tocnumber">3.3</span> <span class="toctext">Feeding</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Reproduction"><span class="tocnumber">3.4</span> <span class="toctext">Reproduction</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Status_and_conservation"><span class="tocnumber">4</span> <span class="toctext">Status and conservation</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#In_human_culture"><span class="tocnumber">5</span> <span class="toctext">In human culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Falconry"><span class="tocnumber">5.1</span> <span class="toctext">Falconry</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Heraldry"><span class="tocnumber">5.2</span> <span class="toctext">Heraldry</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Religion"><span class="tocnumber">5.3</span> <span class="toctext">Religion</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#In_North_America"><span class="tocnumber">5.3.1</span> <span class="toctext">In North America</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Postage_stamps"><span class="tocnumber">5.4</span> <span class="toctext">Postage stamps</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Other"><span class="tocnumber">5.5</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Works_cited"><span class="tocnumber">7</span> <span class="toctext">Works cited</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Golden_Eagle_in_flight_-_5.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_Eagle_in_flight_-_5.jpg/220px-Golden_Eagle_in_flight_-_5.jpg" width="220" height="205" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_Eagle_in_flight_-_5.jpg/330px-Golden_Eagle_in_flight_-_5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_Eagle_in_flight_-_5.jpg/440px-Golden_Eagle_in_flight_-_5.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Golden_Eagle_in_flight_-_5.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Golden eagle in flight.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Orel_skaln%C3%AD_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Orel_skaln%C3%AD_2.jpg/220px-Orel_skaln%C3%AD_2.jpg" width="220" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Orel_skaln%C3%AD_2.jpg/330px-Orel_skaln%C3%AD_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Orel_skaln%C3%AD_2.jpg/440px-Orel_skaln%C3%AD_2.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Orel_skaln%C3%AD_2.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Subadult, note white in tail and dark neck</div>
+</div>
+</div>
+<p>The Golden Eagle is a large, dark brown raptor with broad wings. Its size is variable: it ranges from 66 to 102 cm (26 to 40 in) in length and it has a typical wingspan of 1.8 to 2.34 m (5.9 to 7.7 ft). In the largest race (<i>A. c. daphanea</i>) males and females weigh 4.05&#160;kg (8.9&#160;lb) and 6.35&#160;kg (14.0&#160;lb). In the smallest subspecies (<i>A. c. japonensis</i>), the sexes weigh, respectively, 2.5&#160;kg (5.5&#160;lb) and 3.25&#160;kg (7.2&#160;lb).<sup id="cite_ref-Watson_1-1" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Cornell_2-0" class="reference"><a href="#cite_note-Cornell-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Ferguson-Lees_3-0" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> In the species overall, males average around 3.6&#160;kg (7.9&#160;lb) and females average around 5.1&#160;kg (11&#160;lb).<sup id="cite_ref-HBW_6-0" class="reference"><a href="#cite_note-HBW-6"><span>[</span>7<span>]</span></a></sup> The maximum size of this species is a matter of some debate, although the normal upper weight limit for a large female is around 6.8&#160;kg (15&#160;lb) and large races are the heaviest representatives of the <i><a href="/wiki/Aquila_(genus)" title="Aquila (genus)">Aquila</a></i> genus.<sup id="cite_ref-Wood_7-0" class="reference"><a href="#cite_note-Wood-7"><span>[</span>8<span>]</span></a></sup> Captive birds have been measured up to a wingspan of 2.81&#160;m (9.2&#160;ft) and a mass of 12.1&#160;kg (27&#160;lb) (the latter figure was for an eagle bred for the purposes of <a href="/wiki/Falconry" title="Falconry">falconry</a>).<sup id="cite_ref-Wood_7-1" class="reference"><a href="#cite_note-Wood-7"><span>[</span>8<span>]</span></a></sup> The standard measurements of the species include a wing chord length of 52–72 cm (20–28 in), a tail length of 26.5–38 cm (10.4–15 in) and a <a href="/wiki/Tarsus_(skeleton)" title="Tarsus (skeleton)">tarsus</a> length of 9.4–12.2 cm (3.7–4.8 in).<sup id="cite_ref-Ferguson-Lees_3-1" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> The <a href="/wiki/Culmen_(bird)" title="Culmen (bird)" class="mw-redirect">culmen</a> reportedly averages around 4.5&#160;cm (1.8&#160;in), with a range of 3.6 to 5 cm (1.4 to 2.0 in) and the bill from the <a href="/wiki/Gape" title="Gape">gape</a> measures around 6&#160;cm (2.4&#160;in).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> The sexes are similar in plumage but are considerably <a href="/wiki/Sexual_dimorphism" title="Sexual dimorphism">dimorphic</a> in size, with females rather larger than males.<sup id="cite_ref-Terres478_10-0" class="reference"><a href="#cite_note-Terres478-10"><span>[</span>11<span>]</span></a></sup> Adults are primarily brown, with a pale gold color on the back of the crown and nape, and some grey on the wings and tail.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> <a href="/wiki/Tarsus_(skeleton)" title="Tarsus (skeleton)">Tarsal</a> feathers range from white to dark brown. In addition, some birds have white "<a href="/wiki/Epaulettes" title="Epaulettes" class="mw-redirect">epaulettes</a>" on the upper part of each scapular <a href="/wiki/Feather_tract" title="Feather tract" class="mw-redirect">feather tract</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> The bill is dark at the tip, fading to a lighter horn color, with a yellow <a href="/wiki/Cere" title="Cere" class="mw-redirect">cere</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
+<p>Juveniles have a darker, unfaded color, white patches in the <a href="/wiki/Remiges" title="Remiges" class="mw-redirect">remiges</a> which may be divided by darker feathers,<sup id="cite_ref-ABAaging_14-0" class="reference"><a href="#cite_note-ABAaging-14"><span>[</span>15<span>]</span></a></sup> and a large amount of white on the tail with a black terminal band.<sup id="cite_ref-Terres478_10-1" class="reference"><a href="#cite_note-Terres478-10"><span>[</span>11<span>]</span></a></sup> Occasionally upper wing feathers of juveniles are also white, or birds lack white on the wing entirely. As the bird ages, the amount of white on wings and tail diminishes, and adult plumages is usually acquired by the fifth year.<sup id="cite_ref-ABAaging_14-1" class="reference"><a href="#cite_note-ABAaging-14"><span>[</span>15<span>]</span></a></sup></p>
+<p>Size readily distinguishes this species from most other raptors when it is seen well. Most other raptors are considerably smaller, including <i>Buteo</i> hawks which are perhaps most similar to the Golden Eagle in structure among smaller raptors. <i>Buteos</i> are also usually distinctly paler below.<sup id="cite_ref-Cornell1_15-0" class="reference"><a href="#cite_note-Cornell1-15"><span>[</span>16<span>]</span></a></sup> Only some <a href="/wiki/Old_World_vulture" title="Old World vulture">Old World vultures</a> and the <a href="/wiki/California_Condor" title="California Condor">California Condor</a> (<i>Gymnogyps californianus</i>) (among the other raptorial birds this eagle co-exists with) are distinctly larger, with longer, broader wings, typically held more evenly, and often have dramatically different color patterns. Compared to <i><a href="/wiki/Haliaeetus" title="Haliaeetus" class="mw-redirect">Haliaeetus</a></i> eagles, the Golden is usually longer-tailed and is distinctly smaller-headed, with broad wings that are more <a href="/wiki/Hawk" title="Hawk">hawk</a>-like and less plank-like in shape. Whereas more <i>Haliaeetus</i> eagles are heavily streaked in their juvenile phase, the Golden has a more solidly golden-brown coloration. Distinguishing it from other <i><a href="/wiki/Aquila_(genus)" title="Aquila (genus)">Aquila</a></i> eagles in Eurasia is a greater identification problem. This identification may rely on the Golden's relatively long tail and patterns of white or gray on the wings and tail. At close range, the paler head and golden nape-shawl of the Golden are distinctive from other <i>Aquila</i>. Most other <i>Aquila</i> eagles are darker looking in plumage, although the slightly smaller <a href="/wiki/Tawny_Eagle" title="Tawny Eagle">Tawny Eagle</a> (<i>A. rapax</i>) is paler than the Golden Eagle. The <a href="/wiki/Eastern_Imperial_Eagle" title="Eastern Imperial Eagle">Eastern Imperial</a> (<i>A. heliaca</i>) and <a href="/wiki/Spanish_Imperial_Eagle" title="Spanish Imperial Eagle">Spanish Imperial Eagle</a> (<i>A. adalberti</i>) are the most similar in size to the Golden Eagle among Eurasian <i>Aquila</i> but are distinguished by their longer neck, flatter wings in flight, white on their shoulder forewing-coverts and generally darker coloration.<sup id="cite_ref-Ferguson-Lees_3-2" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> <a href="/wiki/Verreaux%27s_Eagle" title="Verreaux's Eagle">Verreaux's Eagle</a> (<i>A. verreauxii</i>) are most similar in size and body shape to the Golden but are almost entirely black (except for some whitish color on the wing primary) in plumage and are not known to co-occur with the Golden Eagle in Africa.<sup id="cite_ref-Ferguson-Lees_3-3" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> Among the <i>Aquila</i> genus, only the long-winged and tailed <a href="/wiki/Wedge-tailed_Eagle" title="Wedge-tailed Eagle">Wedge-tailed Eagle</a> (<i>A. audax</i>) exceed the Golden Eagle in average wingspan and length.</p>
+<h2> <span class="mw-headline" id="Taxonomy_and_systematics">Taxonomy and systematics</span></h2>
+<p>This <a href="/wiki/Species" title="Species">species</a> was first described by <a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a> in his 1758 <i><a href="/wiki/Systema_naturae" title="Systema naturae" class="mw-redirect">Systema naturae</a></i> as <i>Falco chrysaetos</i>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup> The <a href="/wiki/Type_locality_(biology)" title="Type locality (biology)" class="mw-redirect">type locality</a> was given simply as "Europa"; it was later fixed to <a href="/wiki/Sweden" title="Sweden">Sweden</a>. It was moved to the new genus <i>Aquila</i> by French <a href="/wiki/Ornithologist" title="Ornithologist" class="mw-redirect">ornithologist</a> <a href="/wiki/Mathurin_Jacques_Brisson" title="Mathurin Jacques Brisson">Mathurin Jacques Brisson</a> in 1760.<sup id="cite_ref-brisson_17-0" class="reference"><a href="#cite_note-brisson-17"><span>[</span>18<span>]</span></a></sup></p>
+<p>The Golden Eagle is one of the largest eagles in the genus <i><a href="/wiki/Aquila_(genus)" title="Aquila (genus)">Aquila</a></i>, which are distributed almost worldwide. The latest research indicates it forms a worldwide <a href="/wiki/Superspecies" title="Superspecies">superspecies</a> with <a href="/wiki/Verreaux%27s_Eagle" title="Verreaux's Eagle">Verreaux's Eagle</a>, <a href="/wiki/Gurney%27s_Eagle" title="Gurney's Eagle">Gurney's Eagle</a>, and the <a href="/wiki/Wedge-tailed_Eagle" title="Wedge-tailed Eagle">Wedge-tailed Eagle</a>.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from November 2007">citation needed</span></a></i>]</sup></p>
+<h3> <span class="mw-headline" id="Subspecies_and_distribution">Subspecies and distribution</span></h3>
+<p>There are six extant <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> of Golden Eagle that differ slightly in size and <a href="/wiki/Plumage" title="Plumage">plumage</a>.</p>
+<ul>
+<li><i>Aquila c. chrysaetos</i> <small>(Linnaeus, 1758)</small> – The <a href="/wiki/Nominate_subspecies" title="Nominate subspecies" class="mw-redirect">nominate subspecies</a>. <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a> except <a href="/wiki/Iberian_peninsula" title="Iberian peninsula" class="mw-redirect">Iberian peninsula</a>, east to western <a href="/wiki/Siberia" title="Siberia">Siberia</a>.</li>
+<li><i>Aquila chrysaetos canadensis</i> <small>(Linnaeus, 1758)</small> – <a href="/wiki/North_America" title="North America">North America</a>.</li>
+<li><i>Aquila chrysaetos kamtschatica</i> <small><a href="/wiki/Nikolai_Severtzov" title="Nikolai Severtzov">Severtzov</a>, 1888</small> – Eastern Siberia, from the <a href="/wiki/Altay_Mountains" title="Altay Mountains" class="mw-redirect">Altay</a> to the <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">Kamchatka Peninsula</a>. Often included in <i>A. c. canadensis</i>.</li>
+<li><i>Aquila chrysaetos daphanea</i> <small>Severtzov, 1888</small> – Southern <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a> east to <a href="/wiki/Manchuria" title="Manchuria">Manchuria</a> and south-west <a href="/wiki/China" title="China">China</a>, along the Himalayas from northern <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> in the west to Bhutan in the east.<sup id="cite_ref-pcr_18-0" class="reference"><a href="#cite_note-pcr-18"><span>[</span>19<span>]</span></a></sup></li>
+<li><i>Aquila chrysaetos homeryi</i> <small>Severtzov, 1888</small> – <a href="/wiki/Iberian_peninsula" title="Iberian peninsula" class="mw-redirect">Iberian peninsula</a> and <a href="/wiki/North_Africa" title="North Africa">North Africa</a>, east to <a href="/wiki/Turkey" title="Turkey">Turkey</a> and <a href="/wiki/Iran" title="Iran">Iran</a>.</li>
+<li><i>Aquila chrysaetos japonica</i> <small>Severtzov, 1888</small> – <a href="/wiki/Japan" title="Japan">Japan</a> and <a href="/wiki/Korea" title="Korea">Korea</a>.</li>
+</ul>
+<p>The larger <a href="/wiki/Middle_Pleistocene" title="Middle Pleistocene">Middle Pleistocene</a> Golden Eagles of <a href="/wiki/France" title="France">France</a> (and possibly elsewhere) are referred to a <a href="/wiki/Paleosubspecies" title="Paleosubspecies" class="mw-redirect">paleosubspecies</a> <i>Aquila chrysaetos bonifacti</i>, and the huge specimens of the <a href="/wiki/Late_Pleistocene" title="Late Pleistocene">Late Pleistocene</a> of Liko Cave (<a href="/wiki/Crete" title="Crete">Crete</a>) have been named <i>Aquila chrysaetos simurgh</i>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup></p>
+<h2> <span class="mw-headline" id="Ecology">Ecology</span></h2>
+<h3> <span class="mw-headline" id="Habitat">Habitat</span></h3>
+<p>Golden Eagles are fairly adaptable in habitat but often reside in areas with a few shared ecological characteristics. They are best suited to hunting in open or semi-open areas and search them out year-around. The largest numbers of Golden Eagles are found in mountainous regions today, with many eagles doing a majority of their hunting and nesting on rock formations. However, they are not solely tied to high elevations and can breed in lowlands if the local habitats are suitable. They can additionally be found in <a href="/wiki/Tundra" title="Tundra">tundra</a>, <a href="/wiki/Shrubland" title="Shrubland">shrublands</a>, <a href="/wiki/Conifer" title="Conifer" class="mw-redirect">coniferous forests</a> with openings and <a href="/wiki/Steppe" title="Steppe">steppe</a>, <a href="/wiki/Prairie" title="Prairie">prairies</a> and other regional <a href="/wiki/Grassland" title="Grassland">grassland</a> habitats. Though not generally a wetland bird, they may pass through or hunt in <a href="/wiki/Marsh" title="Marsh">marshes</a>, normally while migrating or wintering. Golden Eagles usually nest in desolate areas where human disturbances are minimal and often avoid highly populated areas year-around. They may be found in elevation from sea-level up to at least 3,700&#160;m (12,100&#160;ft).<sup id="cite_ref-Ferguson-Lees_3-4" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup></p>
+<h3> <span class="mw-headline" id="Movements">Movements</span></h3>
+<p>Some populations of Golden Eagles are migratory and others are sedentary. Eagles who nest in colder climes such as <a href="/wiki/Alaska" title="Alaska">Alaska</a>, <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavia</a> or <a href="/wiki/Russia" title="Russia">Russia</a> tend to migrate to points further south due to declining available food sources in the north. Those found further south in the species' breeding range are usually non-migratory and may remain without striking distance of their breeding territories all year.<sup id="cite_ref-Ferguson-Lees_3-5" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> While they usually fly at average speeds of 45–52 kilometers per hour (28–32 mph), they can glide quickly at up to 130 kilometers per hour (81&#160;mph) and can reach 240 kilometers per hour (150&#160;mph) when diving after prey. The characteristic flight of the species consists of a mix of flapping and soaring.<sup id="cite_ref-ADW_20-0" class="reference"><a href="#cite_note-ADW-20"><span>[</span>21<span>]</span></a></sup></p>
+<h3> <span class="mw-headline" id="Feeding">Feeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Aquila_chrysaetos_1_(Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aquila_chrysaetos_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg/220px-Aquila_chrysaetos_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aquila_chrysaetos_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg/330px-Aquila_chrysaetos_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aquila_chrysaetos_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg/440px-Aquila_chrysaetos_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aquila_chrysaetos_1_(Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Golden eagle feeding on a <a href="/wiki/Red_fox" title="Red fox">red fox</a>, <a href="/wiki/Nasavrky" title="Nasavrky">Nasavrky</a><sup class="plainlinks noprint Inline-Template" style="vertical-align:text-top;white-space:nowrap;">[<i><a rel="nofollow" class="external text" href="//toolserver.org/%7Edispenser/cgi-bin/dab_solver.py?page=Golden_Eagle&amp;editintro=Template:Disambiguation_needed/editintro&amp;client=Template:Dn"><span title="Link needs disambiguation from October 2012">disambiguation needed</span></a></i>]</sup>, <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></div>
+</div>
+</div>
+<p>The Golden Eagle is one of the most powerful predators in the avian world. They usually hunt by flying slowly while scanning the environment in a low quartering flight, often around mountainous slopes.<sup id="cite_ref-Ferguson-Lees_3-6" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> When prey is spotted, the eagle makes a short dash hoping to surprise its prey or engages in a longer rapid chase. They also hunt by flying in a fast glide or soar followed by a sudden stoop. Rarely, they may also still-hunt, watching for prey from an elevated perch and then pouncing down when it is spotted.<sup id="cite_ref-Ferguson-Lees_3-7" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> Given that their favorite prey are often mammals or birds that hesitate to fly, unsurprisingly most of their prey is killed on the ground and some prey may even pursued on foot for a short distance by the eagle.<sup id="cite_ref-Ferguson-Lees_3-8" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> When hunting birds, they may engage in an agile tail-chase (much in the style of the <i><a href="/wiki/Accipiter" title="Accipiter">Accipiter</a></i> hawks) and can occasionally snatch birds in mid-flight.<sup id="cite_ref-Ferguson-Lees_3-9" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> The powerful talons of the Golden Eagle ensure that few prey can escape them once contact is made. The talons of this species exert an estimated 440 pounds per square inch (3&#160;MPa) of pressure, though the largest individuals may reach a pressure of 750&#160;psi (5.2&#160;MPa), around 15 times more pressure than is exerted by the human hand.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup></p>
+<p>While they do show strong local preferences for certain prey, Golden Eagles are first and foremost opportunists and virtually any small to mid-sized animal may be predated if encountered. Nearly 200 species of mammal and bird have been recorded as golden eagle prey.<sup id="cite_ref-Watson_1-2" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> Prey selection is largely determined by the local availability and abundance of the prey species.<sup id="cite_ref-Watson_1-3" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> Most prey taken are around half the weight of the predating eagle, with a typical prey weight range of 0.5–4 kg (1.1–8.8 lb),<sup id="cite_ref-Watson_1-4" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> though this eagle will sometimes fly with prey equal to or slightly heavier than its own weight (4–7 kg (8.8–15 lb)).<sup id="cite_ref-Watson_1-5" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>In North America and most of Europe, the predominant prey are <a href="/wiki/Leporid" title="Leporid" class="mw-redirect">leporids</a> (<a href="/wiki/Hare" title="Hare">hares</a> and <a href="/wiki/Rabbit" title="Rabbit">rabbits</a>) and <a href="/wiki/Sciurid" title="Sciurid" class="mw-redirect">sciurids</a> (<a href="/wiki/Ground_squirrel" title="Ground squirrel">ground squirrels</a>, <a href="/wiki/Prairie_dog" title="Prairie dog">prairie dogs</a>, and <a href="/wiki/Marmot" title="Marmot">marmots</a>). In one North American study, mammals comprised 83.9% of the eagles' diet.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup> In <a href="/wiki/Washington_(U.S._State)" title="Washington (U.S. State)" class="mw-redirect">Washington</a>, the <a href="/wiki/Yellow-bellied_marmot" title="Yellow-bellied marmot">Yellow-bellied marmot</a> (<i>Marmota flaviventris</i>) was eaten significantly more than other species, while in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> and central and alpine Eurasia, the <a href="/wiki/Mountain_Hare" title="Mountain Hare" class="mw-redirect">Mountain Hare</a> (<i>Lepus timidus</i>) was taken far more than any other species.<sup id="cite_ref-Watson_1-6" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup> On the <a href="/wiki/Sweden" title="Sweden">Swedish</a> island <a href="/wiki/Gotland" title="Gotland">Gotland</a>, the preferred prey of the Golden Eagle are <a href="/wiki/Hedgehog" title="Hedgehog">hedgehogs</a>, which are peeled of their prickly backs before being eaten.<sup id="cite_ref-Ferguson-Lees_3-10" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> Additional mammals regularly taken include smaller <a href="/wiki/Rodent" title="Rodent">rodents</a>, such as <a href="/wiki/Mouse" title="Mouse">mice</a> and <a href="/wiki/Vole" title="Vole">voles</a>, mid-sized mammals such as <a href="/wiki/Fox" title="Fox">foxes</a> and the offspring of <a href="/wiki/Ungulate" title="Ungulate">ungulates</a> such as <a href="/wiki/Deer" title="Deer">deer</a>, <a href="/wiki/Antelope" title="Antelope">antelope</a>, <a href="/wiki/Ibex" title="Ibex" class="mw-redirect">ibex</a>, <a href="/wiki/Goat" title="Goat">goats</a> and <a href="/wiki/Sheep" title="Sheep">sheep</a>.<sup id="cite_ref-Watson_1-7" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> At the breeding ground of the <a href="/wiki/Caribou" title="Caribou" class="mw-redirect">Caribou</a> (<i>Rangifer tarandus</i>), this eagle is one of the most frequent predators of newborn or young calves.<sup id="cite_ref-Watson_1-8" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Ferguson-Lees_3-11" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> Domesticated types of ungulate young are taken as well.<sup id="cite_ref-Watson_1-9" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> For juvenile eagles, wintering eagles or eagles that have failed to breed, being able to carry off prey is less important than it is for those who are nesting and such birds are more likely to take large prey that can be left and returned to repeatedly feed on. Wild eagles have exceptionally taken ungulate prey in such circumstances weighing 30&#160;kg (66&#160;lb) or even more, such as adult <a href="/wiki/Roe_Deer" title="Roe Deer" class="mw-redirect">Roe Deer</a> (<i>Capreolus capreolus</i>).<sup id="cite_ref-Watson_1-10" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> Recent cases in which Golden Eagle were caught on film attacking unusual, large prey have included an unsuccessful attack on a large adult <a href="/wiki/White-tailed_Deer" title="White-tailed Deer" class="mw-redirect">White-tailed Deer</a> (<i>Odocoileus virginianus</i>) and a successful attack on an adult male <a href="/wiki/Coyote" title="Coyote">Coyote</a> (<i>Canis latrans</i>).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup> YouTube videos show trained Golden Eagles in <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a> working alone, or in tandem, to take down <a href="/wiki/Wolves" title="Wolves" class="mw-redirect">wolves</a> and foxes there, though the prey animals in this display may be already disabled.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup> There are no known instances of wild eagles predating adult wolves and, in falconry, almost all reported of trained killing of wolves are anecdotal.<sup id="cite_ref-Watson_1-11" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> Other videos show <a href="/wiki/Goat" title="Goat">goats</a> being dragged off cliffs to their deaths before being fed upon, and in one case being carried fully away by the leg, though the animals appear to be juveniles.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>28<span>]</span></a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>29<span>]</span></a></sup> There are also numerous eye-witness accounts in Europe of <a href="/wiki/Sheep" title="Sheep">sheep</a> being carried off; again, these may be younger, lighter-weight animals. There is one confirmed report of a Golden Eagle snatching the cub of a <a href="/wiki/Brown_Bear" title="Brown Bear" class="mw-redirect">Brown Bear</a> (<i>Ursus arctos</i>).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>30<span>]</span></a></sup></p>
+<p>After mammals, the secondary important prey group for Golden Eagles are other <a href="/wiki/Bird" title="Bird">birds</a>. Various <a href="/wiki/Galliformes" title="Galliformes">gallinaceous birds</a> (largely <a href="/wiki/Phasianidae" title="Phasianidae">phasianids</a> and <a href="/wiki/Grouse" title="Grouse">grouse</a>) are the most significant avian prey.<sup id="cite_ref-Watson_1-12" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> However, virtually any bird, from the size of a <a href="/wiki/Lark" title="Lark">lark</a> or a <a href="/wiki/Pipit" title="Pipit">pipit</a> to a <a href="/wiki/Crane_(bird)" title="Crane (bird)">crane</a> or a <a href="/wiki/Swan" title="Swan">swan</a>, about double the weight of an eagle, is potential prey.<sup id="cite_ref-Ferguson-Lees_3-12" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Cornell2_30-0" class="reference"><a href="#cite_note-Cornell2-30"><span>[</span>31<span>]</span></a></sup> In Sweden, birds were found to be the primary prey, with the most common prey species being the <a href="/wiki/Western_Capercaillie" title="Western Capercaillie">Western Capercaillie</a> (<i>Tetrao urogallus</i>); while in sub-Arctic regions a strong preference for <a href="/wiki/Rock_Ptarmigan" title="Rock Ptarmigan">Rock Ptarmigan</a> (<i>Lagopus muta</i>) has been noted.<sup id="cite_ref-Watson_1-13" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup> Golden Eagles are avian <a href="/wiki/Apex_predators" title="Apex predators" class="mw-redirect">apex predators</a>, meaning a healthy adult is not preyed upon. There are records of Golden Eagles killing and eating other large raptors such as <a href="/wiki/Gyrfalcon" title="Gyrfalcon">Gyrfalcons</a> (<i>Falco rusticolus</i>), <a href="/wiki/Northern_Goshawk" title="Northern Goshawk">Northern Goshawks</a> (<i>Accipiter gentilis</i>), and <a href="/wiki/Buteo" title="Buteo"><i>Buteo</i> hawks</a>, whether adults, nestlings or eggs.<sup id="cite_ref-Cornell2_30-1" class="reference"><a href="#cite_note-Cornell2-30"><span>[</span>31<span>]</span></a></sup> <a href="/wiki/Falcon" title="Falcon">Falcons</a>, <a href="/wiki/Stercorariidae" title="Stercorariidae" class="mw-redirect">skuas</a>, and <i><a href="/wiki/Buteo" title="Buteo">Buteos</a></i> like <a href="/wiki/Rough-legged_Hawk" title="Rough-legged Hawk" class="mw-redirect">Rough-legged Hawks</a> (<i>B. lagopus</i>), which are normally fierce competitors with each other, have worked together to group-mob Golden Eagles that have passed their adjacent nesting areas.<sup id="cite_ref-Cornell2_30-2" class="reference"><a href="#cite_note-Cornell2-30"><span>[</span>31<span>]</span></a></sup> In one instance, a Golden Eagle flying in towards a <a href="/wiki/Peregrine_Falcon" title="Peregrine Falcon">Peregrine Falcon</a> (<i>Falco peregrinus</i>) nest was struck and killed by a swooping parent falcon, a reversal of fortune for the falcon given that the much larger eagle is usually dominant over (and a potential predator of) them.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>33<span>]</span></a></sup> Large <a href="/wiki/Owl" title="Owl">owls</a>, such as those in the <i><a href="/wiki/Horned_owl" title="Horned owl">Bubo</a></i> genus, may be killed by these eagles but usually avoid direct conflicts by being nocturnal in activity rather than diurnal.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>34<span>]</span></a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>35<span>]</span></a></sup> More commonly, Golden Eagles <a href="/wiki/Kleptoparasitism" title="Kleptoparasitism">kleptoparasitize</a>, or steal prey, from other raptors. While not as large as some vultures, Golden Eagles are usually considerably more aggressive and are capable of driving vultures (including much larger-bodied species) and other raptors from carrion or kills.<sup id="cite_ref-Watson_1-14" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> Interspecies competition occurs regularly with large <i><a href="/wiki/Haliaeetus" title="Haliaeetus" class="mw-redirect">Haliaeetus</a></i> eagles, principally <a href="/wiki/White-tailed_Eagle" title="White-tailed Eagle">White-tailed</a> (<i>H. albicilla</i>) and <a href="/wiki/Bald_Eagle" title="Bald Eagle">Bald Eagles</a> (<i>H. leucocephalus</i>). Although these other eagles (which are actually not closely related to the Golden) are generally less active predators, they are of comparable size, strength and tenacity to the Golden Eagle and victory in such conflicts depends on the size and disposition of individual eagle rather than on species.<sup id="cite_ref-Cornell2_30-3" class="reference"><a href="#cite_note-Cornell2-30"><span>[</span>31<span>]</span></a></sup></p>
+<p>Numerous other types of prey may supplement the diet. <a href="/wiki/Reptile" title="Reptile">Reptiles</a> are rarely taken over most of the range but prey such as large <a href="/wiki/Snake" title="Snake">snakes</a> and <a href="/wiki/Lizard" title="Lizard">lizards</a> appears to be fairly common in the southern reaches of its Asian range, as well as in <a href="/wiki/Japan" title="Japan">Japan</a> and in desert-like regions of central <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a>.<sup id="cite_ref-Watson_1-15" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Ferguson-Lees_3-13" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> In southeastern Europe, <a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a> and other arid regions, <a href="/wiki/Tortoise" title="Tortoise">tortoises</a> are a favored prey item. Tortoises are dispatched using the same method employed by the <a href="/wiki/Lammergeier" title="Lammergeier" class="mw-redirect">Lammergeier</a> (<i>Gypaetus barbatus</i>), which consists of flying with the bulky reptile and dropping it from some height onto rocks or other hard surfaces so the shell will crack open and its flesh can be eaten.<sup id="cite_ref-Ferguson-Lees_3-14" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> Other secondary prey items may include <a href="/wiki/Amphibian" title="Amphibian">amphibians</a>, <a href="/wiki/Fish" title="Fish">fish</a> (which are eaten regularly in Southeast Asia but are usually scavenged) and even <a href="/wiki/Insect" title="Insect">insects</a> such as large <a href="/wiki/Beetle" title="Beetle">beetles</a>.<sup id="cite_ref-Ferguson-Lees_3-15" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> During winter months, when live-caught prey can be scarce, Golden Eagles often scavenge on carrion.<sup id="cite_ref-Cornell1_15-1" class="reference"><a href="#cite_note-Cornell1-15"><span>[</span>16<span>]</span></a></sup></p>
+<h3> <span class="mw-headline" id="Reproduction">Reproduction</span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nid_d%27Aigle.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nid_d%27Aigle.JPG/220px-Nid_d%27Aigle.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nid_d%27Aigle.JPG/330px-Nid_d%27Aigle.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nid_d%27Aigle.JPG/440px-Nid_d%27Aigle.JPG 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nid_d%27Aigle.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Bird_nest" title="Bird nest">Eyrie</a> (in hollow at left center) in the Valley of the <a href="/wiki/Siagne" title="Siagne">Siagne de la Pare</a>, <a href="/wiki/Alpes-Maritimes" title="Alpes-Maritimes">Alpes-Maritimes</a>, <a href="/wiki/France" title="France">France</a></div>
+</div>
+</div>
+<p>Golden Eagles usually mate for life. They build several <a href="/wiki/Eyrie_(nest)" title="Eyrie (nest)" class="mw-redirect">eyries</a> within their territory and use them alternately for several years. In the western United States, eagles' nesting territories may range from 22 to 33 square miles, whereas those nesting further north may maintain territories of up to 39 square miles. Territories are maintained by flight displays.<sup id="cite_ref-Ferguson-Lees_3-16" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> These nests consist of heavy tree branches, upholstered with grass when in use. Old eyries may be 2 metres (6.6&#160;ft) in diameter and 1 metre (3.3&#160;ft) in height, as the eagles repair their nests whenever necessary and enlarge them during each use. If the eyrie is situated on a tree, supporting tree branches may break because of the weight of the nest. Certain other animals—birds and mammals too small to be of interest to the huge raptor—often use the nest as shelter. Their predators are just the right size for Golden Eagle prey, and therefore avoid active eyries.</p>
+<p>Mating and egg-laying time is variable depending on the locality and can be January and September, though is usually in March or later. The female lays one to four (usually two) eggs.<sup id="cite_ref-Ferguson-Lees_3-17" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> The eggs vary from all white to white with cinnamon or brown spots and blotches. Laying of the eggs occurs at 3 or 4 day intervals. The female starts incubation when the first egg is laid and continues to do so for 40 to 45 days, though the male may occasionally incubate as well.<sup id="cite_ref-Ferguson-Lees_3-18" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> They are covered in fluffy white down and are fed and brooded consistently for 45–50 days, with both parents taking shifts at feeding the young.<sup id="cite_ref-Ferguson-Lees_3-19" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> The nestlings start to leave the nest after 45 days (sometimes as late 81 days) by walking, hopping or falling out of the nest. At around 10 weeks of age, they start to fly and, once fledged, begin to eat on their own. Independence from the parents may variably be attained 32 to 80 days after the young are fledged.<sup id="cite_ref-Ferguson-Lees_3-20" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup> Juveniles usually become established and start to breed at 4 to 7 years of age.<sup id="cite_ref-Ferguson-Lees_3-21" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>In most cases only the older chick survives, while the younger one dies without leaving the eyrie. This is due to the older chick having a few days' advantage in growth and consequently winning most squabbles for food. This strategy is useful for the species because it makes the parents' workload manageable even when food is scarce, while providing a reserve chick in case the first-born dies soon after hatching. Golden Eagles invest much time and effort in bringing up their young; once able to hunt on their own, most Golden Eagles survive many years, but mortality even among first-born nestlings is much higher, in particular in the first weeks after hatching.<sup id="cite_ref-Watson_1-16" class="reference"><a href="#cite_note-Watson-1"><span>[</span>2<span>]</span></a></sup> Due to the defensive ferocity of the eagles, predation on the Golden Eagle is rare even with eggs and small nestlings. The only known predators of Golden Eagle nests are <a href="/wiki/Wolverine" title="Wolverine">wolverines</a> and <a href="/wiki/Brown_bear" title="Brown bear">brown bears</a>.<sup id="cite_ref-ADW_20-1" class="reference"><a href="#cite_note-ADW-20"><span>[</span>21<span>]</span></a></sup> Although a high percentage may die in their first year, Golden Eagles who survive to adulthood may live quite long. In some cases, wild eagles can live for 28 to 32 years and individuals in captivity have survived to an age of 46 years. Most adult mortality is now human-related. This can include collision with man-made objects, incidental poisoning from chemicals, lead or ingestion of poison meant for mammalian scavengers or from hunting or trapping.</p>
+<h2> <span class="mw-headline" id="Status_and_conservation">Status and conservation</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Aquila_chrysaetos_3_(Martin_Mecnarowski).jpg" class="image"><img alt="Aquila chrysaetos 3 (Martin Mecnarowski).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aquila_chrysaetos_3_%28Martin_Mecnarowski%29.jpg/220px-Aquila_chrysaetos_3_%28Martin_Mecnarowski%29.jpg" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aquila_chrysaetos_3_%28Martin_Mecnarowski%29.jpg/330px-Aquila_chrysaetos_3_%28Martin_Mecnarowski%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Aquila_chrysaetos_3_%28Martin_Mecnarowski%29.jpg/440px-Aquila_chrysaetos_3_%28Martin_Mecnarowski%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aquila_chrysaetos_3_(Martin_Mecnarowski).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+</div>
+</div>
+</div>
+<p>At one time, the Golden Eagle lived in almost all of temperate <a href="/wiki/Europe" title="Europe">Europe</a>, North <a href="/wiki/Asia" title="Asia">Asia</a>, <a href="/wiki/North_America" title="North America">North America</a>, North <a href="/wiki/Africa" title="Africa">Africa</a>, and <a href="/wiki/Japan" title="Japan">Japan</a>. In most areas this bird is now a mountain-dweller, but in former centuries it also bred in the plains and the forests. In recent years it has started to breed in lowland areas again, e.g., in <a href="/wiki/Sweden" title="Sweden">Sweden</a> and <a href="/wiki/Denmark" title="Denmark">Denmark</a>.</p>
+<p>There was a great decline in <a href="/wiki/Central_Europe" title="Central Europe">Central Europe</a> where they are now essentially restricted to the <a href="/wiki/Apennine_mountains" title="Apennine mountains" class="mw-redirect">Apennine</a>, <a href="/wiki/Alps" title="Alps">Alps</a>, and <a href="/wiki/Carpathian_Mountains" title="Carpathian Mountains">Carpathian Mountains</a>. In Britain, the last comprehensive survey of Golden Eagles took place in 2003, and found 442 occupied territories.<sup id="cite_ref-MH_1_35-0" class="reference"><a href="#cite_note-MH_1-35"><span>[</span>36<span>]</span></a></sup> A less thorough survey in 2007 showed that in addition to large numbers of territories in the Scottish Highlands and the Inner and Outer Hebrides, there were a handful of birds in southern Scotland and northern England.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>37<span>]</span></a></sup> Between 1969 and 2003 they nested in the <a href="/wiki/Lake_District" title="Lake District">Lake District</a>, Cumbria.<sup id="cite_ref-MH_1_35-1" class="reference"><a href="#cite_note-MH_1-35"><span>[</span>36<span>]</span></a></sup></p>
+<p>In <a href="/wiki/Ireland" title="Ireland">Ireland</a>, where it had been extinct due to hunting since 1912, efforts are being made to re-introduce the species. Forty-six birds were released into the wild in <a href="/wiki/Glenveagh_National_Park" title="Glenveagh National Park" class="mw-redirect">Glenveagh National Park</a>, <a href="/wiki/County_Donegal" title="County Donegal">County Donegal</a>, from 2001 to 2006, with at least three known female fatalities since then. It is intended to release a total of sixty birds, to ensure a viable population. In April 2007, a pair of Golden Eagles produced the first chick to be hatched in the Republic of Ireland in nearly a century. The previous attempt to help the birds breed at the Glenveagh National Park had failed.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from December 2010">citation needed</span></a></i>]</sup></p>
+<p>In <a href="/wiki/North_America" title="North America">North America</a> the situation is not as dramatic, but there has still been a noticeable decline. The main threat is <a href="/wiki/Habitat_destruction" title="Habitat destruction">habitat destruction</a> which by the late 19th century already had driven Golden Eagles from some regions they used to inhabit.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>38<span>]</span></a></sup> In the 20th century, <a href="/wiki/Organochloride" title="Organochloride">organochloride</a> and <a href="/wiki/Heavy_metal_(chemistry)" title="Heavy metal (chemistry)">heavy metal</a> poisonings were also commonplace, but these have declined thanks to tighter regulations on <a href="/wiki/Pollution" title="Pollution">pollution</a>. Within the <a href="/wiki/United_States" title="United States">United States</a>, the Golden Eagle is legally protected by the <a href="/wiki/Bald_and_Golden_Eagle_Protection_Act" title="Bald and Golden Eagle Protection Act">Bald and Golden Eagle Protection Act</a>.<sup id="cite_ref-Ferguson-Lees_3-22" class="reference"><a href="#cite_note-Ferguson-Lees-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>Available habitat and food are the main limiting factor nowadays. Collisions with <a href="/wiki/Power_lines" title="Power lines" class="mw-redirect">power lines</a> have become an increasingly significant cause of mortality since the early 20th century. Controversially, the US Fish and Wildlife Service has permitted that a "wind-farmer" in central <a href="/wiki/Oregon" title="Oregon">Oregon</a> could legally cause the incidental killing of Golden Eagles by large wind turbines. Such turbines have set up as an alternative source of energy and appear to move slowly from a distance but at close range move quickly enough to appear invisible or as a blur. It is estimated that up to 70 Golden Eagles may be killed by turbines each year.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>39<span>]</span></a></sup></p>
+<p>On a global scale, the Golden Eagle is not considered threatened by the <a href="/wiki/IUCN" title="IUCN" class="mw-redirect">IUCN</a> due to an estimated world population of more than 170,000 individuals.<sup id="cite_ref-IUCN2012_0-1" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup> On a conservation front, the Golden Eagle is itself unintentionally contributing to the conservation crisis of another animal, the <a href="/wiki/Island_Fox" title="Island Fox" class="mw-redirect">Island Fox</a> (<i>Urocyon littoralis</i>), a small insular relative of the <a href="/wiki/Gray_Fox" title="Gray Fox" class="mw-redirect">Gray Fox</a> (<i>U. cinereoargenteus</i>) found only in the <a href="/wiki/Channel_Islands_of_California" title="Channel Islands of California">Channel Islands of California</a>. This <a href="/wiki/Critically_Endangered" title="Critically Endangered">critically endangered</a> canid had evolved without predators but the large breeding population of Golden Eagles in <a href="/wiki/California" title="California">California</a> has spilled in numbers over to the islands and is there feeding largely on the foxes, whose already declining population cannot support sustained predation.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>40<span>]</span></a></sup></p>
+<h2> <span class="mw-headline" id="In_human_culture">In human culture</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hunting_with_Golden_Eagles_.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hunting_with_Golden_Eagles_.jpg/220px-Hunting_with_Golden_Eagles_.jpg" width="220" height="136" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hunting_with_Golden_Eagles_.jpg/330px-Hunting_with_Golden_Eagles_.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hunting_with_Golden_Eagles_.jpg/440px-Hunting_with_Golden_Eagles_.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hunting_with_Golden_Eagles_.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+1870s illustration of <i>burkut</i> <a href="/wiki/Falconry" title="Falconry">falconers</a> in <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a></div>
+</div>
+</div>
+<h3> <span class="mw-headline" id="Falconry">Falconry</span></h3>
+<p>Golden Eagles have been used in falconry since the Middle Ages. In Asia, they were used in teams to hunt such animals as deer, antelope and wolves, while their use was reserved for Emperors in Europe.<sup id="cite_ref-eagles_40-0" class="reference"><a href="#cite_note-eagles-40"><span>[</span>41<span>]</span></a></sup> They can be trained for <a href="/wiki/Falconry" title="Falconry">falconry</a>.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>42<span>]</span></a></sup></p>
+<h3> <span class="mw-headline" id="Heraldry">Heraldry</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Eagle_(heraldry)" title="Eagle (heraldry)">Eagle (heraldry)</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/w/index.php?title=File:Flag_of_Albania.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/220px-Flag_of_Albania.svg.png" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/330px-Flag_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/440px-Flag_of_Albania.svg.png 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Flag_of_Albania.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Albanian_Flag" title="Albanian Flag" class="mw-redirect">Albanian Flag</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/w/index.php?title=File:Coat_of_arms_of_Mexico.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/220px-Coat_of_arms_of_Mexico.svg.png" width="220" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/330px-Coat_of_arms_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/440px-Coat_of_arms_of_Mexico.svg.png 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Coat_of_arms_of_Mexico.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Mexican_coat_of_arms" title="Mexican coat of arms" class="mw-redirect">Mexican coat of arms</a></div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/w/index.php?title=File:Coat_of_arms_of_Egypt_(Official).svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg/150px-Coat_of_arms_of_Egypt_%28Official%29.svg.png" width="150" height="204" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg/225px-Coat_of_arms_of_Egypt_%28Official%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg/300px-Coat_of_arms_of_Egypt_%28Official%29.svg.png 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Coat_of_arms_of_Egypt_(Official).svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Coat_of_arms_of_Egypt" title="Coat of arms of Egypt">Coat of arms of Egypt</a></div>
+</div>
+</div>
+<p>The Golden Eagle is the most common <a href="/wiki/National_animal" title="National animal" class="mw-redirect">national animal</a> in the world, with five nations—<a href="/wiki/Albania" title="Albania">Albania</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, <a href="/wiki/Austria" title="Austria">Austria</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a> and <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>—making it the national animal. It is also a common motif in the national symbols of countries that have not officially made it the national animal or national bird. The reasons for this are various, but among the nations that use the Golden Eagle as or in a state symbol, there are two clear traditions that help explain the modern usage. Among European countries, the Golden Eagle was the model for the <i><a href="/wiki/Aquila_(Roman)" title="Aquila (Roman)">aquila</a></i>, the most prominent symbol of the <a href="/wiki/Roman_legion" title="Roman legion">Roman legions</a> and more generally the <a href="/wiki/Ancient_Rome" title="Ancient Rome">Roman civilization</a> that had such a powerful impact on <a href="/wiki/Western_culture" title="Western culture">Western culture</a>; furthermore, some Roman traditions were carried on by the <a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine Empire</a> in the Southern and Eastern of Europe and the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a> in Central and Western Europe, transmitting the use of the Golden Eagle to several modern states. This association of the Golden Eagle with Rome has also led to the adoption of similar symbols in other countries; for instance, the adoption of the related and physically similar <a href="/wiki/Bald_Eagle" title="Bald Eagle">Bald Eagle</a> as the national bird of the <a href="/wiki/United_States" title="United States">United States</a> was inspired by the conception of the United States as a modern reincarnation of the <a href="/wiki/Roman_Republic" title="Roman Republic">Roman Republic</a>, a theme that recurs in other elements as well (including the prevalence of <a href="/wiki/Neoclassical_architecture" title="Neoclassical architecture">neoclassical architecture</a> in American public buildings and the use of Roman terminology—such as naming the upper house of Congress the Senate—to hark back to the Roman model).</p>
+<p>Another large tradition of using the Golden Eagle can be found in the <a href="/wiki/Arab_world" title="Arab world">Arab world</a>, where the eagle is historically a symbol of power in <a href="/wiki/Arabic_poetry" title="Arabic poetry">Arabic poetry</a>, and was according to legend the personal emblem of <a href="/wiki/Saladin" title="Saladin">Saladin</a>. The specific depiction of Golden Eagle legendarily considered to be Saladin's was adopted by the <a href="/wiki/Arab_nationalism" title="Arab nationalism">Arab nationalist</a> movement, and currently appears on the arms of <a href="/wiki/Coat_of_arms_of_Egypt" title="Coat of arms of Egypt">Egypt</a>, <a href="/wiki/Coat_of_arms_of_Iraq" title="Coat of arms of Iraq">Iraq</a>, and <a href="/wiki/Coat_of_arms_of_the_Palestinian_National_Authority" title="Coat of arms of the Palestinian National Authority">Palestine</a>; it had previously appeared on the <a href="/wiki/Emblem_of_Yemen" title="Emblem of Yemen">arms</a> of the <a href="/wiki/People%27s_Democratic_Republic_of_Yemen" title="People's Democratic Republic of Yemen" class="mw-redirect">People's Democratic Republic of Yemen</a> (1967–1990) and on the <a href="/wiki/Coat_of_arms_of_Libya" title="Coat of arms of Libya">arms</a> of the <a href="/wiki/Libyan_Arab_Republic" title="Libyan Arab Republic" class="mw-redirect">Libyan Arab Republic</a> (1970–1972). The current emblem of Yemen displays a Golden Eagle, but it is not that of Saladin.</p>
+<h3> <span class="mw-headline" id="Religion">Religion</span></h3>
+<h4> <span class="mw-headline" id="In_North_America">In North America</span></h4>
+<p>The eagle is a sacred bird in some cultures and the feathers of the eagle are central to many religious and spiritual customs, especially among some <a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">Native Americans in the United States</a> and <a href="/wiki/First_Nations" title="First Nations">First Nations</a> in Canada, as well as among many of the peoples of Meso-America. Some Native American peoples revere eagles as sacred and the feathers and other parts of Bald and Golden Eagles. Feathers are often worn on Native American headdresses and have been compared to the <a href="/wiki/Bible" title="Bible">Bible</a> and <a href="/wiki/Crucifix" title="Crucifix">crucifix</a> of Christianity. Eagle feathers are often used in various Native ceremonies and are used to honour noteworthy achievements and qualities such as exceptional leadership and bravery.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from December 2010">citation needed</span></a></i>]</sup> The Golden Eagle is thought to be the origin of the <a href="/wiki/Thunderbird_(mythology)" title="Thunderbird (mythology)">Thunderbird</a> legends of the southwestern United States,<sup id="cite_ref-eagles_40-1" class="reference"><a href="#cite_note-eagles-40"><span>[</span>41<span>]</span></a></sup></p>
+<p>Current United States <a href="/wiki/Eagle_feather_law" title="Eagle feather law">eagle feather law</a> (50 <a href="/wiki/Code_of_Federal_Regulations" title="Code of Federal Regulations">CFR</a> 22) stipulates that only individuals of certifiable Native American ancestry enrolled in a federally recognized tribe are legally authorized to obtain eagle feathers for religious or spiritual use. Thus, the supply of eagle material for traditional ceremonial use can be guaranteed and ceremonial eagle items can be passed on as <a href="/wiki/Heirloom" title="Heirloom">heirlooms</a> by their traditional owners without the restrictions that would usually apply. Commercial trade in Golden Eagles or their feathers or body parts is not legalized by these exceptions.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>43<span>]</span></a></sup></p>
+<h3> <span class="mw-headline" id="Postage_stamps">Postage stamps</span></h3>
+<p>The Golden Eagle is the eighth-most common bird depicted on postage stamps with 155 stamps issued by 71 stamp-issuing entities.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>44<span>]</span></a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>45<span>]</span></a></sup></p>
+<h3> <span class="mw-headline" id="Other">Other</span></h3>
+<p><a href="/wiki/J.R.R._Tolkien" title="J.R.R. Tolkien" class="mw-redirect">J.R.R. Tolkien</a> used an image of an immature Golden Eagle from <a href="/wiki/T._A._Coward" title="T. A. Coward" class="mw-redirect">T. A. Coward</a>'s 1919 work <i><a href="/w/index.php?title=The_Birds_of_the_British_Isles_and_Their_Eggs&amp;action=edit&amp;redlink=1" class="new" title="The Birds of the British Isles and Their Eggs (page does not exist)">The Birds of the British Isles and Their Eggs</a></i> for an illustration depicting Bilbo awaking next to Gwaihir (a giant eagle).<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>46<span>]</span></a></sup> Tolkien's Gwaihir was recreated digitally in the <a href="/wiki/Academy_Award" title="Academy Award">Academy Award</a>-winning film <a href="/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a>. The cinematic Gwaihir was modeled after a stuffed Golden Eagle, which was thence scaled up to the size of a small airplane.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>47<span>]</span></a></sup></p>
+<h2> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003537">"<i>Aquila chrysaetos</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003537">http://www.iucnredlist.org/apps/redlist/details/106003537</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Aquila+chrysaetos%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003537&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Watson-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Watson_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Watson_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Watson_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Watson_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Watson_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Watson_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Watson_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Watson_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Watson_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Watson_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Watson_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Watson_1-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Watson_1-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Watson_1-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Watson_1-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Watson_1-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-Watson_1-16"><sup><i><b>q</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Jeff Watson (23 August 2010). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=aj5MNvCkun0C"><i>The Golden Eagle</i></a>. A&amp;C Black. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-1420-9" title="Special:BookSources/978-1-4081-1420-9">978-1-4081-1420-9</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/books?id=aj5MNvCkun0C">http://books.google.com/books?id=aj5MNvCkun0C</a></span><span class="reference-accessdate">. Retrieved 22 August 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Golden+Eagle&amp;rft.aulast=Jeff+Watson&amp;rft.au=Jeff+Watson&amp;rft.date=23+August+2010&amp;rft.pub=A%26C+Black&amp;rft.isbn=978-1-4081-1420-9&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Daj5MNvCkun0C&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Cornell-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cornell_2-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allaboutbirds.org/guide/Golden_Eagle/lifehistory">"Golden Eagle, Life History"</a>. <i>All About Birds</i>. Cornell Lab of Ornithology. 2009<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.allaboutbirds.org/guide/Golden_Eagle/lifehistory">http://www.allaboutbirds.org/guide/Golden_Eagle/lifehistory</a></span><span class="reference-accessdate">. Retrieved 26 December 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Golden+Eagle%2C+Life+History&amp;rft.atitle=All+About+Birds&amp;rft.date=2009&amp;rft.pub=Cornell+Lab+of+Ornithology&amp;rft_id=http%3A%2F%2Fwww.allaboutbirds.org%2Fguide%2FGolden_Eagle%2Flifehistory&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Ferguson-Lees-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ferguson-Lees_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-Ferguson-Lees_3-22"><sup><i><b>w</b></i></sup></a></span> <span class="reference-text"><i>Raptors of the World</i> by Ferguson-Lees, Christie, Franklin, Mead &amp; Burton. Houghton Mifflin (2001), <a href="/wiki/Special:BookSources/0618127623" class="internal mw-magiclink-isbn">ISBN 0-618-12762-3</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation book">Roger Tory Peterson (15 May 1998). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=JCMEZ4EqzDIC&amp;pg=PA180"><i>A Field Guide to Western Birds: A Completely New Guide to Field Marks of All Species Found in North America West of the 100th Meridian and North of Mexico</i></a>. Houghton Mifflin Harcourt. pp.&#160;180–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-395-91174-7" title="Special:BookSources/978-0-395-91174-7">978-0-395-91174-7</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/books?id=JCMEZ4EqzDIC&amp;pg=PA180">http://books.google.com/books?id=JCMEZ4EqzDIC&amp;pg=PA180</a></span><span class="reference-accessdate">. Retrieved 22 August 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Field+Guide+to+Western+Birds%3A+A+Completely+New+Guide+to+Field+Marks+of+All+Species+Found+in+North+America+West+of+the+100th+Meridian+and+North+of+Mexico&amp;rft.aulast=Roger+Tory+Peterson&amp;rft.au=Roger+Tory+Peterson&amp;rft.date=15+May+1998&amp;rft.pages=pp.%26nbsp%3B180%E2%80%93&amp;rft.pub=Houghton+Mifflin+Harcourt&amp;rft.isbn=978-0-395-91174-7&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJCMEZ4EqzDIC%26pg%3DPA180&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book"><i>National Geographic Field Guide To The Birds Of North America, 4th Edition</i>. 2002. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-79226-877-2" title="Special:BookSources/978-0-79226-877-2">978-0-79226-877-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=National+Geographic+Field+Guide+To+The+Birds+Of+North+America%2C+4th+Edition&amp;rft.date=2002&amp;rft.isbn=978-0-79226-877-2&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-HBW-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-HBW_6-0">^</a></b></span> <span class="reference-text"><span class="citation book">del Hoyo, J; Elliot, A; Sargatal, J (1996). <i><a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">Handbook of the Birds of the World</a></i>. <b>3</b>. <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>: <a href="/wiki/Lynx_Edicions" title="Lynx Edicions">Lynx Edicions</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-20-2" title="Special:BookSources/84-87334-20-2">84-87334-20-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%5B%5BHandbook+of+the+Birds+of+the+World%5D%5D&amp;rft.aulast=del+Hoyo&amp;rft.aufirst=J&amp;rft.au=del+Hoyo%2C%26%2332%3BJ&amp;rft.au=Elliot%2C%26%2332%3BA&amp;rft.au=Sargatal%2C%26%2332%3BJ&amp;rft.date=1996&amp;rft.volume=3&amp;rft.place=%5B%5BBarcelona%5D%5D&amp;rft.pub=%5B%5BLynx+Edicions%5D%5D&amp;rft.isbn=84-87334-20-2&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Wood-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wood_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wood_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Wood, Gerald (1983). <i>The Guinness Book of Animal Facts and Feats</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-85112-235-9" title="Special:BookSources/978-0-85112-235-9">978-0-85112-235-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Guinness+Book+of+Animal+Facts+and+Feats&amp;rft.aulast=Wood%2C+Gerald&amp;rft.au=Wood%2C+Gerald&amp;rft.date=1983&amp;rft.isbn=978-0-85112-235-9&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gbgm-umc.org/grupongsagip/eagle.htm">Sagip Eagle</a>. Gbgm-umc.org. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://bna.birds.cornell.edu/bna/species/684/articles/measurements">[1]</a></span></li>
+<li id="cite_note-Terres478-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Terres478_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Terres478_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Terres (1980), p. 478</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Clark and Wheeler (2001), p. 241</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation Journal">Jollie, Malcolm (1947). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Auk/v064n04/p0549-p0576.pdf">"Plumage Changes in the Golden Eagle"</a>. <i>Auk</i> (American Ornithologists' Union) <b>64</b>: 549–576<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Auk/v064n04/p0549-p0576.pdf">http://elibrary.unm.edu/sora/Auk/v064n04/p0549-p0576.pdf</a></span><span class="reference-accessdate">. Retrieved 27 December 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Plumage+Changes+in+the+Golden+Eagle&amp;rft.jtitle=Auk&amp;rft.aulast=Jollie&amp;rft.aufirst=Malcolm&amp;rft.au=Jollie%2C%26%2332%3BMalcolm&amp;rft.date=1947&amp;rft.volume=64&amp;rft.pages=549%E2%80%93576&amp;rft.pub=American+Ornithologists%27+Union&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FAuk%2Fv064n04%2Fp0549-p0576.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Clark, William S (1983). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/NAB/v037n05/p00822-p00826.pdf">"The field identification of North American eagles"</a>. <i>North American Birds</i> (American Birding Association) <b>37</b> (5): 822–826<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/NAB/v037n05/p00822-p00826.pdf">http://elibrary.unm.edu/sora/NAB/v037n05/p00822-p00826.pdf</a></span><span class="reference-accessdate">. Retrieved 27 December 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+field+identification+of+North+American+eagles&amp;rft.jtitle=North+American+Birds&amp;rft.aulast=Clark&amp;rft.aufirst=William+S&amp;rft.au=Clark%2C%26%2332%3BWilliam+S&amp;rft.date=1983&amp;rft.volume=37&amp;rft.issue=5&amp;rft.pages=822%E2%80%93826&amp;rft.pub=American+Birding+Association&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FNAB%2Fv037n05%2Fp00822-p00826.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-ABAaging-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-ABAaging_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ABAaging_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Liguori, Jerry (2004). <a rel="nofollow" class="external text" href="http://www.aba.org/birding/v36n3p278.pdf">"How to Age Golden Eagles"</a>. <i>Birding</i> (American Birding Association): 278–283<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.aba.org/birding/v36n3p278.pdf">http://www.aba.org/birding/v36n3p278.pdf</a></span><span class="reference-accessdate">. Retrieved 27 December 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How+to+Age+Golden+Eagles&amp;rft.jtitle=Birding&amp;rft.aulast=Liguori&amp;rft.aufirst=Jerry&amp;rft.au=Liguori%2C%26%2332%3BJerry&amp;rft.date=2004&amp;rft.pages=278%E2%80%93283&amp;rft.pub=American+Birding+Association&amp;rft_id=http%3A%2F%2Fwww.aba.org%2Fbirding%2Fv36n3p278.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Cornell1-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cornell1_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cornell1_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://bna.birds.cornell.edu/bna/species/684/articles/foodhabits">Cornell University</a>. Bna.birds.cornell.edu. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">"<i>[Falco] cera lutea, pedibus lanatis, corpore fusco ferrugineo vario, cauda nigra basi cinereo-undulata.</i>" – "A [diurnal raptor] with yellow <a href="/wiki/Cere" title="Cere" class="mw-redirect">cere</a>, [feathered <a href="/wiki/Tarsometatarsus" title="Tarsometatarsus">tarsometatarsus</a>], body dusky brown variegated with rusty, tail black with ashy-waved base." (Linnaeus 1758)</span></li>
+<li id="cite_note-brisson-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-brisson_17-0">^</a></b></span> <span class="reference-text"><span class="citation book">Brisson; Mathurin Jacques (1760). <i>Ornithologie; ou, Méthode contenant la division des oiseaux en ordres, sections, genres, espéces &amp; leurs variétés. &amp;c</i>. Paris: C.J.B. Bauche. pp.&#160;28, 419.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ornithologie%3B+ou%2C+M%C3%A9thode+contenant+la+division+des+oiseaux+en+ordres%2C+sections%2C+genres%2C+esp%C3%A9ces+%26+leurs+vari%C3%A9t%C3%A9s.+%26c&amp;rft.aulast=Brisson&amp;rft.au=Brisson&amp;rft.date=1760&amp;rft.pages=pp.%26nbsp%3B28%2C+419&amp;rft.place=Paris&amp;rft.pub=C.J.B.+Bauche&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-pcr-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-pcr_18-0">^</a></b></span> <span class="reference-text"><span class="citation book">Rasmussen, PC &amp; JC Anderton (2005). <i>Birds of South Asia. The Ripley Guide. Volume 2</i>. Smithsonian Institution &amp; Lynx Edicions. p.&#160;107.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+South+Asia.+The+Ripley+Guide.+Volume+2&amp;rft.aulast=Rasmussen%2C+PC+%26+JC+Anderton&amp;rft.au=Rasmussen%2C+PC+%26+JC+Anderton&amp;rft.date=2005&amp;rft.pages=p.%26nbsp%3B107&amp;rft.pub=Smithsonian+Institution+%26+Lynx+Edicions&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Sánchez Marco (2004)</span></li>
+<li id="cite_note-ADW-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-ADW_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ADW_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://animaldiversity.ummz.umich.edu/site/accounts/information/Aquila%20chrysaetos.html">ADW: Aquila chrysaetos: INFORMATION</a>. Animaldiversity.ummz.umich.edu. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lubbockonline.com/stories/032606/gue_032606062.shtml">Powerful feet and talons help birds of prey make their living | Lubbock Online | Lubbock Avalanche-Journal</a>. Lubbock Online (2006-03-26). Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation Journal">Olendorff, Richard R. (1976). "The Food Habits of North American Golden Eagles". <i>American Midland Naturalist</i> (The University of Notre Dame) <b>95</b> (1): 231–236. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F2424254">10.2307/2424254</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Food+Habits+of+North+American+Golden+Eagles&amp;rft.jtitle=American+Midland+Naturalist&amp;rft.aulast=Olendorff&amp;rft.aufirst=Richard+R.&amp;rft.au=Olendorff%2C%26%2332%3BRichard+R.&amp;rft.date=1976&amp;rft.volume=95&amp;rft.issue=1&amp;rft.pages=231%E2%80%93236&amp;rft.pub=The+University+of+Notre+Dame&amp;rft_id=info:doi/10.2307%2F2424254&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation Journal">Marr, N. Verne; Knight, Richard L. (1983). "Food Habits of Golden Eagles in Eastern Washington". <i>The Murrelet</i> (Society for Northwestern Vertebrate Biology) <b>64</b> (3): 73–77. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F3535265">10.2307/3535265</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Food+Habits+of+Golden+Eagles+in+Eastern+Washington&amp;rft.jtitle=The+Murrelet&amp;rft.aulast=Marr&amp;rft.aufirst=N.+Verne&amp;rft.au=Marr%2C%26%2332%3BN.+Verne&amp;rft.au=Knight%2C%26%2332%3BRichard+L.&amp;rft.date=1983&amp;rft.volume=64&amp;rft.issue=3&amp;rft.pages=73%E2%80%9377&amp;rft.pub=Society+for+Northwestern+Vertebrate+Biology&amp;rft_id=info:doi/10.2307%2F3535265&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ilbirds.com/index.php?topic=32809.0">Golden Eagle attacks White-tailed Deer at Nachusa Grasslands!</a>. Ilbirds.com. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mason, J.R. (2000). <a rel="nofollow" class="external text" href="http://www.aphis.usda.gov/wildlife_damage/nwrc/publications/00pubs/00-41.pdf">"Golden Eagle Attacks and Kills Adult Male Coyote"</a>. <i>Journal of Raptor Research</i> <b>34</b> (3): 244–245<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.aphis.usda.gov/wildlife_damage/nwrc/publications/00pubs/00-41.pdf">http://www.aphis.usda.gov/wildlife_damage/nwrc/publications/00pubs/00-41.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Golden+Eagle+Attacks+and+Kills+Adult+Male+Coyote&amp;rft.jtitle=Journal+of+Raptor+Research&amp;rft.aulast=Mason%2C+J.R.&amp;rft.au=Mason%2C+J.R.&amp;rft.date=2000&amp;rft.volume=34&amp;rft.issue=3&amp;rft.pages=244%E2%80%93245&amp;rft_id=http%3A%2F%2Fwww.aphis.usda.gov%2Fwildlife_damage%2Fnwrc%2Fpublications%2F00pubs%2F00-41.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=C42-rIiBCTk">Golden Eagle kills Grey wolf and fox.</a>. YouTube (2010-01-22). Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=Yz7FFlFy8eM">Golden Eagle dragging mountains goats off cliffs.</a>. YouTube. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=r3n4qPpL8T0">Golden Eagle Kills Goat for it's prey.</a>. YouTube (2007-11-25). Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sørensen, Ole; Mogens Totsås, Tore Solstad, Robin Rigg (2008). <a rel="nofollow" class="external text" href="http://www.bearbiology.com/fileadmin/tpl/Downloads/URSUS/Vol_19/Sorenson_Totsas_Solstad_Rigg_19_2.pdf">"Predation by a Golden Eagle on a Brown Bear Cub"</a>. <i>Ursus</i> <b>19</b> (2): 190–193. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2192%2F08SC008.1">10.2192/08SC008.1</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bearbiology.com/fileadmin/tpl/Downloads/URSUS/Vol_19/Sorenson_Totsas_Solstad_Rigg_19_2.pdf">http://www.bearbiology.com/fileadmin/tpl/Downloads/URSUS/Vol_19/Sorenson_Totsas_Solstad_Rigg_19_2.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Predation+by+a+Golden+Eagle+on+a+Brown+Bear+Cub&amp;rft.jtitle=Ursus&amp;rft.aulast=S%C3%B8rensen&amp;rft.aufirst=Ole&amp;rft.au=S%C3%B8rensen%2C%26%2332%3BOle&amp;rft.date=2008&amp;rft.volume=19&amp;rft.issue=2&amp;rft.pages=190%E2%80%93193&amp;rft_id=info:doi/10.2192%2F08SC008.1&amp;rft_id=http%3A%2F%2Fwww.bearbiology.com%2Ffileadmin%2Ftpl%2FDownloads%2FURSUS%2FVol_19%2FSorenson_Totsas_Solstad_Rigg_19_2.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Cornell2-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cornell2_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cornell2_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Cornell2_30-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Cornell2_30-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://bna.birds.cornell.edu/bna/species/641/articles/behavior">Cornell University</a>. Bna.birds.cornell.edu. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation Journal">Tjernberg, Martin (1981). "Diet of the Golden Eagle Aquila chrysaetos during the Breeding Season in Sweden". <i>Holarctic Ecology</i> (Nordic Society Oikos) <b>4</b> (1): 12–19.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Diet+of+the+Golden+Eagle+Aquila+chrysaetos+during+the+Breeding+Season+in+Sweden&amp;rft.jtitle=Holarctic+Ecology&amp;rft.aulast=Tjernberg&amp;rft.aufirst=Martin&amp;rft.au=Tjernberg%2C%26%2332%3BMartin&amp;rft.date=1981&amp;rft.volume=4&amp;rft.issue=1&amp;rft.pages=12%E2%80%9319&amp;rft.pub=Nordic+Society+Oikos&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation Journal">Hays, Larry L. <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/jrr/v021n02/p00067-p00067.pdf">"Peregrine Falcon Nest Defense Against a Golden Eagle"</a>. <i>Journal of Raptor Research</i> <b>21</b> (2): 67<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/jrr/v021n02/p00067-p00067.pdf">http://elibrary.unm.edu/sora/jrr/v021n02/p00067-p00067.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Peregrine+Falcon+Nest+Defense+Against+a+Golden+Eagle&amp;rft.jtitle=Journal+of+Raptor+Research&amp;rft.aulast=Hays%2C+Larry+L&amp;rft.au=Hays%2C+Larry+L&amp;rft.volume=21&amp;rft.issue=2&amp;rft.pages=67&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2Fjrr%2Fv021n02%2Fp00067-p00067.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation Journal">Smith, D.G. (1982). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/jrr/v016n04/p00128-p00132.pdf">"Spatial Relationships of Nesting Golden Eagles in Central Utah"</a>. <i>Journal of Raptor Research</i> <b>16</b> (4): 127–132<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/jrr/v016n04/p00128-p00132.pdf">http://elibrary.unm.edu/sora/jrr/v016n04/p00128-p00132.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spatial+Relationships+of+Nesting+Golden+Eagles+in+Central+Utah&amp;rft.jtitle=Journal+of+Raptor+Research&amp;rft.aulast=Smith%2C+D.G.&amp;rft.au=Smith%2C+D.G.&amp;rft.date=1982&amp;rft.volume=16&amp;rft.issue=4&amp;rft.pages=127%E2%80%93132&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2Fjrr%2Fv016n04%2Fp00128-p00132.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><i>Owls of the World</i> by Konig, Weick &amp; Becking. Yale University Press (2009), <a href="/wiki/Special:BookSources/0300142277" class="internal mw-magiclink-isbn">ISBN 0300142277</a></span></li>
+<li id="cite_note-MH_1-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-MH_1_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MH_1_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Mark Holling and the Rare Breeding Birds Panel <a rel="nofollow" class="external text" href="http://www.rbbp.org.uk/downloads/rbbp-report-2003-04.pdf">Report for 2003-4</a> accessed 4 March 2010.</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mark Holling and the Rare Breeding Birds Panel (2010). <a rel="nofollow" class="external text" href="http://www.rbbp.org.uk/downloads/rbbp-report-2007.pdf">"Rare breeding birds in the United Kingdom in 2007"</a>. <i>British Birds</i> <b>103</b>: 45–6<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.rbbp.org.uk/downloads/rbbp-report-2007.pdf">http://www.rbbp.org.uk/downloads/rbbp-report-2007.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rare+breeding+birds+in+the+United+Kingdom+in+2007&amp;rft.jtitle=British+Birds&amp;rft.aulast=Mark+Holling+and+the+Rare+Breeding+Birds+Panel&amp;rft.au=Mark+Holling+and+the+Rare+Breeding+Birds+Panel&amp;rft.date=2010&amp;rft.volume=103&amp;rft.pages=45%E2%80%936&amp;rft_id=http%3A%2F%2Fwww.rbbp.org.uk%2Fdownloads%2Frbbp-report-2007.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">E.g. Henninger (1906)</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://usnews.msnbc.msn.com/_news/2012/01/04/9952873-feds-propose-allowing-wind-farm-developer-to-kill-golden-eagles?lite">Feds propose allowing wind-farm developer to kill golden eagles – U.S. News</a>. Usnews.msnbc.msn.com (2012-01-04). Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/22781/0"><i>Urocyon littoralis</i> (California Channel Island Fox, Channel Islands Fox, Island Fox, Island Gray Fox, Island Grey Fox)</a>. Iucnredlist.org. Retrieved on 2012-08-22.</span></li>
+<li id="cite_note-eagles-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-eagles_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eagles_40-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Warhol, Tom; Reiter, Chris (2003). <a rel="nofollow" class="external text" href="http://books.google.com.au/books?id=aH-Aq6oF5uoC&amp;pg=PA18&amp;dq=Golden+Eagle+falconry#v=onepage&amp;q=Golden%20Eagle%20falconry&amp;f=false"><i>Eagles</i></a>. Marshall Cavendish. pp.&#160;18â€“19. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7614-1578-5" title="Special:BookSources/0-7614-1578-5">0-7614-1578-5</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com.au/books?id=aH-Aq6oF5uoC&amp;pg=PA18&amp;dq=Golden+Eagle+falconry#v=onepage&amp;q=Golden%20Eagle%20falconry&amp;f=false">http://books.google.com.au/books?id=aH-Aq6oF5uoC&amp;pg=PA18&amp;dq=Golden+Eagle+falconry#v=onepage&amp;q=Golden%20Eagle%20falconry&amp;f=false</a></span><span class="reference-accessdate">. Retrieved 1 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Eagles&amp;rft.aulast=Warhol%2C+Tom%3B+Reiter%2C+Chris&amp;rft.au=Warhol%2C+Tom%3B+Reiter%2C+Chris&amp;rft.date=2003&amp;rft.pages=pp.%26nbsp%3B18%C3%A2%E2%82%AC%E2%80%9C19&amp;rft.pub=Marshall+Cavendish&amp;rft.isbn=0-7614-1578-5&amp;rft_id=http%3A%2F%2Fbooks.google.com.au%2Fbooks%3Fid%3DaH-Aq6oF5uoC%26pg%3DPA18%26dq%3DGolden%2BEagle%2Bfalconry%23v%3Donepage%26q%3DGolden%2520Eagle%2520falconry%26f%3Dfalse&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation book">Hollinshead, Martin (1995). <i>Hawking with golden eagles</i>. Surrey, British Columbia: Hancock House. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-88839-343-1" title="Special:BookSources/0-88839-343-1">0-88839-343-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hawking+with+golden+eagles&amp;rft.aulast=Hollinshead&amp;rft.aufirst=Martin&amp;rft.au=Hollinshead%2C%26%2332%3BMartin&amp;rft.date=1995&amp;rft.place=Surrey%2C+British+Columbia&amp;rft.pub=Hancock+House&amp;rft.isbn=0-88839-343-1&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a href="/wiki/United_States_District_Court_for_the_District_of_Nevada" title="United States District Court for the District of Nevada">USDCDN</a> (1986), <a href="/wiki/USFWS" title="USFWS" class="mw-redirect">USFWS</a>-SR (2001), USFWS-OLE (2004a,b), <a href="/wiki/Code_of_Federal_Regulations" title="Code of Federal Regulations">e-CFR</a> (2008)</span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation web">Scharning, Kjell. <a rel="nofollow" class="external text" href="http://www.birdtheme.org/statistics.html">"Bird Stamp Statistics"</a>. <i>Theme Birds on Stamps</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdtheme.org/statistics.html">http://www.birdtheme.org/statistics.html</a></span><span class="reference-accessdate">. Retrieved 17 January 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Bird+Stamp+Statistics&amp;rft.atitle=Theme+Birds+on+Stamps&amp;rft.aulast=Scharning%2C+Kjell&amp;rft.au=Scharning%2C+Kjell&amp;rft_id=http%3A%2F%2Fwww.birdtheme.org%2Fstatistics.html&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation web">Scharning, Kjell. <a rel="nofollow" class="external text" href="http://www.birdtheme.org/mainlyimages/index.php?spec=1265">"Stamps showing Golden Eagle <i>Aquila chrysaetos</i>"</a>. <i>Theme Birds on Stamps</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdtheme.org/mainlyimages/index.php?spec=1265">http://www.birdtheme.org/mainlyimages/index.php?spec=1265</a></span><span class="reference-accessdate">. Retrieved 17 January 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Stamps+showing+Golden+Eagle+%27%27Aquila+chrysaetos%27%27&amp;rft.atitle=Theme+Birds+on+Stamps&amp;rft.aulast=Scharning%2C+Kjell&amp;rft.au=Scharning%2C+Kjell&amp;rft_id=http%3A%2F%2Fwww.birdtheme.org%2Fmainlyimages%2Findex.php%3Fspec%3D1265&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><span class="citation book">Hammond, Wayne G.; Scull, Christina (1995). <i>J. R. R. Tolkien Artist and Illustrator</i>. Hammersmith, London: HarperCollins. pp.&#160;120–21. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-261-10322-9" title="Special:BookSources/0-261-10322-9">0-261-10322-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=J.+R.+R.+Tolkien+Artist+and+Illustrator&amp;rft.aulast=Hammond%2C+Wayne+G.%3B+Scull%2C+Christina&amp;rft.au=Hammond%2C+Wayne+G.%3B+Scull%2C+Christina&amp;rft.date=1995&amp;rft.pages=pp.%26nbsp%3B120%E2%80%9321&amp;rft.place=Hammersmith%2C+London&amp;rft.pub=HarperCollins&amp;rft.isbn=0-261-10322-9&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://gryphonking.aelfhame.net/iview.php3">http://gryphonking.aelfhame.net/iview.php3</a></span></li>
+</ol>
+</div>
+<h2> <span class="mw-headline" id="Works_cited">Works cited</span></h2>
+<ul>
+<li><span class="citation book">Clark, William S.; Wheeler, Brian K. (2001). <a rel="nofollow" class="external text" href="http://books.google.com/?id=a_pbxM21l5UC&amp;printsec=frontcover"><i>A field guide to hawks of North America</i></a>. <a href="/wiki/New_York_City" title="New York City">New York</a>: <a href="/wiki/Houghton_Mifflin_Company" title="Houghton Mifflin Company" class="mw-redirect">Houghton Mifflin Company</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-395-67067-5" title="Special:BookSources/0-395-67067-5">0-395-67067-5</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/?id=a_pbxM21l5UC&amp;printsec=frontcover">http://books.google.com/?id=a_pbxM21l5UC&amp;printsec=frontcover</a></span><span class="reference-accessdate">. Retrieved 26 December 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+field+guide+to+hawks+of+North+America&amp;rft.aulast=Clark&amp;rft.aufirst=William+S.&amp;rft.au=Clark%2C%26%2332%3BWilliam+S.&amp;rft.au=Wheeler%2C%26%2332%3BBrian+K.&amp;rft.date=2001&amp;rft.place=%5B%5BNew+York+City%7CNew+York%5D%5D&amp;rft.pub=%5B%5BHoughton+Mifflin+Company%5D%5D&amp;rft.isbn=0-395-67067-5&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3Da_pbxM21l5UC%26printsec%3Dfrontcover&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Cramp, Stanley, ed. (1979). <i>Handbook of the Birds of Europe the Middle East and North Africa, the Birds of the Western Palearctic, Volume 2: Hawks to bustards</i>. Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-857505-4" title="Special:BookSources/978-0-19-857505-4">978-0-19-857505-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+Europe+the+Middle+East+and+North+Africa%2C+the+Birds+of+the+Western+Palearctic%2C+Volume+2%3A+Hawks+to+bustards&amp;rft.date=1979&amp;rft.pub=Oxford%3A+Oxford+University+Press&amp;rft.isbn=978-0-19-857505-4&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Terres, John K. (1980). "Golden Eagle". <i>The Audubon Society Encyclopedia of North American Birds</i>. New York: <a href="/wiki/Alfred_A._Knopf" title="Alfred A. Knopf">Alfred A. Knopf</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-517-03288-0" title="Special:BookSources/0-517-03288-0">0-517-03288-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Golden+Eagle&amp;rft.atitle=The+Audubon+Society+Encyclopedia+of+North+American+Birds&amp;rft.aulast=Terres&amp;rft.aufirst=John+K.&amp;rft.au=Terres%2C%26%2332%3BJohn+K.&amp;rft.date=1980&amp;rft.place=New+York&amp;rft.pub=%5B%5BAlfred+A.+Knopf%5D%5D&amp;rft.isbn=0-517-03288-0&amp;rfr_id=info:sid/en.wikipedia.org:Golden_Eagle"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Aquila_chrysaetos" class="extiw" title="commons:Aquila chrysaetos">Aquila chrysaetos</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Aquila_chrysaetos" class="extiw" title="wikispecies:Aquila chrysaetos">Aquila chrysaetos</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=-Y3Dl0BGFfw">Kazakh hunter. Fox Hunting with a Golden Eagle – Human Planet: Mountains, preview – BBC One</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mongoliaphoto.com/index-81.html">Photos Hunting with Golden Eagles</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/golden-eagle-aquila-chrysaetos">Golden Eagle videos</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/126_GoldenEagleAchrysaetos.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.orolskalny.sk/en/">Website on the Golden Eagle maintained by Raptor Protection of Slovakia</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fagelklubben.leksand.nu/projekt/orn/golden-aging.html">Åldersbestämning av kungsörn – Aging of Golden Eagles (in Swedish and English)</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Buteoninae" title="Template:Buteoninae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Buteoninae" title="Template talk:Buteoninae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Buteoninae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Family_(biology)" title="Family (biology)">Subfamily</a>: <b><a href="/wiki/Buteoninae" title="Buteoninae">Buteoninae</a></b></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b> (extinctions: † indicates a species confirmed to be extinct)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Geranoaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-chested_Buzzard-Eagle" title="Black-chested Buzzard-Eagle">Black-chested Buzzard-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Buteo" title="Buteo">Buteo</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_Buzzard" title="Common Buzzard">Common Buzzard</a></li>
+<li><a href="/wiki/Red-tailed_Hawk" title="Red-tailed Hawk">Red-tailed Hawk</a></li>
+<li><a href="/wiki/Long-legged_Buzzard" title="Long-legged Buzzard">Long-legged Buzzard</a></li>
+<li><a href="/wiki/Rough-legged_Buzzard" title="Rough-legged Buzzard">Rough-legged Buzzard</a></li>
+<li><a href="/wiki/Ferruginous_Hawk" title="Ferruginous Hawk">Ferruginous Hawk</a></li>
+<li><a href="/wiki/Red-shouldered_Hawk" title="Red-shouldered Hawk">Red-shouldered Hawk</a></li>
+<li><a href="/wiki/Broad-winged_Hawk" title="Broad-winged Hawk">Broad-winged Hawk</a></li>
+<li><a href="/wiki/Swainson%27s_Hawk" title="Swainson's Hawk">Swainson's Hawk</a></li>
+<li><a href="/wiki/Roadside_Hawk" title="Roadside Hawk">Roadside Hawk</a></li>
+<li><a href="/wiki/Ridgway%27s_Hawk" title="Ridgway's Hawk">Ridgway's Hawk</a></li>
+<li><a href="/wiki/White-rumped_Hawk" title="White-rumped Hawk">White-rumped Hawk</a></li>
+<li><a href="/wiki/Short-tailed_Hawk" title="Short-tailed Hawk">Short-tailed Hawk</a></li>
+<li><a href="/wiki/White-throated_Hawk" title="White-throated Hawk">White-throated Hawk</a></li>
+<li><a href="/wiki/White-tailed_Hawk" title="White-tailed Hawk">White-tailed Hawk</a></li>
+<li><a href="/wiki/Gal%C3%A1pagos_Hawk" title="Galápagos Hawk" class="mw-redirect">Galápagos Hawk</a></li>
+<li><a href="/wiki/Variable_Hawk" title="Variable Hawk">Variable Hawk</a></li>
+<li><a href="/wiki/Grey_Hawk" title="Grey Hawk">Grey Hawk</a></li>
+<li><a href="/wiki/Zone-tailed_Hawk" title="Zone-tailed Hawk">Zone-tailed Hawk</a></li>
+<li><a href="/wiki/Hawaiian_Hawk" title="Hawaiian Hawk">Hawaiian Hawk</a></li>
+<li><a href="/wiki/Rufous-tailed_Hawk" title="Rufous-tailed Hawk">Rufous-tailed Hawk</a></li>
+<li><a href="/wiki/Mountain_Buzzard" title="Mountain Buzzard">Mountain Buzzard</a></li>
+<li><a href="/wiki/Madagascar_Buzzard" title="Madagascar Buzzard">Madagascar Buzzard</a></li>
+<li><a href="/wiki/Upland_Buzzard" title="Upland Buzzard">Upland Buzzard</a></li>
+<li><a href="/wiki/Red-necked_Buzzard" title="Red-necked Buzzard">Red-necked Buzzard</a></li>
+<li><a href="/wiki/Jackal_Buzzard" title="Jackal Buzzard">Jackal Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Parabuteo</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harris%27s_Hawk" title="Harris's Hawk">Harris's Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Buteogallus" title="Buteogallus">Buteogallus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rufous_Crab-hawk" title="Rufous Crab-hawk" class="mw-redirect">Rufous Crab-hawk</a></li>
+<li><a href="/wiki/Common_Black_Hawk" title="Common Black Hawk">Common Black Hawk</a></li>
+<li><a href="/wiki/Cuban_Black_Hawk" title="Cuban Black Hawk">Cuban Black Hawk</a></li>
+<li><a href="/wiki/Great_Black_Hawk" title="Great Black Hawk">Great Black Hawk</a></li>
+<li><a href="/wiki/Savanna_Hawk" title="Savanna Hawk">Savanna Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Busarellus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-collared_Hawk" title="Black-collared Hawk">Black-collared Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Leucopternis" title="Leucopternis">Leucopternis</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-browed_Hawk" title="White-browed Hawk">White-browed Hawk</a></li>
+<li><a href="/wiki/White-necked_Hawk" title="White-necked Hawk">White-necked Hawk</a></li>
+<li><a href="/wiki/Black-faced_Hawk" title="Black-faced Hawk">Black-faced Hawk</a></li>
+<li><a href="/wiki/Grey-backed_Hawk" title="Grey-backed Hawk">Grey-backed Hawk</a></li>
+<li><a href="/wiki/Plumbeous_Hawk" title="Plumbeous Hawk">Plumbeous Hawk</a></li>
+<li><a href="/wiki/Mantled_Hawk" title="Mantled Hawk">Mantled Hawk</a></li>
+<li><a href="/wiki/Barred_Hawk" title="Barred Hawk">Barred Hawk</a></li>
+<li><a href="/wiki/Slate-coloured_Hawk" title="Slate-coloured Hawk">Slate-coloured Hawk</a></li>
+<li><a href="/wiki/Semiplumbeous_Hawk" title="Semiplumbeous Hawk">Semiplumbeous Hawk</a></li>
+<li><a href="/wiki/White_Hawk" title="White Hawk">White Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Kaupifalco</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lizard_Buzzard" title="Lizard Buzzard">Lizard Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Butastur" title="Butastur">Butastur</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rufous-winged_Buzzard" title="Rufous-winged Buzzard">Rufous-winged Buzzard</a></li>
+<li><a href="/wiki/Grasshopper_Buzzard" title="Grasshopper Buzzard">Grasshopper Buzzard</a></li>
+<li><a href="/wiki/White-eyed_Buzzard" title="White-eyed Buzzard">White-eyed Buzzard</a></li>
+<li><a href="/wiki/Grey-faced_Buzzard" title="Grey-faced Buzzard">Grey-faced Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Harpyhaliaetus" title="Harpyhaliaetus">Harpyhaliaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crowned_Solitary_Eagle" title="Crowned Solitary Eagle">Crowned Solitary Eagle</a></li>
+<li><a href="/wiki/Montane_Solitary_Eagle" title="Montane Solitary Eagle">Montane Solitary Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Morphnus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crested_Eagle" title="Crested Eagle">Crested Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpia</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harpy_Eagle" title="Harpy Eagle">Harpy Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Pithecophaga</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Philippine_Eagle" title="Philippine Eagle">Philippine Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpyopsis</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/New_Guinea_Harpy_Eagle" title="New Guinea Harpy Eagle" class="mw-redirect">New Guinea Harpy Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Spizaetus" title="Spizaetus">Spizaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_Hawk-Eagle" title="Black Hawk-Eagle">Black Hawk-Eagle</a></li>
+<li><a href="/wiki/Black-and-white_Hawk-Eagle" title="Black-and-white Hawk-Eagle">Black-and-white Hawk-Eagle</a></li>
+<li><a href="/wiki/Ornate_Hawk-Eagle" title="Ornate Hawk-Eagle">Ornate Hawk-Eagle</a></li>
+<li><a href="/wiki/Black-and-chestnut_Eagle" title="Black-and-chestnut Eagle">Black-and-chestnut Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Nisaetus" title="Nisaetus">Nisaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crested_Hawk-Eagle" title="Crested Hawk-Eagle" class="mw-redirect">Crested Hawk-Eagle</a></li>
+<li><a href="/wiki/Mountain_Hawk-Eagle" title="Mountain Hawk-Eagle">Mountain Hawk-Eagle</a></li>
+<li><a href="/wiki/Blyth%27s_Hawk-Eagle" title="Blyth's Hawk-Eagle">Blyth's Hawk-Eagle</a></li>
+<li><a href="/wiki/Javan_Hawk-Eagle" title="Javan Hawk-Eagle">Javan Hawk-Eagle</a></li>
+<li><a href="/wiki/Sulawesi_Hawk-Eagle" title="Sulawesi Hawk-Eagle">Sulawesi Hawk-Eagle</a></li>
+<li><a href="/wiki/Philippine_Hawk-Eagle" title="Philippine Hawk-Eagle">Philippine Hawk-Eagle</a></li>
+<li><a href="/wiki/Wallace%27s_Hawk-Eagle" title="Wallace's Hawk-Eagle">Wallace's Hawk-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Lophaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Long-crested_Eagle" title="Long-crested Eagle">Long-crested Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Stephanoaetus" title="Stephanoaetus">Stephanoaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crowned_Eagle" title="Crowned Eagle">Crowned Eagle</a></li>
+<li><a href="/wiki/Malagasy_Crowned_Eagle" title="Malagasy Crowned Eagle">Malagasy Crowned Eagle</a>†</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Polemaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Martial_Eagle" title="Martial Eagle">Martial Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Hieraaetus" title="Hieraaetus">Hieraaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African_Hawk-Eagle" title="African Hawk-Eagle">African Hawk-Eagle</a></li>
+<li><a href="/wiki/New_Guinea_Hawk-Eagle" title="New Guinea Hawk-Eagle" class="mw-redirect">New Guinea Hawk-Eagle</a></li>
+<li><a href="/wiki/Ayres%27s_Hawk-Eagle" title="Ayres's Hawk-Eagle">Ayres's Hawk-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Aquila_(genus)" title="Aquila (genus)">Aquila</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bonelli%27s_Eagle" title="Bonelli's Eagle">Bonelli's Eagle</a></li>
+<li><a href="/wiki/Booted_Eagle" title="Booted Eagle">Booted Eagle</a></li>
+<li><a href="/wiki/Little_Eagle" title="Little Eagle">Little Eagle</a></li>
+<li><a href="/wiki/Rufous-bellied_Eagle" title="Rufous-bellied Eagle" class="mw-redirect">Rufous-bellied Eagle</a></li>
+<li><strong class="selflink">Golden Eagle</strong></li>
+<li><a href="/wiki/Eastern_Imperial_Eagle" title="Eastern Imperial Eagle">Eastern Imperial Eagle</a></li>
+<li><a href="/wiki/Spanish_Imperial_Eagle" title="Spanish Imperial Eagle">Spanish Imperial Eagle</a></li>
+<li><a href="/wiki/Steppe_Eagle" title="Steppe Eagle">Steppe Eagle</a></li>
+<li><a href="/wiki/Tawny_Eagle" title="Tawny Eagle">Tawny Eagle</a></li>
+<li><a href="/wiki/Greater_Spotted_Eagle" title="Greater Spotted Eagle">Greater Spotted Eagle</a></li>
+<li><a href="/wiki/Lesser_Spotted_Eagle" title="Lesser Spotted Eagle">Lesser Spotted Eagle</a></li>
+<li><a href="/wiki/Indian_Spotted_Eagle" title="Indian Spotted Eagle">Indian Spotted Eagle</a></li>
+<li><a href="/wiki/Verreaux%27s_Eagle" title="Verreaux's Eagle">Verreaux's Eagle</a></li>
+<li><a href="/wiki/Gurney%27s_Eagle" title="Gurney's Eagle">Gurney's Eagle</a></li>
+<li><a href="/wiki/Wahlberg%27s_Eagle" title="Wahlberg's Eagle">Wahlberg's Eagle</a></li>
+<li><a href="/wiki/Wedge-tailed_Eagle" title="Wedge-tailed Eagle">Wedge-tailed Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Ictinaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_Eagle" title="Black Eagle">Black Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Sea_eagle" title="Sea eagle">Haliaeetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-bellied_Sea_Eagle" title="White-bellied Sea Eagle">White-bellied Sea Eagle</a></li>
+<li><a href="/wiki/Sanford%27s_Sea_Eagle" title="Sanford's Sea Eagle">Sanford's Sea Eagle</a></li>
+<li><a href="/wiki/African_Fish_Eagle" title="African Fish Eagle">African Fish Eagle</a></li>
+<li><a href="/wiki/Madagascar_Fish_Eagle" title="Madagascar Fish Eagle">Madagascar Fish Eagle</a></li>
+<li><a href="/wiki/Pallas%27s_Fish_Eagle" title="Pallas's Fish Eagle">Pallas's Fish Eagle</a></li>
+<li><a href="/wiki/White-tailed_Eagle" title="White-tailed Eagle">White-tailed Eagle</a></li>
+<li><a href="/wiki/Bald_Eagle" title="Bald Eagle">Bald Eagle</a></li>
+<li><a href="/wiki/Steller%27s_Sea_Eagle" title="Steller's Sea Eagle">Steller's Sea Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Ichthyophaga" title="Ichthyophaga">Ichthyophaga</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lesser_Fish_Eagle" title="Lesser Fish Eagle">Lesser Fish Eagle</a></li>
+<li><a href="/wiki/Grey-headed_Fish_Eagle" title="Grey-headed Fish Eagle">Grey-headed Fish Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpagornis</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Haast%27s_Eagle" title="Haast's Eagle">Haast's Eagle</a>†</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" style=";" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Eagle" title="Eagle">Eagle</a></li>
+<li><a href="/wiki/Buzzard" title="Buzzard">Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-de-ga"></span> <span id="interwiki-ar-fa"></span> <span id="interwiki-ru-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 38021/1000000
+Preprocessor generated node count: 77185/1500000
+Post-expand include size: 237952/2048000 bytes
+Template argument size: 118142/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 4/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:88295-0!*!0!!en!4!* and timestamp 20121028232202 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Golden_Eagle&amp;oldid=520340591">http://en.wikipedia.org/w/index.php?title=Golden_Eagle&amp;oldid=520340591</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Aquila_(genus)" title="Category:Aquila (genus)">Aquila (genus)</a></li><li><a href="/wiki/Category:Eagles" title="Category:Eagles">Eagles</a></li><li><a href="/wiki/Category:African_raptors" title="Category:African raptors">African raptors</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Canada" title="Category:Birds of Canada">Birds of Canada</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Mexico" title="Category:Birds of Mexico">Birds of Mexico</a></li><li><a href="/wiki/Category:Birds_of_the_United_States" title="Category:Birds of the United States">Birds of the United States</a></li><li><a href="/wiki/Category:Arctic_birds" title="Category:Arctic birds">Arctic birds</a></li><li><a href="/wiki/Category:National_symbols_of_Mexico" title="Category:National symbols of Mexico">National symbols of Mexico</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_pages" title="Category:Wikipedia semi-protected pages">Wikipedia semi-protected pages</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2007" title="Category:Articles with unsourced statements from November 2007">Articles with unsourced statements from November 2007</a></li><li><a href="/wiki/Category:Articles_with_links_needing_disambiguation_from_October_2012" title="Category:Articles with links needing disambiguation from October 2012">Articles with links needing disambiguation from October 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2010" title="Category:Articles with unsourced statements from December 2010">Articles with unsourced statements from December 2010</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Golden+Eagle&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Golden+Eagle" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Golden_Eagle"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Golden_Eagle"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Golden_Eagle" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Golden_Eagle&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Golden_Eagle&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Golden_Eagle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Golden_Eagle" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Golden_Eagle&amp;oldid=520340591" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Golden_Eagle&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Golden_Eagle&amp;id=520340591" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Golden+Eagle" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Golden+Eagle&amp;oldid=520340591&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Golden_Eagle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Steinadler" title="Steinadler" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-ab"><a href="//ab.wikipedia.org/wiki/%D0%90%D1%85%D0%B0%D0%BB%D0%B7%D0%B0" title="Ахалза" lang="ab" hreflang="ab">Аҧсшәа</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D9%82%D8%A7%D8%A8_%D8%B0%D9%87%D8%A8%D9%8A%D8%A9" title="عقاب ذهبية" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Berqut" title="Berqut" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BA%D1%83%D1%82" title="Беркут" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD_%D0%BE%D1%80%D0%B5%D0%BB" title="Скален орел" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Erer_meur" title="Erer meur" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/%C3%80guila_daurada" title="Àguila daurada" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Orel_skaln%C3%AD" title="Orel skalní" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-co"><a href="//co.wikipedia.org/wiki/Acula" title="Acula" lang="co" hreflang="co">Corsu</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Eryr_Euraid" title="Eryr Euraid" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Konge%C3%B8rn" title="Kongeørn" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Steinadler" title="Steinadler" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-nv"><a href="//nv.wikipedia.org/wiki/Ats%C3%A1tsoh" title="Atsátsoh" lang="nv" hreflang="nv">Diné bizaad</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Kaljukotkas" title="Kaljukotkas" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A7%CF%81%CF%85%CF%83%CE%B1%CE%B5%CF%84%CF%8C%CF%82" title="Χρυσαετός" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Aquila_chrysaetos" title="Aquila chrysaetos" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Re%C4%9Da_aglo" title="Reĝa aglo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Arrano_beltz" title="Arrano beltz" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B9%D9%82%D8%A7%D8%A8_%D8%B7%D9%84%D8%A7%DB%8C%DB%8C" title="عقاب طلایی" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Konga%C3%B8rn" title="Kongaørn" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Aigle_royal" title="Aigle royal" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Keningsearn" title="Keningsearn" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Iolar_f%C3%ADr%C3%A9an" title="Iolar fíréan" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gd"><a href="//gd.wikipedia.org/wiki/Iolair-bhuidhe" title="Iolair-bhuidhe" lang="gd" hreflang="gd">Gàidhlig</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Aguia_real" title="Aguia real" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B2%80%EB%8F%85%EC%88%98%EB%A6%AC" title="검독수리" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%94%D5%A1%D6%80%D5%A1%D6%80%D5%AE%D5%AB%D5%BE" title="Քարարծիվ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Suri_orao" title="Suri orao" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Orea_aglo" title="Orea aglo" lang="io" hreflang="io">Ido</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Elang_Emas" title="Elang Emas" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-os"><a href="//os.wikipedia.org/wiki/%D0%94%D1%83%D1%80%D0%B4%D0%B7%C3%A6%D1%80%D0%B3%C3%A6%D1%81" title="Дурдзæргæс" lang="os" hreflang="os">Ирон</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Aquila_chrysaetos" title="Aquila chrysaetos" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A2%D7%99%D7%98_%D7%96%D7%94%D7%95%D7%91" title="עיט זהוב" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9B%E1%83%97%E1%83%98%E1%83%A1_%E1%83%90%E1%83%A0%E1%83%AC%E1%83%98%E1%83%95%E1%83%98" title="მთის არწივი" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%91%D2%AF%D1%80%D0%BA%D1%96%D1%82_(%D2%9B%D2%B1%D1%81)" title="Бүркіт (құс)" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Eylo" title="Eylo" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Aquila_chrysaetos" title="Aquila chrysaetos" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Klin%C5%A1u_%C4%93rglis" title="Klinšu ērglis" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Kilnusis_erelis" title="Kilnusis erelis" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-lmo"><a href="//lmo.wikipedia.org/wiki/Aquila_N%C3%A8gra" title="Aquila Nègra" lang="lmo" hreflang="lmo">Lumbaart</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Szirti_sas" title="Szirti sas" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%B5%D0%BD_%D0%BE%D1%80%D0%B5%D0%BB" title="Златен орел" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%8D%E0%B4%B5%E0%B5%BC%E0%B4%A3%E0%B5%8D%E0%B4%A3%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B0%E0%B5%81%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D" title="സ്വർണ്ണപ്പരുന്ത്" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D0%BC%D1%8B%D0%BD_%D0%B1%D2%AF%D1%80%D0%B3%D1%8D%D0%B4" title="Цармын бүргэд" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%9B%E1%80%BD%E1%80%BE%E1%80%B1%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9D%E1%80%B6%E1%80%9C%E1%80%B0" title="ရွှေရောင်ဝံလူ" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Steenarend" title="Steenarend" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%83%AF%E3%82%B7" title="イヌワシ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D1%82%D0%B0" title="Дарта" lang="ce" hreflang="ce">Нохчийн</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Konge%C3%B8rn" title="Kongeørn" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Konge%C3%B8rn" title="Kongeørn" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Aquila_chrysaetos" title="Aquila chrysaetos" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B3%D9%86%DB%81%D8%B1%DB%8C_%D8%B9%D9%82%D8%A7%D8%A8" title="سنہری عقاب" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Aquila_chrysa%C3%ABtos" title="Aquila chrysaëtos" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Orze%C5%82_przedni" title="Orzeł przedni" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/%C3%81guia-real" title="Águia-real" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Acvil%C4%83_de_munte" title="Acvilă de munte" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BA%D1%83%D1%82" title="Беркут" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BA%D1%83%D1%82" title="Беркут" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A5%D0%BE%D1%82%D0%BE%D0%B9" title="Хотой" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/Goaskin" title="Goaskin" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-sq"><a href="//sq.wikipedia.org/wiki/Shqiponja_e_Gur%C3%ABve" title="Shqiponja e Gurëve" lang="sq" hreflang="sq">Shqip</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Golden_Eagle" title="Golden Eagle" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Orol_skaln%C3%BD" title="Orol skalný" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Planinski_orel" title="Planinski orel" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D0%B8_%D0%BE%D1%80%D0%B0%D0%BE" title="Сури орао" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Maakotka" title="Maakotka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Kungs%C3%B6rn" title="Kungsörn" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8A%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BE%E0%AE%99%E0%AF%8D_%E0%AE%95%E0%AE%B4%E0%AF%81%E0%AE%95%E0%AF%81" title="பொன்னாங் கழுகு" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%91%D3%A9%D1%80%D0%BA%D0%B5%D1%82" title="Бөркет" lang="tt" hreflang="tt">Татарча/tatarça</a></li>
+			<li class="interwiki-chy"><a href="//chy.wikipedia.org/wiki/T%C3%B3%27too%27he" title="Tó'too'he" lang="chy" hreflang="chy">Tsetsêhestâhese</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kaya_kartal%C4%B1" title="Kaya kartalı" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-tk"><a href="//tk.wikipedia.org/wiki/B%C3%BCrg%C3%BCt" title="Bürgüt" lang="tk" hreflang="tk">Türkmençe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BA%D1%83%D1%82" title="Беркут" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vec"><a href="//vec.wikipedia.org/wiki/Aquila_real" title="Aquila real" lang="vec" hreflang="vec">Vèneto</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_b%C3%A0ng_v%C3%A0ng" title="Đại bàng vàng" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%87%91%E9%9B%95" title="金雕" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 October 2012 at 23:22.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Golden_Eagle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw58 in 0.167 secs. -->
+	</body>
+</html>

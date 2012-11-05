@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Spotted Sandgrouse - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Spotted_Sandgrouse&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Spotted_Sandgrouse&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Spotted_Sandgrouse","wgTitle":"Spotted Sandgrouse","wgCurRevisionId":514721496,"wgArticleId":12430646,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Pterocles","Birds of Europe","Birds of Turkey","Birds of Pakistan","Birds of India","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Spotted_Sandgrouse","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"5f5980141a319984481c7344e9eba1e9","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":12430646,"title":"Spotted Sandgrouse","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Europe","Birds of India","Birds of Pakistan","Birds of Turkey","Birds of Western Sahara","IUCN Red List least concern species","Pterocles"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Spotted_Sandgrouse skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Spotted Sandgrouse</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Spotted Sandgrouse</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Pterocles_senegallus_1921.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pterocles_senegallus_1921.jpg/220px-Pterocles_senegallus_1921.jpg" width="220" height="134" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pterocles_senegallus_1921.jpg/330px-Pterocles_senegallus_1921.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pterocles_senegallus_1921.jpg/440px-Pterocles_senegallus_1921.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animalia" title="Animalia" class="mw-redirect">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Columbiformes" title="Columbiformes" class="mw-redirect">Columbiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Pteroclididae" title="Pteroclididae" class="mw-redirect">Pteroclididae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Pterocles" title="Pterocles">Pterocles</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. senegallus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Pterocles senegallus</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1771)</small></td>
+</tr>
+</table>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ganga_tachet%C3%A9_MHNT.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ganga_tachet%C3%A9_MHNT.jpg/220px-Ganga_tachet%C3%A9_MHNT.jpg" width="220" height="196" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ganga_tachet%C3%A9_MHNT.jpg/330px-Ganga_tachet%C3%A9_MHNT.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ganga_tachet%C3%A9_MHNT.jpg/440px-Ganga_tachet%C3%A9_MHNT.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ganga_tachet%C3%A9_MHNT.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Spotted Sandgrouse egg</div>
+</div>
+</div>
+<p>The <b>Spotted Sandgrouse</b> (<i>Pterocles senegallus</i>) is a <a href="/wiki/Species" title="Species">species</a> of ground dwelling <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Pteroclididae" title="Pteroclididae" class="mw-redirect">Pteroclididae</a> family. It is found in dry areas of northern and eastern Africa and across parts of Asia as far east as north west India. It is listed as being of "Least concern" in the IUCN Red List of Threatened Species.<sup id="cite_ref-IUCN2012_0-1" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution_and_habitat"><span class="tocnumber">2</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Spotted_Sandgrouse&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Spotted Sandgrouse reaches a length of about 33 centimetres (13&#160;in). The male has a small reddish-brown nape surrounded by a band of pale grey that extends to the bill and round the neck in a collar. The chin, neck and throat are orange and the breast grey. The upper parts are pinkish-grey with blackish patches on the wings, tail and lower belly. The female also has an orange throat region but is generally duller in plumage than the male. The body colour is greyish-brown liberally spotted with small dark markings and with dark patches on the wings, tail and lower belly. The central tail feathers in both sexes are elongated but not to the extent that they are in the <a href="/wiki/Pin-tailed_Sandgrouse" title="Pin-tailed Sandgrouse">Pin-tailed Sandgrouse</a> (<i>Pterocles alchata</i>).<sup id="cite_ref-Gooders_1-0" class="reference"><a href="#cite_note-Gooders-1"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Spotted_Sandgrouse&amp;action=edit&amp;section=2" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<p>The Spotted Sandgrouse is found in <a href="/wiki/Italy" title="Italy">Italy</a>, <a href="/wiki/Israel" title="Israel">Israel</a>, <a href="/wiki/Jordan" title="Jordan">Jordan</a>, <a href="/wiki/Syria" title="Syria">Syria</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a>, <a href="/wiki/Morocco" title="Morocco">Morocco</a>, <a href="/wiki/Algeria" title="Algeria">Algeria</a>, <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>, <a href="/wiki/Libya" title="Libya">Libya</a>, <a href="/wiki/Sudan" title="Sudan">Sudan</a>, <a href="/wiki/Egypt" title="Egypt">Egypt</a>, <a href="/wiki/Eritrea" title="Eritrea">Eritrea</a>, <a href="/wiki/Somalia" title="Somalia">Somalia</a>, <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a>, <a href="/wiki/Djibouti" title="Djibouti">Djibouti</a>, <a href="/wiki/Mali" title="Mali">Mali</a>, <a href="/wiki/Mauritania" title="Mauritania">Mauritania</a>, <a href="/wiki/Chad" title="Chad">Chad</a>, <a href="/wiki/Niger" title="Niger">Niger</a>, <a href="/wiki/Oman" title="Oman">Oman</a>, <a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a>, <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>, <a href="/wiki/Iran" title="Iran">Iran</a>, <a href="/wiki/Iraq" title="Iraq">Iraq</a>, <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> and <a href="/wiki/India" title="India">India</a>. It inhabits arid and semi-arid countryside and is largely resident although there is some local movement of flocks.<sup id="cite_ref-Gooders_1-1" class="reference"><a href="#cite_note-Gooders-1"><span>[</span>2<span>]</span></a></sup> The population size has not been firmly stablished, but the bird seems to be common over most of its extensive range and the species is not considered to be vulnerable.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Spotted_Sandgrouse&amp;action=edit&amp;section=3" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<p>The Spotted Sandgrouse has a rapid wing beat and flies swiftly. Its call is a musical "queeto-queeto" which distinguishes it from other species of sandgrouse with similar plumage.<sup id="cite_ref-Gooders_1-2" class="reference"><a href="#cite_note-Gooders-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The Spotted Sandgrouse is a ground-dwelling bird and feeds on seeds and other plant material that it finds in the scrubby vegetation of its dry habitat. It needs to make a daily journey to a drinking hole, which may be many kilometres from its feeding ground.<sup id="cite_ref-Gooders_1-3" class="reference"><a href="#cite_note-Gooders-1"><span>[</span>2<span>]</span></a></sup> It nests in a hollow in the earth and two, occasionally three, eggs are laid in February or March. The eggs are elongated ovals in shape, buff with grey and brown speckles. Both parents incubate the eggs, which hatch after about 20 days, and both tend the young. Like other sandgrouse, they shade the chicks from the heat of the midday sun and they bring water to them in specially adapted, absorbent feathers on the breast.<sup id="cite_ref-Gooders_1-4" class="reference"><a href="#cite_note-Gooders-1"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Spotted_Sandgrouse&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106002962">"<i>Pterocles senegallus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106002962">http://www.iucnredlist.org/apps/redlist/details/106002962</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Pterocles+senegallus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106002962&amp;rfr_id=info:sid/en.wikipedia.org:Spotted_Sandgrouse"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Gooders-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gooders_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gooders_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gooders_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gooders_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Gooders_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Gooders, John (ed) (1979). <i>Birds of Heath and Woodland: Spotted Sandgrouse</i>. London: Orbis Publishing Ltd.. p.&#160;8. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0856133809" title="Special:BookSources/0856133809">0856133809</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+Heath+and+Woodland%3A+Spotted+Sandgrouse&amp;rft.aulast=Gooders&amp;rft.aufirst=John+%28ed%29&amp;rft.au=Gooders%2C%26%2332%3BJohn+%28ed%29&amp;rft.date=1979&amp;rft.pages=p.%26nbsp%3B8&amp;rft.place=London&amp;rft.pub=Orbis+Publishing+Ltd.&amp;rft.isbn=0856133809&amp;rfr_id=info:sid/en.wikipedia.org:Spotted_Sandgrouse"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/speciesfactsheet.php?id=2962">"Spotted Sandgrouse <i>Pterocles senegallus</i>"</a>. Birdlife International<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdlife.org/datazone/speciesfactsheet.php?id=2962">http://www.birdlife.org/datazone/speciesfactsheet.php?id=2962</a></span><span class="reference-accessdate">. Retrieved 2012-06-02</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Spotted+Sandgrouse+%27%27Pterocles+senegallus%27%27&amp;rft.atitle=&amp;rft.pub=Birdlife+International&amp;rft_id=http%3A%2F%2Fwww.birdlife.org%2Fdatazone%2Fspeciesfactsheet.php%3Fid%3D2962&amp;rfr_id=info:sid/en.wikipedia.org:Spotted_Sandgrouse"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Spotted_Sandgrouse&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://orientalbirdimages.org/search.php?Bird_ID=1131">Oriental Bird Images: <i>Spotted Sandgrouse</i></a> Photos of Spotted Sandgrouse in the wild.</li>
+</ul>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Pterocles_senegallus" class="extiw" title="commons:Pterocles senegallus">Pterocles senegallus</a></b></i></td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sandgrouse" title="Template:Sandgrouse"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sandgrouse" title="Template talk:Sandgrouse"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sandgrouse&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;">
+<ul>
+<li><a href="/wiki/Sandgrouse" title="Sandgrouse">Sandgrouse</a>
+<ul>
+<li><a href="/wiki/Order_(biology)" title="Order (biology)">order</a>: Pteroclidiformes</li>
+<li><a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Pteroclididae</li>
+</ul>
+</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Species" title="Species">Species</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Syrrhaptes" title="Syrrhaptes">Syrrhaptes</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tibetan_Sandgrouse" title="Tibetan Sandgrouse">Tibetan Sandgrouse</a></li>
+<li><a href="/wiki/Pallas%27s_Sandgrouse" title="Pallas's Sandgrouse">Pallas's Sandgrouse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Pterocles" title="Pterocles">Pterocles</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pin-tailed_Sandgrouse" title="Pin-tailed Sandgrouse">Pin-tailed Sandgrouse</a></li>
+<li><a href="/wiki/Namaqua_Sandgrouse" title="Namaqua Sandgrouse">Namaqua Sandgrouse</a></li>
+<li><a href="/wiki/Chestnut-bellied_Sandgrouse" title="Chestnut-bellied Sandgrouse">Chestnut-bellied Sandgrouse</a></li>
+<li><strong class="selflink">Spotted Sandgrouse</strong></li>
+<li><a href="/wiki/Black-bellied_Sandgrouse" title="Black-bellied Sandgrouse">Black-bellied Sandgrouse</a></li>
+<li><a href="/wiki/Crowned_Sandgrouse" title="Crowned Sandgrouse">Crowned Sandgrouse</a></li>
+<li><a href="/wiki/Yellow-throated_Sandgrouse" title="Yellow-throated Sandgrouse">Yellow-throated Sandgrouse</a></li>
+<li><a href="/wiki/Burchell%27s_Sandgrouse" title="Burchell's Sandgrouse">Burchell's Sandgrouse</a></li>
+<li><a href="/wiki/Madagascar_Sandgrouse" title="Madagascar Sandgrouse">Madagascar or Masked Sandgrouse</a></li>
+<li><a href="/wiki/Black-faced_Sandgrouse" title="Black-faced Sandgrouse">Black-faced Sandgrouse</a></li>
+<li><a href="/wiki/Lichtenstein%27s_Sandgrouse" title="Lichtenstein's Sandgrouse">Lichtenstein's Sandgrouse</a></li>
+<li><a href="/wiki/Double-banded_Sandgrouse" title="Double-banded Sandgrouse">Double-banded Sandgrouse</a></li>
+<li><a href="/wiki/Painted_Sandgrouse" title="Painted Sandgrouse">Painted Sandgrouse</a></li>
+<li><a href="/wiki/Four-banded_Sandgrouse" title="Four-banded Sandgrouse">Four-banded Sandgrouse</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5672/1000000
+Preprocessor generated node count: 47665/1500000
+Post-expand include size: 39638/2048000 bytes
+Template argument size: 9016/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12430646-0!*!0!!en!4!* and timestamp 20121023132149 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Spotted_Sandgrouse&amp;oldid=514721496">http://en.wikipedia.org/w/index.php?title=Spotted_Sandgrouse&amp;oldid=514721496</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Pterocles" title="Category:Pterocles">Pterocles</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Spotted+Sandgrouse&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Spotted+Sandgrouse" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Spotted_Sandgrouse"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Spotted_Sandgrouse"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Spotted_Sandgrouse" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Spotted_Sandgrouse&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Spotted_Sandgrouse&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Spotted_Sandgrouse" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Spotted_Sandgrouse" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Spotted_Sandgrouse&amp;oldid=514721496" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Spotted_Sandgrouse&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Spotted_Sandgrouse&amp;id=514721496" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Spotted+Sandgrouse" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Spotted+Sandgrouse&amp;oldid=514721496&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Spotted_Sandgrouse&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%A7_%D9%85%D8%B1%D9%82%D8%B7" title="قطا مرقط" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Xall%C4%B1_ba%C4%9Fr%C4%B1qara" title="Xallı bağrıqara" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Ganga_brizhellek" title="Ganga brizhellek" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Ganga_pigallada" title="Ganga pigallada" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Senegala_stepkoko" title="Senegala stepkoko" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Pterocles_senegallus" title="Pterocles senegallus" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ganga_tachet%C3%A9" title="Ganga tacheté" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A7%D7%98%D7%94_%D7%A1%D7%A0%D7%92%D7%9C%D7%99%D7%AA" title="קטה סנגלית" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Sivatagi_pusztaity%C3%BAk" title="Sivatagi pusztaityúk" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%AA%D8%A8%D8%B9%DB%8C%D8%A7%DA%BA_%D8%A2%D9%84%D8%A7_%D8%B1%DB%8C%D8%AA%DA%AF%D8%B1%D8%A7%D9%88%D8%B2" title="تبعیاں آلا ریتگراوز" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pterocles_senegallus" title="Pterocles senegallus" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/%C3%96kenflygh%C3%B6na" title="Ökenflyghöna" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Benekli_ba%C4%9F%C4%B1rtlak" title="Benekli bağırtlak" lang="tr" hreflang="tr">Türkçe</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 September 2012 at 23:14.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Spotted_Sandgrouse&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","ext.EventLogging"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw53 in 0.125 secs. -->
+	</body>
+</html>

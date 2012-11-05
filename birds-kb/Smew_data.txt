@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Smew - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Smew&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Smew&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Smew","wgTitle":"Smew","wgCurRevisionId":511399890,"wgArticleId":215959,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Merginae","Genera of birds","Ducks","Birds of Japan","Birds of Pakistan","Birds of Europe","Birds of Turkey","Birds of Iran","British Isles coastal fauna","Mergansers","Monotypic bird genera","Animals described in 1758"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Smew","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"5796d1ba1e9cc6ad9740397af703e5ca","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":215959,"title":"Smew","namespace":0,"categories":["Animals described in 1758","Articles with \'species\' microformats","Birds of Europe","Birds of Iran","Birds of Japan","Birds of Pakistan","Birds of Turkey","British Isles coastal fauna","Ducks","Genera of birds","IUCN Red List least concern species","Mergansers","Merginae","Monotypic bird genera"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({
+"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:deddd9b1d1718c216e913c8d345259d4 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Smew skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Smew</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Smew</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Smew.both.arp.600pix.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Smew.both.arp.600pix.jpg/220px-Smew.both.arp.600pix.jpg" width="220" height="308" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Male (top) and female Smew</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-iucn_0-0" class="reference"><a href="#cite_note-iucn-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Merginae" title="Merginae">Merginae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><b>Mergellus</b></i></span><br />
+<small><a href="/wiki/Prideaux_John_Selby" title="Prideaux John Selby">Selby</a>, 1840</small></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. albellus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Mergellus albellus</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Mergus albellus</i></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Smew</b> (<i>Mergellus albellus</i>) is a species of <a href="/wiki/Duck" title="Duck">duck</a> It is somewhat intermediate between the <a href="/wiki/Mergus" title="Mergus">typical mergansers</a> (<i>Mergus</i>) and the <a href="/wiki/Goldeneye_(duck)" title="Goldeneye (duck)">goldeneyes</a> (<i>Bucephala</i>), the <a href="/wiki/Monotypic_taxon" title="Monotypic taxon">only member</a> of the <a href="/wiki/Genus" title="Genus">genus</a> <i><b>Mergellus</b></i>. Sometimes included in <i>Mergus</i>, this genus is distinct (though closely related) and might actually be closer to the goldeneyes.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> The Smew has interbred with the <a href="/wiki/Common_Goldeneye" title="Common Goldeneye">Common Goldeneye</a> (<i>B. clangula</i>).<sup id="cite_ref-Madge_2-0" class="reference"><a href="#cite_note-Madge-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>An unnamed <a href="/wiki/Fossil" title="Fossil">fossil</a> seaduck, known from a <a href="/wiki/Humerus" title="Humerus">humerus</a> found in the <a href="/wiki/Middle_Miocene" title="Middle Miocene">Middle Miocene</a> <a href="/w/index.php?title=Saj%C3%B3v%C3%B6lgyi_Formation&amp;action=edit&amp;redlink=1" class="new" title="Sajóvölgyi Formation (page does not exist)">Sajóvölgyi Formation</a> (Late <a href="/w/index.php?title=Badenian&amp;action=edit&amp;redlink=1" class="new" title="Badenian (page does not exist)">Badenian</a>, 13–12 <a href="/wiki/Million_years_ago" title="Million years ago" class="mw-redirect">million years ago</a>) of <a href="/w/index.php?title=M%C3%A1trasz%C3%B5l%C3%B5s&amp;action=edit&amp;redlink=1" class="new" title="Mátraszõlõs (page does not exist)">Mátraszõlõs</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a>, was assigned to <i>Mergus</i>. However, the authors included the Smew therein, and consequently, the bone is more properly assigned to <i>Mergellus</i>—especially as it was more similar to a Smew's than to the <i>Bucephala</i> remains also found at the site. It is sometimes argued (e.g. by Mlíkovský in <i>Cenozoic Birds of the World</i>)<sup id="cite_ref-Ml.C3.ADkovsk.C3.BD123_3-0" class="reference"><a href="#cite_note-Ml.C3.ADkovsk.C3.BD123-3"><span>[</span>4<span>]</span></a></sup> that the Mátraszõlõs fossil is too old to represent any of the modern seaduck genera, but apparently these were all well-distinct even back then.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>Fossils from the earliest <a href="/wiki/Pleistocene" title="Pleistocene">Pleistocene</a> found in England indicate that the living species was extant 1.5 to 2.0 million years ago.<sup id="cite_ref-Ml.C3.ADkovsk.C3.BD123_3-1" class="reference"><a href="#cite_note-Ml.C3.ADkovsk.C3.BD123-3"><span>[</span>4<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution_and_ecology"><span class="tocnumber">2</span> <span class="toctext">Distribution and ecology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Smew&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The drake Smew, with its 'cracked ice' and 'panda' appearance, is unmistakable, and looks very black-and-white in flight. The females and immature males are grey birds with chestnut foreheads and crowns, and can be confused at a distance with the <a href="/wiki/Ruddy_Duck" title="Ruddy Duck">Ruddy Duck</a>; they are often known as "redhead" Smew. It has oval white wing-patches in flight. The Smew's bill has a hooked tip and serrated edges, which help it catch fish when it dives for them.</p>
+<p>The Smew is 38–44 cm (15–17 in) long.<sup id="cite_ref-Madge_2-1" class="reference"><a href="#cite_note-Madge-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Smew&amp;action=edit&amp;section=2" title="Edit section: Distribution and ecology">edit</a>]</span> <span class="mw-headline" id="Distribution_and_ecology">Distribution and ecology</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MergellusAlbellusTakeOffv3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MergellusAlbellusTakeOffv3.jpg/220px-MergellusAlbellusTakeOffv3.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MergellusAlbellusTakeOffv3.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Smew taking off</div>
+</div>
+</div>
+<p>This species breeds in the northern <a href="/wiki/Taiga" title="Taiga">taiga</a> of <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Asia" title="Asia">Asia</a>. It needs trees for breeding. The Smew lives on fish-rich lakes and slow rivers. As a migrant it leaves its breeding areas and winters on sheltered coasts or inland lakes of the <a href="/wiki/Baltic_Sea" title="Baltic Sea">Baltic Sea</a>, the <a href="/wiki/Black_Sea" title="Black Sea">Black Sea</a>, northern Germany and the <a href="/wiki/Low_Countries" title="Low Countries">Low Countries</a>, with small number reaching <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> (for example, at <a href="/wiki/Dungeness_(headland)" title="Dungeness (headland)">Dungeness</a>), mostly at regular sites. Vagrants have been recorded in North America. On lakes it prefers areas around the edges, often under small trees.</p>
+<p>The Smew breeds in May and lays 6–9 cream-colored eggs. It nests in tree holes, such as old <a href="/wiki/Woodpecker" title="Woodpecker">woodpecker</a> nests. It is a shy bird and flushes easily when disturbed.</p>
+<p>The Smew is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<p>It is not considered threatened on the <a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List</a>, though its population is decreasing.<sup id="cite_ref-iucn_0-1" class="reference"><a href="#cite_note-iucn-0"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Smew&amp;action=edit&amp;section=3" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-iucn-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-iucn_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-iucn_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012">BirdLife International (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/100600497">"Mergellus albellus"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/100600497">http://www.iucnredlist.org/apps/redlist/details/100600497</a></span><span class="reference-accessdate">. Retrieved 8 September 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Mergellus+albellus&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=BirdLife+International&amp;rft.au=BirdLife+International&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F100600497&amp;rfr_id=info:sid/en.wikipedia.org:Smew"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation Journal">Livezey, Bradley C. (1986). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Auk/v103n04/p0737-p0754.pdf">"A phylogenetic analysis of recent anseriform genera using morphological characters"</a> (PDF). <i><a href="/wiki/Auk_(journal)" title="Auk (journal)" class="mw-redirect">Auk</a></i> <b>103</b> (4): 737-754. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/4088089">4088089</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Auk/v103n04/p0737-p0754.pdf">http://elibrary.unm.edu/sora/Auk/v103n04/p0737-p0754.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+phylogenetic+analysis+of+recent+anseriform+genera+using+morphological+characters&amp;rft.jtitle=%5B%5BAuk+%28journal%29%7CAuk%5D%5D&amp;rft.aulast=Livezey&amp;rft.aufirst=Bradley+C.&amp;rft.au=Livezey%2C%26%2332%3BBradley+C.&amp;rft.date=1986&amp;rft.volume=103&amp;rft.issue=4&amp;rft.pages=737-754&amp;rft.jstor=4088089&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FAuk%2Fv103n04%2Fp0737-p0754.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Smew"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Madge-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Madge_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Madge_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Madge, Steve; Burn, Hilary (1988). <i>Waterfowl: An Identification Guide to the Ducks, Geese, and Swans of the World</i>. Boston: Houghton Mifflin. pp.&#160;274–276. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-395-46727-6" title="Special:BookSources/0-395-46727-6">0-395-46727-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Waterfowl%3A+An+Identification+Guide+to+the+Ducks%2C+Geese%2C+and+Swans+of+the+World&amp;rft.aulast=Madge&amp;rft.aufirst=Steve&amp;rft.au=Madge%2C%26%2332%3BSteve&amp;rft.au=Burn%2C%26%2332%3BHilary&amp;rft.date=1988&amp;rft.pages=pp.%26nbsp%3B274%E2%80%93276&amp;rft.place=Boston&amp;rft.pub=Houghton+Mifflin&amp;rft.isbn=0-395-46727-6&amp;rfr_id=info:sid/en.wikipedia.org:Smew"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Ml.C3.ADkovsk.C3.BD123-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ml.C3.ADkovsk.C3.BD123_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ml.C3.ADkovsk.C3.BD123_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Mlíkovský, Jirí (2002) (PDF). <a rel="nofollow" class="external text" href="http://www.nm.cz/download/JML-18-2002-CBE.pdf"><i>Cenozoic Birds of the World, Part 1: Europe</i></a>. Prague: Ninox Press. p.&#160;123. <a href="/wiki/Special:BookSources/80-901105-3-8" title="Special:BookSources/80-901105-3-8">ISBN 80-901105-3-8</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.nm.cz/download/JML-18-2002-CBE.pdf">http://www.nm.cz/download/JML-18-2002-CBE.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Cenozoic+Birds+of+the+World%2C+Part+1%3A+Europe&amp;rft.aulast=Ml%C3%ADkovsk%C3%BD&amp;rft.aufirst=Jir%C3%AD&amp;rft.au=Ml%C3%ADkovsk%C3%BD%2C%26%2332%3BJir%C3%AD&amp;rft.date=2002&amp;rft.pages=p.%26nbsp%3B123&amp;rft.place=Prague&amp;rft.pub=Ninox+Press&amp;rft_id=http%3A%2F%2Fwww.nm.cz%2Fdownload%2FJML-18-2002-CBE.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Smew"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation Journal">Gál, Erika; Hír, János; Kessler, Eugén &amp; Kókay, József (1998–99). <a rel="nofollow" class="external text" href="http://www.matramuzeum.hu/Personal/folia/23/03MATSZOLOS.PDF">"Középsõ-miocén õsmaradványok, a Mátraszõlõs, Rákóczi-kápolna alatti útbevágásból. I. A Mátraszõlõs 1. lelõhely [Middle Miocene fossils from the sections at the Rákóczi chapel at Mátraszőlős. Locality Mátraszõlõs I.]"</a> (in Hungarian with English abstract) (PDF). <i>Folia Historico Naturalia Musei Matraensis</i> <b>23</b>: 33-78<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.matramuzeum.hu/Personal/folia/23/03MATSZOLOS.PDF">http://www.matramuzeum.hu/Personal/folia/23/03MATSZOLOS.PDF</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=K%C3%B6z%C3%A9ps%C3%B5-mioc%C3%A9n+%C3%B5smaradv%C3%A1nyok%2C+a+M%C3%A1trasz%C3%B5l%C3%B5s%2C+R%C3%A1k%C3%B3czi-k%C3%A1polna+alatti+%C3%BAtbev%C3%A1g%C3%A1sb%C3%B3l.+I.+A+M%C3%A1trasz%C3%B5l%C3%B5s+1.+lel%C3%B5hely&amp;rft.jtitle=Folia+Historico+Naturalia+Musei+Matraensis&amp;rft.aulast=G%C3%A1l&amp;rft.aufirst=Erika&amp;rft.au=G%C3%A1l%2C%26%2332%3BErika&amp;rft.date=1998%E2%80%9399&amp;rft.volume=23&amp;rft.pages=33-78&amp;rft_id=http%3A%2F%2Fwww.matramuzeum.hu%2FPersonal%2Ffolia%2F23%2F03MATSZOLOS.PDF&amp;rfr_id=info:sid/en.wikipedia.org:Smew"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Smew&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Mergellus_albellus" class="extiw" title="commons:Category:Mergellus albellus">Mergellus albellus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/smew-mergus-albellus">Smew media</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://sdakotabirds.com/species/smew_info.htm">Smew information and photos</a> on South Dakota Birds and Birding</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 7357/1000000
+Preprocessor generated node count: 44004/1500000
+Post-expand include size: 45786/2048000 bytes
+Template argument size: 13809/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:215959-0!*!0!!en!4!* and timestamp 20121011033051 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Smew&amp;oldid=511399890">http://en.wikipedia.org/w/index.php?title=Smew&amp;oldid=511399890</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Merginae" title="Category:Merginae">Merginae</a></li><li><a href="/wiki/Category:Genera_of_birds" title="Category:Genera of birds">Genera of birds</a></li><li><a href="/wiki/Category:Ducks" title="Category:Ducks">Ducks</a></li><li><a href="/wiki/Category:Birds_of_Japan" title="Category:Birds of Japan">Birds of Japan</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Mergansers" title="Category:Mergansers">Mergansers</a></li><li><a href="/wiki/Category:Monotypic_bird_genera" title="Category:Monotypic bird genera">Monotypic bird genera</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Smew&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Smew" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Smew"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Smew"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Smew" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Smew&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Smew&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Smew" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Smew" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Smew&amp;oldid=511399890" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Smew&amp;id=511399890" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Smew" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Smew&amp;oldid=511399890&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Smew&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D9%84%D9%82%D8%B4%D8%A9_%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1" title="بلقشة بيضاء" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Nazik_pazdimdik" title="Nazik pazdimdik" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%90%D2%A1%D1%81%D0%B0%D0%B1%D0%B0%D0%BD" title="Аҡсабан" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8A%D0%BA_%D0%BD%D0%B8%D1%80%D0%B5%D1%86" title="Малък нирец" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%89_%E0%A6%B9%E0%A6%BE%E0%A6%81%E0%A6%B8" title="স্মিউ হাঁস" lang="bn" hreflang="bn">বাংলা</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Heskenneg_bihan" title="Heskenneg bihan" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Bec_de_serra_petit" title="Bec de serra petit" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Mor%C4%8D%C3%A1k_mal%C3%BD" title="Morčák malý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Lleian_Wen" title="Lleian Wen" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Zwergs%C3%A4ger" title="Zwergsäger" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/V%C3%A4ikekoskel" title="Väikekoskel" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Mergellus_albellus" title="Mergellus albellus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Blanka_mer%C4%9Do" title="Blanka merĝo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Mergellus_albellus" title="Mergellus albellus" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Harle_piette" title="Harle piette" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Lytse_Seachbek" title="Lytse Seachbek" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/S%C3%ADolta_gheal" title="Síolta gheal" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Mergellus_albellus" title="Mergellus albellus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Maz%C4%81_gaura" title="Mazā gaura" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Ma%C5%BEasis_dan%C4%8Diasnapis" title="Mažasis dančiasnapis" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kis_buk%C3%B3" title="Kis bukó" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A6%D0%B0%D1%85%D0%B8%D1%83%D1%80_%D0%B1%D0%BE%D1%85%D0%B8%D0%BE" title="Цахиур бохио" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Nonnetje_(vogel)" title="Nonnetje (vogel)" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B3%E3%82%A2%E3%82%A4%E3%82%B5" title="ミコアイサ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Lappfiskand" title="Lappfiskand" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Lappfiskand" title="Lappfiskand" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B3%D9%85%DB%8C%D9%88" title="سمیو" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Mut%C3%A9rl%C3%A8te_(Oizo)" title="Mutérlète (Oizo)" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Mergus_albellus" title="Mergus albellus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Bielaczek" title="Bielaczek" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BA%D1%80%D0%BE%D1%85%D0%B0%D0%BB%D1%8C" title="Малый крохаль" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D1%83%D1%82%D0%BE%D0%BA" title="Луток" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB%D0%B3%D0%B8%D0%BD%D1%8D%D1%85" title="Билгинэх" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/G%C3%A1rggogoalsi" title="Gárggogoalsi" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Uivelo" title="Uivelo" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Salskrake" title="Salskrake" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/S%C3%BCtlabi" title="Sütlabi" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D1%85_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9" title="Крех малий" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/V%E1%BB%8Bt_m%C3%A0o" title="Vịt mào" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%99%BD%E7%A7%8B%E6%B2%99%E9%B8%AD" title="白秋沙鸭" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 8 September 2012 at 16:53.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Smew&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv269 in 0.121 secs. -->
+	</body>
+</html>

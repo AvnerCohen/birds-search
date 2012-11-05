@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common Kingfisher - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_Kingfisher&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_Kingfisher&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_Kingfisher","wgTitle":"Common Kingfisher","wgCurRevisionId":517883890,"wgArticleId":195181,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Chinese language external links","IUCN Red List least concern species","Articles with \'species\' microformats","Articles containing Latin language text","Articles containing Greek language text","Articles with Latin language external links","Alcedo","Birds of Europe","Birds of Asia","Birds of Africa","British Isles coastal fauna","Animals described in 1758"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_Kingfisher","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"db1cfc01160523c2a1c2bd041dd7c05e","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":195181,"title":"Common Kingfisher","namespace":0,"categories":["Alcedo","Animals described in 1758","Articles containing Greek language text","Articles containing Latin language text","Articles with \'species\' microformats","Articles with Chinese language external links","Articles with Latin language external links","Birds of Africa","Birds of Asia","Birds of Europe","British Isles coastal fauna","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_Kingfisher skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common Kingfisher</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">small blue kingfisher</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Alcatt.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alcatt.jpg/220px-Alcatt.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alcatt.jpg/330px-Alcatt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Alcatt.jpg/440px-Alcatt.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>Alcedo atthis</i> capturing a <a href="/wiki/Tadpole" title="Tadpole">tadpole</a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Coraciiformes" title="Coraciiformes">Coraciiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/River_kingfishers" title="River kingfishers">Alcedinidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Alcedo" title="Alcedo">Alcedo</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. atthis</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Alcedo atthis</i></span></b><br />
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a>)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Alcedo_atthis_-range_map-2-cp.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Alcedo_atthis_-range_map-2-cp.png/300px-Alcedo_atthis_-range_map-2-cp.png" width="300" height="226" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Alcedo_atthis_-range_map-2-cp.png/450px-Alcedo_atthis_-range_map-2-cp.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Alcedo_atthis_-range_map-2-cp.png/600px-Alcedo_atthis_-range_map-2-cp.png 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">
+<div style="text-align:left;"><span style="background-color:yellow; color:; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span>&#160;Breeding&#160;range<br />
+<span style="background-color:green; color:; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span>&#160;Resident&#160;all&#160;year-round<br />
+<span style="background-color:blue; color:; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span>&#160;Non-breeding range</div>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Common Kingfisher</b> (<i>Alcedo atthis</i>) also known as <b>Eurasian Kingfisher</b> or <b>River Kingfisher</b>, is a small <a href="/wiki/Kingfisher" title="Kingfisher">kingfisher</a> with seven subspecies recognized within its wide distribution across <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a> and <a href="/wiki/North_Africa" title="North Africa">North Africa</a>. It is resident in much of its range, but <a href="/wiki/Bird_migration" title="Bird migration">migrates</a> from areas where rivers freeze in winter.</p>
+<p>This <a href="/wiki/House_Sparrow" title="House Sparrow">sparrow-sized</a> bird has the typical short-tailed, large-headed kingfisher profile; it has blue upperparts, orange underparts and a long bill. It feeds mainly on fish, caught by diving, and has special visual adaptions to enable it to see prey under water. The glossy white eggs are laid in a nest at the end of a burrow in a riverbank.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Geographical_variation"><span class="tocnumber">2.1</span> <span class="toctext">Geographical variation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Habitat_and_distribution"><span class="tocnumber">3</span> <span class="toctext">Habitat and distribution</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behaviour"><span class="tocnumber">4</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Breeding"><span class="tocnumber">4.1</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Survival"><span class="tocnumber">4.2</span> <span class="toctext">Survival</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Feeding"><span class="tocnumber">4.3</span> <span class="toctext">Feeding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Status"><span class="tocnumber">5</span> <span class="toctext">Status</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<p>This species was first described by <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carl Linnaeus</a> in his <i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i> in 1758 as <i>Gracula atthis</i>.<sup id="cite_ref-linnaeus_1-0" class="reference"><a href="#cite_note-linnaeus-1"><span>[</span>2<span>]</span></a></sup> The binomial name derives from the <a href="/wiki/Latin" title="Latin">Latin</a> <i><span lang="la" xml:lang="la"><a href="//en.wiktionary.org/wiki/alcedo" class="extiw" title="wikt:alcedo">alcedo</a></span></i>, "kingfisher" (from <a href="/wiki/Greek_language" title="Greek language">Greek</a> <span lang="el" xml:lang="el"><a href="//en.wiktionary.org/wiki/%E1%BC%80%CE%BB%CE%BA%CF%85%CF%8E%CE%BD" class="extiw" title="wikt:ἀλκυών">ἀλκυών</a></span>, <i><span lang="el" xml:lang="el">halcyon</span></i>) and <i>Atthis</i>, a beautiful young woman of <a href="/wiki/Lesbos_Island" title="Lesbos Island" class="mw-redirect">Lesbos</a>, and favourite of <a href="/wiki/Sappho" title="Sappho">Sappho</a>.<sup id="cite_ref-BTO_2-0" class="reference"><a href="#cite_note-BTO-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The genus <i><a href="/wiki/Alcedo" title="Alcedo">Alcedo</a></i> comprises a number of small, exclusively fish-eating kingfishers. The Common Kingfisher’s closest relatives in the genus are three similar blue-backed, orange-breasted species, the <a href="/wiki/Blue-eared_Kingfisher" title="Blue-eared Kingfisher">Blue-eared</a>, <a href="/wiki/Half-collared_Kingfisher" title="Half-collared Kingfisher">Half-collared</a> and <a href="/wiki/Blyth%27s_Kingfisher" title="Blyth's Kingfisher">Blyth's Kingfishers</a>.<sup id="cite_ref-Fry_3-0" class="reference"><a href="#cite_note-Fry-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>This species has the typical short-tailed, dumpy-bodied large-headed and long-billed kingfisher shape. The adult male of the western <a href="/wiki/Europe" title="Europe">European</a> subspecies, <i>A. a. ispida</i> has green-blue upperparts with pale azure-blue back and rump, a rufous patch by the bill base, and a rufous ear-patch. It has a green-blue neck stripe, white neck blaze and throat, rufous underparts, and a black bill with some red at the base. The legs and feet are bright red.<sup id="cite_ref-Fry2_4-0" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup> It is about 16 centimetres (6.3&#160;in) long with a wingspan of 25&#160;cm (9.8&#160;in),<sup id="cite_ref-Fry2_4-1" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup> and weighs 34–46 grams (1.2–1.6 oz).<sup id="cite_ref-BWP_5-0" class="reference"><a href="#cite_note-BWP-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The female is identical in appearance to the male except that her lower <a href="/wiki/Mandible" title="Mandible">mandible</a> is orange-red with a black tip. The juvenile is similar to the adult, but with duller and greener upperparts and paler underparts. Its bill is black, and the legs are also initially black.<sup id="cite_ref-Fry2_4-2" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Martin_perscatore.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Martin_perscatore.jpg/220px-Martin_perscatore.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Martin_perscatore.jpg/330px-Martin_perscatore.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Martin_perscatore.jpg/440px-Martin_perscatore.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Martin_perscatore.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nominate <i>A. a. atthis</i> in <a href="/wiki/Italy" title="Italy">Italy</a></div>
+</div>
+</div>
+<p>The flight of the Kingfisher is fast, direct and usually low over water. The short rounded wings whirr rapidly, and a bird flying away shows an electric-blue "flash" down its back.<sup id="cite_ref-BWP_5-1" class="reference"><a href="#cite_note-BWP-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>In North Africa, Europe and <a href="/wiki/Asia" title="Asia">Asia</a> north of the <a href="/wiki/Himalayas" title="Himalayas">Himalayas</a> this is the only small blue kingfisher. In south and southeast Asia it can be confused with six other small blue-and-rufous kingfishers, but the rufous ear patches distinguish it from all but juvenile Blue-eared Kingfisher; details of the head pattern may be necessary to differentiate the two species where both occur.<sup id="cite_ref-Fry2_4-3" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The Common kingfisher has no song. The flight call is a short sharp whistle, <i>chee</i>, repeated two or three times. Anxious birds emit a harsh, <i>shrit-it-it</i> and nestlings call for food with a churring noise.<sup id="cite_ref-Fry2_4-4" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=3" title="Edit section: Geographical variation">edit</a>]</span> <span class="mw-headline" id="Geographical_variation">Geographical variation</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Flickr_-_coniferconifer_-_Kingfisher_in_summer_plumage_-_crop.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flickr_-_coniferconifer_-_Kingfisher_in_summer_plumage_-_crop.jpg/170px-Flickr_-_coniferconifer_-_Kingfisher_in_summer_plumage_-_crop.jpg" width="170" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flickr_-_coniferconifer_-_Kingfisher_in_summer_plumage_-_crop.jpg/255px-Flickr_-_coniferconifer_-_Kingfisher_in_summer_plumage_-_crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flickr_-_coniferconifer_-_Kingfisher_in_summer_plumage_-_crop.jpg/340px-Flickr_-_coniferconifer_-_Kingfisher_in_summer_plumage_-_crop.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Flickr_-_coniferconifer_-_Kingfisher_in_summer_plumage_-_crop.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>A. a. bengalensis</i> in Japan</div>
+</div>
+</div>
+<p>There are seven subspecies differing in the hue of the upperparts and the intensity of the rufous colour of the underparts; size varies across the subspecies by up to 10%. The races resident south of the <a href="/wiki/Wallace_Line" title="Wallace Line">Wallace Line</a> have the bluest upperparts and partly blue ear-patches.<sup id="cite_ref-Fry2_4-5" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<ul>
+<li><i>A. a. ispida</i> (Linnaeus, 1758).<sup id="cite_ref-ref1_6-0" class="reference"><a href="#cite_note-ref1-6"><span>[</span>7<span>]</span></a></sup> Breeds from south <a href="/wiki/Norway" title="Norway">Norway</a>, <a href="/wiki/Ireland" title="Ireland">Ireland</a> and <a href="/wiki/Spain" title="Spain">Spain</a> to western <a href="/wiki/Russia" title="Russia">Russia</a> and <a href="/wiki/Romania" title="Romania">Romania</a> and winters south to southern <a href="/wiki/Portugal" title="Portugal">Portugal</a> and <a href="/wiki/Iraq" title="Iraq">Iraq</a>.</li>
+<li><i>A. a. atthis</i> (Linnaeus, 1758). Breeds from northwestern <a href="/wiki/Africa" title="Africa">Africa</a> and southern <a href="/wiki/Italy" title="Italy">Italy</a> east to <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, <a href="/wiki/Kashmir_region" title="Kashmir region" class="mw-redirect">Kashmir region</a>, north <a href="/wiki/Xinjiang" title="Xinjiang">Xinjiang</a>, and <a href="/wiki/Siberia" title="Siberia">Siberia</a>; it is a winter visitor south to <a href="/wiki/Israel" title="Israel">Israel</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> northeastern <a href="/wiki/Sudan" title="Sudan">Sudan</a>, <a href="/wiki/Yemen" title="Yemen">Yemen</a>, <a href="/wiki/Oman" title="Oman">Oman</a> and <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>. Compared to <i>A. a. ispida</i>, it has a greener crown, paler underparts and is slightly larger.</li>
+<li><i>A. a. bengalensis</i> (<a href="/wiki/Samuel_Gottlieb_Gmelin" title="Samuel Gottlieb Gmelin">Gmelin</a>, 1788). Breeds in south and east Asia from India to <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>, <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Korea" title="Korea">Korea</a>, <a href="/wiki/Japan" title="Japan">Japan</a> and eastern <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a>; winters south to Indonesia and the <a href="/wiki/Philippines" title="Philippines">Philippines</a>. It is smaller and brighter than the European races.</li>
+</ul>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Common_Kingfisher_I_Picture_115.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Common_Kingfisher_I_Picture_115.jpg/220px-Common_Kingfisher_I_Picture_115.jpg" width="220" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Common_Kingfisher_I_Picture_115.jpg/330px-Common_Kingfisher_I_Picture_115.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Common_Kingfisher_I_Picture_115.jpg/440px-Common_Kingfisher_I_Picture_115.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Common_Kingfisher_I_Picture_115.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>A. a. bengalensis</i> in Kolkata</div>
+</div>
+</div>
+<ul>
+<li><i>A. a. taprobana</i> (<a href="/wiki/Otto_Kleinschmidt" title="Otto Kleinschmidt">Kleinschmidt</a>, 1894). Resident breeder in <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a> and southern India. Its upperparts are bright blue, not green-blue; it is the same size as <i>A. a. bengalensis</i>.</li>
+<li><i>A. a. floresiana</i> (<a href="/wiki/Richard_Bowdler_Sharpe" title="Richard Bowdler Sharpe">Sharpe</a>, 1892). Resident breeder from <a href="/wiki/Bali" title="Bali">Bali</a> to <a href="/wiki/Timor" title="Timor">Timor</a>. Like <i>A. a. taprobana</i>, but the blues are darker and the ear-patch is rufous with a few blue feathers.</li>
+<li><i>A. a. hispidoides</i> (<a href="/wiki/Ren%C3%A9-Primev%C3%A8re_Lesson" title="René-Primevère Lesson" class="mw-redirect">Lesson</a> 1837). Resident breeder from <a href="/wiki/Sulawesi" title="Sulawesi">Sulawesi</a> to <a href="/wiki/New_Guinea" title="New Guinea">New Guinea</a> and the islands of the western <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> Plumage colours are deeper than in <i>A. a. floresiana</i>, the blue on the hind neck and rump is purple-tinged and the ear-patch is blue.</li>
+<li><i>A. a. solomonensis</i> (<a href="/wiki/Walter_Rothschild,_2nd_Baron_Rothschild" title="Walter Rothschild, 2nd Baron Rothschild">Rothschild</a> &amp; <a href="/wiki/Ernst_Hartert" title="Ernst Hartert">Hartert</a> 1905). Resident breeder in the <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a> east to <a href="/wiki/San_Cristobal_(Solomon_Islands)" title="San Cristobal (Solomon Islands)" class="mw-redirect">San Cristobal</a>. The largest <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asian</a> subspecies. It has a blue ear-patch and is more purple-tinged than <i>A. a. hispidoides</i>, with which it interbreeds.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=4" title="Edit section: Habitat and distribution">edit</a>]</span> <span class="mw-headline" id="Habitat_and_distribution">Habitat and distribution</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Common_Kingfisher-_different_races.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Common_Kingfisher-_different_races.jpg/220px-Common_Kingfisher-_different_races.jpg" width="220" height="122" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Common_Kingfisher-_different_races.jpg/330px-Common_Kingfisher-_different_races.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Common_Kingfisher-_different_races.jpg/440px-Common_Kingfisher-_different_races.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Common_Kingfisher-_different_races.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In India, resident <i>A. a. taprobana</i> (left) and migrant <i>A. a. bengalensis</i> (right) may both be present in winter.</div>
+</div>
+</div>
+<p>The Common Kingfisher is widely distributed over Europe, Asia, and North Africa, mainly south of 60°N. It is a common breeding species over much of its vast Eurasian range, but in North Africa it is mainly a winter visitor, although it is a scarce breeding resident in coastal <a href="/wiki/Morocco" title="Morocco">Morocco</a> and <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a>. In temperate regions, this kingfisher inhabits clear, slow-flowing streams and rivers, and lakes with well-vegetated banks. It frequents scrubs and bushes with overhanging branches close to shallow open water in which it hunts. In winter it is more coastal, often feeding in estuaries or harbours and along rocky seashores. Tropical populations are found by slow-flowing rivers, in <a href="/wiki/Mangrove" title="Mangrove">mangrove</a> creeks and in swamps.<sup id="cite_ref-Fry2_4-6" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alcedo_atthis_3494.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Alcedo_atthis_3494.jpg/220px-Alcedo_atthis_3494.jpg" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Alcedo_atthis_3494.jpg/330px-Alcedo_atthis_3494.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Alcedo_atthis_3494.jpg/440px-Alcedo_atthis_3494.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alcedo_atthis_3494.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In flight</div>
+</div>
+</div>
+<p>Common Kingfishers are important members of ecosystems and good indicators of freshwater community health. The highest densities of breeding birds are found in habitats with clear water, which permits optimal prey visibility, and trees or shrubs on the banks. These habitats have also the highest quality of water, so the presence of this bird confirms the standard of the water.<sup id="cite_ref-Peris_8-0" class="reference"><a href="#cite_note-Peris-8"><span>[</span>9<span>]</span></a></sup> Measures to improve water flow can disrupt this habitat, and in particular, the replacement of natural banks by artificial confinement greatly reduces the populations of fish, amphibians and aquatic reptiles, and waterside birds are lost.<sup id="cite_ref-china_9-0" class="reference"><a href="#cite_note-china-9"><span>[</span>10<span>]</span></a></sup> It can tolerate a certain degree of urbanisation, provided the water remains clean.</p>
+<p>This species is resident in areas where the climate is mild year-round, but must <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> after breeding from regions with prolonged freezing conditions in winter. Most birds winter within the southern parts of the breeding range, but smaller numbers cross the <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> into Africa or travel over the mountains of <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a> into Southeast Asia. Kingfishers migrate mainly at night, and some Siberian breeders must travel at least 3,000&#160;km (1,900&#160;mi) between the breeding sites and the wintering areas.<sup id="cite_ref-Fry2_4-7" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=5" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=6" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BR_ijsvogelwand.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BR_ijsvogelwand.jpg/220px-BR_ijsvogelwand.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BR_ijsvogelwand.jpg/330px-BR_ijsvogelwand.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BR_ijsvogelwand.jpg/440px-BR_ijsvogelwand.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BR_ijsvogelwand.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Volunteers create a vertical bank in which Common Kingfishers have subsequently nested annually.</div>
+</div>
+</div>
+<p>Like all kingfishers, the Common Kingfishers is highly territorial; since it must eat around 60% of its body weight each day, it is essential to have control of a suitable stretch of river. It is solitary for most of the year, roosting alone in heavy cover. If another kingfisher enters its territory, both birds display from perches, and fights may occur, where a bird will grab the other's beak and try to hold it under water. Pairs form in the autumn but each bird retains a separate territory, generally at least 1&#160;km (0.62&#160;mi) long, but up to 3.5&#160;km (2.2&#160;mi) and territories are not merged until the spring.<sup id="cite_ref-Fry2_4-8" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The courtship is initiated by the male chasing the female while calling continually, and later by ritual feeding, copulation usually following.<sup id="cite_ref-BWP_5-2" class="reference"><a href="#cite_note-BWP-5"><span>[</span>6<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Common_Kingfisher-_Bathing_%26_Preening_copy.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Common_Kingfisher-_Bathing_%26_Preening_copy.jpg/220px-Common_Kingfisher-_Bathing_%26_Preening_copy.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Common_Kingfisher-_Bathing_%26_Preening_copy.jpg/330px-Common_Kingfisher-_Bathing_%26_Preening_copy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Common_Kingfisher-_Bathing_%26_Preening_copy.jpg/440px-Common_Kingfisher-_Bathing_%26_Preening_copy.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Common_Kingfisher-_Bathing_%26_Preening_copy.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Hole-nesting birds spend much time bathing and preening.</div>
+</div>
+</div>
+<p>The nest is in a burrow excavated by both birds of the pair in a low vertical riverbank, or sometimes a quarry or other cutting. The straight, gently inclining burrow is normally 60–90&#160;cm (24–36&#160;in) long and ends in an enlarged chamber.<sup id="cite_ref-BWP_5-3" class="reference"><a href="#cite_note-BWP-5"><span>[</span>6<span>]</span></a></sup> The nest cavity is unlined but soon accumulates a litter of fish remains and cast <a href="/wiki/Pellet_(ornithology)" title="Pellet (ornithology)">pellets</a>.<sup id="cite_ref-Coward_10-0" class="reference"><a href="#cite_note-Coward-10"><span>[</span>11<span>]</span></a></sup></p>
+<p>The Common Kingfisher typically lays five to seven (range two to ten) glossy white eggs, which average 1.9&#160;cm (0.75&#160;in) in breadth, 2.2&#160;cm (0.87&#160;in) in length, and weigh about 4.3&#160;g (0.15&#160;oz), of which 5% is shell.<sup id="cite_ref-BTO_2-1" class="reference"><a href="#cite_note-BTO-2"><span>[</span>3<span>]</span></a></sup> One or two eggs in most clutches fail to hatch because the parent cannot cover them. Both sexes incubate by day, but only the female at night. An incubating bird sits trance-like, facing the tunnel; it invariably casts a pellet, breaking it up with the bill. The eggs hatch in 19–20 days, and the <a href="/wiki/Altricial" title="Altricial">altricial</a> young are in the nest for a further 24–25 days, often more.<sup id="cite_ref-Fry_3-1" class="reference"><a href="#cite_note-Fry-3"><span>[</span>4<span>]</span></a></sup> Once large enough, young birds will come to the burrow entrance to be fed.<sup id="cite_ref-Coward_10-1" class="reference"><a href="#cite_note-Coward-10"><span>[</span>11<span>]</span></a></sup> Two broods, sometimes three, may be reared in a season.<sup id="cite_ref-BWP_5-4" class="reference"><a href="#cite_note-BWP-5"><span>[</span>6<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alcedo_atthis_1_(Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alcedo_atthis_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg/220px-Alcedo_atthis_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alcedo_atthis_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg/330px-Alcedo_atthis_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alcedo_atthis_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg/440px-Alcedo_atthis_1_%28Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alcedo_atthis_1_(Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Mating</div>
+</div>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=7" title="Edit section: Survival">edit</a>]</span> <span class="mw-headline" id="Survival">Survival</span></h3>
+<p>The early days for fledged juveniles are more hazardous; during its first dives into water, about four days after leaving the nest, a fledgling may become waterlogged and drown.<sup id="cite_ref-Fry2_4-9" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup> Many young will not have learned to fish by the time they are driven out of their parents' territory, and only about half survive more than a week or two. Most kingfishers die of cold or lack of food, and a severe winter can kill a high percentage of the birds. Summer floods can destroy nests or make fishing difficult, resulting in starvation of the brood. Only a quarter of the young survive to breed the following year, but this is enough to maintain the population. Likewise, only a quarter of adult birds survive from one breeding season to the next. Very few birds live longer than one breeding season.<sup id="cite_ref-rspbst_11-0" class="reference"><a href="#cite_note-rspbst-11"><span>[</span>12<span>]</span></a></sup> The oldest bird on record was 21 years.<sup id="cite_ref-euringt_12-0" class="reference"><a href="#cite_note-euringt-12"><span>[</span>13<span>]</span></a></sup></p>
+<p>Other causes of death are cats, rats, collisions with vehicles and windows, and human disturbance of nesting birds, including riverbank works with heavy machinery. Since kingfishers are high up in the food chain, they are vulnerable to build-up of chemicals, and river pollution by industrial and agricultural products excludes the birds from many stretches of otherwise suitable rivers that would be habitats.<sup id="cite_ref-rspbst_11-1" class="reference"><a href="#cite_note-rspbst-11"><span>[</span>12<span>]</span></a></sup></p>
+<p>This species was killed in Victorian times for stuffing and display in glass cases and for use in hat making. English naturalist <a href="/wiki/William_Yarrell" title="William Yarrell">William Yarrell</a> also reported the country practice of killing a kingfisher and hanging it from a thread in the belief that it would swing to predict the direction in which the wind would blow.<sup id="cite_ref-Cocker_13-0" class="reference"><a href="#cite_note-Cocker-13"><span>[</span>14<span>]</span></a></sup> Persecution by anglers and to provide feathers for fishing flies were common in earlier decades,<sup id="cite_ref-Coward_10-2" class="reference"><a href="#cite_note-Coward-10"><span>[</span>11<span>]</span></a></sup> but are now largely a thing of the past.<sup id="cite_ref-rspbst_11-2" class="reference"><a href="#cite_note-rspbst-11"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=8" title="Edit section: Feeding">edit</a>]</span> <span class="mw-headline" id="Feeding">Feeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Common_Kingfisher_I_IMG_8014.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Common_Kingfisher_I_IMG_8014.jpg/220px-Common_Kingfisher_I_IMG_8014.jpg" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Common_Kingfisher_I_IMG_8014.jpg/330px-Common_Kingfisher_I_IMG_8014.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Common_Kingfisher_I_IMG_8014.jpg/440px-Common_Kingfisher_I_IMG_8014.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Common_Kingfisher_I_IMG_8014.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Hunting from a perch</div>
+</div>
+</div>
+<p>The Common Kingfisher hunts from a perch 1–2&#160;m (3–6&#160;ft) above the water, on a branch, post or riverbank, bill pointing down as it searches for prey. It bobs its head when food is detected to gauge the distance, and plunges steeply down to seize its prey usually no deeper than 25&#160;cm (10&#160;in) below the surface. The wings are opened under water and the open eyes are protected by the transparent <a href="/wiki/Nictitating_membrane" title="Nictitating membrane">third eyelid</a>. The bird rises beak-first from the surface and flies back to its perch. At the perch the fish is adjusted until it is held near its tail and beaten against the perch several times. Once dead, the fish is positioned lengthways and swallowed head-first. A few times each day, a small greyish pellet of fish bones and other indigestible remains is regurgitated.<sup id="cite_ref-Fry2_4-10" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The food is mainly fish up to 12.5&#160;cm (4.9&#160;in) long, but the average size is 2.3&#160;cm (0.91&#160;in). <a href="/wiki/Common_minnow" title="Common minnow">Minnows</a>, <a href="/wiki/Stickleback" title="Stickleback">sticklebacks</a>, small <a href="/wiki/Common_Roach" title="Common Roach" class="mw-redirect">roach</a> and <a href="/wiki/Trout" title="Trout">trout</a> are typical prey. About 60% of food items are fish, but this kingfisher also catches aquatic insects such as <a href="/wiki/Dragonfly" title="Dragonfly">dragonfly</a> <a href="/wiki/Larva" title="Larva">larvae</a> and <a href="/wiki/Water_beetle" title="Water beetle">water beetles</a>, and, in winter, crustaceans including freshwater shrimps.<sup id="cite_ref-Fry2_4-11" class="reference"><a href="#cite_note-Fry2-4"><span>[</span>5<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gasterosteus_aculeatus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gasterosteus_aculeatus.jpg/220px-Gasterosteus_aculeatus.jpg" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gasterosteus_aculeatus.jpg/330px-Gasterosteus_aculeatus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b2/Gasterosteus_aculeatus.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gasterosteus_aculeatus.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Sticklebacks are common prey for the Common Kingfisher.</div>
+</div>
+</div>
+<p>A challenge for any diving bird is the change in <a href="/wiki/Refraction" title="Refraction">refraction</a> between air and water. The eyes of many birds have two <a href="/wiki/Fovea" title="Fovea" class="mw-redirect">foveae</a> (the fovea is the area of the <a href="/wiki/Retina" title="Retina">retina</a> the greatest density of light receptors),<sup id="cite_ref-Sinclair_14-0" class="reference"><a href="#cite_note-Sinclair-14"><span>[</span>15<span>]</span></a></sup> and a kingfisher is able to switch from the main central fovea to the auxiliary fovea when it enters water; a retinal streak of high receptor density which connects the two foveae allows the image to swing temporally as the bird drops onto the prey.<sup id="cite_ref-Schwab_15-0" class="reference"><a href="#cite_note-Schwab-15"><span>[</span>16<span>]</span></a></sup> The egg-shaped <a href="/wiki/Lens_(anatomy)" title="Lens (anatomy)">lens</a> of the eye points towards the auxiliary fovea, enabling the bird to maintain <a href="/wiki/Bird_vision" title="Bird vision">visual acuity</a> underwater.<sup id="cite_ref-Sinclair_14-1" class="reference"><a href="#cite_note-Sinclair-14"><span>[</span>15<span>]</span></a></sup> Because of the positions of the foveae, the kingfisher has <a href="/wiki/Monocular_vision" title="Monocular vision">monocular vision</a> in air, and <a href="/wiki/Binocular_vision" title="Binocular vision">binocular vision</a> in water. The underwater vision is not as a sharp as in air, but the ability to judge the distance of moving prey is more important than the sharpness of the image.<sup id="cite_ref-Schwab_15-1" class="reference"><a href="#cite_note-Schwab-15"><span>[</span>16<span>]</span></a></sup></p>
+<p>Each <a href="/wiki/Cone_cell" title="Cone cell">cone cell</a> of a bird’s retina contains an oil droplet which may contain <a href="/wiki/Carotenoid" title="Carotenoid">carotenoid</a> pigments. These droplets enhance colour vision and reduce glare. Aquatic kingfishers have high numbers of red pigments in their oil droplets; the reason red droplets predominate is not understood, but the droplets may help with the glare or the dispersion of light from particulate matter in the water.<sup id="cite_ref-Schwab_15-2" class="reference"><a href="#cite_note-Schwab-15"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=9" title="Edit section: Status">edit</a>]</span> <span class="mw-headline" id="Status">Status</span></h2>
+<p>This species has a large range, with an estimated global extent of occurrence of 10&#160;million square kilometres (3.8&#160;million square miles). It has a large population, including an estimated 160,000–320,000 individuals in Europe alone. Global population trends have not been quantified, but populations appear to be stable so the species is not believed to approach the thresholds for the population decline criterion of the IUCN Red List (i.e., declining more than 30% in ten years or three generations). For these reasons, the species is evaluated as <a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a>.<sup id="cite_ref-IUCN2012_0-1" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-BTO_2-2" class="reference"><a href="#cite_note-BTO-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106001066">"<i>Alcedo atthis</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106001066">http://www.iucnredlist.org/apps/redlist/details/106001066</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Alcedo+atthis%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106001066&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-linnaeus-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-linnaeus_1-0">^</a></b></span> <span class="reference-text">Linnaeus (1758):109. Note: What is now <i>A. a. ispida</i> is described on p. 115 as <i>Alcedo ispida</i></span></li>
+<li id="cite_note-BTO-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BTO_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BTO_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BTO_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob8310.htm">"Kingfisher <i>Alcedo atthis</i> (Linnaeus, 1758)"</a>. <i>Bird facts</i>. <a href="/wiki/British_Trust_for_Ornithology" title="British Trust for Ornithology">British Trust for Ornithology</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://blx1.bto.org/birdfacts/results/bob8310.htm">http://blx1.bto.org/birdfacts/results/bob8310.htm</a></span><span class="reference-accessdate">. Retrieved 21 August 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Kingfisher+%27%27Alcedo+atthis%27%27+%28Linnaeus%2C+1758%29&amp;rft.atitle=Bird+facts&amp;rft.pub=%5B%5BBritish+Trust+for+Ornithology%5D%5D&amp;rft_id=http%3A%2F%2Fblx1.bto.org%2Fbirdfacts%2Fresults%2Fbob8310.htm&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Fry-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fry_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fry_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Fry, Fry &amp; Harris (1999) 8–11</span></li>
+<li id="cite_note-Fry2-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fry2_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fry2_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Fry2_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Fry2_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Fry2_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Fry2_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Fry2_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Fry2_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Fry2_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Fry2_4-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Fry2_4-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Fry2_4-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text">Fry, Fry &amp; Harris (1999) 219–221</span></li>
+<li id="cite_note-BWP-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-BWP_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BWP_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BWP_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BWP_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BWP_5-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Snow &amp; Perrin (1998) 956–958</span></li>
+<li id="cite_note-ref1-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-ref1_6-0">^</a></b></span> <span class="reference-text">Parentheses indicate a new combination or change in status.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Arnold, Paula: <i>Birds of Israel,</i> (1962), Shalit Publishers Ltd., Haifa, Israel. p. 12</span></li>
+<li id="cite_note-Peris-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Peris_8-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Peris, S. J.; Rodriguez, R. (1996). "Some factors related to distribution by breeding Kingfisher (<i>Alcedo atthis</i> L.)". <i>Ekologia Polska</i> <b>54</b> (1–2): 31–38.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Some+factors+related+to+distribution+by+breeding+Kingfisher+%28%27%27Alcedo+atthis%27%27+L.%29&amp;rft.jtitle=Ekologia+Polska&amp;rft.aulast=Peris&amp;rft.aufirst=S.+J.&amp;rft.au=Peris%2C%26%2332%3BS.+J.&amp;rft.date=1996&amp;rft.volume=54&amp;rft.issue=1%E2%80%932&amp;rft.pages=31%E2%80%9338&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-china-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-china_9-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Lin, Wen-Loung; Tsai, Hsien-Hsiu; Wu Hsuan-Ju (2007). <a rel="nofollow" class="external text" href="http://min-shiang.com/2007_RC.pdf">"Effect of ditch living thing by process of original structure replacement by RC irrigation ditch"</a> (PDF). <i>Journal of Chinese Soil and Water Conservation</i> <b>38</b> (1): 31–42<span class="printonly">. <a rel="nofollow" class="external free" href="http://min-shiang.com/2007_RC.pdf">http://min-shiang.com/2007_RC.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Effect+of+ditch+living+thing+by+process+of+original+structure+replacement+by+RC+irrigation+ditch&amp;rft.jtitle=Journal+of+Chinese+Soil+and+Water+Conservation&amp;rft.aulast=Lin&amp;rft.aufirst=Wen-Loung&amp;rft.au=Lin%2C%26%2332%3BWen-Loung&amp;rft.date=2007&amp;rft.volume=38&amp;rft.issue=1&amp;rft.pages=31%E2%80%9342&amp;rft_id=http%3A%2F%2Fmin-shiang.com%2F2007_RC.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Chinese)</span></span></li>
+<li id="cite_note-Coward-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Coward_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Coward_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Coward_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Coward (1930) 284–287</span></li>
+<li id="cite_note-rspbst-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-rspbst_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rspbst_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-rspbst_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rspb.org.uk/wildlife/birdguide/name/k/kingfisher/survival_and_threats.asp">"Survival and threats"</a>. <i>Kingfisher</i>. <a href="/wiki/Royal_Society_for_the_Protection_of_Birds" title="Royal Society for the Protection of Birds">Royal Society for the Protection of Birds</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.rspb.org.uk/wildlife/birdguide/name/k/kingfisher/survival_and_threats.asp">http://www.rspb.org.uk/wildlife/birdguide/name/k/kingfisher/survival_and_threats.asp</a></span><span class="reference-accessdate">. Retrieved 23 August 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Survival+and+threats&amp;rft.atitle=Kingfisher&amp;rft.pub=%5B%5BRoyal+Society+for+the+Protection+of+Birds%5D%5D&amp;rft_id=http%3A%2F%2Fwww.rspb.org.uk%2Fwildlife%2Fbirdguide%2Fname%2Fk%2Fkingfisher%2Fsurvival_and_threats.asp&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-euringt-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-euringt_12-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.euring.org/data_and_codes/longevity-voous.htm">"Longevity list of birds ringed in Europe"</a>. <i>Kingfisher</i>. EURING<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.euring.org/data_and_codes/longevity-voous.htm">http://www.euring.org/data_and_codes/longevity-voous.htm</a></span><span class="reference-accessdate">. Retrieved 23 August 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Longevity+list+of+birds+ringed+in+Europe&amp;rft.atitle=Kingfisher&amp;rft.pub=EURING&amp;rft_id=http%3A%2F%2Fwww.euring.org%2Fdata_and_codes%2Flongevity-voous.htm&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Cocker-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cocker_13-0">^</a></b></span> <span class="reference-text">Cocker (2005) 300</span></li>
+<li id="cite_note-Sinclair-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sinclair_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sinclair_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Sinclair (1985) 93–94</span></li>
+<li id="cite_note-Schwab-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Schwab_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Schwab_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Schwab_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Schwab, I. R.; Hart N. S. (May 2004). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1772125/">"Halcyon days"</a>. <i><a href="/wiki/British_Journal_of_Ophthalmology" title="British Journal of Ophthalmology">British Journal of Ophthalmology</a></i> <b>88</b> (5): 613. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1136%2Fbjo.2004.045492">10.1136/bjo.2004.045492</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1772125">1772125</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15129670">15129670</a><span class="printonly">. //www.ncbi.nlm.nih.gov/pmc/articles/PMC1772125/</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Halcyon+days&amp;rft.jtitle=%5B%5BBritish+Journal+of+Ophthalmology%5D%5D&amp;rft.aulast=Schwab&amp;rft.aufirst=I.+R.&amp;rft.au=Schwab%2C%26%2332%3BI.+R.&amp;rft.date=May+2004&amp;rft.volume=88&amp;rft.issue=5&amp;rft.pages=613&amp;rft_id=info:doi/10.1136%2Fbjo.2004.045492&amp;rft_id=info:pmc/1772125&amp;rft_id=info:pmid/15129670&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1772125%2F&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Deiker_Jagdbare_Tiere_1093230.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deiker_Jagdbare_Tiere_1093230.jpg/220px-Deiker_Jagdbare_Tiere_1093230.jpg" width="220" height="281" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deiker_Jagdbare_Tiere_1093230.jpg/330px-Deiker_Jagdbare_Tiere_1093230.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Deiker_Jagdbare_Tiere_1093230.jpg/440px-Deiker_Jagdbare_Tiere_1093230.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Deiker_Jagdbare_Tiere_1093230.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Kingfishers by Carl Friedrich Deiker (1875)</div>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=11" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li><span class="citation book">Cocker, Mark; Mabey, Richard (2005). <i>Birds Britannica</i>. London: Chatto &amp; Windus. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7011-6907-7" title="Special:BookSources/978-0-7011-6907-7">978-0-7011-6907-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+Britannica&amp;rft.aulast=Cocker&amp;rft.aufirst=Mark&amp;rft.au=Cocker%2C%26%2332%3BMark&amp;rft.date=2005&amp;rft.place=London&amp;rft.pub=Chatto+%26+Windus&amp;rft.isbn=978-0-7011-6907-7&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Coward, Thomas Alfred (1930). <i>The Birds of the British Isles and Their Eggs (two volumes)</i>. Frederick Warne.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+British+Isles+and+Their+Eggs+%28two+volumes%29&amp;rft.aulast=Coward&amp;rft.aufirst=Thomas+Alfred&amp;rft.au=Coward%2C%26%2332%3BThomas+Alfred&amp;rft.date=1930&amp;rft.pub=Frederick+Warne&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span> Third edition, volume 1.</li>
+<li><span class="citation book">Fry, C. Hilary; Fry, Kathie; Harris, Alan (1999). <i>Kingfishers, Bee-eaters and Rollers</i>. London: Christopher Helm. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7136-5206-2" title="Special:BookSources/978-0-7136-5206-2">978-0-7136-5206-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kingfishers%2C+Bee-eaters+and+Rollers&amp;rft.aulast=Fry&amp;rft.aufirst=C.+Hilary&amp;rft.au=Fry%2C%26%2332%3BC.+Hilary&amp;rft.date=1999&amp;rft.place=London&amp;rft.pub=Christopher+Helm&amp;rft.isbn=978-0-7136-5206-2&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book"><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus, C</a> (1758). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata</i>. Holmiae. (Laurentii Salvii).</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata&amp;rft.aulast=Linnaeus&amp;rft.aufirst=C&amp;rft.au=Linnaeus%2C%26%2332%3BC&amp;rft.date=1758&amp;rft.pub=Holmiae.+%28Laurentii+Salvii%29&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Latin)</span></li>
+<li><span class="citation book">Sinclair, Sandra (1985). <i>How Animals See: Other Visions of Our World</i>. Beckenham, Kent: Croom Helm. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7099-3336-6" title="Special:BookSources/978-0-7099-3336-6">978-0-7099-3336-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=How+Animals+See%3A+Other+Visions+of+Our+World&amp;rft.aulast=Sinclair&amp;rft.aufirst=Sandra&amp;rft.au=Sinclair%2C%26%2332%3BSandra&amp;rft.date=1985&amp;rft.place=Beckenham%2C+Kent&amp;rft.pub=Croom+Helm&amp;rft.isbn=978-0-7099-3336-6&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Snow, David; Perrins, Christopher M (editors) (1998). <i><a href="/wiki/The_Birds_of_the_Western_Palearctic" title="The Birds of the Western Palearctic">The Birds of the Western Palearctic</a> (BWP) concise edition (2 volumes)</i>. Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-854099-1" title="Special:BookSources/978-0-19-854099-1">978-0-19-854099-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%5B%5BThe+Birds+of+the+Western+Palearctic%5D%5D+%28BWP%29+concise+edition+%282+volumes%29&amp;rft.aulast=Snow&amp;rft.aufirst=David&amp;rft.au=Snow%2C%26%2332%3BDavid&amp;rft.date=1998&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=978-0-19-854099-1&amp;rfr_id=info:sid/en.wikipedia.org:Common_Kingfisher"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Kingfisher&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.trakus.org/kods_bird/uye/?fsx=2fsdl15@d&amp;idx=6029">A hunting European(Common) Kingfisher</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/common-kingfisher-alcedo-atthis">Common Kingfisher videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/282_KingfisherAatthis.pdf">Ageing and sexing (PDF)</a> by Javier Blasco-Zumeta</li>
+<li><a rel="nofollow" class="external text" href="http://www.tapuz.co.il/blog/ViewEntry.asp?EntryId=1524053">Common Kingfisher shown in maximum card of China</a></li>
+</ul>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Alcedo_atthis" class="extiw" title="commons:Category:Alcedo atthis">Alcedo atthis</a></b></i></td>
+</tr>
+</table>
+<p><span id="interwiki-de-fa"></span> <span id="interwiki-nl-fa"></span> <span id="interwiki-sv-ga"></span> <span id="interwiki-hr-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 17316/1000000
+Preprocessor generated node count: 52999/1500000
+Post-expand include size: 84261/2048000 bytes
+Template argument size: 29336/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 2/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:195181-0!*!0!!en!4!* and timestamp 20121026034756 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_Kingfisher&amp;oldid=517883890">http://en.wikipedia.org/w/index.php?title=Common_Kingfisher&amp;oldid=517883890</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Alcedo" title="Category:Alcedo">Alcedo</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Chinese_language_external_links" title="Category:Articles with Chinese language external links">Articles with Chinese language external links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Articles_containing_Latin_language_text" title="Category:Articles containing Latin language text">Articles containing Latin language text</a></li><li><a href="/wiki/Category:Articles_containing_Greek_language_text" title="Category:Articles containing Greek language text">Articles containing Greek language text</a></li><li><a href="/wiki/Category:Articles_with_Latin_language_external_links" title="Category:Articles with Latin language external links">Articles with Latin language external links</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Kingfisher&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Kingfisher" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_Kingfisher"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_Kingfisher"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_Kingfisher" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_Kingfisher&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_Kingfisher&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_Kingfisher" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_Kingfisher" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_Kingfisher&amp;oldid=517883890" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Common_Kingfisher&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_Kingfisher&amp;id=517883890" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+Kingfisher" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+Kingfisher&amp;oldid=517883890&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_Kingfisher&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9F%D1%81%D1%8B%D0%BA%D1%8A%D1%83%D0%B0%D1%80%D0%B3%D1%8A" title="Псыкъуаргъ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Eisvogel" title="Eisvogel" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B5%D9%8A%D8%A7%D8%AF_%D8%A7%D9%84%D8%B3%D9%85%D9%83_%D8%A3%D8%AE%D8%B6%D8%B1" title="صياد السمك أخضر" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Alcedo_atthis" title="Alcedo atthis" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D1%8B%D2%A1%D1%81%D1%8B_%D1%82%D1%83%D1%80%D2%93%D0%B0%D0%B9" title="Балыҡсы турғай" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%97%D0%B2%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D1%8B_%D0%B7%D1%96%D0%BC%D0%B0%D1%80%D0%BE%D0%B4%D0%B0%D0%BA" title="Звычайны зімародак" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%B5%D1%80%D0%BE%D0%B4%D0%BD%D0%BE_%D1%80%D0%B8%D0%B1%D0%B0%D1%80%D1%87%D0%B5" title="Земеродно рибарче" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Diredig_boutin" title="Diredig boutin" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Blauet" title="Blauet" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%BA%D0%B5%D1%80_%D0%BF%D1%83%D0%BB%C4%83%C3%A7_%D0%BA%D0%B0%D0%B9%C4%83%D0%BA" title="Сенкер пулăç кайăк" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Led%C5%88%C3%A1%C4%8Dek_%C5%99%C3%AD%C4%8Dn%C3%AD" title="Ledňáček říční" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Glas_y_Dorlan" title="Glas y Dorlan" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Isfugl" title="Isfugl" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Eisvogel" title="Eisvogel" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/J%C3%A4%C3%A4lind" title="Jäälind" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CE%BB%CE%BA%CF%85%CF%8C%CE%BD%CE%B7_(%CF%80%CF%84%CE%B7%CE%BD%CF%8C)" title="Αλκυόνη (πτηνό)" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Alcedo_atthis" title="Alcedo atthis" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Alciono" title="Alciono" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-ext"><a href="//ext.wikipedia.org/wiki/Alcedo_atthis" title="Alcedo atthis" lang="ext" hreflang="ext">Estremeñu</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Martin_arrantzale" title="Martin arrantzale" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%87%DB%8C%E2%80%8C%D8%AE%D9%88%D8%B1%DA%A9" title="ماهی‌خورک" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Kyrrfuglur" title="Kyrrfuglur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Martin-p%C3%AAcheur_d%27Europe" title="Martin-pêcheur d'Europe" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Picapeixe" title="Picapeixe" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%AC%BC%EC%B4%9D%EC%83%88" title="물총새" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Vodomar" title="Vodomar" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Martin-peskero" title="Martin-peskero" lang="io" hreflang="io">Ido</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Raja-udang_erasia" title="Raja-udang erasia" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Alcedo_atthis" title="Alcedo atthis" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%93%D7%92_%D7%92%D7%9E%D7%93%D7%99" title="שלדג גמדי" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-csb"><a href="//csb.wikipedia.org/wiki/Lod%C3%B4k" title="Lodôk" lang="csb" hreflang="csb">Kaszëbsczi</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%97%D1%8B%D0%BC%D1%8B%D1%80%D0%B0%D0%BD" title="Зымыран" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Zivju_dzen%C4%ABtis" title="Zivju dzenītis" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lb"><a href="//lb.wikipedia.org/wiki/%C3%84isvull" title="Äisvull" lang="lb" hreflang="lb">Lëtzebuergesch</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Tul%C5%BEys" title="Tulžys" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/J%C3%A9gmad%C3%A1r" title="Jégmadár" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%86%E0%B4%B1%E0%B4%BF%E0%B4%AF_%E0%B4%AE%E0%B5%80%E0%B5%BB%E0%B4%95%E0%B5%8A%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF" title="ചെറിയ മീൻകൊത്തി" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Pekaka_Cit-cit" title="Burung Pekaka Cit-cit" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%9D%D0%BE%D1%85%D0%BE%D0%B9_%D1%88%D0%BE%D0%B3%D1%88%D0%B8%D1%80" title="Нохой шогшир" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/IJsvogel" title="IJsvogel" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%82%BB%E3%83%9F" title="カワセミ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Isfugl" title="Isfugl" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Isfugl" title="Isfugl" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/P%C3%AAque-roche" title="Pêque-roche" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Alcedo_atthis" title="Alcedo atthis" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zimorodek_zwyczajny" title="Zimorodek zwyczajny" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Guarda-rios-comum" title="Guarda-rios-comum" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Pesc%C4%83ru%C8%99_albastru" title="Pescăruș albastru" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D1%8E%D0%BA" title="Морозюк" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B8%D0%BC%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA" title="Обыкновенный зимородок" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ryb%C3%A1rik_rie%C4%8Dny" title="Rybárik riečny" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Vodomec" title="Vodomec" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kuningaskalastaja" title="Kuningaskalastaja" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Kungsfiskare" title="Kungsfiskare" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B2" title="นกกระเต็นน้อยธรรมดา" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_yal%C4%B1%C3%A7apk%C4%B1n%C4%B1" title="Bayağı yalıçapkını" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B1%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B0" title="Рибалочка" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/B%E1%BB%93ng_chanh" title="Bồng chanh" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-vls"><a href="//vls.wikipedia.org/wiki/Ysveugel" title="Ysveugel" lang="vls" hreflang="vls">West-Vlams</a></li>
+			<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E7%BF%A0%E9%B3%A5" title="普通翠鳥" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+			<li class="interwiki-zea"><a href="//zea.wikipedia.org/wiki/Iesveugel" title="Iesveugel" lang="zea" hreflang="zea">Zeêuws</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E7%BF%A0%E9%B8%9F" title="普通翠鸟" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 October 2012 at 07:09.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Kingfisher&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv243 in 0.148 secs. -->
+	</body>
+</html>

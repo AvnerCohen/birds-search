@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Little Shearwater - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Little_Shearwater&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Little_Shearwater&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Little_Shearwater","wgTitle":"Little Shearwater","wgCurRevisionId":500235747,"wgArticleId":392126,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Puffinus","Birds of Western Australia","Birds of New Zealand","Animals described in 1838","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Little_Shearwater","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"0cbcb73a14656979b93623a0f1b04435","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":392126,"title":"Little Shearwater","namespace":0,"categories":["Animals described in 1838","Articles with \'species\' microformats","Birds of New Zealand","Birds of Western Australia","Birds of Western Sahara","IUCN Red List least concern species","Puffinus"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Little_Shearwater skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Little Shearwater</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Little Shearwater</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:PuffinusElegansKeulemans.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/PuffinusElegansKeulemans.jpg/220px-PuffinusElegansKeulemans.jpg" width="220" height="259" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>P. a. elegans</i></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)</small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Procellariiformes" title="Procellariiformes">Procellariiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Procellariidae" title="Procellariidae">Procellariidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Puffinus" title="Puffinus">Puffinus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. assimilis</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Puffinus assimilis</i></span></b><br />
+<small><a href="/wiki/John_Gould" title="John Gould">Gould</a>, 1838</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>P. a. assimilis</i> <small class="vcard"><span class="fn">(Gould</span>,&#160;1838)</small><br />
+<small>Tasman Sea Little Shearwater</small></li>
+<li><i>P. a. elegans</i> <small class="vcard"><span class="fn"><a href="/wiki/Enrico_Hillyer_Giglioli" title="Enrico Hillyer Giglioli">Giglioli</a> &amp; <a href="/wiki/Tommaso_Salvadori" title="Tommaso Salvadori">Salvadori</a></span>,&#160;1869</small><br />
+<small>South Atlantic Little Shearwater</small></li>
+<li><i>P. a. tunneyi</i> <small class="vcard"><span class="fn"><a href="/wiki/Gregory_Mathews" title="Gregory Mathews">Mathews</a></span>,&#160;1912</small><br />
+<small>Western Australia Little Shearwater</small></li>
+<li><i>P. a. kermadecensis</i> <small class="vcard"><span class="fn"><a href="/wiki/Robert_Cushman_Murphy" title="Robert Cushman Murphy">Murphy</a></span>,&#160;1927</small><br />
+<small>Kermadec Little Shearwater</small></li>
+<li><i>P. a. haurakiensis</i> <small class="vcard"><span class="fn"><a href="/wiki/James_Henry_Fleming" title="James Henry Fleming">J. H. Fleming</a> &amp; <a href="/wiki/Dominic_Louis_Serventy" title="Dominic Louis Serventy" class="mw-redirect">Serventy</a></span>,&#160;1943</small><br />
+<small>New Zealand Little Shearwater</small></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Little Shearwater</b> (<i>Puffinus assimilis</i>) is a small <a href="/wiki/Shearwater" title="Shearwater">shearwater</a> in the <a href="/wiki/Seabird" title="Seabird">seabird</a> family <a href="/wiki/Procellariidae" title="Procellariidae">Procellariidae</a>.</p>
+<p><a href="/wiki/MtDNA" title="MtDNA" class="mw-redirect">mtDNA</a> <a href="/wiki/Cytochrome_b" title="Cytochrome b">cytochrome <i>b</i></a> <a href="/wiki/DNA_sequence" title="DNA sequence" class="mw-redirect">sequence</a> data indicates that the former North Atlantic Little Shearwater group (<a href="/wiki/Boyd%27s_Shearwater" title="Boyd's Shearwater">Boyd's Shearwater</a>, <i>P. boydi</i> and <a href="/wiki/Barolo_Shearwater" title="Barolo Shearwater">Barolo Shearwater</a>, <i>P. baroli</i>) is closer to <a href="/wiki/Audubon%27s_Shearwater" title="Audubon's Shearwater">Audubon's Shearwater</a> (Austin 1996, Heidrich <i>et al.</i> 1998), (although many taxonomists now consider them to be distinct species), and <i>myrtae</i> being closer to the <a href="/wiki/Newell%27s_Shearwater" title="Newell's Shearwater">Newell's</a> and possibly <a href="/wiki/Townsend%27s_Shearwater" title="Townsend's Shearwater">Townsend's Shearwater</a> (Austin <i>et al.</i> 2004). <a href="/wiki/Heinroth%27s_Shearwater" title="Heinroth's Shearwater">Heinroth's Shearwater</a> was also sometimes considered a subspecies of this bird; the relationship between the Little and Audubon's Shearwater is probably not as close as long believed (Austin 1996, Heidrich <i>et al.</i> 1998, Austin <i>et al.</i> 2001, but see also Penhallurick &amp; Wink 2004, and Rheindt &amp; Austin 2005).</p>
+<p>This species occurs throughout the oceans of the <a href="/wiki/Southern_Hemisphere" title="Southern Hemisphere">Southern Hemisphere</a> south of the <a href="/wiki/Tropic_of_Capricorn" title="Tropic of Capricorn">Tropic of Capricorn</a>.</p>
+<p>It breeds in colonies on islands and coastal cliffs, nesting in burrows which are only visited at night to avoid predation by large <a href="/wiki/Gull" title="Gull">gulls</a>.</p>
+<p>This <a href="/wiki/Bird" title="Bird">bird</a> has the typically "shearing" flight of the genus, dipping from side to side on stiff wings with few wingbeats, the wingtips almost touching the water, but in light winds has a more flapping flight than its larger relatives. This bird looks like a flying cross, with its wings held at right angles to the body, and it changes from black to white as the black upperparts and white undersides are alternately exposed as it travels low over the sea.</p>
+<p>This is a gregarious species, which can been seen in large numbers from boats or headlands, especially on <a href="/wiki/Bird_migration" title="Bird migration">passage</a> in autumn.</p>
+<p>At 25–30 cm (9.8–12 in) in length with a 58–67&#160;cm (23–26&#160;in) wingspan, it is like a small <a href="/wiki/Manx_Shearwater" title="Manx Shearwater">Manx Shearwater</a> but has proportionally shorter and broader wings, with a pale area on the inner flight feathers. Its bill is more slender than that of Manx, and its dark eye stands out against the surrounding white area.</p>
+<p>It feeds on <a href="/wiki/Fish" title="Fish">fish</a> and <a href="/wiki/Mollusc" title="Mollusc" class="mw-redirect">molluscs</a>. It does not follow boats. It is silent at sea, but at night the breeding colonies are alive with raucous cackling calls.</p>
+<p>Despite the scientific name, this species is completely unrelated to the <a href="/wiki/Atlantic_Puffin" title="Atlantic Puffin">puffins</a>, which are <a href="/wiki/Auk" title="Auk">auks</a>, the only resemblance being that they are both burrow-nesting seabirds.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Little_Shearwater&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li><b>Austin</b>, Jeremy J. (1996): Molecular Phylogenetics of <i>Puffinus</i> Shearwaters: Preliminary Evidence from Mitochondrial Cytochrome <i>b</i> Gene Sequences. <i>Molecular Phylogenetics and Evolution</i> <b>6</b>(1): 77–88. <small><a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1006%2Fmpev.1996.0060">10.1006/mpev.1996.0060</a></small> (HTML abstract)</li>
+</ul>
+<ul>
+<li><b>Austin</b>, Jeremy J.; Bretagnolle, Vincent &amp; Pasquet, Eric (2004): A global molecular phylogeny of the small <i>Puffinus</i> shearwaters and implications for systematics of the Little-Audubon's Shearwater complex. <i><a href="/wiki/Auk_(journal)" title="Auk (journal)" class="mw-redirect">Auk</a></i> <b>121</b>(3): 847–864. <small><a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier" class="mw-redirect">DOI</a>: 10.1642/0004-8038(2004)121[0847:AGMPOT]2.0.CO;2</small> <a rel="nofollow" class="external text" href="http://www.bioone.org/perlserv/?request=get-abstract&amp;doi=10.1642%2F0004-8038%282004%29121%5B0847%3AAGMPOT%5D2.0.CO%3B2">HTML abstract</a></li>
+</ul>
+<ul>
+<li><b>BirdLife International</b> (2004). <i>Puffinus assimilis</i>. 2006. <i><a href="/wiki/IUCN_Red_List_of_Threatened_Species" title="IUCN Red List of Threatened Species" class="mw-redirect">IUCN Red List of Threatened Species</a></i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">IUCN</a> 2006. <a rel="nofollow" class="external text" href="http://www.iucnredlist.org">www.iucnredlist.org</a>. Retrieved on 12 May 2006. Database entry includes justification for why this species is of least concern</li>
+</ul>
+<ul>
+<li><b>Collinson</b>, M. (2006): <a rel="nofollow" class="external text" href="http://www.britishbirds.co.uk/search?id=9283">Splitting headaches? Recent taxonomic changes affecting the British and Western Palaearctic lists</a>. <i><a href="/wiki/British_Birds_(magazine)" title="British Birds (magazine)">British Birds</a></i> <b>99</b>(6): 306-323.</li>
+</ul>
+<ul>
+<li><b>Heidrich</b>, Petra; Amengual, José F. &amp; Wink, Michael (1998): Phylogenetic relationships in Mediterranean and North Atlantic shearwaters (Aves: Procellariidae) based on nucleotide sequences of mtDNA. <i>Biochemical Systematics and Ecology</i> <b>26</b>(2): 145–170. <small><a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2FS0305-1978%2897%2900085-9">10.1016/S0305-1978(97)00085-9</a></small> <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/1998/8.%201998.pdf">PDF fulltext</a></li>
+</ul>
+<ul>
+<li><b>Penhallurick</b>, John &amp; <b>Wink</b>, Michael (2004): Analysis of the taxonomy and nomenclature of the Procellariformes based on complete nucleotide sequences of the mitochondrial cytochrome <i>b</i> gene. <i><a href="/wiki/Emu_(journal)" title="Emu (journal)">Emu</a></i> <b>104</b>(2): 125-147. <small><a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1071%2FMU01060">10.1071/MU01060</a></small> (HTML abstract)</li>
+</ul>
+<ul>
+<li><b>Rheindt</b>, F. E. &amp; <b>Austin</b>, Jeremy J. (2005): Major analytical and conceptual shortcomings in a recent taxonomic revision of the Procellariiformes - A reply to Penhallurick and Wink (2004). <i><a href="/wiki/Emu_(journal)" title="Emu (journal)">Emu</a></i> <b>105</b>(2): 181-186. <small><a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1071%2FMU04039">10.1071/MU04039</a></small> <a rel="nofollow" class="external text" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU04039.pdf">PDF fulltext</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 4067/1000000
+Preprocessor generated node count: 23297/1500000
+Post-expand include size: 17313/2048000 bytes
+Template argument size: 9056/2048000 bytes
+Highest expansion depth: 33/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:392126-0!*!0!*!*!4!* and timestamp 20121017220726 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Little_Shearwater&amp;oldid=500235747">http://en.wikipedia.org/w/index.php?title=Little_Shearwater&amp;oldid=500235747</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Puffinus" title="Category:Puffinus">Puffinus</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:Birds_of_New_Zealand" title="Category:Birds of New Zealand">Birds of New Zealand</a></li><li><a href="/wiki/Category:Animals_described_in_1838" title="Category:Animals described in 1838">Animals described in 1838</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Little+Shearwater&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Little+Shearwater" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Little_Shearwater"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Little_Shearwater"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Little_Shearwater" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Little_Shearwater&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Little_Shearwater&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Little_Shearwater" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Little_Shearwater" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Little_Shearwater&amp;oldid=500235747" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Little_Shearwater&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Little_Shearwater&amp;id=500235747" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Little+Shearwater" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Little+Shearwater&amp;oldid=500235747&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Little_Shearwater&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D9%84%D9%85_%D9%85%D8%A7%D8%A1_%D8%B5%D8%BA%D9%8A%D8%B1" title="جلم ماء صغير" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Tort_bihan" title="Tort bihan" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Baldriga_petita" title="Baldriga petita" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Kleiner_Sturmtaucher" title="Kleiner Sturmtaucher" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Puffinus_assimilis" title="Puffinus assimilis" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Malgranda_pufino" title="Malgranda pufino" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Puffinus_assimilis" title="Puffinus assimilis" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Petit_Puffin" title="Petit Puffin" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Ju%C5%BEni_mali_zovoj" title="Južni mali zovoj" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Puffinus_assimilis" title="Puffinus assimilis" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kleine_pijlstormvogel" title="Kleine pijlstormvogel" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Dverglire" title="Dverglire" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Dverglire" title="Dverglire" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Burzyk_ma%C5%82y" title="Burzyk mały" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pardela-pequena" title="Pardela-pequena" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/K%C3%A4%C3%A4pi%C3%B6liit%C3%A4j%C3%A4" title="Kääpiöliitäjä" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Dv%C3%A4rglira" title="Dvärglira" lang="sv" hreflang="sv">Svenska</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 July 2012 at 21:44.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Little_Shearwater&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw26 in 0.172 secs. -->
+	</body>
+</html>

@@ -21,7 +21,7 @@ function scrapeWikiPage(species_name) {
     //Second cycle.. Scrape and save only data is not already present
     var filename = "./birds-kb/" + species_name + "_data.txt";
     var stats = fs.lstatSync(filename);
-    if (!stats || stats.size > 120) {
+    if (!stats || stats.size < 121) {
         console.log(species_name + "::1-Scraping");
         request('http://en.wikipedia.org/wiki/' + species_name).pipe(fs.createWriteStream(filename));
     } else {
@@ -34,8 +34,8 @@ var doneOnce = false;
 var g_speciesList = [];
 var q = null;
 
-var CONCURRENT = 20;
-var TIMEOUT = 2 * 1000;
+var CONCURRENT = 10;
+var TIMEOUT = 4 * 1000;
 
 function doIt(species) {
 

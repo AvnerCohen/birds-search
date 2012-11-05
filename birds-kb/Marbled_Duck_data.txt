@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Marbled Duck - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Marbled_Duck&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Marbled_Duck&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marbled_Duck","wgTitle":"Marbled Duck","wgCurRevisionId":501094522,"wgArticleId":542158,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List vulnerable species","Articles with \'species\' microformats","Ducks","Aythyinae","Genera of birds","Birds of Pakistan","Birds of Europe","Birds of Turkey","Birds of Iraq","Birds of Iran","Monotypic bird genera","Animals described in 1832"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Marbled_Duck","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"ae71b9d3d3b1807ea817bd7c5920775c","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":542158,"title":"Marbled Duck","namespace":0,"categories":["Animals described in 1832","Articles with \'species\' microformats","Aythyinae","Birds of Europe","Birds of Iran","Birds of Iraq","Birds of Pakistan","Birds of Turkey","Ducks","Genera of birds","IUCN Red List vulnerable species","Monotypic bird genera"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.postEdit","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Marbled_Duck skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Marbled Duck</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Marbled Duck</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Marbled_Teal_(Marmaronetta_angustirostris)_RWD2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Marbled_Teal_%28Marmaronetta_angustirostris%29_RWD2.jpg/250px-Marbled_Teal_%28Marmaronetta_angustirostris%29_RWD2.jpg" width="250" height="188" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/220px-Status_iucn3.1_VU.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Vulnerable_species" title="Vulnerable species">Vulnerable</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)</small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Aythyinae" title="Aythyinae" class="mw-redirect">Aythyinae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><b>Marmaronetta</b></i></span><br />
+<small><a href="/wiki/Ludwig_Reichenbach" title="Ludwig Reichenbach">L. Reichenbach</a>, 1853</small></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. angustirostris</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Marmaronetta angustirostris</i></span></b><br />
+<small>(<a href="/wiki/Edouard_Menetries" title="Edouard Menetries" class="mw-redirect">Menetries</a>, 1832)</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Marbled Duck</b>, or <b>Marbled Teal</b> (<i>Marmaronetta angustirostris</i>), is a medium-sized <a href="/wiki/Duck" title="Duck">duck</a>. It used to be included among the <a href="/wiki/Dabbling_duck" title="Dabbling duck" class="mw-redirect">dabbling ducks</a>, but is now classed as a <a href="/wiki/Diving_duck" title="Diving duck">diving duck</a>.</p>
+<p>This duck formerly bred in large numbers in the Mediterranean region, but is now restricted to a few sites in southern <a href="/wiki/Spain" title="Spain">Spain</a>, northwest <a href="/wiki/Africa" title="Africa">Africa</a> and in Israel. In the east it survives in the <a href="/wiki/Mesopotamian_Marshes" title="Mesopotamian Marshes">Mesopotamian marshland</a> in southern <a href="/wiki/Iraq" title="Iraq">Iraq</a> and in <a href="/wiki/Iran" title="Iran">Iran</a> (<a href="/wiki/Shadegan" title="Shadegan">Shadegan</a> Marshes - the world's most important site), as well as isolated pockets in <a href="/wiki/Turkey" title="Turkey">Turkey</a>, <a href="/wiki/Armenia" title="Armenia">Armenia</a>, <a href="/wiki/Azerbaijan" title="Azerbaijan">Azerbaijan</a>, <a href="/wiki/Iraq" title="Iraq">Iraq</a> and further to the east in western <a href="/wiki/India" title="India">India</a> and western <a href="/wiki/China" title="China">China</a>.<sup id="cite_ref-IUCN_0-0" class="reference"><a href="#cite_note-IUCN-0"><span>[</span>1<span>]</span></a></sup> Its breeding habitat is lowland where they lay their eggs in long grass or in high trees. They may lay 7 to 10 cream eggs. They are common in private collections but are a nervous and flighty bird. In some areas birds disperse from the breeding grounds, and have been encountered in the winter period in the <a href="/wiki/Sahel" title="Sahel">Sahel</a> zone, south of the <a href="/wiki/Sahara" title="Sahara">Sahara</a>.</p>
+<p>The Marbled Duck is approximately 39–42 centimetres (15–17 in) long. Adults are a pale sandy-brown colour, diffusely blotched off-white, with a dark eye-patch and shaggy head. Juveniles are similar but with more off-white blotches. In flight, the wings look pale without a marked pattern, and no <a href="/wiki/Speculum_feathers" title="Speculum feathers">speculum</a> on the secondaries.<sup id="cite_ref-BWP_1-0" class="reference"><a href="#cite_note-BWP-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>These are gregarious birds, at times even when nesting. Outside the breeding season flocks are often small, although large wintering flocks have been reported in some areas. The largest winter concentration known is in <a href="/wiki/Kh%C5%ABzest%C4%81n_Province" title="Khūzestān Province" class="mw-redirect">Khuzestan</a>, Iran.<sup id="cite_ref-BWP_1-1" class="reference"><a href="#cite_note-BWP-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>In 2011, a group of Iraqi ornithologists counted a single flock of the rare marbled teal on the lakes of the <a href="/wiki/Mesopotamian_Marshes" title="Mesopotamian Marshes">Iraqi marshes</a>, numbering at least 40,000 birds.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>These birds feed mainly in shallow water by dabbling or up-ending, occasionally diving. Little is known of their diet.<sup id="cite_ref-BWP_1-2" class="reference"><a href="#cite_note-BWP-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>This bird is considered vulnerable due to a reduction in population caused by habitat destruction and hunting. It is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.<sup id="cite_ref-IUCN_0-1" class="reference"><a href="#cite_note-IUCN-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>The scientific name, <i>Marmaronetta angustirostris</i>, comes from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Greek</a> <i>marmaros</i>, marbled and <i>netta</i>, a duck, and <a href="/wiki/Latin" title="Latin">Latin</a> <i>angustus</i>, narrow or small and <i>rostris</i> <a href="/wiki/Beak" title="Beak">billed</a>.<sup id="cite_ref-DSBN_3-0" class="reference"><a href="#cite_note-DSBN-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marbled_Duck&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">BirdLife International (2008). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/141535"><i>Marmaronetta angustirostris</i></a>. In: <a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a> 2008. IUCN Red List of Threatened Species. Downloaded on 14 November 2008. Database entry includes a range map and justification for why this species is vulnerable.</span></li>
+<li id="cite_note-BWP-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BWP_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BWP_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BWP_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">David William Snow, Christopher Perrins (Eds) (1997). <i>The Birds of the Western Palearctic [Abridged]</i>. <a href="/wiki/OUP" title="OUP" class="mw-redirect">OUP</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854099-X" title="Special:BookSources/0-19-854099-X">0-19-854099-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+Western+Palearctic+%5BAbridged%5D&amp;rft.aulast=David+William+Snow%2C+Christopher+Perrins+%28Eds%29&amp;rft.au=David+William+Snow%2C+Christopher+Perrins+%28Eds%29&amp;rft.date=1997&amp;rft.pub=%5B%5BOUP%5D%5D&amp;rft.isbn=0-19-854099-X&amp;rfr_id=info:sid/en.wikipedia.org:Marbled_Duck"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation news">Walker, Matt (18 January 2011). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9364000/9364044.stm">"Restoring Eden"</a>. <i>BBC News</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://news.bbc.co.uk/earth/hi/earth_news/newsid_9364000/9364044.stm">http://news.bbc.co.uk/earth/hi/earth_news/newsid_9364000/9364044.stm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Restoring+Eden&amp;rft.jtitle=BBC+News&amp;rft.aulast=Walker&amp;rft.aufirst=Matt&amp;rft.au=Walker%2C%26%2332%3BMatt&amp;rft.date=18+January+2011&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fearth%2Fhi%2Fearth_news%2Fnewsid_9364000%2F9364044.stm&amp;rfr_id=info:sid/en.wikipedia.org:Marbled_Duck"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-DSBN-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-DSBN_3-0">^</a></b></span> <span class="reference-text"><span class="citation book">Jobling, James A (1991). <i>A Dictionary of Scientific Bird Names</i>. <a href="/wiki/OUP" title="OUP" class="mw-redirect">OUP</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854634-3" title="Special:BookSources/0-19-854634-3">0-19-854634-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+Scientific+Bird+Names&amp;rft.aulast=Jobling&amp;rft.aufirst=James+A&amp;rft.au=Jobling%2C%26%2332%3BJames+A&amp;rft.date=1991&amp;rft.pub=%5B%5BOUP%5D%5D&amp;rft.isbn=0-19-854634-3&amp;rfr_id=info:sid/en.wikipedia.org:Marbled_Duck"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marbled_Duck&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/search/species_search.html?action=SpcHTMDetails.asp&amp;m=0&amp;sid=467">BirdLife Species Factsheet.</a></li>
+<li>ARKive - <a rel="nofollow" class="external text" href="http://www.arkive.org/species/GES/birds/Marmaronetta_angustirostris/">images and movies of the marbled duck <i>(Marmaronetta angustirostris)</i></a></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" width="14" height="16" /> Data related to <a href="//species.wikimedia.org/wiki/Marmaronetta_angustirostris" class="extiw" title="wikispecies:Marmaronetta angustirostris">Marmaronetta angustirostris</a> at Wikispecies</li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" /> Media related to <a href="//commons.wikimedia.org/wiki/Marmaronetta_angustirostris" class="extiw" title="commons:Marmaronetta angustirostris"><i>Marmaronetta angustirostris</i></a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide/pool/tags/Marmaronetta+angustirostris"><i>Marmaronetta angustirostris</i></a> in the <a href="/wiki/Flickr" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide">Field Guide Birds of the World</a></li>
+<li><a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org/species.jsp?lang=EN&amp;avibaseid=6362936EA12874F1">Marmaronetta angustirostris</a> on <a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org">Avibase</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5766/1000000
+Preprocessor generated node count: 40151/1500000
+Post-expand include size: 23151/2048000 bytes
+Template argument size: 7005/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:542158-0!*!0!!*!4!* and timestamp 20121017180743 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Marbled_Duck&amp;oldid=501094522">http://en.wikipedia.org/w/index.php?title=Marbled_Duck&amp;oldid=501094522</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_vulnerable_species" title="Category:IUCN Red List vulnerable species">IUCN Red List vulnerable species</a></li><li><a href="/wiki/Category:Ducks" title="Category:Ducks">Ducks</a></li><li><a href="/wiki/Category:Aythyinae" title="Category:Aythyinae">Aythyinae</a></li><li><a href="/wiki/Category:Genera_of_birds" title="Category:Genera of birds">Genera of birds</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Iraq" title="Category:Birds of Iraq">Birds of Iraq</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Monotypic_bird_genera" title="Category:Monotypic bird genera">Monotypic bird genera</a></li><li><a href="/wiki/Category:Animals_described_in_1832" title="Category:Animals described in 1832">Animals described in 1832</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marbled+Duck&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marbled+Duck" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Marbled_Duck"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Marbled_Duck"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Marbled_Duck" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Marbled_Duck&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Marbled_Duck&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Marbled_Duck" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Marbled_Duck" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Marbled_Duck&amp;oldid=501094522" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Marbled_Duck&amp;id=501094522" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Marbled+Duck" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Marbled+Duck&amp;oldid=501094522&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Marbled_Duck&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B4%D8%B1%D8%B4%D9%8A%D8%B1_%D9%85%D8%AE%D8%B7%D8%B7" title="شرشير مخطط" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/M%C9%99rm%C9%99r_c%C3%BCr%C9%99" title="Mərmər cürə" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D1%80%D0%B0%D0%BC%D0%BE%D1%80%D0%BD%D0%B0_%D0%BF%D0%B0%D1%82%D0%B8%D1%86%D0%B0" title="Мраморна патица" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Kragell_varellek" title="Kragell varellek" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Xarxet_marbrenc" title="Xarxet marbrenc" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/%C4%8C%C3%ADrka_%C3%BAzkozob%C3%A1" title="Čírka úzkozobá" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Marmelente" title="Marmelente" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Marmaronetta_angustirostris" title="Marmaronetta angustirostris" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Marmoranaso" title="Marmoranaso" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Zertzeta_marmolaire" title="Zertzeta marmolaire" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Marmaronette_marbr%C3%A9e" title="Marmaronette marbrée" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Pjegava_patka" title="Pjegava patka" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Marmaronetta_angustirostris" title="Marmaronetta angustirostris" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%95%D7%96_%D7%9E%D7%A9%D7%95%D7%99%D7%A9" title="ברווז משויש" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%9C%D3%99%D1%80%D0%BC%D3%99%D1%80_%D1%88%D2%AF%D1%80%D0%B5%D0%B3%D0%B5%D0%B9" title="Мәрмәр шүрегей" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/M%C3%A1rv%C3%A1nyos_r%C3%A9ce" title="Márványos réce" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Marmereend" title="Marmereend" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B9%E3%83%A6%E3%82%AD%E3%82%AC%E3%83%A2" title="ウスユキガモ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Marmorand" title="Marmorand" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%86%D9%B9_%D9%BE%D8%AA%DA%BE%D8%B1%DB%8C_%D8%A8%D8%B7%D8%AE" title="چٹ پتھری بطخ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Anas_angustirostris" title="Anas angustirostris" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Marmurka_(ptak)" title="Marmurka (ptak)" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pardilheira" title="Pardilheira" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D1%80%D0%B0%D0%BC%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D1%87%D0%B8%D1%80%D0%BE%D0%BA" title="Мраморный чирок" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Marmorisorsa" title="Marmorisorsa" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Marmorand" title="Marmorand" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Yaz_%C3%B6rde%C4%9Fi" title="Yaz ördeği" lang="tr" hreflang="tr">Türkçe</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 July 2012 at 12:58.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Marbled_Duck&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv199 in 0.134 secs. -->
+	</body>
+</html>

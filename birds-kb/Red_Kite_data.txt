@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Red Kite - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Red_Kite&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Red_Kite&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Red_Kite","wgTitle":"Red Kite","wgCurRevisionId":520518473,"wgArticleId":200942,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List near threatened species","Articles with \'species\' microformats","Kites (birds)","Falconry","Milvus","Birds of Pakistan","Birds of Europe","Birds of Turkey","Animals described in 1758"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Red_Kite","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"75477d2e32e15030569706e4d604e97d","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":200942,"title":"Red Kite","namespace":0,"categories":["Animals described in 1758","Articles with \'species\' microformats","Birds of Europe","Birds of Pakistan","Birds of Turkey","Falconry","IUCN Red List near threatened species","Kites (birds)","Milvus"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Red_Kite skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Red Kite</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Red Kite</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Milvus_milvus_R(ThKraft).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Milvus_milvus_R%28ThKraft%29.jpg/240px-Milvus_milvus_R%28ThKraft%29.jpg" width="240" height="320" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Milvus_milvus_R%28ThKraft%29.jpg/360px-Milvus_milvus_R%28ThKraft%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Milvus_milvus_R%28ThKraft%29.jpg/480px-Milvus_milvus_R%28ThKraft%29.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/220px-Status_iucn3.1_NT.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/330px-Status_iucn3.1_NT.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/440px-Status_iucn3.1_NT.svg.png 2x" /><br />
+<a href="/wiki/Near_Threatened" title="Near Threatened">Near Threatened</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-iucn_0-0" class="reference"><a href="#cite_note-iucn-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Falconiformes" title="Falconiformes">Falconiformes</a><br />
+(or <a href="/wiki/Accipitriformes" title="Accipitriformes">Accipitriformes</a>)</span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Kite_(bird)" title="Kite (bird)">Milvinae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Milvus" title="Milvus">Milvus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. milvus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Milvus milvus</i></span></b><br />
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a>)</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Red Kite</b> (<i>Milvus milvus</i>) is a medium-large <a href="/wiki/Bird_of_prey" title="Bird of prey">bird of prey</a> in the family <a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a>, which also includes many other <a href="/wiki/Diurnality" title="Diurnality">diurnal</a> <a href="/wiki/Bird_of_prey" title="Bird of prey">raptors</a> such as <a href="/wiki/Eagle" title="Eagle">eagles</a>, <a href="/wiki/Buzzard" title="Buzzard">buzzards</a>, and <a href="/wiki/Harrier_(bird)" title="Harrier (bird)">harriers</a>. The species is currently <a href="/wiki/Endemism_in_birds" title="Endemism in birds" class="mw-redirect">endemic</a> to the <a href="/wiki/Western_Palearctic" title="Western Palearctic" class="mw-redirect">Western Palearctic</a> region in <a href="/wiki/Europe" title="Europe">Europe</a> and northwest <a href="/wiki/Africa" title="Africa">Africa</a>, though formerly also occurred just outside in northern <a href="/wiki/Iran" title="Iran">Iran</a>.<sup id="cite_ref-bwpc_1-0" class="reference"><a href="#cite_note-bwpc-1"><span>[</span>2<span>]</span></a></sup> It is resident in the milder parts of its range in western <a href="/wiki/Europe" title="Europe">Europe</a> and northwest <a href="/wiki/Africa" title="Africa">Africa</a>, but birds from northeastern and central <a href="/wiki/Europe" title="Europe">Europe</a> winter further south and west, reaching south to <a href="/wiki/Turkey" title="Turkey">Turkey</a>. Vagrants have reached north to <a href="/wiki/Finland" title="Finland">Finland</a> and south to <a href="/wiki/Israel" title="Israel">Israel</a>, <a href="/wiki/Libya" title="Libya">Libya</a> and <a href="/wiki/Gambia" title="Gambia" class="mw-redirect">Gambia</a>.<sup id="cite_ref-bwpc_1-1" class="reference"><a href="#cite_note-bwpc-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Gambia_2-0" class="reference"><a href="#cite_note-Gambia-2"><span>[</span>3<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Differences_between_adults_and_juveniles"><span class="tocnumber">2.1</span> <span class="toctext">Differences between adults and juveniles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Breeding"><span class="tocnumber">3.1</span> <span class="toctext">Breeding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Distribution_and_status"><span class="tocnumber">4</span> <span class="toctext">Distribution and status</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Continental_Europe"><span class="tocnumber">4.1</span> <span class="toctext">Continental Europe</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#United_Kingdom"><span class="tocnumber">4.2</span> <span class="toctext">United Kingdom</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Ireland"><span class="tocnumber">4.3</span> <span class="toctext">Ireland</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Sweden"><span class="tocnumber">4.4</span> <span class="toctext">Sweden</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Populations_and_trends_by_country"><span class="tocnumber">4.5</span> <span class="toctext">Populations and trends by country</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Observation"><span class="tocnumber">5</span> <span class="toctext">Observation</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<p>This species was first described by <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a> in his <i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i> in 1758 as <i>Falco milvus</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>The Red Kite has been known to successfully <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybridize</a> with the <a href="/wiki/Black_Kite" title="Black Kite">Black Kite</a> in captivity where both species were kept together, and in the wild on the <a href="/wiki/Cape_Verde_Islands" title="Cape Verde Islands" class="mw-redirect">Cape Verde Islands</a> and infrequently in other places.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> The Red Kites on the Cape Verde Islands are (or rather were) quite distinct in <a href="/wiki/Morphology_(biology)" title="Morphology (biology)">morphology</a>, being somewhat intermediate with Black Kites. The question whether the <b>Cape Verde Kite</b> should be considered a distinct <a href="/wiki/Species" title="Species">species</a> (<i>Milvus fasciicauda</i>) or a Red Kite <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> has not been settled. A recent <a href="/wiki/MtDNA" title="MtDNA" class="mw-redirect">mtDNA</a> study on museum specimens suggests that Cape Verde birds did not form a <a href="/wiki/Monophyletic" title="Monophyletic" class="mw-redirect">monophyletic</a> lineage among or next to Red Kites.<sup id="cite_ref-Johnson_5-0" class="reference"><a href="#cite_note-Johnson-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>This interpretation is problematic: mtDNA analysis is susceptible to hybridization events, the evolutionary history of the Cape Verde population is not known, and the <a href="/wiki/Genetics" title="Genetics">genetic</a> relationship of Red Kites is confusing, with geographical proximity being no indicator of genetic relatedness and the overall genetic similarity high,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> perhaps indicating a <a href="/wiki/Relict" title="Relict">relict</a> species.</p>
+<p>Given the morphological distinctness of the Cape Verde birds and that the Cape Verde population was isolated from other populations of Red Kites, it cannot be conclusively resolved as to whether the Cape Verde population was not a distinct subspecies (as <i>M. migrans fasciicauda</i>) or even species that frequently absorbed stragglers from the migrating European populations into its gene pool. More research seems warranted, but at any rate the Cape Verde population is effectively <a href="/wiki/Extinct" title="Extinct" class="mw-redirect">extinct</a> since 2000, all surviving birds being hybrids with <a href="/wiki/Black_Kite" title="Black Kite">Black Kites</a> (which merely raises further questions about their taxonomic status).<sup id="cite_ref-Johnson_5-1" class="reference"><a href="#cite_note-Johnson-5"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>Red Kites are 60–66 cm (24–26 in) long with a 175–179 cm (69–70 in) wingspan; males weigh 800–1,200 g (28–42 oz), and females 1,000–1,300 g (35–46 oz).<sup id="cite_ref-bwpc_1-2" class="reference"><a href="#cite_note-bwpc-1"><span>[</span>2<span>]</span></a></sup> It is an elegant bird, soaring on long wings held at a <a href="/wiki/Dihedral_(aircraft)" title="Dihedral (aircraft)">dihedral</a>, and long forked tail, twisting as it changes direction. The body, upper tail and wing coverts are <a href="/wiki/Rufous" title="Rufous">rufous</a>. The white primary flight feathers contrast with the black wing tips and dark secondaries. Apart from the weight difference, the sexes are similar, but juveniles have a buff breast and belly. Its call is a thin piping sound, similar to but less mewling than the <a href="/wiki/Common_Buzzard" title="Common Buzzard">Common Buzzard</a>. There is a rare white <a href="/wiki/Leucism" title="Leucism">leucistic</a> form accounting for approximately 1% of hatchlings in the Welsh population but is at a disadvantage in the survival stakes.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=3" title="Edit section: Differences between adults and juveniles">edit</a>]</span> <span class="mw-headline" id="Differences_between_adults_and_juveniles">Differences between adults and juveniles</span></h3>
+<p>Adults differ from juveniles in a number of characteristics:</p>
+<ul>
+<li>Adults are overall more deeply rufous, compared with the more washed out colour of juveniles;</li>
+<li>Adults have black breast-streaks whereas on juveniles these are pale;</li>
+<li>Juveniles have a less deeply-forked tail, with a dark subterminal band;</li>
+<li>Juveniles have pale tips to all of the greater-coverts (secondary and primary) on both the upper- and under-wings, forming a long narrow pale line; adults have pale fringes to upperwing secondary-coverts only.</li>
+</ul>
+<p>These differences hold throughout most of the first year of a bird's life.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Milvus_milvus_(portrait).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Milvus_milvus_%28portrait%29.jpg/220px-Milvus_milvus_%28portrait%29.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Milvus_milvus_%28portrait%29.jpg/330px-Milvus_milvus_%28portrait%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Milvus_milvus_%28portrait%29.jpg/440px-Milvus_milvus_%28portrait%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Milvus_milvus_(portrait).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A red kite in <a href="/wiki/Belgium" title="Belgium">Belgium</a>.</div>
+</div>
+</div>
+<p>The Red Kite's diet consists mainly of small mammals such as mice, voles, shrews, young hares and rabbits. It feeds on a wide variety of carrion including sheep carcasses and dead game birds. Live birds are also taken and occasionally <a href="/wiki/Reptiles" title="Reptiles" class="mw-redirect">reptiles</a> and <a href="/wiki/Amphibians" title="Amphibians" class="mw-redirect">amphibians</a>. Earthworms form an important part of the diet, especially in spring.<sup id="cite_ref-Pugh_8-0" class="reference"><a href="#cite_note-Pugh-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>As scavengers, red kites are particularly sensitive to poisoning.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> Illegal poison baits set for <a href="/wiki/Foxes" title="Foxes" class="mw-redirect">foxes</a> or <a href="/wiki/Crows" title="Crows" class="mw-redirect">crows</a> are indiscriminate and kill protected <a href="/wiki/Birds" title="Birds" class="mw-redirect">birds</a> and other animals.</p>
+<p>At signs of danger a mother will signal the young who will "play dead" to the extent that a <a href="/wiki/Red_Fox" title="Red Fox" class="mw-redirect">fox</a> will believe them to be dead and leave them, thinking it can return to eat them later.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=5" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<p>Adult red kites are sedentary birds, and occupy their breeding home range all year in the United Kingdom, though many global populations are migratory (particularly the Swedish population, which winters in Spain).<sup id="cite_ref-BBC_Scotland_11-0" class="reference"><a href="#cite_note-BBC_Scotland-11"><span>[</span>12<span>]</span></a></sup> Each nesting territory can contain up to five nest sites. Both birds build the nest on a main fork or a limb high in a tree, 12-20 metres above the ground. IThe nest is made of twigs and lined with grass or other vegetation and sheep’s wool.<sup id="cite_ref-Pugh_8-1" class="reference"><a href="#cite_note-Pugh-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-BBC_Scotland_11-1" class="reference"><a href="#cite_note-BBC_Scotland-11"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=6" title="Edit section: Distribution and status">edit</a>]</span> <span class="mw-headline" id="Distribution_and_status">Distribution and status</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Bielik_kania.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bielik_kania.jpg/170px-Bielik_kania.jpg" width="170" height="230" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bielik_kania.jpg/255px-Bielik_kania.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bielik_kania.jpg/340px-Bielik_kania.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bielik_kania.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Red Kite, top, harassing an adult <a href="/wiki/White-tailed_Eagle" title="White-tailed Eagle">White-tailed Eagle</a>.</div>
+</div>
+</div>
+<p>Red Kites inhabit broadleaf woodlands, valleys and wetland edges, to 800 metres. They are endemic to the western <a href="/wiki/Palearctic" title="Palearctic" class="mw-redirect">Palearctic</a>, with the European population of 19,000-25,000 pairs encompassing 95% of its global breeding range. It breeds from Spain and Portugal east into central Europe and <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>, north to southern Sweden, <a href="/wiki/Latvia" title="Latvia">Latvia</a> and the UK, and south to southern Italy. There is a population in northern <a href="/wiki/Morocco" title="Morocco">Morocco</a>. Northern birds move south in winter, mostly staying in the west of the breeding range, but also to eastern <a href="/wiki/Turkey" title="Turkey">Turkey</a>, northern <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a> and <a href="/wiki/Algeria" title="Algeria">Algeria</a>. The three largest populations (in Germany, France and Spain, which together hold more than 75% of the global population) declined between 1990-2000, and overall the species declined by almost 20% over the ten years. The main threats to Red Kites are poisoning, through illegal direct poisoning and indirect poisoning from pesticides, particularly in the wintering ranges in France and Spain, and changes in agricultural practices causing a reduction in food resources. Other threats include electrocution, hunting and trapping, deforestation, egg-collection (on a local scale) and possibly competition with the generally more successful Black Kite <i>M. migrans</i>.<sup id="cite_ref-iucn_0-1" class="reference"><a href="#cite_note-iucn-0"><span>[</span>1<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=7" title="Edit section: Continental Europe">edit</a>]</span> <span class="mw-headline" id="Continental_Europe">Continental Europe</span></h3>
+<p>German populations declined by 25%–30% between 1991 and 1997, but have remained stable since. The populations of the northern foothills of the <a href="/wiki/Harz_Mountains" title="Harz Mountains" class="mw-redirect">Harz Mountains</a> (the most densely populated part of its range) suffered an estimated 50% decline from 1991-2001. In Spain the species showed an overall decline in breeding population of up to 43% for the period 1994 to 2001–02, and surveys of wintering birds in 2003–04 suggest a similarly large decline in core wintering areas. The <a href="/wiki/Balearic_Island" title="Balearic Island" class="mw-redirect">Balearic Islands</a> population has declined from 41–47 breeding pairs in 1993 to just 10 in 2003. In France, breeding populations have decreased in the northeast, but seem to be stable in southwest and central France and <a href="/wiki/Corsica" title="Corsica">Corsica</a>. Populations elsewhere are stable or undergoing increases. In Sweden the species has increased from 30–50 pairs in the 1970s to 1,200 breeding pairs in 2003. In Switzerland, populations increased during the 1990s, and have stabilised.<sup id="cite_ref-iucn_0-2" class="reference"><a href="#cite_note-iucn-0"><span>[</span>1<span>]</span></a></sup> According to a report by the Welsh Kite Trust, the UK is the only country in which the Red Kite population is increasing. Red Kites are decreasing in their strongholds of Spain, France and Germany.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=8" title="Edit section: United Kingdom">edit</a>]</span> <span class="mw-headline" id="United_Kingdom">United Kingdom</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Red_Kite_in_Berkshire_2008.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Red_Kite_in_Berkshire_2008.jpg/170px-Red_Kite_in_Berkshire_2008.jpg" width="170" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Red_Kite_in_Berkshire_2008.jpg/255px-Red_Kite_in_Berkshire_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Red_Kite_in_Berkshire_2008.jpg/340px-Red_Kite_in_Berkshire_2008.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Red_Kite_in_Berkshire_2008.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Red Kite in Berkshire, UK in 2008.</div>
+</div>
+</div>
+<p>In the United Kingdom Red Kites were ubiquitous scavengers that lived on carrion and garbage. Shakespeare's <a href="/wiki/King_Lear" title="King Lear">King Lear</a> describes his daughter <a href="/wiki/Goneril" title="Goneril">Goneril</a> as a <i>detested kite</i>, and he wrote "when the kite builds, look to your lesser linen" in reference to them stealing washing hung out to dry in the nesting season.<sup id="cite_ref-Radio4_13-0" class="reference"><a href="#cite_note-Radio4-13"><span>[</span>14<span>]</span></a></sup> In the mid-15th century <a href="/wiki/King_James_II_of_Scotland" title="King James II of Scotland" class="mw-redirect">King James II of Scotland</a> decreed that they should be "killed wherever possible", but they remained protected in England and Wales for the next 100 years as they kept the streets free of carrion and rotting food.<sup id="cite_ref-New_Kay_14-0" class="reference"><a href="#cite_note-New_Kay-14"><span>[</span>15<span>]</span></a></sup> Under Tudor "vermin laws" many creatures were seen as competitors for the produce of the countryside and bounties were paid by the parish for their carcasses.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup></p>
+<p>By the 20th century the breeding population was restricted to a handful of pairs in <a href="/wiki/South_Wales" title="South Wales">South Wales</a>, but recently the Welsh population has been supplemented by re-introductions in England and Scotland. In 2004, from 375 occupied territories identified, at least 216 pairs were thought to have hatched eggs and 200 pairs reared at least 286 young.<sup id="cite_ref-iucn_0-3" class="reference"><a href="#cite_note-iucn-0"><span>[</span>1<span>]</span></a></sup> In 1989 six Swedish birds were released at a site in north Scotland and four Swedish and a Welsh bird in <a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a>.<sup id="cite_ref-RSPB_conservation_16-0" class="reference"><a href="#cite_note-RSPB_conservation-16"><span>[</span>17<span>]</span></a></sup> Altogether, 93 birds of Swedish and Spanish origin were released at each of the sites. In the second stage of reintroduction in 1995 and 1996, further birds were brought from Germany to populate areas of <a href="/wiki/Dumfries_and_Galloway" title="Dumfries and Galloway">Dumfries and Galloway</a>. 94 birds were brought from the Chilterns and introduced into the <a href="/wiki/River_Derwent,_North_East_England" title="River Derwent, North East England">Derwent Valley</a> in North East England between 2004 and 2006.<sup id="cite_ref-RSPB_conservation_16-1" class="reference"><a href="#cite_note-RSPB_conservation-16"><span>[</span>17<span>]</span></a></sup> In Northern Ireland 80 birds from wild stock in Wales were released over three years between 2008-2010 and 2010 the first successful breeding was recorded. The reintroductions in <a href="/wiki/The_Chilterns" title="The Chilterns" class="mw-redirect">the Chilterns</a> have been a success. Between 1989 and 1993 90 birds were released in the Chilterns <a href="/wiki/Area_of_Outstanding_Natural_Beauty" title="Area of Outstanding Natural Beauty">Area of Outstanding Natural Beauty</a> and by 2002, 139 pairs were breeding there.<sup id="cite_ref-Chilterns_17-0" class="reference"><a href="#cite_note-Chilterns-17"><span>[</span>18<span>]</span></a></sup> Another successful reintroduction has been in <a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a>, which has become a stronghold for the Red Kite.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> Thirty Spanish birds were introduced into <a href="/wiki/Rockingham_Forest" title="Rockingham Forest">Rockingham Forest</a> near <a href="/wiki/Corby" title="Corby">Corby</a> in 2000,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup> and by 2010, the <a href="/wiki/Royal_Society_for_the_Protection_of_Birds" title="Royal Society for the Protection of Birds">RSPB</a> estimated that over 200 chicks had been reared from the initial release. So successful has the reintroduction been that 30 chicks have been transported from Rockingham Forest, for release in <a href="/wiki/Cumbria" title="Cumbria">Cumbria</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup></p>
+<p>A sighting of the first Red Kite in London for 150 years was reported in <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i> newspaper in January 2006<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> and in June of that year, the UK-based Northern Kites Project reported that kites had bred in the Derwent Valley in and around <a href="/wiki/Rowlands_Gill" title="Rowlands Gill">Rowlands Gill</a>, <a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a> for the first time since the re-introduction.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup></p>
+<p>In 1999 the Red Kite was named 'Bird of the Century' by the <a href="/wiki/British_Trust_for_Ornithology" title="British Trust for Ornithology">British Trust for Ornithology</a>.<sup id="cite_ref-Radio4_13-1" class="reference"><a href="#cite_note-Radio4-13"><span>[</span>14<span>]</span></a></sup></p>
+<p>In June 2010 the <a href="/wiki/Forestry_Commission" title="Forestry Commission">Forestry Commission</a> North West England announced a three-year project to release 90 Red Kites in <a href="/wiki/Grizedale_Forest" title="Grizedale Forest">Grizedale Forest</a>, <a href="/wiki/Cumbria" title="Cumbria">Cumbria</a> under a special licence issued by <a href="/wiki/Natural_England" title="Natural England">Natural England</a>. The Grizedale programme will be the ninth reintroduction of Red Kites into different regions of the UK, and the final re-introduction phase in England.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup></p>
+<p>The stated aims of the Grizedale project are:</p>
+<ul>
+<li>To establish a viable population of Red Kites in Grizedale, South Cumbria by 2015.</li>
+<li>To increase the rate of Red Kite expansion into North West England and link up with existing populations in Wales, Yorkshire, North East England and South West Scotland and so increase the chances of a continuous geographical range.</li>
+<li>To develop community involvement and create educational opportunities arising from the project.<sup id="cite_ref-FC_Poster_24-0" class="reference"><a href="#cite_note-FC_Poster-24"><span>[</span>25<span>]</span></a></sup></li>
+</ul>
+<p>As of July 2011, non-breeding birds are regularly seen in all parts of Britain, and the number of breeding pairs is too large for the RSPB to continue to survey them on an annual basis.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=9" title="Edit section: Ireland">edit</a>]</span> <span class="mw-headline" id="Ireland">Ireland</span></h3>
+<p>Red Kites were extinct in Ireland by the middle nineteenth century, due to persecution, poisoning and woodland clearance. In May 2007, <a href="/wiki/Minister_for_the_Environment,_Community_and_Local_Government" title="Minister for the Environment, Community and Local Government">Minister for the Environment, Heritage and Local Government</a> <a href="/wiki/Dick_Roche" title="Dick Roche">Dick Roche</a> announced an agreement to bring at least 100 birds from Wales to restock the population as part of a 5-year programme in the <a href="/wiki/Wicklow_Mountains" title="Wicklow Mountains">Wicklow Mountains</a>, similar to the earlier <a href="/wiki/Golden_Eagle" title="Golden Eagle">Golden Eagle</a> reintroduction programme.<sup id="cite_ref-NDP_26-0" class="reference"><a href="#cite_note-NDP-26"><span>[</span>27<span>]</span></a></sup> On the 19 July 2007 the first thirty red kites were released in Co. Wicklow.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>28<span>]</span></a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>29<span>]</span></a></sup> On 22 May 2010, 2 newly-hatched Red Kite chicks were discovered in the <a href="/wiki/County_Wicklow" title="County Wicklow">Wicklow mountains</a>,<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>30<span>]</span></a></sup> bringing the number of chicks hatched since reintroduction to 7.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=10" title="Edit section: Sweden">edit</a>]</span> <span class="mw-headline" id="Sweden">Sweden</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:277px;"><a href="/wiki/File:JNR_5246Wiki.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/JNR_5246Wiki.jpg/275px-JNR_5246Wiki.jpg" width="275" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/JNR_5246Wiki.jpg/413px-JNR_5246Wiki.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/JNR_5246Wiki.jpg/550px-JNR_5246Wiki.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:JNR_5246Wiki.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Red Kite flying over Skåne, Sweden</div>
+</div>
+</div>
+<p>The red kite is the landscape bird of <a href="/wiki/Scania" title="Scania">Scania</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a> and the coat of arms of the municipality of <a href="/wiki/Tomelilla" title="Tomelilla">Tomelilla</a>. Sweden is one location where the red kite seems to be in progress with around 2000 pairs in 2009 some of which are overwintering and some flying south to the Mideterranean landscapes for the winter. They return around March-April. The Kite is often seen roaming the open colourful patchwork quilt of wheat and rapeseed fields of Scania and if you go for a drive in the spring or summertime you are almost inevitably going to run into a number of them along the roadsides. Just north of <a href="/wiki/Ystad" title="Ystad">Ystad</a> you can even experience the kites flying along with <a href="/wiki/Golden_Eagles" title="Golden Eagles" class="mw-redirect">Golden Eagles</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=11" title="Edit section: Populations and trends by country">edit</a>]</span> <span class="mw-headline" id="Populations_and_trends_by_country">Populations and trends by country</span></h3>
+<p>The following figures (mostly estimates) have been collated from various sources.<sup id="cite_ref-bwpc_1-3" class="reference"><a href="#cite_note-bwpc-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup><sup id="cite_ref-bwp_32-0" class="reference"><a href="#cite_note-bwp-32"><span>[</span>33<span>]</span></a></sup><sup id="cite_ref-holloway_33-0" class="reference"><a href="#cite_note-holloway-33"><span>[</span>34<span>]</span></a></sup><sup id="cite_ref-rspb_34-0" class="reference"><a href="#cite_note-rspb-34"><span>[</span>35<span>]</span></a></sup><sup id="cite_ref-Carter09_35-0" class="reference"><a href="#cite_note-Carter09-35"><span>[</span>36<span>]</span></a></sup> They cover most of the countries in which Red Kites are believed to have bred.</p>
+<table class="wikitable">
+<tr>
+<th>Country</th>
+<th>Year</th>
+<th>Pairs</th>
+<th>Trend</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/22px-Flag_of_Norway.svg.png" width="22" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/33px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/44px-Flag_of_Norway.svg.png 2x" />&#160;</span><a href="/wiki/Norway" title="Norway">Norway</a></td>
+<td>1980</td>
+<td>0</td>
+<td>0</td>
+<td>Bred occasionally in 19th century</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/22px-Flag_of_Sweden.svg.png" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/33px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/44px-Flag_of_Sweden.svg.png 2x" />&#160;</span><a href="/wiki/Sweden" title="Sweden">Sweden</a></td>
+<td>late 2000s</td>
+<td><i>c.</i>1800</td>
+<td>+</td>
+<td>Increase from 400 pairs in 1993</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/22px-Flag_of_Denmark.svg.png" width="22" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/33px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/44px-Flag_of_Denmark.svg.png 2x" />&#160;</span><a href="/wiki/Denmark" title="Denmark">Denmark</a></td>
+<td>2009</td>
+<td>75–80<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>37<span>]</span></a></sup></td>
+<td>+</td>
+<td>Extinct <i>c.</i>1920, then recolonised (from Sweden) 1970s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/22px-Flag_of_Scotland.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/33px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/44px-Flag_of_Scotland.svg.png 2x" />&#160;</span><a href="/wiki/Scotland" title="Scotland">Scotland</a></td>
+<td>2009</td>
+<td>135</td>
+<td>+</td>
+<td>Extinct 1886, reintroduced 1989–1992</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" />&#160;</span><a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a></td>
+<td>2010</td>
+<td>5</td>
+<td>+</td>
+<td>First successful breeding reported in 2010 following reintroduction in 2008</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/22px-Flag_of_Ireland.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/33px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/44px-Flag_of_Ireland.svg.png 2x" />&#160;</span><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></td>
+<td>2010</td>
+<td>7</td>
+<td>+</td>
+<td>First successful breeding reported in 2010 following reintroduction in 2007</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/22px-Flag_of_Wales_2.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/33px-Flag_of_Wales_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/44px-Flag_of_Wales_2.svg.png 2x" />&#160;</span><a href="/wiki/Wales" title="Wales">Wales</a></td>
+<td>2009</td>
+<td><i>c.</i>1000</td>
+<td>+</td>
+<td>Declined to 2 pairs in 1930s, then recovery</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/22px-Flag_of_England.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/33px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/44px-Flag_of_England.svg.png 2x" />&#160;</span><a href="/wiki/England" title="England">England</a></td>
+<td>2011</td>
+<td><i>c.</i>2000</td>
+<td>+</td>
+<td>Extinct 1870s, reintroduced 1989–1992</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x" />&#160;</span><a href="/wiki/France" title="France">France</a></td>
+<td>late 2000s</td>
+<td><i>c.</i>3000</td>
+<td>–</td>
+<td>2300–2900 pairs 1980s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" />&#160;</span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+<td><i>c.</i>1998</td>
+<td>&lt;5</td>
+<td>+</td>
+<td>Extinct 1852, recolonised 1976</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/22px-Flag_of_Belgium_%28civil%29.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/33px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/44px-Flag_of_Belgium_%28civil%29.svg.png 2x" />&#160;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a></td>
+<td><i>c.</i>1995</td>
+<td>50–60</td>
+<td>+</td>
+<td>Declined to 1–3 pairs early 1970s, then recovery</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/22px-Flag_of_Luxembourg.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/33px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/44px-Flag_of_Luxembourg.svg.png 2x" />&#160;</span><a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a></td>
+<td>1997</td>
+<td>46</td>
+<td>+</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a></td>
+<td>late 2000s</td>
+<td><i>c.</i>12000</td>
+<td>–</td>
+<td>15000–25000 pairs 1980s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/33px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/44px-Flag_of_Poland.svg.png 2x" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td><i>c.</i>1998</td>
+<td>650–700</td>
+<td>+</td>
+<td>400–450 pairs 1980s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/22px-Flag_of_Estonia.svg.png" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/33px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/44px-Flag_of_Estonia.svg.png 2x" />&#160;</span><a href="/wiki/Estonia" title="Estonia">Estonia</a></td>
+<td>1989</td>
+<td>&lt;1</td>
+<td>&#160;?</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/22px-Flag_of_Latvia.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/33px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/44px-Flag_of_Latvia.svg.png 2x" />&#160;</span><a href="/wiki/Latvia" title="Latvia">Latvia</a></td>
+<td>1992</td>
+<td>0–50</td>
+<td>+</td>
+<td>Extinct 1964, then recolonised</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/22px-Flag_of_Lithuania.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/33px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/44px-Flag_of_Lithuania.svg.png 2x" />&#160;</span><a href="/wiki/Lithuania" title="Lithuania">Lithuania</a></td>
+<td>1988</td>
+<td>1–2</td>
+<td>+</td>
+<td>Extinct, then recolonised 1981</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td>1992</td>
+<td>0–50</td>
+<td>&#160;?</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/22px-Flag_of_Belarus.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/33px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/44px-Flag_of_Belarus.svg.png 2x" />&#160;</span><a href="/wiki/Belarus" title="Belarus">Belarus</a></td>
+<td>1997</td>
+<td>1</td>
+<td>+/–</td>
+<td>Extinct 1950s, recolonised 1985; 10 pairs 1990</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/22px-Flag_of_Ukraine.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/33px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/44px-Flag_of_Ukraine.svg.png 2x" />&#160;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td>
+<td>1990</td>
+<td>5–8</td>
+<td>–</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/33px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/44px-Flag_of_the_Czech_Republic.svg.png 2x" />&#160;</span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td>
+<td>1993–94</td>
+<td>30–50</td>
+<td>+</td>
+<td>Extinct late 19th century, recolonised 1975</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/22px-Flag_of_Slovakia.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/33px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/44px-Flag_of_Slovakia.svg.png 2x" />&#160;</span><a href="/wiki/Slovakia" title="Slovakia">Slovakia</a></td>
+<td>1992</td>
+<td>10–20</td>
+<td>&#160;?–</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" width="20" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 2x" />&#160;</span><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></td>
+<td><i>c.</i>1995</td>
+<td>800–1000</td>
+<td>+</td>
+<td>Declined 19th century, later recovery; 235–300 pairs late 1980s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/22px-Flag_of_Austria.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/33px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/44px-Flag_of_Austria.svg.png 2x" />&#160;</span><a href="/wiki/Austria" title="Austria">Austria</a></td>
+<td>2000</td>
+<td>0–2</td>
+<td>–</td>
+<td>Extinct 1950, recolonised 1970s; 10 pairs 1990</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/22px-Flag_of_Hungary.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/33px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/44px-Flag_of_Hungary.svg.png 2x" />&#160;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a></td>
+<td><i>c.</i>1998</td>
+<td>1+</td>
+<td>–</td>
+<td>30 pairs 1950s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/22px-Flag_of_Romania.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/33px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/44px-Flag_of_Romania.svg.png 2x" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></td>
+<td>1995</td>
+<td>15–20</td>
+<td>&#160;?+</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/22px-Flag_of_Moldova.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/33px-Flag_of_Moldova.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/44px-Flag_of_Moldova.svg.png 2x" />&#160;</span><a href="/wiki/Moldova" title="Moldova">Moldova</a></td>
+<td>1990</td>
+<td>1</td>
+<td>&#160;?</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/22px-Flag_of_Bulgaria.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/33px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/44px-Flag_of_Bulgaria.svg.png 2x" />&#160;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>May breed but no proof</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/22px-Flag_of_Croatia.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/33px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/44px-Flag_of_Croatia.svg.png 2x" />&#160;</span><a href="/wiki/Croatia" title="Croatia">Croatia</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>2–5 pairs 1980s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/22px-Flag_of_Bosnia_and_Herzegovina.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/33px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/44px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x" />&#160;</span><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/22px-Flag_of_SFR_Yugoslavia.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/33px-Flag_of_SFR_Yugoslavia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/44px-Flag_of_SFR_Yugoslavia.svg.png 2x" />&#160;</span><a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia">Yugoslavia</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>Formerly commoner</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/22px-Flag_of_Montenegro.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/33px-Flag_of_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/44px-Flag_of_Montenegro.svg.png 2x" />&#160;</span><a href="/wiki/Montenegro" title="Montenegro">Montenegro</a></td>
+<td>1995</td>
+<td>0</td>
+<td>&#160;?</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/22px-Flag_of_Serbia.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/33px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/44px-Flag_of_Serbia.svg.png 2x" />&#160;</span><a href="/wiki/Serbia" title="Serbia">Serbia</a></td>
+<td></td>
+<td></td>
+<td>&#160;?</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/22px-Flag_of_Macedonia.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/33px-Flag_of_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/44px-Flag_of_Macedonia.svg.png 2x" />&#160;</span><a href="/wiki/Republic_of_Macedonia" title="Republic of Macedonia">Macedonia</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/22px-Flag_of_Italy.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/33px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/44px-Flag_of_Italy.svg.png 2x" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a></td>
+<td><i>c.</i>2002</td>
+<td>300–400</td>
+<td>0/+</td>
+<td>70–150 pairs late 1980s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/22px-Flag_of_Albania.svg.png" width="22" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/33px-Flag_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/44px-Flag_of_Albania.svg.png 2x" />&#160;</span><a href="/wiki/Albania" title="Albania">Albania</a></td>
+<td></td>
+<td></td>
+<td>&#160;?</td>
+<td>Bred 1906</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/22px-Flag_of_Greece.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/33px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/44px-Flag_of_Greece.svg.png 2x" />&#160;</span><a href="/wiki/Greece" title="Greece">Greece</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/22px-Flag_of_Turkey.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/33px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/44px-Flag_of_Turkey.svg.png 2x" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>May have bred in past but no proof</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/22px-Flag_of_Algeria.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/33px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/44px-Flag_of_Algeria.svg.png 2x" />&#160;</span><a href="/wiki/Algeria" title="Algeria">Algeria</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>Bred in 19th century, now extinct</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/22px-Flag_of_Tunisia.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/33px-Flag_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/44px-Flag_of_Tunisia.svg.png 2x" />&#160;</span><a href="/wiki/Tunisia" title="Tunisia">Tunisia</a></td>
+<td></td>
+<td>0</td>
+<td>&#160;?</td>
+<td>Bred in 19th century, now extinct</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+<td>late 2000s</td>
+<td><i>c.</i>2200</td>
+<td>–</td>
+<td>10000 pairs 1977</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/22px-Flag_of_Portugal.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/33px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/44px-Flag_of_Portugal.svg.png 2x" />&#160;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a></td>
+<td><i>c.</i>1995</td>
+<td>100–200</td>
+<td>+/0</td>
+<td>&#160;</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/22px-Flag_of_Morocco.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/33px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/44px-Flag_of_Morocco.svg.png 2x" />&#160;</span><a href="/wiki/Morocco" title="Morocco">Morocco</a></td>
+<td><i>c.</i>1992</td>
+<td>10–100</td>
+<td>–</td>
+<td>In danger of extinction</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_the_Canary_Islands.svg/22px-Flag_of_the_Canary_Islands.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_the_Canary_Islands.svg/33px-Flag_of_the_Canary_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_the_Canary_Islands.svg/44px-Flag_of_the_Canary_Islands.svg.png 2x" />&#160;</span><a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a></td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>Extinct 1970s</td>
+</tr>
+<tr>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/22px-Flag_of_Cape_Verde.svg.png" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/33px-Flag_of_Cape_Verde.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/44px-Flag_of_Cape_Verde.svg.png 2x" />&#160;</span><a href="/wiki/Cape_Verde" title="Cape Verde">Cape Verde</a></td>
+<td>2000</td>
+<td>1?</td>
+<td>–</td>
+<td>50–75 pairs late 1980s; effectively extinct</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=12" title="Edit section: Observation">edit</a>]</span> <span class="mw-headline" id="Observation">Observation</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Red-tailed_kite.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Red-tailed_kite.jpg/200px-Red-tailed_kite.jpg" width="200" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Red-tailed_kite.jpg/300px-Red-tailed_kite.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Red-tailed_kite.jpg/400px-Red-tailed_kite.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Red-tailed_kite.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Red kite in flight at Gigrin farm</div>
+</div>
+</div>
+<p>One of the best places to see the Red Kite in Scandinavia is <a href="/wiki/Scania" title="Scania">Scania</a> in southern Sweden. It may be observed in one of its breeding locations such as the <a href="/wiki/Kullaberg" title="Kullaberg">Kullaberg</a> Nature Preserve near Molle.<sup id="cite_ref-Hogan2005_37-0" class="reference"><a href="#cite_note-Hogan2005-37"><span>[</span>38<span>]</span></a></sup></p>
+<p>Some of the best places to see them in the UK are Gigrin Farm near <a href="/wiki/Rhayader" title="Rhayader">Rhayader</a>, <a href="/wiki/Mid_Wales" title="Mid Wales">mid Wales</a>, where hundreds are fed by the local farmer as a tourist attraction,<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>39<span>]</span></a></sup> and the nearby Nant-Yr-Arian forest recreation centre in <a href="/wiki/Ceredigion" title="Ceredigion">Ceredigion</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>40<span>]</span></a></sup> where the rare <a href="/wiki/Leucism" title="Leucism">leucistic</a> variant can be seen.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>41<span>]</span></a></sup> In the UK the <a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a> part of the <a href="/wiki/Chilterns" title="Chilterns" class="mw-redirect">Chilterns</a> has many Red Kites, especially near <a href="/wiki/Henley-on-Thames" title="Henley-on-Thames">Henley-on-Thames</a> and <a href="/wiki/Watlington,_Oxfordshire" title="Watlington, Oxfordshire">Watlington</a>, where they were introduced on <a href="/wiki/John_Paul_Getty,_Jr." title="John Paul Getty, Jr.">John Paul Getty</a>'s estate.<sup id="cite_ref-Chilterns_17-1" class="reference"><a href="#cite_note-Chilterns-17"><span>[</span>18<span>]</span></a></sup> They can also be seen around <a href="/wiki/Harewood" title="Harewood">Harewood</a> near <a href="/wiki/Leeds" title="Leeds">Leeds</a> where they were re-introduced in 1999, and in <a href="/wiki/Twyford" title="Twyford">Twyford</a> and <a href="/wiki/Wokingham" title="Wokingham">Wokingham</a> in <a href="/wiki/Berkshire" title="Berkshire">Berkshire</a>.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>42<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Red_Kite_feeding_in_Wales" title="Red Kite feeding in Wales">Red Kite feeding in Wales</a></li>
+<li><a href="/wiki/Shite-hawk" title="Shite-hawk">Shite-hawk</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=14" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 32em; -webkit-column-width: 32em; column-width: 32em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-iucn-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-iucn_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-iucn_0-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-iucn_0-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-iucn_0-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Anon (2009). <a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=3353&amp;m=0">"Red Kite - BirdLife Species Factsheet"</a>. <i>2009 IUCN Red List Category</i>. BirdLife International<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=3353&amp;m=0">http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=3353&amp;m=0</a></span><span class="reference-accessdate">. Retrieved 2009-07-05</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Red+Kite+-+BirdLife+Species+Factsheet&amp;rft.atitle=2009+IUCN+Red+List+Category&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.date=2009&amp;rft.pub=BirdLife+International&amp;rft_id=http%3A%2F%2Fwww.birdlife.org%2Fdatazone%2Fspecies%2Findex.html%3Faction%3DSpcHTMDetails.asp%26sid%3D3353%26m%3D0&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-bwpc-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-bwpc_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bwpc_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bwpc_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bwpc_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Snow, D. W. &amp; Perrins, C. M. (1998). <i><a href="/wiki/The_Birds_of_the_Western_Palearctic" title="The Birds of the Western Palearctic">The Birds of the Western Palearctic</a></i> Concise Edition. OUP <a href="/wiki/Special:BookSources/019854099X" class="internal mw-magiclink-isbn">ISBN 0-19-854099-X</a>.</span></li>
+<li id="cite_note-Gambia-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gambia_2-0">^</a></b></span> <span class="reference-text">Barlow, C., Wacher, T. and Disley, T. (1997) <i>A Field Guide to Birds of the Gambia and Senegal</i>. Pica Press, Mountfield, UK. <a href="/wiki/Special:BookSources/1873403321" class="internal mw-magiclink-isbn">ISBN 1-873403-32-1</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus, C</a> (1758) (in Latin). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata.</i>. Stockholm: Laurentius Salvius. p.&#160;89. "F. cera flava, cauda forsicata, corpore ferrugineo, capite albidiore.."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata.&amp;rft.aulast=Linnaeus&amp;rft.aufirst=C&amp;rft.au=Linnaeus%2C%26%2332%3BC&amp;rft.date=1758&amp;rft.pages=p.%26nbsp%3B89&amp;rft.place=Stockholm&amp;rft.pub=Laurentius+Salvius&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Sabine Hille and Jean-marc Thiollay (2000). The imminent extinction of the Kites <i>Milvus milvus fasciicauda</i> and <i>Milvus m. migrans</i> on the Cape Verde Islands. Bird Conservation International, 10 , pp 361-369</span></li>
+<li id="cite_note-Johnson-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Johnson_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Johnson_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Jeff A. Johnson, Richard T. Watson &amp; David P. Mindell (2005). <a rel="nofollow" class="external text" href="http://rspb.royalsocietypublishing.org/content/272/1570/1365">"Prioritizing species conservation: does the Cape Verde kite exist?"</a>. <i><a href="/wiki/Proceedings_of_the_Royal_Society_B:_Biological_Sciences" title="Proceedings of the Royal Society B: Biological Sciences" class="mw-redirect">Proceedings of the Royal Society B: Biological Sciences</a></i> <b>272</b> (7): 1365–1371. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1098%2Frspb.2005.3098">10.1098/rspb.2005.3098</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1560339">1560339</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16006325">16006325</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://rspb.royalsocietypublishing.org/content/272/1570/1365">http://rspb.royalsocietypublishing.org/content/272/1570/1365</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Prioritizing+species+conservation%3A+does+the+Cape+Verde+kite+exist%3F&amp;rft.jtitle=%5B%5BProceedings+of+the+Royal+Society+B%3A+Biological+Sciences%5D%5D&amp;rft.aulast=Jeff+A.+Johnson%2C+Richard+T.+Watson+%26+David+P.+Mindell&amp;rft.au=Jeff+A.+Johnson%2C+Richard+T.+Watson+%26+David+P.+Mindell&amp;rft.date=2005&amp;rft.volume=272&amp;rft.issue=7&amp;rft.pages=1365%E2%80%931371&amp;rft_id=info:doi/10.1098%2Frspb.2005.3098&amp;rft_id=info:pmc/1560339&amp;rft_id=info:pmid/16006325&amp;rft_id=http%3A%2F%2Frspb.royalsocietypublishing.org%2Fcontent%2F272%2F1570%2F1365&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation Journal">Schreiber, Arnd; Stubbe, Michael &amp; Stubbe, Annegret (2000). "Red kite (<i>Milvus milvus</i>) and black kite (<i>M. migrans</i>): minute genetic interspecies distance of two raptors breeding in a mixed community (Falconiformes: Accipitridae)". <i><a href="/wiki/Biological_Journal_of_the_Linnean_Society" title="Biological Journal of the Linnean Society" class="mw-redirect">Biological Journal of the Linnean Society</a></i> <b>69</b> (3): 351–365. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1006%2Fbijl.1999.0365">10.1006/bijl.1999.0365</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Red+kite+%28%27%27Milvus+milvus%27%27%29+and+black+kite+%28%27%27M.+migrans%27%27%29%3A+minute+genetic+interspecies+distance+of+two+raptors+breeding+in+a+mixed+community+%28Falconiformes%3A+Accipitridae%29&amp;rft.jtitle=%5B%5BBiological+Journal+of+the+Linnean+Society%5D%5D&amp;rft.aulast=Schreiber%2C+Arnd%3B+Stubbe%2C+Michael+%26+Stubbe%2C+Annegret&amp;rft.au=Schreiber%2C+Arnd%3B+Stubbe%2C+Michael+%26+Stubbe%2C+Annegret&amp;rft.date=2000&amp;rft.volume=69&amp;rft.issue=3&amp;rft.pages=351%E2%80%93365&amp;rft_id=info:doi/10.1006%2Fbijl.1999.0365&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web">Anon. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090202133553/http://gigrin.co.uk/white_redkite.html">"The White Kite"</a>. <i>Gigrin Farm - The Red Kite feeding station</i>. Gigrin Farm. Archived from <a rel="nofollow" class="external text" href="http://www.gigrin.co.uk/white_redkite.html">the original</a> on February 2, 2009<span class="printonly">. <a rel="nofollow" class="external free" href="http://web.archive.org/web/20090202133553/http://gigrin.co.uk/white_redkite.html">http://web.archive.org/web/20090202133553/http://gigrin.co.uk/white_redkite.html</a></span><span class="reference-accessdate">. Retrieved 2009-07-07</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+White+Kite&amp;rft.atitle=Gigrin+Farm+-+The+Red+Kite+feeding+station&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.pub=Gigrin+Farm&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20090202133553%2Fhttp%3A%2F%2Fgigrin.co.uk%2Fwhite_redkite.html&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Pugh-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pugh_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pugh_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Pugh, Effyn. <a rel="nofollow" class="external text" href="http://www.birdsofbritain.co.uk/features/red-kite2.asp">"The Red Kite"</a>. <i>birdsofbritain.co.uk</i>. Birds of Britain<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdsofbritain.co.uk/features/red-kite2.asp">http://www.birdsofbritain.co.uk/features/red-kite2.asp</a></span><span class="reference-accessdate">. Retrieved 2009-10-26</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Red+Kite&amp;rft.atitle=birdsofbritain.co.uk&amp;rft.aulast=Pugh&amp;rft.aufirst=Effyn&amp;rft.au=Pugh%2C%26%2332%3BEffyn&amp;rft.pub=Birds+of+Britain&amp;rft_id=http%3A%2F%2Fwww.birdsofbritain.co.uk%2Ffeatures%2Fred-kite2.asp&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.heraldseries.co.uk/search/1684528.Wildlife_crime_soars/">"Wildlife crime soars"</a>. <i>The Herald Series</i>. 12 September 2007<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.heraldseries.co.uk/search/1684528.Wildlife_crime_soars/">http://www.heraldseries.co.uk/search/1684528.Wildlife_crime_soars/</a></span><span class="reference-accessdate">. Retrieved 6 July 2009</span>. "In Didcot, poisoned rabbits were laid out as bait disguised as road-kill, targeting red kites"</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Wildlife+crime+soars&amp;rft.atitle=The+Herald+Series&amp;rft.date=12+September+2007&amp;rft_id=http%3A%2F%2Fwww.heraldseries.co.uk%2Fsearch%2F1684528.Wildlife_crime_soars%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">Anon. <a rel="nofollow" class="external text" href="http://www.animalcorner.co.uk/endangered/bi_birdredkite.html">"Red Kite"</a>. <i>Animal Corner</i>. Animal Corner<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.animalcorner.co.uk/endangered/bi_birdredkite.html">http://www.animalcorner.co.uk/endangered/bi_birdredkite.html</a></span><span class="reference-accessdate">. Retrieved 26 October 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Red+Kite&amp;rft.atitle=Animal+Corner&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.pub=Animal+Corner&amp;rft_id=http%3A%2F%2Fwww.animalcorner.co.uk%2Fendangered%2Fbi_birdredkite.html&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC_Scotland-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC_Scotland_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC_Scotland_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Anon. <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/scotland/outdoors/articles/swrk/">"Scotland's Wildlife: Red Kite"</a>. <i>BBC Scotland outdoors articles</i>. BBC<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bbc.co.uk/scotland/outdoors/articles/swrk/">http://www.bbc.co.uk/scotland/outdoors/articles/swrk/</a></span><span class="reference-accessdate">. Retrieved 26 October 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Scotland%27s+Wildlife%3A+Red+Kite&amp;rft.atitle=BBC+Scotland+outdoors+articles&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.pub=BBC&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fscotland%2Foutdoors%2Farticles%2Fswrk%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.gigrin.co.uk/w/europe/europe.html">"Red Kites decline in Europe"</a>. Welsh Kite Trust. undated<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.gigrin.co.uk/w/europe/europe.html">http://www.gigrin.co.uk/w/europe/europe.html</a></span><span class="reference-accessdate">. Retrieved 2007-02-24</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Red+Kites+decline+in+Europe&amp;rft.atitle=&amp;rft.date=undated&amp;rft.pub=Welsh+Kite+Trust&amp;rft_id=http%3A%2F%2Fwww.gigrin.co.uk%2Fw%2Feurope%2Feurope.html&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Radio4-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Radio4_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Radio4_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/programmes/b00yz3t2">BBC Radio 4, Debating Animals, Series 2, The Kestrel and Red Kite by Rod Liddle</a></span></li>
+<li id="cite_note-New_Kay-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-New_Kay_14-0">^</a></b></span> <span class="reference-text"><span class="citation web">Atrill, Rod. <a rel="nofollow" class="external text" href="http://www.newquay-westwales.co.uk/kite.htm">"The Red Kite in West Wales"</a>. <i>New Key on Cardigan Bay in West Wales</i>. Rod Attrill<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.newquay-westwales.co.uk/kite.htm">http://www.newquay-westwales.co.uk/kite.htm</a></span><span class="reference-accessdate">. Retrieved 2009-07-07</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Red+Kite+in+West+Wales&amp;rft.atitle=New+Key+on+Cardigan+Bay+in+West+Wales&amp;rft.aulast=Atrill&amp;rft.aufirst=Rod&amp;rft.au=Atrill%2C%26%2332%3BRod&amp;rft.pub=Rod+Attrill&amp;rft_id=http%3A%2F%2Fwww.newquay-westwales.co.uk%2Fkite.htm&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation news">McCarthy, Michael (23 March 2007). <a rel="nofollow" class="external text" href="http://www.independent.co.uk/arts-entertainment/books/reviews/silent-fields-by-roger-lovegrove-441401.html">"Book Review:Silent Field, By Roger Lovegrove:songbirds versus shotguns"</a>. <i>The Independent:</i> (London: Independent.co.uk)<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.independent.co.uk/arts-entertainment/books/reviews/silent-fields-by-roger-lovegrove-441401.html">http://www.independent.co.uk/arts-entertainment/books/reviews/silent-fields-by-roger-lovegrove-441401.html</a></span><span class="reference-accessdate">. Retrieved 2009-07-07</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Book+Review%3ASilent+Field%2C+By+Roger+Lovegrove%3Asongbirds+versus+shotguns&amp;rft.jtitle=The+Independent%3A&amp;rft.aulast=McCarthy&amp;rft.aufirst=Michael&amp;rft.au=McCarthy%2C%26%2332%3BMichael&amp;rft.date=23+March+2007&amp;rft.place=London&amp;rft.pub=Independent.co.uk&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Farts-entertainment%2Fbooks%2Freviews%2Fsilent-fields-by-roger-lovegrove-441401.html&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-RSPB_conservation-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-RSPB_conservation_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RSPB_conservation_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Anon. <a rel="nofollow" class="external text" href="http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/conservation.aspx">"Red Kite"</a>. <i>RSPB Conservation</i>. RSPB<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/conservation.aspx">http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/conservation.aspx</a></span><span class="reference-accessdate">. Retrieved 2009-10-26</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Red+Kite&amp;rft.atitle=RSPB+Conservation&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.pub=RSPB&amp;rft_id=http%3A%2F%2Fwww.rspb.org.uk%2Fwildlife%2Fbirdguide%2Fname%2Fr%2Fredkite%2Fconservation.aspx&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Chilterns-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chilterns_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chilterns_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Schurmer, Michael (November 2002). <a rel="nofollow" class="external text" href="http://www.chilternsaonb.org/downloads/farm_birds_survey.pdf">"Breeding Bird Survey of the Chilterns Area of Outstanding Natural Beauty 2002"</a>. RSPB<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.chilternsaonb.org/downloads/farm_birds_survey.pdf">http://www.chilternsaonb.org/downloads/farm_birds_survey.pdf</a></span><span class="reference-accessdate">. Retrieved 26 October 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Breeding+Bird+Survey+of+the+Chilterns+Area+of+Outstanding+Natural+Beauty+2002&amp;rft.atitle=&amp;rft.aulast=Schurmer&amp;rft.aufirst=Michael&amp;rft.au=Schurmer%2C%26%2332%3BMichael&amp;rft.date=November+2002&amp;rft.pub=RSPB&amp;rft_id=http%3A%2F%2Fwww.chilternsaonb.org%2Fdownloads%2Ffarm_birds_survey.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal"><a rel="nofollow" class="external text" href="http://www.birdguides.com/webzine/article.asp?a=1435">"RSPB Red Kite numbers are soaring across the UK"</a>. <i>Birdguides</i>. Monday 15 September 2008<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdguides.com/webzine/article.asp?a=1435">http://www.birdguides.com/webzine/article.asp?a=1435</a></span><span class="reference-accessdate">. Retrieved 4 August 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=RSPB+Red+Kite+numbers+are+soaring+across+the+UK&amp;rft.jtitle=Birdguides&amp;rft.date=Monday+15+September+2008&amp;rft_id=http%3A%2F%2Fwww.birdguides.com%2Fwebzine%2Farticle.asp%3Fa%3D1435&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.northantset.co.uk/news/local/corby/red_kite_project_a_soaring_success_1_773028">"Red Kite project a soaring success"</a>. <i>Evening Telegraph</i>. Friday 9 November 2007<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.northantset.co.uk/news/local/corby/red_kite_project_a_soaring_success_1_773028">http://www.northantset.co.uk/news/local/corby/red_kite_project_a_soaring_success_1_773028</a></span><span class="reference-accessdate">. Retrieved 4 August 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Red+Kite+project+a+soaring+success&amp;rft.jtitle=Evening+Telegraph&amp;rft.date=Friday+9+November+2007&amp;rft_id=http%3A%2F%2Fwww.northantset.co.uk%2Fnews%2Flocal%2Fcorby%2Fred_kite_project_a_soaring_success_1_773028&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/uk-england-cumbria-11004972">"Red kite chicks from Northamptonshire released to wild"</a>. <i>BBC</i>. 17 August 2010<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bbc.co.uk/news/uk-england-cumbria-11004972">http://www.bbc.co.uk/news/uk-england-cumbria-11004972</a></span><span class="reference-accessdate">. Retrieved 4 August 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Red+kite+chicks+from+Northamptonshire+released+to+wild&amp;rft.jtitle=BBC&amp;rft.date=17+August+2010&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-england-cumbria-11004972&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation news">McCarthy, Michael (13 January 2006). <a rel="nofollow" class="external text" href="http://www.independent.co.uk/environment/shakespeares-red-kite-returns-to-london-after-an-absence-of-150-years-522771.html">"Shakespeare's red kite returns to London after an absence of 150 years"</a>. <i>The Independent on Sunday</i> (Independent News and Media Limited)<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.independent.co.uk/environment/shakespeares-red-kite-returns-to-london-after-an-absence-of-150-years-522771.html">http://www.independent.co.uk/environment/shakespeares-red-kite-returns-to-london-after-an-absence-of-150-years-522771.html</a></span><span class="reference-accessdate">. Retrieved 2009-07-05</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Shakespeare%27s+red+kite+returns+to+London+after+an+absence+of+150+years&amp;rft.jtitle=The+Independent+on+Sunday&amp;rft.aulast=McCarthy&amp;rft.aufirst=Michael&amp;rft.au=McCarthy%2C%26%2332%3BMichael&amp;rft.date=13+January+2006&amp;rft.pub=Independent+News+and+Media+Limited&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Fenvironment%2Fshakespeares-red-kite-returns-to-london-after-an-absence-of-150-years-522771.html&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/england/tyne/5084800.stm">"Delight as red kite chicks hatch"</a>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a>. 16 June 2006<span class="printonly">. <a rel="nofollow" class="external free" href="http://news.bbc.co.uk/1/hi/england/tyne/5084800.stm">http://news.bbc.co.uk/1/hi/england/tyne/5084800.stm</a></span><span class="reference-accessdate">. Retrieved 2006-10-27</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Delight+as+red+kite+chicks+hatch&amp;rft.atitle=&amp;rft.date=16+June+2006&amp;rft.pub=%5B%5BBBC+News%5D%5D&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fengland%2Ftyne%2F5084800.stm&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation news">Anon (17 June 2010). <a rel="nofollow" class="external text" href="http://www.thewestmorlandgazette.co.uk/news/8224578.Red_kites_to_make_a_Lake_District_return/">"Red kites to make a Lake District return"</a>. <i>The Westmorland Gazette</i> (Newsquest media group)<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.thewestmorlandgazette.co.uk/news/8224578.Red_kites_to_make_a_Lake_District_return/">http://www.thewestmorlandgazette.co.uk/news/8224578.Red_kites_to_make_a_Lake_District_return/</a></span><span class="reference-accessdate">. Retrieved 12 July 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Red+kites+to+make+a+Lake+District+return&amp;rft.jtitle=The+Westmorland+Gazette&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.date=17+June+2010&amp;rft.pub=Newsquest+media+group&amp;rft_id=http%3A%2F%2Fwww.thewestmorlandgazette.co.uk%2Fnews%2F8224578.Red_kites_to_make_a_Lake_District_return%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-FC_Poster-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-FC_Poster_24-0">^</a></b></span> <span class="reference-text"><span class="citation web">Anon. <a rel="nofollow" class="external text" href="http://www.forestry.gov.uk/pdf/englandnweredkiteinfoposters.pdf/$FILE/englandnweredkiteinfoposters.pdf">"Grizedale Red Kite Project"</a>. <i>Forestry Commission information posters</i>. Forestry commission<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.forestry.gov.uk/pdf/englandnweredkiteinfoposters.pdf/$FILE/englandnweredkiteinfoposters.pdf">http://www.forestry.gov.uk/pdf/englandnweredkiteinfoposters.pdf/$FILE/englandnweredkiteinfoposters.pdf</a></span><span class="reference-accessdate">. Retrieved 12 July 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Grizedale+Red+Kite+Project&amp;rft.atitle=Forestry+Commission+information+posters&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.pub=Forestry+commission&amp;rft_id=http%3A%2F%2Fwww.forestry.gov.uk%2Fpdf%2Fenglandnweredkiteinfoposters.pdf%2F%24FILE%2Fenglandnweredkiteinfoposters.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">&gt;<span class="citation web"><a rel="nofollow" class="external text" href="http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/distribution_population.aspx">"Red kite: Distribution and population size"</a>. The RSPB<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/distribution_population.aspx">http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/distribution_population.aspx</a></span><span class="reference-accessdate">. Retrieved 2012-08-28</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Red+kite%3A+Distribution+and+population+size&amp;rft.atitle=&amp;rft.pub=The+RSPB&amp;rft_id=http%3A%2F%2Fwww.rspb.org.uk%2Fwildlife%2Fbirdguide%2Fname%2Fr%2Fredkite%2Fdistribution_population.aspx&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-NDP-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-NDP_26-0">^</a></b></span> <span class="reference-text"><span class="citation web">Anon. <a rel="nofollow" class="external text" href="http://www.ndp.ie/viewdoc.asp?fn=/documents/featured-projects/goldeneagle.htm">"Golden Eagle Trust, Glenveagh National Park"</a>. <i>National Development plan</i>. NDP<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ndp.ie/viewdoc.asp?fn=/documents/featured-projects/goldeneagle.htm">http://www.ndp.ie/viewdoc.asp?fn=/documents/featured-projects/goldeneagle.htm</a></span><span class="reference-accessdate">. Retrieved 26 October 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Golden+Eagle+Trust%2C+Glenveagh+National+Park&amp;rft.atitle=National+Development+plan&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.pub=NDP&amp;rft_id=http%3A%2F%2Fwww.ndp.ie%2Fviewdoc.asp%3Ffn%3D%2Fdocuments%2Ffeatured-projects%2Fgoldeneagle.htm&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.environ.ie/en/Heritage/NationalParksandWildlife/News/MainBody,5384,en.htm">News - Department of the Environment, Heritage &amp; Local Government</a></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web">Anon. <a rel="nofollow" class="external text" href="http://www.wildlifeextra.com/go/news/ireland-kites.html#cr">"Red Kites fly again in Ireland."</a>. <i>Wildlife Extra: News</i>. Wildlife Extra<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.wildlifeextra.com/go/news/ireland-kites.html#cr">http://www.wildlifeextra.com/go/news/ireland-kites.html#cr</a></span><span class="reference-accessdate">. Retrieved 26 October 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Red+Kites+fly+again+in+Ireland.&amp;rft.atitle=Wildlife+Extra%3A+News&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.pub=Wildlife+Extra&amp;rft_id=http%3A%2F%2Fwww.wildlifeextra.com%2Fgo%2Fnews%2Fireland-kites.html%23cr&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation news">Melia, Paul (22 May 2010). <a rel="nofollow" class="external text" href="http://www.independent.ie/national-news/two-chicks-about-the-size-of-a-fist-2190451.html">"Two chicks about the size of a fist"</a>. <i>Irish Independent</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.independent.ie/national-news/two-chicks-about-the-size-of-a-fist-2190451.html">http://www.independent.ie/national-news/two-chicks-about-the-size-of-a-fist-2190451.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Two+chicks+about+the+size+of+a+fist&amp;rft.jtitle=Irish+Independent&amp;rft.aulast=Melia&amp;rft.aufirst=Paul&amp;rft.au=Melia%2C%26%2332%3BPaul&amp;rft.date=22+May+2010&amp;rft_id=http%3A%2F%2Fwww.independent.ie%2Fnational-news%2Ftwo-chicks-about-the-size-of-a-fist-2190451.html&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.goldeneagle.ie/news_viewnews.php?x=3&amp;z=44&amp;news_id=9&amp;article=277">"Golden Eagle Trust | Red Kite | Project Updates"</a>. Goldeneagle.ie<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.goldeneagle.ie/news_viewnews.php?x=3&amp;z=44&amp;news_id=9&amp;article=277">http://www.goldeneagle.ie/news_viewnews.php?x=3&amp;z=44&amp;news_id=9&amp;article=277</a></span><span class="reference-accessdate">. Retrieved 2012-08-28</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Golden+Eagle+Trust+%26%23124%3B+Red+Kite+%26%23124%3B+Project+Updates&amp;rft.atitle=&amp;rft.pub=Goldeneagle.ie&amp;rft_id=http%3A%2F%2Fwww.goldeneagle.ie%2Fnews_viewnews.php%3Fx%3D3%26z%3D44%26news_id%3D9%26article%3D277&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Carter, Ian (2001): <i>The Red Kite</i>. Arlequin Press, Chelmsford, UK. 187pp.</span></li>
+<li id="cite_note-bwp-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-bwp_32-0">^</a></b></span> <span class="reference-text">Cramp, S. (1980). <i><a href="/wiki/The_Birds_of_the_Western_Palearctic" title="The Birds of the Western Palearctic">The Birds of the Western Palearctic</a></i> Volume 2. Oxford <a href="/wiki/Special:BookSources/019857505X" class="internal mw-magiclink-isbn">ISBN 0-19-857505-X</a>.</span></li>
+<li id="cite_note-holloway-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-holloway_33-0">^</a></b></span> <span class="reference-text">Holloway, S. (1996). <i>The Historical Atlas of Breeding Birds in Britain and Ireland: 1875–1900</i>. T &amp; A D Poyser <a href="/wiki/Special:BookSources/0856610941" class="internal mw-magiclink-isbn">ISBN 0-85661-094-1</a>.</span></li>
+<li id="cite_note-rspb-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-rspb_34-0">^</a></b></span> <span class="reference-text">RSPB Scotland, cited in <a rel="nofollow" class="external text" href="http://news.scotsman.com/latest-scottish-news/Red-Kite-numbers-soar-to.4492268.jp">The Scotsman</a>, Monday 15th September 2008</span></li>
+<li id="cite_note-Carter09-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carter09_35-0">^</a></b></span> <span class="reference-text">Carter, Ian (2009): The Red Kite. presentation to the Cambridgeshire Bird Club, Cambridge, UK, 13 November 2009.</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web">Gert Hjembæk (2009-11-25). <a rel="nofollow" class="external text" href="http://www.dof.dk/index.php?id=nyheder&amp;s=nyheder&amp;m=visning&amp;nyhed_id=690">"Den røde drage bliver hængende i Danmark"</a>. <a href="/wiki/Dansk_Ornitologisk_Forening" title="Dansk Ornitologisk Forening" class="mw-redirect">Dansk Ornitologisk Forening</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.dof.dk/index.php?id=nyheder&amp;s=nyheder&amp;m=visning&amp;nyhed_id=690">http://www.dof.dk/index.php?id=nyheder&amp;s=nyheder&amp;m=visning&amp;nyhed_id=690</a></span><span class="reference-accessdate">. Retrieved 2009-11-28</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Den+r%C3%B8de+drage+bliver+h%C3%A6ngende+i+Danmark&amp;rft.atitle=&amp;rft.aulast=Gert+Hjemb%C3%A6k&amp;rft.au=Gert+Hjemb%C3%A6k&amp;rft.date=2009-11-25&amp;rft.pub=%5B%5BDansk+Ornitologisk+Forening%5D%5D&amp;rft_id=http%3A%2F%2Fwww.dof.dk%2Findex.php%3Fid%3Dnyheder%26s%3Dnyheder%26m%3Dvisning%26nyhed_id%3D690&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Hogan2005-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hogan2005_37-0">^</a></b></span> <span class="reference-text">Hogan, C. Michael (2005): <i>Kullaberg Nature Reserve, Sweden</i>. Lumina technologies.</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.gigrin.co.uk">"Red Kite Feeding Station&#160;— Gigrin Farm"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.gigrin.co.uk">http://www.gigrin.co.uk</a></span><span class="reference-accessdate">. Retrieved 2006-10-27</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Red+Kite+Feeding+Station%26nbsp%3B%E2%80%94+Gigrin+Farm&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.gigrin.co.uk&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web">Anon (2008). <a rel="nofollow" class="external text" href="http://www.nantyrarian.co.uk/">"Bwlch Nant-yr-Arian"</a>. Bwlch Nant Yr Arian Visitor Centre<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.nantyrarian.co.uk/">http://www.nantyrarian.co.uk/</a></span><span class="reference-accessdate">. Retrieved 2009-07-07</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Bwlch+Nant-yr-Arian&amp;rft.atitle=&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.date=2008&amp;rft.pub=Bwlch+Nant+Yr+Arian+Visitor+Centre&amp;rft_id=http%3A%2F%2Fwww.nantyrarian.co.uk%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web">Melton, Tom (13 August 2008). <a rel="nofollow" class="external text" href="http://www.ephotozine.com/photo/967065">"Leucistic Red Kite"</a>. <i>ephotozone</i>. ephotozone<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ephotozine.com/photo/967065">http://www.ephotozine.com/photo/967065</a></span><span class="reference-accessdate">. Retrieved 2009-07-07</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Leucistic+Red+Kite&amp;rft.atitle=ephotozone&amp;rft.aulast=Melton&amp;rft.aufirst=Tom&amp;rft.au=Melton%2C%26%2332%3BTom&amp;rft.date=13+August+2008&amp;rft.pub=ephotozone&amp;rft_id=http%3A%2F%2Fwww.ephotozine.com%2Fphoto%2F967065&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><span class="citation web">Anon. <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/handsonnature/estates/harewood.shtml">"Birder watchers' paradise"</a>. <i>BBC Hands on Nature:</i>. BBC. pp.&#160;Parks: Harewood Estate<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bbc.co.uk/handsonnature/estates/harewood.shtml">http://www.bbc.co.uk/handsonnature/estates/harewood.shtml</a></span><span class="reference-accessdate">. Retrieved 26 October 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Birder+watchers%27+paradise&amp;rft.atitle=BBC+Hands+on+Nature%3A&amp;rft.aulast=Anon&amp;rft.au=Anon&amp;rft.pages=pp.%26nbsp%3BParks%3A+Harewood+Estate&amp;rft.pub=BBC&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fhandsonnature%2Festates%2Fharewood.shtml&amp;rfr_id=info:sid/en.wikipedia.org:Red_Kite"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Kite&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Milvus_milvus" class="extiw" title="commons:Category:Milvus milvus">Milvus milvus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li>Friends of Red Kites - <a rel="nofollow" class="external text" href="http://friendsofredkites.org.uk/">Details about the reintroduced kites in the Derwent Valley, Gateshead</a></li>
+<li>ARKive - <a rel="nofollow" class="external text" href="http://www.arkive.org/species/ARK/birds/Milvus_milvus/">images and movies of the red kite <i>(Milvus milvus)</i></a></li>
+<li>BBC Wales Nature - <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/wales/nature/mediaexplorer/?theme_group=species&amp;theme=birds&amp;set=red_kite">Red Kite footage</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/iplayer/episode/b00yz3t2/Debating_Animals_Series_2_The_Kestrel_and_Red_Kite/">BBC Report about this bird's redemtion in UK culture from a hated <i>shithawk</i> to a beloved bird</a></li>
+<li>The Welsh Kite Trust - <a rel="nofollow" class="external text" href="http://www.gigrin.co.uk/w/index.htm">includes UK breeding reports</a></li>
+<li>About Red Kites - <a rel="nofollow" class="external text" href="http://www.redkites.co.uk">includes latest figures available in UK</a></li>
+<li>Red Kites in the Chilterns - <a rel="nofollow" class="external text" href="http://www.redkites.net">Details about the reintroduced kites in the Chilterns</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.yorkshireredkites.net/">Red Kites in Yorkshire</a></li>
+<li>Red Kites in Berkshire (Berkshire Ornithological Club) - <a rel="nofollow" class="external text" href="http://www.berksoc.org.uk/surveys/kites_and_buzzards_2006_results.shtml">2006/2007 Survey</a></li>
+<li>Adult and juvenile Red Kite wing identification images (PDF) by Javier Blasco-Zumeta - <a rel="nofollow" class="external autonumber" href="http://www.ibercajalav.net/img/105_RedKiteM.milvus.pdf">[1]</a></li>
+</ul>
+<p><span id="interwiki-de-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 28325/1000000
+Preprocessor generated node count: 58264/1500000
+Post-expand include size: 155933/2048000 bytes
+Template argument size: 57892/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:200942-0!*!0!!en!4!* and timestamp 20121030005735 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Red_Kite&amp;oldid=520518473">http://en.wikipedia.org/w/index.php?title=Red_Kite&amp;oldid=520518473</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_near_threatened_species" title="Category:IUCN Red List near threatened species">IUCN Red List near threatened species</a></li><li><a href="/wiki/Category:Kites_(birds)" title="Category:Kites (birds)">Kites (birds)</a></li><li><a href="/wiki/Category:Falconry" title="Category:Falconry">Falconry</a></li><li><a href="/wiki/Category:Milvus" title="Category:Milvus">Milvus</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Red+Kite&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Red+Kite" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Red_Kite"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Red_Kite"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Red_Kite" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Red_Kite&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Red_Kite&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Red_Kite" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Red_Kite" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Red_Kite&amp;oldid=520518473" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Red_Kite&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Red_Kite&amp;id=520518473" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Red+Kite" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Red+Kite&amp;oldid=520518473&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Red_Kite&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B0%D1%88%D1%8B%D1%80%D0%B3%D1%8A%D1%8D%D0%BF%D0%BB%D1%8A%D1%8B%D1%84%D1%8D" title="Къашыргъэплъыфэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Rotmilan" title="Rotmilan" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AD%D8%AF%D8%A3%D8%A9_%D8%AD%D9%85%D8%B1%D8%A7%D8%A1" title="حدأة حمراء" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Milvus_milvus" title="Milvus milvus" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Q%C4%B1rm%C4%B1z%C4%B1_%C3%A7ala%C4%9Fan" title="Qırmızı çalağan" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%88%D1%83%D0%BD_%D1%87%D1%8B%D1%80%D0%B2%D0%BE%D0%BD%D1%8B" title="Каршун чырвоны" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BD%D1%8F" title="Червена каня" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Barged_ruz" title="Barged ruz" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Mil%C3%A0_reial" title="Milà reial" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Lu%C5%88%C3%A1k_%C4%8Derven%C3%BD" title="Luňák červený" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-co"><a href="//co.wikipedia.org/wiki/Milvu" title="Milvu" lang="co" hreflang="co">Corsu</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Barcud_Coch" title="Barcud Coch" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/R%C3%B8d_glente" title="Rød glente" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Rotmilan" title="Rotmilan" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Milvus_milvus" title="Milvus milvus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Ru%C4%9Da_milvo" title="Ruĝa milvo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Miru_gorri" title="Miru gorri" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%B1%DA%A9%D9%88%D8%B1_%D8%AD%D9%86%D8%A7%DB%8C%DB%8C" title="کورکور حنایی" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Milan_royal" title="Milan royal" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Reade_Glee" title="Reade Glee" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-gd"><a href="//gd.wikipedia.org/wiki/Clamhan-gobhlach" title="Clamhan-gobhlach" lang="gd" hreflang="gd">Gàidhlig</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Millafre_real" title="Millafre real" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Elang_merah" title="Elang merah" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Milvus_milvus" title="Milvus milvus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%91%E1%83%9D%E1%83%A0%E1%83%90_(%E1%83%A4%E1%83%A0%E1%83%98%E1%83%9C%E1%83%95%E1%83%94%E1%83%9A%E1%83%98)" title="ბორა (ფრინველი)" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-lez"><a href="//lez.wikipedia.org/wiki/%D0%99%D0%B0%D1%80%D1%83_%D1%87%D0%B0%D0%BB%D0%B0%D0%B3%D1%8A%D0%B0%D0%BD" title="Йару чалагъан" lang="lez" hreflang="lez">Лезги</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Rudasis_peslys" title="Rudasis peslys" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/V%C3%B6r%C3%B6s_k%C3%A1nya" title="Vörös kánya" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Rode_wouw" title="Rode wouw" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%88%E3%83%93" title="アカトビ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/%C4%86i%C3%A9na_%C7%B5ir%C7%B5a" title="Ćiéna ǵirǵa" lang="ce" hreflang="ce">Нохчийн</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Glente" title="Glente" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Glente" title="Glente" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Milvus_milvus" title="Milvus milvus" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B1%D8%AA%DB%8C_%DA%A9%D8%A7%D8%A6%D9%B9" title="رتی کائٹ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Milvus_milvus" title="Milvus milvus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kania_ruda" title="Kania ruda" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Milhafre-real" title="Milhafre-real" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%88%D1%83%D0%BD_%D1%87%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D1%8B%D0%B9" title="Коршун червеный" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D1%88%D1%83%D0%BD" title="Красный коршун" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Haja_%C4%8Derven%C3%A1" title="Haja červená" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Rjavi_%C5%A1karnik" title="Rjavi škarnik" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Isohaarahaukka" title="Isohaarahaukka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/R%C3%B6d_glada" title="Röd glada" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_%C3%A7aylak" title="Kızıl çaylak" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A8%D1%83%D0%BB%D1%96%D0%BA%D0%B0_%D1%80%D1%83%D0%B4%D0%B8%D0%B9" title="Шуліка рудий" lang="uk" hreflang="uk">Українська</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 October 2012 at 00:57.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Red_Kite&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw24 in 0.123 secs. -->
+	</body>
+</html>

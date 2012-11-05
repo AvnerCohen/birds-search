@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Bonelli's Eagle - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bonelli%27s_Eagle&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bonelli%27s_Eagle&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bonelli\'s_Eagle","wgTitle":"Bonelli\'s Eagle","wgCurRevisionId":501048809,"wgArticleId":754674,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Eagles","Aquila (genus)","Birds of Europe","Birds of Turkey","Birds of Iran","Birds of Pakistan","Birds of Palestine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bonelli\'s_Eagle","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"e9e94e65e34057652bfa35adbfb4d570","wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":754674,"title":"Bonelli\'s Eagle","namespace":0,"categories":["Aquila (genus)","Articles with \'species\' microformats","Birds of Europe","Birds of Iran","Birds of Pakistan","Birds of Palestine","Birds of Turkey","Eagles","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Bonelli_s_Eagle skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Bonelli's Eagle</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Bonelli's Eagle</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Habichtsadler.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Habichtsadler.jpg/220px-Habichtsadler.jpg" width="220" height="296" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)</small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Accipitriformes" title="Accipitriformes">Accipitriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Aquila_(genus)" title="Aquila (genus)">Aquila</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. fasciata</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Aquila fasciata</i></span></b><br />
+<small>(<a href="/wiki/Louis_Jean_Pierre_Vieillot" title="Louis Jean Pierre Vieillot">Vieillot</a>, 1822)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>Hieraaetus fasciatus</i></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bonelli%27s_Eagle_I_IMG_3230.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bonelli%27s_Eagle_I_IMG_3230.jpg/220px-Bonelli%27s_Eagle_I_IMG_3230.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bonelli%27s_Eagle_I_IMG_3230.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In flight.</div>
+</div>
+</div>
+<p>The <b>Bonelli's Eagle</b> (<i>Aquila fasciata</i>) is a large <a href="/wiki/Bird_of_prey" title="Bird of prey">bird of prey</a>. Like all <a href="/wiki/Eagle" title="Eagle">eagles</a>, it belongs to the family <a href="/wiki/Accipitridae" title="Accipitridae">Accipitridae</a>. It breeds in southern Europe, Africa both north and south of the <a href="/wiki/Sahara_Desert" title="Sahara Desert" class="mw-redirect">Sahara Desert</a> and across the <a href="/wiki/Indian_Subcontinent" title="Indian Subcontinent" class="mw-redirect">Indian Subcontinent</a> to <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>. It is usually a resident breeder which lays 1-3 <a href="/wiki/Egg_(biology)" title="Egg (biology)">eggs</a> in a tree or crag nest.</p>
+<p>The Bonelli's Eagle is a species of wooded, often hilly, country with some open areas. The African race prefers savannah, forest edges, cultivation, and scrub, provided there are some large trees; this is not a species of very open or densely forested habitats.</p>
+<p>This is a small to medium - sized <a href="/wiki/Eagle" title="Eagle">eagle</a> at 55–65&#160;cm in length. The upperparts are dark brown, and the underside is white with dark streaks. The wings are relatively short and rounded. The long tail is grey on top and white below and has a single broad black terminal band. The feet and eyes are yellow.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bonelli%27s_Eagle_(Aquila_fasciata)-_juvenile_in_Kawal_WS,_AP_W_IMG_2158.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bonelli%27s_Eagle_%28Aquila_fasciata%29-_juvenile_in_Kawal_WS%2C_AP_W_IMG_2158.jpg/220px-Bonelli%27s_Eagle_%28Aquila_fasciata%29-_juvenile_in_Kawal_WS%2C_AP_W_IMG_2158.jpg" width="220" height="173" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bonelli%27s_Eagle_(Aquila_fasciata)-_juvenile_in_Kawal_WS,_AP_W_IMG_2158.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Juvenile in <a href="/wiki/Kawal_Wildlife_Sanctuary" title="Kawal Wildlife Sanctuary">Kawal Wildlife Sanctuary</a>, India.</div>
+</div>
+</div>
+<p>Immature birds have deep buff underparts and underwing coverts, and have fine barring on the tail without the terminal band.</p>
+<p>The Bonelli's Eagle takes a wide range of live prey, all taken alive. It usually hunts from cover by a quick dash from inside a tree, but it will also catch prey by quartering hill slopes like other eagles, or make a stoop from a soaring position. Most prey is taken on the ground.</p>
+<p>This eagle takes large prey items, usually <a href="/wiki/Mammal" title="Mammal">mammals</a> or birds. Mammals up to the size of a <a href="/wiki/Hare" title="Hare">hare</a> are regularly taken, and birds up to <a href="/wiki/Guineafowl" title="Guineafowl">guineafowl</a> size. The Bonelli's Eagle is usually silent except in display and near the nest. Its fluted <i>klu-kluklu-kluee</i> call is less shrill than that of its near relatives.</p>
+<p>Recent <a href="/wiki/DNA" title="DNA">DNA</a> research resulted in this species being moved to the genus <i>Aquila</i> from <i><a href="/wiki/Hieraaetus" title="Hieraaetus">Hieraaetus</a></i>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Conservation_and_rehabilitation"><span class="tocnumber">1</span> <span class="toctext">Conservation and rehabilitation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Cited_footnotes"><span class="tocnumber">3</span> <span class="toctext">Cited footnotes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Bonelli%27s_Eagle&amp;action=edit&amp;section=1" title="Edit section: Conservation and rehabilitation">edit</a>]</span> <span class="mw-headline" id="Conservation_and_rehabilitation">Conservation and rehabilitation</span></h2>
+<p>The Bonelli's Eagle will foster orphaned chicks of same species in an empty nest but only if egg or chick loss has happened a few hours earlier so also they will foster chicks during the post-fledging dependence period and this conservation strategy may be applicable to other raptor species provide that <a href="/wiki/Siblicide" title="Siblicide">siblicide</a> is not common in the host species.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Bonelli%27s_Eagle&amp;action=edit&amp;section=2" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li>BirdLife International (2004). <i>Hieraaetus fasciatus</i>. 2006. <i><a href="/wiki/IUCN_Red_List_of_Threatened_Species" title="IUCN Red List of Threatened Species" class="mw-redirect">IUCN Red List of Threatened Species</a></i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">IUCN</a> 2006. <a rel="nofollow" class="external text" href="http://www.iucnredlist.org">www.iucnredlist.org</a>. Retrieved on 12 May 2006. Database entry includes justification for why this species is of least concern</li>
+<li><i>Splitting headaches? Recent taxonomic changes affecting the British and Western Palaearctic lists</i> - Martin Collinson, <a href="/wiki/British_Birds_(magazine)" title="British Birds (magazine)">British Birds</a> vol 99 (June 2006), 306-323</li>
+<li>Lerner, H. R. L. and D. P. Mindell (2005). Phylogeny of eagles, <a href="/wiki/Old_World_vultures" title="Old World vultures" class="mw-redirect">Old World vultures</a>, and other Accipitridae based on nuclear and mitochondrial <a href="/wiki/DNA" title="DNA">DNA</a>. Molecular Phylogenetics and Evolution 37: 327-346. <a rel="nofollow" class="external text" href="http://www-personal.umich.edu/~hlerner/LernerMindell2005Proofs.pdf">PDF</a></li>
+<li>Helbig AJ, Kocum A, Seibold I &amp; Braun MJ (2005) A multi-gene phylogeny of aquiline eagles (Aves: Accipitriformes) reveals extensive paraphyly at the genus level. Molecular phylogenetics and evolution 35(1):147-164 <a rel="nofollow" class="external text" href="http://www.vogelwarte.uni-greifswald.de/pdf/Aquiline_Eagles.pdf">PDF</a></li>
+</ul>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Hieraaetus_fasciatus" class="extiw" title="commons:Category:Hieraaetus fasciatus">Hieraaetus fasciatus</a></b></i></td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Bonelli%27s_Eagle&amp;action=edit&amp;section=3" title="Edit section: Cited footnotes">edit</a>]</span> <span class="mw-headline" id="Cited_footnotes">Cited footnotes</span></h2>
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Pande, Satish; Pawshe, Amit; Pednekar, Banda; Mahabal, Anil &amp; Yosef, Reuven (2004). "How long is too long? A case of fostering nestling Bonelli's Eagles (Hieraaetus fasciatus)". <i>Journal of Raptor Research</i> (The Raptor Research Foundation, Inc.) <b>38</b> (4): 381–382.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How+long+is+too+long%3F+A+case+of+fostering+nestling+Bonelli%27s+Eagles+%28Hieraaetus+fasciatus%29&amp;rft.jtitle=Journal+of+Raptor+Research&amp;rft.aulast=Pande&amp;rft.aufirst=Satish&amp;rft.au=Pande%2C%26%2332%3BSatish&amp;rft.au=Pawshe%2C%26%2332%3BAmit&amp;rft.date=2004&amp;rft.volume=38&amp;rft.issue=4&amp;rft.pages=381%E2%80%93382&amp;rft.pub=The+Raptor+Research+Foundation%2C+Inc.&amp;rfr_id=info:sid/en.wikipedia.org:Bonelli%27s_Eagle"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+<h2><span class="editsection">[<a href="/w/index.php?title=Bonelli%27s_Eagle&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.iberianature.com/material/bonelli.htm">Bonelli's Eagle in Spain</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.diba.cat/parcsn/parcs/plana.asp?parc=10&amp;m=192">Live and recorded web cams of Bonelli's Eagle from Parc del Garraf</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ub.es/aligaperdiguera/EEAPang/indexang.htm">Web page of the Conservation Biology Team - Bonelli's Eagle, of the University of Barcelona</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/128_Hieraaetus_fasciatus.pdf">Ageing and sexing (PDF)</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Buteoninae" title="Template:Buteoninae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Buteoninae" title="Template talk:Buteoninae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Buteoninae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Family_(biology)" title="Family (biology)">Subfamily</a>: <b><a href="/wiki/Buteoninae" title="Buteoninae">Buteoninae</a></b></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b> (extinctions: † indicates a species confirmed to be extinct)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Geranoaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-chested_Buzzard-Eagle" title="Black-chested Buzzard-Eagle">Black-chested Buzzard-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Buteo" title="Buteo">Buteo</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_Buzzard" title="Common Buzzard">Common Buzzard</a></li>
+<li><a href="/wiki/Red-tailed_Hawk" title="Red-tailed Hawk">Red-tailed Hawk</a></li>
+<li><a href="/wiki/Long-legged_Buzzard" title="Long-legged Buzzard">Long-legged Buzzard</a></li>
+<li><a href="/wiki/Rough-legged_Buzzard" title="Rough-legged Buzzard">Rough-legged Buzzard</a></li>
+<li><a href="/wiki/Ferruginous_Hawk" title="Ferruginous Hawk">Ferruginous Hawk</a></li>
+<li><a href="/wiki/Red-shouldered_Hawk" title="Red-shouldered Hawk">Red-shouldered Hawk</a></li>
+<li><a href="/wiki/Broad-winged_Hawk" title="Broad-winged Hawk">Broad-winged Hawk</a></li>
+<li><a href="/wiki/Swainson%27s_Hawk" title="Swainson's Hawk">Swainson's Hawk</a></li>
+<li><a href="/wiki/Roadside_Hawk" title="Roadside Hawk">Roadside Hawk</a></li>
+<li><a href="/wiki/Ridgway%27s_Hawk" title="Ridgway's Hawk">Ridgway's Hawk</a></li>
+<li><a href="/wiki/White-rumped_Hawk" title="White-rumped Hawk">White-rumped Hawk</a></li>
+<li><a href="/wiki/Short-tailed_Hawk" title="Short-tailed Hawk">Short-tailed Hawk</a></li>
+<li><a href="/wiki/White-throated_Hawk" title="White-throated Hawk">White-throated Hawk</a></li>
+<li><a href="/wiki/White-tailed_Hawk" title="White-tailed Hawk">White-tailed Hawk</a></li>
+<li><a href="/wiki/Gal%C3%A1pagos_Hawk" title="Galápagos Hawk" class="mw-redirect">Galápagos Hawk</a></li>
+<li><a href="/wiki/Variable_Hawk" title="Variable Hawk">Variable Hawk</a></li>
+<li><a href="/wiki/Grey_Hawk" title="Grey Hawk">Grey Hawk</a></li>
+<li><a href="/wiki/Zone-tailed_Hawk" title="Zone-tailed Hawk">Zone-tailed Hawk</a></li>
+<li><a href="/wiki/Hawaiian_Hawk" title="Hawaiian Hawk">Hawaiian Hawk</a></li>
+<li><a href="/wiki/Rufous-tailed_Hawk" title="Rufous-tailed Hawk">Rufous-tailed Hawk</a></li>
+<li><a href="/wiki/Mountain_Buzzard" title="Mountain Buzzard">Mountain Buzzard</a></li>
+<li><a href="/wiki/Madagascar_Buzzard" title="Madagascar Buzzard">Madagascar Buzzard</a></li>
+<li><a href="/wiki/Upland_Buzzard" title="Upland Buzzard">Upland Buzzard</a></li>
+<li><a href="/wiki/Red-necked_Buzzard" title="Red-necked Buzzard">Red-necked Buzzard</a></li>
+<li><a href="/wiki/Jackal_Buzzard" title="Jackal Buzzard">Jackal Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Parabuteo</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harris%27s_Hawk" title="Harris's Hawk">Harris's Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Buteogallus" title="Buteogallus">Buteogallus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rufous_Crab-hawk" title="Rufous Crab-hawk" class="mw-redirect">Rufous Crab-hawk</a></li>
+<li><a href="/wiki/Common_Black_Hawk" title="Common Black Hawk">Common Black Hawk</a></li>
+<li><a href="/wiki/Cuban_Black_Hawk" title="Cuban Black Hawk">Cuban Black Hawk</a></li>
+<li><a href="/wiki/Great_Black_Hawk" title="Great Black Hawk">Great Black Hawk</a></li>
+<li><a href="/wiki/Savanna_Hawk" title="Savanna Hawk">Savanna Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Busarellus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-collared_Hawk" title="Black-collared Hawk">Black-collared Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Leucopternis" title="Leucopternis">Leucopternis</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-browed_Hawk" title="White-browed Hawk">White-browed Hawk</a></li>
+<li><a href="/wiki/White-necked_Hawk" title="White-necked Hawk">White-necked Hawk</a></li>
+<li><a href="/wiki/Black-faced_Hawk" title="Black-faced Hawk">Black-faced Hawk</a></li>
+<li><a href="/wiki/Grey-backed_Hawk" title="Grey-backed Hawk">Grey-backed Hawk</a></li>
+<li><a href="/wiki/Plumbeous_Hawk" title="Plumbeous Hawk">Plumbeous Hawk</a></li>
+<li><a href="/wiki/Mantled_Hawk" title="Mantled Hawk">Mantled Hawk</a></li>
+<li><a href="/wiki/Barred_Hawk" title="Barred Hawk">Barred Hawk</a></li>
+<li><a href="/wiki/Slate-coloured_Hawk" title="Slate-coloured Hawk">Slate-coloured Hawk</a></li>
+<li><a href="/wiki/Semiplumbeous_Hawk" title="Semiplumbeous Hawk">Semiplumbeous Hawk</a></li>
+<li><a href="/wiki/White_Hawk" title="White Hawk">White Hawk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Kaupifalco</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lizard_Buzzard" title="Lizard Buzzard">Lizard Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Butastur" title="Butastur">Butastur</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rufous-winged_Buzzard" title="Rufous-winged Buzzard">Rufous-winged Buzzard</a></li>
+<li><a href="/wiki/Grasshopper_Buzzard" title="Grasshopper Buzzard">Grasshopper Buzzard</a></li>
+<li><a href="/wiki/White-eyed_Buzzard" title="White-eyed Buzzard">White-eyed Buzzard</a></li>
+<li><a href="/wiki/Grey-faced_Buzzard" title="Grey-faced Buzzard">Grey-faced Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Harpyhaliaetus" title="Harpyhaliaetus">Harpyhaliaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crowned_Solitary_Eagle" title="Crowned Solitary Eagle">Crowned Solitary Eagle</a></li>
+<li><a href="/wiki/Montane_Solitary_Eagle" title="Montane Solitary Eagle">Montane Solitary Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Morphnus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crested_Eagle" title="Crested Eagle">Crested Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpia</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harpy_Eagle" title="Harpy Eagle">Harpy Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Pithecophaga</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Philippine_Eagle" title="Philippine Eagle">Philippine Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpyopsis</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/New_Guinea_Harpy_Eagle" title="New Guinea Harpy Eagle" class="mw-redirect">New Guinea Harpy Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Spizaetus" title="Spizaetus">Spizaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_Hawk-Eagle" title="Black Hawk-Eagle">Black Hawk-Eagle</a></li>
+<li><a href="/wiki/Black-and-white_Hawk-Eagle" title="Black-and-white Hawk-Eagle">Black-and-white Hawk-Eagle</a></li>
+<li><a href="/wiki/Ornate_Hawk-Eagle" title="Ornate Hawk-Eagle">Ornate Hawk-Eagle</a></li>
+<li><a href="/wiki/Black-and-chestnut_Eagle" title="Black-and-chestnut Eagle">Black-and-chestnut Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Nisaetus" title="Nisaetus">Nisaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crested_Hawk-Eagle" title="Crested Hawk-Eagle" class="mw-redirect">Crested Hawk-Eagle</a></li>
+<li><a href="/wiki/Mountain_Hawk-Eagle" title="Mountain Hawk-Eagle">Mountain Hawk-Eagle</a></li>
+<li><a href="/wiki/Blyth%27s_Hawk-Eagle" title="Blyth's Hawk-Eagle">Blyth's Hawk-Eagle</a></li>
+<li><a href="/wiki/Javan_Hawk-Eagle" title="Javan Hawk-Eagle">Javan Hawk-Eagle</a></li>
+<li><a href="/wiki/Sulawesi_Hawk-Eagle" title="Sulawesi Hawk-Eagle">Sulawesi Hawk-Eagle</a></li>
+<li><a href="/wiki/Philippine_Hawk-Eagle" title="Philippine Hawk-Eagle">Philippine Hawk-Eagle</a></li>
+<li><a href="/wiki/Wallace%27s_Hawk-Eagle" title="Wallace's Hawk-Eagle">Wallace's Hawk-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Lophaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Long-crested_Eagle" title="Long-crested Eagle">Long-crested Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Stephanoaetus" title="Stephanoaetus">Stephanoaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crowned_Eagle" title="Crowned Eagle">Crowned Eagle</a></li>
+<li><a href="/wiki/Malagasy_Crowned_Eagle" title="Malagasy Crowned Eagle">Malagasy Crowned Eagle</a>†</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Polemaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Martial_Eagle" title="Martial Eagle">Martial Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Hieraaetus" title="Hieraaetus">Hieraaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African_Hawk-Eagle" title="African Hawk-Eagle">African Hawk-Eagle</a></li>
+<li><a href="/wiki/New_Guinea_Hawk-Eagle" title="New Guinea Hawk-Eagle" class="mw-redirect">New Guinea Hawk-Eagle</a></li>
+<li><a href="/wiki/Ayres%27s_Hawk-Eagle" title="Ayres's Hawk-Eagle">Ayres's Hawk-Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Aquila_(genus)" title="Aquila (genus)">Aquila</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Bonelli's Eagle</strong></li>
+<li><a href="/wiki/Booted_Eagle" title="Booted Eagle">Booted Eagle</a></li>
+<li><a href="/wiki/Little_Eagle" title="Little Eagle">Little Eagle</a></li>
+<li><a href="/wiki/Rufous-bellied_Eagle" title="Rufous-bellied Eagle" class="mw-redirect">Rufous-bellied Eagle</a></li>
+<li><a href="/wiki/Golden_Eagle" title="Golden Eagle">Golden Eagle</a></li>
+<li><a href="/wiki/Eastern_Imperial_Eagle" title="Eastern Imperial Eagle">Eastern Imperial Eagle</a></li>
+<li><a href="/wiki/Spanish_Imperial_Eagle" title="Spanish Imperial Eagle">Spanish Imperial Eagle</a></li>
+<li><a href="/wiki/Steppe_Eagle" title="Steppe Eagle">Steppe Eagle</a></li>
+<li><a href="/wiki/Tawny_Eagle" title="Tawny Eagle">Tawny Eagle</a></li>
+<li><a href="/wiki/Greater_Spotted_Eagle" title="Greater Spotted Eagle">Greater Spotted Eagle</a></li>
+<li><a href="/wiki/Lesser_Spotted_Eagle" title="Lesser Spotted Eagle">Lesser Spotted Eagle</a></li>
+<li><a href="/wiki/Indian_Spotted_Eagle" title="Indian Spotted Eagle">Indian Spotted Eagle</a></li>
+<li><a href="/wiki/Verreaux%27s_Eagle" title="Verreaux's Eagle">Verreaux's Eagle</a></li>
+<li><a href="/wiki/Gurney%27s_Eagle" title="Gurney's Eagle">Gurney's Eagle</a></li>
+<li><a href="/wiki/Wahlberg%27s_Eagle" title="Wahlberg's Eagle">Wahlberg's Eagle</a></li>
+<li><a href="/wiki/Wedge-tailed_Eagle" title="Wedge-tailed Eagle">Wedge-tailed Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Ictinaetus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_Eagle" title="Black Eagle">Black Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Sea_eagle" title="Sea eagle">Haliaeetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-bellied_Sea_Eagle" title="White-bellied Sea Eagle">White-bellied Sea Eagle</a></li>
+<li><a href="/wiki/Sanford%27s_Sea_Eagle" title="Sanford's Sea Eagle">Sanford's Sea Eagle</a></li>
+<li><a href="/wiki/African_Fish_Eagle" title="African Fish Eagle">African Fish Eagle</a></li>
+<li><a href="/wiki/Madagascar_Fish_Eagle" title="Madagascar Fish Eagle">Madagascar Fish Eagle</a></li>
+<li><a href="/wiki/Pallas%27s_Fish_Eagle" title="Pallas's Fish Eagle">Pallas's Fish Eagle</a></li>
+<li><a href="/wiki/White-tailed_Eagle" title="White-tailed Eagle">White-tailed Eagle</a></li>
+<li><a href="/wiki/Bald_Eagle" title="Bald Eagle">Bald Eagle</a></li>
+<li><a href="/wiki/Steller%27s_Sea_Eagle" title="Steller's Sea Eagle">Steller's Sea Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Ichthyophaga" title="Ichthyophaga">Ichthyophaga</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lesser_Fish_Eagle" title="Lesser Fish Eagle">Lesser Fish Eagle</a></li>
+<li><a href="/wiki/Grey-headed_Fish_Eagle" title="Grey-headed Fish Eagle">Grey-headed Fish Eagle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Harpagornis</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Haast%27s_Eagle" title="Haast's Eagle">Haast's Eagle</a>†</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" style=";" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Eagle" title="Eagle">Eagle</a></li>
+<li><a href="/wiki/Buzzard" title="Buzzard">Buzzard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-de-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5048/1000000
+Preprocessor generated node count: 39458/1500000
+Post-expand include size: 78198/2048000 bytes
+Template argument size: 50067/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:754674-0!*!0!!en!4!* and timestamp 20121017171810 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Bonelli%27s_Eagle&amp;oldid=501048809">http://en.wikipedia.org/w/index.php?title=Bonelli%27s_Eagle&amp;oldid=501048809</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Eagles" title="Category:Eagles">Eagles</a></li><li><a href="/wiki/Category:Aquila_(genus)" title="Category:Aquila (genus)">Aquila (genus)</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bonelli%27s+Eagle&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bonelli%27s+Eagle" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Bonelli%27s_Eagle"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Bonelli%27s_Eagle"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Bonelli%27s_Eagle" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Bonelli%27s_Eagle&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bonelli%27s_Eagle&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bonelli%27s_Eagle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bonelli%27s_Eagle" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Bonelli%27s_Eagle&amp;oldid=501048809" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Bonelli%27s_Eagle&amp;id=501048809" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bonelli%27s+Eagle" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Bonelli%27s+Eagle&amp;oldid=501048809&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bonelli%27s_Eagle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D9%82%D8%A7%D8%A8_%D8%A8%D9%88%D9%86%D9%84%D9%8A" title="عقاب بونلي" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Q%C4%B1r%C4%9F%C4%B1_qartal" title="Qırğı qartal" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2_%D0%BE%D1%80%D0%B5%D0%BB" title="Ястребов орел" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Erer-Bonelli" title="Erer-Bonelli" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/%C3%80guila_perdiuera" title="Àguila perdiuera" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Orel_jest%C5%99%C3%A1b%C3%AD" title="Orel jestřábí" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Habichtsadler_(Art)" title="Habichtsadler (Art)" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Aquila_fasciata" title="Aquila fasciata" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Nizaglo" title="Nizaglo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Aztore-arrano" title="Aztore-arrano" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B9%D9%82%D8%A7%D8%A8_%D8%AF%D9%88%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1" title="عقاب دوبرادر" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Aigle_de_Bonelli" title="Aigle de Bonelli" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Aguia_perdiceira" title="Aguia perdiceira" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Aglo_di_Bonelli" title="Aglo di Bonelli" lang="io" hreflang="io">Ido</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Aquila_fasciata" title="Aquila fasciata" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/H%C3%A9jasas" title="Héjasas" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%81%D1%83%D0%BD_%D0%B1%D2%AF%D1%80%D0%B3%D1%8D%D0%B4%D1%8D%D0%B9" title="Харсун бүргэдэй" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Havikarend" title="Havikarend" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9C%E3%83%8D%E3%83%AA%E3%83%BC%E3%82%AF%E3%83%9E%E3%82%BF%E3%82%AB" title="ボネリークマタカ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Hauk%C3%B8rn" title="Haukørn" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Aigla_comuna" title="Aigla comuna" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%A8%D9%88%D9%86%DB%8C%D9%84%DB%8C_%D8%AF%D8%A7_%D8%B9%D9%82%D8%A7%D8%A8" title="بونیلی دا عقاب" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Hieraa%C3%ABtus_fasciatus" title="Hieraaëtus fasciatus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Orze%C5%82_po%C5%82udniowy" title="Orzeł południowy" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/%C3%81guia-de-bonelli" title="Águia-de-bonelli" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Aquila_fasciata" title="Aquila fasciata" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D0%BD%D1%8B%D0%B9_%D0%BE%D1%80%D1%91%D0%BB" title="Ястребиный орёл" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Kragulji_orel" title="Kragulji orel" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Vuorikotka" title="Vuorikotka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/H%C3%B6k%C3%B6rn" title="Hökörn" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Tav%C5%9Fanc%C4%B1l" title="Tavşancıl" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%AF%D1%81%D1%82%D1%80%D1%83%D0%B1%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BE%D1%80%D0%B5%D0%BB" title="Яструбовий орел" lang="uk" hreflang="uk">Українська</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 July 2012 at 03:52.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Bonelli%27s_Eagle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv274 in 0.121 secs. -->
+	</body>
+</html>

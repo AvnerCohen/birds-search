@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common Quail - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_Quail&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_Quail&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8a791e4a23d87b78fafd87230486fc5d */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_Quail","wgTitle":"Common Quail","wgCurRevisionId":515067592,"wgArticleId":317350,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Latin language external links","IUCN Red List least concern species","Articles with \'species\' microformats","Coturnix","Birds of Europe","Birds of Asia","Birds of Turkey","Birds of Pakistan","Birds of Iran","Animals described in 1758"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_Quail","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"4f5240314ad13fbb9f3ded2c1d96f139","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":317350,"title":"Common Quail","namespace":0,"categories":["Animals described in 1758","Articles with \'species\' microformats","Articles with Latin language external links","Birds of Asia","Birds of Europe","Birds of Iran","Birds of Pakistan","Birds of Turkey","Coturnix","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_Quail skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common Quail</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Common Quail</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Coturnix_coturnix_(Warsaw_zoo)-1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Coturnix_coturnix_%28Warsaw_zoo%29-1.JPG/220px-Coturnix_coturnix_%28Warsaw_zoo%29-1.JPG" width="220" height="165" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Galliformes" title="Galliformes">Galliformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Phasianidae" title="Phasianidae">Phasianidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Perdicinae" title="Perdicinae">Perdicinae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Coturnix" title="Coturnix">Coturnix</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>C. coturnix</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Coturnix coturnix</i></span></b><br />
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a>)</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Common Quail</b> (<i>Coturnix coturnix</i>) is a small bird in the pheasant family <a href="/wiki/Phasianidae" title="Phasianidae">Phasianidae</a>. It is widespread and is found in parts of Europe, (should not be confused with the domesticated <a href="/wiki/Japanese_Quail" title="Japanese Quail">Japanese Quail</a>, Coturnix Japonica, original from Asia that although visually similar have very distinct calls).</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>It is a small (17&#160;cm) rotund bird, essentially streaked brown with a white eyestripe, and, in the male, a white chin. As befits its migratory nature, it has long wings, unlike the typically short-winged gamebirds.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=2" title="Edit section: Habits">edit</a>]</span> <span class="mw-headline" id="Habits">Habits</span></h2>
+<p>This is a terrestrial species, feeding on <a href="/wiki/Seed" title="Seed">seeds</a> and <a href="/wiki/Insect" title="Insect">insects</a> on the ground. It is notoriously difficult to see, keeping hidden in crops, and reluctant to fly, preferring to creep away instead. Even when flushed, it keeps low and soon drops back into cover. Often the only indication of its presence is the distinctive "wet-my-lips" repetitive song of the male. The call is uttered mostly in the mornings, evenings and sometimes at night. It is a strongly <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> <a href="/wiki/Aves" title="Aves" class="mw-redirect">bird</a>, unlike most <a href="/wiki/Game_bird" title="Game bird" class="mw-redirect">game birds</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=3" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h2>
+<p>Upon attaining an age of 6–8 weeks, this <a href="/wiki/Quail" title="Quail">quail</a> breeds on open <a href="/wiki/Arable_land" title="Arable land">arable farmland</a> and <a href="/wiki/Grassland" title="Grassland">grassland</a> across most of <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Asia" title="Asia">Asia</a>, laying 6-12 <a href="/wiki/Egg_(biology)" title="Egg (biology)">eggs</a> in a ground nest. The eggs take from 16–18 days to hatch.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=4" title="Edit section: Races">edit</a>]</span> <span class="mw-headline" id="Races">Races</span></h2>
+<p>This species was first described by <a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a> in his <i>Systema naturae</i> in 1758 as <i>Tetrao coturnix</i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> The Eurasian race, <i>C. c. coturnix</i>, overwinters southwards in Africa's <a href="/wiki/Sahel" title="Sahel">Sahel</a> and India. The populations on <a href="/wiki/Madeira" title="Madeira">Madeira</a> and the <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a> belong to the nominate race. The African race, <i>C. c. africana</i>, described by <a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck</a> and <a href="/wiki/Hermann_Schlegel" title="Hermann Schlegel">Schlegel</a>, in 1849, is known as the African Quail. It overwinters within Africa, some moving northwards from South Africa. The Common Quails of <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a> and the <a href="/wiki/Comoros" title="Comoros">Comoros</a> belong to the same African race, although those found around <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> make up a different subspecies, the Abyssinian Quail, <i>C. c. erlangeri</i> (Zedlitz, 1912). The fairly numerous<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> population of the <a href="/wiki/Cape_Verde" title="Cape Verde">Cape Verde</a> islands, belong to a separate race, <i>C. c. inopinata</i>, (described by <a href="/wiki/Ernst_Hartert" title="Ernst Hartert">Hartert</a> in 1917), while those on the <a href="/wiki/Azores" title="Azores">Azores</a> belong to race <i>C. c. conturbans</i> (Hartert, 1917).</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=5" title="Edit section: Utilization">edit</a>]</span> <span class="mw-headline" id="Utilization">Utilization</span></h2>
+<p><a href="//en.wikisource.org/wiki/Bible_(King_James)/Exodus#16:1" class="extiw" title="s:Bible (King James)/Exodus">Exodus 16:1-13</a> relates how the migrating Israelites relied on migrating quail for food. It is still heavily hunted as <a href="/wiki/Game_(food)" title="Game (food)">game</a> on passage through the <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> area. This species over recent years has seen an increase in its <a href="/wiki/Biological_reproduction" title="Biological reproduction" class="mw-redirect">propagation</a> in the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/Europe" title="Europe">Europe</a>. However, most of this increase is with <a href="/wiki/Hobbyists" title="Hobbyists" class="mw-redirect">hobbyists</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=6" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Weibliche_Wachtel_(Coturnix_coturnix).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Weibliche_Wachtel_%28Coturnix_coturnix%29.jpg/120px-Weibliche_Wachtel_%28Coturnix_coturnix%29.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Female Common Quail</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Caille_des_bl%C3%A9s_MHNT.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Caille_des_bl%C3%A9s_MHNT.jpg/120px-Caille_des_bl%C3%A9s_MHNT.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Common Quail eggs - <a href="/wiki/MHNT" title="MHNT" class="mw-redirect">MHNT</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Quails_in_cookery" title="Quails in cookery">Quails in cookery</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=8" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/100600194">"<i>Coturnix coturnix</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/100600194">http://www.iucnredlist.org/apps/redlist/details/100600194</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Coturnix+coturnix%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F100600194&amp;rfr_id=info:sid/en.wikipedia.org:Common_Quail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Latin)</span> <span class="citation book"><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus, C</a> (1758). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata.</i>. Holmiae. (Laurentii Salvii).. pp.&#160;161. "T. pedibus nudis, corpore griseo-maculate, supercilií albis, rectricibus margine lunulaque ferruginea."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata.&amp;rft.aulast=Linnaeus&amp;rft.aufirst=C&amp;rft.au=Linnaeus%2C%26%2332%3BC&amp;rft.date=1758&amp;rft.pages=pp.%26nbsp%3B161&amp;rft.pub=Holmiae.+%28Laurentii+Salvii%29.&amp;rfr_id=info:sid/en.wikipedia.org:Common_Quail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">E. Krabbe, 2003<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#Citation_style" title="Wikipedia:Citing sources"><span title="Wikipedia:Citing_sources#Citation_style">full citation needed</span></a></i>]</sup></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Quail&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has media related to: <i><b><a href="//species.wikimedia.org/wiki/Coturnix_coturnix" class="extiw" title="species:Coturnix coturnix">Coturnix coturnix</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Coturnix_coturnix" class="extiw" title="commons:Coturnix coturnix">Coturnix coturnix</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li>Common Quail - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/200.pdf">Species text in The Atlas of Southern African Birds</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.oiseaux.net/oiseaux/photos/caille.des.bles.html">Oiseaux</a> Photos</li>
+<li><a rel="nofollow" class="external text" href="http://animalsinthecity.webs.com/fancygamebirds.htm">Coturnix "Common" Quail</a> Breeding</li>
+<li><a rel="nofollow" class="external text" href="http://www.gamebird.com/coturnixquail.html">Keeping And Breeding Common Quail</a> Keeping And Breeding Common Quail</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/144_QuailCcoturnix.pdf">Identification guide (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5101/1000000
+Preprocessor generated node count: 38690/1500000
+Post-expand include size: 30581/2048000 bytes
+Template argument size: 7084/2048000 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:317350-0!*!0!!*!4!* and timestamp 20121011011400 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_Quail&amp;oldid=515067592">http://en.wikipedia.org/w/index.php?title=Common_Quail&amp;oldid=515067592</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Coturnix" title="Category:Coturnix">Coturnix</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Latin_language_external_links" title="Category:Articles with Latin language external links">Articles with Latin language external links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Quail&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Quail" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_Quail"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_Quail"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_Quail" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_Quail&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_Quail&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_Quail" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_Quail" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_Quail&amp;oldid=515067592" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Common_Quail&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_Quail&amp;id=515067592" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+Quail" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+Quail&amp;oldid=515067592&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_Quail&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9D%D1%8B%D0%B1%D0%B3%D1%8A%D1%83%D1%8D" title="Ныбгъуэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%85%D8%A7%D9%86" title="سمان" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-av"><a href="//av.wikipedia.org/wiki/%D0%A7%D3%80%D0%BE%D1%80%D0%BE%D0%BB%D0%BE" title="ЧӀороло" lang="av" hreflang="av">Авар</a></li>
+			<li class="interwiki-ay"><a href="//ay.wikipedia.org/wiki/Iwrupa_khullu" title="Iwrupa khullu" lang="ay" hreflang="ay">Aymar aru</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Adi_bildir%C3%A7in" title="Adi bildirçin" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B0%D0%BF%D1%91%D0%BB%D0%BA%D0%B0" title="Перапёлка" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B0%D0%BF%D1%91%D0%BB%D0%BA%D0%B0" title="Перапёлка" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D1%8A%D0%B4%D0%BF%D1%8A%D0%B4%D1%8A%D0%BA" title="Пъдпъдък" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Koailh" title="Koailh" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Guatlla_comuna" title="Guatlla comuna" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B5%D0%BD%D0%B5" title="Путене" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/K%C5%99epelka_poln%C3%AD" title="Křepelka polní" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-co"><a href="//co.wikipedia.org/wiki/Quaglia_(spezia)" title="Quaglia (spezia)" lang="co" hreflang="co">Corsu</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Sofliar" title="Sofliar" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Vagtel" title="Vagtel" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Wachtel_(Art)" title="Wachtel (Art)" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-nv"><a href="//nv.wikipedia.org/wiki/D%C3%AD%C5%82d%C3%A1nii_yi%C5%82_ahee%C5%82t%CA%BC%C3%A9hii" title="Díłdánii yił aheełtʼéhii" lang="nv" hreflang="nv">Diné bizaad</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9F%CF%81%CF%84%CF%8D%CE%BA%CE%B9" title="Ορτύκι" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Coturnix_coturnix" title="Coturnix coturnix" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Ordinara_koturno" title="Ordinara koturno" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Galeper" title="Galeper" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D9%84%D8%AF%D8%B1%DA%86%DB%8C%D9%86" title="بلدرچین" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Vaktil" title="Vaktil" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Caille_des_bl%C3%A9s" title="Caille des blés" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Gearg" title="Gearg" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Paspall%C3%A1s" title="Paspallás" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Prepelica" title="Prepelica" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Qualio" title="Qualio" lang="io" hreflang="io">Ido</a></li>
+			<li class="interwiki-os"><a href="//os.wikipedia.org/wiki/%D0%A3%C3%A6%D1%80%D1%86%D1%86" title="Уæрцц" lang="os" hreflang="os">Ирон</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Coturnix_coturnix" title="Coturnix coturnix" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A9%D7%9C%D7%99%D7%95_%D7%A0%D7%95%D7%93%D7%93" title="שליו נודד" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9B%E1%83%AC%E1%83%A7%E1%83%94%E1%83%A0%E1%83%98" title="მწყერი" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%91%D3%A9%D0%B4%D0%B5%D0%BD%D0%B5" title="Бөдене" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-mrj"><a href="//mrj.wikipedia.org/wiki/%D0%92%D1%8B%D0%BB%D1%8C%D0%B4%D1%8B%D1%80%D1%86%D0%B0%D0%BD" title="Выльдырцан" lang="mrj" hreflang="mrj">Кырык мары</a></li>
+			<li class="interwiki-lbe"><a href="//lbe.wikipedia.org/wiki/%D0%A5%D1%85%D1%8E%D0%BD%D1%87%D3%80%D0%B0" title="ХхюнчӀа" lang="lbe" hreflang="lbe">Лакку</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Paipala" title="Paipala" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Putpel%C4%97" title="Putpelė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-lij"><a href="//lij.wikipedia.org/wiki/Quaggia" title="Quaggia" lang="lij" hreflang="lij">Ligure</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/F%C3%BCrj" title="Fürj" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%9Fo%D1%82%D0%BF%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D0%B0" title="Пoтполошка" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%9A%E0%B4%BE%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%9F" title="ചാരക്കാട" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-nah"><a href="//nah.wikipedia.org/wiki/Caxtill%C4%81n_z%C5%8Dlin" title="Caxtillān zōlin" lang="nah" hreflang="nah">Nāhuatl</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kwartel" title="Kwartel" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ne"><a href="//ne.wikipedia.org/wiki/%E0%A4%AC%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%88" title="बट्टाई" lang="ne" hreflang="ne">नेपाली</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%83%E3%83%91%E3%82%A6%E3%82%BA%E3%83%A9" title="ヨーロッパウズラ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA%D1%8A" title="Лекъ" lang="ce" hreflang="ce">Нохчийн</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Bipkerwik" title="Bipkerwik" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Vaktel" title="Vaktel" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Vaktel" title="Vaktel" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-mhr"><a href="//mhr.wikipedia.org/wiki/%D0%9F%D1%83%D0%BB%D0%B4%D1%8B%D1%80%D1%87%D0%BE" title="Пулдырчо" lang="mhr" hreflang="mhr">Олык марий</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B9%D8%A7%D9%85_%DA%A9%D9%88%D8%A6%D9%84" title="عام کوئل" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/C%C3%A0rcalhoe" title="Càrcalhoe" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Coturnix_coturnix" title="Coturnix coturnix" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Przepi%C3%B3rka" title="Przepiórka" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Codorniz-comum" title="Codorniz-comum" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Prepeli%C8%9B%C4%83" title="Prepeliță" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rm"><a href="//rm.wikipedia.org/wiki/Quacra" title="Quacra" lang="rm" hreflang="rm">Rumantsch</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB" title="Обыкновенный перепел" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BD%D1%83%D1%83_%D0%B1%D0%BE%D1%87%D1%83%D0%B3%D1%83%D1%80%D0%B0%D2%BB%D0%B0" title="Хонуу бочугураһа" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Prepelica_po%C4%BEn%C3%A1" title="Prepelica poľná" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Prepelica" title="Prepelica" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/Obi%C4%8Dna_prepelica" title="Obična prepelica" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Prepelica" title="Prepelica" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Viiri%C3%A4inen" title="Viiriäinen" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Vaktel" title="Vaktel" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tl"><a href="//tl.wikipedia.org/wiki/Karaniwang_pugo" title="Karaniwang pugo" lang="tl" hreflang="tl">Tagalog</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AF%88" title="நாட்டுக் காடை" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_b%C4%B1ld%C4%B1rc%C4%B1n" title="Bayağı bıldırcın" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-udm"><a href="//udm.wikipedia.org/wiki/%D0%91%D3%A7%D0%B4%D1%91%D0%BD%D0%BE" title="Бӧдёно" lang="udm" hreflang="udm">Удмурт</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%97%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0_%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D1%96%D0%BB%D0%BA%D0%B0" title="Звичайна перепілка" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vls"><a href="//vls.wikipedia.org/wiki/Kwakkel" title="Kwakkel" lang="vls" hreflang="vls">West-Vlams</a></li>
+			<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E9%B5%AA%E9%B6%89" title="鵪鶉" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%B9%8C%E9%B9%91" title="鹌鹑" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 September 2012 at 21:50.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Quail&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw22 in 0.196 secs. -->
+	</body>
+</html>

@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common Eider - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_Eider&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_Eider&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_Eider","wgTitle":"Common Eider","wgCurRevisionId":515849390,"wgArticleId":262899,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Somateria","Ducks","Birds of Europe","Birds of Iceland","Birds of Canada","Birds of Turkey","Merginae","Birds of Greenland","Birds of the Faroe Islands","British Isles coastal fauna"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_Eider","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"c74d45018e3f1a628b6d943c76a34dc6","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":262899,"title":"Common Eider","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Canada","Birds of Europe","Birds of Greenland","Birds of Iceland","Birds of Turkey","Birds of the Faroe Islands","British Isles coastal fauna","Ducks","IUCN Red List least concern species","Merginae","Somateria"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_Eider skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common Eider</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Common Eider</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Somateria_mollissima_male..jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Somateria_mollissima_male..jpg/220px-Somateria_mollissima_male..jpg" width="220" height="165" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Adult drake</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Merginae" title="Merginae">Merginae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Somateria" title="Somateria" class="mw-redirect">Somateria</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>S. mollissima</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Somateria mollissima</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>S. m. mollissima</i> <small>(Linnaeus, 1758)</small></li>
+</ul>
+<p><small>(<a href="/w/index.php?title=European_Eider&amp;action=edit&amp;redlink=1" class="new" title="European Eider (page does not exist)">European Eider</a>)</small></p>
+<ul>
+<li><i>S. m. faeroeensis</i> <small><a href="/wiki/Christian_Ludwig_Brehm" title="Christian Ludwig Brehm">C. L. Brehm</a>, 1831</small></li>
+</ul>
+<p><small>(<a href="/w/index.php?title=Faeroe_Eider&amp;action=edit&amp;redlink=1" class="new" title="Faeroe Eider (page does not exist)">Faeroe Eider</a>)</small></p>
+<ul>
+<li><i>S. m. v-nigra</i> <small><a href="/wiki/Charles_Lucien_Bonaparte" title="Charles Lucien Bonaparte">Bonaparte</a> and <a href="/wiki/George_Robert_Gray" title="George Robert Gray">G. R. Gray</a>, 1855</small></li>
+</ul>
+<p><small>(<a href="/w/index.php?title=North_Pacific_Eider&amp;action=edit&amp;redlink=1" class="new" title="North Pacific Eider (page does not exist)">North Pacific Eider</a>)</small></p>
+<ul>
+<li><i>S. m. borealis</i> <small>(<a href="/wiki/Christian_Ludwig_Brehm" title="Christian Ludwig Brehm">C. L. Brehm</a>, 1824)</small></li>
+</ul>
+<p><small>(<a href="/w/index.php?title=North_Atlantic_Eider&amp;action=edit&amp;redlink=1" class="new" title="North Atlantic Eider (page does not exist)">North Atlantic Eider</a>)</small></p>
+<ul>
+<li><i>S. m. sedentaria</i> <small>Snyder, 1941</small></li>
+</ul>
+<p><small>(<a href="/w/index.php?title=Hudson_Bay_Eider&amp;action=edit&amp;redlink=1" class="new" title="Hudson Bay Eider (page does not exist)">Hudson Bay Eider</a>)</small></p>
+<ul>
+<li><i>S. m. dresseri</i> <small><a href="/wiki/Richard_Bowdler_Sharpe" title="Richard Bowdler Sharpe">Sharpe</a>, 1871</small></li>
+</ul>
+<p><small>(<a href="/w/index.php?title=American_Eider&amp;action=edit&amp;redlink=1" class="new" title="American Eider (page does not exist)">American Eider</a>)</small></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Somateria_mollissima_dis.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Somateria_mollissima_dis.png/220px-Somateria_mollissima_dis.png" width="220" height="102" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Green: breeding<br />
+Blue: winter/feeding</td>
+</tr>
+</table>
+</div>
+<p>The <b>Common Eider</b> (<i>Somateria mollissima</i>) is a large (50–71&#160;cm body length) <a href="/wiki/Merginae" title="Merginae">sea-duck</a> that is distributed over the northern coasts of <a href="/wiki/Europe" title="Europe">Europe</a>, <a href="/wiki/North_America" title="North America">North America</a> and eastern <a href="/wiki/Siberia" title="Siberia">Siberia</a>. It breeds in <a href="/wiki/Arctic" title="Arctic">Arctic</a> and some northern temperate regions, but <a href="/wiki/Bird_migration" title="Bird migration">winters</a> somewhat farther south in <a href="/wiki/Temperate" title="Temperate" class="mw-redirect">temperate</a> zones, when it can form large flocks on coastal waters. It can fly at speeds up to 113&#160;km/h (70&#160;mph).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The eider's nest is built close to the sea and is lined with the celebrated <a href="/wiki/Eiderdown" title="Eiderdown">eiderdown</a>, plucked from the female's breast. This soft and warm lining has long been harvested for filling pillows and quilts, but in more recent years has been largely replaced by down from domestic farm-geese and synthetic alternatives. Although eiderdown pillows or quilts are now a rarity, eiderdown harvesting continues and is sustainable, as it can be done after the ducklings leave the nest with no harm to the birds.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Social_behaviour"><span class="tocnumber">2</span> <span class="toctext">Social behaviour</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Eider&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Common Eider is both the largest of the four eider species and the largest duck found in Europe and in North America (except for the <a href="/wiki/Muscovy_Duck" title="Muscovy Duck">Muscovy Duck</a> which only reaches North America in a wild state in southernmost Texas). It measures 50 to 71 cm (20 to 28 in) in length, weighs 0.81 to 3.04 kg (1.8 to 6.7 lb) and spans 80–110 cm (31–43 in) across the wings.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> It is characterized by its bulky shape and large, wedge-shaped bill. The male is unmistakable, with its black and white plumage and green nape. The female is a brown <a href="/wiki/Bird" title="Bird">bird</a>, but can still be readily distinguished from all <a href="/wiki/Duck" title="Duck">ducks</a>, except other eider species, on the basis of size and head shape. This duck's call is a pleasant "ah-ooo". The species is often readily approachable.</p>
+<p>Drakes of the <a href="/wiki/Europe" title="Europe">European</a>, eastern <a href="/wiki/North_America" title="North America">North American</a> and Asia/western North American races can be distinguished by minor differences in plumage and bill colour. Some authorities place the subspecies <i>v-nigra</i> as a separate species.</p>
+<p>This species dives for crustaceans and molluscs, with <a href="/wiki/Mussel" title="Mussel">mussels</a> being a favoured food. The eider will eat mussels by swallowing them whole; the shells are then crushed in their <a href="/wiki/Gizzard" title="Gizzard">gizzard</a> and excreted. When eating a crab, the Eider will remove all of its claws and legs, and then eat the body in a similar fashion.</p>
+<p>It is abundant, with populations of about 1.5-2 million birds in both North America and Europe, and also large but unknown numbers in eastern Siberia (<a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">HBW</a>).</p>
+<p>A particularly famous colony of eiders lives on the <a href="/wiki/Farne_Islands" title="Farne Islands">Farne Islands</a> in <a href="/wiki/Northumberland" title="Northumberland">Northumberland</a>, <a href="/wiki/England" title="England">England</a>. These birds were the subject of one of the first ever bird protection laws, established by <a href="/wiki/Cuthbert_of_Lindisfarne" title="Cuthbert of Lindisfarne" class="mw-redirect">Saint Cuthbert</a> in the year 676. About 1,000 pairs still nest there every year. Because St. Cuthbert is the patron saint of Northumberland, it was natural that the eider should be chosen as the county's emblem bird; the birds are still often called <b>Cuddy's ducks</b> in the area, "Cuddy" being the familiar form of "Cuthbert".</p>
+<p>In Canada's Hudson Bay, important eider die-offs were observed in the 1990s by local populations due to quickly changing ice flow patterns. The Canadian Wildlife Service has spent several years gathering up-to-date information on their populations, and preliminary results seem to show a population recovery.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> The Common Eider is the object of a 2011 feature length documentary, <a href="/w/index.php?title=People_of_a_Feather&amp;action=edit&amp;redlink=1" class="new" title="People of a Feather (page does not exist)">People of a Feather</a>, which studies the historical relationship between the <a href="/wiki/Sanikiluaq" title="Sanikiluaq">Sanikiluaq</a> community and eiders, as well as various aspects of their ecology. The director/cinematographer/biologist <a href="/w/index.php?title=Joel_Heath&amp;action=edit&amp;redlink=1" class="new" title="Joel Heath (page does not exist)">Joel Heath</a> spent seven years on the project and writing biological articles on the Common Eider.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>The Common Eider is one of the species to which the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Eider&amp;action=edit&amp;section=2" title="Edit section: Social behaviour">edit</a>]</span> <span class="mw-headline" id="Social_behaviour">Social behaviour</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:EiderCreche.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/EiderCreche.jpg/220px-EiderCreche.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:EiderCreche.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Small Eider Creche: three adult females over six ducklings at Biddeford Pool, ME</div>
+</div>
+</div>
+<p>Eiders are colonial breeders. They nest on coastal islands in colonies ranging in size of less than 100 to upwards of 10,000-15,000 individuals.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> Female eiders frequently exhibit a high degree of natal <a href="/wiki/Philopatry" title="Philopatry">philopatry</a>, where they return to breed on the same island where they were hatched. This can lead to a high degree of relatedness between individuals nesting on the same island, as well as the development of <a href="/wiki/Kinship" title="Kinship">kin</a>-based female social structures.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> This relatedness has likely played a role in the evolution of co-operative breeding behaviours amongst eiders. Examples of these behaviours include laying eggs in the nests of related individuals <sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> and <a href="/wiki/Cr%C3%A8che_(zoology)" title="Crèche (zoology)">crèching</a>, where female eiders team up and share the work of rearing ducklings.<sup id="cite_ref-Amnat_12-0" class="reference"><a href="#cite_note-Amnat-12"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Eider&amp;action=edit&amp;section=3" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34px auto;"><a href="/wiki/File:Somateria_mollissima_male_female.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Somateria_mollissima_male_female.jpg/120px-Somateria_mollissima_male_female.jpg" width="120" height="82" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult male left, female right</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33px auto;"><a href="/wiki/File:Common_eider_750pix.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Common_eider_750pix.jpg/120px-Common_eider_750pix.jpg" width="120" height="84" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult male in <a href="/wiki/Plumage#Eclipse_plumage" title="Plumage">eclipse plumage</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32px auto;"><a href="/wiki/File:Common_eider_juv_arp_750pix.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Common_eider_juv_arp_750pix.jpg/120px-Common_eider_juv_arp_750pix.jpg" width="120" height="86" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Male first winter plumage. Note how similar this is to the adult eclipse plumage.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:37px auto;"><a href="/wiki/File:Erfugl_1764.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erfugl_1764.jpg/120px-Erfugl_1764.jpg" width="120" height="76" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Female</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Flickr_-_Rainbirder_-_Eider_drake_(Somateria_mollissima)_in_flight.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flickr_-_Rainbirder_-_Eider_drake_%28Somateria_mollissima%29_in_flight.jpg/120px-Flickr_-_Rainbirder_-_Eider_drake_%28Somateria_mollissima%29_in_flight.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In flight</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Eider-duck_fur_pelerine.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eider-duck_fur_pelerine.jpg/108px-Eider-duck_fur_pelerine.jpg" width="108" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Eider duck skin coat</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Eider_nestingboxes.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eider_nestingboxes.JPG/120px-Eider_nestingboxes.JPG" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Traditional nestingboxes</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Eider&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/100600484">"<i>Somateria mollissima</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/100600484">http://www.iucnredlist.org/apps/redlist/details/100600484</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Somateria+mollissima%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F100600484&amp;rfr_id=info:sid/en.wikipedia.org:Common_Eider"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.thetravelalmanac.com/lists/birds-speed.htm">http://www.thetravelalmanac.com/lists/birds-speed.htm</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.allaboutbirds.org/guide/Common_Eider/lifehistory">[1]</a> (2011).</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Ogilvie &amp; Young, <i>Wildfowl of the World</i>. New Holland Publishers (2004), <a href="/wiki/Special:BookSources/9781843303282" class="internal mw-magiclink-isbn">ISBN 978-1-84330-328-2</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.akduckhunts.com/articles/common_eider.pdf">"Common Eider (Somateria mollissima)"</a>. <i>Sea Duck Information Series</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.akduckhunts.com/articles/common_eider.pdf">http://www.akduckhunts.com/articles/common_eider.pdf</a></span><span class="reference-accessdate">. Retrieved 8 February 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Common+Eider+%28Somateria+mollissima%29&amp;rft.atitle=Sea+Duck+Information+Series&amp;rft_id=http%3A%2F%2Fwww.akduckhunts.com%2Farticles%2Fcommon_eider.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_Eider"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web">D. Henri, H. G. Gilchrist and E. Peacock (2010). <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/h28540t10w08jr47/">"Understanding and Managing Wildlife in Hudson Bay Under a Changing Climate: Some Recent Contributions From Inuit and Cree Ecological Knowledge"</a>. Earth and Environmental Sciences<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.springerlink.com/content/h28540t10w08jr47/">http://www.springerlink.com/content/h28540t10w08jr47/</a></span><span class="reference-accessdate">. Retrieved 8 February 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Understanding+and+Managing+Wildlife+in+Hudson+Bay+Under+a+Changing+Climate%3A+Some+Recent+Contributions+From+Inuit+and+Cree+Ecological+Knowledge&amp;rft.atitle=&amp;rft.aulast=D.+Henri%2C+H.+G.+Gilchrist+and+E.+Peacock&amp;rft.au=D.+Henri%2C+H.+G.+Gilchrist+and+E.+Peacock&amp;rft.date=2010&amp;rft.pub=Earth+and+Environmental+Sciences&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Fh28540t10w08jr47%2F&amp;rfr_id=info:sid/en.wikipedia.org:Common_Eider"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web">K.G. Chaulk,a G.J. Robertson,b, W.A. Montevecchic, (november 10). <a rel="nofollow" class="external text" href="http://www.nrcresearchpress.com/doi/abs/10.1139/z06-138">"Extinction, colonization, and distribution patterns of common eider populations nesting in a naturally fragmented landscape"</a>. Canadian Journal of Zoology<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.nrcresearchpress.com/doi/abs/10.1139/z06-138">http://www.nrcresearchpress.com/doi/abs/10.1139/z06-138</a></span><span class="reference-accessdate">. Retrieved 8 February 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Extinction%2C+colonization%2C+and+distribution+patterns+of+common+eider+populations+nesting+in+a+naturally+fragmented+landscape&amp;rft.atitle=&amp;rft.aulast=K.G.+Chaulk%2Ca+G.J.+Robertson%2Cb%2C+W.A.+Montevecchic%2C&amp;rft.au=K.G.+Chaulk%2Ca+G.J.+Robertson%2Cb%2C+W.A.+Montevecchic%2C&amp;rft.date=november+10&amp;rft.pub=Canadian+Journal+of+Zoology&amp;rft_id=http%3A%2F%2Fwww.nrcresearchpress.com%2Fdoi%2Fabs%2F10.1139%2Fz06-138&amp;rfr_id=info:sid/en.wikipedia.org:Common_Eider"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt1929346/">"http://www.imdb.com/title/tt1929346/"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.imdb.com/title/tt1929346/">http://www.imdb.com/title/tt1929346/</a></span><span class="reference-accessdate">. Retrieved 8 February 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1929346%2F&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1929346%2F&amp;rfr_id=info:sid/en.wikipedia.org:Common_Eider"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.peopleofafeather.com/">"http://www.peopleofafeather.com/"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.peopleofafeather.com/">http://www.peopleofafeather.com/</a></span><span class="reference-accessdate">. Retrieved 8 February 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=http%3A%2F%2Fwww.peopleofafeather.com%2F&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.peopleofafeather.com%2F&amp;rfr_id=info:sid/en.wikipedia.org:Common_Eider"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Chapdelaine, G., P. Dupuis and A. Reed. 1986a. Distribution, abondance at fluctuation des populations d’eider à duvet dans l’estuaire et le golfe du Saint-Laurent. Pp. 6–19 <i>in</i> <b>Eider ducks in Canada</b> (A. Reed, ed.). Canadian Wildlife Service Report Series no. 47, Ottawa, ON.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">McKinnon, L., H. G. Gilchrist, and K. T. Scribner. 2006. Genetic evidence for kin-based female social structure in common eiders (<i>Somateria mollissima</i>). Behavioral Ecology 17:614-621.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Andersson, M. and P. Waldeck. 2007. Host-parasite kinship in a female-philopatric bird population: evidence from relatedness trend analysis. Molecular Ecology 16:2797-2806.</span></li>
+<li id="cite_note-Amnat-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Amnat_12-0">^</a></b></span> <span class="reference-text">Öst, Markus, Colin W. Clark, Mikael Kilpi, and Ron Ydenberg, <a rel="nofollow" class="external text" href="http://www.eurekalert.org/pub_releases/2007-01/uocp-ita011007.php">"Parental effort and reproductive skew in coalitions of brood-rearing female common eiders."</a> The American Naturalist: January 2007</span></li>
+</ol>
+</div>
+<ul>
+<li>Scientific <a rel="nofollow" class="external text" href="http://www.bionyt.dk/Groenland-debat.html">discussion</a> about recent hunting regulations on Greenland</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Eider&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Somateria_mollissima" class="extiw" title="commons:Somateria mollissima">Somateria mollissima</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Common_Eider.html">Cornell Lab of Ornithology-Common Eider</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.massaudubon.org/birdatlas/index.php?search=yes&amp;id=6">Massachusetts Breeding Bird Atlas-Common Eider</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/common-eider-somateria-mollissima">Common Eider videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://maineseaduck.com/">Eider Duck Hunting</a> information and pictures.</li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=bfcxGusc-9U">YouTube video of Eider eating a crab</a></li>
+<li><a rel="nofollow" class="external text" href="http://sdakotabirds.com/species/common_eider_info.htm">Common Eider Information and Photos</a> South Dakota Birds and Birding</li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt1929346/"><i>People of a Feather</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+</ul>
+<p><span id="interwiki-de-fa"></span> <span id="interwiki-ru-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 8828/1000000
+Preprocessor generated node count: 38181/1500000
+Post-expand include size: 47236/2048000 bytes
+Template argument size: 19346/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:262899-0!*!0!!en!4!* and timestamp 20121011012430 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_Eider&amp;oldid=515849390">http://en.wikipedia.org/w/index.php?title=Common_Eider&amp;oldid=515849390</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Somateria" title="Category:Somateria">Somateria</a></li><li><a href="/wiki/Category:Ducks" title="Category:Ducks">Ducks</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Iceland" title="Category:Birds of Iceland">Birds of Iceland</a></li><li><a href="/wiki/Category:Birds_of_Canada" title="Category:Birds of Canada">Birds of Canada</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Merginae" title="Category:Merginae">Merginae</a></li><li><a href="/wiki/Category:Birds_of_Greenland" title="Category:Birds of Greenland">Birds of Greenland</a></li><li><a href="/wiki/Category:Birds_of_the_Faroe_Islands" title="Category:Birds of the Faroe Islands">Birds of the Faroe Islands</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Eider&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Eider" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_Eider"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_Eider"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_Eider" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_Eider&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_Eider&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_Eider" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_Eider" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_Eider&amp;oldid=515849390" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_Eider&amp;id=515849390" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+Eider" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+Eider&amp;oldid=515849390&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_Eider&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_%D0%B3%D0%B0%D0%B3%D0%B0" title="Обикновена гага" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Eider-dum" title="Eider-dum" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/%C3%88ider" title="Èider" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kajka_mo%C5%99sk%C3%A1" title="Kajka mořská" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Hwyaden_Fwythblu" title="Hwyaden Fwythblu" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Edderfugl" title="Edderfugl" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Eiderente" title="Eiderente" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-nv"><a href="//nv.wikipedia.org/wiki/Hak%CA%BCaz_naal%CA%BCee%C5%82%C3%AD" title="Hakʼaz naalʼeełí" lang="nv" hreflang="nv">Diné bizaad</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Hahk" title="Hahk" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Somateria_mollissima" title="Somateria mollissima" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Molanaso" title="Molanaso" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Eider_arrunt" title="Eider arrunt" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/%C3%86%C3%B0a" title="Æða" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Eider_%C3%A0_duvet" title="Eider à duvet" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Eider_(f%C3%BBgel)" title="Eider (fûgel)" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/%C3%89ider" title="Éider" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ik"><a href="//ik.wikipedia.org/wiki/Amauligruaq" title="Amauligruaq" lang="ik" hreflang="ik">Iñupiak</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/%C3%86%C3%B0arfugl" title="Æðarfugl" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Somateria_mollissima" title="Somateria mollissima" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%93%D7%A8%D7%99%D7%AA_%D7%A9%D7%97%D7%95%D7%A8%D7%AA_%D7%9B%D7%99%D7%A4%D7%94" title="אדרית שחורת כיפה" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Paprastoji_gaga" title="Paprastoji gaga" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Pehelyr%C3%A9ce" title="Pehelyréce" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Eider_(vogel)" title="Eider (vogel)" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%82%B1%E3%83%AF%E3%82%BF%E3%82%AC%E3%83%A2" title="ホンケワタガモ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Eidergus" title="Eidergus" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/%C3%86rfugl" title="Ærfugl" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/%C3%86rfugl" title="Ærfugl" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/C%C3%A0n%C2%B7n%C3%A0r_%C3%A9dredon" title="Càn·nàr édredon" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Somateria_mollissima" title="Somateria mollissima" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Edredon" title="Edredon" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Eider-edred%C3%A3o" title="Eider-edredão" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B3%D0%B0" title="Обыкновенная гага" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D1%85%D0%B0%D0%BD_%D1%82%D1%83%D1%80%D1%83%D0%BA%D0%B0%D0%B0%D0%BD" title="Улахан турукаан" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/H%C3%A1vda" title="Hávda" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Common_Eider" title="Common Eider" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Haahka" title="Haahka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ejder" title="Ejder" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Pufla_kaz%C4%B1" title="Pufla kazı" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0" title="Гага звичайна" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/V%E1%BB%8Bt_nhung_th%C6%B0%E1%BB%9Dng" title="Vịt nhung thường" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 October 2012 at 20:11.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Eider&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv283 in 0.129 secs. -->
+	</body>
+</html>

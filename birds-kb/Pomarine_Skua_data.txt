@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Pomarine Skua - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pomarine_Skua&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pomarine_Skua&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pomarine_Skua","wgTitle":"Pomarine Skua","wgCurRevisionId":515504638,"wgArticleId":353613,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Skuas","Birds of Europe","Birds of South Australia","Birds of Western Australia","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pomarine_Skua","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"5579de6f2be674c0a721fa93773fe1fa","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":353613,"title":"Pomarine Skua","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Europe","Birds of South Australia","Birds of Western Australia","Birds of Western Sahara","IUCN Red List least concern species","Skuas"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/OggPlayer.js?12"></script><script>
+wgOggPlayer.msg = {"ogg-play":"Play","ogg-pause":"Pause","ogg-stop":"Stop","ogg-no-player":"Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.","ogg-player-videoElement":"Native browser support","ogg-player-oggPlugin":"Browser plugin","ogg-player-cortado":"Cortado (Java)","ogg-player-vlc-mozilla":"VLC","ogg-player-vlc-activex":"VLC (ActiveX)","ogg-player-quicktime-mozilla":"QuickTime","ogg-player-quicktime-activex":"QuickTime (ActiveX)","ogg-player-totem":"Totem","ogg-player-kaffeine":"Kaffeine","ogg-player-kmplayer":"KMPlayer","ogg-player-mplayerplug-in":"mplayerplug-in","ogg-player-thumbnail":"Still image only","ogg-player-selected":"(selected)","ogg-use-player":"Use player:","ogg-more":"More…","ogg-download":"Download file","ogg-desc-link":"About this file","ogg-dismiss":"Close","ogg-player-soundthumb":"No player","ogg-no-xiphqt":"You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
+wgOggPlayer.cortadoUrl = "http://bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/cortado-ovt-stripped-0.6.0.jar";
+wgOggPlayer.extPathUrl = "//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler";
+</script><style>
+.ogg-player-options {
+	border: solid 1px #ccc;
+	padding: 2pt;
+	text-align: left;
+	font-size: 10pt;
+}
+
+.center .ogg-player-options ul {
+	margin: 0.3em 0px 0px 1.5em;
+}
+</style><script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pomarine_Skua skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Pomarine Skua</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Pomarine Skua</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Stercorarius_pomarinusPCCA20070623-3985B.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Stercorarius_pomarinusPCCA20070623-3985B.jpg/220px-Stercorarius_pomarinusPCCA20070623-3985B.jpg" width="220" height="249" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Stercorarius_pomarinusPCCA20070623-3985B.jpg/330px-Stercorarius_pomarinusPCCA20070623-3985B.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Stercorarius_pomarinusPCCA20070623-3985B.jpg/440px-Stercorarius_pomarinusPCCA20070623-3985B.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Stercorariidae" title="Stercorariidae" class="mw-redirect">Stercorariidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Skua" title="Skua">Stercorarius</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>S. pomarinus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Stercorarius pomarinus</i></span></b><br />
+<small><a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck</a>, 1815</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Stercorarius_pomarinus_area.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stercorarius_pomarinus_area.PNG/220px-Stercorarius_pomarinus_area.PNG" width="220" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stercorarius_pomarinus_area.PNG/330px-Stercorarius_pomarinus_area.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stercorarius_pomarinus_area.PNG/440px-Stercorarius_pomarinus_area.PNG 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><br />
+<span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#86FFC4; color:#86FFC4;">&#160;&#160;&#160;&#160;</span>&#160;Summer</span> <span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#0202FF; color:#0202FF;">&#160;&#160;&#160;&#160;</span>&#160;Winter</span></td>
+</tr>
+</table>
+</div>
+<p>The <b>Pomarine Skua</b> (<i>Stercorarius pomarinus</i>) known as <b>Pomarine Jaeger</b> in the Americas, is a <a href="/wiki/Seabird" title="Seabird">seabird</a> in the <a href="/wiki/Skua" title="Skua">skua</a> family Stercorariidae. It is a <a href="/wiki/Bird_migration" title="Bird migration">migrant</a>, wintering at sea in the tropical oceans.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Description"><span class="tocnumber">3</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">4</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Breeding"><span class="tocnumber">4.1</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Feeding"><span class="tocnumber">4.2</span> <span class="toctext">Feeding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pomarine_Skua&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<p>Its relationships are not fully resolved; its <a href="/wiki/Mitochondrial_DNA" title="Mitochondrial DNA">mitochondrial DNA</a> is most similar to the <a href="/wiki/Great_Skua" title="Great Skua">Great Skua</a> [Blechschmidt et al., 1993], but from morphology and behavior, it is closer to the lesser skuas (such as the <a href="/wiki/Arctic_Skua" title="Arctic Skua" class="mw-redirect">Arctic Skua</a>). The most likely explanation is extensive <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybridization</a> between the Great and one species of lesser Skuas, which resulted in a hybrid population that eventually evolved into a distinct species, the Pomarine Skua; or alternatively between the Pomarine and a species of Southern Hemisphere skua, with the Great Skua being the hybrid offspring, perhaps appearing as recently as the 15th century [Blechschmidt et al., 1993; Furness and Hamer, 2003]. Judging from characteristics of the <a href="/wiki/Skeleton" title="Skeleton">skeleton</a> and <a href="/wiki/Behavior" title="Behavior">behavior</a>, the former seems more likely, as the Pomarine Skua shares several similarities with the "Catharacta" Skuas, while the Great Skua does not seem much different from its Southern Hemisphere relatives.</p>
+<p>The mtDNA difference between the Pomarine and the Great Skua is one of the smallest between any two vertebrate species yet analyzed, being less than the variation found between different individuals of widespread species. The apparent capability for hybridization has led to the abolition of the separate genus <i>Catharacta</i> for the Southern Hemisphere and Great Skuas.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pomarine_Skua&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a>]</span> <span class="mw-headline" id="Etymology">Etymology</span></h2>
+<p>It is from the <a href="/wiki/French_language" title="French language">French</a> <i>pomarin</i>, shortening scientific <a href="/wiki/Latin" title="Latin">Latin</a> <i>pomatorhinus</i>, from <a href="/wiki/Greek_language" title="Greek language">Greek</a>, meaning "having a covered nose". This refers to the <a href="/wiki/Cere" title="Cere" class="mw-redirect">cere</a>—which the Pomarine Skua shares with the other skuas.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pomarine_Skua&amp;action=edit&amp;section=3" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:Stercorarius_pomarinusDUCA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Stercorarius_pomarinusDUCA.jpg/150px-Stercorarius_pomarinusDUCA.jpg" width="150" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Stercorarius_pomarinusDUCA.jpg/225px-Stercorarius_pomarinusDUCA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Stercorarius_pomarinusDUCA.jpg/300px-Stercorarius_pomarinusDUCA.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Stercorarius_pomarinusDUCA.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+This is a large skua at about 45cm length, excluding the central tail feathers of the summer adult, which can add another 10cm or so.</div>
+</div>
+</div>
+<p>This species ranges from 46 to 67 cm (18 to 26 in) in length, 110 to 138 cm (43 to 54 in) in wingspan and 540–920 g (1.2–2.0 lb) in weight.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-CRC_3-0" class="reference"><a href="#cite_note-CRC-3"><span>[</span>4<span>]</span></a></sup> The upper limit of the length includes the elongated tail streamer of breeding adults, which is about 10&#160;cm (3.9&#160;in) in length. Identification of this skua is complicated by its similarities to <a href="/wiki/Arctic_Skua" title="Arctic Skua" class="mw-redirect">Arctic Skua</a> and the existence of three <a href="/wiki/Polymorphism_(biology)" title="Polymorphism (biology)">morphs</a>. Pomarine Skuas are larger than <a href="/wiki/Common_Gull" title="Common Gull">Common Gulls</a>. They are much bulkier, broader-winged and less <a href="/wiki/Falcon" title="Falcon">falcon</a>-like than Arctic Skua, but show the same wide range of plumage variation. The flight is more measured than that of the smaller species. It has many harsh chattering calls and others which sounds like <i>which-yew</i>.</p>
+<p>Light-morph adult Pomarine Skuas have a brown back, mainly white underparts and dark primary wing feathers with a white "flash". The head and neck are yellowish-white with a black cap. Dark morph adults are dark brown, and intermediate morph birds are dark with somewhat paler underparts, head and neck. All morphs have the white wing flash, which appears as a diagnostic double flash on the underwing. In breeding adults of all morphs, the two central tail feathers are much longer than the others, spoon-shaped, and twisted from the horizontal. Juveniles are even more problematic to identify, and are difficult to separate from Arctic Skua at a distance on plumage alone.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pomarine_Skua&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Pomarine_Skua&amp;action=edit&amp;section=5" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<p>This species breeds in the far north of <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a> and <a href="/wiki/North_America" title="North America">North America</a>. It nests on Arctic <a href="/wiki/Tundra" title="Tundra">tundra</a> and islands, laying 2–3 olive-brown eggs in grass lined depressions. Like other skuas, it will fly at the head of a human or other intruder approaching its nest. Although it cannot inflict serious damage, the experience is frightening and painful.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Pomarine_Skua&amp;action=edit&amp;section=6" title="Edit section: Feeding">edit</a>]</span> <span class="mw-headline" id="Feeding">Feeding</span></h3>
+<p>This <a href="/wiki/Bird" title="Bird">bird</a> feeds on <a href="/wiki/Lemming" title="Lemming">lemmings</a>, other rodents, offal, scraps, small birds and also <a href="/wiki/Kleptoparasitism" title="Kleptoparasitism">robs</a> <a href="/wiki/Gull" title="Gull">gulls</a>, <a href="/wiki/Tern" title="Tern">terns</a> and even <a href="/wiki/Northern_Gannet" title="Northern Gannet">Gannets</a> of their catches; it will also kill birds up to the size of <a href="/wiki/Common_Gull" title="Common Gull">Common Gull</a>. Like most other skua <a href="/wiki/Species" title="Species">species</a>, it continues this piratical behaviour throughout the year, showing great agility as it harasses its victims. Only the <a href="/wiki/White-tailed_Eagle" title="White-tailed Eagle">White-tailed Eagle</a> and the <a href="/wiki/Golden_Eagle" title="Golden Eagle">Golden Eagle</a> are known to take adult, healthy Pomarine Skuas.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:302px;">
+<div id="ogg_player_1">
+<div><a href="/wiki/File:Pomarine_Jaeger_goldcoast95.ogg" class="image" title="Pomarine Jaeger goldcoast95.ogg"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pomarine_Jaeger_goldcoast95.ogg/mid-Pomarine_Jaeger_goldcoast95.ogg.jpg" width="300" height="225" alt="" /></a></div>
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/2/27/Pomarine_Jaeger_goldcoast95.ogg&quot;,&quot;width&quot;:300,&quot;height&quot;:225,&quot;length&quot;:15.56,&quot;linkUrl&quot;:&quot;/wiki/File:Pomarine_Jaeger_goldcoast95.ogg&quot;,&quot;isVideo&quot;:true});" style="width: 300px; text-align: center" title="Play video"><img src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/play.png" width="22" height="22" alt="Play video" /></button></div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pomarine_Jaeger_goldcoast95.ogg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Off Gold Coast, SE Queensland, Australia</div>
+</div>
+</div>
+<p><br style="clear:both" /></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pomarine_Skua&amp;action=edit&amp;section=7" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003200">"<i>Stercorarius pomarinus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003200">http://www.iucnredlist.org/apps/redlist/details/106003200</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Stercorarius+pomarinus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003200&amp;rfr_id=info:sid/en.wikipedia.org:Pomarine_Skua"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.arkive.org/pomarine-jaeger/stercorarius-pomarinus/#text=Facts">[1]</a> (2011).</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.enature.com/fieldguides/detail.asp?recNum=BD0679">[2]</a> (2011).</span></li>
+<li id="cite_note-CRC-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRC_3-0">^</a></b></span> <span class="reference-text"><i>CRC Handbook of Avian Body Masses</i> by John B. Dunning Jr. (Editor). CRC Press (1992), <a href="/wiki/Special:BookSources/9780849342585" class="internal mw-magiclink-isbn">ISBN 978-0-8493-4258-5</a>.</span></li>
+</ol>
+</div>
+<ul>
+<li><span class="citation Journal">Blechschmidt, Karin; Hans-Ulrich Peter, Jacobus de Korte, Michael Wink, Ingred Seibold, and Andreas Helbig (1993). "Investigations on the Molecular Systematics of Skuas (Stercorariidae)". <i>Zoologisches Jahrbuch für Systematik</i> <b>120</b>: 379–387.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Investigations+on+the+Molecular+Systematics+of+Skuas+%28Stercorariidae%29&amp;rft.jtitle=Zoologisches+Jahrbuch+f%C3%BCr+Systematik&amp;rft.aulast=Blechschmidt%2C+Karin&amp;rft.au=Blechschmidt%2C+Karin&amp;rft.date=1993&amp;rft.volume=120&amp;rft.pages=379%E2%80%93387&amp;rfr_id=info:sid/en.wikipedia.org:Pomarine_Skua"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<p>Cited by <span class="citation Journal">DeBenedictis, Paul A. (1997). "Skuas". <i>Birding</i> <b>XXIX</b> (1): 66–69.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Skuas&amp;rft.jtitle=Birding&amp;rft.aulast=DeBenedictis%2C+Paul+A.&amp;rft.au=DeBenedictis%2C+Paul+A.&amp;rft.date=1997&amp;rft.volume=XXIX&amp;rft.issue=1&amp;rft.pages=66%E2%80%9369&amp;rfr_id=info:sid/en.wikipedia.org:Pomarine_Skua"><span style="display: none;">&#160;</span></span></p>
+<ul>
+<li><span class="citation book">Furness, Robert W., and Keith Hamer (2003). "Skuas and Jaegers.". In In <a href="/wiki/Christopher_Perrins" title="Christopher Perrins" class="mw-redirect">Christopher Perrins</a> (Ed.). <i>Firefly Encyclopedia of Birds</i>. Firefly Books. pp.&#160;270–273. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55297-777-3" title="Special:BookSources/1-55297-777-3">1-55297-777-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Skuas+and+Jaegers.&amp;rft.atitle=Firefly+Encyclopedia+of+Birds&amp;rft.aulast=Furness%2C+Robert+W.%2C+and+Keith+Hamer&amp;rft.au=Furness%2C+Robert+W.%2C+and+Keith+Hamer&amp;rft.date=2003&amp;rft.pages=pp.%26nbsp%3B270%E2%80%93273&amp;rft.pub=Firefly+Books&amp;rft.isbn=1-55297-777-3&amp;rfr_id=info:sid/en.wikipedia.org:Pomarine_Skua"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Bull, John; Farrand, Jr., John (April 1984). <i>The Audubon Society Field Guide to North American Birds, Eastern Region</i>. New York: Alfred A. Knopf. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-394-41405-5" title="Special:BookSources/0-394-41405-5">0-394-41405-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Audubon+Society+Field+Guide+to+North+American+Birds%2C+Eastern+Region&amp;rft.aulast=Bull&amp;rft.aufirst=John&amp;rft.au=Bull%2C%26%2332%3BJohn&amp;rft.date=April+1984&amp;rft.place=New+York&amp;rft.pub=Alfred+A.+Knopf&amp;rft.isbn=0-394-41405-5&amp;rfr_id=info:sid/en.wikipedia.org:Pomarine_Skua"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pomarine_Skua&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" /> Media related to <a href="//commons.wikimedia.org/wiki/category:Stercorarius_pomarinus" class="extiw" title="commons:category:Stercorarius pomarinus">Stercorarius pomarinus</a> at Wikimedia Commons</li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" width="14" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/27px-Wikispecies-logo.svg.png 2x" /> Data related to <a href="//species.wikimedia.org/wiki/Stercorarius_pomarinus" class="extiw" title="wikispecies:Stercorarius pomarinus">Stercorarius pomarinus</a> at Wikispecies</li>
+<li>Pomarine Skua - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/309.pdf">Species text in The Atlas of Southern African Birds</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide/pool/tags/Stercorarius+pomarinus"><i>Stercorarius pomarinus</i></a> in the <a href="/wiki/Flickr" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide">Field Guide Birds of the World</a></li>
+</ul>
+<p><span id="interwiki-de-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 8495/1000000
+Preprocessor generated node count: 46353/1500000
+Post-expand include size: 42222/2048000 bytes
+Template argument size: 15741/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:353613-0!*!0!!en!4!* and timestamp 20121026030233 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Pomarine_Skua&amp;oldid=515504638">http://en.wikipedia.org/w/index.php?title=Pomarine_Skua&amp;oldid=515504638</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Skuas" title="Category:Skuas">Skuas</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pomarine+Skua&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pomarine+Skua" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pomarine_Skua"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Pomarine_Skua"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Pomarine_Skua" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Pomarine_Skua&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pomarine_Skua&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pomarine_Skua" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pomarine_Skua" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Pomarine_Skua&amp;oldid=515504638" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Pomarine_Skua&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Pomarine_Skua&amp;id=515504638" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pomarine+Skua" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pomarine+Skua&amp;oldid=515504638&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pomarine_Skua&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%83%D8%B1_%D8%A8%D9%88%D9%85%D8%A7%D8%B1%D9%8A%D9%86%D9%8A" title="كركر بوماريني" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8F%D0%BC_%D0%BC%D0%BE%D1%80%D0%B5%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%BA" title="Голям морелетник" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Sparfell-vor_lost_loa" title="Sparfell-vor lost loa" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Par%C3%A0sit_cuaample" title="Paràsit cuaample" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Chaluha_pomo%C5%99ansk%C3%A1" title="Chaluha pomořanská" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Spatelraubm%C3%B6we" title="Spatelraubmöwe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Stercorarius_pomarinus" title="Stercorarius pomarinus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Lar%C4%9Dvosta_rabmevo" title="Larĝvosta rabmevo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Marikoi_isatsbihur" title="Marikoi isatsbihur" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/J%C3%B3i" title="Jói" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Labbe_pomarin" title="Labbe pomarin" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ik"><a href="//ik.wikipedia.org/wiki/Isu%C5%8B%C5%8Ba%C4%A1luk" title="Isuŋŋaġluk" lang="ik" hreflang="ik">Iñupiak</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Stercorarius_pomarinus" title="Stercorarius pomarinus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Bukauodegis_pl%C4%97%C5%A1ikas" title="Bukauodegis plėšikas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Sz%C3%A9lesfark%C3%BA_halfarkas" title="Szélesfarkú halfarkas" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Middelste_jager" title="Middelste jager" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%88%E3%82%A6%E3%82%BE%E3%82%AF%E3%82%AB%E3%83%A2%E3%83%A1" title="トウゾクカモメ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Polarjo" title="Polarjo" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Polarjo" title="Polarjo" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%BE%D9%88%D9%85%D8%A7%D8%B1%DB%8C%D9%86_%D8%B3%DA%A9%D9%88%D8%A7" title="پومارین سکوا" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Stercorarius_pomarinus" title="Stercorarius pomarinus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Wydrzyk_t%C4%99posterny" title="Wydrzyk tęposterny" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Moleiro-pomarino" title="Moleiro-pomarino" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%80%D0%BD%D0%B8%D0%BA" title="Поморник" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE%D0%BC%D0%BE%D1%80%D0%BD%D0%B8%D0%BA" title="Средний поморник" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Leve%C3%A4pyrst%C3%B6kihu" title="Leveäpyrstökihu" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Bredstj%C3%A4rtad_labb" title="Bredstjärtad labb" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C3%BCt_kuyruklu_korsan_mart%C4%B1" title="Küt kuyruklu korsan martı" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%B8%AD%E8%B4%BC%E9%B8%A5" title="中贼鸥" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 18:46.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Pomarine_Skua&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw55 in 0.170 secs. -->
+	</body>
+</html>

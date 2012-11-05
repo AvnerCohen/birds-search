@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common Goldeneye - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_Goldeneye&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_Goldeneye&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_Goldeneye","wgTitle":"Common Goldeneye","wgCurRevisionId":515066868,"wgArticleId":263664,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from February 2007","Bucephala","Birds of Pakistan","Birds of Europe","Birds of Iran","Birds of Turkey","British Isles coastal fauna","Animals described in 1758"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_Goldeneye","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"767e910fc890464ae39a4b63e88990eb","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":263664,"title":"Common Goldeneye","namespace":0,"categories":["All articles with unsourced statements","Animals described in 1758","Articles with \'species\' microformats","Articles with unsourced statements from February 2007","Birds of Europe","Birds of Iran","Birds of Pakistan","Birds of Turkey","British Isles coastal fauna","Bucephala","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_Goldeneye skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common Goldeneye</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Common Goldeneye</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Common_Goldeneye.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Common_Goldeneye.jpg/220px-Common_Goldeneye.jpg" width="220" height="147" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Adult drake (<i>Bucephala clangula americana</i>)</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Common_Goldeneye,_female.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Common_Goldeneye%2C_female.jpg/220px-Common_Goldeneye%2C_female.jpg" width="220" height="170" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Adult female</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Merginae" title="Merginae">Merginae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Goldeneye_(duck)" title="Goldeneye (duck)">Bucephala</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>B. clangula</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Bucephala clangula</i></span></b><br />
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a>)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>B. c. clangula</i> <small>(Linnaeus, 1758)</small></li>
+</ul>
+<p><small>(Eurasian Goldeneye)</small></p>
+<ul>
+<li><i>B. c. americana</i> <small>(<a href="/wiki/Charles_Lucien_Bonaparte" title="Charles Lucien Bonaparte">Bonaparte</a>, 1838)</small></li>
+</ul>
+<p><small>(American Goldeneye)</small></p>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Clangula clangula</i></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Common Goldeneye</b> (<i>Bucephala clangula</i>) is a medium-sized <a href="/wiki/Sea_duck" title="Sea duck" class="mw-redirect">sea duck</a> of the genus <i><a href="/wiki/Goldeneye_(duck)" title="Goldeneye (duck)">Bucephala</a></i>, the <a href="/wiki/Goldeneye_(duck)" title="Goldeneye (duck)">goldeneyes</a>. Their closest relative is the similar <a href="/wiki/Barrow%27s_Goldeneye" title="Barrow's Goldeneye">Barrow's Goldeneye</a>.</p>
+<p>Adult males ranges from 45–52&#160;cm (18–21&#160;inches) and from 888 to 1400&#160;grams (1.9 to 3.1&#160;lbs), while females range from 40–50&#160;cm (16–20&#160;inches) and from 500 to 1182&#160;grams (1.1 to 2.6&#160;lbs). The species is aptly named for its golden-yellow eye. Adult males have a dark head with a greenish gloss and a circular white patch below the eye, a dark back and a white neck and belly. Adult females have a brown head and a mostly grey body. Their legs and feet are orange-yellow.</p>
+<p>Their breeding habitat is the <a href="/wiki/Taiga" title="Taiga">taiga</a>. They are found in the lakes and rivers of boreal forests across <a href="/wiki/Canada" title="Canada">Canada</a> and the northern <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Scandinavia" title="Scandinavia">Scandinavia</a> and northern <a href="/wiki/Russia" title="Russia">Russia</a>. They are <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> and most winter in protected coastal waters or open inland waters at more temperate latitudes. Naturally, they nest in cavities in large trees. They will readily use nestboxes, and this has enabled a healthy breeding population to establish in <a href="/wiki/Scotland" title="Scotland">Scotland</a> where they are increasing and slowly spreading with the help of nestboxes. They are usually quite common in winter around lakes of <a href="/wiki/Great_Britain" title="Great Britain">Britain</a> and some are being encouraged to nest in nestboxes which are put up to try to have them there all year round.</p>
+<p>Often the natural tree cavities are made by broken limbs, unless they are made by <a href="/wiki/Pileated_Woodpecker" title="Pileated Woodpecker">Pileated Woodpeckers</a> or <a href="/wiki/Black_Woodpecker" title="Black Woodpecker">Black Woodpeckers</a>, the only tree-cavity-making animals who make a cavity large enough to normally accommodate a goldeneye. Average egg size is a breadth of 43.3&#160;mm (1.7&#160;inches), a length of 59.3&#160;mm (2.3&#160;inches) and a weight of 64&#160;grams (2.3&#160;oz). The incubation period ranges from 28 to 32 days. The female does all the incubating and is abandoned by the male about 1 to 2 weeks into incubation. The young remain in the nest for about 24–36 hours. <a href="/wiki/Brood_parasitism" title="Brood parasitism" class="mw-redirect">Brood parasitism</a> is quite common both with other Common Goldeneyes as well as other duck species and even <a href="/wiki/Tree_Swallow" title="Tree Swallow">Tree Swallow</a> and <a href="/wiki/European_Starling" title="European Starling" class="mw-redirect">European Starling</a> eggs have been found mixed with goldeneye eggs! The broods commonly start to mix with other females' broods as they become more independent. Goldeneye young have been known to be competitively killed by other goldeneye mothers, <a href="/wiki/Common_Loon" title="Common Loon" class="mw-redirect">Common Loons</a> and <a href="/wiki/Red-necked_Grebe" title="Red-necked Grebe">Red-necked Grebes</a>. The young are capable of flight at 55–65 days of age.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Goldeneyes_in_flight.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Goldeneyes_in_flight.jpg/220px-Goldeneyes_in_flight.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Goldeneyes_in_flight.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In flight over <a href="/wiki/Rideau_River" title="Rideau River">Rideau River</a>, <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a></div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Goldeneyepair.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Goldeneyepair.jpg/220px-Goldeneyepair.jpg" width="220" height="100" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Goldeneyepair.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Pair</div>
+</div>
+</div>
+<p>These diving birds forage underwater. Year-round, about 32% of their prey is <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a>, 28% is aquatic <a href="/wiki/Insect" title="Insect">insects</a> and 10% is <a href="/wiki/Mollusc" title="Mollusc" class="mw-redirect">molluscs</a>. <a href="/wiki/Insect" title="Insect">Insects</a> are the predominant prey while nesting and <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a> are the predominant prey during migration and winter. Locally, <a href="/wiki/Fish" title="Fish">fish</a> eggs and aquatic <a href="/wiki/Plant" title="Plant">plants</a> can be important foods. They themselves may fall prey to various <a href="/wiki/Hawk" title="Hawk">hawks</a>, <a href="/wiki/Owl" title="Owl">owls</a> and <a href="/wiki/Eagle" title="Eagle">eagles</a>, while females and their broods have been preyed upon by <a href="/wiki/Bear" title="Bear">bears</a> (<i>Ursus</i> spp.), various <a href="/wiki/Weasel" title="Weasel">weasels</a> (<i>Mustela</i> spp.), <a href="/wiki/Mink" title="Mink">mink</a> (<i>Mustela vison</i>), <a href="/wiki/Raccoon" title="Raccoon">raccoons</a> (<i>Procyon lotor</i>) and even <a href="/wiki/Northern_Flicker" title="Northern Flicker">Northern Flickers</a> (<i>Colaptes auratus</i>) and <a href="/wiki/Red_squirrel" title="Red squirrel">red squirrels</a> (<i>Tamiasciurus husonicus</i>).</p>
+<p>The Common Goldeneye is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<p>Approximately 188 300 Common Goldeneyes were killed by <a href="/wiki/Duck_hunter" title="Duck hunter" class="mw-redirect">duck hunters</a> in <a href="/wiki/North_America" title="North America">North America</a> during the 1970s, representing about 4% of the total number of ducks killed in the region during that period<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from February 2007">citation needed</span></a></i>]</sup>. The rate is probably similar today. Both the breeding and winter habitat of these birds has been degraded by clearance and pollution. However, this is the only duck in North America known to derive short-term benefits from lake acidification.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Goldeneye&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/100600494">"<i>Bucephala clangula</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/100600494">http://www.iucnredlist.org/apps/redlist/details/100600494</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Bucephala+clangula%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F100600494&amp;rfr_id=info:sid/en.wikipedia.org:Common_Goldeneye"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Goldeneye&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Bucephala_clangula" class="extiw" title="commons:Bucephala clangula">Bucephala clangula</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/common-goldeneye-bucephala-clangula">Common Goldeneye videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Common_Goldeneye.html">Cornell Lab of Ornithology: Common Goldeneye</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mbr-pwrc.usgs.gov/id/framlst/i1510id.html">USGS Patuxent Bird Identification InfoCenter: Common Goldeneye</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.blevinsphoto.com/goldeneye.htm">photograph of adult</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.blevinsphoto.com/goldeneye1.htm">photograph of courtship display</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sdakotabirds.com/species/common_goldeneye_info.htm">South Dakota Birds and Birding: Common Goldeneye Information and Photos</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.enature.com/fieldguides/detail.asp?allSpecies=y&amp;searchText=common%20goldeneye&amp;curGroupID=1&amp;lgfromWhere=&amp;curPageNum=1">eNature.com: Common Goldeneye</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nature-pictures.org/foto/64/">Common Goldeneye wildlife photos and voice</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="3">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:English_Game" title="Template:English Game"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:English_Game" title="Template talk:English Game"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:English_Game&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Game_(food)" title="Game (food)">Game animals</a> and <a href="/wiki/Shooting" title="Shooting">shooting</a> in the United Kingdom</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Game birds</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_Pheasant" title="Common Pheasant">Common Pheasant</a></li>
+<li><a href="/wiki/Grey_Partridge" title="Grey Partridge">Grey Partridge</a></li>
+<li><a href="/wiki/Red-legged_Partridge" title="Red-legged Partridge">Red-legged Partridge</a></li>
+<li><a href="/wiki/Red_Grouse" title="Red Grouse">Red Grouse</a></li>
+<li><a href="/wiki/Rock_Ptarmigan" title="Rock Ptarmigan">Rock Ptarmigan</a></li>
+<li><a href="/wiki/Black_Grouse" title="Black Grouse">Black Grouse</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Eurasian_Woodcock" title="Eurasian Woodcock">Eurasian Woodcock</a></li>
+<li><a href="/wiki/Common_Snipe" title="Common Snipe">Common Snipe</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" style="width:0%;padding:0px 0px 0px 2px;" rowspan="13">
+<div>
+<div class="floatright"><a href="/wiki/File:Phasianus_colchicus_2_tom_(Lukasz_Lukasik).jpg" class="image" title="Common Pheasant"><img alt="Common Pheasant" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Phasianus_colchicus_2_tom_%28Lukasz_Lukasik%29.jpg/65px-Phasianus_colchicus_2_tom_%28Lukasz_Lukasik%29.jpg" width="65" height="49" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Quarry species</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mallard" title="Mallard">Mallard</a></li>
+<li><a href="/wiki/Common_Teal" title="Common Teal" class="mw-redirect">Teal</a></li>
+<li><a href="/wiki/Common_Wood_Pigeon" title="Common Wood Pigeon">Wood Pigeon</a></li>
+<li><a href="/wiki/European_Golden_Plover" title="European Golden Plover">Golden Plover</a></li>
+<li><a href="/wiki/Canada_Goose" title="Canada Goose">Canada Goose</a></li>
+<li><a href="/wiki/Greylag_Goose" title="Greylag Goose">Greylag Goose</a></li>
+<li><a href="/wiki/Pink-footed_Goose" title="Pink-footed Goose">Pink-footed Goose</a></li>
+<li><a href="/wiki/Greater_White-fronted_Goose" title="Greater White-fronted Goose">Greater White-fronted Goose</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Eurasian_Wigeon" title="Eurasian Wigeon">Eurasian Wigeon</a></li>
+<li><a href="/wiki/Tufted_Duck" title="Tufted Duck">Tufted Duck</a></li>
+<li><a href="/wiki/Northern_Shoveler" title="Northern Shoveler">Northern Shoveler</a></li>
+<li><a href="/wiki/Northern_Pintail" title="Northern Pintail">Northern Pintail</a></li>
+<li><a href="/wiki/Gadwall" title="Gadwall">Gadwall</a></li>
+<li><a href="/wiki/Common_Pochard" title="Common Pochard">Common Pochard</a></li>
+<li><strong class="selflink">Common Goldeneye</strong></li>
+<li><a href="/wiki/Common_Moorhen" title="Common Moorhen">Common Moorhen</a></li>
+<li><a href="/wiki/Eurasian_Coot" title="Eurasian Coot">Eurasian Coot</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Deer</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Red_Deer" title="Red Deer" class="mw-redirect">Red Deer</a></li>
+<li><a href="/wiki/Roe_Deer" title="Roe Deer" class="mw-redirect">Roe Deer</a></li>
+<li><a href="/wiki/Fallow_deer" title="Fallow deer">Fallow deer</a></li>
+<li><a href="/wiki/Sika_Deer" title="Sika Deer" class="mw-redirect">Sika Deer</a></li>
+<li><a href="/wiki/Reeves%27s_muntjac" title="Reeves's muntjac">Reeves's muntjac</a></li>
+<li><a href="/wiki/Water_deer" title="Water deer">Water deer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Other quarry</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/European_Hare" title="European Hare" class="mw-redirect">European Hare</a></li>
+<li><a href="/wiki/Red_Fox" title="Red Fox" class="mw-redirect">Red Fox</a></li>
+<li><a href="/wiki/European_Rabbit" title="European Rabbit" class="mw-redirect">European Rabbit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Opponents</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/League_Against_Cruel_Sports" title="League Against Cruel Sports">League Against Cruel Sports</a></li>
+<li><a href="/wiki/Animal_Aid" title="Animal Aid">Animal Aid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Law</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Game_Act_1831" title="Game Act 1831">Game Act 1831</a></li>
+<li><a href="/wiki/Hunting_Act_2004" title="Hunting Act 2004">Hunting Act 2004</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">See also</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/British_Association_for_Shooting_and_Conservation" title="British Association for Shooting and Conservation">British Association for Shooting and Conservation</a></li>
+<li><a href="/wiki/Hunting_and_shooting_in_the_United_Kingdom" title="Hunting and shooting in the United Kingdom">Hunting and shooting in the United Kingdom</a></li>
+<li><a href="/wiki/Game_%26_Wildlife_Conservation_Trust" title="Game &amp; Wildlife Conservation Trust">Game &amp; Wildlife Conservation Trust</a></li>
+<li><a href="/wiki/Countryside_Alliance" title="Countryside Alliance">Countryside Alliance</a></li>
+<li><a href="/wiki/Glorious_Twelfth" title="Glorious Twelfth">Glorious Twelfth</a></li>
+<li><a href="/wiki/Gamekeeper" title="Gamekeeper">Gamekeeper</a></li>
+<li><a href="/wiki/Deer_stalking" title="Deer stalking">Deer stalking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";text-align:left;" colspan="3">
+<div><small><sup>1</sup> Rarely shot due to declining numbers.<br />
+<sup>2</sup> England and Wales only; protected Scotland.</small></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5011/1000000
+Preprocessor generated node count: 43409/1500000
+Post-expand include size: 46502/2048000 bytes
+Template argument size: 13464/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:263664-0!*!0!!*!4!* and timestamp 20121022133912 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_Goldeneye&amp;oldid=515066868">http://en.wikipedia.org/w/index.php?title=Common_Goldeneye&amp;oldid=515066868</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Bucephala" title="Category:Bucephala">Bucephala</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2007" title="Category:Articles with unsourced statements from February 2007">Articles with unsourced statements from February 2007</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Goldeneye&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Goldeneye" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_Goldeneye"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_Goldeneye"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_Goldeneye" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_Goldeneye&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_Goldeneye&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_Goldeneye" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_Goldeneye" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_Goldeneye&amp;oldid=515066868" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Common_Goldeneye&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_Goldeneye&amp;id=515066868" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+Goldeneye" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+Goldeneye&amp;oldid=515066868&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_Goldeneye&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D8%B7_%D8%B0%D9%87%D8%A8%D9%8A_%D8%A7%D9%84%D8%B9%D9%8A%D9%86" title="بط ذهبي العين" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Adi_me%C5%9F%C9%99%C3%B6rd%C9%99yi" title="Adi meşəördəyi" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%91%D0%BE%D2%93%D0%B0%D0%BD" title="Боған" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%B0%D0%BB%D1%8C_%D0%B7%D0%B2%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D1%8B" title="Гогаль звычайны" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%B0%D0%BB%D1%8C_%D0%B7%D0%B2%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D1%8B" title="Гогаль звычайны" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%97%D0%B2%D1%8A%D0%BD%D0%B0%D1%80%D0%BA%D0%B0" title="Звънарка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Garv_lagad_aour" title="Garv lagad aour" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Morell_d%27ulls_grocs" title="Morell d'ulls grocs" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Hohol_severn%C3%AD" title="Hohol severní" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Hwyaden_Lygad-aur" title="Hwyaden Lygad-aur" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Hvinand" title="Hvinand" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Schellente" title="Schellente" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-nv"><a href="//nv.wikipedia.org/wiki/Naal%CA%BCee%C5%82%C3%AD_bin%C3%A1%C3%A1%CA%BC_%C5%82itsoo%C3%ADg%C3%AD%C3%AD" title="Naalʼeełí binááʼ łitsooígíí" lang="nv" hreflang="nv">Diné bizaad</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/S%C3%B5tkas" title="Sõtkas" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Bucephala_clangula" title="Bucephala clangula" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Orokula_klangulo" title="Orokula klangulo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Murgilari_urrebegi" title="Murgilari urrebegi" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/S%C3%BAgont" title="Súgont" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Garrot_%C3%A0_%C5%93il_d%27or" title="Garrot à œil d'or" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gag"><a href="//gag.wikipedia.org/wiki/Alt%C4%B1ng%C3%B6z" title="Altıngöz" lang="gag" hreflang="gag">Gagauz</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Ollodourado" title="Ollodourado" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Bucephala_clangula" title="Bucephala clangula" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-mrj"><a href="//mrj.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D1%88%D0%BE%D1%8D" title="Алашоэ" lang="mrj" hreflang="mrj">Кырык мары</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Bucephala_clangula" title="Bucephala clangula" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Klykuol%C4%97" title="Klykuolė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kercer%C3%A9ce" title="Kerceréce" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%B3_%D1%88%D1%83%D0%BD%D0%B3%D0%B0%D0%B0%D1%87" title="Алаг шунгаач" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Brilduiker" title="Brilduiker" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9B%E3%82%AA%E3%82%B8%E3%83%AD%E3%82%AC%E3%83%A2" title="ホオジロガモ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Bralan" title="Bralan" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Kvinand" title="Kvinand" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Kvinand" title="Kvinand" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B9%D8%A7%D9%85_%D8%B3%D9%86%DB%81%D8%B1%DB%8C_%D8%A7%DA%A9%DA%BE" title="عام سنہری اکھ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Pil%C3%A9-non.nette" title="Pilé-non.nette" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Bucephala_clangula" title="Bucephala clangula" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/G%C4%85go%C5%82" title="Gągoł" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%8C_%D0%BA%D1%80%D0%B8%D0%BA%D0%BB%D0%B8%D0%B2%D0%B0" title="Чернеть криклива" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C" title="Обыкновенный гоголь" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%9E%D1%80%D1%83%D0%BB%D1%83%D0%BE%D1%81" title="Орулуос" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/%C4%8Coa%C4%91gi" title="Čoađgi" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Telkk%C3%A4" title="Telkkä" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Knipa" title="Knipa" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Alt%C4%B1ng%C3%B6z" title="Altıngöz" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C_(%D0%BF%D1%82%D0%B0%D1%85)" title="Гоголь (птах)" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%B9%8A%E9%B8%AD" title="鹊鸭" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 September 2012 at 21:44.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Goldeneye&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw45 in 0.136 secs. -->
+	</body>
+</html>

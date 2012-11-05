@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Pygmy Cormorant - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pygmy_Cormorant","wgTitle":"Pygmy Cormorant","wgCurRevisionId":518997512,"wgArticleId":792228,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2009","All articles needing additional references","IUCN Red List least concern species","Articles with \'species\' microformats","Birds of Europe","Birds of Asia","Birds of Kazakhstan","Birds of Turkey","Birds of Pakistan","Microcarbo"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pygmy_Cormorant","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"2c86414b9cb8adb68798ee17036a6dde","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":792228,"title":"Pygmy Cormorant","namespace":0,"categories":["All articles needing additional references","Articles needing additional references from December 2009","Articles with \'species\' microformats","Birds of Asia","Birds of Europe","Birds of Kazakhstan","Birds of Pakistan","Birds of Turkey","IUCN Red List least concern species","Microcarbo"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pygmy_Cormorant skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Pygmy Cormorant</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" /></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article <b>needs additional <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pygmy_Cormorant&amp;action=edit">improve this article</a> by adding citations to <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Unsourced material may be <a href="/wiki/Template:Citation_needed" title="Template:Citation needed">challenged</a> and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2009)</i></small> </span></td>
+</tr>
+</table>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Pygmy Cormorant</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Phalacrocorax_pygmeus_1_(Martin_Mecnarowski).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Phalacrocorax_pygmeus_1_%28Martin_Mecnarowski%29.jpg/220px-Phalacrocorax_pygmeus_1_%28Martin_Mecnarowski%29.jpg" width="220" height="154" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Phalacrocorax_pygmeus_1_%28Martin_Mecnarowski%29.jpg/330px-Phalacrocorax_pygmeus_1_%28Martin_Mecnarowski%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Phalacrocorax_pygmeus_1_%28Martin_Mecnarowski%29.jpg/440px-Phalacrocorax_pygmeus_1_%28Martin_Mecnarowski%29.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Suliformes" title="Suliformes">Suliformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Phalacrocoracidae" title="Phalacrocoracidae" class="mw-redirect">Phalacrocoracidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Phalacrocorax" title="Phalacrocorax" class="mw-redirect">Phalacrocorax</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. pygmaeus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Phalacrocorax pygmeus</i></span></b><br />
+<small>(<a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1773)</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Pygmy Cormorant</b> (<i>Microcarbo pygmaeus</i>) is a member of the Phalacrocoracidae<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> family of <a href="/wiki/Seabird" title="Seabird">seabirds</a>. It breeds in southeastern <a href="/wiki/Europe" title="Europe">Europe</a> and southwestern <a href="/wiki/Asia" title="Asia">Asia</a>. It is partially <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, with northern populations wintering further south, mostly within its breeding range. It is a rare vagrant to <a href="/wiki/Western_Europe" title="Western Europe">western Europe</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Distribution"><span class="tocnumber">1</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Habitat_and_ecology"><span class="tocnumber">2</span> <span class="toctext">Habitat and ecology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Threats"><span class="tocnumber">3</span> <span class="toctext">Threats</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Bibliography"><span class="tocnumber">4.1</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit&amp;section=1" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<p>The Pygmy Cormorant occupies an area from south-east of Europe (at east of Italy) and south-west of Asia, in <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>, <a href="/wiki/Tajikistan" title="Tajikistan">Tajikistan</a>, <a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a>, <a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> The largest distribution is in south-east of <a href="/wiki/Europe" title="Europe">Europe</a>, <a href="/wiki/Albania" title="Albania">Albania</a>, <a href="/wiki/Greece" title="Greece">Greece</a>, <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>, <a href="/wiki/Romania" title="Romania">Romania</a>, Balkan countries, <a href="/wiki/Turkey" title="Turkey">Turkey</a>, <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>, <a href="/wiki/Iran" title="Iran">Iran</a>, <a href="/wiki/Iraq" title="Iraq">Iraq</a>, <a href="/wiki/Azerbaijan" title="Azerbaijan">Azerbaijan</a>, <a href="/wiki/Israel" title="Israel">Israel</a>, <a href="/wiki/Syria" title="Syria">Syria</a>. In <a href="/wiki/Rom%C3%A2nia" title="România" class="mw-redirect">România</a>, according to studies of Czech ornithologist Robert Ritter von Dombrowski<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> at the end of XIX century, the Pygmy Cormorant was present in large colonies in <a href="/wiki/Danube_Delta" title="Danube Delta">Danube Delta</a>, Brăila and Ialomiţa Pond, on Vederoasa Lake (<a href="/wiki/Constan%C5%A3a_County" title="Constanţa County" class="mw-redirect">Constanţa County</a>), on certain pools and ponds with reeds and willows in <a href="/wiki/Muntenia" title="Muntenia">Muntenia</a>. The number of Pygmy Cormorants’ pairs was 10000 without taking in account the breeding population of <a href="/wiki/Danube_Delta" title="Danube Delta">Danube Delta</a>. Populations of Pygmy Cormorant in Romania have a dramatically decline especially in 60’ when due to the communist agricultural policies The <a href="/wiki/Great_Br%C4%83ila_Island" title="Great Brăila Island">Great Brăila Island</a> and important parts of Ialomiţa Pond were drained in order to practice agriculture, so this the habitats of a great number of aquatic birds were destroyed. Actually, the Pigmy Cormorant can be found in <a href="/wiki/Danube_Delta" title="Danube Delta">Danube Delta</a>, Jijia Largă Pond (<a href="/wiki/Iasi_County" title="Iasi County" class="mw-redirect">Iasi County</a>), probably on Maţa, Rădeanu, Vădeni Ponds in (<a href="/wiki/Gala%C5%A3i_County" title="Galaţi County">Galaţi County</a>), Cârja Pond (<a href="/wiki/Vaslui_County" title="Vaslui County">Vaslui County</a>), at Vlădeşti on Prut River (<a href="/wiki/Gala%C5%A3i_County" title="Galaţi County">Galaţi County</a>), on Calinovăţ Island from <a href="/wiki/Cara%C5%9F-Severin_County" title="Caraş-Severin County" class="mw-redirect">Caraş-Severin County</a>, In the Small Brăila Island, on Dunăreni Pond (Mârleanu, <a href="/wiki/Constan%C8%9Ba_County" title="Constanța County">Constanța County</a>), in Danubian Plain on Parches Pond-Somova (<a href="/wiki/Tulcea_County" title="Tulcea County">Tulcea County</a>). At global scale it was estimated that the whole population of Pygmy Cormorants is 85.000-180.000 individuals (a study effectuated by Wetlands International in 2006) and 74-94% of total population lives in <a href="/wiki/Europe" title="Europe">Europe</a>. The biggest colony is in the <a href="/wiki/Danube_Delta" title="Danube Delta">Danube Delta</a>, numbering 4,000 pairs, but this seems certain to plunge due to a massive canalization scheme, which despite the protected status of the delta, commenced in May 2004. According to a study made by BirdLife International in 2004<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> it was estimated that population of Pygmy Cormorant in <a href="/wiki/Romania" title="Romania">Romania</a> is 11.500-14.000 pairs and during the winter 1500-4000 pairs.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit&amp;section=2" title="Edit section: Habitat and ecology">edit</a>]</span> <span class="mw-headline" id="Habitat_and_ecology">Habitat and ecology</span></h2>
+<p>The Pygmy Cormorants like the pools with plenty of <a href="/wiki/Vegetation" title="Vegetation">vegetation</a>, <a href="/wiki/Lake" title="Lake">lakes</a> and <a href="/wiki/River_delta" title="River delta">river deltas</a>. They void the mountainous and cold and dry areas. Loves rice fields or other flooded areas where can be found <a href="/wiki/Tree" title="Tree">shrubs</a> and <a href="/wiki/Trees" title="Trees" class="mw-redirect">tree</a>. During winter habituate also waters with higher salinity, in estuaries or on barrier lakes. There are birds who can live solitary or in groups and they are adapted somehow to human incidence. They build the nest from sticks and reed in dense vegetation, in trees, shrubs, willows but sporadically in reed (on small floating islets). At the end of May, beginning of June, both parents incubate for 27–30 days, and nestlings become independent after 70 days. The young are fed by they parents with small fish and other aquatic animals (Kiss &amp; Rekasi, 2002). Frequently shares the same type of habitat with <a href="/wiki/Egrets" title="Egrets" class="mw-redirect">egrets</a>, <a href="/wiki/Herons" title="Herons" class="mw-redirect">herons</a> and the <a href="/wiki/Spoonbill" title="Spoonbill">spoonbill</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit&amp;section=3" title="Edit section: Threats">edit</a>]</span> <span class="mw-headline" id="Threats">Threats</span></h2>
+<p>The Pygmy Cormorant is a species with habitats strongly affected by human actions. Threats include the drainage and serious degradation of wetlands and their associated woodland, water <a href="/wiki/Pollution" title="Pollution">pollution</a>, disturbance, and the <a href="/wiki/Poaching" title="Poaching">illegal hunting</a> and drowning of many Pygmy Cormorants in fishing nets.Being a great fish consumer and also destroys the fishing nets it is often persecuted by fishermen. In <a href="/wiki/Romania" title="Romania">Romania</a> the ponds drainage located on inferior course of Danube in order to practice agriculture, the accidental death of birds captive in improvised fishing nets, destroying of nests by the professional fishermen in order to protect the fish resources drove to decreasing of number of individuals and including the species on <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">IUCN</a> red list as a vulnerable species. It is also hunted in leisure activities, and in <a href="/wiki/Iran" title="Iran">Iran</a> the Pygmy Cormorant is commercialized in order to be cooked.</p>
+<p>This species is distinguished from the <a href="/wiki/Great_Cormorant" title="Great Cormorant">Great Cormorant</a> and the <a href="/wiki/Common_Shag" title="Common Shag" class="mw-redirect">Common Shag</a> by its much smaller size, lighter build, and long tail. It feeds mainly on <a href="/wiki/Fish" title="Fish">fish</a>, often hunting in groups, and perches in trees between fishing expeditions. The biggest colony is in the <a href="/wiki/Danube" title="Danube">Danube</a> Delta, numbering 4,000 pairs, but this seems certain to plunge due to a massive canalization scheme, which despite the protected status of the delta, commenced in May 2004.</p>
+<p>The Pygmy Cormorant is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> applies.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit&amp;section=5" title="Edit section: Bibliography">edit</a>]</span> <span class="mw-headline" id="Bibliography">Bibliography</span></h3>
+<ul>
+<li>J. Brian Nelson (2006), Pelicans, Cormorants, and Their Relatives: The Pelecaniformes (Bird Families of the World), Oxford University Press, USA</li>
+<li>Rob Hume (2011), RSPB Birds of Britain and Europe, Dorling Kindersley, 3rd edition (+CD) edition</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003666/0/">IUCN Red List - <i>Phalacrocorax pygmeus</i></a></li>
+<li><a href="//ro.wikipedia.org/wiki/Parcul_Natural_Por%C8%9Bile_de_Fier" class="extiw" title="ro:Parcul Natural Porțile de Fier">Iron Gates Natural Park - Website</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2011"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2011). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/144625">"Phalacrocorax pygmeus"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2011.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/144625">http://www.iucnredlist.org/apps/redlist/details/144625</a></span><span class="reference-accessdate">. Retrieved 3 July 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Phalacrocorax+pygmeus&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2011.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2011&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F144625&amp;rfr_id=info:sid/en.wikipedia.org:Pygmy_Cormorant"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/Phalacrocoracidae" title="Phalacrocoracidae" class="mw-redirect">Cormorant</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://maps.iucnredlist.org/map.html?id=106003666">Phalacrocorax pygmeus distribution map</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zobodat.at/D/runD/D/cacheD/personen_details.php?nr=6882">Robert Ritter von Dombrowski, ornithologist</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/userfiles/file/Species/BirdsInEuropeII/BiE2004Sp3666.pdf">Situation of Pygmy Cormorant Population in Europe</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unep-aewa.org/about/introduction.htm">African-Eurasian Waterbird Agreement AEWA</a></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Suliformes" title="Template:Suliformes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Suliformes" title="Template talk:Suliformes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Suliformes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Order_(biology)" title="Order (biology)">Order</a>: <a href="/wiki/Suliformes" title="Suliformes">Suliformes</a> (Phalacrocoraciformes)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Frigatebird" title="Frigatebird">Frigatebirds</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Fregatidae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Fregata</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Frigatebird" title="Frigatebird">Fregata</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Magnificent_Frigatebird" title="Magnificent Frigatebird">Magnificent Frigatebird</a> (or Man O'War)</li>
+<li><a href="/wiki/Ascension_Frigatebird" title="Ascension Frigatebird">Ascension Frigatebird</a></li>
+<li><a href="/wiki/Christmas_Frigatebird" title="Christmas Frigatebird">Christmas Island Frigatebird</a></li>
+<li><a href="/wiki/Great_Frigatebird" title="Great Frigatebird">Great Frigatebird</a></li>
+<li><a href="/wiki/Lesser_Frigatebird" title="Lesser Frigatebird">Lesser Frigatebird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Sulidae" title="Sulidae">Gannets and boobies</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Sulidae)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Booby" title="Booby">Sula</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue-footed_Booby" title="Blue-footed Booby">Blue-footed Booby</a></li>
+<li><a href="/wiki/Peruvian_Booby" title="Peruvian Booby">Peruvian Booby</a></li>
+<li><a href="/wiki/Masked_Booby" title="Masked Booby">Masked Booby</a></li>
+<li><a href="/wiki/Nazca_Booby" title="Nazca Booby">Nazca Booby</a></li>
+<li><a href="/wiki/Red-footed_Booby" title="Red-footed Booby">Red-footed Booby</a></li>
+<li><a href="/wiki/Brown_Booby" title="Brown Booby">Brown Booby</a></li>
+<li><a href="/wiki/Tasman_Booby" title="Tasman Booby">Tasman Booby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Papasula</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abbott%27s_Booby" title="Abbott's Booby">Abbott's Booby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Gannet" title="Gannet">Morus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Northern_Gannet" title="Northern Gannet">Northern Gannet</a></li>
+<li><a href="/wiki/Cape_Gannet" title="Cape Gannet">Cape Gannet</a></li>
+<li><a href="/wiki/Australasian_Gannet" title="Australasian Gannet">Australasian Gannet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Darter" title="Darter">Darters</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Anhingidae · <a href="/wiki/Genus" title="Genus">genus</a> <i>Anhinga</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Darter" title="Darter">Anhinga</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anhinga" title="Anhinga">Anhinga</a></li>
+<li><a href="/wiki/Oriental_Darter" title="Oriental Darter">Oriental Darter</a></li>
+<li><a href="/wiki/African_Darter" title="African Darter">African Darter</a></li>
+<li><a href="/wiki/Australasian_Darter" title="Australasian Darter">Australasian Darter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Cormorant" title="Cormorant">Cormorants</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Phalacrocoracidae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Phalacrocorax</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Cormorant" title="Cormorant">Phalacrocorax</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Double-crested_Cormorant" title="Double-crested Cormorant">Double-crested Cormorant</a> (White-crested Cormorant)</li>
+<li><a href="/wiki/Neotropic_Cormorant" title="Neotropic Cormorant">Neotropic Cormorant</a> (Olivaceous Cormorant)</li>
+<li><a href="/wiki/Little_Black_Cormorant" title="Little Black Cormorant">Little Black Cormorant</a></li>
+<li><a href="/wiki/Great_Cormorant" title="Great Cormorant">Great Cormorant</a></li>
+<li><a href="/wiki/White-breasted_Cormorant" title="White-breasted Cormorant">White-breasted Cormorant</a></li>
+<li><a href="/wiki/Indian_Cormorant" title="Indian Cormorant">Indian Cormorant</a></li>
+<li><a href="/wiki/Cape_Cormorant" title="Cape Cormorant">Cape Cormorant</a></li>
+<li><a href="/wiki/Socotra_Cormorant" title="Socotra Cormorant">Socotra Cormorant</a></li>
+<li><a href="/wiki/Bank_Cormorant" title="Bank Cormorant">Bank Cormorant</a> (Wahlberg's Cormorant)</li>
+<li><a href="/wiki/Japanese_Cormorant" title="Japanese Cormorant">Japanese Cormorant</a> (Temminck's Cormorant)</li>
+<li><a href="/wiki/European_Shag" title="European Shag">European Shag</a></li>
+<li><a href="/wiki/Brandt%27s_Cormorant" title="Brandt's Cormorant">Brandt's Cormorant</a></li>
+<li><a href="/wiki/Spectacled_Cormorant" title="Spectacled Cormorant">Spectacled Cormorant</a></li>
+<li><a href="/wiki/Pelagic_Cormorant" title="Pelagic Cormorant">Pelagic Cormorant</a> (Baird's Cormorant)</li>
+<li><a href="/wiki/Red-faced_Cormorant" title="Red-faced Cormorant">Red-faced Cormorant</a></li>
+<li><a href="/wiki/Rock_Shag" title="Rock Shag">Rock Shag</a></li>
+<li><a href="/wiki/Guanay_Cormorant" title="Guanay Cormorant">Guanay Cormorant</a></li>
+<li><a href="/wiki/Australian_Pied_Cormorant" title="Australian Pied Cormorant">Pied Cormorant</a> (Yellow-faced Cormorant)</li>
+<li><a href="/wiki/Black-faced_Cormorant" title="Black-faced Cormorant">Black-faced Cormorant</a></li>
+<li><a href="/wiki/King_Shag" title="King Shag" class="mw-redirect">King Shag</a> (Rough-faced Shag)</li>
+<li><a href="/wiki/Bronze_Shag" title="Bronze Shag">Stewart Island Shag</a></li>
+<li><a href="/wiki/Chatham_Shag" title="Chatham Shag">Chatham Shag</a></li>
+<li><a href="/wiki/Auckland_Shag" title="Auckland Shag">Auckland Shag</a></li>
+<li><a href="/wiki/Campbell_Shag" title="Campbell Shag">Campbell Shag</a></li>
+<li><a href="/wiki/Bounty_Shag" title="Bounty Shag">Bounty Shag</a></li>
+<li><a href="/wiki/Imperial_Shag" title="Imperial Shag">Imperial Shag</a> (Blue-eyed Shag)</li>
+<li><a href="/wiki/Heard_Shag" title="Heard Shag" class="mw-redirect">Heard Shag</a></li>
+<li><a href="/wiki/Kerguelen_Shag" title="Kerguelen Shag">Kerguelen Shag</a></li>
+<li><a href="/wiki/Macquarie_Shag" title="Macquarie Shag">Macquarie Shag</a></li>
+<li><a href="/wiki/South_Georgia_Shag" title="South Georgia Shag">South Georgia Shag</a></li>
+<li><a href="/wiki/Red-legged_Cormorant" title="Red-legged Cormorant">Red-legged Cormorant</a></li>
+<li><a href="/wiki/Spotted_Shag" title="Spotted Shag">Spotted Shag</a></li>
+<li><a href="/wiki/Pitt_Shag" title="Pitt Shag">Pitt Shag</a> (Featherstone's Shag)</li>
+<li><a href="/wiki/Little_Pied_Cormorant" title="Little Pied Cormorant">Little Pied Cormorant</a></li>
+<li><a href="/wiki/Reed_Cormorant" title="Reed Cormorant">Long-tailed Cormorant</a></li>
+<li><a href="/wiki/Crowned_Cormorant" title="Crowned Cormorant">Crowned Cormorant</a></li>
+<li><a href="/wiki/Little_Cormorant" title="Little Cormorant">Little Cormorant</a></li>
+<li><strong class="selflink">Pygmy Cormorant</strong></li>
+<li><a href="/wiki/Flightless_Cormorant" title="Flightless Cormorant">Flightless Cormorant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 7217/1000000
+Preprocessor generated node count: 53464/1500000
+Post-expand include size: 114317/2048000 bytes
+Template argument size: 57282/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:792228-0!*!0!!en!4!* and timestamp 20121022212357 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Pygmy_Cormorant&amp;oldid=518997512">http://en.wikipedia.org/w/index.php?title=Pygmy_Cormorant&amp;oldid=518997512</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Kazakhstan" title="Category:Birds of Kazakhstan">Birds of Kazakhstan</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Microcarbo" title="Category:Microcarbo">Microcarbo</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2009" title="Category:Articles needing additional references from December 2009">Articles needing additional references from December 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pygmy+Cormorant&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pygmy+Cormorant" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pygmy_Cormorant"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Pygmy_Cormorant"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Pygmy_Cormorant" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Pygmy_Cormorant&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pygmy_Cormorant&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pygmy_Cormorant" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pygmy_Cormorant" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Pygmy_Cormorant&amp;oldid=518997512" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Pygmy_Cormorant&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Pygmy_Cormorant&amp;id=518997512" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pygmy+Cormorant" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pygmy+Cormorant&amp;oldid=518997512&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pygmy_Cormorant&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%BA%D8%A7%D9%82_%D9%82%D8%B2%D9%85" title="غاق قزم" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD_%D0%BC%D0%B0%D0%BB%D1%8B" title="Баклан малы" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8A%D0%BA_%D0%BA%D0%BE%D1%80%D0%BC%D0%BE%D1%80%D0%B0%D0%BD" title="Малък корморан" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Morvran_gorr" title="Morvran gorr" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Corb_mar%C3%AD_pigmeu" title="Corb marí pigmeu" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kormor%C3%A1n_mal%C3%BD" title="Kormorán malý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Zwergscharbe" title="Zwergscharbe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Phalacrocorax_pygmeus" title="Phalacrocorax pygmeus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Pigmea_kormorano" title="Pigmea kormorano" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Microcarbo_pygmeus" title="Microcarbo pygmeus" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Cormoran_pygm%C3%A9e" title="Cormoran pygmée" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Microcarbo_pygmeus" title="Microcarbo pygmeus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A8%D7%9E%D7%95%D7%A8%D7%9F_%D7%92%D7%9E%D7%93%D7%99" title="קורמורן גמדי" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Ma%C5%BEasis_kormoranas" title="Mažasis kormoranas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kis_k%C3%A1r%C3%B3katona" title="Kis kárókatona" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB_%D0%BA%D0%BE%D1%80%D0%BC%D0%BE%D1%80%D0%B0%D0%BD" title="Мал корморан" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Dwergaalscholver" title="Dwergaalscholver" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Dvergskarv" title="Dvergskarv" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Phalacrocorax_pygmaeus" title="Phalacrocorax pygmaeus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kormoran_ma%C5%82y" title="Kormoran mały" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Cormoran_mic" title="Cormoran mic" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD_%D0%BA%D0%B0%D1%80%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9" title="Баклан карликовый" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%B1%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD" title="Малый баклан" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Pygmy_Cormorant" title="Pygmy Cormorant" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Pritlikavi_kormoran" title="Pritlikavi kormoran" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pikkumerimetso" title="Pikkumerimetso" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Dv%C3%A4rgskarv" title="Dvärgskarv" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_karabatak" title="Küçük karabatak" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9" title="Баклан малий" lang="uk" hreflang="uk">Українська</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 October 2012 at 10:11.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Pygmy_Cormorant&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw28 in 0.140 secs. -->
+	</body>
+</html>

@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Masked Booby - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Masked_Booby","wgTitle":"Masked Booby","wgCurRevisionId":512230084,"wgArticleId":2713320,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected pages","IUCN Red List least concern species","Articles with \'species\' microformats","Boobies","Sula","Birds of Kenya","Birds of Pakistan","Birds of Puerto Rico","Birds of Western Australia","Birds of New Zealand","Birds of Palau","Birds of Socotra","Birds of the Cook Islands","Fauna of Ascension Island","Animals described in 1831"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Masked_Booby","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"58cf8dc4ac4f99b186a4b50c4da5e7af","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":2713320,"title":"Masked Booby","namespace":0,"categories":["Animals described in 1831","Articles with \'species\' microformats","Birds of Kenya","Birds of New Zealand","Birds of Pakistan","Birds of Palau","Birds of Puerto Rico","Birds of Socotra","Birds of Western Australia","Birds of the Cook Islands","Boobies","Fauna of Ascension Island","IUCN Red List least concern species","Sula","Wikipedia semi-protected pages"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Masked_Booby skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Masked Booby</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" /></a></div>
+<dl>
+<dd>"Parasula" <i>redirects here. The <a href="/wiki/Fossil" title="Fossil">fossil</a> genus established by <a href="/wiki/Colin_James_Oliver_Harrison" title="Colin James Oliver Harrison" class="mw-redirect">C.J.O. Harrison</a> is properly called</i> <a href="/w/index.php?title=Empheresula&amp;action=edit&amp;redlink=1" class="new" title="Empheresula (page does not exist)">Empheresula</a>.</dd>
+</dl>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Masked Booby</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Masked_booby_with_chick.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Masked_booby_with_chick.JPG/220px-Masked_booby_with_chick.JPG" width="220" height="289" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Austropacific Masked Booby (<i>S. d. personata</i>) with chick (background)</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Suliformes" title="Suliformes">Suliformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Sulidae" title="Sulidae">Sulidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Sula_(genus)" title="Sula (genus)" class="mw-redirect">Sula</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>S. dactylatra</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Sula dactylatra</i></span></b><br />
+<small>(<a href="/wiki/Ren%C3%A9-Primev%C3%A8re_Lesson" title="René-Primevère Lesson" class="mw-redirect">Lesson</a>, 1831)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p>see text</p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Masked Booby</b> (<i>Sula dactylatra</i>) is a large <a href="/wiki/Seabird" title="Seabird">seabird</a> of the <a href="/wiki/Booby" title="Booby">booby</a> family, <a href="/wiki/Sulidae" title="Sulidae">Sulidae</a>. This species breeds on islands in tropical oceans, except in the eastern <a href="/wiki/Atlantic" title="Atlantic" class="mw-redirect">Atlantic</a>; in the eastern Pacific it is replaced by the <a href="/wiki/Nazca_Booby" title="Nazca Booby">Nazca Booby</a>, <i>Sula granti</i>, which was formerly regarded as a <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> of Masked Booby.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> It is also called the <b>Masked Gannet</b> or the <b>Blue-faced Booby</b>.</p>
+<p>A conspicuous and distinct <a href="/wiki/Gannet" title="Gannet">gannet</a>-like species, it was proposed for separation to a <a href="/wiki/Monotypic" title="Monotypic" class="mw-redirect">monotypic</a> <a href="/wiki/Subgenus" title="Subgenus">subgenus</a> <i><b>Pseudosula</b></i>, but the <a href="/wiki/Nazca_Booby" title="Nazca Booby">Nazca Booby</a> and as it seems also the <a href="/wiki/Brown_Booby" title="Brown Booby">Brown Booby</a> (<i>S. leucogaster</i>) are quite close relatives.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Classification"><span class="tocnumber">1</span> <span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Breeding"><span class="tocnumber">3.1</span> <span class="toctext">Breeding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2> <span class="mw-headline" id="Classification">Classification</span></h2>
+<p>First described by French naturalist <a href="/wiki/Ren%C3%A9-Primev%C3%A8re_Lesson" title="René-Primevère Lesson" class="mw-redirect">René-Primevère Lesson</a> in 1831, the Masked Booby is one of six species of booby in the genus <i><a href="/wiki/Sula_(genus)" title="Sula (genus)" class="mw-redirect">Sula</a></i>. The <a href="/wiki/Nazca_Booby" title="Nazca Booby">Nazca Booby</a> (<i>S. granti</i>) was formerly regarded as a <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>. There are four <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>, none of which is separable at sea:</p>
+<ul>
+<li><i>S. d. personata</i> <small>van Tets, Meredith, Fullagar &amp; Davidson, 1988</small>: <b>Austropacific Masked Booby</b></li>
+</ul>
+<dl>
+<dd>Breeds in the central and western <a href="/wiki/Pacific" title="Pacific" class="mw-redirect">Pacific</a> and around <a href="/wiki/Australia" title="Australia">Australia</a>, as well as off <a href="/wiki/Mexico" title="Mexico">Mexico</a> and on <a href="/wiki/Clipperton_Island" title="Clipperton Island">Clipperton Island</a>. Birds of the latter two locations have been separated as subspecies <i>granti</i>, and the NW Australian population has been named as subspecies <i>bedouti</i>, but neither is usually considered valid.</dd>
+</dl>
+<ul>
+<li><i>S. d. dactylatra</i> <small>van Tets, Meredith, Fullagar &amp; Davidson, 1988</small>: <b>Atlantic Masked Booby</b></li>
+</ul>
+<dl>
+<dd>Breeds in the <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a> and some Atlantic islands including <a href="/wiki/Ascension_Island" title="Ascension Island">Ascension Island</a>. It has recently started breeding off <a href="/wiki/Tobago" title="Tobago">Tobago</a>, formerly being known in this area only from a single sight record from an <a href="/wiki/Oil_platform" title="Oil platform">oil rig</a> off <a href="/wiki/Trinidad" title="Trinidad">Trinidad</a>.</dd>
+</dl>
+<ul>
+<li><i>S. d. melanops</i> <small>van Tets, Meredith, Fullagar &amp; Davidson, 1988</small>: <b>Western Indian Ocean Masked Booby</b></li>
+</ul>
+<dl>
+<dd>Breeds in the western <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a>.</dd>
+</dl>
+<ul>
+<li><i>S. d. tasmani</i> (including <i>S. d. fullagari</i>) <small>van Tets, Meredith, Fullagar &amp; Davidson, 1988</small>: <b><a href="/wiki/Tasman_Booby" title="Tasman Booby">Tasman Booby</a></b> or Lord Howe Masked Booby</li>
+</ul>
+<dl>
+<dd>The form breeding on <a href="/wiki/Lord_Howe_Island" title="Lord Howe Island">Lord Howe</a> and the <a href="/wiki/Kermadec_Islands" title="Kermadec Islands">Kermadec Islands</a>. Large prehistoric specimens known from the former and <a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a> are sometimes considered a distinct "species" (properly: subspecies). If this is correct, the extant population's name would be <i>S. d. tasmani</i> as <i>S. d. fullagari</i> was described after <i>S. tasmani</i>. Comparison of <a href="/wiki/Ancient_DNA" title="Ancient DNA">ancient DNA</a> form <i>tasmani</i> specimens and living <i>fullagari</i> indicates that they are not distinct.</dd>
+</dl>
+<h2> <span class="mw-headline" id="Description">Description</span></h2>
+<p>This is the largest <a href="/wiki/Booby" title="Booby">booby</a>, at 74–91 cm (29–36 in) long, with a 137–165 cm (54–65 in) wingspan and 1.2–2.35 kg (2.6–5.2 lb) weight.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> Adults are white with pointed black wings, a pointed black tail, and a dark grey facemask. The sexes are similar, but the male has a yellow bill, and the female's is greenish yellow; during the breeding season they have a patch of bare, bluish skin at the base of the bill. Juveniles are brownish on the head and upperparts, with a whitish rump and neck collar. The underparts are white. Adult plumage is acquired over two years.</p>
+<p>The Masked Booby is silent at sea, but has a reedy whistling greeting call at the nesting colonies. While on the breeding grounds, these birds display a wide range of hissing and quacking notes.</p>
+<h2> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<p>Masked Boobies are spectacular divers, plunging diagonally into the ocean at high speed. They mainly eat small <a href="/wiki/Fish" title="Fish">fish</a>, including <a href="/wiki/Flying_fish" title="Flying fish">flying fish</a>. This is a fairly sedentary bird, <a href="/wiki/Bird_migration" title="Bird migration">wintering</a> at sea, but rarely seen far away from the breeding colonies. However, Caribbean birds occasionally wander north to warm southern <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a> waters off the eastern seaboard of the <a href="/wiki/United_States" title="United States">United States</a>. More remarkably, there have been three Western <a href="/wiki/Palaearctic" title="Palaearctic" class="mw-redirect">Palaearctic</a> records of Masked Booby, presumably <i>dactylatra</i>, all from <a href="/wiki/Spain" title="Spain">Spanish</a> waters, although one of these also entered <a href="/wiki/France" title="France">French</a> territorial areas.</p>
+<h3> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<p>The Masked Booby nests in small colonies, laying two chalky white eggs on sandy beaches in shallow depressions, which are incubated by both adults for 45 days. In most cases, the first chick will kill its smaller, weaker sibling after it hatches.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Siblicide" title="Siblicide">Siblicide</a> has been well studied in this species; researchers such as David Anderson have demonstrated that while the boobies can manage to feed two chicks if siblicide is prevented, they do so at a steep penalty to health and future reproductive success.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<h2> <span class="mw-headline" id="References">References</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Sula_dactylatra" class="extiw" title="commons:Sula dactylatra">Sula dactylatra</a></b></i></td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/160032652">"<i>Sula dactylatra</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/160032652">http://www.iucnredlist.org/apps/redlist/details/160032652</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Sula+dactylatra%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F160032652&amp;rfr_id=info:sid/en.wikipedia.org:Masked_Booby"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Pitman, R. L.; Jehl, J. R. (1998): Geographic variation and reassessment of species limits in the "Masked" Boobies of the eastern Pacific Ocean. <i><a href="/wiki/Wilson_Bulletin" title="Wilson Bulletin" class="mw-redirect">Wilson Bulletin</a></i> <b>110</b>(2): 155-70</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Friesen, V. L.; Anderson, D. J.; Steeves, T. E.; Jones, H. &amp; Schreiber, E. A. (2002): Molecular Support for Species Status of the Nazca Booby (<i>Sula granti</i>). <i><a href="/wiki/Auk_(journal)" title="Auk (journal)" class="mw-redirect">Auk</a></i> <b>119</b>(3): 820–26. [English with Spanish abstract] <a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier" class="mw-redirect">DOI</a>: 10.1642/0004-8038(2002)119[0820:MSFSSO]2.0.CO;2 <a rel="nofollow" class="external text" href="http://www.nmnh.si.edu/vert/birds/pdf/eas1.pdf">PDF fulltext</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.allaboutbirds.org/guide/Masked_booby/lifehistory">[1]</a> (2011).</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Mack, Alison. 1997. "Natural born killers." Earth 6, no. 3: 12. General Science Collection, EBSCOhost (accessed May 4, 2007).</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Anderson, David J. 1990. "Evaluation of Obligate Suicide in Boobies. 1. A Test of the Insurance-Egg Hypothesis." The American Naturalist 135, vol. 3: 334-350</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Anderson, David J. 1990. "Evolution of Obligate Siblicide in Boobies. 2: Food Limitation and Parent-Offspring Conflict" Evolution 44 no. 8: 2069-2082</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Alda, Alan (Host). (1999). Voyage to the Galapagos [Television series episode]. Scientific American Frontiers. Arlington, Virginia: Public Broadcasting Service. (transcript here: <a rel="nofollow" class="external free" href="http://www.pbs.org/saf/transcripts/transcript1001.htm">http://www.pbs.org/saf/transcripts/transcript1001.htm</a>)</span></li>
+</ol>
+</div>
+<ul>
+<li>Bull, John L.; Farrand, John Jr.; Rayfield, Susan &amp; <a href="/wiki/National_Audubon_Society" title="National Audubon Society">National Audubon Society</a> (1977): <i>The Audubon Society field guide to North American birds, Eastern Region</i>. Alfred A. Knopf, New York. <small><a href="/wiki/Special:BookSources/0394414055" class="internal mw-magiclink-isbn">ISBN 0-394-41405-5</a></small></li>
+</ul>
+<ul>
+<li><span class="citation book">ffrench, Richard (1991). <i>A Guide to the Birds of Trinidad and Tobago</i> (2nd edition ed.). Comstock Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8014-9792-2" title="Special:BookSources/0-8014-9792-2">0-8014-9792-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Guide+to+the+Birds+of+Trinidad+and+Tobago&amp;rft.aulast=ffrench&amp;rft.aufirst=Richard&amp;rft.au=ffrench%2C%26%2332%3BRichard&amp;rft.date=1991&amp;rft.edition=2nd+edition&amp;rft.pub=Comstock+Publishing&amp;rft.isbn=0-8014-9792-2&amp;rfr_id=info:sid/en.wikipedia.org:Masked_Booby"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li>Harrison, Peter (1988): <i>Seabirds</i> (2nd ed.). <a href="/wiki/Helm_Identification_Guides" title="Helm Identification Guides">Christopher Helm</a>, London. <small><a href="/wiki/Special:BookSources/0747014108" class="internal mw-magiclink-isbn">ISBN 0-7470-1410-8</a></small></li>
+</ul>
+<ul>
+<li>Hilty, Steven L. (2003): <i>Birds of Venezuela</i>. <a href="/wiki/Helm_Identification_Guides" title="Helm Identification Guides">Christopher Helm</a>, London. <small><a href="/wiki/Special:BookSources/0713664185" class="internal mw-magiclink-isbn">ISBN 0-7136-6418-5</a></small></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Suliformes" title="Template:Suliformes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Suliformes" title="Template talk:Suliformes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Suliformes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Order_(biology)" title="Order (biology)">Order</a>: <a href="/wiki/Suliformes" title="Suliformes">Suliformes</a> (Phalacrocoraciformes)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Frigatebird" title="Frigatebird">Frigatebirds</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Fregatidae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Fregata</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Frigatebird" title="Frigatebird">Fregata</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Magnificent_Frigatebird" title="Magnificent Frigatebird">Magnificent Frigatebird</a> (or Man O'War)</li>
+<li><a href="/wiki/Ascension_Frigatebird" title="Ascension Frigatebird">Ascension Frigatebird</a></li>
+<li><a href="/wiki/Christmas_Frigatebird" title="Christmas Frigatebird">Christmas Island Frigatebird</a></li>
+<li><a href="/wiki/Great_Frigatebird" title="Great Frigatebird">Great Frigatebird</a></li>
+<li><a href="/wiki/Lesser_Frigatebird" title="Lesser Frigatebird">Lesser Frigatebird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Sulidae" title="Sulidae">Gannets and boobies</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Sulidae)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Booby" title="Booby">Sula</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue-footed_Booby" title="Blue-footed Booby">Blue-footed Booby</a></li>
+<li><a href="/wiki/Peruvian_Booby" title="Peruvian Booby">Peruvian Booby</a></li>
+<li><strong class="selflink">Masked Booby</strong></li>
+<li><a href="/wiki/Nazca_Booby" title="Nazca Booby">Nazca Booby</a></li>
+<li><a href="/wiki/Red-footed_Booby" title="Red-footed Booby">Red-footed Booby</a></li>
+<li><a href="/wiki/Brown_Booby" title="Brown Booby">Brown Booby</a></li>
+<li><a href="/wiki/Tasman_Booby" title="Tasman Booby">Tasman Booby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Papasula</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abbott%27s_Booby" title="Abbott's Booby">Abbott's Booby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Gannet" title="Gannet">Morus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Northern_Gannet" title="Northern Gannet">Northern Gannet</a></li>
+<li><a href="/wiki/Cape_Gannet" title="Cape Gannet">Cape Gannet</a></li>
+<li><a href="/wiki/Australasian_Gannet" title="Australasian Gannet">Australasian Gannet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Darter" title="Darter">Darters</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Anhingidae · <a href="/wiki/Genus" title="Genus">genus</a> <i>Anhinga</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Darter" title="Darter">Anhinga</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anhinga" title="Anhinga">Anhinga</a></li>
+<li><a href="/wiki/Oriental_Darter" title="Oriental Darter">Oriental Darter</a></li>
+<li><a href="/wiki/African_Darter" title="African Darter">African Darter</a></li>
+<li><a href="/wiki/Australasian_Darter" title="Australasian Darter">Australasian Darter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Cormorant" title="Cormorant">Cormorants</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Phalacrocoracidae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Phalacrocorax</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Cormorant" title="Cormorant">Phalacrocorax</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Double-crested_Cormorant" title="Double-crested Cormorant">Double-crested Cormorant</a> (White-crested Cormorant)</li>
+<li><a href="/wiki/Neotropic_Cormorant" title="Neotropic Cormorant">Neotropic Cormorant</a> (Olivaceous Cormorant)</li>
+<li><a href="/wiki/Little_Black_Cormorant" title="Little Black Cormorant">Little Black Cormorant</a></li>
+<li><a href="/wiki/Great_Cormorant" title="Great Cormorant">Great Cormorant</a></li>
+<li><a href="/wiki/White-breasted_Cormorant" title="White-breasted Cormorant">White-breasted Cormorant</a></li>
+<li><a href="/wiki/Indian_Cormorant" title="Indian Cormorant">Indian Cormorant</a></li>
+<li><a href="/wiki/Cape_Cormorant" title="Cape Cormorant">Cape Cormorant</a></li>
+<li><a href="/wiki/Socotra_Cormorant" title="Socotra Cormorant">Socotra Cormorant</a></li>
+<li><a href="/wiki/Bank_Cormorant" title="Bank Cormorant">Bank Cormorant</a> (Wahlberg's Cormorant)</li>
+<li><a href="/wiki/Japanese_Cormorant" title="Japanese Cormorant">Japanese Cormorant</a> (Temminck's Cormorant)</li>
+<li><a href="/wiki/European_Shag" title="European Shag">European Shag</a></li>
+<li><a href="/wiki/Brandt%27s_Cormorant" title="Brandt's Cormorant">Brandt's Cormorant</a></li>
+<li><a href="/wiki/Spectacled_Cormorant" title="Spectacled Cormorant">Spectacled Cormorant</a></li>
+<li><a href="/wiki/Pelagic_Cormorant" title="Pelagic Cormorant">Pelagic Cormorant</a> (Baird's Cormorant)</li>
+<li><a href="/wiki/Red-faced_Cormorant" title="Red-faced Cormorant">Red-faced Cormorant</a></li>
+<li><a href="/wiki/Rock_Shag" title="Rock Shag">Rock Shag</a></li>
+<li><a href="/wiki/Guanay_Cormorant" title="Guanay Cormorant">Guanay Cormorant</a></li>
+<li><a href="/wiki/Australian_Pied_Cormorant" title="Australian Pied Cormorant">Pied Cormorant</a> (Yellow-faced Cormorant)</li>
+<li><a href="/wiki/Black-faced_Cormorant" title="Black-faced Cormorant">Black-faced Cormorant</a></li>
+<li><a href="/wiki/King_Shag" title="King Shag" class="mw-redirect">King Shag</a> (Rough-faced Shag)</li>
+<li><a href="/wiki/Bronze_Shag" title="Bronze Shag">Stewart Island Shag</a></li>
+<li><a href="/wiki/Chatham_Shag" title="Chatham Shag">Chatham Shag</a></li>
+<li><a href="/wiki/Auckland_Shag" title="Auckland Shag">Auckland Shag</a></li>
+<li><a href="/wiki/Campbell_Shag" title="Campbell Shag">Campbell Shag</a></li>
+<li><a href="/wiki/Bounty_Shag" title="Bounty Shag">Bounty Shag</a></li>
+<li><a href="/wiki/Imperial_Shag" title="Imperial Shag">Imperial Shag</a> (Blue-eyed Shag)</li>
+<li><a href="/wiki/Heard_Shag" title="Heard Shag" class="mw-redirect">Heard Shag</a></li>
+<li><a href="/wiki/Kerguelen_Shag" title="Kerguelen Shag">Kerguelen Shag</a></li>
+<li><a href="/wiki/Macquarie_Shag" title="Macquarie Shag">Macquarie Shag</a></li>
+<li><a href="/wiki/South_Georgia_Shag" title="South Georgia Shag">South Georgia Shag</a></li>
+<li><a href="/wiki/Red-legged_Cormorant" title="Red-legged Cormorant">Red-legged Cormorant</a></li>
+<li><a href="/wiki/Spotted_Shag" title="Spotted Shag">Spotted Shag</a></li>
+<li><a href="/wiki/Pitt_Shag" title="Pitt Shag">Pitt Shag</a> (Featherstone's Shag)</li>
+<li><a href="/wiki/Little_Pied_Cormorant" title="Little Pied Cormorant">Little Pied Cormorant</a></li>
+<li><a href="/wiki/Reed_Cormorant" title="Reed Cormorant">Long-tailed Cormorant</a></li>
+<li><a href="/wiki/Crowned_Cormorant" title="Crowned Cormorant">Crowned Cormorant</a></li>
+<li><a href="/wiki/Little_Cormorant" title="Little Cormorant">Little Cormorant</a></li>
+<li><a href="/wiki/Pygmy_Cormorant" title="Pygmy Cormorant">Pygmy Cormorant</a></li>
+<li><a href="/wiki/Flightless_Cormorant" title="Flightless Cormorant">Flightless Cormorant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 9440/1000000
+Preprocessor generated node count: 61026/1500000
+Post-expand include size: 119813/2048000 bytes
+Template argument size: 61973/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2713320-0!*!0!!en!4!* and timestamp 20121022133217 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Masked_Booby&amp;oldid=512230084">http://en.wikipedia.org/w/index.php?title=Masked_Booby&amp;oldid=512230084</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Boobies" title="Category:Boobies">Boobies</a></li><li><a href="/wiki/Category:Sula" title="Category:Sula">Sula</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Puerto_Rico" title="Category:Birds of Puerto Rico">Birds of Puerto Rico</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:Birds_of_New_Zealand" title="Category:Birds of New Zealand">Birds of New Zealand</a></li><li><a href="/wiki/Category:Birds_of_Palau" title="Category:Birds of Palau">Birds of Palau</a></li><li><a href="/wiki/Category:Birds_of_Socotra" title="Category:Birds of Socotra">Birds of Socotra</a></li><li><a href="/wiki/Category:Birds_of_the_Cook_Islands" title="Category:Birds of the Cook Islands">Birds of the Cook Islands</a></li><li><a href="/wiki/Category:Fauna_of_Ascension_Island" title="Category:Fauna of Ascension Island">Fauna of Ascension Island</a></li><li><a href="/wiki/Category:Animals_described_in_1831" title="Category:Animals described in 1831">Animals described in 1831</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_pages" title="Category:Wikipedia semi-protected pages">Wikipedia semi-protected pages</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Masked+Booby&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Masked+Booby" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Masked_Booby"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Masked_Booby"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Masked_Booby" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Masked_Booby&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Masked_Booby&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Masked_Booby" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Masked_Booby" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Masked_Booby&amp;oldid=512230084" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Masked_Booby&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Masked_Booby&amp;id=512230084" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Masked+Booby" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Masked+Booby&amp;oldid=512230084&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Masked_Booby&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Morskoul_masklet" title="Morskoul masklet" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Mascarell_emmascarat" title="Mascarell emmascarat" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Maskent%C3%B6lpel" title="Maskentölpel" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Sula_dactylatra" title="Sula dactylatra" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Maskita_naivulo" title="Maskita naivulo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Sula_dactylatra" title="Sula dactylatra" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Fou_masqu%C3%A9" title="Fou masqué" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Sula_dactylatra" title="Sula dactylatra" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/%C3%81larcos_szula" title="Álarcos szula" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Dendang_Muka_Hitam" title="Burung Dendang Muka Hitam" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%83%84%E3%83%A9%E3%82%AB%E3%83%84%E3%82%AA%E3%83%89%E3%83%AA" title="アオツラカツオドリ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Maskesule" title="Maskesule" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%85%D8%A7%D8%B3%DA%A9%DA%88_%D8%A8%D9%88%D8%A8%DB%8C" title="ماسکڈ بوبی" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/G%C5%82uptak_maskowy" title="Głuptak maskowy" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Atob%C3%A1-grande" title="Atobá-grande" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%BB%D0%B8%D1%86%D0%B0%D1%8F_%D0%BE%D0%BB%D1%83%D1%88%D0%B0" title="Голуболицая олуша" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Masked_Booby" title="Masked Booby" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Naamiosuula" title="Naamiosuula" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Masksula" title="Masksula" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-to"><a href="//to.wikipedia.org/wiki/Ngutulei_fakap%C5%ABloa%CA%BBi" title="Ngutulei fakapūloaʻi" lang="to" hreflang="to">Lea faka-Tonga</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D0%B0_%D0%BE%D0%BB%D1%83%D1%88%D0%B0" title="Маскова олуша" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%93%9D%E8%84%B8%E9%B2%A3%E9%B8%9F" title="蓝脸鲣鸟" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 September 2012 at 19:06.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Masked_Booby&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","ext.EventLogging"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw33 in 0.133 secs. -->
+	</body>
+</html>

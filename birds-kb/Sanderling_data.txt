@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Sanderling - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sanderling&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sanderling&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sanderling","wgTitle":"Sanderling","wgCurRevisionId":515506825,"wgArticleId":286976,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Birds of Europe","Birds of Kenya","Birds of Pakistan","Birds of Puerto Rico","Birds of South Australia","Birds of Turkey","Birds of Western Australia","British Isles coastal fauna","Calidris","Erolia","Sandpipers","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sanderling","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"608e8e68826914f02fe834c748c9ca18","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":286976,"title":"Sanderling","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Europe","Birds of Kenya","Birds of Pakistan","Birds of Puerto Rico","Birds of South Australia","Birds of Turkey","Birds of Western Australia","Birds of Western Sahara","British Isles coastal fauna","Calidris","Erolia","IUCN Red List least concern species","Sandpipers"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Sanderling skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Sanderling</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Sanderling</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Calidris_alba_-_Laem_Phak_Bia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calidris_alba_-_Laem_Phak_Bia.jpg/220px-Calidris_alba_-_Laem_Phak_Bia.jpg" width="220" height="147" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Laem Phak Bia, Phetchaburi, Thailand</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Scolopacidae" title="Scolopacidae" class="mw-redirect">Scolopacidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Calidris" title="Calidris" class="mw-redirect">Calidris</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>C. alba</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Calidris alba</i></span></b><br />
+<small><a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1764</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Arcticsanderling.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arcticsanderling.jpg/220px-Arcticsanderling.jpg" width="220" height="202" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Sanderling breeding range. Black border marks southern limit.</td>
+</tr>
+</table>
+</div>
+<p>The <b>Sanderling</b> (<i>Calidris alba</i>, syn. <i>Crocethia alba</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> or <i>Erolia alba</i>) is a small <a href="/wiki/Wader" title="Wader">wader</a>. It is a circumpolar <a href="/wiki/Arctic" title="Arctic">Arctic</a> breeder, and is a long-distance <a href="/wiki/Bird_migration" title="Bird migration">migrant</a>, wintering south to <a href="/wiki/South_America" title="South America">South America</a>, South <a href="/wiki/Europe" title="Europe">Europe</a>, <a href="/wiki/Africa" title="Africa">Africa</a>, and <a href="/wiki/Australia" title="Australia">Australia</a>. It is highly gregarious in winter, sometimes forming large flocks on coastal mudflats or sandy beaches.</p>
+<p>It is somewhat unlike other sandpipers in appearance, which has led to the suggestion that it should be placed into a <a href="/wiki/Monotypic" title="Monotypic" class="mw-redirect">monotypic</a> genus <i>Crocethia</i>. A more recent review (Thomas <i>et al.</i>, 2004) indicates, however, that the sanderling is a fairly typical "<a href="/wiki/Stint" title="Stint">stint</a>" or small sandpiper and should be separated from the large knots with its closest relatives in a distinct genus.</p>
+<p>This bird is similar in size to a <a href="/wiki/Dunlin" title="Dunlin">Dunlin</a>, but stouter, with a thick bill. It shows a strong white wingbar in flight, and runs along the sandy beaches it prefers with a characteristic "bicycling" action, stopping frequently to pick small food items. It eats small <a href="/wiki/Crab" title="Crab">crabs</a> and other small <a href="/wiki/Invertebrate" title="Invertebrate">invertebrates</a>. In spring, birds migrating north from South America consume large numbers of <a href="/wiki/Horseshoe_crab" title="Horseshoe crab">horseshoe crab</a> eggs in the <a href="/wiki/Delaware_Bay" title="Delaware Bay">Delaware Bay</a> area.</p>
+<p>In spring, the birds arrive on the High Arctic breeding grounds (see map), where they lay 3–4 eggs in a ground scrape. On the nesting grounds, these birds mainly eat <a href="/wiki/Insect" title="Insect">insects</a> and some plant material.</p>
+<p>The Sanderling is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution.2C_habitat_and_migration"><span class="tocnumber">2</span> <span class="toctext">Distribution, habitat and migration</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Feeding_behaviour"><span class="tocnumber">3.1</span> <span class="toctext">Feeding behaviour</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Breeding_behaviour"><span class="tocnumber">3.2</span> <span class="toctext">Breeding behaviour</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Footnotes"><span class="tocnumber">5</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Sanderling&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Sanderling is a small plump sandpiper, 18–20&#160;cm in length. Its weight ranges from 40-100&#160;<a href="/wiki/Gram" title="Gram">g</a>. The winter <a href="/wiki/Bird" title="Bird">bird</a> is very pale, almost white apart from a dark shoulder patch. This is the source of the specific name, <i>alba</i>, which is the Latin for "white". Later in the summer, the face and throat become brick-red. The juvenile bird is spangled black and white, and shows much more contrast than the adult. Sanderling behavior is distinctive, but visually, if the size is misjudged, a breeding plumage sanderling can be mistaken for some varieties of <a href="/wiki/Stint" title="Stint">stint</a>, or a winter plumage sanderling can be mistaken for a <a href="/wiki/Dunlin" title="Dunlin">Dunlin</a> or <a href="/wiki/Red_Knot" title="Red Knot">Red Knot</a>. It can be told from other small wading birds, given good views, by its lack of a hind toe.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Sanderling&amp;action=edit&amp;section=2" title="Edit section: Distribution, habitat and migration">edit</a>]</span> <span class="mw-headline" id="Distribution.2C_habitat_and_migration">Distribution, habitat and migration</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Calidris_alba_at_Ocean_Beach,_San_Francisco,_California_-_20101116.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Calidris_alba_at_Ocean_Beach%2C_San_Francisco%2C_California_-_20101116.jpg/300px-Calidris_alba_at_Ocean_Beach%2C_San_Francisco%2C_California_-_20101116.jpg" width="300" height="118" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Calidris_alba_at_Ocean_Beach,_San_Francisco,_California_-_20101116.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Sanderlings at Ocean Beach, San Francisco</div>
+</div>
+</div>
+<p>The Sanderling breeds in the High Arctic areas of <a href="/wiki/North_America" title="North America">North America</a>, <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Asia" title="Asia">Asia</a>. In North America it breeds in the <a href="/wiki/Canadian_Arctic_Archipelago" title="Canadian Arctic Archipelago">Canadian Arctic Archipelago</a>, <a href="/wiki/Nunavut" title="Nunavut">Nunavut</a>, <a href="/wiki/Greenland" title="Greenland">Greenland</a> (and to a lesser extent <a href="/wiki/Alaska" title="Alaska">Alaska</a>), in Eurasia it breeds <a href="/wiki/Spitsbergen" title="Spitsbergen">Spitsbergen</a>, and areas of northern Russia from the <a href="/wiki/Taymyr_Peninsula" title="Taymyr Peninsula">Taymyr Peninsula</a> to the <a href="/wiki/New_Siberian_Islands" title="New Siberian Islands">New Siberian Islands</a>. In the northern winter it has a nearly <a href="/wiki/Cosmopolitan_distribution" title="Cosmopolitan distribution">cosmopolitan distribution</a> across the world's marine coasts. It is a complete <a href="/wiki/Bird_migration" title="Bird migration">migrant</a>, travelling between 3,000 to 10,000&#160;km from its breeding grounds to its wintering sites. Birds that travel further also arrive later and leave sooner. The majority of adults leave the breeding grounds in July and early August, whereas juvenile birds leave in late August and early September. The northward migration begins in March at the southern end of their winter distribution.<sup id="cite_ref-BNA_2-0" class="reference"><a href="#cite_note-BNA-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The breeding habitat of the Sanderling is coastal tundra north of 5&#160;°C July <a href="/wiki/Isotherm_(contour_line)" title="Isotherm (contour line)" class="mw-redirect">isotherm</a>. The species typically chooses nesting sites on dry stony areas near wet areas, from 60 m above sea level to 800 m. During the winter and its migration it is most commonly found on coastal sandy <a href="/wiki/Beach" title="Beach">beaches</a>, but also occurs on <a href="/wiki/Tide" title="Tide">tidal</a> sand flats mud flats and the shores of lakes and rivers. More infrequently it make occur on rocky shores.<sup id="cite_ref-BNA_2-1" class="reference"><a href="#cite_note-BNA-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Sanderling&amp;action=edit&amp;section=3" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Sanderling&amp;action=edit&amp;section=4" title="Edit section: Feeding behaviour">edit</a>]</span> <span class="mw-headline" id="Feeding_behaviour">Feeding behaviour</span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sanderling_Dan_Pancamo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sanderling_Dan_Pancamo.jpg/220px-Sanderling_Dan_Pancamo.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sanderling_Dan_Pancamo.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Sanderling <a href="/wiki/High_Island,_Texas" title="High Island, Texas">High Island, Texas</a></div>
+</div>
+</div>
+<p>Sanderlings feed on invertebrate <a href="/wiki/Predation" title="Predation">prey</a> buried in the sand in the upper intertidal. In North America this largely consists of the <a href="/wiki/Isopoda" title="Isopoda">isopods</a>, <i><a href="/w/index.php?title=Excirolana_linguifrons&amp;action=edit&amp;redlink=1" class="new" title="Excirolana linguifrons (page does not exist)">Excirolana linguifrons</a></i> and <i><a href="/w/index.php?title=Excirolana_kincaidii&amp;action=edit&amp;redlink=1" class="new" title="Excirolana kincaidii (page does not exist)">Excirolana kincaidii</a></i>, and the mole crab, <i><a href="/wiki/Emerita_analoga" title="Emerita analoga">Emerita analoga</a></i>. When the tide is out these <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a> live in burrows some way beneath the surface. When the tide comes in, they move into the upper layers of sand so as to be able to feed on the <a href="/wiki/Plankton" title="Plankton">plankton</a> and <a href="/wiki/Detritus" title="Detritus">detritus</a> that washes over them with each wave. They then burrow rapidly down again as the water retreats. They leave no marks on the surface so the sanderlings hunt for them by plunging their beaks into the sand at random, consuming whatever they find. Their bills can only penetrate two or three centimetres and as the water swirls around and retreats, the sand is softer and this makes it easier for the birds' beaks to penetrate further. In the spring, when much breeding activity is taking place in the <a href="/wiki/Benthos" title="Benthos">benthic</a> community, there may be as many as 4000 invertebrates per square metre, but their average size is smaller than later in the year. The birds appear to rush madly around at the edge of the surf but in reality they are maximising their chances of catching as many prey animals as possible when they are at their most vulnerable near the surface.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Sanderling&amp;action=edit&amp;section=5" title="Edit section: Breeding behaviour">edit</a>]</span> <span class="mw-headline" id="Breeding_behaviour">Breeding behaviour</span></h3>
+<p>Sanderlings are <a href="/wiki/Territory_(animal)" title="Territory (animal)">territorial</a>, with the male aggressively defending its territory. They may either form <a href="/wiki/Monogamy" title="Monogamy">monogamous pairs</a> or <a href="/wiki/Polyandrous" title="Polyandrous" class="mw-redirect">polyandrous</a> (one female and two male) pairings.<sup id="cite_ref-BNA_2-2" class="reference"><a href="#cite_note-BNA-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Sanderling&amp;action=edit&amp;section=6" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:56.5px auto;"><a href="/wiki/File:SanderlingsRunningFromWavesCropped.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SanderlingsRunningFromWavesCropped.jpg/120px-SanderlingsRunningFromWavesCropped.jpg" width="120" height="37" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A flock displaying their distinctive behavior of running with the ebb and flow of waves (while feeding). <a href="/wiki/Willapa_Bay" title="Willapa Bay">Willapa Bay</a>, near <a href="/wiki/Tokeland,_Washington" title="Tokeland, Washington">Tokeland, Washington</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Calidris_albaZZ.jpg" class="image"><img alt="Calidris albaZZ.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Calidris_albaZZ.jpg/120px-Calidris_albaZZ.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34.5px auto;"><a href="/wiki/File:OneLeggedSanderling.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/OneLeggedSanderling.jpg/120px-OneLeggedSanderling.jpg" width="120" height="81" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Resting at the <a href="/wiki/Monterey_Bay_Aquarium" title="Monterey Bay Aquarium">Monterey Bay Aquarium</a> <a href="/wiki/Aviary" title="Aviary">aviary</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Sanderling-floreana.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sanderling-floreana.jpg/120px-Sanderling-floreana.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Floreana Island, Galapagos Islands</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Sanderling_(with_tag).jpg" class="image"><img alt="Sanderling (with tag).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sanderling_%28with_tag%29.jpg/96px-Sanderling_%28with_tag%29.jpg" width="96" height="120" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Sanderlings_Im_IMG_9382.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sanderlings_Im_IMG_9382.jpg/120px-Sanderlings_Im_IMG_9382.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In <a href="/wiki/Chilika" title="Chilika" class="mw-redirect">Chilika</a>, <a href="/wiki/Orissa" title="Orissa">Orissa</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:28px auto;"><a href="/wiki/File:Sanderling700ppx.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sanderling700ppx.JPG/120px-Sanderling700ppx.JPG" width="120" height="94" /></a></div>
+</div>
+<div class="gallerytext">
+<p>At the <a href="/wiki/Monterey_Bay_Aquarium" title="Monterey Bay Aquarium">Monterey Bay Aquarium</a> <a href="/wiki/Aviary" title="Aviary">aviary</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:39.5px auto;"><a href="/wiki/File:Sanderlings,_Adak_Island,_non-breeding_plumage.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sanderlings%2C_Adak_Island%2C_non-breeding_plumage.jpg/120px-Sanderlings%2C_Adak_Island%2C_non-breeding_plumage.jpg" width="120" height="71" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Adak_Island" title="Adak Island">Adak Island</a>, non-breeding plumage</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Calidris-alba-001.jpg" class="image"><img alt="Calidris-alba-001.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Calidris-alba-001.jpg/120px-Calidris-alba-001.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext"></div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Sanderling&amp;action=edit&amp;section=7" title="Edit section: Footnotes">edit</a>]</span> <span class="mw-headline" id="Footnotes">Footnotes</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003042">"<i>Calidris alba</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003042">http://www.iucnredlist.org/apps/redlist/details/106003042</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Calidris+alba%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003042&amp;rfr_id=info:sid/en.wikipedia.org:Sanderling"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Kirwan et al. (2008) <i>The Bird of Turkey</i> spell this alternative genus <i>Crocerthia</i></span></li>
+<li id="cite_note-BNA-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BNA_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BNA_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BNA_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Macwhirter, Bruce; Peter Austin-Smith, Jr. and Donald Kroodsma (2002). <a rel="nofollow" class="external text" href="http://bna.birds.cornell.edu/bna/species/653">"Sanderling (<i>Calidris alba</i>)"</a>. <i>The Birds of North America Online</i>. Ithaca: Cornell Lab of Ornithology. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2173%2Fbna.653">10.2173/bna.653</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://bna.birds.cornell.edu/bna/species/653">http://bna.birds.cornell.edu/bna/species/653</a></span><span class="reference-accessdate">. Retrieved 29 April 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Sanderling+%28%27%27Calidris+alba%27%27%29&amp;rft.atitle=The+Birds+of+North+America+Online&amp;rft.aulast=Macwhirter&amp;rft.aufirst=Bruce&amp;rft.au=Macwhirter%2C%26%2332%3BBruce&amp;rft.date=2002&amp;rft.pub=Ithaca%3A+Cornell+Lab+of+Ornithology&amp;rft_id=info:doi/10.2173%2Fbna.653&amp;rft_id=http%3A%2F%2Fbna.birds.cornell.edu%2Fbna%2Fspecies%2F653&amp;rfr_id=info:sid/en.wikipedia.org:Sanderling"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Schultz, Stewart T. <i>The Northwest Coast: A Natural History</i>. (1990) Timber Press, Inc. Portland, Oregon. p129-130</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Sanderling&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li>Sanderling - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/281.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/sanderling-calidris-alba">Sanderling videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Sanderling.html">Sanderling Species Account</a> — Cornell Lab of Ornithology</li>
+<li><a rel="nofollow" class="external text" href="http://www.mbr-pwrc.usgs.gov/id/framlst/i2480id.html">Sanderling <i>Calidris alba</i></a> — USGS Patuxent Bird Identification InfoCenter</li>
+<li><a rel="nofollow" class="external text" href="http://www.sdakotabirds.com/species/sanderling_info.htm">Sanderling Information</a> — South Dakota Birds and Birding</li>
+</ul>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Calidris_alba" class="extiw" title="commons:Calidris alba">Sanderling</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Calidris_alba" class="extiw" title="wikispecies:Calidris alba">Calidris alba</a></b></i></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 4608/1000000
+Preprocessor generated node count: 34230/1500000
+Post-expand include size: 29773/2048000 bytes
+Template argument size: 6820/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:286976-0!*!0!!en!4!* and timestamp 20121017193502 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Sanderling&amp;oldid=515506825">http://en.wikipedia.org/w/index.php?title=Sanderling&amp;oldid=515506825</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Puerto_Rico" title="Category:Birds of Puerto Rico">Birds of Puerto Rico</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Calidris" title="Category:Calidris">Calidris</a></li><li><a href="/wiki/Category:Erolia" title="Category:Erolia">Erolia</a></li><li><a href="/wiki/Category:Sandpipers" title="Category:Sandpipers">Sandpipers</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sanderling&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sanderling" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Sanderling"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Sanderling"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Sanderling" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Sanderling&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sanderling&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sanderling" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sanderling" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Sanderling&amp;oldid=515506825" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Sanderling&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Sanderling&amp;id=515506825" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sanderling" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sanderling&amp;oldid=515506825&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sanderling&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%B1%D9%88%D8%A7%D9%86" title="مدروان" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%BF%D1%80%D1%8A%D1%81%D1%82_%D0%B1%D1%80%D0%B5%D0%B3%D0%BE%D0%B1%D0%B5%D0%B3%D0%B0%D1%87" title="Трипръст брегобегач" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Sourouc%27han_gwenn" title="Sourouc'han gwenn" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Territ_de_tres_dits" title="Territ de tres dits" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Jesp%C3%A1k_p%C3%ADse%C4%8Dn%C3%BD" title="Jespák písečný" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Pibydd_y_Tywod" title="Pibydd y Tywod" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Sanderling" title="Sanderling" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Calidris_alba" title="Calidris alba" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Sablokalidro" title="Sablokalidro" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Txirri_zuri" title="Txirri zuri" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AA%D9%84%DB%8C%D9%84%D9%87_%D8%B3%D8%A7%D9%86%D8%AF%D8%B1%D9%84%DB%8C%D9%86%DA%AF" title="تلیله ساندرلینگ" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Sandgr%C3%A6lingur" title="Sandgrælingur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/B%C3%A9casseau_sanderling" title="Bécasseau sanderling" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Luathr%C3%A1n" title="Luathrán" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Pilro_trid%C3%A1ctilo" title="Pilro tridáctilo" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Sanderla" title="Sanderla" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Calidris_alba" title="Calidris alba" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Smiltinukas" title="Smiltinukas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Feny%C3%A9rfut%C3%B3" title="Fenyérfutó" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%A4%E0%B4%BF%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%9F" title="തിരക്കാട" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Kedidi_Kapak" title="Burung Kedidi Kapak" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Drieteenstrandloper" title="Drieteenstrandloper" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A6%E3%83%93%E3%82%B7%E3%82%AE" title="ミユビシギ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Sandl%C3%B8per" title="Sandløper" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Sandl%C3%B8par" title="Sandløpar" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B3%DB%8C%D9%86%DA%88%D8%B1%D9%84%D9%86%DA%AF" title="سینڈرلنگ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Dmirousl%C3%A9te" title="Dmirousléte" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Calidris_alba" title="Calidris alba" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Piaskowiec_(ptak)" title="Piaskowiec (ptak)" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pilrito-das-praias" title="Pilrito-das-praias" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%81%D1%87%D0%B0%D0%BD%D0%BA%D0%B0_(%D0%BF%D1%82%D0%B8%D1%86%D0%B0)" title="Песчанка (птица)" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pulmussirri" title="Pulmussirri" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Sandl%C3%B6pare" title="Sandlöpare" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-to"><a href="//to.wikipedia.org/wiki/Kiu_vave" title="Kiu vave" lang="to" hreflang="to">Lea faka-Tonga</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Ak_Kumku%C5%9Fu" title="Ak Kumkuşu" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%B8%89%E8%B6%BE%E9%B9%AC" title="三趾鹬" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 19:01.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Sanderling&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv196 in 0.149 secs. -->
+	</body>
+</html>

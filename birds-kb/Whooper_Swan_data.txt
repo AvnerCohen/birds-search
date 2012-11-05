@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Whooper Swan - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Whooper_Swan&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Whooper_Swan&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Whooper_Swan","wgTitle":"Whooper Swan","wgCurRevisionId":515455002,"wgArticleId":307018,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Cygnus","Migratory birds (Eastern hemisphere)","Swans","Birds of Europe","Birds of Armenia","Birds of Azerbaijan","Birds of China","Birds of Iceland","Birds of Iran","Birds of Japan","Birds of Kazakhstan","Birds of Korea","Birds of the Faroe Islands","Birds of Turkey","Birds of Turkmenistan","Birds of Uzbekistan","British Isles coastal fauna","National symbols of Finland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Whooper_Swan","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"c06b71aa9dd0b07c0b73aba80d729a0d","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":307018,"title":"Whooper Swan","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Armenia","Birds of Azerbaijan","Birds of China","Birds of Europe","Birds of Iceland","Birds of Iran","Birds of Japan","Birds of Kazakhstan","Birds of Korea","Birds of Turkey","Birds of Turkmenistan","Birds of Uzbekistan","Birds of the Faroe Islands","British Isles coastal fauna","Cygnus","IUCN Red List least concern species","Migratory birds (Eastern hemisphere)","National symbols of Finland","Swans"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Whooper_Swan skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Whooper Swan</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Whooper Swan</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Singschwan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Singschwan.jpg/250px-Singschwan.jpg" width="250" height="262" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Anserinae" title="Anserinae">Anserinae</a></span></td>
+</tr>
+<tr>
+<td>Tribe:</td>
+<td><span class="tribe" style="white-space:nowrap;">Cygnini</span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Swan" title="Swan">Cygnus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>C. cygnus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Cygnus cygnus</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Cygnus-cygnus.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cygnus-cygnus.png/220px-Cygnus-cygnus.png" width="220" height="91" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><br />
+<span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#F6FF00; color:#F6FF00;">&#160;&#160;&#160;&#160;</span>&#160;Summer</span> <span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#1DA313; color:#1DA313;">&#160;&#160;&#160;&#160;</span>&#160;Resident</span> <span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#2300FF; color:#2300FF;">&#160;&#160;&#160;&#160;</span>&#160;Winter</span></td>
+</tr>
+</table>
+</div>
+<p>The <b>Whooper Swan</b> (pronounced <i>hooper</i>), <i>Cygnus cygnus</i>, is a large Northern Hemisphere <a href="/wiki/Swan" title="Swan">swan</a>. It is the Eurasian counterpart of the <a href="/wiki/North_America" title="North America">North American</a> <a href="/wiki/Trumpeter_Swan" title="Trumpeter Swan">Trumpeter Swan</a>. An old name for the Whooper Swan is 'Elk'; it is so called in <a href="/wiki/Francis_Willughby" title="Francis Willughby">Francis Willughby</a> and <a href="/wiki/John_Ray" title="John Ray">John Ray</a>'s <i>Ornithology</i> of 1676.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution_and_behaviour"><span class="tocnumber">2</span> <span class="toctext">Distribution and behaviour</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Influence"><span class="tocnumber">3</span> <span class="toctext">Influence</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Whooper_Swan&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Whooper Swan is similar in appearance to the <a href="/wiki/Bewick%27s_Swan" title="Bewick's Swan" class="mw-redirect">Bewick's Swan</a>. However, it is larger, at a length of 140–165 cm (55–65 in) and a wingspan of 205–275 cm (81–108 in). Weight typically is in the range of 7.4–14 kg (16–31 lb), with an average of 9.8–11.4 kg (22–25 lb) for males and 8.2–9.2 kg (18–20 lb) for females. The verified record mass was 15.5&#160;kg (34&#160;lb) for a wintering male from <a href="/wiki/Denmark" title="Denmark">Denmark</a>. It is considered to be amongst the heaviest flying birds.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-CRC_2-0" class="reference"><a href="#cite_note-CRC-2"><span>[</span>3<span>]</span></a></sup> Among standard measurements, the wing chord is 56.2–63.5 cm (22.1–25.0 in), the tarsus is 10.4–13 cm (4.1–5.1 in) and the bill is 9.2–11.6 cm (3.6–4.6 in).<sup id="cite_ref-Madge_3-0" class="reference"><a href="#cite_note-Madge-3"><span>[</span>4<span>]</span></a></sup> It has a more angular head shape and a more variable <a href="/wiki/Beak" title="Beak">bill</a> pattern that always shows more yellow than black (Bewick's Swans have more black than yellow).</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Whooper_Swan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Whooper_Swan.jpg/220px-Whooper_Swan.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Whooper_Swan.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Three Whooper Swans and one <a href="/wiki/Mute_Swan" title="Mute Swan">Mute Swan</a></div>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Whooper_Swan&amp;action=edit&amp;section=2" title="Edit section: Distribution and behaviour">edit</a>]</span> <span class="mw-headline" id="Distribution_and_behaviour">Distribution and behaviour</span></h2>
+<p>Whooper swans require large areas of water to live in, especially when they are still growing, because their body weight cannot be supported by their legs for extended periods of time. The whooper swan spends much of its time swimming, straining the water for food, or eating plants that grow on the bottom.<sup id="cite_ref-Mondadori_4-0" class="reference"><a href="#cite_note-Mondadori-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>Whooper swans have a deep honking call and, despite their size, are powerful fliers. Whooper swans can <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> many hundreds of miles to their wintering sites in northern Europe and eastern <a href="/wiki/Asia" title="Asia">Asia</a>. They breed in subarctic Eurasia, further south than Bewicks in the taiga zone. They are rare breeders in northern <a href="/wiki/Scotland" title="Scotland">Scotland</a>, particularly in <a href="/wiki/Orkney" title="Orkney">Orkney</a>, and no more than five pairs have bred there in recent years. This bird is an occasional vagrant to western <a href="/wiki/North_America" title="North America">North America</a>. <a href="/wiki/Iceland" title="Iceland">Icelandic</a> breeders overwinter in the United Kingdom and Ireland, especially in the <a href="/wiki/Wildfowl" title="Wildfowl" class="mw-redirect">wildfowl</a> <a href="/wiki/Nature_reserve" title="Nature reserve">nature reserves</a> of the <a href="/wiki/Royal_Society_for_the_Protection_of_Birds" title="Royal Society for the Protection of Birds">Royal Society for the Protection of Birds</a> and of the <a href="/wiki/Wildfowl_and_Wetlands_Trust" title="Wildfowl and Wetlands Trust" class="mw-redirect">Wildfowl and Wetlands Trust</a>.</p>
+<p>Whooper swans pair for life, and their cygnets stay with them all winter; they are sometimes joined by offspring from previous years. Their preferred breeding habitat is <a href="/wiki/Wetland" title="Wetland">wetland</a>, but semi-domesticated birds will build a nest anywhere close to water. Both the male and female help build the nest, and the male will stand guard over the nest while the female incubates. The female will usually lay 4-7 eggs (exceptionally 12). The cygnets hatch after about 36 days and have a grey or brown plumage. The cygnets can fly at an age of 120 to 150 days.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Whooper_Swan&amp;action=edit&amp;section=3" title="Edit section: Influence">edit</a>]</span> <span class="mw-headline" id="Influence">Influence</span></h2>
+<p>Whooper Swans are much admired in Europe.<sup id="cite_ref-Mondadori_4-1" class="reference"><a href="#cite_note-Mondadori-4"><span>[</span>5<span>]</span></a></sup> The Whooper Swan is the national bird of <a href="/wiki/Finland" title="Finland">Finland</a> and is featured on the Finnish 1 <a href="/wiki/Euro" title="Euro">euro</a> coin. The Whooper Swan is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<p>The <a href="/wiki/Global_spread_of_H5N1" title="Global spread of H5N1">global spread of H5N1</a> reached the <a href="/wiki/UK" title="UK" class="mw-redirect">UK</a> in April 2006 in the form of a dead Whooper Swan found in <a href="/wiki/Scotland" title="Scotland">Scotland</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup></p>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Cygnus_cygnus_-Regents_Park,_London,_England_-head-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cygnus_cygnus_-Regents_Park%2C_London%2C_England_-head-8.jpg/120px-Cygnus_cygnus_-Regents_Park%2C_London%2C_England_-head-8.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Whooper Swan in <a href="/wiki/Regent%27s_Park" title="Regent's Park">Regent's Park</a>, London, England</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34.5px auto;"><a href="/wiki/File:Whoopers_kilfenora2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Whoopers_kilfenora2.jpg/120px-Whoopers_kilfenora2.jpg" width="120" height="81" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Whooper Swans near <a href="/wiki/Kilfenora" title="Kilfenora">Kilfenora</a>, <a href="/wiki/Co._Clare" title="Co. Clare" class="mw-redirect">Co. Clare</a>, <a href="/wiki/Ireland" title="Ireland">Ireland</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Minikuiahirunoko.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Minikuiahirunoko.jpg/120px-Minikuiahirunoko.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Young Whooper Swan at <a href="/wiki/Lake_Kussharo" title="Lake Kussharo">Lake Kussharo</a>, <a href="/wiki/Japan" title="Japan">Japan</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Swan_kussyaro.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Swan_kussyaro.jpg/120px-Swan_kussyaro.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Whooper Swans resting at Sunayu <a href="/wiki/Onsen" title="Onsen">Onsen</a> at <a href="/wiki/Lake_Kussharo" title="Lake Kussharo">Lake Kussharo</a>, <a href="/wiki/Japan" title="Japan">Japan</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30.5px auto;"><a href="/wiki/File:The_Whooper_Pond_-_geograph.org.uk_-_326009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Whooper_Pond_-_geograph.org.uk_-_326009.jpg/120px-The_Whooper_Pond_-_geograph.org.uk_-_326009.jpg" width="120" height="89" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Mute_Swan" title="Mute Swan">Mute Swans</a> with orange bills and Whooper Swans, with yellow bills</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Whooper_Swan&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/100600369">"<i>Cygnus cygnus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/100600369">http://www.iucnredlist.org/apps/redlist/details/100600369</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Cygnus+cygnus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F100600369&amp;rfr_id=info:sid/en.wikipedia.org:Whooper_Swan"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Brazil, Mark, <i>The Whooper Swan</i>. Christopher Helm Ornithology (2003), <a href="/wiki/Special:BookSources/9780713665703" class="internal mw-magiclink-isbn">ISBN 978-0-7136-6570-3</a></span></li>
+<li id="cite_note-CRC-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRC_2-0">^</a></b></span> <span class="reference-text"><i>CRC Handbook of Avian Body Masses</i> by John B. Dunning Jr. (Editor). CRC Press (1992), <a href="/wiki/Special:BookSources/9780849342585" class="internal mw-magiclink-isbn">ISBN 978-0-8493-4258-5</a>.</span></li>
+<li id="cite_note-Madge-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Madge_3-0">^</a></b></span> <span class="reference-text">Madge, Steve, <i>Waterfowl: An Identification Guide to the Ducks, Geese, and Swans of the World</i>. Houghton Mifflin Harcourt (1992), <a href="/wiki/Special:BookSources/9780395467268" class="internal mw-magiclink-isbn">ISBN 978-0-395-46726-8</a></span></li>
+<li id="cite_note-Mondadori-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mondadori_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mondadori_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Mondadori, Arnoldo, ed. (1988). <i>Great Book of the Animal Kingdom</i>. New York: Arch Cape Press. pp.&#160;182.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Great+Book+of+the+Animal+Kingdom&amp;rft.date=1988&amp;rft.pages=pp.%26nbsp%3B182&amp;rft.place=New+York&amp;rft.pub=Arch+Cape+Press&amp;rfr_id=info:sid/en.wikipedia.org:Whooper_Swan"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/4898398.stm">"Bird flu swan was from outside UK"</a>. BBC News. April 11, 2006<span class="printonly">. <a rel="nofollow" class="external free" href="http://news.bbc.co.uk/1/hi/uk/4898398.stm">http://news.bbc.co.uk/1/hi/uk/4898398.stm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Bird+flu+swan+was+from+outside+UK&amp;rft.atitle=&amp;rft.date=April+11%2C+2006&amp;rft.pub=BBC+News&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F4898398.stm&amp;rfr_id=info:sid/en.wikipedia.org:Whooper_Swan"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.rspb.org.uk/birds/guide/w/whooperswan/index.asp">Whooper Swan Page</a> <a href="/wiki/RSPB" title="RSPB" class="mw-redirect">RSPB</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Whooper_Swan&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Cygnus_cygnus" class="extiw" title="commons:Cygnus cygnus">Cygnus cygnus</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Cygnus_cygnus" class="extiw" title="wikispecies:Cygnus cygnus">Cygnus cygnus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide/pool/tags/Cygnus+cygnus"><i>Cygnus cygnus</i></a> in the <a href="/wiki/Flickr" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide">Field Guide Birds of the World</a></li>
+<li><a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org/species.jsp?lang=EN&amp;avibaseid=BDDB5670D2D20A55">Cygnus cygnus</a> on <a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org">Avibase</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/whooper-swan-cygnus-cygnus">Whooper Swan videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+</ul>
+<p><span id="interwiki-fi-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 10453/1000000
+Preprocessor generated node count: 44182/1500000
+Post-expand include size: 41674/2048000 bytes
+Template argument size: 22880/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:307018-0!*!0!!en!4!* and timestamp 20121017040412 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Whooper_Swan&amp;oldid=515455002">http://en.wikipedia.org/w/index.php?title=Whooper_Swan&amp;oldid=515455002</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Cygnus" title="Category:Cygnus">Cygnus</a></li><li><a href="/wiki/Category:Migratory_birds_(Eastern_hemisphere)" title="Category:Migratory birds (Eastern hemisphere)">Migratory birds (Eastern hemisphere)</a></li><li><a href="/wiki/Category:Swans" title="Category:Swans">Swans</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Armenia" title="Category:Birds of Armenia">Birds of Armenia</a></li><li><a href="/wiki/Category:Birds_of_Azerbaijan" title="Category:Birds of Azerbaijan">Birds of Azerbaijan</a></li><li><a href="/wiki/Category:Birds_of_China" title="Category:Birds of China">Birds of China</a></li><li><a href="/wiki/Category:Birds_of_Iceland" title="Category:Birds of Iceland">Birds of Iceland</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Japan" title="Category:Birds of Japan">Birds of Japan</a></li><li><a href="/wiki/Category:Birds_of_Kazakhstan" title="Category:Birds of Kazakhstan">Birds of Kazakhstan</a></li><li><a href="/wiki/Category:Birds_of_Korea" title="Category:Birds of Korea">Birds of Korea</a></li><li><a href="/wiki/Category:Birds_of_the_Faroe_Islands" title="Category:Birds of the Faroe Islands">Birds of the Faroe Islands</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Turkmenistan" title="Category:Birds of Turkmenistan">Birds of Turkmenistan</a></li><li><a href="/wiki/Category:Birds_of_Uzbekistan" title="Category:Birds of Uzbekistan">Birds of Uzbekistan</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:National_symbols_of_Finland" title="Category:National symbols of Finland">National symbols of Finland</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Whooper+Swan&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Whooper+Swan" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Whooper_Swan"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Whooper_Swan"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Whooper_Swan" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Whooper_Swan&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Whooper_Swan&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Whooper_Swan" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Whooper_Swan" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Whooper_Swan&amp;oldid=515455002" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Whooper_Swan&amp;id=515455002" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Whooper+Swan" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Whooper+Swan&amp;oldid=515455002&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Whooper_Swan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%8B%D1%83" title="Къыу" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Singswaan" title="Singswaan" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D9%85_%D9%86%D8%A7%D8%B9%D9%82" title="تم ناعق" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Harayc%C4%B1_qu_qu%C5%9Fu" title="Haraycı qu quşu" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B7%D1%8C-%D0%BA%D0%BB%D1%96%D0%BA%D1%83%D0%BD" title="Лебедзь-клікун" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B5%D0%BD_%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4" title="Поен лебед" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Alarc%27h_kristilh" title="Alarc'h kristilh" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Cigne_cantaire" title="Cigne cantaire" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Labu%C5%A5_zp%C4%9Bvn%C3%A1" title="Labuť zpěvná" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Alarch_y_Gogledd" title="Alarch y Gogledd" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Sangsvane" title="Sangsvane" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Singschwan" title="Singschwan" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Laululuik" title="Laululuik" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Cygnus_cygnus" title="Cygnus cygnus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Kantocigno" title="Kantocigno" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Beltxarga_oihulari" title="Beltxarga oihulari" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%82%D9%88%DB%8C_%D9%81%D8%B1%DB%8C%D8%A7%D8%AF%DA%A9%D8%B4" title="قوی فریادکش" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Svanur" title="Svanur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Cygne_chanteur" title="Cygne chanteur" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Kloekswan" title="Kloekswan" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Eala_ghl%C3%B3rach" title="Eala ghlórach" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Cisne_bravo" title="Cisne bravo" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%81%B0%EA%B3%A0%EB%8B%88" title="큰고니" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/%C3%81lft" title="Álft" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Cygnus_cygnus" title="Cygnus cygnus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-kl"><a href="//kl.wikipedia.org/wiki/Qussuk" title="Qussuk" lang="kl" hreflang="kl">Kalaallisut</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%A1%D2%B1%D2%A3%D2%9B%D1%8B%D0%BB%D0%B4%D0%B0%D2%9B_%D0%B0%D2%9B%D2%9B%D1%83" title="Сұңқылдақ аққу" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Gulb%C4%97_giesminink%C4%97" title="Gulbė giesmininkė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/%C3%89nekes_hatty%C3%BA" title="Énekes hattyú" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B3%D0%B0%D1%80_%D1%85%D1%83%D0%BD" title="Гангар хун" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Wilde_zwaan" title="Wilde zwaan" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%8F%E3%82%AF%E3%83%81%E3%83%A7%E3%82%A6" title="オオハクチョウ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Sjongswaan" title="Sjongswaan" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Sangsvane" title="Sangsvane" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Songsvane" title="Songsvane" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%88%D9%88%D9%BE%D8%B1_%D8%B3%D9%88%D8%A7%D9%86" title="ووپر سوان" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Chin%C2%B7nhe_canteusse" title="Chin·nhe canteusse" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Cygnus_cygnus" title="Cygnus cygnus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/%C5%81ab%C4%99d%C5%BA_krzykliwy" title="Łabędź krzykliwy" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Cisne-bravo" title="Cisne-bravo" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BA%D1%83%D0%BD_%D0%BB%D0%B5%D0%B1%D0%B8%D0%B4%D1%8C" title="Кликун лебидь" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-%D0%BA%D0%BB%D0%B8%D0%BA%D1%83%D0%BD" title="Лебедь-кликун" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%B0" title="Куба" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/Njuk%C4%8Da" title="Njukča" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Labu%C5%A5_spevav%C3%A1" title="Labuť spevavá" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Laulujoutsen" title="Laulujoutsen" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/S%C3%A5ngsvan" title="Sångsvan" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C3%96t%C3%BCc%C3%BC_ku%C4%9Fu" title="Ötücü kuğu" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B1%D1%96%D0%B4%D1%8C-%D0%BA%D0%BB%D0%B8%D0%BA%D1%83%D0%BD" title="Лебідь-кликун" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-ur"><a href="//ur.wikipedia.org/wiki/%DA%86%DB%8C%D8%AE%D8%AA%D8%A7_%D8%B1%D8%A7%D8%AC_%DB%81%D9%86%D8%B3" title="چیختا راج ہنس" lang="ur" hreflang="ur">اردو</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Thi%C3%AAn_nga_l%E1%BB%9Bn" title="Thiên nga lớn" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%A4%A7%E5%A4%A9%E9%B9%85" title="大天鹅" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 12:25.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Whooper_Swan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw25 in 0.153 secs. -->
+	</body>
+</html>

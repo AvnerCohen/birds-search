@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Stone-curlew - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Stone-curlew&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Stone-curlew&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stone-curlew","wgTitle":"Stone-curlew","wgCurRevisionId":501673434,"wgArticleId":204924,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with \'species\' microformats","Burhinidae","Bird families"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stone-curlew","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"2ed7a4a94ea749270f1ccb975ae31b2b","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":204924,"title":"Stone-curlew","namespace":0,"categories":["Articles with \'species\' microformats","Bird families","Burhinidae"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Stone-curlew skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Stone-curlew</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Stone-curlews</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Bush_Stone-curlew444.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bush_Stone-curlew444.jpg/225px-Bush_Stone-curlew444.jpg" width="225" height="150" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><a href="/wiki/Bush_Stone-curlew" title="Bush Stone-curlew">Bush Stone-curlew</a>, <i>Burhinus grallarius</i></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Wader" title="Wader">Charadriiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><b>Burhinidae</b></span><br />
+<small><a href="/wiki/Gregory_Mathews" title="Gregory Mathews">Mathews</a>, 1912</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Genera</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i><a href="/wiki/Burhinus" title="Burhinus">Burhinus</a></i></li>
+<li><i><a href="/wiki/Esacus" title="Esacus">Esacus</a></i></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Stone-curlews</b>, also known as <b>Dikkops</b> or <b>Thick-knees</b>, consist of nine species within the family <b>Burhinidae</b>, and are found throughout the tropical and temperate parts of the world, with two species found in <a href="/wiki/Australia" title="Australia">Australia</a>. Despite the group being classified as waders, most species have a preference for arid or semi-arid habitats.</p>
+<p>They are medium to large birds with strong black or yellow black bills, large yellow eyes—which give them a reptilian appearance—and cryptic plumage. The names <i>Thick-knee</i> and <i>Stone-curlew</i> are both in common use, the preference among authorities for one term or the other varying from year to year. The term <i>Stone-curlew</i> owes its origin to the broad similarities with true <a href="/wiki/Curlew" title="Curlew">curlews</a> (which are not closely related). <i>Thick-knee</i> refers to the prominent joints in the long yellow or greenish legs and apparently originated with a name coined in 1776 for <i>B. oedicnemus</i>, the Thick-kneed Bustard.</p>
+<p>They are largely nocturnal, particularly when singing their loud wailing songs, which are reminiscent of true curlews.<sup id="cite_ref-EoB_0-0" class="reference"><a href="#cite_note-EoB-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>The diet consists mainly of <a href="/wiki/Insect" title="Insect">insects</a> and other invertebrates. Larger species will also take lizards and even small mammals.<sup id="cite_ref-EoB_0-1" class="reference"><a href="#cite_note-EoB-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>Most species are sedentary, but the <a href="/wiki/Eurasian_Stone_Curlew" title="Eurasian Stone Curlew" class="mw-redirect">Eurasian Stone Curlew</a> is a summer <a href="/wiki/Bird_migration" title="Bird migration">migrant</a> in the temperate European part of its range, wintering in <a href="/wiki/Africa" title="Africa">Africa</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Stone-curlew&amp;action=edit&amp;section=1" title="Edit section: Species">edit</a>]</span> <span class="mw-headline" id="Species">Species</span></h2>
+<p>The nine species are:</p>
+<table class="wikitable">
+<tr>
+<th>Picture</th>
+<th>Name</th>
+<th><a href="/wiki/Binomial_name" title="Binomial name" class="mw-redirect">Binomial name</a></th>
+</tr>
+<tr>
+<td><a href="/wiki/File:Burhinus_oedicnemus_-central_India-8.jpg" class="image"><img alt="Burhinus oedicnemus -central India-8.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burhinus_oedicnemus_-central_India-8.jpg/100px-Burhinus_oedicnemus_-central_India-8.jpg" width="100" height="75" /></a></td>
+<td><a href="/wiki/Eurasian_Stone-curlew" title="Eurasian Stone-curlew">Eurasian Stone-curlew</a></td>
+<td><i>Burhinus oedicnemus</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Burhinus_senegalensis.jpg" class="image"><img alt="Burhinus senegalensis.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Burhinus_senegalensis.jpg/100px-Burhinus_senegalensis.jpg" width="100" height="67" /></a></td>
+<td><a href="/wiki/Senegal_Thick-knee" title="Senegal Thick-knee">Senegal Thick-knee</a></td>
+<td><i>Burhinus senegalensis</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Waterdikkop-crop.jpg" class="image"><img alt="Waterdikkop-crop.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Waterdikkop-crop.jpg/100px-Waterdikkop-crop.jpg" width="100" height="142" /></a></td>
+<td><a href="/wiki/Water_Thick-knee" title="Water Thick-knee">Water Thick-knee</a></td>
+<td><i>Burhinus vermiculatus</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Cape_Thick-knees.jpg" class="image"><img alt="Cape Thick-knees.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cape_Thick-knees.jpg/100px-Cape_Thick-knees.jpg" width="100" height="165" /></a></td>
+<td><a href="/wiki/Spotted_Thick-knee" title="Spotted Thick-knee">Spotted Thick-knee</a></td>
+<td><i>Burhinus capensis</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Double-striped_Thick-knee.jpg" class="image"><img alt="Double-striped Thick-knee.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Double-striped_Thick-knee.jpg/100px-Double-striped_Thick-knee.jpg" width="100" height="157" /></a></td>
+<td><a href="/wiki/Double-striped_Thick-knee" title="Double-striped Thick-knee">Double-striped Thick-knee</a></td>
+<td><i>Burhinus bistriatus</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Peruvian_Thick-knee_(Burhinus_superciliaris).jpg" class="image"><img alt="Peruvian Thick-knee (Burhinus superciliaris).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Peruvian_Thick-knee_%28Burhinus_superciliaris%29.jpg/100px-Peruvian_Thick-knee_%28Burhinus_superciliaris%29.jpg" width="100" height="67" /></a></td>
+<td><a href="/wiki/Peruvian_Thick-knee" title="Peruvian Thick-knee">Peruvian Thick-knee</a></td>
+<td><i>Burhinus superciliaris</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Bush_Stone-curlew.jpg" class="image"><img alt="Bush Stone-curlew.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Bush_Stone-curlew.jpg/100px-Bush_Stone-curlew.jpg" width="100" height="131" /></a></td>
+<td><a href="/wiki/Bush_Stone-curlew" title="Bush Stone-curlew">Bush Stone-curlew</a></td>
+<td><i>Burhinus grallarius</i> (formerly <i>B. magnirostris</i>, the Bush Thick-knee).</td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Thimindu_2009_09_27_Yala_Great_Stone_Curlew_2.JPG" class="image"><img alt="Thimindu 2009 09 27 Yala Great Stone Curlew 2.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Thimindu_2009_09_27_Yala_Great_Stone_Curlew_2.JPG/100px-Thimindu_2009_09_27_Yala_Great_Stone_Curlew_2.JPG" width="100" height="125" /></a></td>
+<td><a href="/wiki/Great_Stone-curlew" title="Great Stone-curlew">Great Stone-curlew</a></td>
+<td><i>Esacus recurvirostris</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/File:Beach_Thick-knee_Inskip_Pt2.JPG" class="image"><img alt="Beach Thick-knee Inskip Pt2.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Beach_Thick-knee_Inskip_Pt2.JPG/100px-Beach_Thick-knee_Inskip_Pt2.JPG" width="100" height="78" /></a></td>
+<td><a href="/wiki/Beach_Stone-curlew" title="Beach Stone-curlew">Beach Stone-curlew</a></td>
+<td><i>Esacus giganteus</i> (formerly <i>E. magnirostris</i>, the Beach Thick-knee).</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Stone-curlew&amp;action=edit&amp;section=2" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-EoB-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-EoB_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EoB_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Harrison, Colin J.O. (1991). Forshaw, Joseph. ed. <i>Encyclopaedia of Animals: Birds</i>. London: Merehurst Press. pp.&#160;105–106. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85391-186-0" title="Special:BookSources/1-85391-186-0">1-85391-186-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopaedia+of+Animals%3A+Birds&amp;rft.aulast=Harrison%2C+Colin+J.O.&amp;rft.au=Harrison%2C+Colin+J.O.&amp;rft.date=1991&amp;rft.pages=pp.%26nbsp%3B105%E2%80%93106&amp;rft.place=London&amp;rft.pub=Merehurst+Press&amp;rft.isbn=1-85391-186-0&amp;rfr_id=info:sid/en.wikipedia.org:Stone-curlew"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Stone-curlew&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.hbw.com/ibc/phtml/familia.phtml?idFamilia=58">Thick-knees videos</a> on the Internet Bird Collection</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 2952/1000000
+Preprocessor generated node count: 26910/1500000
+Post-expand include size: 10381/2048000 bytes
+Template argument size: 2449/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:204924-0!*!0!!*!4!* and timestamp 20121021003438 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Stone-curlew&amp;oldid=501673434">http://en.wikipedia.org/w/index.php?title=Stone-curlew&amp;oldid=501673434</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Burhinidae" title="Category:Burhinidae">Burhinidae</a></li><li><a href="/wiki/Category:Bird_families" title="Category:Bird families">Bird families</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stone-curlew&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stone-curlew" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Stone-curlew"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Stone-curlew"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Stone-curlew" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Stone-curlew&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stone-curlew&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stone-curlew" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stone-curlew" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Stone-curlew&amp;oldid=501673434" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Stone-curlew&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Stone-curlew&amp;id=501673434" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Stone-curlew" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Stone-curlew&amp;oldid=501673434&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Stone-curlew&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Dikkop" title="Dikkop" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/P%C9%99rtt%C9%99g%C3%B6zl%C9%99r" title="Pərttəgözlər" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Bourlagad" title="Bourlagad" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Triele" title="Triele" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Burhinidae" title="Burhinidae" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Burinedoj" title="Burinedoj" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Burhinidae" title="Burhinidae" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Burhinidae" title="Burhinidae" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9B%D7%A8%D7%95%D7%95%D7%A0%D7%99%D7%99%D7%9D" title="כרווניים" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-sw"><a href="//sw.wikipedia.org/wiki/Chekehukwa" title="Chekehukwa" lang="sw" hreflang="sw">Kiswahili</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Storkulniniai" title="Storkulniniai" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Ugarty%C3%BAkf%C3%A9l%C3%A9k" title="Ugartyúkfélék" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Grielen" title="Grielen" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B7%E3%83%81%E3%83%89%E3%83%AA%E7%A7%91" title="イシチドリ科" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Trielar" title="Trielar" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kulony" title="Kulony" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Burhinidae" title="Burhinidae" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%90%D0%B2%D0%B4%D0%BE%D1%82%D0%BA%D0%BE%D0%B2%D1%8B" title="Авдотковы" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B4%D0%BE%D1%82%D0%BA%D0%B8" title="Авдотки" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Paksujalat_(lintuheimo)" title="Paksujalat (lintuheimo)" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kocag%C3%B6zgiller" title="Kocagözgiller" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B6%D0%BD%D0%B5%D0%B2%D1%96" title="Лежневі" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%9F%B3%E9%B8%BB%E7%A7%91" title="石鸻科" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 July 2012 at 05:27.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Stone-curlew&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv263 in 0.120 secs. -->
+	</body>
+</html>

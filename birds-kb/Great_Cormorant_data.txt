@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Great Cormorant - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Great_Cormorant&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Great_Cormorant&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Great_Cormorant","wgTitle":"Great Cormorant","wgCurRevisionId":515840504,"wgArticleId":286406,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from June 2011","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from December 2011","Articles with unsourced statements from June 2009","Birds of Greenland","Phalacrocorax","Birds of Asia","Birds of Australia","Birds of Kenya","Birds of Armenia","Birds of Afghanistan","Birds of Pakistan","Birds of Palestine","Birds of Bhutan","Birds of India","Birds of Sri Lanka","Birds of Nepal","Birds of Bahrain","Birds of Lithuania","Birds of China","Birds of Europe","Birds of the Faroe Islands","Birds of Southeast Asia","Birds of Bangladesh","Birds of Burma","Birds of Vietnam","Birds of Laos","Birds of Cambodia","Birds of Thailand","Birds of Malaysia","Birds of Turkey","Birds of Brunei","Birds of Indonesia","Birds of the Philippines","Birds of South Australia","Birds of Tasmania","Birds of Western Australia","Birds of New Zealand","British Isles coastal fauna","Birds of Gibraltar","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Great_Cormorant","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"f1254f78248cc44698121e6907a9088b","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":286406,"title":"Great Cormorant","namespace":0,"categories":["All articles with specifically marked weasel-worded phrases","All articles with unsourced statements","Articles with \'species\' microformats","Articles with specifically marked weasel-worded phrases from December 2011","Articles with unsourced statements from June 2009","Articles with unsourced statements from June 2011","Birds of Afghanistan","Birds of Armenia","Birds of Asia","Birds of Australia","Birds of Bahrain","Birds of Bangladesh","Birds of Bhutan","Birds of Brunei","Birds of Burma","Birds of Cambodia","Birds of China","Birds of Europe","Birds of Gibraltar","Birds of Greenland","Birds of India","Birds of Indonesia","Birds of Kenya","Birds of Laos","Birds of Lithuania","Birds of Malaysia","Birds of Nepal","Birds of New Zealand","Birds of Pakistan","Birds of Palestine","Birds of South Australia","Birds of Southeast Asia","Birds of Sri Lanka","Birds of Tasmania","Birds of Thailand","Birds of Turkey","Birds of Vietnam","Birds of Western Australia","Birds of Western Sahara","Birds of the Faroe Islands","Birds of the Philippines","British Isles coastal fauna","IUCN Red List least concern species","Phalacrocorax"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({
+"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:deddd9b1d1718c216e913c8d345259d4 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Great_Cormorant skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Great Cormorant</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Great Cormorant</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Phalacrocorax_carbo_ja01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Phalacrocorax_carbo_ja01.jpg/220px-Phalacrocorax_carbo_ja01.jpg" width="220" height="165" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>Phalacrocorax carbo</i></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Suliformes" title="Suliformes">Suliformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Phalacrocoracidae" title="Phalacrocoracidae" class="mw-redirect">Phalacrocoracidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Phalacrocorax" title="Phalacrocorax" class="mw-redirect">Phalacrocorax</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. carbo</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Phalacrocorax carbo</i></span></b><br />
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a>)</small></td>
+</tr>
+</table>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Great_Cormorant_I_IMG_8519.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Great_Cormorant_I_IMG_8519.jpg/220px-Great_Cormorant_I_IMG_8519.jpg" width="220" height="220" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Great_Cormorant_I_IMG_8519.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Non-breeding at <a href="/wiki/Bharatpur,_India" title="Bharatpur, India" class="mw-redirect">Bharatpur</a>, <a href="/wiki/Rajasthan" title="Rajasthan">Rajasthan</a>, <a href="/wiki/India" title="India">India</a>.</div>
+</div>
+</div>
+<p>The <b>Great Cormorant</b> (<i>Phalacrocorax carbo</i>), known as the <b>Great Black Cormorant</b> across the Northern Hemisphere, the <b>Black Cormorant</b> in Australia, the <b>Large Cormorant</b> in India and the <b>Black Shag</b> further south in New Zealand, is a widespread member of the <a href="/wiki/Cormorant" title="Cormorant">cormorant</a> family of <a href="/wiki/Seabird" title="Seabird">seabirds</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> It breeds in much of the <a href="/wiki/Old_World" title="Old World">Old World</a> and the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> coast of <a href="/wiki/North_America" title="North America">North America</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Variations"><span class="tocnumber">2</span> <span class="toctext">Variations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution"><span class="tocnumber">3</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">4</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Relationships_with_humans"><span class="tocnumber">5</span> <span class="toctext">Relationships with humans</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Various_views_and_plumages"><span class="tocnumber">6</span> <span class="toctext">Various views and plumages</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Great_cormorant_in_flight.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Great_cormorant_in_flight.jpg/220px-Great_cormorant_in_flight.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Great_cormorant_in_flight.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Great Cormorant in flight</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Great_Cormorant_(Phalacrocorax_carbo)_near_Hodal_W_IMG_6448.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Great_Cormorant_%28Phalacrocorax_carbo%29_near_Hodal_W_IMG_6448.jpg/220px-Great_Cormorant_%28Phalacrocorax_carbo%29_near_Hodal_W_IMG_6448.jpg" width="220" height="132" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Great_Cormorant_(Phalacrocorax_carbo)_near_Hodal_W_IMG_6448.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Breeding plumage near <a href="/wiki/Hodal" title="Hodal">Hodal</a>, <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a>, <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</div>
+</div>
+</div>
+<p>The Great Cormorant is a large black bird, but there is a wide variation in size in the species wide range. Weight is reported from 1.5&#160;kg (3.3&#160;lbs)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> to 5.3&#160;kg (11.7&#160;lbs),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> with a typical range from 2.6 to 3.7&#160;kg (5.7–8.2&#160;lbs).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> Length can vary from 70 to 102&#160;cm (28–40&#160;in) and wingspan from 121 to 160&#160;cm (48–63&#160;in).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> It has a longish tail and yellow throat-patch. Adults have white thigh patches in the breeding season. In <a href="/wiki/Europe" title="Europe">European</a> waters it can be distinguished from the <a href="/wiki/Common_Shag" title="Common Shag" class="mw-redirect">Common Shag</a> by its larger size, heavier build, thicker bill, lack of a crest and <a href="/wiki/Feather" title="Feather">plumage</a> without any green tinge. In eastern North America, it is similarly larger and bulkier than <a href="/wiki/Double-crested_Cormorant" title="Double-crested Cormorant">Double-crested Cormorant</a>, and the latter species has more yellow on the throat and bill. Great Cormorants are mostly silent, but they make various guttural noises at their breeding colonies.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=2" title="Edit section: Variations">edit</a>]</span> <span class="mw-headline" id="Variations">Variations</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phalacrocorax_Carbo_Albino_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Phalacrocorax_Carbo_Albino_2.jpg/220px-Phalacrocorax_Carbo_Albino_2.jpg" width="220" height="330" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phalacrocorax_Carbo_Albino_2.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A <i>Phalacrocorax Carbo</i> albino in <a href="/wiki/Lake_Kerkini" title="Lake Kerkini">Lake Kerkini</a>, <a href="/wiki/Greece" title="Greece">Greece</a>. Photo by Mahi Goula and George Parchas.<sup id="cite_ref-MCH_7-0" class="reference"><a href="#cite_note-MCH-7"><span>[</span>8<span>]</span></a></sup></div>
+</div>
+</div>
+<p>A very rare variation of the Great Cormorant is caused by <a href="/wiki/Albinism" title="Albinism">albinism</a>. The <i>Phalacrocorax carbo</i> albino suffers from loss of eyesight and/or hearing, thus it rarely manages to survive in the wild.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from June 2011">citation needed</span></a></i>]</sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=3" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Great_Cormorants_Nesting_Feb09.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Great_Cormorants_Nesting_Feb09.jpg/220px-Great_Cormorants_Nesting_Feb09.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Great_Cormorants_Nesting_Feb09.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nesting in <a href="/wiki/Melbourne,_Australia" title="Melbourne, Australia" class="mw-redirect">Melbourne, Australia</a></div>
+</div>
+</div>
+<p>This is a very common and widespread <a href="/wiki/Bird" title="Bird">bird</a> species. It feeds on the sea, in <a href="/wiki/Estuary" title="Estuary">estuaries</a>, and on freshwater lakes and rivers. Northern birds <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> south and winter along any coast that is well-supplied with <a href="/wiki/Fish" title="Fish">fish</a>.</p>
+<p>The type subspecies, <i>P. c. carbo</i>, is found mainly in <a href="/wiki/Atlantic" title="Atlantic" class="mw-redirect">Atlantic</a> waters and nearby inland areas: on western European coasts and south to North Africa, the <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a>, <a href="/wiki/Iceland" title="Iceland">Iceland</a> and <a href="/wiki/Greenland" title="Greenland">Greenland</a>; and on the eastern seaboard of <a href="/wiki/North_America" title="North America">North America</a>, though in America it breeds only in the north of its range, in the <a href="/wiki/Canada" title="Canada">Canadian</a> <a href="/wiki/Maritime_provinces" title="Maritime provinces" class="mw-redirect">maritime provinces</a>.<br />
+The subspecies found in <a href="/wiki/Australasia" title="Australasia">Australasian</a> waters, <i>P. carbo novaehollandiae</i>, has a crest. In <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> it is known as the <b>Black Shag</b> or by its <a href="/wiki/M%C4%81ori_language" title="Māori language">Māori</a> name; <b>Kawau</b>.<sup id="cite_ref-FGBNZ_8-0" class="reference"><a href="#cite_note-FGBNZ-8"><span>[</span>9<span>]</span></a></sup> The <a href="/wiki/Syntype" title="Syntype" class="mw-redirect">syntype</a> is in the collection of the <a href="/wiki/Museum_of_New_Zealand_Te_Papa_Tongarewa" title="Museum of New Zealand Te Papa Tongarewa">Museum of New Zealand Te Papa Tongarewa</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
+<p>The 80–100&#160;cm long <a href="/wiki/White-breasted_Cormorant" title="White-breasted Cormorant">White-breasted Cormorant</a> <i>P. c. lucidus</i> found in sub-Saharan Africa, has a white neck and breast. It is often treated as a full species, <i>Phalacrocorax lucidus</i> (e.g. Sibley &amp; Monroe, 1990, Sinclair, Hockey and Tarboton, 2002)</p>
+<p>In addition to the Australasian and African forms, <i>Phalacrocorax carbo novaehollandiae</i> and <i>P. carbo lucidus</i> mentioned above, other geographically distinct subspecies are recognised, including <i>P. c. sinensis</i> (western Europe to east <a href="/wiki/Asia" title="Asia">Asia</a>), <i>P. c. maroccanus</i> (north-western Africa), and <i>P. c. hannedae</i> (<a href="/wiki/Japan" title="Japan">Japan</a>).</p>
+<p>Some authors<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Avoid_weasel_words" title="Wikipedia:Avoid weasel words" class="mw-redirect"><span title="The material in the vicinity of this tag may use weasel words or too-vague attribution. from December 2011">who?</span></a></i>]</sup> treat all these as <a href="/wiki/Allospecies" title="Allospecies" class="mw-redirect">allospecies</a> of a <i>P. carbo</i> superspecies group.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Great_Cormorants_with_Darter,_other_Cormorants_%26_Great_Egret_I2_IMG_9369.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Great_Cormorants_with_Darter%2C_other_Cormorants_%26_Great_Egret_I2_IMG_9369.jpg/220px-Great_Cormorants_with_Darter%2C_other_Cormorants_%26_Great_Egret_I2_IMG_9369.jpg" width="220" height="166" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Great_Cormorants_with_Darter,_other_Cormorants_%26_Great_Egret_I2_IMG_9369.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Great Cormorants resting with <a href="/wiki/Darter" title="Darter">Darter</a> (Ahinga), other cormorants &amp; <a href="/wiki/Great_Egret" title="Great Egret">Great Egret</a> near <a href="/wiki/Hodal" title="Hodal">Hodal</a> in <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a> District of <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</div>
+</div>
+</div>
+<p>The Great Cormorant breeds mainly on coasts, nesting on cliffs or in trees (which are eventually killed by the droppings), but also increasingly inland. 3–4 <a href="/wiki/Egg_(biology)" title="Egg (biology)">eggs</a> are laid in a nest of <a href="/wiki/Seaweed" title="Seaweed">seaweed</a> or twigs.</p>
+<p>The Great Cormorant can dive to considerable depths, but often feeds in shallow water. It frequently brings prey to the surface. A wide variety of fish are taken: cormorants are often noticed eating <a href="/wiki/Eel" title="Eel">eels</a>, but this may reflect the considerable time taken to subdue an eel and position it for swallowing, rather than any dominance of eels in the diet. In <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> waters, dive times of 20–30 seconds are common, with a recovery time on the surface around a third of the dive time.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=5" title="Edit section: Relationships with humans">edit</a>]</span> <span class="mw-headline" id="Relationships_with_humans">Relationships with humans</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cormorant_fishing_-Suzhou_-China-6July2005.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cormorant_fishing_-Suzhou_-China-6July2005.jpg/220px-Cormorant_fishing_-Suzhou_-China-6July2005.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cormorant_fishing_-Suzhou_-China-6July2005.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Cormorant_fishing" title="Cormorant fishing">Cormorant fishing</a> in <a href="/wiki/Suzhou" title="Suzhou">Suzhou</a>, China</div>
+</div>
+</div>
+<p>Many fishermen see in the Great Cormorant a competitor for fish. Because of this it was nearly hunted to extinction in the past. Thanks to conservation efforts its numbers increased. At the moment there are about 1.2 million birds in Europe (based on winter counts. Late summer counts would show higher numbers).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> Increasing populations have once again brought the cormorant into conflict with fisheries.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> For example, in Britain, where inland breeding was once uncommon, there are now increasing numbers of birds breeding inland, and many inland fish farms and fisheries now claim to be suffering high losses due to these birds. In the UK each year some licences are issued to shoot specified numbers of cormorants in order to help reduce predation, it is however still illegal to kill a bird without such a licence.</p>
+<p><a href="/wiki/Cormorant_fishing" title="Cormorant fishing">Cormorant fishing</a> is practiced in China, Japan, and elsewhere around the globe. In it, fishermen tie a line around the throats of cormorants, tight enough to prevent swallowing, and deploy them from small boats. The cormorants catch fish without being able to fully swallow them, and the fishermen are able to retrieve the fish simply by forcing open the cormorants' mouths, apparently engaging the regurgitation reflex.</p>
+<p>In Norway cormorant is a traditional game bird. Each year ca. 10,000 cormorants are shot to be eaten.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup> In North Norway, cormorants are traditionally seen as semi-sacred.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from June 2009">citation needed</span></a></i>]</sup> It is regarded as good luck to have cormorants gather near your village or settlement. An old legend states that people who die far out at sea, their bodies never recovered, spend eternity on the island Utrøst – which can only occasionally be found by mortals. The inhabitants of Utrøst can only visit their homes in the shape of cormorants.<br style="clear:both;" /></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=6" title="Edit section: Various views and plumages">edit</a>]</span> <span class="mw-headline" id="Various_views_and_plumages">Various views and plumages</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Phalacrocorax_carbo_Austins_Ferry_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Phalacrocorax_carbo_Austins_Ferry_2.jpg/80px-Phalacrocorax_carbo_Austins_Ferry_2.jpg" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Austins Ferry, Tasmania, Australia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:26.5px auto;"><a href="/wiki/File:Great_Cormorant_(Phalacrocorax_carbo)_near_Hodal_W_IMG_6516.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Great_Cormorant_%28Phalacrocorax_carbo%29_near_Hodal_W_IMG_6516.jpg/120px-Great_Cormorant_%28Phalacrocorax_carbo%29_near_Hodal_W_IMG_6516.jpg" width="120" height="97" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Breeding plumage near <a href="/wiki/Hodal" title="Hodal">Hodal</a>, <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a>, <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:27px auto;"><a href="/wiki/File:Great_Cormorant_flight_Bowra_Mar08.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Great_Cormorant_flight_Bowra_Mar08.JPG/120px-Great_Cormorant_flight_Bowra_Mar08.JPG" width="120" height="96" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In flight breeding-plumage South-west Queensland, <a href="/wiki/Australia" title="Australia">Australia</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Lithuania_Juodkrante_Great_Cormorant_colony_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lithuania_Juodkrante_Great_Cormorant_colony_1.jpg/120px-Lithuania_Juodkrante_Great_Cormorant_colony_1.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A colony of Great Cormorants in <a href="/wiki/Juodkrant%C4%97" title="Juodkrantė">Juodkrantė</a>, Lithiuania, and damage to the trees in which they are nesting</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Great_Cormorant_(Immature)_I3_IMG_7240.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Cormorant_%28Immature%29_I3_IMG_7240.jpg/120px-Great_Cormorant_%28Immature%29_I3_IMG_7240.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Immature flying in <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Great_Cormorant_Mai_Po.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Great_Cormorant_Mai_Po.jpg/90px-Great_Cormorant_Mai_Po.jpg" width="90" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Mai_Po" title="Mai Po" class="mw-redirect">Mai Po</a>, <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Phalacrocorax_carbo_Austins_Ferry_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Phalacrocorax_carbo_Austins_Ferry_1.jpg/120px-Phalacrocorax_carbo_Austins_Ferry_1.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Drying wings, <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a>, Australia</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32px auto;"><a href="/wiki/File:Cormorant-mawddach-01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cormorant-mawddach-01.jpg/120px-Cormorant-mawddach-01.jpg" width="120" height="86" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In flight at edge of <a href="/wiki/River_Mawddach" title="River Mawddach">River Mawddach</a>, Wales, estuary</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:20.5px auto;"><a href="/wiki/File:Phalacrocorax_Carbo_-_Albert_Canal_in_Geel_(B)_-_August_2009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Phalacrocorax_Carbo_-_Albert_Canal_in_Geel_%28B%29_-_August_2009.jpg/120px-Phalacrocorax_Carbo_-_Albert_Canal_in_Geel_%28B%29_-_August_2009.jpg" width="120" height="109" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Resting at the side of the <a href="/wiki/Albert_Canal" title="Albert Canal">Albert Canal</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Great_Cormorant_Erhai_Lake.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Great_Cormorant_Erhai_Lake.JPG/120px-Great_Cormorant_Erhai_Lake.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Close up of a Great Cormorant used for fishing in <a href="/wiki/Erhai_Lake" title="Erhai Lake">Erhai Lake</a>, <a href="/wiki/Yunnan" title="Yunnan">Yunnan</a>, <a href="/wiki/China" title="China">China</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Great_Cormarant_AE.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Great_Cormarant_AE.JPG/80px-Great_Cormarant_AE.JPG" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Great Cormorant, <a href="/wiki/Abu_Dhabi" title="Abu Dhabi">Abu Dhabi</a>, <a href="/wiki/UAE" title="UAE" class="mw-redirect">UAE</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Phalacrocorax_carbo_Vic.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Phalacrocorax_carbo_Vic.jpg/80px-Phalacrocorax_carbo_Vic.jpg" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A Great Comorant in <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a>, Australia.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=7" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003679">"<i>Phalacrocorax carbo</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003679">http://www.iucnredlist.org/apps/redlist/details/106003679</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Phalacrocorax+carbo%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003679&amp;rfr_id=info:sid/en.wikipedia.org:Great_Cormorant"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Ali, S. (1993). <i>The Book of Indian Birds</i>. Bombay: Bombay Natural History Society. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-149-563731-3" title="Special:BookSources/0-149-563731-3">0-149-563731-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Book+of+Indian+Birds&amp;rft.aulast=Ali%2C+S.&amp;rft.au=Ali%2C+S.&amp;rft.date=1993&amp;rft.place=Bombay&amp;rft.pub=Bombay+Natural+History+Society&amp;rft.isbn=0-149-563731-3&amp;rfr_id=info:sid/en.wikipedia.org:Great_Cormorant"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation Journal">Ribak, Gal; Weihs, Daniel; Arad, Zeev (2005). "Water retention in the plumage of diving great cormorantsPhalacrocorax carbo sinensis". <i>Journal of Avian Biology</i> <b>36</b> (2): 89. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.0908-8857.2005.03499.x">10.1111/j.0908-8857.2005.03499.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Water+retention+in+the+plumage+of+diving+great+cormorantsPhalacrocorax+carbo+sinensis&amp;rft.jtitle=Journal+of+Avian+Biology&amp;rft.aulast=Ribak&amp;rft.aufirst=Gal&amp;rft.au=Ribak%2C%26%2332%3BGal&amp;rft.au=Weihs%2C%26%2332%3BDaniel&amp;rft.au=Arad%2C%26%2332%3BZeev&amp;rft.date=2005&amp;rft.volume=36&amp;rft.issue=2&amp;rft.pages=89&amp;rft_id=info:doi/10.1111%2Fj.0908-8857.2005.03499.x&amp;rfr_id=info:sid/en.wikipedia.org:Great_Cormorant"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0001923">Cormorant</a>. The Canadian Encyclopedia. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Great_Cormorant.html">Great Cormorant, Identification, All About Birds – Cornell Lab of Ornithology</a>. Birds.cornell.edu. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i>Field Guide to the Birds of East Africa: Kenya, Tanzania, Uganda, Rwanda, Burundi</i> by Stevenson &amp; Fanshawe. Elsevier Science (2001), <a href="/wiki/Special:BookSources/9780856610790" class="internal mw-magiclink-isbn">ISBN 978-0856610790</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allaboutbirds.org/guide/Great_Cormorant/lifehistory">Great Cormorant, Life History, All About Birds – Cornell Lab of Ornithology</a>. Allaboutbirds.org. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-MCH-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-MCH_7-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mchportal.com/photography-galleries/macro-and-nature-mainmenu-52/birds-mainmenu-54/869-phalacrocorax-carbo-cormorant-albino.html">"<i>Phalacrocorax carbo</i> Albino (Great Cormorant, Great Black Cormorant)"</a>. MCH Portal: The Art and Science of Fishkeeping. June 14, 2011<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.mchportal.com/photography-galleries/macro-and-nature-mainmenu-52/birds-mainmenu-54/869-phalacrocorax-carbo-cormorant-albino.html">http://www.mchportal.com/photography-galleries/macro-and-nature-mainmenu-52/birds-mainmenu-54/869-phalacrocorax-carbo-cormorant-albino.html</a></span><span class="reference-accessdate">. Retrieved June 27, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Phalacrocorax+carbo%27%27+Albino+%28Great+Cormorant%2C+Great+Black+Cormorant%29&amp;rft.atitle=&amp;rft.date=June+14%2C+2011&amp;rft.pub=MCH+Portal%3A+The+Art+and+Science+of+Fishkeeping&amp;rft_id=http%3A%2F%2Fwww.mchportal.com%2Fphotography-galleries%2Fmacro-and-nature-mainmenu-52%2Fbirds-mainmenu-54%2F869-phalacrocorax-carbo-cormorant-albino.html&amp;rfr_id=info:sid/en.wikipedia.org:Great_Cormorant"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-FGBNZ-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-FGBNZ_8-0">^</a></b></span> <span class="reference-text">Barrie Heather and Hugh Robertson, <i>"The Field guide to the Birds of New Zealand"(revised edition)</i>, Viking, 2005</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://collections.tepapa.govt.nz/objectdetails.aspx?oid=358520">"Phalacrocorax carbo novaehollandiae; syntype"</a>. <i>Collections Online</i>. Museum of New Zealand Te Papa Tongarewa<span class="printonly">. <a rel="nofollow" class="external free" href="http://collections.tepapa.govt.nz/objectdetails.aspx?oid=358520">http://collections.tepapa.govt.nz/objectdetails.aspx?oid=358520</a></span><span class="reference-accessdate">. Retrieved 18 July 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Phalacrocorax+carbo+novaehollandiae%3B+syntype&amp;rft.atitle=Collections+Online&amp;rft.pub=Museum+of+New+Zealand+Te+Papa+Tongarewa&amp;rft_id=http%3A%2F%2Fcollections.tepapa.govt.nz%2Fobjectdetails.aspx%3Foid%3D358520&amp;rfr_id=info:sid/en.wikipedia.org:Great_Cormorant"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Wetland International Cormorant Researg Group: <a rel="nofollow" class="external text" href="http://web.tiscali.it/sv2001/Cormorant_Counts_2003-2006_Summary.pdf">Cormorants in the western Palearctic, Distribution and numbers on a wider European scale</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">FAO publication: <a rel="nofollow" class="external text" href="ftp://ftp.fao.org/docrep/fao/010/i0210e/i0210e00.pdf">Workshop on a European Cormorant management Plan, 20–21 November 2007</a>; EIFAC, European Inland Fisheries Advisory Commission</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">European Parliament resolution of 4 December 2008: <a rel="nofollow" class="external text" href="http://www.europarl.europa.eu/sides/getDoc.do?type=TA&amp;reference=P6-TA-2008-0583&amp;language=EN&amp;ring=A6-2008-0434">"on the adoption of a European Cormorant Management Plan to minimise the increasing impact of cormorants on fish stocks, fishing and aquaculture"</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.intercafeproject.net/pdf/REDCAFEFINALREPORT.pdf">Reducing the conflict between Cormorants and fisheries on a pan-European scale</a>, REDCAFE, Final Report; p. 12: "Around 10,000 adult Cormorants (of the ‘Atlantic’ carbo race) are hunted legally as game in Norway outside the breeding season."</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Sibley, C. G., &amp; Monroe, B. L. (1990). <i>Distribution and taxonomy of birds of the world</i>. New Haven CT: Yale University Press.</li>
+<li>Ian Sinclair, Phil Hockey and Warwick Tarboton, <i>SASOL Birds of Southern Africa</i> (Struik 2002) <a href="/wiki/Special:BookSources/1868727211" class="internal mw-magiclink-isbn">ISBN 1-86872-721-1</a></li>
+</ul>
+<dl>
+<dt>Separation of <i>carbo</i> and <i>sinensis</i></dt>
+</dl>
+<ul>
+<li>Newson, Stuart, Graham Ekins, Baz Hughes, Ian Russell and Robin Sellers (2005) Separation of North Atlantic and Continental Cormorants <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> 18(3):107–111</li>
+<li><a href="/wiki/Millington,_Richard" title="Millington, Richard" class="mw-redirect">Millington, Richard</a> (2005) Identification of North Atlantic and Continental Cormorants <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> 18(3):112–123</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Cormorant&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Phalacrocorax_carbo" class="extiw" title="commons:Phalacrocorax carbo">Phalacrocorax carbo</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Phalacrocorax_carbo" class="extiw" title="wikispecies:Phalacrocorax carbo">Phalacrocorax carbo</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external free" href="http://www.mchportal.com/photography-galleries/macro-and-nature-mainmenu-52/birds-mainmenu-54/869-phalacrocorax-carbo-cormorant-albino.html">http://www.mchportal.com/photography-galleries/macro-and-nature-mainmenu-52/birds-mainmenu-54/869-phalacrocorax-carbo-cormorant-albino.html</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/great-cormorant-phalacrocorax-carbo">Great Cormorant videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/29_CormorantPcarbo.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Suliformes" title="Template:Suliformes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Suliformes" title="Template talk:Suliformes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Suliformes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Order_(biology)" title="Order (biology)">Order</a>: <a href="/wiki/Suliformes" title="Suliformes">Suliformes</a> (Phalacrocoraciformes)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Frigatebird" title="Frigatebird">Frigatebirds</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Fregatidae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Fregata</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Frigatebird" title="Frigatebird">Fregata</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Magnificent_Frigatebird" title="Magnificent Frigatebird">Magnificent Frigatebird</a> (or Man O'War)</li>
+<li><a href="/wiki/Ascension_Frigatebird" title="Ascension Frigatebird">Ascension Frigatebird</a></li>
+<li><a href="/wiki/Christmas_Frigatebird" title="Christmas Frigatebird">Christmas Island Frigatebird</a></li>
+<li><a href="/wiki/Great_Frigatebird" title="Great Frigatebird">Great Frigatebird</a></li>
+<li><a href="/wiki/Lesser_Frigatebird" title="Lesser Frigatebird">Lesser Frigatebird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Sulidae" title="Sulidae">Gannets and boobies</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Sulidae)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Booby" title="Booby">Sula</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue-footed_Booby" title="Blue-footed Booby">Blue-footed Booby</a></li>
+<li><a href="/wiki/Peruvian_Booby" title="Peruvian Booby">Peruvian Booby</a></li>
+<li><a href="/wiki/Masked_Booby" title="Masked Booby">Masked Booby</a></li>
+<li><a href="/wiki/Nazca_Booby" title="Nazca Booby">Nazca Booby</a></li>
+<li><a href="/wiki/Red-footed_Booby" title="Red-footed Booby">Red-footed Booby</a></li>
+<li><a href="/wiki/Brown_Booby" title="Brown Booby">Brown Booby</a></li>
+<li><a href="/wiki/Tasman_Booby" title="Tasman Booby">Tasman Booby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Papasula</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abbott%27s_Booby" title="Abbott's Booby">Abbott's Booby</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Gannet" title="Gannet">Morus</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Northern_Gannet" title="Northern Gannet">Northern Gannet</a></li>
+<li><a href="/wiki/Cape_Gannet" title="Cape Gannet">Cape Gannet</a></li>
+<li><a href="/wiki/Australasian_Gannet" title="Australasian Gannet">Australasian Gannet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Darter" title="Darter">Darters</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Anhingidae · <a href="/wiki/Genus" title="Genus">genus</a> <i>Anhinga</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Darter" title="Darter">Anhinga</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anhinga" title="Anhinga">Anhinga</a></li>
+<li><a href="/wiki/Oriental_Darter" title="Oriental Darter">Oriental Darter</a></li>
+<li><a href="/wiki/African_Darter" title="African Darter">African Darter</a></li>
+<li><a href="/wiki/Australasian_Darter" title="Australasian Darter">Australasian Darter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/Cormorant" title="Cormorant">Cormorants</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Phalacrocoracidae · <a href="/wiki/Genus" title="Genus">genus</a>: <i>Phalacrocorax</i>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Cormorant" title="Cormorant">Phalacrocorax</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Double-crested_Cormorant" title="Double-crested Cormorant">Double-crested Cormorant</a> (White-crested Cormorant)</li>
+<li><a href="/wiki/Neotropic_Cormorant" title="Neotropic Cormorant">Neotropic Cormorant</a> (Olivaceous Cormorant)</li>
+<li><a href="/wiki/Little_Black_Cormorant" title="Little Black Cormorant">Little Black Cormorant</a></li>
+<li><strong class="selflink">Great Cormorant</strong></li>
+<li><a href="/wiki/White-breasted_Cormorant" title="White-breasted Cormorant">White-breasted Cormorant</a></li>
+<li><a href="/wiki/Indian_Cormorant" title="Indian Cormorant">Indian Cormorant</a></li>
+<li><a href="/wiki/Cape_Cormorant" title="Cape Cormorant">Cape Cormorant</a></li>
+<li><a href="/wiki/Socotra_Cormorant" title="Socotra Cormorant">Socotra Cormorant</a></li>
+<li><a href="/wiki/Bank_Cormorant" title="Bank Cormorant">Bank Cormorant</a> (Wahlberg's Cormorant)</li>
+<li><a href="/wiki/Japanese_Cormorant" title="Japanese Cormorant">Japanese Cormorant</a> (Temminck's Cormorant)</li>
+<li><a href="/wiki/European_Shag" title="European Shag">European Shag</a></li>
+<li><a href="/wiki/Brandt%27s_Cormorant" title="Brandt's Cormorant">Brandt's Cormorant</a></li>
+<li><a href="/wiki/Spectacled_Cormorant" title="Spectacled Cormorant">Spectacled Cormorant</a></li>
+<li><a href="/wiki/Pelagic_Cormorant" title="Pelagic Cormorant">Pelagic Cormorant</a> (Baird's Cormorant)</li>
+<li><a href="/wiki/Red-faced_Cormorant" title="Red-faced Cormorant">Red-faced Cormorant</a></li>
+<li><a href="/wiki/Rock_Shag" title="Rock Shag">Rock Shag</a></li>
+<li><a href="/wiki/Guanay_Cormorant" title="Guanay Cormorant">Guanay Cormorant</a></li>
+<li><a href="/wiki/Australian_Pied_Cormorant" title="Australian Pied Cormorant">Pied Cormorant</a> (Yellow-faced Cormorant)</li>
+<li><a href="/wiki/Black-faced_Cormorant" title="Black-faced Cormorant">Black-faced Cormorant</a></li>
+<li><a href="/wiki/King_Shag" title="King Shag" class="mw-redirect">King Shag</a> (Rough-faced Shag)</li>
+<li><a href="/wiki/Bronze_Shag" title="Bronze Shag">Stewart Island Shag</a></li>
+<li><a href="/wiki/Chatham_Shag" title="Chatham Shag">Chatham Shag</a></li>
+<li><a href="/wiki/Auckland_Shag" title="Auckland Shag">Auckland Shag</a></li>
+<li><a href="/wiki/Campbell_Shag" title="Campbell Shag">Campbell Shag</a></li>
+<li><a href="/wiki/Bounty_Shag" title="Bounty Shag">Bounty Shag</a></li>
+<li><a href="/wiki/Imperial_Shag" title="Imperial Shag">Imperial Shag</a> (Blue-eyed Shag)</li>
+<li><a href="/wiki/Heard_Shag" title="Heard Shag" class="mw-redirect">Heard Shag</a></li>
+<li><a href="/wiki/Kerguelen_Shag" title="Kerguelen Shag">Kerguelen Shag</a></li>
+<li><a href="/wiki/Macquarie_Shag" title="Macquarie Shag">Macquarie Shag</a></li>
+<li><a href="/wiki/South_Georgia_Shag" title="South Georgia Shag">South Georgia Shag</a></li>
+<li><a href="/wiki/Red-legged_Cormorant" title="Red-legged Cormorant">Red-legged Cormorant</a></li>
+<li><a href="/wiki/Spotted_Shag" title="Spotted Shag">Spotted Shag</a></li>
+<li><a href="/wiki/Pitt_Shag" title="Pitt Shag">Pitt Shag</a> (Featherstone's Shag)</li>
+<li><a href="/wiki/Little_Pied_Cormorant" title="Little Pied Cormorant">Little Pied Cormorant</a></li>
+<li><a href="/wiki/Reed_Cormorant" title="Reed Cormorant">Long-tailed Cormorant</a></li>
+<li><a href="/wiki/Crowned_Cormorant" title="Crowned Cormorant">Crowned Cormorant</a></li>
+<li><a href="/wiki/Little_Cormorant" title="Little Cormorant">Little Cormorant</a></li>
+<li><a href="/wiki/Pygmy_Cormorant" title="Pygmy Cormorant">Pygmy Cormorant</a></li>
+<li><a href="/wiki/Flightless_Cormorant" title="Flightless Cormorant">Flightless Cormorant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 10857/1000000
+Preprocessor generated node count: 62024/1500000
+Post-expand include size: 139580/2048000 bytes
+Template argument size: 66385/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 3/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:286406-0!*!0!!en!4!* and timestamp 20121012052102 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Great_Cormorant&amp;oldid=515840504">http://en.wikipedia.org/w/index.php?title=Great_Cormorant&amp;oldid=515840504</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Birds_of_Greenland" title="Category:Birds of Greenland">Birds of Greenland</a></li><li><a href="/wiki/Category:Phalacrocorax" title="Category:Phalacrocorax">Phalacrocorax</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Australia" title="Category:Birds of Australia">Birds of Australia</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_Armenia" title="Category:Birds of Armenia">Birds of Armenia</a></li><li><a href="/wiki/Category:Birds_of_Afghanistan" title="Category:Birds of Afghanistan">Birds of Afghanistan</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li><li><a href="/wiki/Category:Birds_of_Bhutan" title="Category:Birds of Bhutan">Birds of Bhutan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Sri_Lanka" title="Category:Birds of Sri Lanka">Birds of Sri Lanka</a></li><li><a href="/wiki/Category:Birds_of_Nepal" title="Category:Birds of Nepal">Birds of Nepal</a></li><li><a href="/wiki/Category:Birds_of_Bahrain" title="Category:Birds of Bahrain">Birds of Bahrain</a></li><li><a href="/wiki/Category:Birds_of_Lithuania" title="Category:Birds of Lithuania">Birds of Lithuania</a></li><li><a href="/wiki/Category:Birds_of_China" title="Category:Birds of China">Birds of China</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_the_Faroe_Islands" title="Category:Birds of the Faroe Islands">Birds of the Faroe Islands</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li><li><a href="/wiki/Category:Birds_of_Bangladesh" title="Category:Birds of Bangladesh">Birds of Bangladesh</a></li><li><a href="/wiki/Category:Birds_of_Burma" title="Category:Birds of Burma">Birds of Burma</a></li><li><a href="/wiki/Category:Birds_of_Vietnam" title="Category:Birds of Vietnam">Birds of Vietnam</a></li><li><a href="/wiki/Category:Birds_of_Laos" title="Category:Birds of Laos">Birds of Laos</a></li><li><a href="/wiki/Category:Birds_of_Cambodia" title="Category:Birds of Cambodia">Birds of Cambodia</a></li><li><a href="/wiki/Category:Birds_of_Thailand" title="Category:Birds of Thailand">Birds of Thailand</a></li><li><a href="/wiki/Category:Birds_of_Malaysia" title="Category:Birds of Malaysia">Birds of Malaysia</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Brunei" title="Category:Birds of Brunei">Birds of Brunei</a></li><li><a href="/wiki/Category:Birds_of_Indonesia" title="Category:Birds of Indonesia">Birds of Indonesia</a></li><li><a href="/wiki/Category:Birds_of_the_Philippines" title="Category:Birds of the Philippines">Birds of the Philippines</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Tasmania" title="Category:Birds of Tasmania">Birds of Tasmania</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:Birds_of_New_Zealand" title="Category:Birds of New Zealand">Birds of New Zealand</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Birds_of_Gibraltar" title="Category:Birds of Gibraltar">Birds of Gibraltar</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2011" title="Category:Articles with unsourced statements from June 2011">Articles with unsourced statements from June 2011</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_December_2011" title="Category:Articles with specifically marked weasel-worded phrases from December 2011">Articles with specifically marked weasel-worded phrases from December 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2009" title="Category:Articles with unsourced statements from June 2009">Articles with unsourced statements from June 2009</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Great+Cormorant&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Great+Cormorant" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Great_Cormorant"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Great_Cormorant"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Great_Cormorant" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Great_Cormorant&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Great_Cormorant&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Great_Cormorant" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Great_Cormorant" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Great_Cormorant&amp;oldid=515840504" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Great_Cormorant&amp;id=515840504" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Great+Cormorant" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Great+Cormorant&amp;oldid=515840504&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Great_Cormorant&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%BA%D8%B1%D8%A7%D8%A8_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1" title="غراب البحر" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ast"><a href="//ast.wikipedia.org/wiki/Phalacrocorax_carbo" title="Phalacrocorax carbo" lang="ast" hreflang="ast">Asturianu</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/B%C3%B6y%C3%BCk_qarabatdaq" title="Böyük qarabatdaq" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/L%C3%B4%CD%98-ch%C3%AE" title="Lô͘-chî" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD_%D0%B2%D1%8F%D0%BB%D1%96%D0%BA%D1%96" title="Баклан вялікі" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8F%D0%BC_%D0%BA%D0%BE%D1%80%D0%BC%D0%BE%D1%80%D0%B0%D0%BD" title="Голям корморан" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Morvran_vras" title="Morvran vras" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-bxr"><a href="//bxr.wikipedia.org/wiki/%D0%95%D1%85%D1%8D_%D1%85%D0%BE%D0%B9%D1%85%D0%BE" title="Ехэ хойхо" lang="bxr" hreflang="bxr">Буряад</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Corb_mar%C3%AD_gros" title="Corb marí gros" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kormor%C3%A1n_velk%C3%BD" title="Kormorán velký" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Mulfran" title="Mulfran" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Skarv" title="Skarv" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Kormoran_(Art)" title="Kormoran (Art)" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Kormoran" title="Kormoran" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9A%CE%BF%CF%81%CE%BC%CE%BF%CF%81%CE%AC%CE%BD%CE%BF%CF%82" title="Κορμοράνος" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Phalacrocorax_carbo" title="Phalacrocorax carbo" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Granda_kormorano" title="Granda kormorano" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Ubarroi_handi" title="Ubarroi handi" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Hiplingur" title="Hiplingur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Grand_Cormoran" title="Grand Cormoran" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Ielgoes" title="Ielgoes" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-gd"><a href="//gd.wikipedia.org/wiki/Sgarbh" title="Sgarbh" lang="gd" hreflang="gd">Gàidhlig</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Corvo_mari%C3%B1o_grande" title="Corvo mariño grande" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Veliki_vranac" title="Veliki vranac" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Kormoran_besar" title="Kormoran besar" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/D%C3%ADlaskarfur" title="Dílaskarfur" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Phalacrocorax_carbo" title="Phalacrocorax carbo" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A8%D7%9E%D7%95%D7%A8%D7%9F_%D7%92%D7%93%D7%95%D7%9C" title="קורמורן גדול" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Qirmiraviya_re%C5%9F" title="Qirmiraviya reş" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/J%C5%ABras_krauklis" title="Jūras krauklis" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Didysis_kormoranas" title="Didysis kormoranas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Nagy_k%C3%A1r%C3%B3katona" title="Nagy kárókatona" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%80%E0%B5%BC%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%95" title="നീർക്കാക്ക" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mi"><a href="//mi.wikipedia.org/wiki/Kawau" title="Kawau" lang="mi" hreflang="mi">Māori</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%AE%E0%A5%8B%E0%A4%A0%E0%A4%BE_%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A4%95%E0%A4%BE%E0%A4%B5%E0%A4%B3%E0%A4%BE" title="मोठा पाणकावळा" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Dendang_Air" title="Burung Dendang Air" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B0%D0%B3_%D0%B3%D0%BE%D0%B3%D0%BE%D0%B9" title="Тураг гогой" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Aalscholver" title="Aalscholver" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%82%A6" title="カワウ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Ialgus" title="Ialgus" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Storskarv" title="Storskarv" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Storskarv" title="Storskarv" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%88%DA%88%D8%A7_%DA%A9%D9%88%D8%B1%D9%85%DB%8C%D9%86%D9%B9" title="وڈا کورمینٹ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Grand_Cam%C3%A0rin" title="Grand Camàrin" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Phalacrocorax_carbo" title="Phalacrocorax carbo" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kormoran_zwyczajny" title="Kormoran zwyczajny" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Corvo-marinho-de-faces-brancas" title="Corvo-marinho-de-faces-brancas" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BC%D0%BE%D1%80%D0%B0%D0%BD" title="Корморан" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B1%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD" title="Большой баклан" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sc"><a href="//sc.wikipedia.org/wiki/Phalacrocorax_carbo" title="Phalacrocorax carbo" lang="sc" hreflang="sc">Sardu</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Great_Cormorant" title="Great Cormorant" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Kormor%C3%A1n_ve%C4%BEk%C3%BD" title="Kormorán veľký" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Veliki_kormoran" title="Veliki kormoran" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Veliki_vranac" title="Veliki vranac" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Merimetso" title="Merimetso" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Storskarv" title="Storskarv" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88" title="นกกาน้ำใหญ่" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_karabatak" title="Büyük karabatak" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9" title="Баклан великий" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/C%E1%BB%91c_%C4%91%E1%BA%BF" title="Cốc đế" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-vls"><a href="//vls.wikipedia.org/wiki/Butstekker" title="Butstekker" lang="vls" hreflang="vls">West-Vlams</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E9%B8%95%E9%B6%BF" title="普通鸕鶿" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 October 2012 at 19:10.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Great_Cormorant&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv246 in 0.170 secs. -->
+	</body>
+</html>

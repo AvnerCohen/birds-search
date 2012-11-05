@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Gadwall - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gadwall&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gadwall&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gadwall","wgTitle":"Gadwall","wgCurRevisionId":501096714,"wgArticleId":226454,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from September 2010","IUCN Red List least concern species","Articles with \'species\' microformats","Anas","Ducks","Migratory birds (Eastern hemisphere)","Migratory birds (Western hemisphere)","Birds of Europe","Birds of Pakistan","Birds of Iceland","Birds of Canada","Birds of Iran","Birds of Turkey","Birds of the United States","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gadwall","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"b708a2bbed50b917c9f886b32789494e","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":226454,"title":"Gadwall","namespace":0,"categories":["Anas","Articles with \'species\' microformats","Birds of Canada","Birds of Europe","Birds of Iceland","Birds of Iran","Birds of Pakistan","Birds of Turkey","Birds of Western Sahara","Birds of the United States","Ducks","IUCN Red List least concern species","Migratory birds (Eastern hemisphere)","Migratory birds (Western hemisphere)","Wikipedia articles needing page number citations from September 2010"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({
+"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:deddd9b1d1718c216e913c8d345259d4 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Gadwall skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Gadwall</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="display:none;" class="pef-notification-container gratitude">
+	<div class="pef-notification">
+		<div class="pef-icon pef-icon-checkmark">&nbsp;</div>
+		<span></span>
+	</div>
+</div>
+<div style="display:none;" class="pef-notification-container historical">
+	<div class="pef-notification">
+		<div class="pef-icon pef-icon-checkmark">&#160;</div>
+		<span></span>
+	</div>
+</div><div class="dablink">For other uses, see <a href="/wiki/Gadwall_(disambiguation)" title="Gadwall (disambiguation)">Gadwall (disambiguation)</a>.</div>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Gadwall</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Anas-strepera-001.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Anas-strepera-001.jpg/220px-Anas-strepera-001.jpg" width="220" height="147" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Male</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Gadwall_female_RWD6.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gadwall_female_RWD6.jpg/220px-Gadwall_female_RWD6.jpg" width="220" height="165" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Female</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN_0-0" class="reference"><a href="#cite_note-IUCN-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animalia" title="Animalia" class="mw-redirect">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Anatinae" title="Anatinae">Anatinae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Anas" title="Anas">Anas</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. strepera</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Anas strepera</i></span></b><br />
+<small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, 1758</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>A. s. strepera</i> <small>(Linnaeus, 1758)</small><br />
+<small>(Common Gadwall)</small></li>
+<li>†<i>A. s. couesi</i> <small>(<a href="/wiki/Thomas_Hale_Streets" title="Thomas Hale Streets">Streets</a>, 1876)</small><br />
+<small>(<a href="/wiki/Coues%27_Gadwall" title="Coues' Gadwall">Coues' Gadwall</a> – <a href="/wiki/Extinct" title="Extinct" class="mw-redirect">extinct</a>)</small></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Gadwall</b> (<i><b>Anas strepera</b></i>) is a common and widespread <a href="/wiki/Duck" title="Duck">duck</a> of the family <a href="/wiki/Anatidae" title="Anatidae">Anatidae</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Taxonomy"><span class="tocnumber">4</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Literature_cited"><span class="tocnumber">6</span> <span class="toctext">Literature cited</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Gadwall&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gadwalls_I_IMG_7068.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gadwalls_I_IMG_7068.jpg/220px-Gadwalls_I_IMG_7068.jpg" width="220" height="137" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gadwalls_I_IMG_7068.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a></div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gadwall,_juvenile,_Quetico.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gadwall%2C_juvenile%2C_Quetico.jpg/220px-Gadwall%2C_juvenile%2C_Quetico.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gadwall,_juvenile,_Quetico.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Juvenile, <a href="/wiki/Quetico_Provincial_Park" title="Quetico Provincial Park">Quetico Provincial Park</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a></div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Gadwall_drake.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gadwall_drake.jpg/170px-Gadwall_drake.jpg" width="170" height="267" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gadwall_drake.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A drake</div>
+</div>
+</div>
+<p>The Gadwall is 46–56&#160;cm (18–22&#160;in) long with a 78–90&#160;cm (31–35&#160;in) wingspan.<sup id="cite_ref-Floyd_1-0" class="reference"><a href="#cite_note-Floyd-1"><span>[</span>2<span>]</span></a></sup> The male is slightly larger than the female, weighing on average 990&#160;g (35&#160;oz) against her 850&#160;g (30&#160;oz).<sup id="cite_ref-Madge_2-0" class="reference"><a href="#cite_note-Madge-2"><span>[</span>3<span>]</span></a></sup> The breeding male is patterned grey, with a black rear end, light chestnut wings, and a brilliant white <a href="/wiki/Speculum_feathers" title="Speculum feathers">speculum</a>, obvious in flight or at rest.<sup id="cite_ref-Dunn_3-0" class="reference"><a href="#cite_note-Dunn-3"><span>[</span>4<span>]</span></a></sup> In non-breeding (eclipse) plumage, the drake looks more like the female, but retains the male wing pattern, and is usually greyer above and has less orange on the bill.<sup id="cite_ref-Madge_2-1" class="reference"><a href="#cite_note-Madge-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The female is light brown, with plumage much like a female <a href="/wiki/Mallard" title="Mallard">Mallard</a>. It can be distinguished from that species by the dark orange-edged bill, smaller size, the white <a href="/wiki/Speculum_feathers" title="Speculum feathers">speculum</a>, and white belly.<sup id="cite_ref-Dunn_3-1" class="reference"><a href="#cite_note-Dunn-3"><span>[</span>4<span>]</span></a></sup> Both sexes go through two moults annually, following a juvenile moult.<sup id="cite_ref-Floyd_1-1" class="reference"><a href="#cite_note-Floyd-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The Gadwall is a quieter duck, except during its <a href="/wiki/Courtship_display" title="Courtship display">courtship display</a>. Females give a call similar to the <i>quack</i> of a female Mallard but higher-pitched, transcribed as <i>gag-ag-ag-ag</i>. Males give a grunt, transcribed as <i>nheck</i>, and a whistle.<sup id="cite_ref-Madge_2-2" class="reference"><a href="#cite_note-Madge-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Gadwall&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<p>The Gadwall breeds in the northern areas of <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Asia" title="Asia">Asia</a>, and central <a href="/wiki/North_America" title="North America">North America</a>. In North America, its breeding range lies along the <a href="/wiki/Saint_Lawrence_River" title="Saint Lawrence River">Saint Lawrence River</a>, through the <a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a>, <a href="/wiki/Alberta" title="Alberta">Alberta</a>, <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a>, the <a href="/wiki/Dakotas" title="Dakotas" class="mw-redirect">Dakotas</a>, south to <a href="/wiki/Kansas" title="Kansas">Kansas</a>, west to <a href="/wiki/California" title="California">California</a>, and along coastal <a href="/wiki/Pacific" title="Pacific" class="mw-redirect">Pacific</a> <a href="/wiki/Canada" title="Canada">Canada</a> and southern coastal <a href="/wiki/Alaska" title="Alaska">Alaska</a>.<sup id="cite_ref-Floyd_1-2" class="reference"><a href="#cite_note-Floyd-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Dunn_3-2" class="reference"><a href="#cite_note-Dunn-3"><span>[</span>4<span>]</span></a></sup> The range of this bird appears to be expanding into eastern North America. This <a href="/wiki/Dabbling_duck" title="Dabbling duck" class="mw-redirect">dabbling duck</a> is strongly <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, and winters farther south than its breeding range, from coastal <a href="/wiki/Alaska" title="Alaska">Alaska</a>, south into <a href="/wiki/Central_America" title="Central America">Central America</a>, and east into <a href="/wiki/Idaho" title="Idaho">Idaho</a>, <a href="/wiki/Kansas" title="Kansas">Kansas</a>, <a href="/wiki/Ohio" title="Ohio">Ohio</a>, <a href="/wiki/Virginia" title="Virginia">Virginia</a>, and then south all the way into Central America.<sup id="cite_ref-Floyd_1-3" class="reference"><a href="#cite_note-Floyd-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Dunn_3-3" class="reference"><a href="#cite_note-Dunn-3"><span>[</span>4<span>]</span></a></sup> Its conservation status is <a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a>.<sup id="cite_ref-IUCN_0-1" class="reference"><a href="#cite_note-IUCN-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>In <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>, the Gadwall is a scarce-breeding bird and winter visitor, though its population has increased in recent years. It is likely that its expansion was partly through introduction, mainly to England, and partly through colonization to <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>, with continental birds staying to breed in <a href="/wiki/Scotland" title="Scotland">Scotland</a>. It has been reported in the <a href="/wiki/River_Avon_(Hampshire)" title="River Avon (Hampshire)">River Avon</a> in <a href="/wiki/Hampshire" title="Hampshire">Hampshire</a>. In <a href="/wiki/Ireland" title="Ireland">Ireland</a> a small breeding population has recently become established, centred on <a href="/wiki/Wexford" title="Wexford">Wexford</a> in the south and <a href="/wiki/Lough_Neagh" title="Lough Neagh">Lough Neagh</a> in the north.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Gadwall&amp;action=edit&amp;section=3" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gadwalls_I_IMG_1087.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gadwalls_I_IMG_1087.jpg/220px-Gadwalls_I_IMG_1087.jpg" width="220" height="146" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gadwalls_I_IMG_1087.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Pair up-ending in Kolkata</div>
+</div>
+</div>
+<p>The Gadwall is a bird of open wetlands, such as <a href="/wiki/Prairie" title="Prairie">prairie</a> or <a href="/wiki/Steppe" title="Steppe">steppe</a> lakes, wet grassland or marshes with dense fringing vegetation, and usually feeds by dabbling for plant food with head submerged. It nests on the ground, often some distance from water. It is not as gregarious as some dabbling ducks outside the breeding season and tends to form only small flocks. This is a fairly quiet species; the male has a hoarse whistling call, and the female has a Mallard-like quack. The young birds are fed <a href="/wiki/Insect" title="Insect">insects</a> at first; adults also eat some molluscs and insects during the nesting season. The Gadwall is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Gadwall&amp;action=edit&amp;section=4" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<p>This species was first described by <a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a> in his <i>Systema naturae</i> in 1758 under its current scientific name.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The Gadwall's closest relative within the genus <i>Anas</i> is the <a href="/wiki/Falcated_Duck" title="Falcated Duck">Falcated Duck</a>, followed by the <a href="/wiki/Wigeon" title="Wigeon">wigeons</a>.<sup id="cite_ref-Johnson_6-0" class="reference"><a href="#cite_note-Johnson-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>There are two subspecies although one is <a href="/wiki/Extinct" title="Extinct" class="mw-redirect">extinct</a>:</p>
+<ul>
+<li><i>A. strepera strepera</i>, <b>Common Gadwall</b> the nominate subspecies.<sup id="cite_ref-Clements_7-0" class="reference"><a href="#cite_note-Clements-7"><span>[</span>8<span>]</span></a></sup></li>
+<li><i>A. strepera couesi</i>, <b>Coues' Gadwall</b>, extinct circa 1874, was located on <a href="/wiki/Tabuaeran" title="Tabuaeran">Fanning Island</a>.<sup id="cite_ref-Clements_7-1" class="reference"><a href="#cite_note-Clements-7"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<p>The <a href="/wiki/Etymology" title="Etymology">etymology</a> of the word <i>Gadwall</i> is not known but the term has been recorded in usage from 1666.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Gadwall&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">BirdLife International, 2009</span></li>
+<li id="cite_note-Floyd-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Floyd_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Floyd_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Floyd_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Floyd_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Floyd, 2008<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears from September 2010">page&#160;needed</span></a></i>]</sup></span></li>
+<li id="cite_note-Madge-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Madge_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Madge_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Madge_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Madge and Burn, 1988, pp. 200–202</span></li>
+<li id="cite_note-Dunn-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dunn_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dunn_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Dunn_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Dunn_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Dunn and Alderfer, 2006<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears from September 2010">page&#160;needed</span></a></i>]</sup></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation Journal"><i>Irish Birds</i> <b>9</b>: 68. 2010.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=&amp;rft.jtitle=Irish+Birds&amp;rft.date=2010&amp;rft.volume=9&amp;rft.pages=68&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Linnaeus, 1758, p. 125</span></li>
+<li id="cite_note-Johnson-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnson_6-0">^</a></b></span> <span class="reference-text">Johnson and Sorenson, 1999</span></li>
+<li id="cite_note-Clements-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Clements_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Clements_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Clements, 2007<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears from September 2010">page&#160;needed</span></a></i>]</sup></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation book"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/gadwall">"gadwall"</a>. <i>Merriam-Webster</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.merriam-webster.com/dictionary/gadwall">http://www.merriam-webster.com/dictionary/gadwall</a></span><span class="reference-accessdate">. Retrieved 24 August 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=gadwall&amp;rft.atitle=Merriam-Webster&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fgadwall&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Gadwall&amp;action=edit&amp;section=6" title="Edit section: Literature cited">edit</a>]</span> <span class="mw-headline" id="Literature_cited">Literature cited</span></h2>
+<ul>
+<li><span class="citation Journal"><i>Forktail</i> <b>15</b>: 87.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=&amp;rft.jtitle=Forktail&amp;rft.volume=15&amp;rft.pages=87&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation web" id="CITEREFBirdLife_International2009">BirdLife International (2009). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/141496">"Anas strepera"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2009.2</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/141496">http://www.iucnredlist.org/apps/redlist/details/141496</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Anas+strepera&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2009.2&amp;rft.aulast=BirdLife+International&amp;rft.au=BirdLife+International&amp;rft.date=2009&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F141496&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Clements, James (2007). <a rel="nofollow" class="external text" href="http://www.cornellpress.cornell.edu/cup_detail.taf?ti_id=4566"><i>The Clements Checklist of the Birds of the World</i></a>. Ithaca: Cornell University Press<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.cornellpress.cornell.edu/cup_detail.taf?ti_id=4566">http://www.cornellpress.cornell.edu/cup_detail.taf?ti_id=4566</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Clements+Checklist+of+the+Birds+of+the+World%27%27&amp;rft.aulast=Clements&amp;rft.aufirst=James&amp;rft.au=Clements%2C%26%2332%3BJames&amp;rft.date=2007&amp;rft.place=Ithaca&amp;rft.pub=Cornell+University+Press&amp;rft_id=http%3A%2F%2Fwww.cornellpress.cornell.edu%2Fcup_detail.taf%3Fti_id%3D4566&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Floyd, T. (2008). <i>Smithsonian Field Guide to the Birds of North America</i>. New York: HarperCollins.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Smithsonian+Field+Guide+to+the+Birds+of+North+America&amp;rft.aulast=Floyd%2C+T.&amp;rft.au=Floyd%2C+T.&amp;rft.date=2008&amp;rft.place=New+York&amp;rft.pub=HarperCollins&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation Journal">Johnson, Kevin P.; Sorenson, Michael D. (July 1999). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Auk/v116n03/p0792-p0805.pdf">"Phylogeny and biogeography of dabbling ducks (genus: <i>Anas</i>): A comparison of molecular and morphological evidence"</a> (PDF). <i>The Auk</i> <b>116</b> (3): 792–805<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Auk/v116n03/p0792-p0805.pdf">http://elibrary.unm.edu/sora/Auk/v116n03/p0792-p0805.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Phylogeny+and+biogeography+of+dabbling+ducks+%28genus%3A+%27%27Anas%27%27%29%3A+A+comparison+of+molecular+and+morphological+evidence&amp;rft.jtitle=The+Auk&amp;rft.aulast=Johnson&amp;rft.aufirst=Kevin+P.&amp;rft.au=Johnson%2C%26%2332%3BKevin+P.&amp;rft.date=July+1999&amp;rft.volume=116&amp;rft.issue=3&amp;rft.pages=792%E2%80%93805&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FAuk%2Fv116n03%2Fp0792-p0805.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book"><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus, C.</a> (1758) (in Latin). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata.</i>. Holmiae. (Laurentii Salvii). "A. macula alarum rufa nigra alba."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata.&amp;rft.aulast=Linnaeus&amp;rft.aufirst=C.&amp;rft.au=Linnaeus%2C%26%2332%3BC.&amp;rft.date=1758&amp;rft.pub=Holmiae.+%28Laurentii+Salvii%29&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Madge, Steve; Burn, Hilary (1988). <i>Wildfowl: An Identification Guide to the Ducks, Geese and Swans of the World</i>. Christopher Helm. pp.&#160;222–224. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7470-2201-1" title="Special:BookSources/0-7470-2201-1">0-7470-2201-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Wildfowl%3A+An+Identification+Guide+to+the+Ducks%2C+Geese+and+Swans+of+the+World&amp;rft.aulast=Madge&amp;rft.aufirst=Steve&amp;rft.au=Madge%2C%26%2332%3BSteve&amp;rft.date=1988&amp;rft.pages=pp.%26nbsp%3B222%E2%80%93224&amp;rft.pub=Christopher+Helm&amp;rft.isbn=0-7470-2201-1&amp;rfr_id=info:sid/en.wikipedia.org:Gadwall"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Gadwall&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Anas_strepera" class="extiw" title="commons:Anas strepera">Gadwall</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 Encyclopædia Britannica</a> article <i><b><a href="//en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gadwall" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Gadwall">Gadwall</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=427&amp;m=0">BirdLife Species Factsheet</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rspb.org.uk/birds/guide/g/gadwall/index.asp">RSPB A to Z of UK Birds Page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.blevinsphoto.com/gadwall.htm">An article and photograph</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sdakotabirds.com/species/gadwall_info.htm">Gadwall Information and Photos - South Dakota Birds and Birding</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Gadwall.html">Gadwall Information - Cornell Lab of Ornithology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mbr-pwrc.usgs.gov/id/framlst/i1350id.html">Gadwall - USGS Patuxent Bird Identification InfoCenter</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.massaudubon.org/birdatlas/index.php?search=yes&amp;id=46">Massachusetts Breeding Bird Atlas</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/gadwall-anas-strepera">Gadwall videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="3">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:North_American_Game" title="Template:North American Game"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:North_American_Game" title="Template talk:North American Game"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:North_American_Game&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Hunting#United_States" title="Hunting">Game animals and shooting in North America</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Game birds</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Northern_Bobwhite" title="Northern Bobwhite">Bobwhite Quail</a></li>
+<li><a href="/wiki/Chukar_Partridge" title="Chukar Partridge">Chukar</a></li>
+<li><a href="/wiki/Grey_Partridge" title="Grey Partridge">Hungarian Partridge</a></li>
+<li><a href="/wiki/Greater_Prairie_Chicken" title="Greater Prairie Chicken">Prairie Chicken</a></li>
+<li><a href="/wiki/Mourning_Dove" title="Mourning Dove">Mourning Dove</a></li>
+<li><a href="/wiki/Common_Pheasant" title="Common Pheasant">Ring-necked Pheasant</a></li>
+<li><a href="/wiki/Rock_Ptarmigan" title="Rock Ptarmigan">Ptarmigan</a></li>
+<li><a href="/wiki/Ruffed_Grouse" title="Ruffed Grouse">Ruffed Grouse</a></li>
+<li><a href="/wiki/Sharp-tailed_Grouse" title="Sharp-tailed Grouse">Sharp-tailed Grouse</a></li>
+<li><a href="/wiki/Wilson%27s_Snipe" title="Wilson's Snipe">Snipe (Common Snipe)</a></li>
+<li><a href="/wiki/Spruce_Grouse" title="Spruce Grouse">Spruce Grouse</a></li>
+<li><a href="/wiki/Wild_Turkey" title="Wild Turkey">Turkey</a></li>
+<li><a href="/wiki/Woodcock" title="Woodcock">Woodcock</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" style="width:0%;padding:0px 0px 0px 2px;" rowspan="9">
+<div>
+<div class="floatright"><a href="/wiki/File:BgforhuntingCrop.JPG" class="image" title="Waterfowl hunters"><img alt="Waterfowl hunters" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BgforhuntingCrop.JPG/65px-BgforhuntingCrop.JPG" width="65" height="61" /></a></div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Waterfowl</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_Black_Duck" title="American Black Duck">Black Duck</a></li>
+<li><a href="/wiki/Canada_Goose" title="Canada Goose">Canada Goose</a></li>
+<li><a href="/wiki/Canvasback" title="Canvasback">Canvasback</a></li>
+<li><strong class="selflink">Gadwall</strong></li>
+<li><a href="/wiki/Greater_Scaup" title="Greater Scaup">Greater Scaup</a></li>
+<li><a href="/wiki/Lesser_Scaup" title="Lesser Scaup">Lesser Scaup</a></li>
+<li><a href="/wiki/Mallard" title="Mallard">Mallard</a></li>
+<li><a href="/wiki/Northern_Pintail" title="Northern Pintail">Northern Pintail</a></li>
+<li><a href="/wiki/Redhead_(bird)" title="Redhead (bird)">Redhead</a></li>
+<li><a href="/wiki/Ross%27s_Goose" title="Ross's Goose">Ross's Goose</a></li>
+<li><a href="/wiki/Snow_Goose" title="Snow Goose">Snow Goose</a></li>
+<li><a href="/wiki/Wood_Duck" title="Wood Duck">Wood Duck</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Big game</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bighorn_Sheep" title="Bighorn Sheep" class="mw-redirect">Bighorn Sheep</a></li>
+<li><a href="/wiki/American_Black_Bear" title="American Black Bear" class="mw-redirect">Black Bear</a></li>
+<li><a href="/wiki/Razorback" title="Razorback">Razorback</a></li>
+<li><a href="/wiki/Brown_Bear" title="Brown Bear" class="mw-redirect">Brown Bear</a></li>
+<li><a href="/wiki/American_bison" title="American bison">Bison (Buffalo)</a></li>
+<li><a href="/wiki/Reindeer" title="Reindeer">Caribou</a></li>
+<li><a href="/wiki/Cougar" title="Cougar">Cougar (Mountain Lion)</a></li>
+<li><a href="/wiki/Elk" title="Elk">Elk</a></li>
+<li><a href="/wiki/Moose" title="Moose">Moose</a></li>
+<li><a href="/wiki/White-tailed_deer" title="White-tailed deer">White-tailed deer</a></li>
+<li><a href="/wiki/Gray_Wolf" title="Gray Wolf" class="mw-redirect">Gray wolf</a></li>
+<li><a href="/wiki/Mountain_goat" title="Mountain goat">Mountain goat</a></li>
+<li><a href="/wiki/Mule_deer" title="Mule deer">Mule Deer</a></li>
+<li><a href="/wiki/Pronghorn" title="Pronghorn">Pronghorn</a></li>
+<li><a href="/wiki/Muskox" title="Muskox">Muskox</a></li>
+<li><a href="/wiki/Dall_Sheep" title="Dall Sheep" class="mw-redirect">Dall Sheep</a></li>
+<li><a href="/wiki/Polar_bear" title="Polar bear">Polar Bear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Other quarry</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_alligator" title="American alligator">American alligator</a></li>
+<li><a href="/wiki/Bobcat" title="Bobcat">Bobcat</a></li>
+<li><a href="/wiki/Coyote" title="Coyote">Coyote</a></li>
+<li><a href="/wiki/Fox_squirrel" title="Fox squirrel">Fox Squirrel</a></li>
+<li><a href="/wiki/Gray_fox" title="Gray fox">Gray Fox</a></li>
+<li><a href="/wiki/Eastern_gray_squirrel" title="Eastern gray squirrel">Gray Squirrel</a></li>
+<li><a href="/wiki/Opossum" title="Opossum">Opossum</a></li>
+<li><a href="/wiki/Rabbit" title="Rabbit">Rabbit</a></li>
+<li><a href="/wiki/Raccoon" title="Raccoon">Raccoon</a></li>
+<li><a href="/wiki/Red_Fox" title="Red Fox" class="mw-redirect">Red Fox</a></li>
+<li><a href="/wiki/Snowshoe_Hare" title="Snowshoe Hare" class="mw-redirect">Snowshoe Hare</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">See also</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bear_hunting" title="Bear hunting">Bear hunting</a></li>
+<li><a href="/wiki/Big_game_hunting" title="Big game hunting">Big game hunting</a></li>
+<li><a href="/wiki/Bison_hunting" title="Bison hunting">Bison hunting</a></li>
+<li><a href="/wiki/Deer_hunting" title="Deer hunting">Deer hunting</a></li>
+<li><a href="/wiki/Waterfowl_hunting" title="Waterfowl hunting">Waterfowl hunting</a></li>
+<li><a href="/wiki/Wolf_hunting" title="Wolf hunting">Wolf hunting</a></li>
+<li><a href="/wiki/Upland_hunting" title="Upland hunting">Upland hunting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 11152/1000000
+Preprocessor generated node count: 56481/1500000
+Post-expand include size: 76196/2048000 bytes
+Template argument size: 22770/2048000 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 3/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:226454-0!*!0!!en!4!* and timestamp 20121011014433 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Gadwall&amp;oldid=501096714">http://en.wikipedia.org/w/index.php?title=Gadwall&amp;oldid=501096714</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Anas" title="Category:Anas">Anas</a></li><li><a href="/wiki/Category:Ducks" title="Category:Ducks">Ducks</a></li><li><a href="/wiki/Category:Migratory_birds_(Eastern_hemisphere)" title="Category:Migratory birds (Eastern hemisphere)">Migratory birds (Eastern hemisphere)</a></li><li><a href="/wiki/Category:Migratory_birds_(Western_hemisphere)" title="Category:Migratory birds (Western hemisphere)">Migratory birds (Western hemisphere)</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Iceland" title="Category:Birds of Iceland">Birds of Iceland</a></li><li><a href="/wiki/Category:Birds_of_Canada" title="Category:Birds of Canada">Birds of Canada</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_the_United_States" title="Category:Birds of the United States">Birds of the United States</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_September_2010" title="Category:Wikipedia articles needing page number citations from September 2010">Wikipedia articles needing page number citations from September 2010</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gadwall&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gadwall" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Gadwall"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Gadwall"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Gadwall" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Gadwall&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gadwall&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gadwall" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gadwall" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Gadwall&amp;oldid=501096714" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Gadwall&amp;id=501096714" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gadwall" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Gadwall&amp;oldid=501096714&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gadwall&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%91%D0%B0%D0%B1%D1%8B%D1%89%D0%B3%D1%8A%D1%83%D0%B0%D0%B1%D0%B6%D1%8D" title="Бабыщгъуабжэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D8%B7_%D8%B3%D9%85%D8%A7%D8%B1%D9%8A" title="بط سماري" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Boz_%C3%B6rd%C9%99k" title="Boz ördək" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D2%BA%D0%BE%D1%80%D0%BE_%D3%A9%D0%B9%D1%80%D3%99%D0%BA" title="Һоро өйрәк" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D0%BA%D0%B0_%D1%88%D1%8D%D1%80%D0%B0%D1%8F" title="Качка шэрая" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D0%BA%D0%B0_%D1%88%D1%8D%D1%80%D0%B0%D1%8F" title="Качка шэрая" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B2%D0%B0_%D0%BF%D0%B0%D1%82%D0%B8%D1%86%D0%B0" title="Сива патица" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Houad_louet" title="Houad louet" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/%C3%80nec_griset" title="Ànec griset" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kop%C5%99ivka_obecn%C3%A1" title="Kopřivka obecná" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Hwyaden_Lwyd" title="Hwyaden Lwyd" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Knarand" title="Knarand" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Schnatterente" title="Schnatterente" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/R%C3%A4%C3%A4kspart" title="Rääkspart" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Anas_strepera" title="Anas strepera" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Knaranaso" title="Knaranaso" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Ipar-ahate" title="Ipar-ahate" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Sutlont" title="Sutlont" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Canard_chipeau" title="Canard chipeau" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Eastein_(f%C3%BBgel)" title="Eastein (fûgel)" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Gadual" title="Gadual" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Pato_frisado" title="Pato frisado" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Patka_kreketaljka" title="Patka kreketaljka" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Anas_strepera" title="Anas strepera" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%95%D7%96_%D7%90%D7%A4%D7%95%D7%A8" title="ברווז אפור" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Pilkoji_antis" title="Pilkoji antis" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kendermagos_r%C3%A9ce" title="Kendermagos réce" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%97%E0%B4%A1%E0%B5%8D%E2%80%8C%E0%B4%B5%E0%B4%BE%E0%B5%BE_%E0%B4%8E%E0%B4%B0%E0%B4%A3%E0%B5%8D%E0%B4%9F" title="ഗഡ്‌വാൾ എരണ്ട" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%91%D0%BE%D1%80_%D0%BD%D1%83%D0%B3%D0%B0%D1%81" title="Бор нугас" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Krakeend" title="Krakeend" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AB%E3%83%A8%E3%82%B7%E3%82%AC%E3%83%A2" title="オカヨシガモ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/Moqa_aqa_bad" title="Moqa aqa bad" lang="ce" hreflang="ce">Нохчийн</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Madelan" title="Madelan" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Snadderand" title="Snadderand" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Snadderand" title="Snadderand" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%AF%D8%A7%DA%88%D9%88%D8%A7%D9%84" title="گاڈوال" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Pineuzon" title="Pineuzon" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Anas_strepera" title="Anas strepera" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Krakwa" title="Krakwa" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Frisada" title="Frisada" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D0%BA%D0%B0_%D1%81%D0%BC%D1%83%D0%B3%D0%B0%D1%82%D0%B0" title="Качка смугата" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0" title="Серая утка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%94%D1%8C%D0%B0%D2%95%D1%8B%D0%BB_%D1%83%D0%B9%D1%83%D1%81" title="Дьаҕыл уйус" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/R%C3%A1nessn%C3%A1rttal" title="Ránessnárttal" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ka%C4%8Dica_chrip%C4%BEavka" title="Kačica chripľavka" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Patka_kreketaljka" title="Patka kreketaljka" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Harmaasorsa" title="Harmaasorsa" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Snatterand" title="Snatterand" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Boz_%C3%B6rdek" title="Boz ördek" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BE%D0%B7%D0%B5%D0%BD%D1%8C" title="Нерозень" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%B5%A4%E8%86%80%E9%B8%AD" title="赤膀鸭" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 July 2012 at 13:20.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Gadwall&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw42 in 0.218 secs. -->
+	</body>
+</html>
