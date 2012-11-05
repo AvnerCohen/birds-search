@@ -3,59 +3,83 @@
 // Wikipedia for the pages of each of the species.
 var nodeio = require('node.io');
 var async = require('async');
-
+var fs = require('fs');
 var child_proc = require('child_process');
 var path = require('path');
-
-nodeio.scrape(function() {
-    this.getHtml('http://israbirding.com/checklist/', function(err, $) {
-        var species = [];
-
-        $('#main_list tr td.en').each(function(bird_species) {
-            species.push(parseSpeciesName(bird_species.text));
-        });
-        swarm(species);
-    });
-});
 
 function parseSpeciesName(orig) {
     return (orig.replace(/\ /g, "_"));
 }
-//Now, scrape the wiki page and save each on to birds-kb spot:
 
-function scrapeChunk(idx) {
-    var chunk = g_chunkedArray[idx];
-    var cmd = path.join(__dirname, "scrapejob.js");
-    // var job = child_proc.fork(cmd, [chunk]);
-    var job = job.execFile(cmd, [chunk]);
+function scrapeWikiPage(species_name, callback) {
+    console.log(species_name + "::1Scraping");
 
-    job.on('exit', function(code, signal) {
-        console.log('child process terminated due to receipt of signal: ' + signal + ", with code: " + code);
+    nodeio.scrape(function() {
+        this.get('http://en.wikipedia.org/wiki/', function(err, data) {
+            console.log(species_name + "::3DataRecevied");
+
+            if (err) {
+                saveToDisk("error" + species_name, err);
+            } else {
+                saveToDisk(species_name, data);
+            }
+            callback(species_name);
+        });
     });
-    job.stdout.on('data', function(data){
-      console.log("CHILDLOG:" + data);
+
+
+}
+
+function saveToDisk(species_name, data) {
+    console.log(species_name + "::4Saving");
+    fs.writeFile("./birds-kb/" + species_name + "_data.txt", data, function(err) {
+        if (err) {
+            console.log(err);
+        }
     });
 }
 
-var g_chunkedArray = [];
+var doneOnce = false;
+var g_speciesList = [];
+var q = null;
 
-function swarm(arrSpecies) {
+function doIt(species) {
 
-    var methodsObj = {};
-    g_chunkedArray = arrayToChunks(arrSpecies);
+    if (!doneOnce) {
+        doneOnce = true;
+        g_speciesList = species;
+        q = async.queue(function(item, callback) {
+            scrapeWikiPage(item.bird);
+        }, 7);
 
-    for (var i = 0; i < g_chunkedArray.length; i++) {
-        scrapeChunk(i);
+        while(g_speciesList.length){
+          addToQueue();
+        }
+        q.on("drain",function() {
+            console.error("Done scraping");
+        });
     }
+
 }
 
+function addToQueue() {
+    var new_item = g_speciesList.pop();
+    q.push({
+        bird: new_item
+    }, addToQueue);
 
-function arrayToChunks(array) {
-    var i, j, temparray, retArray = [],
-        chunk = 100;
-    for (i = 0, j = array.length; i < j; i += chunk) {
-        temparray = array.slice(i, i + chunk);
-        retArray.push(temparray);
-    }
-    return retArray;
 }
+
+function scrapeList() {
+    nodeio.scrape(function() {
+        this.getHtml('http://israbirding.com/checklist/', function(err, $) {
+            var species = [];
+            $('#main_list tr td.en').each(function(bird_species) {
+                species.push(parseSpeciesName(bird_species.text));
+            });
+            doIt(species);
+        });
+    });
+}
+
+scrapeList();

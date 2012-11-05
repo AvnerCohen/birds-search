@@ -1,148 +1,46 @@
 #! /usr/bin/env node
 
 var nodeio = require('node.io');
+var fs = require('fs');
 var options = {
     timeout: 1,
-    max: 20
+    max: 5
 };
-var fs = require('fs');
-//var species = process.argv[2].split(",");
-var species  =[ 'Ostrich',
-  'Red-throated_Loon',
-  'Black-throated_Loon',
-  'Horned_Grebe',
-  'Black-necked_Grebe',
-  'Little_Grebe',
-  'Great_Crested_Grebe',
-  'Red-necked_Grebe',
-  'Shy_Albatross',
-  'Atlantic_Petrel',
-  'Fea\'s_Petrel',
-  'Soft-plumaged_Petrel',
-  'Cory\'s_Shearwater',
-  'Streaked_Shearwater',
-  'Flesh-footed_Shearwater',
-  'Sooty_Shearwater',
-  'Great_Shearwater',
-  'Little_Shearwater',
-  'Audubon\'s_Shearwater',
-  'Balearic_Shearwater',
-  'Yelkouan_Shearwater',
-  'European_Storm-Petrel',
-  'Wilson\'s_Storm-Petrel',
-  'Leach\'s_Storm-Petrel',
-  'Madeiran_Storm-Petrel',
-  'Swinhoe\'s_Storm-Petrel',
-  'Red-billed_Tropicbird',
-  'Northern_Gannet',
-  'Brown_Booby',
-  'Masked_Booby',
-  'European_Shag',
-  'Great_Cormorant',
-  'Pygmy_Cormorant',
-  'Lesser_Frigatebird',
-  'African_Darter',
-  'White_Pelican',
-  'Dalmatian_Pelican',
-  'Pink-backed_Pelican',
-  'Great_Bittern',
-  'Little_Bittern',
-  'Black-crowned_Night_Heron',
-  'Mangrove_Heron',
-  'Intermediate_Egret',
-  'Cattle_Egret',
-  'Squacco_Heron',
-  'Little_Egret',
-  'Western_Reef_Heron',
-  'Great_Egret',
-  'Grey_Heron',
-  'Purple_Heron',
-  'Goliath_Heron',
-  'Black_Heron',
-  'Black-headed_Heron',
-  'Marabou_Stork',
-  'Yellow-billed_Stork',
-  'White_Stork',
-  'Black_Stork',
-  'Glossy_Ibis',
-  'Northern_Bald_Ibis',
-  'Eurasian_Spoonbill',
-  'Greater_Flamingo',
-  'Lesser_Flamingo',
-  'Mute_Swan',
-  'Whooper_Swan',
-  'Tundra_Swan',
-  'Greater_White-fronted_Goose',
-  'Lesser_White-fronted_Goose',
-  'Greylag_Goose',
-  'Bean_Goose',
-  'Red-breasted_Goose',
-  'Lesser_Whistling_Duck',
-  'Egyptian_Goose',
-  'Common_Shelduck',
-  'Ruddy_Shelduck',
-  'Mallard',
-  'Gadwall',
-  'Northern_Pintail',
-  'Northern_Shoveler',
-  'Eurasian_Wigeon',
-  'Common_Teal',
-  'Cape_Teal',
-  'Red-billed_Teal',
-  'Garganey',
-  'Marbled_Duck',
-  'Common_Pochard',
-  'Red-crested_Pochard',
-  'Southern_Pochard',
-  'Ferruginous_Duck',
-  'Greater_Scaup',
-  'Tufted_Duck',
-  'Common_Eider',
-  'Velvet_Scoter',
-  'Long-tailed_Duck',
-  'Common_Goldeneye',
-  'Smew',
-  'Goosander',
-  'Red-breasted_Merganser',
-  'White-headed_Duck',
-  'Lammergeier',
-  'Eurasian_Griffon_Vulture' ];
+var species = process.argv[2].split(",");
+var species2 = ['Ostrich', 'Red-throated_Loon', 'Black-throated_Loon', 'Horned_Grebe', 'Black-necked_Grebe', 'Little_Grebe', 'Great_Crested_Grebe', 'Red-necked_Grebe', 'Shy_Albatross', 'Atlantic_Petrel', 'Fea\'s_Petrel', 'Soft-plumaged_Petrel', 'Cory\'s_Shearwater', 'Streaked_Shearwater', 'Flesh-footed_Shearwater', 'Sooty_Shearwater', 'Great_Shearwater', 'Little_Shearwater', 'Audubon\'s_Shearwater', 'Balearic_Shearwater', 'Yelkouan_Shearwater', 'European_Storm-Petrel', 'Wilson\'s_Storm-Petrel', 'Leach\'s_Storm-Petrel', 'Madeiran_Storm-Petrel', 'Swinhoe\'s_Storm-Petrel', 'Red-billed_Tropicbird', 'Northern_Gannet', 'Brown_Booby', 'Masked_Booby', 'European_Shag', 'Great_Cormorant', 'Pygmy_Cormorant', 'Lesser_Frigatebird', 'African_Darter', 'White_Pelican', 'Dalmatian_Pelican', 'Pink-backed_Pelican', 'Great_Bittern', 'Little_Bittern', 'Black-crowned_Night_Heron', 'Mangrove_Heron', 'Intermediate_Egret', 'Cattle_Egret', 'Squacco_Heron', 'Little_Egret', 'Western_Reef_Heron', 'Great_Egret', 'Grey_Heron', 'Purple_Heron', 'Goliath_Heron', 'Black_Heron', 'Black-headed_Heron', 'Marabou_Stork', 'Yellow-billed_Stork', 'White_Stork', 'Black_Stork', 'Glossy_Ibis', 'Northern_Bald_Ibis', 'Eurasian_Spoonbill', 'Greater_Flamingo', 'Lesser_Flamingo', 'Mute_Swan', 'Whooper_Swan', 'Tundra_Swan', 'Greater_White-fronted_Goose', 'Lesser_White-fronted_Goose', 'Greylag_Goose', 'Bean_Goose', 'Red-breasted_Goose', 'Lesser_Whistling_Duck', 'Egyptian_Goose', 'Common_Shelduck', 'Ruddy_Shelduck', 'Mallard', 'Gadwall', 'Northern_Pintail', 'Northern_Shoveler', 'Eurasian_Wigeon', 'Common_Teal', 'Cape_Teal', 'Red-billed_Teal', 'Garganey', 'Marbled_Duck', 'Common_Pochard', 'Red-crested_Pochard', 'Southern_Pochard', 'Ferruginous_Duck', 'Greater_Scaup', 'Tufted_Duck', 'Common_Eider', 'Velvet_Scoter', 'Long-tailed_Duck', 'Common_Goldeneye', 'Smew', 'Goosander', 'Red-breasted_Merganser', 'White-headed_Duck', 'Lammergeier', 'Eurasian_Griffon_Vulture', 'Cinereous_Vulture', 'Lappet-faced_Vulture', 'Egyptian_Vulture', 'White-tailed_Eagle', 'Golden_Eagle', 'Eastern_Imperial_Eagle', 'Lesser_Spotted_Eagle', 'Greater_Spotted_Eagle', 'Steppe_Eagle', 'Tawny_Eagle', 'Verreaux\'s_Eagle', 'Bateleur', 'Short-toed_Eagle', 'Booted_Eagle', 'Bonelli\'s_Eagle', 'Red_Kite', 'Black_Kite', 'Marsh_Harrier', 'Black-winged_Kite', 'Hen_Harrier', 'Montagu\'s_Harrier', 'Pallid_Harrier', 'Rough-legged_Buzzard', 'Long-legged_Buzzard', 'Common_Buzzard', 'European_Honey_Buzzard', 'Crested_Honey_Buzzard', 'Eurasian_Sparrowhawk', 'Shikra', 'Levant_Sparrowhawk', 'Northern_Goshawk', 'Dark_Chanting-Goshawk', 'Osprey', 'Common_Kestrel', 'Lesser_Kestrel', 'Red-footed_Falcon', 'Eurasian_Hobby', 'Eleonora\'s_Falcon', 'Sooty_Falcon', 'Peregrine_Falcon', 'Barbary_Falcon', 'Merlin', 'Saker_Falcon', 'Lanner_Falcon', 'Black_Francolin', 'Chukar', 'Sand_Partridge', 'Common_Quail', 'Corncrake', 'Water_Rail', 'Spotted_Crake', 'Little_Crake', 'Baillon\'s_Crake', 'Common_Moorhen', 'Common_Coot', 'Purple_Swamp-hen', 'Common_Crane', 'Demoiselle_Crane', 'Great_Bustard', 'Macqueen\'s_Bustard', 'Little_Bustard', 'Painted_Snipe', 'Eurasian_Oystercatcher', 'Pied_Avocet', 'Black-winged_Stilt', 'Crab_Plover', 'Stone-curlew', 'Cream-coloured_Courser', 'Collard_Pratincole', 'Black-winged_Pratincole', 'Oriental_Pratincole', 'Little_Ringed_Plover', 'Common_Ringed_Plover', 'Kentish_Plover', 'Kittlitz\'s_Plover', 'Lesser_Sand_Plover', 'Greater_Sand_Plover', 'Caspian_Plover', 'Grey_Plover', 'Eurasian_Golden_Plover', 'American_Golden_Plover', 'Pacific_Golden_Plover', 'Eurasian_Dotterel', 'Black-headed_Lapwing', 'Northern_Lapwing', 'Spur-winged_Lapwing', 'Red-wattled_Lapwing', 'Sociable_Lapwing', 'White-tailed_Lapwing', 'Great_Knot', 'Red_Knot', 'Sanderling', 'Dunlin', 'Curlew_Sandpiper', 'Semipalmated_Sandpiper', 'Red-necked_Stint', 'Baird\'s_Sandpiper', 'White-rumped_Sandpiper', 'Temminck\'s_Stint', 'Little_Stint', 'Long-toed_Stint', 'Pectoral_Sandpiper', 'Broad-billed_Sandpiper', 'Ruff', 'Great_Snipe', 'Common_Snipe', 'Jack_Snipe', 'Pin-tailed_Snipe', 'Eurasian_Woodcock', 'Long-billed_Dowitcher', 'Black-tailed_Godwit', 'Bar-tailed_Godwit', 'Eurasian_Curlew', 'Whimbrel', 'Slender-billed_Curlew', 'Wood_Sandpiper', 'Green_Sandpiper', 'Common_Redshank', 'Spotted_Redshank', 'Common_Greenshank', 'Marsh_Sandpiper', 'Lesser_Yellowlegs', 'Terek_Sandpiper', 'Common_Sandpiper', 'Ruddy_Turnstone', 'Red_Phalarope', 'Red-necked_Phalarope', 'South_Polar_Skua', 'Great_Skua', 'Pomarine_Skua', 'Parasitic_Skua', 'Long-tailed_Skua', 'Grey-headed_Gull', 'Brown-headed_Gull', 'Black-headed_Gull', 'Slender-billed_Gull', 'Common_Gull', 'Mediterranean_Gull', 'Audouin\'s_Gull', 'Great_Black-backed_Gull', 'Lesser_Black-backed_Gull', 'Herring_Gull', 'Yellow-legged_Gull', 'Armenian_Gull', 'Caspian_Gull', 'Pallas\'s_Gull', 'Little_Gull', 'Black-legged_Kittiwake', 'Sabine\'s_Gull', 'Glaucous_Gull', 'Sooty_Gull', 'White-eyed_Gull', 'Franklin\'s_Gull', 'Saunders\'s_Tern', 'Little_Tern', 'Sandwich_Tern', 'Gull-Billed_Tern', 'Common_Tern', 'Arctic_Tern', 'Roseate_Tern', 'Caspian_Tern', 'Greater_Crested_Tern', 'Lesser_Crested_Tern', 'Sooty_Tern', 'Bridled_Tern', 'White-cheeked_Tern', 'Black_Tern', 'White-winged_Tern', 'Whiskered_Tern', 'African_Skimmer', 'Black-bellied_Sandgrouse', 'Pin-tailed_Sandgrouse', 'Spotted_Sandgrouse', 'Crowned_Sandgrouse', 'Lichtenstein\'s_Sandgrouse', 'Rock_Dove', 'Stock_Dove', 'Wood_Pigeon', 'African_Collared_Dove', 'Eurasian_Collared_Dove', 'European_Turtle_Dove', 'Oriental_Turtle_Dove', 'Laughing_Dove', 'Namaqua_Dove', 'Diederik_Cuckoo', 'Common_Cuckoo', 'Oriental_Cuckoo', 'Great_Spotted_Cuckoo', 'Barn_Owl', 'Tawny_Owl', 'Hume\'s_Owl', 'Eurasian_Eagle_Owl', 'Pharaoh_Eagle_Owl', 'Brown_Fish_Owl', 'Long-eared_Owl', 'Short-eared_Owl', 'Little_Owl', 'Eurasian_Scops_Owl', 'Pallid_Scops_Owl', 'European_Nightjar', 'Egyptian_Nightjar', 'Nubian_Nightjar', 'Common_Swift', 'Pallid_Swift', 'Alpine_Swift', 'Little_Swift', 'Common_Kingfisher', 'White-throated_Kingfisher', 'Pied_Kingfisher', 'European_Bee-eater', 'Blue-cheeked_Bee-eater', 'Little_Green_Bee-eater', 'Rose-ringed_Parakeet', 'Black-hooded_Parakeet', 'Monk_Parakeet', 'European_Roller', 'Eurasian_Hoopoe', 'Syrian_Woodpecker', 'Eurasian_Wryneck', 'Common_Skylark', 'Oriental_Skylark', 'Crested_Lark', 'Woodlark', 'Greater_Short-toed_Lark', 'Hume\'s_Short-toed_Lark', 'Lesser_Short-toed_Lark', 'Desert_Lark', 'Bar-tailed_Lark', 'Dunn\'s_Lark', 'Black-crowned_Sparrow-lark', 'Chestnut-headed_Sparrow-Lark', 'Calandra_Lark', 'Bimaculated_Lark', 'Thick-billed_Lark', 'Horned_Lark', 'Temminck\'s_(Horned)_Lark', 'Hoopoe_Lark', 'Sand_Martin', 'Plain_Martin', 'Eurasian_Crag_Martin', 'Rock_Martin', 'Ethiopian_Swallow', 'Barn_Swallow', 'Red-rumped_Swallow', 'Common_House_Martin', 'Tawny_Pipit', 'Long-billed_Pipit', 'Richard\'s_Pipit', 'Blyth\'s_Pipit', 'Water_Pipit', 'Buff-bellied_Pipit', 'Meadow_Pipit', 'Tree_Pipit', 'Olive-backed_Pipit', 'Red-throated_Pipit', 'White_Wagtail', 'Yellow_Wagtail', 'Citrine_Wagtail', 'Grey_Wagtail', 'Spectacled_Bulbul', 'Bohemian_Waxwing', 'Grey_Hypocolius', 'Wren', 'Dunnock', 'Alpine_Accentor', 'Radde\'s_Accentor', 'Black-throated_Accentor', 'European_Robin', 'Common_Nightingale', 'Thrush_Nightingale', 'Rufous_Bush_Robin', 'Black_Bush_Robin', 'Bluethroat', 'Red-flanked_Bluetail', 'White-throated_Robin', 'Common_Redstart', 'Black_Redstart', 'Eversmann\'s_Redstart', 'Blackstart', 'Whinchat', 'European_Stonechat', 'Pied_Bushchat', 'Northern_Wheatear', 'Isabelline_Wheatear', 'Desert_Wheatear', 'Black-eared_Wheatear', 'Pied_Wheatear', 'Variable_Wheatear', 'Cyprus_Wheatear', 'Finsch\'s_Wheatear', 'Mourning_Wheatear', 'Hooded_Wheatear', 'White-crowned_Wheatear', 'Black_Wheatear', 'Kurdish_Wheatear', 'Red-tailed_Wheatear', 'Red-rumped_Wheatear', 'Blue_Rock-Thrush', 'Rufous-tailed_Rock-Thrush', 'Song_Thrush', 'Redwing', 'Mistle_Thrush', 'Fieldfare', 'Common_Blackbird', 'Ring_Ouzel', 'Dark-throated_Thrush', 'Dusky_Thrush', 'Eye-browed_Thrush', 'Cetti\'s_Warbler', 'Zitting_Cisticola', 'Graceful_Prinia', 'Scrub_Warbler', 'Common_Grasshopper_Warbler', 'Pallas\'s_Grasshopper_Warbler', 'River_Warbler', 'Savi\'s_Warbler', 'Sedge_Warbler', 'Moustached_Warbler', 'Blyth\'s_Reed_Warbler', 'Paddyfield_Warbler', 'Marsh_Warbler', 'Great_Reed_Warbler', 'Clamorous_Reed_Warbler', 'Eurasian_Reed_Warbler', 'Oriental_Great_Reed_Warbler', 'Basra_Reed_Warbler', 'Icterine_Warbler', 'Olive-tree_Warbler', 'Upcher\'s_Warbler', 'Eastern_Olivaceous_Warbler', 'Booted_Warbler', 'Sykes\'s_Warbler', 'Garden_Warbler', 'Barred_Warbler', 'Blackcap', 'Eastern_Orphean_Warbler', 'Arabian_Warbler', 'Lesser_Whitethroat', 'Sardinian_Warbler', 'Ménétries\'s_Warbler', 'Cyprus_Warbler', 'Rüppell\'s_Warbler', 'Common_Whitethroat', 'Spectacled_Warbler', 'Subalpine_Warbler', 'Asian_Desert_Warbler', 'Willow_Warbler', 'Wood_Warbler', 'Balkan_(Eastern_Bonelli\'s)_Warbler', 'Chiffchaff', 'Dusky_Warbler', 'Radde\'s_Warbler', 'Mountain_Chiffchaff', 'Green_Warbler', 'Yellow-browed_Warbler', 'Hume\'s_Leaf_Warbler', 'Pallas\'s_Warbler', 'Goldcrest', 'Firecrest', 'Red-breasted_Flycatcher', 'Spotted_Flycatcher', 'Pied_Flycatcher', 'Collared_Flycatcher', 'Semi-collared_Flycatcher', 'Arabian_Babbler', 'Bearded_Reedling', 'Great_Tit', 'Coal_Tit', 'Sombre_Tit', 'Western_Rock_Nuthatch', 'Wallcreeper', 'Eurasian_Penduline_Tit', 'Palestine_Sunbird', 'Eurasian_Golden_Oriole', 'Red-backed_Shrike', 'Isabelline_Shrike', 'Turkestan_Shrike', 'Woodchat_Shrike', 'Masked_Shrike', 'Long-tailed_Shrike', 'Southern_Grey_Shrike', 'Lesser_Grey_Shrike', 'Eurasian_Jay', 'Western_Jackdaw', 'Red-billed_Chough', 'Alpine_Chough', 'Rook', 'Hooded_Crow', 'Common_Raven', 'Brown-necked_Raven', 'House_Crow', 'Common_Myna', 'Vinous-breasted_Myna', 'Fan-tailed_Raven', 'Tristram\'s_Starling', 'Common_Starling', 'Rose-Coloured_Starling', 'House_Sparrow', 'Spanish_Sparrow', 'Eurasian_Tree_Sparrow', 'Dead_Sea_Sparrow', 'Rock_Sparrow', 'Indian_Silverbill', 'Chestnut-shouldered_Sparrow', 'Pale_Rockfinch', 'Common_Chaffinch', 'Brambling', 'Common_Linnet', 'European_Goldfinch', 'European_Greenfinch', 'Eurasian_Siskin', 'European_Serin', 'Syrian_Serin', 'Red-Fronted_Serin', 'Common_Crossbill', 'Hawfinch', 'Common_Rosefinch', 'Sinai_Rosefinch', 'Trumpeter_Finch', 'Crimson-winged_Finch', 'Desert_Finch', 'Corn_Bunting', 'Reed_Bunting', 'Little_Bunting', 'Rustic_Bunting', 'Ortolan_Bunting', 'Cretzschmar\'s_Bunting', 'Yellowhammer', 'Pine_Bunting', 'Cinereous_Bunting', 'Red-headed_Bunting', 'Black-headed_Bunting', 'Yellow-breasted_Bunting', 'Rock_Bunting', 'Striolated_Bunting'];
 
 
 function scrapeWikiPage(idx) {
     var species_name = species[idx];
-    console.log(species_name + "::Scraping");
-    nodeio.scrape((function(name) {
-        return function() {
-            console.log(name + "::FuncInvoked");
-            this.get('http://en.wikipedia.org/wiki/' + name, function(err, data) {
-                console.log(name + "::DataRecevied");
+    console.log(species_name + "::1Scraping");
+    nodeio.scrape(function() {
+        console.log(name + "::2FuncInvoked");
+        this.get('http://en.wikipedia.org/wiki/' + species_name, function(err, data) {
+            console.log(species_name + "::3DataRecevied");
 
-                if (err) {
-                    saveToDisk("error" + name, err);
-                } else {
-                    saveToDisk(name, data);
-                }
+            if (err) {
+                saveToDisk("error" + species_name, err);
+            } else {
+                saveToDisk(species_name, data);
+            }
 
-            });
-        };
-    })(species_name));
+        });
+    });
 
 }
 
 function saveToDisk(species_name, data) {
-    console.log(species_name + "::Saving");
+    console.log(species_name + "::4Saving");
     fs.writeFile("./birds-kb/" + species_name + "_data.txt", data, function(err) {
         if (err) {
             console.log(err);
-        };
+        }
     });
 }
 
 function doIt() {
     for (var i = 0; i < species.length; i++) {
         scrapeWikiPage(i);
-
     }
 }
 
