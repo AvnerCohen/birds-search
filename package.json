@@ -5,7 +5,8 @@
   "author": "Avner Cohen <israbirding@gmail.com>",
   "dependencies": {
     "ecstatic": "~0.1.6",
-    "node.io": "~0.4.12"
+    "node.io": "~0.4.12",
+    "async": "~0.1.22"
   },
   "engines": {
     "node": "0.8.x",
