@@ -21,22 +21,13 @@ nodeio.scrape(function() {
 function parseSpeciesName(orig) {
     return (orig.replace(/\ /g, "_"));
 }
-
 //Now, scrape the wiki page and save each on to birds-kb spot:
-//http://en.wikipedia.org/wiki/xxxxx
 
-function savePageToDisk(species_name, data) {
-
-}
-
-function scrapePageFromWiki(species_name) {
-
-}
 
 function scrapeChunk(idx) {
     var chunk = g_chunkedArray[idx];
     var cmd = path.join(__dirname, "scrapejob.js");
-    var job = spawn(cmd, chunk);
+    var job = spawn(cmd, [chunk] );
 
     job.on('exit', function(code) {
         console.log('Done scraping job: ' + idx);

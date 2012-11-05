@@ -1,22 +1,34 @@
 #! /usr/bin/env node
 
 var nodeio = require('node.io');
-var options = {timeout: 1, max: 20};
+var options = {
+    timeout: 1,
+    max: 20
+};
+var fs = require('fs');
+var species = process.argv[2];
 
-var job = new nodeio.Job(options, {
-  input : null,//dummy 
-    run: function (keyword) {
-      console.log("runnnnn");
-        this.getHtml('http://www.google.com/search?q=' + encodeURIComponent(keyword), function (err, $) {
-            var results = $('#resultStats').text.toLowerCase();
-            this.emit(keyword + ' has ' + results);
+
+function scrapeWikiPage(species_name) {
+    nodeio.scrape(function() {
+        this.get('http://en.wikipedia.org/wiki/' + species_name, function(err, data) {
+            saveToDisk(species_name, data);
         });
-    },
-    output: function(text){
-      console.log(text);
-    }
-});
+    });
+}
 
-job.input = process.argv;
-//execute
-job.run();
+function saveToDisk(species_name, data) {
+    var stream = fs.createWriteStream("./birds-kb/" + species_name + "_data.txt");
+    stream.once('open', function(fd) {
+        stream.write(data + "\n");
+    });
+}
+
+function doIt() {
+    for (var i = 0; i < species.length; i++) {
+        scrapeWikiPage(species[i]);
+    }
+}
+
+
+doIt();
