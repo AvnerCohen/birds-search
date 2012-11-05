@@ -32,7 +32,6 @@ for (var i = 0; i < files.length; i++) {
   client.add(doc, done); 
 }
 function done(){
-  log("done adding");
    client.commit();
 
 }
