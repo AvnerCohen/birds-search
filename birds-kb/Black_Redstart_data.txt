@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Black Redstart - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Black_Redstart&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Black_Redstart&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Black_Redstart","wgTitle":"Black Redstart","wgCurRevisionId":515045046,"wgArticleId":194500,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Phoenicurus","Birds of Europe","Birds of Asia","Birds of Nepal"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Black_Redstart","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"33e052ced7cf8c6f057a5d71b1c3d91a","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":194500,"title":"Black Redstart","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Asia","Birds of Europe","Birds of Nepal","IUCN Red List least concern species","Phoenicurus"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Black_Redstart skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Black Redstart</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Black Redstart</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Hausrotschwanz_Brutpflege_2006-05-21-05.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/250px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg" width="250" height="188" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Male of subspecies <i>Phoenicurus ochruros gibraltariensis</i> at nest, Germany.</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Muscicapidae" title="Muscicapidae" class="mw-redirect">Muscicapidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Phoenicurus" title="Phoenicurus">Phoenicurus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. ochruros</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Phoenicurus ochruros</i></span></b><br />
+<small>(<a href="/wiki/Samuel_Gottlieb_Gmelin" title="Samuel Gottlieb Gmelin">S. G. Gmelin</a>, 1774)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p>5-7, see text</p>
+</td>
+</tr>
+</table>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phoenicurus_ochruros_1_(Marek_Szczepanek).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Phoenicurus_ochruros_1_%28Marek_Szczepanek%29.jpg/220px-Phoenicurus_ochruros_1_%28Marek_Szczepanek%29.jpg" width="220" height="145" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phoenicurus_ochruros_1_(Marek_Szczepanek).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Immature European Black Redstart.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Black_Redstart_(Phoenicurus_ochruros)-_Male_at_Sultanpur_I_Picture1042.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Black_Redstart_%28Phoenicurus_ochruros%29-_Male_at_Sultanpur_I_Picture1042.jpg/220px-Black_Redstart_%28Phoenicurus_ochruros%29-_Male_at_Sultanpur_I_Picture1042.jpg" width="220" height="216" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Black_Redstart_(Phoenicurus_ochruros)-_Male_at_Sultanpur_I_Picture1042.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Male <i>Phoenicurus ochruros rufiventris</i> at <a href="/wiki/Sultanpur_National_Park" title="Sultanpur National Park">Sultanpur National Park</a> in <a href="/wiki/Gurgaon" title="Gurgaon">Gurgaon</a> district of <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phoenicurus_ochruros_semirufus.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Phoenicurus_ochruros_semirufus.png/220px-Phoenicurus_ochruros_semirufus.png" width="220" height="157" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phoenicurus_ochruros_semirufus.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Levantine Black Redstart <i>Phoenicurus ochruros semirufus</i>.</div>
+</div>
+</div>
+<p>The <b>Black Redstart</b> (<i>Phoenicurus ochruros</i>) is a small <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Redstart" title="Redstart">redstart</a> genus <i><a href="/wiki/Phoenicurus" title="Phoenicurus">Phoenicurus</a></i>. Like its relatives, it was formerly classed as a member of the <a href="/wiki/Thrush_(bird)" title="Thrush (bird)">Thrush</a> family (Turdidae), but is now known to be an <a href="/wiki/Old_World_flycatcher" title="Old World flycatcher">Old World flycatcher</a> (Muscicapidae).</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution_and_habitat"><span class="tocnumber">2</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Systematics"><span class="tocnumber">3</span> <span class="toctext">Systematics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">6</span> <span class="toctext">Gallery</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Redstart&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Black Redstart is 13–14.5&#160;cm in length and 12–20 g in weight, similar to the <a href="/wiki/Common_Redstart" title="Common Redstart">Common Redstart</a>. The adult male is overall dark grey to black on the upperparts and with a black breast; the lower rump and tail are orange-red, with the two central tail feathers dark red-brown. The belly and undertail are either blackish-grey (western subspecies; see Systematics, below) or orange-red (eastern subspecies); the wings are blackish-grey with pale fringes on the secondaries forming a whitish panel (western subspecies) or all blackish (eastern subspecies). The female is grey (western subspecies) to grey-brown (eastern subspecies) overall except for the orange-red lower rump and tail, greyer than the Common Redstart; at any age the grey axillaries and underwing coverts are also distinctive (in the Common Redstart these are buff to orange-red). One-year old males are similar to females but blacker; the whitish wing panel of the western subspecies does not develop until the second year.<sup id="cite_ref-Hoyo_1-0" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Snow_2-0" class="reference"><a href="#cite_note-Snow-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Redstart&amp;action=edit&amp;section=2" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<p>It is a widespread breeder in south and central <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Asia" title="Asia">Asia</a> and northwest <a href="/wiki/Africa" title="Africa">Africa</a>, from <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> and <a href="/wiki/Ireland" title="Ireland">Ireland</a> (where local) south to <a href="/wiki/Morocco" title="Morocco">Morocco</a>, east to central <a href="/wiki/China" title="China">China</a>. It is resident in the milder parts of its range, but northeastern birds <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> to winter in southern and western Europe and Asia, and north Africa. It nests in crevices or holes in buildings.<sup id="cite_ref-Hoyo_1-1" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Snow_2-1" class="reference"><a href="#cite_note-Snow-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>In Britain it is most common in as a passage and winter visitor, with only 20–50 pairs breeding.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> On passage it is fairly common on the east and south coasts, and in winter on the coasts of Wales and western and southern England, with a few also at inland sites. Migrant Black Redstarts arrive in Britain in October or November and either move on or remain to winter, returning eastward in March or April. They also winter on the south and east coasts of Ireland.<sup id="cite_ref-Snow_2-2" class="reference"><a href="#cite_note-Snow-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The species originally inhabited stony ground in <a href="/wiki/Mountain" title="Mountain">mountains</a>, particularly <a href="/wiki/Cliff" title="Cliff">cliffs</a>, but since about 1900 has expanded to include similar urban habitats including bombed areas during and after <a href="/wiki/World_War_II" title="World War II">World War II</a>, and large industrial complexes that have the bare areas and cliff-like buildings it favours; in Great Britain, most of the small breeding population nests in such industrial areas. It will catch passing <a href="/wiki/Insect" title="Insect">insects</a> in flight, and migrants often hunt in coastal tide-wrack for <a href="/wiki/Fly" title="Fly">flies</a> or tiny <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a>. Its quick ducks of head and body are <a href="/wiki/European_Robin" title="European Robin">robin</a>-like, and its tail is often flicked. The male has a rattling song and a <i>tick</i> call.</p>
+<p>Eastern race birds are very rare vagrants in western Europe.<sup id="cite_ref-Steijn_4-0" class="reference"><a href="#cite_note-Steijn-4"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Redstart&amp;action=edit&amp;section=3" title="Edit section: Systematics">edit</a>]</span> <span class="mw-headline" id="Systematics">Systematics</span></h2>
+<p>This species belongs to a Eurasian <a href="/wiki/Clade" title="Clade">clade</a> which also includes the <a href="/wiki/Daurian_Redstart" title="Daurian Redstart">Daurian Redstart</a>, <a href="/wiki/Hodgson%27s_Redstart" title="Hodgson's Redstart">Hodgson's Redstart</a>, the <a href="/wiki/White-winged_Redstart" title="White-winged Redstart" class="mw-redirect">White-winged Redstart</a>, and maybe the <a href="/wiki/Ala_Shan_Redstart" title="Ala Shan Redstart" class="mw-redirect">Ala Shan Redstart</a>. The present species' ancestors diverged from about 3 <a href="/wiki/Mya_(unit)" title="Mya (unit)" class="mw-redirect">mya</a> (<a href="/wiki/Late_Pliocene" title="Late Pliocene" class="mw-redirect">Late Pliocene</a>) onwards and spread throughout much of <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a> from 1.5 mya onward.<sup id="cite_ref-Ertan_5-0" class="reference"><a href="#cite_note-Ertan-5"><span>[</span>6<span>]</span></a></sup> It is not very closely related to the Common Redstart. As these are separated by different <a href="/wiki/Behaviour" title="Behaviour" class="mw-redirect">behaviour</a> and <a href="/wiki/Ecology" title="Ecology">ecological</a> requirements and have not evolved <a href="/w/index.php?title=Fertilisation_barriers&amp;action=edit&amp;redlink=1" class="new" title="Fertilisation barriers (page does not exist)">fertilisation barriers</a>, the two European species can nonetheless produce apparently fertile and viable <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybrids</a>.<sup id="cite_ref-Steijn_4-1" class="reference"><a href="#cite_note-Steijn-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Grosch_6-0" class="reference"><a href="#cite_note-Grosch-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>There are a number of <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> which differ mainly in underpart colours of the adult males; different authorities accept between five and seven subspecies. They can be separated into three major groups, according to <a href="/wiki/Morphology_(biology)" title="Morphology (biology)">morphology</a>, <a href="/wiki/Biogeography" title="Biogeography">biogeography</a>, and <a href="/wiki/MtDNA" title="MtDNA" class="mw-redirect">mtDNA</a> <a href="/wiki/Cytochrome_b" title="Cytochrome b">cytochrome <i>b</i></a> <a href="/wiki/DNA_sequence" title="DNA sequence" class="mw-redirect">sequence</a> data.<sup id="cite_ref-Hoyo_1-2" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Snow_2-3" class="reference"><a href="#cite_note-Snow-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Ertan_5-1" class="reference"><a href="#cite_note-Ertan-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Grosch_6-1" class="reference"><a href="#cite_note-Grosch-6"><span>[</span>7<span>]</span></a></sup></p>
+<p><b><i>P. o. phoenicuroides</i> group</b>. <a href="/wiki/Basal_(phylogenetics)" title="Basal (phylogenetics)">basal</a> central and eastern Asian forms which diverged from the ancestral stock as the species slowly spread west (c.3-1.5 mya). Females and juveniles light grey-brown.</p>
+<ul>
+<li><i>Phoenicurus ochruros phoenicuroides</i>. <a href="/wiki/Tian_Shan" title="Tian Shan">Tian Shan</a> eastwards to <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a>. Small; adult males have lower breast, belly and flanks deep rufous, pale wing-patch absent, sometimes white forehead. Overall quite similar to a much darker Common Redstart with black chest. Females and juveniles are similar to Common Redstart but have an overall sandier, paler colour and often a distinct buff eye-ring.</li>
+<li><i>Phoenicurus ochruros rufiventris</i>. <a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a> eastwards through <a href="/wiki/Pamir_Mountains" title="Pamir Mountains">Pamir</a> and <a href="/wiki/Alay_Mountains" title="Alay Mountains">Alay Mountains</a> to <a href="/wiki/Himalaya" title="Himalaya" class="mw-redirect">Himalaya</a>. Usually large; adult males like <i>P. o. phoenicuroides</i>, but darker overall, with black back and rufous-chestnut underside. Females with rufous tinge to underside. Exact limits with <i>P. o. phoenicuroides</i> unresolved.
+<ul>
+<li><i>Phoenicurus ochruros xerophilus</i>. <a href="/wiki/China" title="China">China</a> east of and between ranges of preceding two. Large; colour pattern like <i>P. o. phoenicuroides</i> but paler. Included in <i>P. o. rufiventris</i> by many authorities.<sup id="cite_ref-Hoyo_1-3" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+</li>
+</ul>
+<p><b><i>P. o. ochruros</i> group</b>. Western Asian forms, whose lineage separated from the <i>gibraltariensis</i> group c.1.5-0.5 mya. Females and juveniles intermediate.</p>
+<ul>
+<li><i>Phoenicurus ochruros ochruros</i>. Eastern <a href="/wiki/Turkey" title="Turkey">Turkey</a>, <a href="/wiki/Alborz" title="Alborz">Alborz</a>, and <a href="/wiki/Caucasus" title="Caucasus">Caucasus</a>. Small, somewhat intermediate between <i>P. o. phoenicuroides</i> and <i>P. o. gibraltariensis</i>. Generally like latter, but rufous underside, pale wing patch weakly developed.</li>
+<li><i>Phoenicurus ochruros semirufus</i>. <a href="/wiki/Levant" title="Levant">Levant</a>. Small; adult males somewhat similar to <i>rufiventris</i> except in size. Black areas extensive.</li>
+</ul>
+<p><b><i>P. o. gibraltariensis</i> group</b>. European population, which formed as a distinct subspecies probably during the <a href="/wiki/Last_ice_age" title="Last ice age" class="mw-redirect">last ice age</a>. Females and juveniles dark grey.</p>
+<ul>
+<li><i>Phoenicurus ochruros gibraltariensis</i>. Western Europe east to the <a href="/wiki/Crimea" title="Crimea">Crimea</a> and western Turkey. Neck, upper back and shoulders dark slate grey to black in adult males, lighter than face and neck, pale wing patch strongly developed.
+<ul>
+<li><i>Phoenicurus ochruros aterrimus</i>. <a href="/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberia</a> and Morocco.&#160;:Neck, upper back and shoulders black in adult males. Wide intergradation with <i>P. o. gibraltariensis</i> and treated as a synonym of it by many authorities.<sup id="cite_ref-Hoyo_1-4" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Redstart&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106006651">"<i>Phoenicurus ochruros</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106006651">http://www.iucnredlist.org/apps/redlist/details/106006651</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Phoenicurus+ochruros%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106006651&amp;rfr_id=info:sid/en.wikipedia.org:Black_Redstart"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Hoyo-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hoyo_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hoyo_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hoyo_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Hoyo_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Hoyo_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Hoyo, J. del, et al., eds. (2005). <i>Handbook of the Birds of the World, vol. 10</i>. Barcelona: Lynx Edicions. pp.&#160;770–771. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-72-5" title="Special:BookSources/84-87334-72-5">84-87334-72-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+the+World%2C+vol.+10&amp;rft.aulast=Hoyo&amp;rft.aufirst=J.+del%2C+et+al.%2C+eds.&amp;rft.au=Hoyo%2C%26%2332%3BJ.+del%2C+et+al.%2C+eds.&amp;rft.date=2005&amp;rft.pages=pp.%26nbsp%3B770%E2%80%93771&amp;rft.place=Barcelona&amp;rft.pub=Lynx+Edicions&amp;rft.isbn=84-87334-72-5&amp;rfr_id=info:sid/en.wikipedia.org:Black_Redstart"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Snow-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Snow_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Snow_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Snow_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Snow_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Snow, D. W., &amp; Perrins, C. M. (1998). <i>The Birds of the Western Palearctic</i> (Concise Edition ed.). Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854099-X" title="Special:BookSources/0-19-854099-X">0-19-854099-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+Western+Palearctic&amp;rft.aulast=Snow&amp;rft.aufirst=D.+W.%2C+%26+Perrins%2C+C.+M.&amp;rft.au=Snow%2C%26%2332%3BD.+W.%2C+%26+Perrins%2C+C.+M.&amp;rft.date=1998&amp;rft.edition=Concise+Edition&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-854099-X&amp;rfr_id=info:sid/en.wikipedia.org:Black_Redstart"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Holling, M. et al. (2010). Rare breeding birds in the United Kingdom in 2008. <i>British Birds</i> 103: 482–538.</span></li>
+<li id="cite_note-Steijn-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Steijn_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Steijn_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Steijn, Laurens B. (2005) Eastern Black Redstarts at IJmuiden, the Netherlands, and on Guernsey, Channel Islands, in October 2003, and their identification, distribution and taxonomy <i><a href="/wiki/Dutch_Birding" title="Dutch Birding">Dutch Birding</a></i> 27(3):171-194</span></li>
+<li id="cite_note-Ertan-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ertan_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ertan_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ertan, K. T. (2006). The Evolutionary History of Eurasian Redstarts, <i>Phoenicurus</i>. <i>Acta Zoologica Sinica</i> 52 (Supplement): 310–313. <a rel="nofollow" class="external text" href="http://www.actazool.org/downloadpdf.asp?id=5067">PDF fulltext</a></span></li>
+<li id="cite_note-Grosch-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Grosch_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Grosch_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Grosch, K. (2004). Hybridization Between Redstart <i>Phoenicurus phoenicurus</i> and Black Redstart <i>P. ochruros</i>, and the Effect on Habitat Exploitation. <i><a href="/wiki/Journal_of_Avian_Biology" title="Journal of Avian Biology">J. Avian Biol.</a></i> 35 (3): 217-223 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.0908-8857.2004.03128.x">10.1111/j.0908-8857.2004.03128.x</a> (HTML abstract)</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Redstart&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Phoenicurus_ochruros" class="extiw" title="commons:Phoenicurus ochruros">Phoenicurus ochruros</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/black-redstart-phoenicurus-ochruros">Black Redstart videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/331_BlackRedstartPochruros.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Black_Redstart&amp;action=edit&amp;section=6" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:27.5px auto;"><a href="/wiki/File:Black_Redstart_(Phoenicurus_ochruros)-_Female_at_Jayanti,_Duars,_WB_W_Picture_468.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Black_Redstart_%28Phoenicurus_ochruros%29-_Female_at_Jayanti%2C_Duars%2C_WB_W_Picture_468.jpg/120px-Black_Redstart_%28Phoenicurus_ochruros%29-_Female_at_Jayanti%2C_Duars%2C_WB_W_Picture_468.jpg" width="120" height="95" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Female at <a href="/wiki/Jayanti" title="Jayanti">Jayanti</a> in <a href="/wiki/Buxa_Tiger_Reserve" title="Buxa Tiger Reserve">Buxa Tiger Reserve</a> in <a href="/wiki/Jalpaiguri" title="Jalpaiguri">Jalpaiguri</a> district of <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Black_Redstart_(Phoenicurus_ochruros)_at_Sindhrot_near_Vadodara,_Gujrat_Pix_119.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Black_Redstart_%28Phoenicurus_ochruros%29_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_119.jpg/120px-Black_Redstart_%28Phoenicurus_ochruros%29_at_Sindhrot_near_Vadodara%2C_Gujrat_Pix_119.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Male <i>Phoenicurus ochruros rufiventris</i> at Sindhrot in <a href="/wiki/Vadodara" title="Vadodara">Vadodara</a> district of <a href="/wiki/Gujarat" title="Gujarat">Gujarat</a>, India.</p>
+</div>
+</div>
+</li>
+</ul>
+<p><span id="interwiki-de-fa"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5303/1000000
+Preprocessor generated node count: 37905/1500000
+Post-expand include size: 31482/2048000 bytes
+Template argument size: 7003/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:194500-0!*!0!!en!4!* and timestamp 20121017170851 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Black_Redstart&amp;oldid=515045046">http://en.wikipedia.org/w/index.php?title=Black_Redstart&amp;oldid=515045046</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Phoenicurus" title="Category:Phoenicurus">Phoenicurus</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Nepal" title="Category:Birds of Nepal">Birds of Nepal</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Black+Redstart&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Black+Redstart" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Black_Redstart"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Black_Redstart"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Black_Redstart" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Black_Redstart&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Black_Redstart&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Black_Redstart" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Black_Redstart" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Black_Redstart&amp;oldid=515045046" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Black_Redstart&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Black_Redstart&amp;id=515045046" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Black+Redstart" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Black+Redstart&amp;oldid=515045046&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Black_Redstart&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%83%D1%89%D1%85%D1%8C%D1%8D%D0%B1%D0%B7%D1%83%D0%BA%D3%80%D1%8D%D0%BF%D0%BB%D1%8A" title="КъущхьэбзукӀэплъ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Hausrotschwanz" title="Hausrotschwanz" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%AE_%D8%A7%D9%84%D8%B3%D9%85%D9%86" title="فرخ السمن" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Phoenicurus_ochruros" title="Phoenicurus ochruros" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B0_%D1%87%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE%D0%BE%D0%BF%D0%B0%D1%88%D0%BA%D0%B0" title="Домашна червеноопашка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Rulosteg_du" title="Rulosteg du" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Cotxa_fumada" title="Cotxa fumada" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Rehek_dom%C3%A1c%C3%AD" title="Rehek domácí" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Tingoch_Du" title="Tingoch Du" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Husr%C3%B8dstjert" title="Husrødstjert" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Hausrotschwanz" title="Hausrotschwanz" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Must-lepalind" title="Must-lepalind" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Phoenicurus_ochruros" title="Phoenicurus ochruros" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Nigra_ru%C4%9Dvostulo" title="Nigra ruĝvostulo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Buztangorri_ilun" title="Buztangorri ilun" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Dimmur_velrey%C3%B0i" title="Dimmur velreyði" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Rougequeue_noir" title="Rougequeue noir" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Rabirrubio_tiz%C3%B3n" title="Rabirrubio tizón" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Phoenicurus_ochruros" title="Phoenicurus ochruros" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/D%C5%ABmin%C4%97_raudonuodeg%C4%97" title="Dūminė raudonuodegė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/H%C3%A1zi_rozsdafark%C3%BA" title="Házi rozsdafarkú" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3_%E0%A4%A5%E0%A4%BF%E0%A4%B0%E0%A4%A5%E0%A4%BF%E0%A4%B0%E0%A4%BE" title="कृष्ण थिरथिरा" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B9%D0%BB%D0%BE%D0%BD_%D0%B3%D0%B0%D0%BB%D1%81%D2%AF%D2%AF%D0%BB%D1%82" title="Мойлон галсүүлт" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Zwarte_roodstaart" title="Zwarte roodstaart" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%82%B8%E3%83%A7%E3%82%A6%E3%83%93%E3%82%BF%E3%82%AD" title="クロジョウビタキ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Suartb%C3%BCket_ruadst%C3%B6rt" title="Suartbüket ruadstört" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Svartr%C3%B8dstjert" title="Svartrødstjert" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Svartraudstjert" title="Svartraudstjert" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Ramonaire" title="Ramonaire" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Rouche-tcheue_no%C3%A8r" title="Rouche-tcheue noèr" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Phoenicurus_ochruros" title="Phoenicurus ochruros" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kopciuszek_zwyczajny" title="Kopciuszek zwyczajny" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Rabirruivo-preto" title="Rabirruivo-preto" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B8%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D1%83%D1%88%D0%BA%D0%B0" title="Горихвостка-чернушка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/%C5%BDltochvost_domov%C3%BD" title="Žltochvost domový" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/%C5%A0marnica_(ptica)" title="Šmarnica (ptica)" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-szl"><a href="//szl.wikipedia.org/wiki/Drzikwost" title="Drzikwost" lang="szl" hreflang="szl">Ślůnski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Mustalepp%C3%A4lintu" title="Mustaleppälintu" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Svart_r%C3%B6dstj%C3%A4rt" title="Svart rödstjärt" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kara_k%C4%B1z%C4%B1lkuyruk" title="Kara kızılkuyruk" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B8%D1%85%D0%B2%D1%96%D1%81%D1%82%D0%BA%D0%B0_%D1%87%D0%BE%D1%80%D0%BD%D0%B0" title="Горихвістка чорна" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%B5%AD%E7%BA%A2%E5%B0%BE%E9%B8%B2" title="赭红尾鸲" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 September 2012 at 19:09.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Black_Redstart&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv277 in 0.163 secs. -->
+	</body>
+</html>

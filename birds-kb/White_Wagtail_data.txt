@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>White Wagtail - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=White_Wagtail&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=White_Wagtail&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"White_Wagtail","wgTitle":"White Wagtail","wgCurRevisionId":520751414,"wgArticleId":214484,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Russian language external links","Articles with Latin language external links","Articles with Japanese language external links","All articles with dead external links","Articles with dead external links from October 2010","Articles with invalid ISBNs","IUCN Red List least concern species","Articles with \'species\' microformats","Motacilla","Birds of Asia","Birds of Pakistan","Birds of Europe","Birds of Kenya","Birds of Western Australia","Animals described in 1758","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"White_Wagtail","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"1157ce76dd1df21e3046ed0f56649ed3","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":214484,"title":"White Wagtail","namespace":0,"categories":["All articles with dead external links","Animals described in 1758","Articles with \'species\' microformats","Articles with Japanese language external links","Articles with Latin language external links","Articles with Russian language external links","Articles with dead external links from October 2010","Articles with invalid ISBNs","Birds of Asia","Birds of Europe","Birds of Kenya","Birds of Pakistan","Birds of Western Australia","Birds of Western Sahara","IUCN Red List least concern species","Motacilla"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-White_Wagtail skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">White Wagtail</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><i>"Pied Wagtail" redirects here. For the related African bird, see <a href="/wiki/African_Pied_Wagtail" title="African Pied Wagtail">African Pied Wagtail</a>.</i></p>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">White Wagtail</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:White-Wagtail.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/White-Wagtail.jpg/220px-White-Wagtail.jpg" width="220" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/White-Wagtail.jpg/330px-White-Wagtail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/White-Wagtail.jpg/440px-White-Wagtail.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>M. alba alba</i></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Motacillidae" title="Motacillidae">Motacillidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Motacilla" title="Motacilla" class="mw-redirect">Motacilla</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. alba</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Motacilla alba</i></span></b><br />
+<small><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>White Wagtail</b> (<i>Motacilla alba</i>) is a small <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Wagtail" title="Wagtail">wagtail</a> <a href="/wiki/Family_(biology)" title="Family (biology)">family</a> Motacillidae, which also includes the <a href="/wiki/Pipit" title="Pipit">pipits</a> and <a href="/wiki/Longclaw" title="Longclaw">longclaws</a>. This <a href="/wiki/Species" title="Species">species</a> breeds in much of <a href="/wiki/Europe" title="Europe">Europe</a> and <a href="/wiki/Asia" title="Asia">Asia</a> and parts of north <a href="/wiki/Africa" title="Africa">Africa</a>. It is resident in the mildest parts of its range, but otherwise <a href="/wiki/Bird_migration" title="Bird migration">migrates</a> to <a href="/wiki/Africa" title="Africa">Africa</a>. It has a toehold in <a href="/wiki/Alaska" title="Alaska">Alaska</a> as a scarce breeder. In some areas, notably Britain and Ireland, the sub-species <b>Pied Wagtail</b> (<i>M. a. yarrellii</i>) predominates.</p>
+<p>This is an insectivorous <a href="/wiki/Bird" title="Bird">bird</a> of open country, often near habitation and water. It prefers bare areas for feeding, where it can see and pursue its prey. In urban areas it has adapted to foraging on paved areas such as car parks. It nests in crevices in stone walls and similar natural and man-made structures.</p>
+<p>The White Wagtail is the national bird of <a href="/wiki/Latvia" title="Latvia">Latvia</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy_and_systematics"><span class="tocnumber">1</span> <span class="toctext">Taxonomy and systematics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Subspecies"><span class="tocnumber">2.1</span> <span class="toctext">Subspecies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Status"><span class="tocnumber">3.1</span> <span class="toctext">Status</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Behaviour"><span class="tocnumber">4</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Diet_and_feeding"><span class="tocnumber">4.1</span> <span class="toctext">Diet and feeding</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Breeding"><span class="tocnumber">4.2</span> <span class="toctext">Breeding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Various_views_and_plumages"><span class="tocnumber">5</span> <span class="toctext">Various views and plumages</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=1" title="Edit section: Taxonomy and systematics">edit</a>]</span> <span class="mw-headline" id="Taxonomy_and_systematics">Taxonomy and systematics</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:402px;"><a href="/w/index.php?title=File:MotacillaAlbaDistribution.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/MotacillaAlbaDistribution.svg/400px-MotacillaAlbaDistribution.svg.png" width="400" height="279" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/MotacillaAlbaDistribution.svg/600px-MotacillaAlbaDistribution.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/MotacillaAlbaDistribution.svg/800px-MotacillaAlbaDistribution.svg.png 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MotacillaAlbaDistribution.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Breeding ranges of the major races</div>
+</div>
+</div>
+<p>The White Wagtail was one of the many species originally described by <a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a> in his 18th century work, <i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i>, and it still bears its original name of <i>Motacilla alba</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> The <a href="/wiki/Latin" title="Latin">Latin</a> genus name originally meant "little mover", but certain <a href="/wiki/Medieval" title="Medieval" class="mw-redirect">medieval</a> writers thought it meant "wag-tail", giving rise to a new Latin word <i>cilla</i> for "tail".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> The specific epithet <i>alba</i> is Latin for "white".</p>
+<p>Within the wagtail genus <i>Motacilla</i>, the White Wagtail's closest relatives appear to be other black-and-white wagtails such as the <a href="/wiki/Japanese_Wagtail" title="Japanese Wagtail">Japanese Wagtail</a>, <i>Motacilla grandis</i>, and the <a href="/wiki/White-browed_Wagtail" title="White-browed Wagtail">White-browed Wagtail</a>, <i>Motacilla madaraspatensis</i>, (and possibly the <a href="/wiki/Mekong_Wagtail" title="Mekong Wagtail">Mekong Wagtail</a>, <i>Motacilla samveasnae</i>, the <a href="/wiki/Phylogenetic" title="Phylogenetic" class="mw-redirect">phylogenetic</a> position of which is mysterious) with which it appears to form a <a href="/wiki/Superspecies" title="Superspecies">superspecies</a>. However <a href="/wiki/MtDNA" title="MtDNA" class="mw-redirect">mtDNA</a> <a href="/wiki/Cytochrome_b" title="Cytochrome b">cytochrome <i>b</i></a> and <a href="/wiki/NADH_dehydrogenase" title="NADH dehydrogenase">NADH dehydrogenase</a> <a href="/wiki/Protein_subunit" title="Protein subunit">subunit</a> 2 <a href="/wiki/DNA_sequence" title="DNA sequence" class="mw-redirect">sequence</a> data suggests that the White Wagtail is itself <a href="/wiki/Polyphyletic" title="Polyphyletic" class="mw-redirect">polyphyletic</a> or <a href="/wiki/Paraphyletic" title="Paraphyletic" class="mw-redirect">paraphyletic</a> (i.e. the species is not itself a single coherent grouping).<sup id="cite_ref-Voelker_2002_4-0" class="reference"><a href="#cite_note-Voelker_2002-4"><span>[</span>5<span>]</span></a></sup> Other phylogenetic studies using mtDNA however suggest that there is considerable gene flow within the races and the resulting closeness makes <i>Motacilla alba</i> a single species.<sup id="cite_ref-Pavlova_5-0" class="reference"><a href="#cite_note-Pavlova-5"><span>[</span>6<span>]</span></a></sup> Some studies have suggested the existence of only two groups&#160;: the <i>alboides</i> group, with <i>M. a. alboides</i>, <i>M. a. leucopsis</i> and <i>M. a. personata</i>; and the <i>alba</i> group, with <i>M. a. alba</i>, <i>M. a. yarrellii</i>, <i>M. a. baicalensis</i>, <i>M. a. ocularis</i>, <i>M. a. lugens</i>, and <i>M. a. subpersonata</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>This is a slender bird, 16.5–19&#160;cm (6½–7½&#160;in) in length (East Asian subspecies are longer, to 21&#160;cm (8¼&#160;in), with the characteristic long, constantly wagging tail of its genus. The <a href="/wiki/Nominate_subspecies" title="Nominate subspecies" class="mw-redirect">nominate subspecies</a> <i>Motacilla alba alba</i> is basically grey above and white below, with a white face, black cap and black throat.</p>
+<p>There are a number of other subspecies, some of which may have arisen because of partial geographical isolation, such as the resident British form, the Pied Wagtail <i>M. a. yarrellii</i>, which now also breeds in adjacent areas of the neighbouring European mainland. Pied Wagtail, named for naturalist <a href="/wiki/William_Yarrell" title="William Yarrell">William Yarrell</a>, exchanges the grey colour of the nominate form with black (or very dark grey in females), but is otherwise identical in its behaviour. Other subspecies, the validity of some of which is questionable, differ in the colour of the wings, back, and head, or other features. Some races show <a href="/wiki/Sexual_dimorphism" title="Sexual dimorphism">sexual dimorphism</a> during the breeding season. As many as six subspecies may be present in the wintering ground in India or Southeast Asia and here they can be difficult to distinguish.<sup id="cite_ref-pipwag_7-0" class="reference"><a href="#cite_note-pipwag-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> Phylogenetic studies using mtDNA suggest that some morphological features have evolved more than once including the back and chin colour. Breeding <i>M. a. yarrellii</i> look much like the nominate race except for the black back, and <i>M. a. alboides</i> of the Himalayas differs from the Central Asian <i>M. a. personata</i> only by its black back. <i>M. a. personata</i> has been recorded breeding in the Siddar Valley of Kashmir of the Western Himalayas.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> It has also been noted that both back and chin change colour during the <a href="/wiki/Plumage" title="Plumage">pre-basic moult</a>; all black-throated subspecies develop white chins and throats in winter and some black-backed birds are grey-backed in winter.<sup id="cite_ref-Pavlova_5-1" class="reference"><a href="#cite_note-Pavlova-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-pipwag_7-1" class="reference"><a href="#cite_note-pipwag-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>The call of the White Wagtail is a sharp <i>chisick</i>, slightly softer than the version given by Pied Wagtail. The song is a pleasant twittering, more regular in White than Pied, but with little territorial significance, since the male uses a series of contact calls to attract the female.<sup id="cite_ref-Simms_12-0" class="reference"><a href="#cite_note-Simms-12"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=3" title="Edit section: Subspecies">edit</a>]</span> <span class="mw-headline" id="Subspecies">Subspecies</span></h3>
+<p>Nine or eleven subspecies are currently recognised. Information on the plumage differences and distribution of the subspecies of White Wagtail is shown below.<sup id="cite_ref-Nakamura_1985_13-0" class="reference"><a href="#cite_note-Nakamura_1985-13"><span>[</span>14<span>]</span></a></sup></p>
+<table class="wikitable" style="width: 100%;">
+<tr>
+<th style="width: 17%;">Subspecies</th>
+<th style="width: 32%;">Range</th>
+<th style="width: 31%;">Notes</th>
+<th style="width: 20%;">Image</th>
+</tr>
+<tr>
+<td><i>M. a. alba</i></td>
+<td><a href="/wiki/Europe" title="Europe">Europe</a> from the <a href="/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberian Peninsula</a> to <a href="/wiki/Ural_Mountains" title="Ural Mountains">Ural Mountains</a>, Turkey, the Levant, <a href="/wiki/Iceland" title="Iceland">Iceland</a>, the <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a> and <a href="/wiki/Greenland" title="Greenland">Greenland</a>'s east coast. Some migrate to the south of Europe and Africa down as far as <a href="/wiki/Kenya" title="Kenya">Kenya</a> and <a href="/wiki/Malawi" title="Malawi">Malawi</a></td>
+<td><a href="/wiki/Subspecies#Nominate" title="Subspecies">Nominate subspecies</a></td>
+<td><a href="/wiki/File:Motacilla_alba_alba.JPG" class="image"><img alt="Motacilla alba alba.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Motacilla_alba_alba.JPG/150px-Motacilla_alba_alba.JPG" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Motacilla_alba_alba.JPG/225px-Motacilla_alba_alba.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Motacilla_alba_alba.JPG/300px-Motacilla_alba_alba.JPG 2x" /></a></td>
+</tr>
+<tr>
+<td><i>M. a. yarrellii</i></td>
+<td><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> and <a href="/wiki/Ireland" title="Ireland">Ireland</a>, birds in the northern part of the range winter in Spain and North Africa, those further south are resident.<sup id="cite_ref-HBW_14-0" class="reference"><a href="#cite_note-HBW-14"><span>[</span>15<span>]</span></a></sup></td>
+<td><b>Pied Wagtail</b>. Has a much blacker back than the nominate race, black of throat continues on side of neck</td>
+<td><a href="/wiki/File:Pied_Wagtail_rear_view_700.jpg" class="image"><img alt="Pied Wagtail rear view 700.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pied_Wagtail_rear_view_700.jpg/150px-Pied_Wagtail_rear_view_700.jpg" width="150" height="129" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pied_Wagtail_rear_view_700.jpg/225px-Pied_Wagtail_rear_view_700.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pied_Wagtail_rear_view_700.jpg/300px-Pied_Wagtail_rear_view_700.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><i>M. a. dukhunensis</i></td>
+<td><a href="/wiki/West_Siberian_Plain" title="West Siberian Plain">West Siberian Plain</a> - east <a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a> (part of <a href="/wiki/Russia" title="Russia">Russia</a>, <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>, <a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a>, <a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a>), winters in the Middle East and India. Sometimes included in <i>alba</i>.<sup id="cite_ref-HBW_14-1" class="reference"><a href="#cite_note-HBW-14"><span>[</span>15<span>]</span></a></sup></td>
+<td><b>Indian Pied Wagtail</b>. The upperparts of this subspecies are paler and more blue-grey than nominate, and has it has a continuous unbroken white panel on wing coverts.</td>
+<td></td>
+</tr>
+<tr>
+<td><i>M. a. persica</i></td>
+<td>North central and western <a href="/wiki/Iran" title="Iran">Iran</a>.</td>
+<td>Intermediate between <i>M. a. dukhunensis</i> and <i>M. a. personata</i>. Often included in <i>alba</i>; appears to be hybrid or intergrade population.<sup id="cite_ref-HBW_14-2" class="reference"><a href="#cite_note-HBW-14"><span>[</span>15<span>]</span></a></sup></td>
+<td><a href="/wiki/File:MotacillaAlbaPersica.jpg" class="image"><img alt="MotacillaAlbaPersica.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MotacillaAlbaPersica.jpg/150px-MotacillaAlbaPersica.jpg" width="150" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MotacillaAlbaPersica.jpg/225px-MotacillaAlbaPersica.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MotacillaAlbaPersica.jpg/300px-MotacillaAlbaPersica.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><i>M. a. subpersonata</i></td>
+<td>Non-migratory resident of <a href="/wiki/Morocco" title="Morocco">Morocco</a></td>
+<td><b>Moroccan Wagtail</b>. It has more black on the head than the nominate, and resembles a grey-backed, white-throated <a href="/wiki/African_Pied_Wagtail" title="African Pied Wagtail">African Pied Wagtail</a><sup id="cite_ref-HBW_14-3" class="reference"><a href="#cite_note-HBW-14"><span>[</span>15<span>]</span></a></sup></td>
+<td></td>
+</tr>
+<tr>
+<td><i>M. a. personata</i></td>
+<td><a href="/wiki/Hindu_Kush" title="Hindu Kush">Hindu Kush</a>, <a href="/wiki/Tian_Shan" title="Tian Shan">Tian Shan</a>, <a href="/wiki/Altay_Mountains" title="Altay Mountains" class="mw-redirect">Altay Mountains</a> (northern <a href="/wiki/Iran" title="Iran">Iran</a>, <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, <a href="/wiki/Tajikistan" title="Tajikistan">Tajikistan</a>, <a href="/wiki/Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a>, <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>, <a href="/wiki/Xinjiang" title="Xinjiang">Xinjiang</a>)</td>
+<td><b>Masked Wagtail</b>. All-black head with a white face mask</td>
+<td><a href="/wiki/File:White_wagtail_-_Male_(Non-breeding-_personata_race)_at_Hodal-_I_IMG_9164.jpg" class="image"><img alt="White wagtail - Male (Non-breeding- personata race) at Hodal- I IMG 9164.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9164.jpg/150px-White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9164.jpg" width="150" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9164.jpg/225px-White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9164.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9164.jpg/300px-White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9164.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><i>M. a. alboides</i></td>
+<td><a href="/wiki/Himalayas" title="Himalayas">Himalayas</a> and surrounding area</td>
+<td>This subspecies has a black back and a lot of black around the head, a white wing panel and white edges on the secondaries and tertials.</td>
+<td></td>
+</tr>
+<tr>
+<td><i>M. a. baicalensis</i></td>
+<td>Russia in <a href="/wiki/Lake_Baikal" title="Lake Baikal">Lake Baikal</a> area, <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a>, <a href="/wiki/Inner_Mongolia" title="Inner Mongolia">Inner Mongolia</a></td>
+<td>Resembles <i>M. a. leucopsis</i> but grey back and less white on head and wing.</td>
+<td></td>
+</tr>
+<tr>
+<td><i>M. a. ocularis</i></td>
+<td><a href="/wiki/Siberia" title="Siberia">Siberia</a>, <a href="/wiki/Far_Eastern_Federal_District" title="Far Eastern Federal District">Far Eastern</a> (Russia, eastwards from <a href="/wiki/Central_Siberian_Plateau" title="Central Siberian Plateau">Central Siberian Plateau</a>) expanding into West <a href="/wiki/Alaska" title="Alaska">Alaska</a></td>
+<td></td>
+</tr>
+<tr>
+<td><i>M. a. lugens</i></td>
+<td>Russia Far East (<a href="/wiki/Primorsky_Krai" title="Primorsky Krai">Primorsky Krai</a>, <a href="/wiki/Khabarovsk_Krai" title="Khabarovsk Krai">Khabarovsk Krai</a>), <a href="/wiki/Kamchatka_Peninsula" title="Kamchatka Peninsula">Kamchatka Peninsula</a>, <a href="/wiki/Kuril_Islands" title="Kuril Islands">Kuril Islands</a>, <a href="/wiki/Sakhalin" title="Sakhalin">Sakhalin</a>, <a href="/wiki/Japan" title="Japan">Japan</a> (<a href="/wiki/Hokkaid%C5%8D" title="Hokkaidō" class="mw-redirect">Hokkaidō</a>, <a href="/wiki/Honsh%C5%AB" title="Honshū" class="mw-redirect">Honshū</a>)</td>
+<td><b>Black-backed Wagtail</b> or Kamchatka/Japanese Pied Wagtail, similar to <i>M. a. yarrellii</i>, but has a black eyestripe and white <a href="/wiki/Remiges" title="Remiges" class="mw-redirect">remiges</a>; might have a claim to constitute a distinct species.</td>
+<td><a href="/wiki/File:Hakusekirei_06f5184cav.jpg" class="image"><img alt="Hakusekirei 06f5184cav.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hakusekirei_06f5184cav.jpg/150px-Hakusekirei_06f5184cav.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hakusekirei_06f5184cav.jpg/225px-Hakusekirei_06f5184cav.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hakusekirei_06f5184cav.jpg/300px-Hakusekirei_06f5184cav.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><i>M. a. leucopsis</i></td>
+<td><a href="/wiki/China" title="China">China</a>, <a href="/wiki/Korean_Peninsula" title="Korean Peninsula">Korean Peninsula</a>, <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a>, Japan (<a href="/wiki/Ryukyu_Islands" title="Ryukyu Islands">Ryukyu Islands</a>, <a href="/wiki/Ky%C5%ABsh%C5%AB" title="Kyūshū" class="mw-redirect">Kyūshū</a>)
+<p>expanding into Japan (Honshū), <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>, <a href="/wiki/India" title="India">India</a> and <a href="/wiki/Oceania" title="Oceania">Oceania</a></p>
+</td>
+<td><b>Amur Wagtail</b><sup id="cite_ref-BOUNews_15-0" class="reference"><a href="#cite_note-BOUNews-15"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup></td>
+<td><a href="/wiki/File:White_Wagtail-_(Non-breeding-_leucopsis_race)_at_Kolkata_I1_IMG_5597.jpg" class="image"><img alt="White Wagtail- (Non-breeding- leucopsis race) at Kolkata I1 IMG 5597.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I1_IMG_5597.jpg/150px-White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I1_IMG_5597.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I1_IMG_5597.jpg/225px-White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I1_IMG_5597.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I1_IMG_5597.jpg/300px-White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I1_IMG_5597.jpg 2x" /></a></td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=4" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:White_wagtail_distribution.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/White_wagtail_distribution.PNG/300px-White_wagtail_distribution.PNG" width="300" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/White_wagtail_distribution.PNG/450px-White_wagtail_distribution.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/White_wagtail_distribution.PNG/600px-White_wagtail_distribution.PNG 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:White_wagtail_distribution.PNG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Worldwide distribution of the White Wagtail. Yellow denotes summer range, green year round range, blue winter range.</div>
+</div>
+</div>
+<p>This species breeds throughout Eurasia up to latitudes 75°N, only being absent in the <a href="/wiki/Arctic" title="Arctic">Arctic</a> from areas where the July isotherm is less than 4 °C. It also breeds in the mountains of <a href="/wiki/Morocco" title="Morocco">Morocco</a> and western <a href="/wiki/Alaska" title="Alaska">Alaska</a>. It occupies a wide range of habitats, but is absent from deserts.<sup id="cite_ref-Simms_12-1" class="reference"><a href="#cite_note-Simms-12"><span>[</span>13<span>]</span></a></sup></p>
+<p>White Wagtail is resident in the milder parts of its range such as western Europe and the <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a>, but <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> in much of the rest of its range. Northern European breeders winter around the Mediterranean and in tropical and subtropical <a href="/wiki/Africa" title="Africa">Africa</a>,<sup id="cite_ref-BWP_18-0" class="reference"><a href="#cite_note-BWP-18"><span>[</span>19<span>]</span></a></sup> and Asiatic birds move to the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>, <a href="/wiki/India" title="India">India</a>,<sup id="cite_ref-HBW_14-4" class="reference"><a href="#cite_note-HBW-14"><span>[</span>15<span>]</span></a></sup> and <a href="/wiki/SouthEast_Asia" title="SouthEast Asia" class="mw-redirect">SouthEast Asia</a>.<sup id="cite_ref-Arlott_19-0" class="reference"><a href="#cite_note-Arlott-19"><span>[</span>20<span>]</span></a></sup> Birds from the North American population also winter in tropical Asia.<sup id="cite_ref-Sibley_20-0" class="reference"><a href="#cite_note-Sibley-20"><span>[</span>21<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=5" title="Edit section: Status">edit</a>]</span> <span class="mw-headline" id="Status">Status</span></h3>
+<p>This species has a large range, with an estimated extent of more than 10&#160;million&#160;km² (3.8&#160;sq&#160;mi). The population size is unknown, but it is believed to be large, as the species is described as "common" in at least parts of its range. Population trends have not been quantified, but the species is not believed to approach the thresholds for the population decline criterion of the IUCN Red List (i.e. declining more than 30% in ten years or three generations). For these reasons, the species is evaluated as Least Concern.<sup id="cite_ref-IUCN2012_0-1" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup> The population in Europe appears to be stable.<sup id="cite_ref-BWP_18-1" class="reference"><a href="#cite_note-BWP-18"><span>[</span>19<span>]</span></a></sup> The species has adapted well to human changes to the environment, and has in fact exploited human changes such as man-made structures which are used for nesting sites and increased open areas which are used for foraging.<sup id="cite_ref-HBW_14-5" class="reference"><a href="#cite_note-HBW-14"><span>[</span>15<span>]</span></a></sup> In a number of cities, notably <a href="/wiki/Dublin" title="Dublin">Dublin</a>, large flocks gather in winter to roost.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=6" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<p>The most conspicuous habit of this species is a near-constant tail wagging, a trait that has given the species, and indeed the genus, its common name. In spite of the ubiquity of this behaviour, the reasons for it are poorly understood. It has been suggested that it may flush prey, or signal submissiveness to other wagtails. A recent study has suggested instead that it is a signal of vigilance to potential predators.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=7" title="Edit section: Diet and feeding">edit</a>]</span> <span class="mw-headline" id="Diet_and_feeding">Diet and feeding</span></h3>
+<p>The exact composition of the diet of White Wagtails varies by location, but terrestrial and aquatic <a href="/wiki/Insect" title="Insect">insects</a> and other small invertebrates form the major part of the diet. These range from <a href="/wiki/Beetle" title="Beetle">beetles</a>, <a href="/wiki/Dragonfly" title="Dragonfly">dragonflies</a>, small snails, spiders, worms, crustaceans, to maggots found in carcasses and, most importantly, <a href="/wiki/Fly" title="Fly">flies</a> in the order Diptera.<sup id="cite_ref-HBW_14-6" class="reference"><a href="#cite_note-HBW-14"><span>[</span>15<span>]</span></a></sup> Small fish fry have also been recorded in the diet. The White Wagtail is somewhat unusual in the parts of it range where it is non-migratory as it is an <a href="/wiki/Insectivorous" title="Insectivorous" class="mw-redirect">insectivorous</a> bird that continues to feed on insects during the winter (most other insectivorous birds in temperate climates migrate or switch to more vegetable matter).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=8" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Motacilla_alba_-Rutland_Water,_Rutland,_England-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Motacilla_alba_-Rutland_Water%2C_Rutland%2C_England-8.jpg/220px-Motacilla_alba_-Rutland_Water%2C_Rutland%2C_England-8.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Motacilla_alba_-Rutland_Water%2C_Rutland%2C_England-8.jpg/330px-Motacilla_alba_-Rutland_Water%2C_Rutland%2C_England-8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Motacilla_alba_-Rutland_Water%2C_Rutland%2C_England-8.jpg/440px-Motacilla_alba_-Rutland_Water%2C_Rutland%2C_England-8.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Motacilla_alba_-Rutland_Water,_Rutland,_England-8.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A juvenile <i>M. a. yarrellii</i> in England. It has a grey face and grey area on its chest</div>
+</div>
+</div>
+<p>White Wagtails are <a href="/wiki/Monogamy" title="Monogamy">monogamous</a> and defend breeding <a href="/wiki/Territory_(animal)" title="Territory (animal)">territories</a>.<sup id="cite_ref-HBW_14-7" class="reference"><a href="#cite_note-HBW-14"><span>[</span>15<span>]</span></a></sup> The breeding season for most is from April to August, with the season starting later further north. Both sexes are responsible for building the <a href="/wiki/Bird_nest" title="Bird nest">nest</a>, with the male responsible for initiating the nest building and the female for finishing the process. For second broods in the subspecies <i>personata</i> the female alone builds the nest as the male is still provisioning the young.<sup id="cite_ref-BNA_23-0" class="reference"><a href="#cite_note-BNA-23"><span>[</span>24<span>]</span></a></sup> which is a rough cup assembled from twigs, grass, leaves and other plant matter. It is lined with soft materials, including animal hair. The nest is set into a crevice or hole; traditionally in a bank next to a river or ditch, but the species has also adapted to nesting in walls, bridges and buildings. One nest was found in the skull of a walrus. They species will nest in association with other animals, particularly where available the dams of <a href="/wiki/Beaver" title="Beaver">beavers</a> and also inside the nests of <a href="/wiki/Golden_Eagle" title="Golden Eagle">Golden Eagles</a>.<sup id="cite_ref-BNA_23-1" class="reference"><a href="#cite_note-BNA-23"><span>[</span>24<span>]</span></a></sup> Around 3-8 eggs are laid, with the usual number being 4-6. Its <a href="/wiki/Egg_(biology)" title="Egg (biology)">eggs</a> are cream-coloured, often with a faint bluish-green or turquoise tint, and heavily spotted with reddish brown; they measure, on average, 21 x 15&#160;mm (0.83 x 0.59&#160;inches).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup> Both parents <a href="/wiki/Avian_incubation" title="Avian incubation" class="mw-redirect">incubate</a> the eggs, although the female generally does so for longer and incubates at night. The eggs begin to hatch after 12 days (sometimes as late as 16 days). Both parents feed the chicks until they <a href="/wiki/Fledge" title="Fledge">fledge</a> at around 14 days, and the chicks are fed for another week after fledging.</p>
+<p>Though it is known to be a host species for the <a href="/wiki/Common_Cuckoo" title="Common Cuckoo">Common Cuckoo</a>, the White Wagtail typically deserts its nest if it has been parasitised. Scientists theorise that this occurs because the wagtail is too small to push the intruding egg out of the nest, and too short-billed to destroy the egg by puncturing it.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=9" title="Edit section: Various views and plumages">edit</a>]</span> <span class="mw-headline" id="Various_views_and_plumages">Various views and plumages</span></h2>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:26px auto;"><a href="/wiki/File:White_Wagtail_001.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/White_Wagtail_001.jpg/120px-White_Wagtail_001.jpg" width="120" height="98" /></a></div>
+</div>
+<div class="gallerytext">
+<p>White wagtail, <a href="/wiki/Moscow" title="Moscow">Moscow</a> region, <a href="/wiki/Russia" title="Russia">Russia</a> 2007</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:White_Wagtail_05apr2007_13.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/White_Wagtail_05apr2007_13.jpg/120px-White_Wagtail_05apr2007_13.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>White Wagtail at <a href="/wiki/Moscow" title="Moscow">Moscow</a> region <a href="/wiki/Russia" title="Russia">Russia</a> April 2007</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Wagtail_White_Young.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wagtail_White_Young.jpg/80px-Wagtail_White_Young.jpg" width="80" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Young White wagtail, <a href="/wiki/Moscow" title="Moscow">Moscow</a> region, <a href="/wiki/Russia" title="Russia">Russia</a> 2007</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:37px auto;"><a href="/wiki/File:White_Wagtail_(Motacilla_alba)_near_Hodal_I_IMG_9645.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/White_Wagtail_%28Motacilla_alba%29_near_Hodal_I_IMG_9645.jpg/120px-White_Wagtail_%28Motacilla_alba%29_near_Hodal_I_IMG_9645.jpg" width="120" height="76" /></a></div>
+</div>
+<div class="gallerytext">
+<p>near <a href="/wiki/Hodal" title="Hodal">Hodal</a> in <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a> District of <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:White_Wagtail-_(Non-breeding-_leucopsis_race)_at_Kolkata_I_IMG_3546.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I_IMG_3546.jpg/120px-White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I_IMG_3546.jpg" width="120" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Non-breeding- <i>leucopsis race</i> in <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:White_wagtail-_(Non-breeding-_leucopsis_race)_at_Kolkata_I_IMG_9947.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/White_wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I_IMG_9947.jpg/120px-White_wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I_IMG_9947.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Non-breeding- <i>leucopsis race</i> in <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:22.5px auto;"><a href="/wiki/File:White_Wagtail-_(Non-breeding-_leucopsis_race)_at_Kolkata_I_IMG_7984.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I_IMG_7984.jpg/120px-White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I_IMG_7984.jpg" width="120" height="105" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Non-breeding- <i>leucopsis race</i> in <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:White_Wagtail-_(Non-breeding-_leucopsis_race)_at_Kolkata_I1_IMG_5597.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I1_IMG_5597.jpg/120px-White_Wagtail-_%28Non-breeding-_leucopsis_race%29_at_Kolkata_I1_IMG_5597.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Non-breeding- <i>leucopsis race</i> in <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:White_Wagtail-_(Non-breeding-_leucopsis_race)_-_About_to_take_off_at_Kolkata_I_IMG_7283.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/White_Wagtail-_%28Non-breeding-_leucopsis_race%29_-_About_to_take_off_at_Kolkata_I_IMG_7283.jpg/115px-White_Wagtail-_%28Non-breeding-_leucopsis_race%29_-_About_to_take_off_at_Kolkata_I_IMG_7283.jpg" width="115" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Non-breeding- <i>leucopsis race</i> in <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:29px auto;"><a href="/wiki/File:White_Wagtail_(Motacilla_alba)_at_Jayanti,_Duars,_West_Bengal_W_IMG_5576.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/White_Wagtail_%28Motacilla_alba%29_at_Jayanti%2C_Duars%2C_West_Bengal_W_IMG_5576.jpg/120px-White_Wagtail_%28Motacilla_alba%29_at_Jayanti%2C_Duars%2C_West_Bengal_W_IMG_5576.jpg" width="120" height="92" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Non-breeding- <i>leucopsis race</i> at <a href="/wiki/Jayanti" title="Jayanti">Jayanti</a> in <a href="/wiki/Buxa_Tiger_Reserve" title="Buxa Tiger Reserve">Buxa Tiger Reserve</a> in <a href="/wiki/Jalpaiguri" title="Jalpaiguri">Jalpaiguri</a> district of <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:27px auto;"><a href="/wiki/File:White_wagtail_-_Male_(Non-breeding-_personata_race)_at_Hodal-_I_IMG_9164.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9164.jpg/120px-White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9164.jpg" width="120" height="96" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Male (Non-breeding- <i>personata race</i>) at <a href="/wiki/Hodal" title="Hodal">Hodal</a> in <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a> District of <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34.5px auto;"><a href="/wiki/File:White_wagtail_-_Male_(Non-breeding-_personata_race)_at_Hodal-_I_IMG_9162.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9162.jpg/120px-White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_9162.jpg" width="120" height="81" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Male (Non-breeding- <i>personata race</i>) at <a href="/wiki/Hodal" title="Hodal">Hodal</a> in <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a> District of <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:White_wagtail_-_Male_(Non-breeding-_personata_race)_at_Hodal-_I_IMG_8818.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_8818.jpg/109px-White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I_IMG_8818.jpg" width="109" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Male (Non-breeding- <i>personata race</i>) at <a href="/wiki/Hodal" title="Hodal">Hodal</a> in <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a> District of <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:White_wagtail_-_Male_(Non-breeding-_personata_race)_at_Hodal-_I3-Haryana_IMG_8812.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I3-Haryana_IMG_8812.jpg/120px-White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I3-Haryana_IMG_8812.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Male (Non-breeding- <i>personata race</i>) at <a href="/wiki/Hodal" title="Hodal">Hodal</a> in <a href="/wiki/Faridabad" title="Faridabad">Faridabad</a> District of <a href="/wiki/Haryana" title="Haryana">Haryana</a>, <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Motacilla_alba_alba.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Motacilla_alba_alba.JPG/120px-Motacilla_alba_alba.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>White Wagtail (<i>M. a. alba</i>)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:23.5px auto;"><a href="/wiki/File:Pied_Wagtail_rear_view_700.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pied_Wagtail_rear_view_700.jpg/120px-Pied_Wagtail_rear_view_700.jpg" width="120" height="103" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Pied Wagtail (<i>M. a. yarrellii</i>)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Motacilla_alba_(Marek_Szczepanek).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Motacilla_alba_%28Marek_Szczepanek%29.jpg/120px-Motacilla_alba_%28Marek_Szczepanek%29.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Young bird</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Motacilla_alba.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Motacilla_alba.jpg/120px-Motacilla_alba.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">Hybrid</a> between <i>yarrelii</i> and <i>alba</i>, or a <i>yarrelli</i> female</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Motacilla_alba_yarrellii_-Pied_Wagtail_-SE_England.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Motacilla_alba_yarrellii_-Pied_Wagtail_-SE_England.jpg/120px-Motacilla_alba_yarrellii_-Pied_Wagtail_-SE_England.jpg" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p><i>Motacilla alba yarrellii</i>, Pied Wagtail in SE England.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:White_Wagtail-_(Non-breeding-_leucopsis_race)_-I2-_Kolkata_IMG_6515.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/White_Wagtail-_%28Non-breeding-_leucopsis_race%29_-I2-_Kolkata_IMG_6515.jpg/120px-White_Wagtail-_%28Non-breeding-_leucopsis_race%29_-I2-_Kolkata_IMG_6515.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Non-breeding <i>M. a. leucopsis</i> in <a href="/wiki/India" title="India">India</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:White_wagtail_-_Male_(Non-breeding-_personata_race)_at_Hodal-_I3-Haryana_IMG_8813.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I3-Haryana_IMG_8813.jpg/120px-White_wagtail_-_Male_%28Non-breeding-_personata_race%29_at_Hodal-_I3-Haryana_IMG_8813.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Male non-breeding <i>M. a. personata race</i> India</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Motacilla_alba_by_Igors_Jefimovs.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Motacilla_alba_by_Igors_Jefimovs.jpg/90px-Motacilla_alba_by_Igors_Jefimovs.jpg" width="90" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>White wagtail <i>(Motacilla alba)</i> at <a href="/wiki/Jelgava" title="Jelgava">Jelgava</a>, <a href="/wiki/Latvia" title="Latvia">Latvia</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Motacilla_alba_at_the_Garden_for_Zoologic_Research,_Tel_Aviv_University,_Israel.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Motacilla_alba_at_the_Garden_for_Zoologic_Research%2C_Tel_Aviv_University%2C_Israel.jpg/120px-Motacilla_alba_at_the_Garden_for_Zoologic_Research%2C_Tel_Aviv_University%2C_Israel.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>White Wagtail at the Garden for Zoologic Research, <a href="/wiki/Tel_Aviv_University" title="Tel Aviv University">Tel Aviv University</a>, <a href="/wiki/Israel" title="Israel">Israel</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=10" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106008403">"<i>Motacilla alba</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106008403">http://www.iucnredlist.org/apps/redlist/details/106008403</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Motacilla+alba%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106008403&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://rianova.narod.ru/inf/latinst.html">"National symbols of Latvia"</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Russian)</span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Latin)</span> <span class="citation book"><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus, C</a> (1758). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata.</i>. Holmiae. (Laurentii Salvii).. pp.&#160;185. "M. pectore nigro, recticibus duabus lateralibus dimidiato oblique albis."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata.&amp;rft.aulast=Linnaeus&amp;rft.aufirst=C&amp;rft.au=Linnaeus%2C%26%2332%3BC&amp;rft.date=1758&amp;rft.pages=pp.%26nbsp%3B185&amp;rft.pub=Holmiae.+%28Laurentii+Salvii%29.&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book">Jobling, James (1991). <i>A Dictionary of Scientific Bird Names</i>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854634-3" title="Special:BookSources/0-19-854634-3">0-19-854634-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+Scientific+Bird+Names&amp;rft.aulast=Jobling&amp;rft.aufirst=James&amp;rft.au=Jobling%2C%26%2332%3BJames&amp;rft.date=1991&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-854634-3&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Voelker_2002-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Voelker_2002_4-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Voelker, Gary (2002). "Systematics and historical biogeography of wagtails: Dispersal versus vicariance revisited" (<a rel="nofollow" class="external text" href="http://www.bioone.org/perlserv/?request=get-abstract&amp;doi=10.1650%2F0010-5422(2002)104%5B0725%3ASAHBOW%5D2.0.CO%3B2">HTML abstract</a>). <i><a href="/wiki/Condor_(journal)" title="Condor (journal)" class="mw-redirect">Condor</a></i> <b>104</b> (4): 725–739. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1650%2F0010-5422%282002%29104%5B0725%3ASAHBOW%5D2.0.CO%3B2">10.1650/0010-5422(2002)104[0725:SAHBOW]2.0.CO;2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Systematics+and+historical+biogeography+of+wagtails%3A+Dispersal+versus+vicariance+revisited&amp;rft.jtitle=%5B%5BCondor+%28journal%29%7CCondor%5D%5D&amp;rft.aulast=Voelker&amp;rft.aufirst=Gary&amp;rft.au=Voelker%2C%26%2332%3BGary&amp;rft.date=2002&amp;rft.volume=104&amp;rft.issue=4&amp;rft.pages=725%26ndash%3B739&amp;rft_id=info:doi/10.1650%2F0010-5422%282002%29104%5B0725%3ASAHBOW%5D2.0.CO%3B2&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Pavlova-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pavlova_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pavlova_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Pavlova, A., Zink, R. M., Rohwer, S., Koblik, E. A., Red’kin, Y. A., Fadeev, I. V. and Nesterov, E. V. (2005). "Mitochondrial DNA and plumage evolution in the white wagtail Motacilla alba". <i>J. Avian Biol.</i> <b>36</b> (4): 322–336.. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.0908-8857.2005.03373.x">10.1111/j.0908-8857.2005.03373.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mitochondrial+DNA+and+plumage+evolution+in+the+white+wagtail+Motacilla+alba&amp;rft.jtitle=J.+Avian+Biol.&amp;rft.aulast=Pavlova%2C+A.%2C+Zink%2C+R.+M.%2C+Rohwer%2C+S.%2C+Koblik%2C+E.+A.%2C+Red%E2%80%99kin%2C+Y.+A.%2C+Fadeev%2C+I.+V.+and+Nesterov%2C+E.+V.&amp;rft.au=Pavlova%2C+A.%2C+Zink%2C+R.+M.%2C+Rohwer%2C+S.%2C+Koblik%2C+E.+A.%2C+Red%E2%80%99kin%2C+Y.+A.%2C+Fadeev%2C+I.+V.+and+Nesterov%2C+E.+V.&amp;rft.date=2005&amp;rft.volume=36&amp;rft.issue=4&amp;rft.pages=322%26ndash%3B336.&amp;rft_id=info:doi/10.1111%2Fj.0908-8857.2005.03373.x&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Odeen, A. and Alstrom, P. 2001. Evolution of secondary traits in wagtails (genus Motacilla ). In: Odeen A. Effects of post-glacial range expansion and population bottlenecks on species richness. PhD. thesis, Uppsala University.</span></li>
+<li id="cite_note-pipwag-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-pipwag_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pipwag_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Alstrom, P. &amp; Mild, K. (2003). <i>Pipits and wagtails</i>. Princeton Univ. Press..</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pipits+and+wagtails&amp;rft.aulast=Alstrom%2C+P.+%26+Mild%2C+K.&amp;rft.au=Alstrom%2C+P.+%26+Mild%2C+K.&amp;rft.date=2003&amp;rft.pub=Princeton+Univ.+Press.&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Akhtar,Syed Asad; Prakash,Vibhu (1989). "Streakeyed Pied Wagtail, <i>Motacilla alba ocularis</i> Swinhoe from Harike Lake, Punjab". <i>J. Bombay Nat. Hist. Soc.</i> <b>86</b> (2): 246.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Streakeyed+Pied+Wagtail%2C+%27%27Motacilla+alba+ocularis%27%27+Swinhoe+from+Harike+Lake%2C+Punjab&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Akhtar%2CSyed+Asad%3B+Prakash%2CVibhu&amp;rft.au=Akhtar%2CSyed+Asad%3B+Prakash%2CVibhu&amp;rft.date=1989&amp;rft.volume=86&amp;rft.issue=2&amp;rft.pages=246&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation Journal">Ticehurst,CB (1922). "Notes on Indian wagtails". <i>J. Bombay Nat. Hist. Soc.</i> <b>28</b> (4): 1082–1090.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Notes+on+Indian+wagtails&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Ticehurst%2CCB&amp;rft.au=Ticehurst%2CCB&amp;rft.date=1922&amp;rft.volume=28&amp;rft.issue=4&amp;rft.pages=1082%E2%80%931090&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation Journal">Pittie,Aasheesh; Kulkarni,MS; Mathew,Rajeev (1998). "Range extension of White Wagtail <i>Motacilla alba leucopsis</i> at Pocharam Lake, Medak District, Andhra Pradesh". <i>J. Bombay Nat. Hist. Soc.</i> <b>95</b> (2): 347–348.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Range+extension+of+White+Wagtail+%27%27Motacilla+alba+leucopsis%27%27+at+Pocharam+Lake%2C+Medak+District%2C+Andhra+Pradesh&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Pittie%2CAasheesh%3B+Kulkarni%2CMS%3B+Mathew%2CRajeev&amp;rft.au=Pittie%2CAasheesh%3B+Kulkarni%2CMS%3B+Mathew%2CRajeev&amp;rft.date=1998&amp;rft.volume=95&amp;rft.issue=2&amp;rft.pages=347%E2%80%93348&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation Journal">Fenton,LL (1910). "Breeding of the Masked Wagtail (<i>Motacilla personata</i>) in Kashmir". <i>J. Bombay Nat. Hist. Soc.</i> <b>19</b> (4): 992.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Breeding+of+the+Masked+Wagtail+%28%27%27Motacilla+personata%27%27%29+in+Kashmir&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Fenton%2CLL&amp;rft.au=Fenton%2CLL&amp;rft.date=1910&amp;rft.volume=19&amp;rft.issue=4&amp;rft.pages=992&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Simms-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Simms_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Simms_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Simms, Eric (Author); Arlott, Norman (Illustrator) (1992). <i>Larks, Pipits and Wagtails (Collins New Naturalist)</i>. Harper Collins. pp.&#160;233–252. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/000219871" title="Special:BookSources/000219871">000219871</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Larks%2C+Pipits+and+Wagtails+%28Collins+New+Naturalist%29&amp;rft.aulast=Simms&amp;rft.aufirst=Eric+%28Author%29&amp;rft.au=Simms%2C%26%2332%3BEric+%28Author%29&amp;rft.date=1992&amp;rft.pages=pp.%26nbsp%3B233%26ndash%3B252&amp;rft.pub=Harper+Collins&amp;rft.isbn=000219871&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Nakamura_1985-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Nakamura_1985_13-0">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Japanese)</span> <span class="citation Journal">Nakamura, Kazue (1985). "Historical change of the geographical distribution of two closely related species of the genus <i>Motacilla</i> in the Japanese Archipelago: a preliminary note". <i>Bulletin of the Kanagawa prefecture Museum of Natural Science</i> <b>No.16.</b>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Historical+change+of+the+geographical+distribution+of+two+closely+related+species+of+the+genus+%27%27Motacilla%27%27+in+the+Japanese+Archipelago%3A+a+preliminary+note&amp;rft.jtitle=Bulletin+of+the+Kanagawa+prefecture+Museum+of+Natural+Science&amp;rft.aulast=Nakamura&amp;rft.aufirst=Kazue&amp;rft.au=Nakamura%2C%26%2332%3BKazue&amp;rft.date=1985&amp;rft.volume=No.16.&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-HBW-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-HBW_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HBW_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HBW_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-HBW_14-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-HBW_14-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-HBW_14-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-HBW_14-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-HBW_14-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text">Tyler, S. (2004) "Family Motacillidae (Pipits and Wagtails)" pp.777-778 <i>in</i> del Hoyo, J.; Elliot, A. &amp; Christie D. (editors). (2004). <i><a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">Handbook of the Birds of the World</a>. Volume 9: Cotingas to Pipits and Wagtails.</i> Lynx Edicions. <a href="/wiki/Special:BookSources/8487334695" class="internal mw-magiclink-isbn">ISBN 84-87334-69-5</a></span></li>
+<li id="cite_note-BOUNews-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-BOUNews_15-0">^</a></b></span> <span class="reference-text"><span class="citation web">British Ornithologists’ Union Records Committee; British Birds Rarities Committee (22 July 2009). <a rel="nofollow" class="external text" href="http://newsbou.blogspot.com/2009/07/changes-to-category-of-british-list.html">"Changes to Category A of the British List"</a>. <i>BOU News</i>. British Ornithologists’ Union<span class="printonly">. <a rel="nofollow" class="external free" href="http://newsbou.blogspot.com/2009/07/changes-to-category-of-british-list.html">http://newsbou.blogspot.com/2009/07/changes-to-category-of-british-list.html</a></span><span class="reference-accessdate">. Retrieved 22 July 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Changes+to+Category+A+of+the+British+List&amp;rft.atitle=BOU+News&amp;rft.aulast=British+Ornithologists%E2%80%99+Union+Records+Committee&amp;rft.au=British+Ornithologists%E2%80%99+Union+Records+Committee&amp;rft.date=22+July+2009&amp;rft.pub=British+Ornithologists%E2%80%99+Union&amp;rft_id=http%3A%2F%2Fnewsbou.blogspot.com%2F2009%2F07%2Fchanges-to-category-of-british-list.html&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span><sup class="noprint Inline-Template"><span title="&#160;since October 2010" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation Journal">Addinall, Stephen (May 2010). "'Amur Wagtail' in County Durham: new to Britain and the Western Palearctic". <i>British Birds</i> <b>103</b>: 260–267.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%27Amur+Wagtail%27+in+County+Durham%3A+new+to+Britain+and+the+Western+Palearctic&amp;rft.jtitle=British+Birds&amp;rft.aulast=Addinall&amp;rft.aufirst=Stephen&amp;rft.au=Addinall%2C%26%2332%3BStephen&amp;rft.date=May+2010&amp;rft.volume=103&amp;rft.pages=260%E2%80%93267&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Rowlands, Adam (May 2010). "Proposed criteria for BBRC assessment of claims of 'Amur Wagtail'". <i>British Birds</i> <b>103</b>: 268–275.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Proposed+criteria+for+BBRC+assessment+of+claims+of+%27Amur+Wagtail%27&amp;rft.jtitle=British+Birds&amp;rft.aulast=Rowlands&amp;rft.aufirst=Adam&amp;rft.au=Rowlands%2C%26%2332%3BAdam&amp;rft.date=May+2010&amp;rft.volume=103&amp;rft.pages=268%E2%80%93275&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BWP-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-BWP_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BWP_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Snow, David; Perrins, Christopher M (editors) (1998). <i>The Birds of the Western Palearctic concise edition (2 volumes)</i>. Oxford: Oxford University Press. pp.&#160;1103–1106. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854099-X" title="Special:BookSources/0-19-854099-X">0-19-854099-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+Western+Palearctic+concise+edition+%282+volumes%29&amp;rft.aulast=Snow&amp;rft.aufirst=David&amp;rft.au=Snow%2C%26%2332%3BDavid&amp;rft.date=1998&amp;rft.pages=pp.%26nbsp%3B1103%26ndash%3B1106&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-854099-X&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Arlott-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Arlott_19-0">^</a></b></span> <span class="reference-text"><span class="citation book">Arlott, Norman) (2007). <i>Birds of the Palearctic: Passerines (Collins Field Guide)</i>. Harper Collins. pp.&#160;30–31. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-00-714705-8" title="Special:BookSources/0-00-714705-8">0-00-714705-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+the+Palearctic%3A+Passerines+%28Collins+Field+Guide%29&amp;rft.aulast=Arlott&amp;rft.aufirst=Norman%29&amp;rft.au=Arlott%2C%26%2332%3BNorman%29&amp;rft.date=2007&amp;rft.pages=pp.%26nbsp%3B30%26ndash%3B31&amp;rft.pub=Harper+Collins&amp;rft.isbn=0-00-714705-8&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Sibley-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sibley_20-0">^</a></b></span> <span class="reference-text"><span class="citation book">Sibley, David (2000). <i>The North American Bird Guide</i>. Pica Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;[[Special:BookSources/1-873403-78-4|1-873403-78-4]].</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+North+American+Bird+Guide&amp;rft.aulast=Sibley&amp;rft.aufirst=David&amp;rft.au=Sibley%2C%26%2332%3BDavid&amp;rft.date=2000&amp;rft.pub=Pica+Press&amp;rft.isbn=1-873403-78-4%5B%5BCategory%3AArticles+with+invalid+ISBNs%5D%5D&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Randler, C (2006). "Is tail wagging in white wagtails, <i>Motacilla alba</i>, an honest signal of vigilance?" <i>Animal Behaviour</i> <b>71</b> (5): 1089-1093 <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6W9W-4JVTCJT-3&amp;_user=1495406&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000053190&amp;_version=1&amp;_urlVersion=0&amp;_userid=1495406&amp;md5=10c93957b3f88d2728130514cdab471d">Abstract</a></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation Journal">Davies, N.B. (1976). "Food, Flocking and Territorial Behaviour of the Pied Wagtail (<i>Motacilla alba yarrellii</i> Gould) in Winter". <i>The Journal of Animal Ecology</i> (Journal of Animal Ecology, Vol. 45, No. 1) <b>45</b> (1): 235–253. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F3777">10.2307/3777</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/3777">3777</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Food%2C+Flocking+and+Territorial+Behaviour+of+the+Pied+Wagtail+%28%27%27Motacilla+alba+yarrellii%27%27+Gould%29+in+Winter&amp;rft.jtitle=The+Journal+of+Animal+Ecology&amp;rft.aulast=Davies&amp;rft.aufirst=N.B.&amp;rft.au=Davies%2C%26%2332%3BN.B.&amp;rft.date=1976&amp;rft.volume=45&amp;rft.issue=1&amp;rft.pages=235%E2%80%93253&amp;rft.pub=Journal+of+Animal+Ecology%2C+Vol.+45%2C+No.+1&amp;rft_id=info:doi/10.2307%2F3777&amp;rft.jstor=3777&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BNA-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-BNA_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BNA_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Badyaev, A. V.; Gibson, D. D. &amp; B. Kessel (1996). <a rel="nofollow" class="external text" href="http://bna.birds.cornell.edu/bna/species/236">"White Wagtail (Moticilla alba)"</a>. <i>The Birds of North America Online</i>. Ithaca: Cornell Lab of Ornithology. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2173%2Fbna.236">10.2173/bna.236</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://bna.birds.cornell.edu/bna/species/236">http://bna.birds.cornell.edu/bna/species/236</a></span><span class="reference-accessdate">. Retrieved 16 April 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=White+Wagtail+%28Moticilla+alba%29&amp;rft.atitle=The+Birds+of+North+America+Online&amp;rft.aulast=Badyaev&amp;rft.aufirst=A.+V.&amp;rft.au=Badyaev%2C%26%2332%3BA.+V.&amp;rft.date=1996&amp;rft.pub=Ithaca%3A+Cornell+Lab+of+Ornithology&amp;rft_id=info:doi/10.2173%2Fbna.236&amp;rft_id=http%3A%2F%2Fbna.birds.cornell.edu%2Fbna%2Fspecies%2F236&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation Journal">Peyton, Leonard J. (May 1963). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Condor/files/issues/v065n03/p0232-p0235.pdf">"Nesting and occurrence of White Wagtail in Alaska"</a> (PDF). <i>Condor</i> (The Condor, Vol. 65, No. 3) <b>65</b> (3): 232–235. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F1365667">10.2307/1365667</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/1365667">1365667</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Condor/files/issues/v065n03/p0232-p0235.pdf">http://elibrary.unm.edu/sora/Condor/files/issues/v065n03/p0232-p0235.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Nesting+and+occurrence+of+White+Wagtail+in+Alaska&amp;rft.jtitle=Condor&amp;rft.aulast=Peyton&amp;rft.aufirst=Leonard+J.&amp;rft.au=Peyton%2C%26%2332%3BLeonard+J.&amp;rft.date=May+1963&amp;rft.volume=65&amp;rft.issue=3&amp;rft.pages=232%E2%80%93235&amp;rft.pub=The+Condor%2C+Vol.+65%2C+No.+3&amp;rft_id=info:doi/10.2307%2F1365667&amp;rft.jstor=1365667&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FCondor%2Ffiles%2Fissues%2Fv065n03%2Fp0232-p0235.pdf&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation Journal">Moksnes, Arne; Eivin Roskaft &amp; Anders T. Braa (April 1991). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Auk/v108n02/p0348-p0354.pdf">"Rejection Behavior by Common Cuckoo Hosts Towards Artificial Brood Parasite Eggs"</a> (PDF). <i>Auk</i> <b>108</b> (2): 248–254<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Auk/v108n02/p0348-p0354.pdf">http://elibrary.unm.edu/sora/Auk/v108n02/p0348-p0354.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rejection+Behavior+by+Common+Cuckoo+Hosts+Towards+Artificial+Brood+Parasite+Eggs&amp;rft.jtitle=Auk&amp;rft.aulast=Moksnes&amp;rft.aufirst=Arne&amp;rft.au=Moksnes%2C%26%2332%3BArne&amp;rft.date=April+1991&amp;rft.volume=108&amp;rft.issue=2&amp;rft.pages=248%E2%80%93254&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FAuk%2Fv108n02%2Fp0348-p0354.pdf&amp;rfr_id=info:sid/en.wikipedia.org:White_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=White_Wagtail&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Motacilla_alba" class="extiw" title="commons:Motacilla alba">Motacilla alba</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Motacilla_alba" class="extiw" title="wikispecies:Motacilla alba">Motacilla alba</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/white-wagtail-motacilla-alba">Wagtail videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li>Norwegian Cyberbirding: <a rel="nofollow" class="external text" href="http://cyberbirding.uib.no/photo/m_alba.php">Masked, Pied &amp; White Wagtails photos</a>. Retrieved 2006-11-26.</li>
+<li>Romani Rise: <a rel="nofollow" class="external text" href="http://www.novareinna.com/romani/wagtail.html">Pied Wagtail - the Gipsy Bird</a> Pied Wagtails in <a href="/wiki/Welsh_Romani" title="Welsh Romani" class="mw-redirect">Welsh Romani</a> culture. Retrieved 2006-11-26.</li>
+<li><a rel="nofollow" class="external text" href="http://www.bto.org/ringing/resources/downloads/alba-wagtail-id.pdf">identification article with pictures (pdf)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/319_WhiteWagtailMalba.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+<p><span id="interwiki-sv-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 19260/1000000
+Preprocessor generated node count: 48631/1500000
+Post-expand include size: 117608/2048000 bytes
+Template argument size: 33965/2048000 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 4/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:214484-0!*!0!!en!4!* and timestamp 20121031143604 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=White_Wagtail&amp;oldid=520751414">http://en.wikipedia.org/w/index.php?title=White_Wagtail&amp;oldid=520751414</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Motacilla" title="Category:Motacilla">Motacilla</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Russian_language_external_links" title="Category:Articles with Russian language external links">Articles with Russian language external links</a></li><li><a href="/wiki/Category:Articles_with_Latin_language_external_links" title="Category:Articles with Latin language external links">Articles with Latin language external links</a></li><li><a href="/wiki/Category:Articles_with_Japanese_language_external_links" title="Category:Articles with Japanese language external links">Articles with Japanese language external links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2010" title="Category:Articles with dead external links from October 2010">Articles with dead external links from October 2010</a></li><li><a href="/wiki/Category:Articles_with_invalid_ISBNs" title="Category:Articles with invalid ISBNs">Articles with invalid ISBNs</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=White+Wagtail&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=White+Wagtail" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/White_Wagtail"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:White_Wagtail"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/White_Wagtail" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=White_Wagtail&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=White_Wagtail&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/White_Wagtail" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/White_Wagtail" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=White_Wagtail&amp;oldid=520751414" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=White_Wagtail&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=White_Wagtail&amp;id=520751414" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=White+Wagtail" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=White+Wagtail&amp;oldid=520751414&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=White_Wagtail&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9C%D1%8B%D0%B2%D1%8D%D0%BA%D3%80%D1%8D%D0%BF%D1%8B%D1%81" title="МывэкӀэпыс" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Bachstelze" title="Bachstelze" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%84%D8%AD%D9%88%D8%AA" title="السلحوت" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%90%D2%A1_%D1%81%D3%99%D0%BF%D1%81%D0%B5%D0%BA" title="Аҡ сәпсек" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D1%81%D1%96%D1%82%D0%B0%D1%9E%D0%BA%D0%B0" title="Белая сітаўка" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%91%D1%8F%D0%BB%D0%B0_%D1%81%D1%82%D1%8A%D1%80%D1%87%D0%B8%D0%BE%D0%BF%D0%B0%D1%88%D0%BA%D0%B0" title="Бяла стърчиопашка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Kannerez_c%27hris" title="Kannerez c'hris" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Cuereta_blanca" title="Cuereta blanca" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%A8%D1%83%D1%80%C4%83_%D0%BF%C4%83%D1%80%D1%87%C4%83%D0%BA%D0%B0%D0%BD" title="Шурă пăрчăкан" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Konipas_b%C3%ADl%C3%BD" title="Konipas bílý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-co"><a href="//co.wikipedia.org/wiki/Codizennula" title="Codizennula" lang="co" hreflang="co">Corsu</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Siglen_Fraith" title="Siglen Fraith" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Vipstjert" title="Vipstjert" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Bachstelze" title="Bachstelze" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-dsb"><a href="//dsb.wikipedia.org/wiki/%C5%A0era_spliska" title="Šera spliska" lang="dsb" hreflang="dsb">Dolnoserbski</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Linav%C3%A4strik" title="Linavästrik" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-myv"><a href="//myv.wikipedia.org/wiki/%D0%A3%D1%81%D1%8C%D0%BA%D0%B8%D1%80%D0%B5%D0%B9" title="Уськирей" lang="myv" hreflang="myv">Эрзянь</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Motacilla_alba" title="Motacilla alba" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Blanka_motacilo" title="Blanka motacilo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-ext"><a href="//ext.wikipedia.org/wiki/Motacilla_alba" title="Motacilla alba" lang="ext" hreflang="ext">Estremeñu</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Buztanikara_zuri" title="Buztanikara zuri" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D9%85%E2%80%8C%D8%AC%D9%86%D8%A8%D8%A7%D9%86%DA%A9_%D8%B3%D9%81%DB%8C%D8%AF" title="دم‌جنبانک سفید" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Bergeronnette_grise" title="Bergeronnette grise" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Boumantsje" title="Boumantsje" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-gd"><a href="//gd.wikipedia.org/wiki/Breac_an_t-s%C3%ACl" title="Breac an t-sìl" lang="gd" hreflang="gd">Gàidhlig</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Lavandeira_branca" title="Lavandeira branca" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%8D%D5%BA%D5%AB%D5%BF%D5%A1%D5%AF_%D5%AD%D5%A1%D5%B2%D5%BF%D5%BF%D5%B6%D5%AB%D5%AF" title="Սպիտակ խաղտտնիկ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-hsb"><a href="//hsb.wikipedia.org/wiki/%C5%A0%C4%9Bra_pli%C5%A1ka" title="Šěra pliška" lang="hsb" hreflang="hsb">Hornjoserbsce</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Kicuit_putih" title="Kicuit putih" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Mar%C3%ADuerla_(fugl)" title="Maríuerla (fugl)" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Motacilla_alba" title="Motacilla alba" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C%D7%99%D7%90%D7%9C%D7%99_%D7%9C%D7%91%D7%9F" title="נחליאלי לבן" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-csb"><a href="//csb.wikipedia.org/wiki/S%C3%ABw%C3%B4_pl%C3%ABszka" title="Sëwô plëszka" lang="csb" hreflang="csb">Kaszëbsczi</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/T%C3%BBtirwask" title="Tûtirwask" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Motacilla_alba" title="Motacilla alba" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Balt%C4%81_cielava" title="Baltā cielava" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Baltoji_kiel%C4%97" title="Baltoji kielė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Bar%C3%A1zdabilleget%C5%91" title="Barázdabillegető" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%86%E0%B4%B3%E0%B5%8D%E0%B4%B3_%E0%B4%B5%E0%B4%BE%E0%B4%B2%E0%B5%81%E0%B4%95%E0%B5%81%E0%B4%B2%E0%B5%81%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF" title="വെള്ള വാലുകുലുക്കി" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%9F_(%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80)" title="परीट (पक्षी)" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Pipit_Pelanduk" title="Burung Pipit Pelanduk" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%99%E1%80%BC%E1%80%AE%E1%80%B8%E1%80%8A%E1%80%BE%E1%80%B1%E1%80%AC%E1%80%84%E1%80%B7%E1%80%BA%E1%80%84%E1%80%BE%E1%80%80%E1%80%BA%E1%80%80%E1%80%BB%E1%80%AC%E1%80%B8" title="မြီးညှောင့်ငှက်ကျား" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Witte_kwikstaart" title="Witte kwikstaart" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-nds-nl"><a href="//nds-nl.wikipedia.org/wiki/Akkermannetjen" title="Akkermannetjen" lang="nds-nl" hreflang="nds-nl">Nedersaksisch</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AA%E3%82%AF%E3%83%8F%E3%82%AF%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4" title="タイリクハクセキレイ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Wipst%C3%B6rt" title="Wipstört" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Linerle" title="Linerle" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Linerle" title="Linerle" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Hoechqhu" title="Hoechqhu" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Motacilla_alba" title="Motacilla alba" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pliszka_siwa" title="Pliszka siwa" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Alv%C3%A9ola-branca" title="Alvéola-branca" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Codobatur%C4%83" title="Codobatură" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B8%D1%81%D0%BA%D0%B0_%D0%B1%D1%96%D0%BB%D0%B0" title="Плиска біла" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D1%82%D1%80%D1%8F%D1%81%D0%BE%D0%B3%D1%83%D0%B7%D0%BA%D0%B0" title="Белая трясогузка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A1%D1%8B%D0%BB%D0%B3%D1%8B_%D1%87%D1%8B%D1%8B%D1%87%D0%B0%D0%B0%D2%95%D0%B0" title="Сылгы чыычааҕа" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/Be%C5%A1tor" title="Beštor" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Trasochvost_biely" title="Trasochvost biely" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/V%C3%A4st%C3%A4r%C3%A4kki" title="Västäräkki" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/S%C3%A4des%C3%A4rla" title="Sädesärla" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Ak_kuyruksallayan" title="Ak kuyruksallayan" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-tk"><a href="//tk.wikipedia.org/wiki/Ge%C3%A7igu%C5%9F" title="Geçiguş" lang="tk" hreflang="tk">Türkmençe</a></li>
+			<li class="interwiki-udm"><a href="//udm.wikipedia.org/wiki/%D0%A2%D3%A7%D0%B4%D1%8C%D1%8B_%D0%B9%D3%A7%D0%B3%D1%8B%D0%BB%D1%82%D3%A5%D1%81%D1%8C" title="Тӧдьы йӧгылтӥсь" lang="udm" hreflang="udm">Удмурт</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B8%D1%81%D0%BA%D0%B0_%D0%B1%D1%96%D0%BB%D0%B0" title="Плиска біла" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Ch%C3%ACa_v%C3%B4i_tr%E1%BA%AFng" title="Chìa vôi trắng" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-vls"><a href="//vls.wikipedia.org/wiki/Witte_kwiksteirt" title="Witte kwiksteirt" lang="vls" hreflang="vls">West-Vlams</a></li>
+			<li class="interwiki-bat-smg"><a href="//bat-smg.wikipedia.org/wiki/Ledspira" title="Ledspira" lang="bat-smg" hreflang="bat-smg">Žemaitėška</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%99%BD%E9%B9%A1%E9%B8%B0" title="白鹡鸰" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 October 2012 at 14:36.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=White_Wagtail&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw20 in 0.135 secs. -->
+	</body>
+</html>

@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common Redstart - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_Redstart&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_Redstart&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_Redstart","wgTitle":"Common Redstart","wgCurRevisionId":515046489,"wgArticleId":194470,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Phoenicurus","Birds of Europe","Birds of Africa","Birds of Asia","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_Redstart","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"a801b53e45cdb8237eb41d4ce4f45c7e","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":194470,"title":"Common Redstart","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Africa","Birds of Asia","Birds of Europe","Birds of Western Sahara","IUCN Red List least concern species","Phoenicurus"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_Redstart skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common Redstart</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Common Redstart</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Gekraagde_Roodstaart_20040627.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gekraagde_Roodstaart_20040627.JPG/250px-Gekraagde_Roodstaart_20040627.JPG" width="250" height="255" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gekraagde_Roodstaart_20040627.JPG/375px-Gekraagde_Roodstaart_20040627.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gekraagde_Roodstaart_20040627.JPG/500px-Gekraagde_Roodstaart_20040627.JPG 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Male<br />
+<span class="unicode"><a href="/wiki/File:Phoenicurus_phoenicurus.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" /></a>&#160;<a href="//upload.wikimedia.org/wikipedia/commons/6/69/Phoenicurus_phoenicurus.ogg" class="internal" title="Phoenicurus phoenicurus.ogg">Birdsong</a><small class="metadata audiolinkinfo" style="cursor:help;">&#160;(<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="/wiki/File:Phoenicurus_phoenicurus.ogg" title="File:Phoenicurus phoenicurus.ogg"><span style="cursor:help;">info</span></a>)</small></span></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Old_World_flycatcher" title="Old World flycatcher">Muscicapidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Phoenicurus" title="Phoenicurus">Phoenicurus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. phoenicurus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Phoenicurus phoenicurus</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>Phoenicurus phoenicurus phoenicurus</i></li>
+</ul>
+<p><small>Common Redstart</small></p>
+<ul>
+<li><i>Phoenicurus phoenicurus samamisicus</i></li>
+</ul>
+<p><small>Southeastern Common Redstart</small></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Common Redstart</b> (<i>Phoenicurus phoenicurus</i>), or often simply <b>Redstart</b>, is a small <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Redstart" title="Redstart">redstart</a> genus <i><a href="/wiki/Phoenicurus" title="Phoenicurus">Phoenicurus</a></i>. Like its relatives, it was formerly classed as a member of the <a href="/wiki/Thrush_(bird)" title="Thrush (bird)">Thrush</a> family (Turdidae), but is now known to be an <a href="/wiki/Old_World_flycatcher" title="Old World flycatcher">Old World flycatcher</a> (Muscicapidae).</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Habitat"><span class="tocnumber">2</span> <span class="toctext">Habitat</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Taxonomy"><span class="tocnumber">3</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Redstart&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Common Redstart shows some affinity to the <a href="/wiki/European_Robin" title="European Robin">European Robin</a> in many of its habits and actions. It has the same general carriage, and <a href="/wiki/Chat_(bird)" title="Chat (bird)">chat</a>-like behaviour, and is the same length at 13–14.5&#160;cm long but slightly slimmer and not quite as heavy, weighing 11–23 g. The orange-red tail, from which it and other redstarts get their names ("start" is an old word for "tail"), is frequently quivered. Among common European birds, only the <a href="/wiki/Black_Redstart" title="Black Redstart">Black Redstart</a> (<i>Phoenicurus ochrurus</i>) has a similarly coloured tail.<sup id="cite_ref-Hoyo_1-0" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Snow_2-0" class="reference"><a href="#cite_note-Snow-2"><span>[</span>3<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phoenicurus_phoenicurus_female.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Phoenicurus_phoenicurus_female.jpg/220px-Phoenicurus_phoenicurus_female.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Phoenicurus_phoenicurus_female.jpg/330px-Phoenicurus_phoenicurus_female.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/a/ae/Phoenicurus_phoenicurus_female.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phoenicurus_phoenicurus_female.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Female</div>
+</div>
+</div>
+<p>The male in summer has a slate-grey head and upperparts, except the rump and tail, which, like the flanks, underwing coverts and axillaries are orange-chestnut. The forehead is white; the sides of the face and throat are black. The wings and the two central tail feathers are brown, the other tail feathers bright orange-red. The orange on the flanks shades to almost white on the belly. The bill and legs are black. In autumn, pale feather fringes on the body feathering obscures the colours of the male, giving it a washed-out appearance. The female is browner, with paler underparts; it lacks the black and slate, and the throat is whitish.</p>
+<p>It is a summer visitor throughout most of <a href="/wiki/Europe" title="Europe">Europe</a> and western <a href="/wiki/Asia" title="Asia">Asia</a> (east to <a href="/wiki/Lake_Baikal" title="Lake Baikal">Lake Baikal</a>), and also in northwest <a href="/wiki/Africa" title="Africa">Africa</a> in <a href="/wiki/Morocco" title="Morocco">Morocco</a>. It winters in central Africa and <a href="/wiki/Arabia" title="Arabia" class="mw-redirect">Arabia</a>, south of the <a href="/wiki/Sahara_Desert" title="Sahara Desert" class="mw-redirect">Sahara Desert</a> but north of the Equator, from <a href="/wiki/Senegal" title="Senegal">Senegal</a> east to <a href="/wiki/Yemen" title="Yemen">Yemen</a>. It is widespread as a breeding bird in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>, particularly in upland broadleaf woodlands and hedgerow trees, but in <a href="/wiki/Ireland" title="Ireland">Ireland</a> it is very local.</p>
+<p>The males first arrive in early to mid April,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> often a few days in advance of the females. Five or six light blue eggs are laid during May, with a second brood in mid summer in the south of the breeding range. It departs for Africa between mid-August and early October. It often feeds like a <a href="/wiki/Old_World_flycatcher" title="Old World flycatcher">flycatcher</a>, making <a href="/wiki/Hawking_(birds)" title="Hawking (birds)">aerial sallies</a> after passing insects, and most of its food consists of winged <a href="/wiki/Insect" title="Insect">insects</a>. The call is chat-like and the alarm a plaintive single note, <i>wheet</i>, like that of many other chats.<sup id="cite_ref-Hoyo_1-1" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The male’s song is similar to that of the Robin, but never more than a prelude, since it has an unfinished, feeble ending.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Redstart&amp;action=edit&amp;section=2" title="Edit section: Habitat">edit</a>]</span> <span class="mw-headline" id="Habitat">Habitat</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phoenicurus_phoenicurus_eggs.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Phoenicurus_phoenicurus_eggs.jpg/220px-Phoenicurus_phoenicurus_eggs.jpg" width="220" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Phoenicurus_phoenicurus_eggs.jpg/330px-Phoenicurus_phoenicurus_eggs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Phoenicurus_phoenicurus_eggs.jpg/440px-Phoenicurus_phoenicurus_eggs.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phoenicurus_phoenicurus_eggs.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nest with a clutch of eggs.</div>
+</div>
+</div>
+<p>Common Redstarts prefer open mature <a href="/wiki/Birch" title="Birch">birch</a> and <a href="/wiki/Oak" title="Oak">oak</a> <a href="/wiki/Woodland" title="Woodland">woodland</a> with a high horizontal visibility and low amounts of shrub and understorey especially where the trees are old enough to have holes suitable for its nest. They prefer to nest on the edge of woodland clearings. In Britain it occurs primarily in upland areas less affected by <a href="/wiki/Intensive_farming" title="Intensive farming">agricultural intensification</a>, but further east in Europe also commonly in lowland areas, including parks and old gardens in urban areas. They nest in natural tree holes, so dead trees or those with dead limbs are beneficial to the species; nestboxes are sometimes used. A high cover of <a href="/wiki/Moss" title="Moss">moss</a> and <a href="/wiki/Lichen" title="Lichen">lichen</a> is also preferred. They also use mature open <a href="/wiki/Conifer" title="Conifer" class="mw-redirect">conifer</a> woodland, particularly in the north of the breeding range. Management to thin out the trees is thus favoured.<sup id="cite_ref-Hoyo_1-2" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Snow_2-1" class="reference"><a href="#cite_note-Snow-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>In England, where it has declined by 55% in the past 25 years, the <a href="/wiki/Forestry_Commission" title="Forestry Commission">Forestry Commission</a> offers grants under a scheme called England's Woodland Improvement Grant (EWIG); as does <a href="/wiki/Natural_England" title="Natural England">Natural Englands</a> <a href="/wiki/Environmental_Stewardship" title="Environmental Stewardship" class="mw-redirect">Environmental Stewardship</a> Scheme.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Phoenicurus_phoenicurus_-_feeding_poster(js).jpg" class="image"><img alt="Phoenicurus phoenicurus - feeding poster(js).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Phoenicurus_phoenicurus_-_feeding_poster%28js%29.jpg/220px-Phoenicurus_phoenicurus_-_feeding_poster%28js%29.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Phoenicurus_phoenicurus_-_feeding_poster%28js%29.jpg/330px-Phoenicurus_phoenicurus_-_feeding_poster%28js%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Phoenicurus_phoenicurus_-_feeding_poster%28js%29.jpg/440px-Phoenicurus_phoenicurus_-_feeding_poster%28js%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Phoenicurus_phoenicurus_-_feeding_poster(js).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+</div>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Redstart&amp;action=edit&amp;section=3" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<p>Two <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> are accepted. The <a href="/wiki/Nominate_subspecies" title="Nominate subspecies" class="mw-redirect">nominate</a> <i>P. p. phoenicurus</i> is found all over Europe and reaches into <a href="/wiki/Siberia" title="Siberia">Siberia</a>. To the southeast, subspecies <i>P. p. samamisicus</i> is found from the <a href="/wiki/Crimean_Peninsula" title="Crimean Peninsula" class="mw-redirect">Crimean Peninsula</a> through <a href="/wiki/Turkey" title="Turkey">Turkey</a>, the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>, and into <a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a>. It is slightly smaller than <i>P. p. phoenicurus</i> and in adult males has white outer webs in the <a href="/wiki/Remiges" title="Remiges" class="mw-redirect">remiges</a> to some extent, forming a pale to whitish wing-patch similar to the one seen in <a href="/wiki/Black_Redstart" title="Black Redstart">Black Redstart</a> and <a href="/wiki/Daurian_Redstart" title="Daurian Redstart">Daurian Redstart</a>. This patch is also present but less conspicuous in immature males, and sometimes in adult females. The subspecies intergrade widely in <a href="/wiki/Turkey" title="Turkey">Turkey</a> and the southern <a href="/wiki/Balkans" title="Balkans">Balkans</a>.<sup id="cite_ref-Hoyo_1-3" class="reference"><a href="#cite_note-Hoyo-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Snow_2-2" class="reference"><a href="#cite_note-Snow-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The closest genetic relative of the Common Redstart may be the <a href="/wiki/Moussier%27s_Redstart" title="Moussier's Redstart">Moussier's Redstart</a>, though incomplete sampling of the genus gives some uncertainty to this.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> Its ancestors were apparently the first redstarts to spread to Europe; they seem to have diverged from the Black Redstart group about 3 <a href="/wiki/Mya_(unit)" title="Mya (unit)" class="mw-redirect">mya</a>, during the <a href="/wiki/Piacenzian" title="Piacenzian">Piacenzian</a>.<sup id="cite_ref-Ertan_6-0" class="reference"><a href="#cite_note-Ertan-6"><span>[</span>7<span>]</span></a></sup> Genetically, Common and Black Redstarts are still fairly compatible and can produce <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybrids</a> that appear to be healthy and fertile, but they are separated by different <a href="/wiki/Behaviour" title="Behaviour" class="mw-redirect">behaviour</a> and <a href="/wiki/Ecology" title="Ecology">ecological</a> requirements so hybrids are very rare in nature.<sup id="cite_ref-Grosch_7-0" class="reference"><a href="#cite_note-Grosch-7"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Redstart&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106006652">"<i>Phoenicurus phoenicurus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106006652">http://www.iucnredlist.org/apps/redlist/details/106006652</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Phoenicurus+phoenicurus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106006652&amp;rfr_id=info:sid/en.wikipedia.org:Common_Redstart"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Hoyo-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hoyo_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hoyo_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hoyo_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Hoyo_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Hoyo, J. del, et al., eds. (2005). <i>Handbook of the Birds of the World, vol. 10</i>. Barcelona: Lynx Edicions. pp.&#160;771. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-72-5" title="Special:BookSources/84-87334-72-5">84-87334-72-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+the+World%2C+vol.+10&amp;rft.aulast=Hoyo&amp;rft.aufirst=J.+del%2C+et+al.%2C+eds.&amp;rft.au=Hoyo%2C%26%2332%3BJ.+del%2C+et+al.%2C+eds.&amp;rft.date=2005&amp;rft.pages=pp.%26nbsp%3B771&amp;rft.place=Barcelona&amp;rft.pub=Lynx+Edicions&amp;rft.isbn=84-87334-72-5&amp;rfr_id=info:sid/en.wikipedia.org:Common_Redstart"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Snow-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Snow_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Snow_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Snow_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Snow, D. W., &amp; Perrins, C. M. (1998). <i>The Birds of the Western Palearctic</i> (Concise Edition ed.). Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854099-X" title="Special:BookSources/0-19-854099-X">0-19-854099-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+Western+Palearctic&amp;rft.aulast=Snow&amp;rft.aufirst=D.+W.%2C+%26+Perrins%2C+C.+M.&amp;rft.au=Snow%2C%26%2332%3BD.+W.%2C+%26+Perrins%2C+C.+M.&amp;rft.date=1998&amp;rft.edition=Concise+Edition&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-854099-X&amp;rfr_id=info:sid/en.wikipedia.org:Common_Redstart"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.rspb.org.uk/wildlife/birdguide/name/r/redstart/index.asp">[1]</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">RSPB Woodland Management For Birds - Redstart</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Sangster, G., Alström, P., Forsmark, E., &amp; Olsson, U. (2010). Multi-locus phylogenetic analysis of Old World chats and flycatchers reveals extensive paraphyly at family, subfamily and genus level (Aves: Muscicapidae). <i>Molecular Phylogenetics and Evolution</i> 57: 380–392 <a rel="nofollow" class="external text" href="http://www.nrm.se/download/18.3ebfe5cf12a9d3ebacb80002787/Sangster+et+al+2010+Muscicapidae+MPE.pdf">Full text</a></span></li>
+<li id="cite_note-Ertan-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ertan_6-0">^</a></b></span> <span class="reference-text">Ertan, K. T. (2006). The Evolutionary History of Eurasian Redstarts "Phoenicurus". <i>Acta Zoologica Sinica</i> 52 (Supplement): 310–313. <a rel="nofollow" class="external text" href="http://www.actazool.org/downloadpdf.asp?id=5067">PDF fulltext</a></span></li>
+<li id="cite_note-Grosch-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grosch_7-0">^</a></b></span> <span class="reference-text">Grosch, Kai (2004). Hybridization Between the Redstart <i>Phoenicurus phoenicurus</i> and Black Redstart <i>P. ochruros</i>, and the Effect on Habitat Exploitation. <i><a href="/wiki/Journal_of_Avian_Biology" title="Journal of Avian Biology">J. Avian Biol.</a></i> 35 (3): 217-223. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.0908-8857.2004.03128.x">10.1111/j.0908-8857.2004.03128.x</a> (HTML abstract)</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Redstart&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Phoenicurus_phoenicurus" class="extiw" title="commons:Phoenicurus phoenicurus">Phoenicurus phoenicurus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/common-redstart-phoenicurus-phoenicurus">Common Redstart videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/332_RedstartsPphoenicurus.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rspb.org.uk/wildlife/birdguide/name/r/redstart/index.aspx">RSPB Website Description</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stevenround-birdphotography.com/Redstart,%20Common.htm">Common Redstart Images</a></li>
+</ul>
+<p><span id="interwiki-sv-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5262/1000000
+Preprocessor generated node count: 37766/1500000
+Post-expand include size: 34036/2048000 bytes
+Template argument size: 8648/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:194470-0!*!0!!en!4!* and timestamp 20121101192458 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_Redstart&amp;oldid=515046489">http://en.wikipedia.org/w/index.php?title=Common_Redstart&amp;oldid=515046489</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Phoenicurus" title="Category:Phoenicurus">Phoenicurus</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Redstart&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Redstart" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_Redstart"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_Redstart"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_Redstart" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_Redstart&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_Redstart&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_Redstart" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_Redstart" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_Redstart&amp;oldid=515046489" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Common_Redstart&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_Redstart&amp;id=515046489" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+Redstart" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+Redstart&amp;oldid=515046489&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_Redstart&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%91%D0%B7%D1%83%D0%BA%D3%80%D1%8D%D0%BF%D0%BB%D1%8A" title="БзукӀэплъ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-als"><a href="//als.wikipedia.org/wiki/Gartenrotschwanz" title="Gartenrotschwanz" lang="als" hreflang="als">Alemannisch</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%A3%D1%82%D2%A1%D0%BE%D0%B9%D1%80%D0%BE%D2%A1" title="Утҡойроҡ" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%97%D0%B2%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D1%83%D0%B4%D0%B0%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%BA%D0%B0" title="Звычайная рудахвостка" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D1%87%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE%D0%BE%D0%BF%D0%B0%D1%88%D0%BA%D0%B0" title="Градинска червеноопашка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Rulosteg_bailh" title="Rulosteg bailh" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Cotxa_cua-roja" title="Cotxa cua-roja" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Rehek_zahradn%C3%AD" title="Rehek zahradní" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Tingoch" title="Tingoch" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/R%C3%B8dstjert" title="Rødstjert" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Gartenrotschwanz" title="Gartenrotschwanz" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Lepalind" title="Lepalind" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Phoenicurus_phoenicurus" title="Phoenicurus phoenicurus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/%C4%9Cardenru%C4%9Dvostulo" title="Ĝardenruĝvostulo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Buztangorri_argi" title="Buztangorri argi" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Velrey%C3%B0i" title="Velreyði" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Rougequeue_%C3%A0_front_blanc" title="Rougequeue à front blanc" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Earrdhearg%C3%A1n" title="Earrdheargán" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Rabirrubio_de_testa_branca" title="Rabirrubio de testa branca" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Ekor_merah-lembayung" title="Ekor merah-lembayung" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Phoenicurus_phoenicurus" title="Phoenicurus phoenicurus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/B%C3%BBknefsok" title="Bûknefsok" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Paprastoji_raudonuodeg%C4%97" title="Paprastoji raudonuodegė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kerti_rozsdafark%C3%BA" title="Kerti rozsdafarkú" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Gekraagde_roodstaart" title="Gekraagde roodstaart" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%93%E3%82%BF%E3%82%A4%E3%82%B8%E3%83%A7%E3%82%A6%E3%83%93%E3%82%BF%E3%82%AD" title="シロビタイジョウビタキ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Ruadst%C3%B6rt" title="Ruadstört" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/R%C3%B8dstjert" title="Rødstjert" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Raudstjert" title="Raudstjert" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Phoenicurus_phoenicurus" title="Phoenicurus phoenicurus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pleszka_zwyczajna" title="Pleszka zwyczajna" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Rabirruivo-de-testa-branca" title="Rabirruivo-de-testa-branca" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0_%D1%80%D1%83%D0%B4%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%BA%D0%B0" title="Садова рудохвостка" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%B8%D1%85%D0%B2%D0%BE%D1%81%D1%82%D0%BA%D0%B0" title="Обыкновенная горихвостка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/%C5%BDltochvost_h%C3%B4rny" title="Žltochvost hôrny" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Lepp%C3%A4lintu" title="Leppälintu" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/R%C3%B6dstj%C3%A4rt" title="Rödstjärt" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_k%C4%B1z%C4%B1lkuyruk" title="Bayağı kızılkuyruk" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-udm"><a href="//udm.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D0%B1%D1%8B%D0%B6" title="Гордбыж" lang="udm" hreflang="udm">Удмурт</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 September 2012 at 19:21.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Redstart&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv279 in 0.131 secs. -->
+	</body>
+</html>

@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common Myna - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_Myna&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_Myna&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_Myna","wgTitle":"Common Myna","wgCurRevisionId":517261376,"wgArticleId":480171,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from November 2010","Acridotheres","Birds of Iran","Birds of Pakistan","Birds of Southeast Asia","Birds of India","Birds of Bangladesh","Birds of Thailand","Birds of American Samoa","Birds of the United States","Birds of Turkey","Birds of Australia","Invasive bird species","Talking birds","Birds of Sri Lanka","Urban animals","Birds of Africa","Introduced birds of Hawaii","Animals described in 1766"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_Myna","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"ca133ac999f8ba0945452704b427e643","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":480171,"title":"Common Myna","namespace":0,"categories":["Acridotheres","All articles with unsourced statements","Animals described in 1766","Articles with \'species\' microformats","Articles with unsourced statements from November 2010","Birds of Africa","Birds of American Samoa","Birds of Australia","Birds of Bangladesh","Birds of India","Birds of Iran","Birds of Pakistan","Birds of Southeast Asia","Birds of Sri Lanka","Birds of Thailand","Birds of Turkey","Birds of the United States","IUCN Red List least concern species","Introduced birds of Hawaii","Invasive bird species","Talking birds","Urban animals"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/OggPlayer.js?12"></script><script>
+wgOggPlayer.msg = {"ogg-play":"Play","ogg-pause":"Pause","ogg-stop":"Stop","ogg-no-player":"Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.","ogg-player-videoElement":"Native browser support","ogg-player-oggPlugin":"Browser plugin","ogg-player-cortado":"Cortado (Java)","ogg-player-vlc-mozilla":"VLC","ogg-player-vlc-activex":"VLC (ActiveX)","ogg-player-quicktime-mozilla":"QuickTime","ogg-player-quicktime-activex":"QuickTime (ActiveX)","ogg-player-totem":"Totem","ogg-player-kaffeine":"Kaffeine","ogg-player-kmplayer":"KMPlayer","ogg-player-mplayerplug-in":"mplayerplug-in","ogg-player-thumbnail":"Still image only","ogg-player-selected":"(selected)","ogg-use-player":"Use player:","ogg-more":"More…","ogg-download":"Download file","ogg-desc-link":"About this file","ogg-dismiss":"Close","ogg-player-soundthumb":"No player","ogg-no-xiphqt":"You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
+wgOggPlayer.cortadoUrl = "http://bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/cortado-ovt-stripped-0.6.0.jar";
+wgOggPlayer.extPathUrl = "//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler";
+</script><style>
+.ogg-player-options {
+	border: solid 1px #ccc;
+	padding: 2pt;
+	text-align: left;
+	font-size: 10pt;
+}
+
+.center .ogg-player-options ul {
+	margin: 0.3em 0px 0px 1.5em;
+}
+</style><script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_Myna skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common Myna</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">Not to be confused with <a href="/wiki/Common_Miner" title="Common Miner">Common Miner</a>.</div>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Common Myna</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Common_Myna_(Acridotheres_tristis)_on_Kapok_(Ceiba_pentandra)_in_Kolkata_W_IMG_4297.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Common_Myna_%28Acridotheres_tristis%29_on_Kapok_%28Ceiba_pentandra%29_in_Kolkata_W_IMG_4297.jpg/220px-Common_Myna_%28Acridotheres_tristis%29_on_Kapok_%28Ceiba_pentandra%29_in_Kolkata_W_IMG_4297.jpg" width="220" height="220" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">In <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, West Bengal, India.</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Sturnidae" title="Sturnidae" class="mw-redirect">Sturnidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Acridotheres" title="Acridotheres">Acridotheres</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. tristis</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Acridotheres tristis</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1766)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Acridotheres tristis melanosternus<br />
+Acridotheres tristis naumanni<br />
+Acridotheres tristis tristis<br />
+Acridotheres tristis tristoides</i></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Common_Mynah_distribution_map.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Common_Mynah_distribution_map.png/220px-Common_Mynah_distribution_map.png" width="220" height="102" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Distribution of the Common Myna. Native distribution in blue, introduced in red.</td>
+</tr>
+</table>
+</div>
+<p>The <b>Common Myna</b> or <b>Indian Myna</b> (<i>Acridotheres tristis</i>), sometimes spelled <b>Mynah</b>, is a member of the family <a href="/wiki/Sturnidae" title="Sturnidae" class="mw-redirect">Sturnidae</a> (<a href="/wiki/Starling" title="Starling">starlings</a> and mynas) native to Asia. An omnivorous open woodland bird with a strong territorial instinct, the Myna has adapted extremely well to <a href="/wiki/Urban_area" title="Urban area">urban</a> environments.</p>
+<p>The Common Myna is an important motif in Indian culture and appears both in <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> and <a href="/wiki/Prakrit" title="Prakrit">Prakrit</a> literature. "Myna" is derived from the <a href="/wiki/Hindi_language" title="Hindi language" class="mw-redirect">Hindi</a> language mainā which itself is derived from <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> madanā.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The range of the Common Myna is increasing at such a rapid rate that in 2000 the <a href="/wiki/IUCN_Species_Survival_Commission" title="IUCN Species Survival Commission">IUCN Species Survival Commission</a> declared it one of the world's most <a href="/wiki/Invasive_species" title="Invasive species">invasive species</a> and one of only three birds in the top 100 species that pose an impact to biodiversity, agriculture and human interests.<sup id="cite_ref-Lowe_et_al_3-0" class="reference"><a href="#cite_note-Lowe_et_al-3"><span>[</span>4<span>]</span></a></sup> In particular, the species poses a serious threat to the <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a> of <a href="/wiki/Australia" title="Australia">Australia</a> where it was named "The Most Important Pest/Problem".<sup id="cite_ref-autogenerated1_4-0" class="reference"><a href="#cite_note-autogenerated1-4"><span>[</span>5<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Morphometry"><span class="tocnumber">1.1</span> <span class="toctext">Morphometry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Etymology"><span class="tocnumber">3</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Taxonomy_and_subspecies"><span class="tocnumber">4</span> <span class="toctext">Taxonomy and subspecies</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Behaviour"><span class="tocnumber">5</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Vocalisation"><span class="tocnumber">5.1</span> <span class="toctext">Vocalisation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Breeding"><span class="tocnumber">5.2</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Food_and_feeding"><span class="tocnumber">5.3</span> <span class="toctext">Food and feeding</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Roosting_behaviour"><span class="tocnumber">5.4</span> <span class="toctext">Roosting behaviour</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Habitat"><span class="tocnumber">5.5</span> <span class="toctext">Habitat</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Urban_success"><span class="tocnumber">5.5.1</span> <span class="toctext">Urban success</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Invasive_species"><span class="tocnumber">6</span> <span class="toctext">Invasive species</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Australia"><span class="tocnumber">6.1</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#South_Africa"><span class="tocnumber">6.2</span> <span class="toctext">South Africa</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Effect_on_ecosystems_and_humans"><span class="tocnumber">6.3</span> <span class="toctext">Effect on ecosystems and humans</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Threat_to_native_birds"><span class="tocnumber">6.3.1</span> <span class="toctext">Threat to native birds</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Threat_to_crops_and_pasture"><span class="tocnumber">6.3.2</span> <span class="toctext">Threat to crops and pasture</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#In_culture"><span class="tocnumber">7</span> <span class="toctext">In culture</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Indian_Myna.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Indian_Myna.JPG/220px-Indian_Myna.JPG" width="220" height="146" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Indian_Myna.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Acridotheres tristis in <a href="/wiki/Kokrebellur" title="Kokrebellur">Kokrebellur</a>, <a href="/wiki/India" title="India">India</a></div>
+</div>
+</div>
+<p>The Common Myna is readily identified by the brown body, black hooded head and the bare yellow patch behind the eye. The bill and legs are bright yellow. There is a white patch on the outer primaries and the wing lining on the underside is white. The sexes are similar and birds are usually seen in pairs.<sup id="cite_ref-rasmussen_5-0" class="reference"><a href="#cite_note-rasmussen-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The Common Myna obeys <a href="/wiki/Gloger%27s_rule" title="Gloger's rule">Gloger's rule</a> in that the birds from northwest India tend to be paler than their darker counterparts in South India.<sup id="cite_ref-HBIP5_6-0" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-RasmussenBSA2_7-0" class="reference"><a href="#cite_note-RasmussenBSA2-7"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=2" title="Edit section: Morphometry">edit</a>]</span> <span class="mw-headline" id="Morphometry">Morphometry</span></h3>
+<p>Morphometry is as per Ali &amp; Ripley (2001).<sup id="cite_ref-HBIP5_6-1" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup></p>
+<ul>
+<li>Body length:23&#160;cms.</li>
+</ul>
+<table class="wikitable">
+<tr>
+<th>Parameter/sex</th>
+<th>Male</th>
+<th>Female</th>
+</tr>
+<tr>
+<td>Average weight (gms)</td>
+<td>
+<center>109.8</center>
+</td>
+<td>
+<center>120-138</center>
+</td>
+</tr>
+<tr>
+<td>Wing chord (mm)</td>
+<td>
+<center>138-153</center>
+</td>
+<td>
+<center>138-147</center>
+</td>
+</tr>
+<tr>
+<td>Bill (mm)</td>
+<td>
+<center>25-30</center>
+</td>
+<td>
+<center>25-28</center>
+</td>
+</tr>
+<tr>
+<td>Tarsus (mm)</td>
+<td>
+<center>34-42</center>
+</td>
+<td>
+<center>35-41</center>
+</td>
+</tr>
+<tr>
+<td>Tail (mm)</td>
+<td>
+<center>81-95</center>
+</td>
+<td>
+<center>79-96</center>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=3" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Acridotheres_tristis.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Acridotheres_tristis.png/220px-Acridotheres_tristis.png" width="220" height="220" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Acridotheres_tristis.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Example of <a href="/wiki/Introduced_species" title="Introduced species">alien species</a> in Europe and the Mediterranean Basin. The common myna, a highly invasive bird species, was recently introduced to several Mediterranean countries and is rapidly expanding its range.</div>
+</div>
+</div>
+<p>It is a species of <a href="/wiki/Bird" title="Bird">bird</a> native to <a href="/wiki/Asia" title="Asia">Asia</a> with its initial home range spanning from <a href="/wiki/Iran" title="Iran">Iran</a>, the entire <a href="/wiki/South_Asia" title="South Asia">South Asia</a> including <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>, <a href="/wiki/India" title="India">India</a>, <a href="/wiki/Nepal" title="Nepal">Nepal</a>, <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a>, <a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a> and <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a>; as well as <a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a>, <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>, <a href="/wiki/Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a>, <a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a>, <a href="/wiki/Tajikistan" title="Tajikistan">Tajikistan</a>, <a href="/wiki/Myanmar" title="Myanmar" class="mw-redirect">Myanmar</a>, to <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a>, <a href="/wiki/Singapore" title="Singapore">Singapore</a>, peninsular <a href="/wiki/Thailand" title="Thailand">Thailand</a>, <a href="/wiki/Indo-China" title="Indo-China" class="mw-redirect">Indo-China</a> and <a href="/wiki/China" title="China">China</a>.<sup id="cite_ref-HBIP5_6-2" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-oiseaux_8-0" class="reference"><a href="#cite_note-oiseaux-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>The Myna has been introduced in many other parts of the world such as <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/Australia" title="Australia">Australia</a>, <a href="/wiki/Israel" title="Israel">Israel</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, <a href="/wiki/New_Caledonia" title="New Caledonia">New Caledonia</a>, <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a>, and islands in the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> (<a href="/wiki/Seychelles" title="Seychelles">Seychelles</a>, <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a>, <a href="/wiki/Maldives" title="Maldives">Maldives</a>, <a href="/wiki/Andaman_and_Nicobar_Islands" title="Andaman and Nicobar Islands">Andaman and Nicobar Islands</a> and <a href="/wiki/Lakshadweep" title="Lakshadweep">Lakshadweep</a> archipelago and also in islands of the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> and <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Oceans</a>.<sup id="cite_ref-HBIP5_6-3" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup> The range of the Common Myna is increasing to the extent that in 2000 the <a href="/wiki/IUCN_Species_Survival_Commission" title="IUCN Species Survival Commission">IUCN Species Survival Commission</a> declared it among the World's 100 worst <a href="/wiki/Invasive_species" title="Invasive species">invasive species</a>.<sup id="cite_ref-Lowe_et_al_3-1" class="reference"><a href="#cite_note-Lowe_et_al-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=4" title="Edit section: Etymology">edit</a>]</span> <span class="mw-headline" id="Etymology">Etymology</span></h2>
+<p>The etymology of the scientific name is as follows:<sup id="cite_ref-Latin_names_9-0" class="reference"><a href="#cite_note-Latin_names-9"><span>[</span>10<span>]</span></a></sup></p>
+<ul>
+<li><i>Acridotheres</i>: Greek <i>akris</i>, <i>akrodos</i>, a locust; <i>theres</i>, a hunter.</li>
+<li><i>tristis</i>: Latin <i>tristis</i>, sad, gloomy; Modern Latin <i>tristis</i>, dull-coloured).</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=5" title="Edit section: Taxonomy and subspecies">edit</a>]</span> <span class="mw-headline" id="Taxonomy_and_subspecies">Taxonomy and subspecies</span></h2>
+<p>The Common Myna has two <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>:<sup id="cite_ref-HBIP5_6-4" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup></p>
+<ul>
+<li><i>Acridotheres tristis tristis</i> (Linnaeus, 1758). Widespread, including <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a>.</li>
+<li><i>A. t. melanosternus</i> Legge, 1879. Endemic to Sri Lanka.</li>
+</ul>
+<p>The subspecies <i>melanosternus</i> is darker than the nominate subspecies, has half-black and half-white primary coverts and has a larger yellow cheek-patch.<sup id="cite_ref-HBIP5_6-5" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-RasmussenBSA2_7-1" class="reference"><a href="#cite_note-RasmussenBSA2-7"><span>[</span>8<span>]</span></a></sup> The <a href="/wiki/Type_locality_(biology)" title="Type locality (biology)" class="mw-redirect">type locality</a> of the <a href="/wiki/Nominate_subspecies" title="Nominate subspecies" class="mw-redirect">nominate subspecies</a> is <a href="/wiki/Pondicherry" title="Pondicherry">Pondicherry</a>, India.<sup id="cite_ref-Latin_names_9-1" class="reference"><a href="#cite_note-Latin_names-9"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=6" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=7" title="Edit section: Vocalisation">edit</a>]</span> <span class="mw-headline" id="Vocalisation">Vocalisation</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;">
+<div id="ogg_player_1">
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/c/c4/CommonMynaCalls.ogg&quot;,&quot;width&quot;:220,&quot;height&quot;:35,&quot;length&quot;:24.904125,&quot;linkUrl&quot;:&quot;/wiki/File:CommonMynaCalls.ogg&quot;,&quot;isVideo&quot;:false});" style="width: 220px; text-align: center" title="Play sound"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/play.png" width="22" height="22" alt="Play sound" /></button></div>
+<div><a href="/wiki/File:CommonMynaCalls.ogg" class="image" title="About this file"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/info.png" width="22" height="22" alt="" /></a></div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CommonMynaCalls.ogg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Calls</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Common_Myna_with_plastic.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Common_Myna_with_plastic.JPG/220px-Common_Myna_with_plastic.JPG" width="220" height="176" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Common_Myna_with_plastic.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Common Myna holding plastic in beak.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Starr_040617-0005_Pennisetum_clandestinum.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Starr_040617-0005_Pennisetum_clandestinum.jpg/220px-Starr_040617-0005_Pennisetum_clandestinum.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Starr_040617-0005_Pennisetum_clandestinum.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Turquoise blue-coloured egg of Common Myna.</div>
+</div>
+</div>
+<p>The <a href="/wiki/Bird_vocalization" title="Bird vocalization">calls</a> includes croaks, squawks, chirps, clicks, whistles and 'growls', and the bird often fluffs its feathers and bobs its head in singing. The Common Myna screeches warnings to its mate or other birds in cases of predators in proximity or when its about to take off flying.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> Common Mynas are popular as cage birds for their singing and "speaking" abilities. Before sleeping in communal roosts, mynas vocalise in unison, which is known as "communal noise".<sup id="cite_ref-Mahabal.26Vaidya_1989_11-0" class="reference"><a href="#cite_note-Mahabal.26Vaidya_1989-11"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=8" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<p>Common Mynas are believed to pair for life. They breed through much of the year depending on the location, building their nest in a hole in a tree or wall. They breed from sea-level to 3000&#160;m in the <a href="/wiki/Himalayas" title="Himalayas">Himalayas</a>.<sup id="cite_ref-HBIP5_6-6" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>The normal clutch size is 4–6 eggs. The average size of the egg is 30.8 x 21.99&#160;mm. The incubation period is 17 to 18 days and fledging period is 22 to 24 days.<sup id="cite_ref-HBIP5_6-7" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup> The <a href="/wiki/Asian_Koel" title="Asian Koel">Asian Koel</a> is sometimes <a href="/wiki/Brood_parasitism" title="Brood parasitism" class="mw-redirect">brood parasitic</a> on this species.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> Nesting material used by mynas include twigs, roots, tow and rubbish. Mynas have been known to use tissue paper, tin foil and sloughed off snake-skin.<sup id="cite_ref-HBIP5_6-8" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>During the breeding season, the daytime activity-time budget of Common Myna in Pune in April to June 1978 has been recorded to comprise the following: nesting activity (42%), scanning the environment (28%), locomotion (12%), feeding (4%), vocalisation (7%) and preening-related activities, interactions and other activities (7%).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
+<p>The Common Myna uses the nests of woodpeckers, parakeets, etc. and easily takes to nest boxes; it has been recorded evicting the chicks of previously nesting pairs by holding them in the beak and later sometimes not even using the emptied nest boxes. This aggressive behaviour is considered to contribute to its success as an invasive species.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=9" title="Edit section: Food and feeding">edit</a>]</span> <span class="mw-headline" id="Food_and_feeding">Food and feeding</span></h3>
+<p>Like most starlings, the Common Myna is omnivorous. It feeds on insects, arachnids, crustaceans, reptiles, small mammals, seeds, grain and fruits and discarded waste from human habitation. It forages on the ground among grass for insects, and especially for <a href="/wiki/Grasshopper" title="Grasshopper">grasshoppers</a>, from which it gets the generic name <i>Acridotheres</i>, "grasshopper hunter". It however feeds on a wide range of insects, mostly picked from the ground.<sup id="cite_ref-HBIP5_6-9" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup> It is a cross-pollinator of flowers such as <a href="/w/index.php?title=Salmalia&amp;action=edit&amp;redlink=1" class="new" title="Salmalia (page does not exist)">Salmalia</a> and <a href="/wiki/Erythrina" title="Erythrina">Erythrina</a>. It walks on the ground with occasional hops and is an opportunistic feeder on the insects disturbed by grazing cattle as well as fired grass fields.<sup id="cite_ref-HBIP5_6-10" class="reference"><a href="#cite_note-HBIP5-6"><span>[</span>7<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=10" title="Edit section: Roosting behaviour">edit</a>]</span> <span class="mw-headline" id="Roosting_behaviour">Roosting behaviour</span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Common_Myna-_Juvenile_crying_for_food_from_Adult_I_IMG_8070.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Common_Myna-_Juvenile_crying_for_food_from_Adult_I_IMG_8070.jpg/220px-Common_Myna-_Juvenile_crying_for_food_from_Adult_I_IMG_8070.jpg" width="220" height="136" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Common_Myna-_Juvenile_crying_for_food_from_Adult_I_IMG_8070.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Juvenile begging for food from adult in <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a></div>
+</div>
+</div>
+<p>Common Mynas roost communally throughout the year, either in pure or mixed flocks with <a href="/wiki/Jungle_Myna" title="Jungle Myna">Jungle Mynas</a>, <a href="/wiki/Rosy_Starling" title="Rosy Starling">Rosy Starlings</a>, <a href="/wiki/House_Crow" title="House Crow">House Crows</a>, <a href="/wiki/Jungle_Crow" title="Jungle Crow">Jungle Crows</a>, <a href="/wiki/Cattle_Egret" title="Cattle Egret">Cattle Egrets</a> and <a href="/wiki/Rose-ringed_Parakeet" title="Rose-ringed Parakeet">Rose-ringed Parakeets</a> and other birds. The roost population can range from less than one hundred to thousands.<sup id="cite_ref-Mahabal.26Bastawade1991_16-0" class="reference"><a href="#cite_note-Mahabal.26Bastawade1991-16"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> The time of arrival of Mynas at the roost starts before and ends just after sunset. The mynas depart before sunrise. The time and timespan of arrival and departure, time taken for final settlement at the roost, duration of communal sleep, flock size and population vary seasonally.<sup id="cite_ref-Mahabal.26Vaidya_1989_11-1" class="reference"><a href="#cite_note-Mahabal.26Vaidya_1989-11"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup></p>
+<p>The function of communal roosting is to synchronise various social activities, avoid predators, exchange information about food sources.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup></p>
+<p>Communal displays (pre-roosting and post-roosting) comprise of aerial maneuvers which are exhibited in the pre-breeding season (November to March). It is assumed that this behaviour is related to pair formation.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=11" title="Edit section: Habitat">edit</a>]</span> <span class="mw-headline" id="Habitat">Habitat</span></h3>
+<p>This abundant <a href="/wiki/Passerine" title="Passerine">passerine</a> is typically found in open woodland, cultivation and around habitation. Although this is an adaptable species, its population has been decreasing significantly in <a href="/wiki/Singapore" title="Singapore">Singapore</a> and <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a> (where it is locally called as <i>gembala kerbau</i>, literally 'buffalo shepherd') due to competition with its cousin, the introduced <a href="/wiki/Javan_Myna" title="Javan Myna" class="mw-redirect">Javan Myna</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup></p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=12" title="Edit section: Urban success">edit</a>]</span> <span class="mw-headline" id="Urban_success">Urban success</span></h4>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Javan_and_Indian_Myna.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4d/Javan_and_Indian_Myna.jpg/220px-Javan_and_Indian_Myna.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Javan_and_Indian_Myna.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<div style="text-align: center;border:none">Captive Indian Myna housed with <a href="/wiki/Javan_Myna" title="Javan Myna" class="mw-redirect">Javan Myna</a></div>
+</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:CommonMynah1-aw6789.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/CommonMynah1-aw6789.JPG/220px-CommonMynah1-aw6789.JPG" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CommonMynah1-aw6789.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A Common Myna visits a home garden in <a href="/wiki/Colombo" title="Colombo">Colombo</a>, <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a>.</div>
+</div>
+</div>
+<p>The Common Myna thrives in urban and suburban environments; in <a href="/wiki/Canberra" title="Canberra">Canberra</a>, for instance, 110 Common Mynas were released between 1968 and 1971. By 1991, Common Myna population density in Canberra averaged 15 birds per square kilometer.<sup id="cite_ref-pell_23-0" class="reference"><a href="#cite_note-pell-23"><span>[</span>24<span>]</span></a></sup> Only three years later, a second study found an average population density of 75 birds per square kilometer in the same area.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup></p>
+<p>The bird likely owes its success in the urban and suburban settings of Sydney and Canberra to its <a href="/wiki/Evolution" title="Evolution">evolutionary</a> origins; having evolved in the open <a href="/wiki/Woodland" title="Woodland">woodlands</a> of India, the Common Myna is pre-adapted to habitats with tall vertical structures and little to no vegetative ground cover,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup> features characteristic of city streets and urban nature preserves.</p>
+<p>The Common Myna (along with <a href="/wiki/European_Starling" title="European Starling" class="mw-redirect">European Starlings</a>, <a href="/wiki/House_Sparrow" title="House Sparrow">House Sparrows</a>, and feral <a href="/wiki/Rock_Pigeon" title="Rock Pigeon" class="mw-redirect">Rock Pigeons</a>) is a nuisance to city buildings; its nests block gutters and drainpipes, causing water damage to building exteriors.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=13" title="Edit section: Invasive species">edit</a>]</span> <span class="mw-headline" id="Invasive_species">Invasive species</span></h2>
+<p>The IUCN declared this myna as one of the only three birds among the <a href="/wiki/List_of_the_world%27s_100_worst_invasive_species" title="List of the world's 100 worst invasive species">world's 100 worst invasive species</a>.<sup id="cite_ref-Lowe_et_al_3-2" class="reference"><a href="#cite_note-Lowe_et_al-3"><span>[</span>4<span>]</span></a></sup> (Other two invasive birds being <a href="/wiki/Red-vented_bulbul" title="Red-vented bulbul" class="mw-redirect">Red-vented bulbul</a> and <a href="/wiki/European_Starling" title="European Starling" class="mw-redirect">European Starling</a>) It has been introduced widely elsewhere, including adjacent areas in <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>, <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>28<span>]</span></a></sup> the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a>, <a href="/wiki/Israel" title="Israel">Israel</a>, <a href="/wiki/North_America" title="North America">North America</a>, <a href="/wiki/Europe" title="Europe">Europe</a>, <a href="/wiki/Australia" title="Australia">Australia</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> and various oceanic islands, including a very prominent population in <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>.<sup id="cite_ref-oiseaux_8-1" class="reference"><a href="#cite_note-oiseaux-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>The Common Myna is a pest in South Africa, North America, the Middle East, Australia, New Zealand and many Pacific islands. It is particularly problematic in Australia. Several methods have been tried to control the bird's numbers and protect native species.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=14" title="Edit section: Australia">edit</a>]</span> <span class="mw-headline" id="Australia">Australia</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Acridotheres_tristis_-Sydney,_Australia-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Acridotheres_tristis_-Sydney%2C_Australia-8.jpg/220px-Acridotheres_tristis_-Sydney%2C_Australia-8.jpg" width="220" height="172" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Acridotheres_tristis_-Sydney,_Australia-8.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In <a href="/wiki/Sydney" title="Sydney">Sydney</a>, Australia</div>
+</div>
+</div>
+<p>In <a href="/wiki/Australia" title="Australia">Australia</a>, the Common Myna is an <a href="/wiki/Invasive_species" title="Invasive species">invasive</a> <a href="/wiki/Pest_(animal)" title="Pest (animal)" class="mw-redirect">pest</a>. They are now often the predominant bird in urban areas all along the East coast. In a 2008 popular vote, the bird was named "The Most Important Pest/Problem" in Australia, also earning the nickname "flying rats" due to their scavenging resembling that of rats.<sup id="cite_ref-autogenerated1_4-1" class="reference"><a href="#cite_note-autogenerated1-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The Common Myna was first introduced to Australia in <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a> between 1863 and 1872 into Melbourne’s market gardens to control insects. The bird is likely to have spread to <a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a> (where it is currently most populous) at around the same time, but documentation is uncertain.<sup id="cite_ref-H227_28-0" class="reference"><a href="#cite_note-H227-28"><span>[</span>29<span>]</span></a></sup> The bird was later introduced to Queensland as a predator of <a href="/wiki/Grasshopper" title="Grasshopper">grasshoppers</a> and <a href="/wiki/Cane_beetle" title="Cane beetle">cane beetles</a>; the reasons for its original introduction to Victoria is however, lost in history.<sup id="cite_ref-H227_28-1" class="reference"><a href="#cite_note-H227-28"><span>[</span>29<span>]</span></a></sup> Currently, Common Myna populations in Australia are concentrated along the eastern coast around <a href="/wiki/Sydney" title="Sydney">Sydney</a> and its surrounding suburbs, with sparser populations in Victoria and a few isolated communities in <a href="/wiki/Queensland" title="Queensland">Queensland</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>30<span>]</span></a></sup> During 2009 several municipal councils in New South Wales began trials of catching Myna birds in an effort to reduce numbers.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup></p>
+<p>The bird can live and breed in a wide range of temperatures, though it thrives in hotter regions. Self-sustaining populations of Common Myna have been found in regions of mean warmest month temperature no less than 23.2°C and mean coldest month temperature no less than -0.4°C, implying that the Common Myna could potentially spread from Sydney northward along the eastern coast to <a href="/wiki/Cairns" title="Cairns">Cairns</a> and westward along the southern coast to <a href="/wiki/Adelaide" title="Adelaide">Adelaide</a> (though not to <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a>, <a href="/wiki/Darwin,_Northern_Territory" title="Darwin, Northern Territory">Darwin</a>, or across the <a href="/wiki/Great_Dividing_Range" title="Great Dividing Range">Great Dividing Range</a> to the arid interior regions).<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=15" title="Edit section: South Africa">edit</a>]</span> <span class="mw-headline" id="South_Africa">South Africa</span></h3>
+<p>In South Africa where it escaped into the wild in 1902, it has become very common and its distribution is greater where human populations are greater or where there is more human disturbance.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>33<span>]</span></a></sup> The bird is also notorious for being a pest, kicking other birds out of their nests and killing their young due to the Myna's strong territorial instinct. In South Africa it is considered somewhat of a major pest and disturbance of the natural habitat; as a result, they are frequently shot and killed by people in urban environments and farmers alike. Bylaws in South Africa pertaining to the protection of most animal species specifically exclude mynas from this protection.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from November 2010">citation needed</span></a></i>]</sup></p>
+<p>Morphological studies show that the process of <a href="/w/index.php?title=Spatial_sorting&amp;action=edit&amp;redlink=1" class="new" title="Spatial sorting (page does not exist)">spatial sorting</a> is at work on the range expansion of <i>A. tristis</i> in South Africa.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>34<span>]</span></a></sup> Dispersal-relevant traits are significantly correlated with distance from the range core, with strong sexual dimorphism, indicative of sex-biased dispersal. Morphological variations are significant in wing and head traits of females, suggesting females as the primary dispersing sex. In contrast, traits not related to dispersal such as those associated with foraging show no signs of spatial sorting but are significantly affected by environmental variables such as vegetation and intensity of urbanisation.</p>
+<p>To study the invasion genetics and landscape-scale dynamics of <i>A. tristis</i>, scientists have recently developed 16 polymorphic nuclear microsatellite markers <sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>35<span>]</span></a></sup> using the <a href="/wiki/Next_generation_sequencing" title="Next generation sequencing" class="mw-redirect">next generation sequencing</a> (NGS) approach.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=16" title="Edit section: Effect on ecosystems and humans">edit</a>]</span> <span class="mw-headline" id="Effect_on_ecosystems_and_humans">Effect on ecosystems and humans</span></h3>
+<h4><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=17" title="Edit section: Threat to native birds">edit</a>]</span> <span class="mw-headline" id="Threat_to_native_birds">Threat to native birds</span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Common_Myna_(Acridotheres_tristis)-_Immature_at_nest_in_Kolkata_I_IMG_7877.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Common_Myna_%28Acridotheres_tristis%29-_Immature_at_nest_in_Kolkata_I_IMG_7877.jpg/220px-Common_Myna_%28Acridotheres_tristis%29-_Immature_at_nest_in_Kolkata_I_IMG_7877.jpg" width="220" height="183" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Common_Myna_(Acridotheres_tristis)-_Immature_at_nest_in_Kolkata_I_IMG_7877.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Immature at nest, West Bengal</div>
+</div>
+</div>
+<p>The Common Myna is a hollow-nesting species; that is, it nests and breeds in protected hollows found either naturally in trees or artificially on buildings (for example, recessed windowsills or low eaves).<sup id="cite_ref-B34_35-0" class="reference"><a href="#cite_note-B34-35"><span>[</span>36<span>]</span></a></sup> Compared to native hollow-nesting species, the Common Myna is extremely aggressive, and breeding males will actively defend areas ranging up to 0.83 <a href="/wiki/Hectare" title="Hectare">hectares</a> in size (though males in densely populated urban settings tend to only defend the area immediately surrounding their nests).<sup id="cite_ref-P148_36-0" class="reference"><a href="#cite_note-P148-36"><span>[</span>37<span>]</span></a></sup></p>
+<p>This aggressiveness has enabled the Common Myna to displace many breeding pairs of native hollow-nesters, thereby reducing their reproductive success. In particular, the reproduction rates of native hollow-nesting parrots in the <a href="/wiki/The_Bush#Australia" title="The Bush" class="mw-redirect">bush land</a> of eastern Australia have been reduced by up to 80% by the Common Myna (which was even able to out-compete another aggressive introduced species in the area, the <a href="/wiki/European_Starling" title="European Starling" class="mw-redirect">European Starling</a>).<sup id="cite_ref-B34_35-1" class="reference"><a href="#cite_note-B34-35"><span>[</span>36<span>]</span></a></sup></p>
+<p>The Common Myna is also known to maintain up to two <a href="/wiki/Roost" title="Roost" class="mw-redirect">roosts</a> simultaneously; a temporary summer roost close to a breeding site (where the entire local male community sleeps during the summer, the period of highest aggression), and a permanent all-year roost where the female broods and incubates overnight. Both male and female Common Mynas will fiercely protect both roosts at all times, leading to further exclusion of native birds.<sup id="cite_ref-P148_36-1" class="reference"><a href="#cite_note-P148-36"><span>[</span>37<span>]</span></a></sup></p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=18" title="Edit section: Threat to crops and pasture">edit</a>]</span> <span class="mw-headline" id="Threat_to_crops_and_pasture">Threat to crops and pasture</span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Myna-face-closeup.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Myna-face-closeup.jpg/220px-Myna-face-closeup.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Myna-face-closeup.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+The yellow peri-orbital skin of the Common Myna gives it a Sanskrit name <i>peetanetra</i>.</div>
+</div>
+</div>
+<p>The Common Myna (which feeds mostly on ground-dwelling <a href="/wiki/Insect" title="Insect">insects</a>, tropical fruits such as grapes, plums and some <a href="/wiki/Berry" title="Berry">berries</a> and, in urban areas, discarded human food)<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>38<span>]</span></a></sup> poses a serious threat to Australian <a href="/wiki/Blueberry" title="Blueberry">blueberry</a> crops, though its main threat is to native bird species.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>39<span>]</span></a></sup></p>
+<p>In Hawaii, where the Common Myna was introduced to control pest <a href="/wiki/Armyworm" title="Armyworm" class="mw-redirect">armyworms</a> and <a href="/wiki/Cutworm" title="Cutworm">cutworms</a> in <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a> crops, the bird has helped to spread the robust <i><a href="/wiki/Lantana_camara" title="Lantana camara">Lantana camara</a></i> weed across the islands’ open <a href="/wiki/Grassland" title="Grassland">grasslands</a>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>40<span>]</span></a></sup> It also has been recorded as the fourth-ranking avian pest in the fruit industry by a 2004 survey of the Hawaiian Farm Bureau and the sixth in number of complaints of avian pests overall.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>41<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=19" title="Edit section: In culture">edit</a>]</span> <span class="mw-headline" id="In_culture">In culture</span></h2>
+<p>The Common Myna widely appears under the name <i>saarika</i> in Indian culture from Vedic times, featuring both in classical Indian literature (Sanskrit) as well as in <a href="/wiki/Prakrit" title="Prakrit">Prakrit</a> <a href="/wiki/Buddhist" title="Buddhist" class="mw-redirect">Buddhist</a> texts. The Sankrit term <i>shuksarika</i>, which refers to the <a href="/wiki/Rose-ringed_Parakeet" title="Rose-ringed Parakeet">Rose-ringed Parakeet</a> (<i>shuk</i>) and the Common Myna (<i>saarika</i>), is used to indicate a pair or a couple, probably because both birds are vocal and capable of mimicking human sound.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>42<span>]</span></a></sup></p>
+<p>In <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> literature, the Common Myna has a number of names, most are descriptive of the appearance or behaviour of the bird. In addition to <i>saarika</i>, the names for the Common Myna include <i>kalahapriya</i>, which means "one who is fond of arguments" referring to the quarrelsome nature of this bird; <i>chitranetra</i>, meaning "picturesque eyes"; <i>peetanetra</i> (one with yellow eyes) and <i>peetapaad</i> (one with yellow legs).<sup id="cite_ref-Birds_in_Sanskrit_Lit_42-0" class="reference"><a href="#cite_note-Birds_in_Sanskrit_Lit-42"><span>[</span>43<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=20" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106006823">"<i>Acridotheres tristis</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106006823">http://www.iucnredlist.org/apps/redlist/details/106006823</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Acridotheres+tristis%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106006823&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.collinsdictionary.com/dictionary/english/myna">myna</a>. CollinsDictionary.com. Collins English Dictionary - Complete &amp; Unabridged 11th Edition. Retrieved October 06, 2012.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">New Oxford American Dictionary</span></li>
+<li id="cite_note-Lowe_et_al-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lowe_et_al_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lowe_et_al_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lowe_et_al_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Lowe S., Browne M., Boudjelas S. and de Poorter M. (2000). 100 of the World’s Worst Invasive Alien Species. A selection from the Global Invasive Species Database. The Invasive Species Specialist Group (ISSG), a specialist group of the Species Survival Commission (SSC) of the World Conservation Union (IUCN), Auckland.</span></li>
+<li id="cite_note-autogenerated1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.abc.net.au/tv/wildwatch/results/award.htm">"ABC Wildwatch"</a>. Abc.net.au<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.abc.net.au/tv/wildwatch/results/award.htm">http://www.abc.net.au/tv/wildwatch/results/award.htm</a></span><span class="reference-accessdate">. Retrieved 2012-08-07</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=ABC+Wildwatch&amp;rft.atitle=&amp;rft.pub=Abc.net.au&amp;rft_id=http%3A%2F%2Fwww.abc.net.au%2Ftv%2Fwildwatch%2Fresults%2Faward.htm&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-rasmussen-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-rasmussen_5-0">^</a></b></span> <span class="reference-text"><span class="citation book">Rasmussen, PC &amp; JC Anderton (2005). <i>Birds of South Asia: The Ripley Guide. Vol 2</i>. Smithsonian Institution &amp; Lynx Edicions. p.&#160;584.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+South+Asia%3A+The+Ripley+Guide.+Vol+2&amp;rft.aulast=Rasmussen%2C+PC+%26+JC+Anderton&amp;rft.au=Rasmussen%2C+PC+%26+JC+Anderton&amp;rft.date=2005&amp;rft.pages=p.%26nbsp%3B584&amp;rft.pub=Smithsonian+Institution+%26+Lynx+Edicions&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-HBIP5-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-HBIP5_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HBIP5_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HBIP5_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-HBIP5_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-HBIP5_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-HBIP5_6-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-HBIP5_6-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-HBIP5_6-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-HBIP5_6-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-HBIP5_6-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-HBIP5_6-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Ali, Salim; Ripley, S. Dillon (2001). <i>Handbook of the Birds of India and Pakistan, Volume 5</i> (2 (paperback) ed.). India: Oxford University Press. p.&#160;278. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-565938-4" title="Special:BookSources/0-19-565938-4">0-19-565938-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+India+and+Pakistan%2C+Volume+5&amp;rft.aulast=Ali&amp;rft.aufirst=Salim&amp;rft.au=Ali%2C%26%2332%3BSalim&amp;rft.date=2001&amp;rft.pages=p.%26nbsp%3B278&amp;rft.edition=2+%28paperback%29&amp;rft.place=India&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-565938-4&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-RasmussenBSA2-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-RasmussenBSA2_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RasmussenBSA2_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Rasmussen, Pamela C.; Anderton, John C. (2005). <i>Birds of South Asia - The Ripley Guide (volume 2)</i>. Smithsonian Institution, Washington &amp; Lynx edicions, Barcelona. p.&#160;683. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-66-0" title="Special:BookSources/84-87334-66-0">84-87334-66-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+South+Asia+-+The+Ripley+Guide+%28volume+2%29&amp;rft.aulast=Rasmussen&amp;rft.aufirst=Pamela+C.&amp;rft.au=Rasmussen%2C%26%2332%3BPamela+C.&amp;rft.date=2005&amp;rft.pages=p.%26nbsp%3B683&amp;rft.pub=Smithsonian+Institution%2C+Washington+%26+Lynx+edicions%2C+Barcelona&amp;rft.isbn=84-87334-66-0&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-oiseaux-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-oiseaux_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oiseaux_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.oiseaux.net/birds/distribution/common.myna.html">"Common Myna"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.oiseaux.net/birds/distribution/common.myna.html">http://www.oiseaux.net/birds/distribution/common.myna.html</a></span><span class="reference-accessdate">. Retrieved December 23, 2007</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Common+Myna&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.oiseaux.net%2Fbirds%2Fdistribution%2Fcommon.myna.html&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Latin_names-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Latin_names_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Latin_names_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Pande, Satish (2009). <i>Latin names of Indian birds explained</i>. Mumbai: Bombay Natural History Society and Oxford University Press. p.&#160;506. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-806625-5" title="Special:BookSources/978-0-19-806625-5">978-0-19-806625-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Latin+names+of+Indian+birds+explained&amp;rft.aulast=Pande&amp;rft.aufirst=Satish&amp;rft.au=Pande%2C%26%2332%3BSatish&amp;rft.date=2009&amp;rft.pages=p.%26nbsp%3B506&amp;rft.place=Mumbai&amp;rft.pub=Bombay+Natural+History+Society+and+Oxford+University+Press&amp;rft.isbn=978-0-19-806625-5&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation Journal">Griffin, Andrea S. (2008). "Social learning in Indian mynahs, <i>Acridotheres tristis</i>: the role of distress calls.". <i>Animal Behaviour</i> <b>75</b> (1): 79–89. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2Fj.anbehav.2007.04.008">10.1016/j.anbehav.2007.04.008</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Social+learning+in+Indian+mynahs%2C+%27%27Acridotheres+tristis%27%27%3A+the+role+of+distress+calls.&amp;rft.jtitle=Animal+Behaviour&amp;rft.aulast=Griffin%2C+Andrea+S.&amp;rft.au=Griffin%2C+Andrea+S.&amp;rft.date=2008&amp;rft.volume=75&amp;rft.issue=1&amp;rft.pages=79%E2%80%9389&amp;rft_id=info:doi/10.1016%2Fj.anbehav.2007.04.008&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Mahabal.26Vaidya_1989-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mahabal.26Vaidya_1989_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mahabal.26Vaidya_1989_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil; Vaidya, V.G. (1989). <a rel="nofollow" class="external text" href="http://www.archive.org/details/MynaRhythms">"Diurnal rhythms and seasonal changes in the roosting behaviour of Indian Myna <i>Acridotheres tristis</i> (Linnaeus)"</a>. <i>Proceedings of Indian Academy of Sciences (Animal Science)</i> (Indian Academy of Sciences, Bangalore) <b>98</b> (3): 199–209. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2FBF03179646">10.1007/BF03179646</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/MynaRhythms">http://www.archive.org/details/MynaRhythms</a></span><span class="reference-accessdate">. Retrieved 22 January 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Diurnal+rhythms+and+seasonal+changes+in+the+roosting+behaviour+of+Indian+Myna+%27%27Acridotheres+tristis%27%27+%28Linnaeus%29&amp;rft.jtitle=Proceedings+of+Indian+Academy+of+Sciences+%28Animal+Science%29&amp;rft.aulast=Mahabal&amp;rft.aufirst=Anil&amp;rft.au=Mahabal%2C%26%2332%3BAnil&amp;rft.au=Vaidya%2C%26%2332%3BV.G.&amp;rft.date=1989&amp;rft.volume=98&amp;rft.issue=3&amp;rft.pages=199%E2%80%93209&amp;rft.pub=Indian+Academy+of+Sciences%2C+Bangalore&amp;rft_id=info:doi/10.1007%2FBF03179646&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2FMynaRhythms&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation Journal">Choudhury A. (1998). "Common Myna feeding a fledgling koel". <i>Journal of the Bombay Natural History Society</i> <b>95</b> (1): 115.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Common+Myna+feeding+a+fledgling+koel&amp;rft.jtitle=Journal+of+the+Bombay+Natural+History+Society&amp;rft.aulast=Choudhury+A.&amp;rft.au=Choudhury+A.&amp;rft.date=1998&amp;rft.volume=95&amp;rft.issue=1&amp;rft.pages=115&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil (1991). <a rel="nofollow" class="external text" href="http://www.archive.org/details/MynaEthogram">"Activity-time budget of Indian Myna <i>Acridotheres tristis</i> (Linnaeus) during the breeding season"</a>. <i>Journal of the Bombay Natural History Society</i> (Bombay Natural History Society) <b>90</b> (1): 96–97<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/MynaEthogram">http://www.archive.org/details/MynaEthogram</a></span><span class="reference-accessdate">. Retrieved 22 January 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Activity-time+budget+of+Indian+Myna+%27%27Acridotheres+tristis%27%27+%28Linnaeus%29+during+the+breeding+season&amp;rft.jtitle=Journal+of+the+Bombay+Natural+History+Society&amp;rft.aulast=Mahabal%2C+Anil&amp;rft.au=Mahabal%2C+Anil&amp;rft.date=1991&amp;rft.volume=90&amp;rft.issue=1&amp;rft.pages=96%E2%80%9397&amp;rft.pub=Bombay+Natural+History+Society&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2FMynaEthogram&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation book">Pande, Satish; Tambe, Saleel; Clement, Francis M &amp; Sant, Niranjan (2003). <i>Birds of Western Ghats, Kokan and Malabar (including birds of Goa)</i>. Mumbai: Bombay Natural History Society &amp; Oxford University Press. p.&#160;377. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-566878-2" title="Special:BookSources/0-19-566878-2">0-19-566878-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+Western+Ghats%2C+Kokan+and+Malabar+%28including+birds+of+Goa%29&amp;rft.aulast=Pande&amp;rft.aufirst=Satish&amp;rft.au=Pande%2C%26%2332%3BSatish&amp;rft.date=2003&amp;rft.pages=p.%26nbsp%3B377&amp;rft.place=Mumbai&amp;rft.pub=Bombay+Natural+History+Society+%26+Oxford+University+Press&amp;rft.isbn=0-19-566878-2&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mathew, DN; Narendran, TC; Zacharias, VJ (1978). "A comparative study of the feeding habits of certain species of Indian birds affecting agriculture". <i>J. Bombay Nat. Hist. Soc.</i> <b>75</b> (4): 1178–1197.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+comparative+study+of+the+feeding+habits+of+certain+species+of+Indian+birds+affecting+agriculture&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Mathew%2C+DN&amp;rft.au=Mathew%2C+DN&amp;rft.au=Narendran%2C+TC&amp;rft.au=Zacharias%2C+VJ&amp;rft.date=1978&amp;rft.volume=75&amp;rft.issue=4&amp;rft.pages=1178%E2%80%931197&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Mahabal.26Bastawade1991-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mahabal.26Bastawade1991_16-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil; Bastawade, D.B. (1991). <a rel="nofollow" class="external text" href="http://www.archive.org/details/MynaRoosting1991">"Mixed roosting associates of Indian Myna <i>Acridotheres tristis</i> in Pune city, India"</a>. <i>Pavo</i> (Department of Zoolgy, Maharaja Sayajirao Gaikwad University, <a href="/wiki/Vadodara" title="Vadodara">Vadodara</a>) <b>29</b> (1 &amp; 2): 23–32<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/MynaRoosting1991">http://www.archive.org/details/MynaRoosting1991</a></span><span class="reference-accessdate">. Retrieved 22 January 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mixed+roosting+associates+of+Indian+Myna+%27%27Acridotheres+tristis%27%27+in+Pune+city%2C+India&amp;rft.jtitle=Pavo&amp;rft.aulast=Mahabal&amp;rft.aufirst=Anil&amp;rft.au=Mahabal%2C%26%2332%3BAnil&amp;rft.au=Bastawade%2C%26%2332%3BD.B.&amp;rft.date=1991&amp;rft.volume=29&amp;rft.issue=1+%26+2&amp;rft.pages=23%E2%80%9332&amp;rft.pub=Department+of+Zoolgy%2C+Maharaja+Sayajirao+Gaikwad+University%2C+%5B%5BVadodara%5D%5D&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2FMynaRoosting1991&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil (1992). <a rel="nofollow" class="external text" href="http://www.archive.org/details/MynaAssemblages1992">"Diurnal intra- and inter-specific assemblages of Indian Mynas"</a>. <i>Biovigyanam</i> (Maharashtra Association for the Cultivation of Science, Pune) <b>18</b> (2): 116–118<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/MynaAssemblages1992">http://www.archive.org/details/MynaAssemblages1992</a></span><span class="reference-accessdate">. Retrieved 22 January 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Diurnal+intra-+and+inter-specific+assemblages+of+Indian+Mynas&amp;rft.jtitle=Biovigyanam&amp;rft.aulast=Mahabal&amp;rft.aufirst=Anil&amp;rft.au=Mahabal%2C%26%2332%3BAnil&amp;rft.date=1992&amp;rft.volume=18&amp;rft.issue=2&amp;rft.pages=116%E2%80%93118&amp;rft.pub=Maharashtra+Association+for+the+Cultivation+of+Science%2C+Pune&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2FMynaAssemblages1992&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil; Bastawade, D.B.; Vaidya, V.G. (1990). <a rel="nofollow" class="external text" href="http://www.archive.org/details/MynaPune">"Spatial and temporal fluctuations in the population of Common Myna <i>Acridotheres tristis</i> (Linnaeus) in and around an Indian City"</a>. <i>Journal of Bombay Natural History Society</i> (Bombay Natural History Society, Mumbai) <b>87</b> (3): 392–398<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/MynaPune">http://www.archive.org/details/MynaPune</a></span><span class="reference-accessdate">. Retrieved 22 January 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Spatial+and+temporal+fluctuations+in+the+population+of+Common+Myna+%27%27Acridotheres+tristis%27%27+%28Linnaeus%29+in+and+around+an+Indian+City&amp;rft.jtitle=Journal+of+Bombay+Natural+History+Society&amp;rft.aulast=Mahabal&amp;rft.aufirst=Anil&amp;rft.au=Mahabal%2C%26%2332%3BAnil&amp;rft.au=Bastawade%2C%26%2332%3BD.B.&amp;rft.au=Vaidya%2C%26%2332%3BV.G.&amp;rft.date=1990&amp;rft.volume=87&amp;rft.issue=3&amp;rft.pages=392%E2%80%93398&amp;rft.pub=Bombay+Natural+History+Society%2C+Mumbai&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2FMynaPune&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil (1993). <a rel="nofollow" class="external text" href="http://www.archive.org/details/FlockingChanges">"Seasonal changes in the flocking behaviour of Indian Myna 'Acridotheres tristis <i>(Linnaeus)"</i></a>.</span> Biovigyanam <i>(Maharashtra Association for the Cultivation of Science, Pune) <b>19</b> (1 &amp; 2): 55–64<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/FlockingChanges">http://www.archive.org/details/FlockingChanges</a></span><span class="reference-accessdate">. Retrieved 22 January 2011</span>.</i><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Seasonal+changes+in+the+flocking+behaviour+of+Indian+Myna+%27Acridotheres+tristis%27%27+%28Linnaeus%29&amp;rft.jtitle=Biovigyanam&amp;rft.aulast=Mahabal&amp;rft.aufirst=Anil&amp;rft.au=Mahabal%2C%26%2332%3BAnil&amp;rft.date=1993&amp;rft.volume=19&amp;rft.issue=1+%26+2&amp;rft.pages=55%E2%80%9364&amp;rft.pub=Maharashtra+Association+for+the+Cultivation+of+Science%2C+Pune&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2FFlockingChanges&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil (1997). <a rel="nofollow" class="external text" href="http://www.archive.org/details/RoostingFunctionalSignificance">"Communal roosting in Common Mynas and its functional significanca"</a>. <i>Journal of Bombay Natural History Society</i> (Bombay Natural History Society, Mumbai) <b>94</b> (2): 342–349<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/RoostingFunctionalSignificance">http://www.archive.org/details/RoostingFunctionalSignificance</a></span><span class="reference-accessdate">. Retrieved 22 January 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Communal+roosting+in+Common+Mynas+and+its+functional+significanca&amp;rft.jtitle=Journal+of+Bombay+Natural+History+Society&amp;rft.aulast=Mahabal&amp;rft.aufirst=Anil&amp;rft.au=Mahabal%2C%26%2332%3BAnil&amp;rft.date=1997&amp;rft.volume=94&amp;rft.issue=2&amp;rft.pages=342%E2%80%93349&amp;rft.pub=Bombay+Natural+History+Society%2C+Mumbai&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2FRoostingFunctionalSignificance&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mahabal, Anil (1993). "Communal display behaviour of Indian Myna 'Acridotheres tristis<i>(Linnaeus)".</i> Pavo <i>(Department of Zoolgy, Maharaja Sayajirao Gaikwad University, <a href="/wiki/Vadodara" title="Vadodara">Vadodara</a>) <b>31</b> (1&amp;2): 45–54.</i></span><i><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Communal+display+behaviour+of+Indian+Myna+%27Acridotheres+tristis%27%27%28Linnaeus%29&amp;rft.jtitle=Pavo&amp;rft.aulast=Mahabal&amp;rft.aufirst=Anil&amp;rft.au=Mahabal%2C%26%2332%3BAnil&amp;rft.date=1993&amp;rft.volume=31&amp;rft.issue=1%262&amp;rft.pages=45%E2%80%9354&amp;rft.pub=Department+of+Zoolgy%2C+Maharaja+Sayajirao+Gaikwad+University%2C+%5B%5BVadodara%5D%5D&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></i></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://besgroup.blogspot.com/2005/12/ubiquitous-javan-myna.html">"Ubiquitous Javan Myna"</a>. <i>Bird Ecology Study Group, Nature Society (Singapore)</i>. Besgroup.blogspot.com<span class="printonly">. <a rel="nofollow" class="external free" href="http://besgroup.blogspot.com/2005/12/ubiquitous-javan-myna.html">http://besgroup.blogspot.com/2005/12/ubiquitous-javan-myna.html</a></span><span class="reference-accessdate">. Retrieved October 25, 2007</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Ubiquitous+Javan+Myna&amp;rft.atitle=Bird+Ecology+Study+Group%2C+Nature+Society+%28Singapore%29&amp;rft.pub=Besgroup.blogspot.com&amp;rft_id=http%3A%2F%2Fbesgroup.blogspot.com%2F2005%2F12%2Fubiquitous-javan-myna.html&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-pell-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-pell_23-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Pell, A.S.; C.R. Tidemann (1997). <a rel="nofollow" class="external text" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU97018.pdf">"The Ecology of the Common Myna in Urban Nature Reserves in the Australian Capital Territory"</a>. <i>Emu</i> (Royal Australasian Ornithologists Union) <b>97</b> (2): 141–149. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1071%2FMU97018">10.1071/MU97018</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU97018.pdf">http://www.publish.csiro.au/?act=view_file&amp;file_id=MU97018.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Ecology+of+the+Common+Myna+in+Urban+Nature+Reserves+in+the+Australian+Capital+Territory&amp;rft.jtitle=Emu&amp;rft.aulast=Pell&amp;rft.aufirst=A.S.&amp;rft.au=Pell%2C%26%2332%3BA.S.&amp;rft.date=1997&amp;rft.volume=97&amp;rft.issue=2&amp;rft.pages=141%E2%80%93149&amp;rft.pub=Royal+Australasian+Ornithologists+Union&amp;rft_id=info:doi/10.1071%2FMU97018&amp;rft_id=http%3A%2F%2Fwww.publish.csiro.au%2F%3Fact%3Dview_file%26file_id%3DMU97018.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Pell 1997, p.146</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Pell 1997, p.141</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bomford, M.; Ron Sinclair (2002). <a rel="nofollow" class="external text" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU01028.pdf">"Australian research on bird pests: impact, management and future directions"</a>. <i>Emu</i> (Royal Australasian Ornithologists Union) <b>102</b>: 35. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1071%2FMU01028">10.1071/MU01028</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU01028.pdf">http://www.publish.csiro.au/?act=view_file&amp;file_id=MU01028.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Australian+research+on+bird+pests%3A+impact%2C+management+and+future+directions&amp;rft.jtitle=Emu&amp;rft.aulast=Bomford&amp;rft.aufirst=M.&amp;rft.au=Bomford%2C%26%2332%3BM.&amp;rft.date=2002&amp;rft.volume=102&amp;rft.pages=35&amp;rft.pub=Royal+Australasian+Ornithologists+Union&amp;rft_id=info:doi/10.1071%2FMU01028&amp;rft_id=http%3A%2F%2Fwww.publish.csiro.au%2F%3Fact%3Dview_file%26file_id%3DMU01028.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation Journal">Wilme, Lucienne (1996). <a rel="nofollow" class="external text" href="http://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_6/colloques2/010008477.pdf">"Composition and characteristics of bird communities in Madagascar"</a> (PDF). <i>Biogéographie de Madagascar</i>: 349–362<span class="printonly">. <a rel="nofollow" class="external free" href="http://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_6/colloques2/010008477.pdf">http://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_6/colloques2/010008477.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Composition+and+characteristics+of+bird+communities+in+Madagascar&amp;rft.jtitle=Biog%C3%A9ographie+de+Madagascar&amp;rft.aulast=Wilme%2C+Lucienne&amp;rft.au=Wilme%2C+Lucienne&amp;rft.date=1996&amp;rft.pages=349%E2%80%93362&amp;rft_id=http%3A%2F%2Fhorizon.documentation.ird.fr%2Fexl-doc%2Fpleins_textes%2Fpleins_textes_6%2Fcolloques2%2F010008477.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-H227-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-H227_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-H227_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Hone, J. (1978). <a rel="nofollow" class="external text" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU9780227.pdf">"Introduction and Spread of the Common Myna in New South Wales"</a>. <i>Emu</i> (Royal Australasian Ornithologists Union) <b>78</b> (4): 227. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1071%2FMU9780227">10.1071/MU9780227</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU9780227.pdf">http://www.publish.csiro.au/?act=view_file&amp;file_id=MU9780227.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Introduction+and+Spread+of+the+Common+Myna+in+New+South+Wales&amp;rft.jtitle=Emu&amp;rft.aulast=Hone&amp;rft.aufirst=J.&amp;rft.au=Hone%2C%26%2332%3BJ.&amp;rft.date=1978&amp;rft.volume=78&amp;rft.issue=4&amp;rft.pages=227&amp;rft.pub=Royal+Australasian+Ornithologists+Union&amp;rft_id=info:doi/10.1071%2FMU9780227&amp;rft_id=http%3A%2F%2Fwww.publish.csiro.au%2F%3Fact%3Dview_file%26file_id%3DMU9780227.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation Journal">Martin, W.K. (1996). <a rel="nofollow" class="external text" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU9960166.pdf">"The Current and Potential Distribution of the Common Myna <i>Acridotheres tristis</i> in Australia"</a>. <i>Emu</i> (Royal Australasian Ornithologists Union) <b>96</b> (3): 169–170. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1071%2FMU9960166">10.1071/MU9960166</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.publish.csiro.au/?act=view_file&amp;file_id=MU9960166.pdf">http://www.publish.csiro.au/?act=view_file&amp;file_id=MU9960166.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Current+and+Potential+Distribution+of++the+Common+Myna+%27%27Acridotheres+tristis%27%27+in+Australia&amp;rft.jtitle=Emu&amp;rft.aulast=Martin&amp;rft.aufirst=W.K.&amp;rft.au=Martin%2C%26%2332%3BW.K.&amp;rft.date=1996&amp;rft.volume=96&amp;rft.issue=3&amp;rft.pages=169%E2%80%93170&amp;rft.pub=Royal+Australasian+Ornithologists+Union&amp;rft_id=info:doi/10.1071%2FMU9960166&amp;rft_id=http%3A%2F%2Fwww.publish.csiro.au%2F%3Fact%3Dview_file%26file_id%3DMU9960166.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web">Vikki, By (2009-05-12). <a rel="nofollow" class="external text" href="http://www.dailytelegraph.com.au/news/councils-assessing-backyard-traps-to-catch-indian-mynah-birds/story-e6frezt9-1225711964693">"Councils assessing backyard traps to catch Indian Mynah birds | thetelegraph.com.au"</a>. Dailytelegraph.com.au<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.dailytelegraph.com.au/news/councils-assessing-backyard-traps-to-catch-indian-mynah-birds/story-e6frezt9-1225711964693">http://www.dailytelegraph.com.au/news/councils-assessing-backyard-traps-to-catch-indian-mynah-birds/story-e6frezt9-1225711964693</a></span><span class="reference-accessdate">. Retrieved 2012-08-07</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Councils+assessing+backyard+traps+to+catch+Indian+Mynah+birds+%26%23124%3B+thetelegraph.com.au&amp;rft.atitle=&amp;rft.aulast=Vikki&amp;rft.aufirst=By&amp;rft.au=Vikki%2C%26%2332%3BBy&amp;rft.date=2009-05-12&amp;rft.pub=Dailytelegraph.com.au&amp;rft_id=http%3A%2F%2Fwww.dailytelegraph.com.au%2Fnews%2Fcouncils-assessing-backyard-traps-to-catch-indian-mynah-birds%2Fstory-e6frezt9-1225711964693&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Martin 1996, pp.169–170</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation Journal">Derick S. Peacock, Berndt J. van Rensburg and Mark P. Robertson (2007). "The distribution and spread of the invasive alien Common Myna, Acridotheres tristis L. (Aves: Sturnidae), in southern Africa". <i>South African Journal of Science</i> <b>103</b>: 465–473.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+distribution+and+spread+of+the+invasive+alien+Common+Myna%2C+Acridotheres+tristis+L.+%28Aves%3A+Sturnidae%29%2C+in+southern+Africa&amp;rft.jtitle=South+African+Journal+of+Science&amp;rft.aulast=Derick+S.+Peacock%2C+Berndt+J.+van+Rensburg+and+Mark+P.+Robertson&amp;rft.au=Derick+S.+Peacock%2C+Berndt+J.+van+Rensburg+and+Mark+P.+Robertson&amp;rft.date=2007&amp;rft.volume=103&amp;rft.pages=465%E2%80%93473&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Berthouly-Salazar, C., van Rensburg, B.J., le Roux, J.J. van Vuuren, B.J. &amp; Hui, C. (2012) Spatial sorting drives morphological variation in the invasive bird, Acridotheres tristis. PLoS ONE, 7(5): e38145. <a rel="nofollow" class="external free" href="http://dx.plos.org/10.1371/journal.pone.0038145">http://dx.plos.org/10.1371/journal.pone.0038145</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Berthouly-Salazar, C., Cassey, P., van Vuuren, B.J., van Rensburg, B.J., Hui, C. &amp; le Roux, J.J. (2012) Development and characterization of 13 new, and cross amplification of 3, polymorphic nuclear microsatellite loci in the Common myna (<i>Acridotheres tristis</i>). Conservation Genetics Resources, 4: 621-624. <a rel="nofollow" class="external free" href="http://dx.doi.org/10.1007/s12686-012-9607-8">http://dx.doi.org/10.1007/s12686-012-9607-8</a></span></li>
+<li id="cite_note-B34-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-B34_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-B34_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bomford 2002, p.34</span></li>
+<li id="cite_note-P148-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-P148_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-P148_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Pell 1997, p.148</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Pell 1997, p.147</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Bomford 2002, p.30</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation Journal">Pimentel, D.; Lori Lach, Rodolfo Zuniga, Doug Morrison (January, 2000). <a rel="nofollow" class="external text" href="http://www.news.cornell.edu/releases/Jan99/species_costs.html">"Environmental and Economic Costs of Nonindigenous Species in the United States"</a>. <i>BioScience</i> (American Institute of Biological Sciences) <b>50</b> (1): 53–56. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1641%2F0006-3568%282000%29050%5B0053%3AEAECON%5D2.3.CO%3B2">10.1641/0006-3568(2000)050[0053:EAECON]2.3.CO;2</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.news.cornell.edu/releases/Jan99/species_costs.html">http://www.news.cornell.edu/releases/Jan99/species_costs.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Environmental+and+Economic+Costs+of+Nonindigenous+Species+in+the+United+States&amp;rft.jtitle=BioScience&amp;rft.aulast=Pimentel&amp;rft.aufirst=D.&amp;rft.au=Pimentel%2C%26%2332%3BD.&amp;rft.date=January%2C+2000&amp;rft.volume=50&amp;rft.issue=1&amp;rft.pages=53%E2%80%9356&amp;rft.pub=American+Institute+of+Biological+Sciences&amp;rft_id=info:doi/10.1641%2F0006-3568%282000%29050%5B0053%3AEAECON%5D2.3.CO%3B2&amp;rft_id=http%3A%2F%2Fwww.news.cornell.edu%2Freleases%2FJan99%2Fspecies_costs.html&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation Journal">Koopman, ME &amp; W C Pitt (2007). <a rel="nofollow" class="external text" href="http://www.aphis.usda.gov/wildlife_damage/nwrc/publications/07pubs/pitt072.pdf">"Crop diversification leads to diverse bird problems in Hawaiian agriculture"</a> (PDF). <i>Human–Wildlife Conflicts</i> <b>1</b> (2): 235–243<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.aphis.usda.gov/wildlife_damage/nwrc/publications/07pubs/pitt072.pdf">http://www.aphis.usda.gov/wildlife_damage/nwrc/publications/07pubs/pitt072.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Crop+diversification+leads+to+diverse+bird+problems+in+Hawaiian+agriculture&amp;rft.jtitle=Human%E2%80%93Wildlife+Conflicts&amp;rft.aulast=Koopman%2C+ME+%26+W+C+Pitt&amp;rft.au=Koopman%2C+ME+%26+W+C+Pitt&amp;rft.date=2007&amp;rft.volume=1&amp;rft.issue=2&amp;rft.pages=235%E2%80%93243&amp;rft_id=http%3A%2F%2Fwww.aphis.usda.gov%2Fwildlife_damage%2Fnwrc%2Fpublications%2F07pubs%2Fpitt072.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Pande, Dr Suruchi. (2007). <i>Some reflections on birds in Sanskrit literature</i>. (A Thesis submitted for the degree of Vidyavachaspati (PhD) (Sanskrit) awarded from Shri Balmukund Lohiya Centre of Sanskrit and Indological Studies, Tilak Maharashtra Vidyapeeth, Pune).</span></li>
+<li id="cite_note-Birds_in_Sanskrit_Lit-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-Birds_in_Sanskrit_Lit_42-0">^</a></b></span> <span class="reference-text"><span class="citation book">Dave, K. N. (2005). <i>Birds in Sanskrit Literature</i> (revised ed.). Delhi: Motilal Banarsidass Private Ltd. p.&#160;516. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/81-208-1842-3" title="Special:BookSources/81-208-1842-3">81-208-1842-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+in+Sanskrit+Literature&amp;rft.aulast=Dave&amp;rft.aufirst=K.+N.&amp;rft.au=Dave%2C%26%2332%3BK.+N.&amp;rft.date=2005&amp;rft.pages=p.%26nbsp%3B516&amp;rft.edition=revised&amp;rft.place=Delhi&amp;rft.pub=Motilal+Banarsidass+Private+Ltd&amp;rft.isbn=81-208-1842-3&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=21" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><span class="citation book">Feare, Chris; Craig, Adrian (1999). <i>Starlings and Mynas</i>. Princeton University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7136-3961-X" title="Special:BookSources/0-7136-3961-X">0-7136-3961-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Starlings+and+Mynas&amp;rft.aulast=Feare&amp;rft.aufirst=Chris&amp;rft.au=Feare%2C%26%2332%3BChris&amp;rft.date=1999&amp;rft.pub=Princeton+University+Press&amp;rft.isbn=0-7136-3961-X&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></li>
+<li>Grimmett, Inskipp and Inskipp, <i>Birds of India</i> <a href="/wiki/Special:BookSources/0691049106" class="internal mw-magiclink-isbn">ISBN 0-691-04910-6</a></li>
+<li>Pell, A.S. &amp; Tidemann, C.R. (1997) "The impact of two exotic hollow-nesting birds on two native parrots in savannah and woodland in eastern Australia", <i>Biological Conservation</i>, 79, 145-153. A study showing native birds being excluded from up to 80% of nesting sites in Canberra, Australia.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Myna&amp;action=edit&amp;section=22" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata plainlinks mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td colspan="2" style="margin: auto; text-align: center">Find more about <b>Common Myna</b> on Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">sister projects</a>:</td>
+</tr>
+<tr>
+<td><a href="//commons.wikimedia.org/wiki/Special:Search/Acridotheres_tristis" title="Search Commons"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" width="18" height="25" /></a></td>
+<td><a href="//commons.wikimedia.org/wiki/Special:Search/Acridotheres_tristis" class="extiw" title="commons:Special:Search/Acridotheres tristis">Images and media</a> from Commons<br /></td>
+</tr>
+<tr>
+<td><a href="//species.wikimedia.org/wiki/Special:Search/Acridotheres_tristis" title="Search Wikispecies"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/21px-Wikispecies-logo.svg.png" width="21" height="25" /></a></td>
+<td><a href="//species.wikimedia.org/wiki/Special:Search/Acridotheres_tristis" class="extiw" title="species:Special:Search/Acridotheres tristis">Species directories Acridotheres tristis</a> from Wikispecies</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/common-myna-acridotheres-tristis">Common Myna videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li>(Indian Myna =) Common Myna - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/758.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.indianmyna.org/documents/Indian_Myna_Handbookl.pdf">Indian Myna Control Handbook</a></li>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=554025">"<i>Acridotheres tristis</i>"</a>. <a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">Integrated Taxonomic Information System</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=554025">http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=554025</a></span><span class="reference-accessdate">. Retrieved 23 February 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Acridotheres+tristis%27%27&amp;rft.atitle=&amp;rft.pub=%5B%5BIntegrated+Taxonomic+Information+System%5D%5D&amp;rft_id=http%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D554025&amp;rfr_id=info:sid/en.wikipedia.org:Common_Myna"><span style="display: none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://srilankawilderness.blogspot.com/2010/05/common-mynaacridotheres-tristis.html">Common Myna video</a> on Wild Sri Lanka</li>
+<li><a rel="nofollow" class="external text" href="http://sres-associated.anu.edu.au/myna/index.html">ANU Indian Common Myna page</a> about Mynas as an invasive species in Australia and what can be done to control them</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 26305/1000000
+Preprocessor generated node count: 52371/1500000
+Post-expand include size: 175446/2048000 bytes
+Template argument size: 54084/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:480171-0!*!0!!en!4!* and timestamp 20121017180255 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_Myna&amp;oldid=517261376">http://en.wikipedia.org/w/index.php?title=Common_Myna&amp;oldid=517261376</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Acridotheres" title="Category:Acridotheres">Acridotheres</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Bangladesh" title="Category:Birds of Bangladesh">Birds of Bangladesh</a></li><li><a href="/wiki/Category:Birds_of_Thailand" title="Category:Birds of Thailand">Birds of Thailand</a></li><li><a href="/wiki/Category:Birds_of_American_Samoa" title="Category:Birds of American Samoa">Birds of American Samoa</a></li><li><a href="/wiki/Category:Birds_of_the_United_States" title="Category:Birds of the United States">Birds of the United States</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Australia" title="Category:Birds of Australia">Birds of Australia</a></li><li><a href="/wiki/Category:Invasive_bird_species" title="Category:Invasive bird species">Invasive bird species</a></li><li><a href="/wiki/Category:Talking_birds" title="Category:Talking birds">Talking birds</a></li><li><a href="/wiki/Category:Birds_of_Sri_Lanka" title="Category:Birds of Sri Lanka">Birds of Sri Lanka</a></li><li><a href="/wiki/Category:Urban_animals" title="Category:Urban animals">Urban animals</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Introduced_birds_of_Hawaii" title="Category:Introduced birds of Hawaii">Introduced birds of Hawaii</a></li><li><a href="/wiki/Category:Animals_described_in_1766" title="Category:Animals described in 1766">Animals described in 1766</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Myna&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Myna" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_Myna"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_Myna"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_Myna" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_Myna&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_Myna&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_Myna" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_Myna" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_Myna&amp;oldid=517261376" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Common_Myna&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_Myna&amp;id=517261376" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+Myna" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+Myna&amp;oldid=517261376&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_Myna&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D9%8A%D9%86%D8%A9" title="مينة" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95" title="শালিক" lang="bn" hreflang="bn">বাংলা</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Min%C3%A0_com%C3%BA" title="Minà comú" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Majna_obecn%C3%A1" title="Majna obecná" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Hirtenmaina" title="Hirtenmaina" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Acridotheres_tristis" title="Acridotheres tristis" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Ordinara_minao" title="Ordinara minao" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Acridotheres_tristis" title="Acridotheres tristis" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%DB%8C_%D9%85%D8%B9%D9%85%D9%88%D9%84%DB%8C" title="مینای معمولی" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-hif"><a href="//hif.wikipedia.org/wiki/Maina" title="Maina" lang="hif" hreflang="hif">Fiji Hindi</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Martin_triste" title="Martin triste" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gu"><a href="//gu.wikipedia.org/wiki/%E0%AA%95%E0%AA%BE%E0%AA%AC%E0%AA%B0" title="કાબર" lang="gu" hreflang="gu">ગુજરાતી</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%88%E0%A4%A8%E0%A4%BE" title="मैना" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%99%D7%99%D7%A0%D7%94_%D7%9E%D7%A6%D7%95%D7%99%D7%94" title="מיינה מצויה" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%88%E0%B2%A8%E0%B2%BE" title="ಮೈನಾ" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B0" title="Майна" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/P%C3%A1sztormejn%C3%B3" title="Pásztormejnó" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AE%E0%B5%88%E0%B4%A8" title="മൈന" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Tiong_Gembala_Kerbau" title="Burung Tiong Gembala Kerbau" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%86%E1%80%80%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA" title="ဆက်ရက်" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Treurmaina" title="Treurmaina" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Majna_brunatna" title="Majna brunatna" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Acridotheres_tristis" title="Acridotheres tristis" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D0%B9%D0%BD%D0%B0" title="Обыкновенная майна" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pihamaina" title="Pihamaina" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Brun_majna" title="Brun majna" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BE%E0%AE%A4%E0%AE%BE%E0%AE%B0%E0%AE%A3_%E0%AE%AE%E0%AF%88%E0%AE%A9%E0%AE%BE" title="சாதாரண மைனா" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-tg"><a href="//tg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B0" title="Майна" lang="tg" hreflang="tg">Тоҷикӣ</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C3%87i%C4%9Fdeci" title="Çiğdeci" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BD%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0" title="Майна звичайна" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/S%C3%A1o_n%C3%A2u" title="Sáo nâu" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%AE%B6%E5%85%AB%E5%93%A5" title="家八哥" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 October 2012 at 20:17.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Myna&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw36 in 0.144 secs. -->
+	</body>
+</html>

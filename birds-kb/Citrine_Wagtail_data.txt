@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Citrine Wagtail - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Citrine_Wagtail&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Citrine_Wagtail&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Citrine_Wagtail","wgTitle":"Citrine Wagtail","wgCurRevisionId":518325558,"wgArticleId":336712,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Birds of Europe","Birds of Turkey","Birds of Asia","Birds of Thailand","Birds of Pakistan","Birds of Bhutan","Birds of India","Pipits and wagtails","Motacilla"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Citrine_Wagtail","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"0589da0cd66798d4a30dda7cb0ce0b2c","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":336712,"title":"Citrine Wagtail","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Asia","Birds of Bhutan","Birds of Europe","Birds of India","Birds of Pakistan","Birds of Thailand","Birds of Turkey","IUCN Red List least concern species","Motacilla","Pipits and wagtails"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Citrine_Wagtail skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Citrine Wagtail</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Citrine Wagtail</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Citrine_Wagtail_(Motacilla_citreola)-_Breeding_Male_of_calcarata_race_at_Bharatpur_I_IMG_5752.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Citrine_Wagtail_%28Motacilla_citreola%29-_Breeding_Male_of_calcarata_race_at_Bharatpur_I_IMG_5752.jpg/240px-Citrine_Wagtail_%28Motacilla_citreola%29-_Breeding_Male_of_calcarata_race_at_Bharatpur_I_IMG_5752.jpg" width="240" height="198" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Male Weigold's Citrine Wagtail (<i>M. c. calcarata</i>) in breeding plumage<br />
+<a href="/wiki/Keoladeo_National_Park" title="Keoladeo National Park">Keoladeo National Park</a>, <a href="/wiki/Bharatpur,_India" title="Bharatpur, India" class="mw-redirect">Bharatpur</a><br />
+(<a href="/wiki/Rajasthan" title="Rajasthan">Rajasthan</a>, <a href="/wiki/India" title="India">India</a>)</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Motacillidae" title="Motacillidae">Motacillidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Motacilla" title="Motacilla" class="mw-redirect">Motacilla</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. citreola</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Motacilla citreola</i></span></b><br />
+<small><a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1776</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Budytes citreola</i> <small>(Pallas, 1776)</small></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Citrine Wagtail</b> or <b>Yellow-headed Wagtail</b> (<i>Motacilla citreola</i>) is a small <a href="/wiki/Songbird" title="Songbird">songbird</a> in the <a href="/wiki/Family_(biology)" title="Family (biology)">family</a> <a href="/wiki/Motacillidae" title="Motacillidae">Motacillidae</a>. The term <a href="/wiki/Citrine_(colour)" title="Citrine (colour)"><i>citrine</i></a> refers to its yellowish colouration. Its <a href="/wiki/Systematics" title="Systematics">systematics</a>, <a href="/wiki/Phylogeny" title="Phylogeny" class="mw-redirect">phylogeny</a> and <a href="/wiki/Taxonomy" title="Taxonomy">taxonomy</a> are subject of considerable debate in the early 21st century. This is because this bird forms a <a href="/wiki/Cryptic_species_complex" title="Cryptic species complex">cryptic species complex</a> with the <a href="/wiki/Eastern_Yellow_Wagtail" title="Eastern Yellow Wagtail">Eastern</a> (<i>M. tschutschensis</i> ) and <a href="/wiki/Western_Yellow_Wagtail" title="Western Yellow Wagtail">Western Yellow Wagtail</a> (<i>M. flava</i>). Which of the many <a href="/wiki/Taxa" title="Taxa" class="mw-redirect">taxa</a> in this group should properly refer to which <a href="/wiki/Population" title="Population">population</a> is unlikely to be resolved in the immediate future.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Citrine_wagtail_I_IMG_8326.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Citrine_wagtail_I_IMG_8326.jpg/220px-Citrine_wagtail_I_IMG_8326.jpg" width="220" height="159" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Citrine_wagtail_I_IMG_8326.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Female in breeding plumage<br />
+<a href="/w/index.php?title=Narenderpur&amp;action=edit&amp;redlink=1" class="new" title="Narenderpur (page does not exist)">Narenderpur</a> near <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a> (<a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>)</div>
+</div>
+</div>
+<p>It is a slender, 15.5–17&#160;cm long bird, with the long, constantly wagging tail characteristic of the <a href="/wiki/Genus" title="Genus">genus</a> <i><a href="/wiki/Motacilla" title="Motacilla" class="mw-redirect">Motacilla</a></i>. The adult male in breeding plumage is basically grey or black above, with white on the <a href="/wiki/Remiges" title="Remiges" class="mw-redirect">remiges</a>, and bright yellow below and on the entire head except for the black nape. In winter plumage, its yellow underparts may be diluted by white, and the head is brownish with a yellowish <a href="/wiki/Supercilium" title="Supercilium">supercilium</a>. Females look generally like washed-out versions of males in winter plumage.</p>
+<p>This species breeds in north central <a href="/wiki/Asia" title="Asia">Asia</a> in wet meadows and <a href="/wiki/Tundra" title="Tundra">tundra</a>. It <a href="/wiki/Bird_migration" title="Bird migration">migrates</a> in winter to south <a href="/wiki/Asia" title="Asia">Asia</a>, often to highland areas. Its range is expanding westwards, and it is a rare but increasing vagrant to western <a href="/wiki/Europe" title="Europe">Europe</a>. Vagrants seem to extend the migration rather than straying <a href="//en.wiktionary.org/wiki/en_route" class="extiw" title="wikt:en route">en route</a>; in <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a> for example, though along one of the species' migration <a href="/wiki/Flyway" title="Flyway">flyways</a>, the Citrine Wagtail has been recorded as an extremely rare passer-by rather than staying even for a few days or weeks<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup>.</p>
+<p>It is an <a href="/wiki/Insectivorous" title="Insectivorous" class="mw-redirect">insectivorous</a> <a href="/wiki/Bird" title="Bird">bird</a> of open country near water, such as wet meadows and bogs, and nests on the ground, laying 4-5 speckled eggs.</p>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:27px auto;"><a href="/wiki/File:Citrine_Wagtail_I_IMG_8316.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Citrine_Wagtail_I_IMG_8316.jpg/120px-Citrine_Wagtail_I_IMG_8316.jpg" width="120" height="96" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Juvenile in Kolkata (West Bengal, India)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Citrine_wagtail_I_IMG_5467.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Citrine_wagtail_I_IMG_5467.jpg/120px-Citrine_wagtail_I_IMG_5467.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Immature in first-winter plumage<br />
+<a href="/wiki/Joka,_Kolkata" title="Joka, Kolkata">Joka, Kolkata</a> (West Bengal, India)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32.5px auto;"><a href="/wiki/File:Citrine_Wagtail_(Motacilla_citreola)_in_Kolkata_I_IMG_2740.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Citrine_Wagtail_%28Motacilla_citreola%29_in_Kolkata_I_IMG_2740.jpg/120px-Citrine_Wagtail_%28Motacilla_citreola%29_in_Kolkata_I_IMG_2740.jpg" width="120" height="85" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Wintering bird in Kolkata (West Bengal, India)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Citrine_Wagtail_(Moticilla_citreola)_12-10-2006_1-29-57_PM.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Citrine_Wagtail_%28Moticilla_citreola%29_12-10-2006_1-29-57_PM.JPG/120px-Citrine_Wagtail_%28Moticilla_citreola%29_12-10-2006_1-29-57_PM.JPG" width="120" height="80" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Wintering bird in <a href="/wiki/Ras_al_Khor_Bird_Sanctuary" title="Ras al Khor Bird Sanctuary" class="mw-redirect">Ras al Khor Bird Sanctuary</a> (<a href="/wiki/Dubai" title="Dubai">Dubai</a>, <a href="/wiki/UAE" title="UAE" class="mw-redirect">UAE</a>)</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Citrine_Wagtail&amp;action=edit&amp;section=1" title="Edit section: Footnotes">edit</a>]</span> <span class="mw-headline" id="Footnotes">Footnotes</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106008410">"<i>Motacilla citreola</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106008410">http://www.iucnredlist.org/apps/redlist/details/106008410</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Motacilla+citreola%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106008410&amp;rfr_id=info:sid/en.wikipedia.org:Citrine_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Voelker (2002)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Inskipp <i>et al.</i> (2000)</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Citrine_Wagtail&amp;action=edit&amp;section=2" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" /> Media related to <a href="//commons.wikimedia.org/wiki/Motacilla_citreola" class="extiw" title="commons:Motacilla citreola">Motacilla citreola</a> at Wikimedia Commons</p>
+<ul>
+<li>Inskipp, Carol; Inskipp, Tim &amp; Sherub (2000): The ornithological importance of Thrumshingla National Park, Bhutan. <i><a href="/wiki/Forktail_(journal)" title="Forktail (journal)">Forktail</a></i> <b>14</b>: 147-162. <a rel="nofollow" class="external text" href="http://www.orientalbirdclub.org/publications/forktail/16pdfs/Inskipp-Bhutan.pdf">PDF fulltext</a></li>
+<li>Voelker, Gary (2002): Systematics and historical biogeography of wagtails: Dispersal versus vicariance revisited. <i><a href="/wiki/Condor_(journal)" title="Condor (journal)" class="mw-redirect">Condor</a></i> <b>104</b>(4): 725–739. [English with Spanish abstract] <small><a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier" class="mw-redirect">DOI</a>: 10.1650/0010-5422(2002)104[0725:SAHBOW]2.0.CO;2</small> <a rel="nofollow" class="external text" href="http://www.bioone.org/perlserv/?request=get-abstract&amp;doi=10.1650%2F0010-5422(2002)104%5B0725%3ASAHBOW%5D2.0.CO%3B2">HTML abstract</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 4070/1000000
+Preprocessor generated node count: 41298/1500000
+Post-expand include size: 24187/2048000 bytes
+Template argument size: 6347/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:336712-0!*!0!!*!4!* and timestamp 20121017171950 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Citrine_Wagtail&amp;oldid=518325558">http://en.wikipedia.org/w/index.php?title=Citrine_Wagtail&amp;oldid=518325558</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Thailand" title="Category:Birds of Thailand">Birds of Thailand</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Bhutan" title="Category:Birds of Bhutan">Birds of Bhutan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Pipits_and_wagtails" title="Category:Pipits and wagtails">Pipits and wagtails</a></li><li><a href="/wiki/Category:Motacilla" title="Category:Motacilla">Motacilla</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Citrine+Wagtail&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Citrine+Wagtail" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Citrine_Wagtail"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Citrine_Wagtail"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Citrine_Wagtail" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Citrine_Wagtail&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Citrine_Wagtail&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Citrine_Wagtail" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Citrine_Wagtail" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Citrine_Wagtail&amp;oldid=518325558" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Citrine_Wagtail&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Citrine_Wagtail&amp;id=518325558" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Citrine+Wagtail" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Citrine+Wagtail&amp;oldid=518325558&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Citrine_Wagtail&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9C%D1%8B%D0%B2%D1%8D%D0%BA%D3%80%D1%8D%D0%BF%D1%8B%D1%81%D1%89%D1%85%D1%8C%D1%8D%D0%B3%D1%8A%D1%83%D1%8D%D0%B6%D1%8C" title="МывэкӀэпысщхьэгъуэжь" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B0%D8%B9%D8%B1%D8%A9_%D8%B5%D9%81%D8%B1%D8%A7%D8%A1_%D8%A7%D9%84%D8%B1%D8%A3%D8%B3" title="ذعرة صفراء الرأس" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%96%D0%BE%D1%9E%D1%82%D0%B0%D0%B3%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%96%D1%82%D0%B0%D1%9E%D0%BA%D0%B0" title="Жоўтагаловая сітаўка" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B5%D0%BD%D0%B0_%D1%81%D1%82%D1%8A%D1%80%D1%87%D0%B8%D0%BE%D0%BF%D0%B0%D1%88%D0%BA%D0%B0" title="Лимонена стърчиопашка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Kannerez_sitro%C3%B1s" title="Kannerez sitroñs" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Konipas_citronov%C3%BD" title="Konipas citronový" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Zitronenstelze" title="Zitronenstelze" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Kuldh%C3%A4nilane" title="Kuldhänilane" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Motacilla_citreola" title="Motacilla citreola" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Citronmotacilo" title="Citronmotacilo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Motacilla_citreola" title="Motacilla citreola" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/M%C3%BDrierla" title="Mýrierla" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Bergeronnette_citrine" title="Bergeronnette citrine" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C%D7%99%D7%90%D7%9C%D7%99_%D7%9C%D7%99%D7%9E%D7%95%D7%A0%D7%99" title="נחליאלי לימוני" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-csb"><a href="//csb.wikipedia.org/wiki/Cytr%C3%B3now%C3%B4_pl%C3%ABszka" title="Cytrónowô plëszka" lang="csb" hreflang="csb">Kaszëbsczi</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Geltongalv%C4%97_kiel%C4%97" title="Geltongalvė kielė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Citrombilleget%C5%91" title="Citrombillegető" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%9E%E0%B5%8D%E0%B4%9E_%E0%B4%B5%E0%B4%BE%E0%B4%B2%E0%B5%81%E0%B4%95%E0%B5%81%E0%B4%B2%E0%B5%81%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%BF" title="മഞ്ഞ വാലുകുലുക്കിപ്പക്ഷി" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80%D1%82%D2%AF%D1%80%D2%AF%D2%AF%D1%82_%D1%86%D1%8D%D0%B3%D1%86%D0%B3%D0%B8%D0%B9" title="Шартүрүүт цэгцгий" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Citroenkwikstaart" title="Citroenkwikstaart" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AD%E3%82%AC%E3%82%B7%E3%83%A9%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4" title="キガシラセキレイ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Sitronerle" title="Sitronerle" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Motacilla_citreola" title="Motacilla citreola" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pliszka_cytrynowa" title="Pliszka cytrynowa" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Alv%C3%A9ola-citrina" title="Alvéola-citrina" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%82%D1%80%D1%8F%D1%81%D0%BE%D0%B3%D1%83%D0%B7%D0%BA%D0%B0" title="Желтоголовая трясогузка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%9C%D0%B0%D2%A5%D0%B0%D0%B0%D1%81_%D1%81%D1%8B%D0%BB%D0%B3%D1%8B%D1%87%D1%8B%D0%B0%D0%B9" title="Маҥаас сылгычыай" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Sitruunav%C3%A4st%C3%A4r%C3%A4kki" title="Sitruunavästäräkki" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Citron%C3%A4rla" title="Citronärla" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Sar%C4%B1_ba%C5%9Fl%C4%B1_kuyruksallayan" title="Sarı başlı kuyruksallayan" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-udm"><a href="//udm.wikipedia.org/wiki/%D3%B4%D1%83%D0%B6_%D0%B9%D1%8B%D1%80%D0%BE_%D0%B9%D3%A7%D0%B3%D1%8B%D0%BB%D1%82%D3%A5%D1%81%D1%8C" title="Ӵуж йыро йӧгылтӥсь" lang="udm" hreflang="udm">Удмурт</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B8%D1%81%D0%BA%D0%B0_%D0%B6%D0%BE%D0%B2%D1%82%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0" title="Плиска жовтоголова" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%BB%84%E5%A4%B4%E9%B9%A1%E9%B8%B0" title="黄头鹡鸰" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 October 2012 at 14:05.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Citrine_Wagtail&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw28 in 0.137 secs. -->
+	</body>
+</html>

@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Wren - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wren&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wren&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wren","wgTitle":"Wren","wgCurRevisionId":520494610,"wgArticleId":103190,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with \'species\' microformats","Troglodytidae"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wren","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"1d10615c7af6038afa9aff1452af5c1d","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":103190,"title":"Wren","namespace":0,"categories":["Articles with \'species\' microformats","Troglodytidae"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Wren skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Wren</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">This article is about the bird family. For other uses of the word wren, see <a href="/wiki/Wren_(disambiguation)" title="Wren (disambiguation)">Wren (disambiguation)</a>.</div>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Wrens</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Cistothorus_palustris_Iona.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cistothorus_palustris_Iona.jpg/240px-Cistothorus_palustris_Iona.jpg" width="240" height="303" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cistothorus_palustris_Iona.jpg/360px-Cistothorus_palustris_Iona.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cistothorus_palustris_Iona.jpg/480px-Cistothorus_palustris_Iona.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><a href="/wiki/Marsh_Wren" title="Marsh Wren">Marsh Wren</a> (<i>Cistothorus palustris</i>)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Suborder:</td>
+<td><span class="suborder" style="white-space:nowrap;"><a href="/wiki/Passeri" title="Passeri" class="mw-redirect">Passeri</a></span></td>
+</tr>
+<tr>
+<td>Superfamily:</td>
+<td><span class="superfamily" style="white-space:nowrap;"><a href="/w/index.php?title=Certhioidea&amp;action=edit&amp;redlink=1" class="new" title="Certhioidea (page does not exist)">Certhioidea</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><i><b>Troglodytidae</b></i></span><br />
+<small><a href="/wiki/William_John_Swainson" title="William John Swainson">Swainson</a>, 1832</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Genera</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p>Some 20, see text</p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>wrens</b> are mostly small, brownish <a href="/wiki/Passerine" title="Passerine">passerine</a> birds in the mainly <a href="/wiki/New_World" title="New World">New World</a> <a href="/wiki/Family_(biology)" title="Family (biology)">family</a> <b>Troglodytidae</b>. There are approximately 80 <a href="/wiki/Species" title="Species">species</a> of <b>true wrens</b> in approximately 20 <a href="/wiki/Genus" title="Genus">genera</a>. Only the <a href="/wiki/Eurasian_Wren" title="Eurasian Wren">Eurasian Wren</a> occurs in the <a href="/wiki/Old_World" title="Old World">Old World</a>, where in Anglophone regions it is commonly known simply as the "wren" as it is the originator of the name. The name wren has been applied to other unrelated birds, particularly the <a href="/wiki/New_Zealand_wren" title="New Zealand wren">New Zealand wrens</a> (Acanthisittidae) and the Australian wrens (<a href="/wiki/Maluridae" title="Maluridae">Maluridae</a>).</p>
+<p>Most wrens are small and rather inconspicuous, except for their loud and often complex songs. Notable exceptions are the relatively large members of the genus <i><a href="/wiki/Campylorhynchus" title="Campylorhynchus">Campylorhynchus</a></i>, which can be quite bold in their behavior. Wrens have short wings that are barred in most species, and they often hold their tails upright. As far as known, wrens are primarily <a href="/wiki/Insectivorous" title="Insectivorous" class="mw-redirect">insectivorous</a>, eating insects, spiders and other small <a href="/wiki/Arthropod" title="Arthropod">arthropods</a>, but many species also eat vegetable matter and some will take small frogs/lizards.<sup id="cite_ref-HBW_0-0" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Name_and_use_of_the_term_wren"><span class="tocnumber">1</span> <span class="toctext">Name and use of the term wren</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour_and_ecology"><span class="tocnumber">4</span> <span class="toctext">Behaviour and ecology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Taxonomy_and_systematics"><span class="tocnumber">5</span> <span class="toctext">Taxonomy and systematics</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Wren&amp;action=edit&amp;section=1" title="Edit section: Name and use of the term wren">edit</a>]</span> <span class="mw-headline" id="Name_and_use_of_the_term_wren">Name and use of the term wren</span></h2>
+<p>The English name <i>wren</i> derives from Middle English <i>wrenne</i>, Old English <i>wraenna</i>, attested (as <i>werna</i>) very early, in an 8th century gloss. It is cognate to <a href="/wiki/Old_High_German" title="Old High German">Old High German</a> <i>wrendo, wrendilo</i> and Icelandic <i>rindill</i> (the latter two including an additional diminutive <i>-ilan</i> suffix). The Icelandic name is attested in <a href="/wiki/Old_Icelandic" title="Old Icelandic" class="mw-redirect">Old Icelandic</a> (<a href="/wiki/Edda" title="Edda">Eddaic</a>) <i>rindilþvari</i>. This points to a <a href="/wiki/Common_Germanic" title="Common Germanic" class="mw-redirect">Common Germanic</a> name <i>*wrandjan-</i>, but the further etymology of the name is unknown.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The wren is also known as <i>kuningilin</i> "kinglet" in Old High German, a name associated with the <a href="/wiki/Fable" title="Fable">fable</a> of the election of the "king of birds". The bird who could fly to the highest altitude would be made king. The <a href="/wiki/Eagle" title="Eagle">eagle</a> outflew all other birds, but he was beaten by a small bird who had hidden in his plumage. This fable is already known to <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a> (<i>Hist. animalium</i> 9.11) and <a href="/wiki/Pliny_the_Elder" title="Pliny the Elder">Plinius</a> (<i>Naturalis hist.</i> 10.74 ), and was taken up by medieval authors such as <a href="/wiki/Johann_Geiler_von_Kaisersberg" title="Johann Geiler von Kaisersberg">Johann Geiler von Kaisersberg</a>, but it concerns <i><a href="/wiki/Regulus_(genus)" title="Regulus (genus)" class="mw-redirect">Regulus</a></i>, and is apparently motivated by the yellow "crown" sported by these birds (a point noted already by <a href="/wiki/Ludwig_Uhland" title="Ludwig Uhland">Ludwig Uhland</a>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> In modern German the name is "Zaunkönig", king of the fence (or hedge). In Dutch the name is "winterkoninkje" (little winter king).</p>
+<p>The family name Troglodytidae is derived from troglodyte, which means "cave-dweller", and the wrens get their scientific name from the tendency of some species to forage in dark crevices.</p>
+<p>The name "wren" is also ascribed to <a href="/wiki/Wren_(disambiguation)" title="Wren (disambiguation)">other families</a> of passerine birds throughout the world. In Europe, species of <i><a href="/wiki/Regulus_(genus)" title="Regulus (genus)" class="mw-redirect">Regulus</a></i> are commonly known as "wrens", the <a href="/wiki/Common_Firecrest" title="Common Firecrest">Common Firecrest</a> and <a href="/wiki/Goldcrest" title="Goldcrest">Goldcrest</a> as "fire-crested wren" and "golden-crested wren", respectively.</p>
+<p>The 27 <a href="/wiki/Australasia" title="Australasia">Australasian</a> "wren" species in the family <a href="/wiki/Maluridae" title="Maluridae">Maluridae</a> are unrelated, as are the <a href="/wiki/New_Zealand_wren" title="New Zealand wren">New Zealand wrens</a> in the family Acanthisittidae, the antwrens in the family <a href="/wiki/Thamnophilidae" title="Thamnophilidae" class="mw-redirect">Thamnophilidae</a>, and the wren-babblers of the family <a href="/wiki/Timaliidae" title="Timaliidae" class="mw-redirect">Timaliidae</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Wren&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>Wrens are medium-small to very small birds. The Eurasian Wren is among the smallest birds in its range, while the smaller species from the <a href="/wiki/Americas" title="Americas">Americas</a> are among the smallest <a href="/wiki/Passerines" title="Passerines" class="mw-redirect">passerines</a> in that part of the world. They range in size from the <a href="/wiki/White-bellied_Wren" title="White-bellied Wren">White-bellied Wren</a>, which averages under 10 centimetres (3.9&#160;in) and 9 grams (0.32&#160;oz), to the <a href="/wiki/Giant_Wren" title="Giant Wren">Giant Wren</a>, which averages about 22 centimetres (8.7&#160;in) and weighs almost 50 grams (1.8&#160;oz). The dominating colours of their <a href="/wiki/Plumage" title="Plumage">plumage</a> are generally drab, composed of grey, brown, black and white, and most species show some barring, especially to tail and/or wings. There is no <a href="/wiki/Sexual_dimorphism" title="Sexual dimorphism">sexual dimorphism</a> in the plumage of wrens, and little difference between young birds and adults.<sup id="cite_ref-HBW_0-1" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup> All have fairly long, straight to marginally decurved bills.<sup id="cite_ref-HBW_0-2" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>Wrens have loud and often complex songs, sometimes given in duet by a pair. The song of members of the genera <i><a href="/wiki/Cyphorhinus" title="Cyphorhinus">Cyphorhinus</a></i> and <i><a href="/wiki/Microcerculus" title="Microcerculus">Microcerculus</a></i> have been considered especially pleasant to the human ear, leading to common names such as <a href="/wiki/Song_Wren" title="Song Wren">Song Wren</a>, <a href="/wiki/Musician_Wren" title="Musician Wren">Musician Wren</a>, <a href="/wiki/Flutist_Wren" title="Flutist Wren">Flutist Wren</a> and <a href="/wiki/Southern_Nightingale-Wren" title="Southern Nightingale-Wren">Southern Nightingale-Wren</a>.<sup id="cite_ref-HBW_0-3" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Wren&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cobb%27s_Wren.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cobb%27s_Wren.png/220px-Cobb%27s_Wren.png" width="220" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cobb%27s_Wren.png/330px-Cobb%27s_Wren.png 1.5x, //upload.wikimedia.org/wikipedia/commons/3/31/Cobb%27s_Wren.png 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cobb%27s_Wren.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Cobb%27s_Wren" title="Cobb's Wren">Cobb's Wren</a> is an insular <a href="/wiki/Endemism" title="Endemism">endemic</a>, restricted to the Falkland Islands</div>
+</div>
+</div>
+<p>Wrens are principally a New World Family, distributed from <a href="/wiki/Alaska" title="Alaska">Alaska</a> and <a href="/wiki/Canada" title="Canada">Canada</a> to southern <a href="/wiki/Argentina" title="Argentina">Argentina</a>, with the greatest <a href="/wiki/Species_richness" title="Species richness">species richness</a> in the <a href="/wiki/Neotropics" title="Neotropics" class="mw-redirect">Neotropics</a>. As suggested by its name, the <a href="/wiki/Eurasian_Wren" title="Eurasian Wren">Eurasian Wren</a> is the only species of wren found outside the Americas, as restricted to Europe, Asia and northern Africa (it was formerly considered <a href="/wiki/Conspecific" title="Conspecific" class="mw-redirect">conspecific</a> with the <a href="/wiki/Winter_Wren" title="Winter Wren">Winter Wren</a> and <a href="/wiki/Pacific_Wren" title="Pacific Wren">Pacific Wren</a> of North America). There are a number of insular species, including the <a href="/wiki/Clarion_Wren" title="Clarion Wren" class="mw-redirect">Clarion Wren</a> and <a href="/wiki/Socorro_Wren" title="Socorro Wren">Socorro Wren</a> from the <a href="/wiki/Revillagigedo_Islands" title="Revillagigedo Islands">Revillagigedo Islands</a> in the Pacific Ocean, and the <a href="/wiki/Cobb%27s_Wren" title="Cobb's Wren">Cobb's Wren</a> in the <a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a>, but few <a href="/wiki/Caribbean_Sea" title="Caribbean Sea">Caribbean</a> islands have a species of wren, with only the <a href="/wiki/House_Wren" title="House Wren">Southern House Wren</a> in the <a href="/wiki/Lesser_Antilles" title="Lesser Antilles">Lesser Antilles</a>, the <a href="/wiki/House_Wren" title="House Wren">Cozumel Wren</a> of <a href="/wiki/Cozumel_Island" title="Cozumel Island" class="mw-redirect">Cozumel Island</a>, and the highly restricted <a href="/wiki/Zapata_Wren" title="Zapata Wren">Zapata Wren</a> in a single swamp in <a href="/wiki/Cuba" title="Cuba">Cuba</a>.</p>
+<p>The various species occur in a wide range of habitats, ranging from dry, sparsely wooded country to rainforest. Most species are mainly found at low levels, but members of the genus <i><a href="/wiki/Campylorhynchus" title="Campylorhynchus">Campylorhynchus</a></i> are frequently found higher, and the two members of <i><a href="/wiki/Odontorchilus" title="Odontorchilus">Odontorchilus</a></i> are restricted to the <a href="/wiki/Forest_canopy" title="Forest canopy" class="mw-redirect">forest canopy</a>.<sup id="cite_ref-HBW_0-4" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup> A few species, notably the Eurasian Wren and the <a href="/wiki/House_Wren" title="House Wren">House Wren</a>, are often associated with humans. Most species are resident, remaining in Central and South America all year round, but the few species found in temperate regions of the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a> are partially migratory, spending the winter further south.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Wren&amp;action=edit&amp;section=4" title="Edit section: Behaviour and ecology">edit</a>]</span> <span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span></h2>
+<p>Wrens vary from highly secretive species such as those found in the genus <i><a href="/wiki/Microcerculus" title="Microcerculus">Microcerculus</a></i> to the highly conspicuous genus <i><a href="/wiki/Campylorhynchus" title="Campylorhynchus">Campylorhynchus</a></i>, the members of which will frequently sing from exposed perches. The family as a whole exhibits a great deal of variation in their behaviour. Temperate species generally occur in pairs, but some tropical species may occur in parties of up to twenty birds.<sup id="cite_ref-HBW_0-5" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>Wrens build dome-shaped nests, and may be either <a href="/wiki/Monogamous" title="Monogamous" class="mw-redirect">monogamous</a> or <a href="/wiki/Polygamous" title="Polygamous" class="mw-redirect">polygamous</a>, depending on species.<sup id="cite_ref-EoB_3-0" class="reference"><a href="#cite_note-EoB-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>Though little is known about the feeding habits of many of the <a href="/wiki/Neotropical" title="Neotropical" class="mw-redirect">Neotropical</a> species, wrens are considered primarily <a href="/wiki/Insectivorous" title="Insectivorous" class="mw-redirect">insectivorous</a>, eating insects, spiders and other small <a href="/wiki/Arthropod" title="Arthropod">arthropods</a>.<sup id="cite_ref-HBW_0-6" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup> Many species also take vegetable matter such as seeds and berries, some (primarily the larger species) will take small frogs/lizards, the <a href="/wiki/Eurasian_Wren" title="Eurasian Wren">Eurasian Wren</a> has been recorded wading into shallow water to catch small fish and tadpoles, the <a href="/wiki/Sumichrast%27s_Wren" title="Sumichrast's Wren">Sumichrast's Wren</a> and <a href="/wiki/Zapata_Wren" title="Zapata Wren">Zapata Wren</a> will take snails, and the <a href="/wiki/Giant_Wren" title="Giant Wren">Giant Wren</a> and <a href="/wiki/Marsh_Wren" title="Marsh Wren">Marsh Wren</a> have been recorded attacking and eating bird eggs (in the latter species, even eggs of conspecifics).<sup id="cite_ref-HBW_0-7" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup> A local <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> name for the Giant Wren and <a href="/wiki/Bicolored_Wren" title="Bicolored Wren">Bicolored Wren</a> is <i>chupahuevo</i> ("egg-sucker"), but whether the latter actually eats eggs is unclear.<sup id="cite_ref-HBW_0-8" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup> The <a href="/wiki/Plain_Wren" title="Plain Wren">Plain Wren</a> and <a href="/wiki/House_Wren" title="House Wren">Northern House Wren</a> sometimes destroy bird eggs, and the <a href="/wiki/Rufous-and-white_Wren" title="Rufous-and-white Wren">Rufous-and-white Wren</a> has been recorded killing nestlings, but this is apparently to eliminate potential food competitors rather than feed on the eggs/nestlings.<sup id="cite_ref-HBW_0-9" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup> Several species of Neotropical wrens sometimes participate in <a href="/wiki/Mixed-species_flock" title="Mixed-species flock" class="mw-redirect">mixed-species flocks</a> or <a href="/wiki/Ant-follower" title="Ant-follower">follow army ants</a>, and the Eurasian Wren may follow <a href="/wiki/European_Badger" title="European Badger" class="mw-redirect">Badgers</a> to catch prey items disturbed by them.<sup id="cite_ref-HBW_0-10" class="reference"><a href="#cite_note-HBW-0"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Wren&amp;action=edit&amp;section=5" title="Edit section: Taxonomy and systematics">edit</a>]</span> <span class="mw-headline" id="Taxonomy_and_systematics">Taxonomy and systematics</span></h2>
+<p>Revised following Martínez Gómez <i>et al.</i> (2005) and Mann <i>et al.</i> (2006). The taxonomy of some groups is highly complex, and future species-level splits are likely. Additionally, undescribed <a href="/wiki/Taxa" title="Taxa" class="mw-redirect">taxa</a> are known to exist. The <a href="/wiki/Black-capped_Donacobius" title="Black-capped Donacobius">Black-capped Donacobius</a> is an enigmatic species traditionally placed with the wrens more for lack of a more apparent alternative and/or thorough study. It was more recently determined to be most likely closer to certain "<a href="/wiki/Warblers" title="Warblers" class="mw-redirect">warblers</a>", possibly the newly established <a href="/wiki/Megaluridae" title="Megaluridae" class="mw-redirect">Megaluridae</a>, and might constitute a <a href="/wiki/Monotypic" title="Monotypic" class="mw-redirect">monotypic</a> family.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p><b>Family Troglodytidae</b></p>
+<ul>
+<li><b>Genus <i><a href="/wiki/Odontorchilus" title="Odontorchilus">Odontorchilus</a></i></b>
+<ul>
+<li><a href="/wiki/Grey-mantled_Wren" title="Grey-mantled Wren">Grey-mantled Wren</a> (<i>Odontorchilus branickii</i>)</li>
+<li><a href="/wiki/Tooth-billed_Wren" title="Tooth-billed Wren">Tooth-billed Wren</a> (<i>Odontorchilus cinereus</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Salpinctes" title="Salpinctes" class="mw-redirect">Salpinctes</a></i></b>
+<ul>
+<li><a href="/wiki/Rock_Wren" title="Rock Wren">Rock Wren</a> (<i>Salpinctes obsoletus</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Microcerculus" title="Microcerculus">Microcerculus</a></i></b>
+<ul>
+<li><a href="/wiki/Flutist_Wren" title="Flutist Wren">Flutist Wren</a> (<i>Microcerculus ustulatus</i>)</li>
+<li><a href="/wiki/Southern_Nightingale-Wren" title="Southern Nightingale-Wren">Southern Nightingale-Wren</a> (<i>Microcerculus marginatus</i>)</li>
+<li><a href="/wiki/Northern_Nightingale-Wren" title="Northern Nightingale-Wren">Northern Nightingale-Wren</a> (<i>Microcerculus philomela</i>)</li>
+<li><a href="/wiki/Wing-banded_Wren" title="Wing-banded Wren">Wing-banded Wren</a> (<i>Microcerculus bambla</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Catherpes" title="Catherpes" class="mw-redirect">Catherpes</a></i></b>
+<ul>
+<li><a href="/wiki/Canyon_Wren" title="Canyon Wren">Canyon Wren</a> (<i>Catherpes mexicanus</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Hylorchilus" title="Hylorchilus">Hylorchilus</a></i></b>
+<ul>
+<li><a href="/wiki/Nava%27s_Wren" title="Nava's Wren">Nava's Wren</a> (<i>Hylorchilus navai</i>)</li>
+<li><a href="/wiki/Sumichrast%27s_Wren" title="Sumichrast's Wren">Sumichrast's Wren</a> or Slender-billed Wren (<i>Hylorchilus sumichrasti</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Campylorhynchus" title="Campylorhynchus">Campylorhynchus</a></i></b>
+<ul>
+<li><a href="/wiki/Band-backed_Wren" title="Band-backed Wren">Band-backed Wren</a> (<i>Campylorhynchus zonatus</i>)</li>
+<li><a href="/wiki/Bicolored_Wren" title="Bicolored Wren">Bicolored Wren</a> (<i>Campylorhynchus griseus</i>)</li>
+<li><a href="/wiki/Boucard%27s_Wren" title="Boucard's Wren">Boucard's Wren</a> (<i>Campylorhynchus jocosus</i>)</li>
+<li><a href="/wiki/Cactus_Wren" title="Cactus Wren">Cactus Wren</a> (<i>Campylorhynchus brunneicapillus</i>)</li>
+<li><a href="/wiki/Fasciated_Wren" title="Fasciated Wren">Fasciated Wren</a> (<i>Campylorhynchus fasciatus</i>)</li>
+<li><a href="/wiki/Giant_Wren" title="Giant Wren">Giant Wren</a> (<i>Campylorhynchus chiapensis</i>)</li>
+<li><a href="/wiki/Gray-barred_Wren" title="Gray-barred Wren" class="mw-redirect">Gray-barred Wren</a> (<i>Campylorhynchus megalopterus</i>)</li>
+<li><a href="/wiki/Rufous-naped_Wren" title="Rufous-naped Wren">Rufous-naped Wren</a> (<i>Campylorhynchus rufinucha</i>)</li>
+<li><a href="/wiki/Spotted_Wren" title="Spotted Wren">Spotted Wren</a> (<i>Campylorhynchus gularis</i>)</li>
+<li><a href="/wiki/Stripe-backed_Wren" title="Stripe-backed Wren">Stripe-backed Wren</a> (<i>Campylorhynchus nuchalis</i>)</li>
+<li><a href="/wiki/Thrush-like_Wren" title="Thrush-like Wren">Thrush-like Wren</a> (<i>Campylorhynchus turdinus</i>)</li>
+<li><a href="/wiki/White-headed_Wren" title="White-headed Wren">White-headed Wren</a> (<i>Campylorhynchus albobrunneus</i>)</li>
+<li><a href="/wiki/Yucatan_Wren" title="Yucatan Wren">Yucatan Wren</a> (<i>Campylorhynchus yucatanicus</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Thryomanes" title="Thryomanes" class="mw-redirect">Thryomanes</a></i></b>
+<ul>
+<li><a href="/wiki/Bewick%27s_Wren" title="Bewick's Wren">Bewick's Wren</a> (<i>Thryomanes bewickii</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Thryothorus" title="Thryothorus" class="mw-redirect">Thryothorus</a></i></b>
+<ul>
+<li><a href="/wiki/Carolina_Wren" title="Carolina Wren">Carolina Wren</a> (<i>Thryothorus ludovicianus</i>)
+<ul>
+<li>White-browed Wren (<i>Thryothorus (ludovicianus) albinucha</i>)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Cinnycerthia" title="Cinnycerthia">Cinnycerthia</a></i></b>
+<ul>
+<li><a href="/wiki/Fulvous_Wren" title="Fulvous Wren">Fulvous Wren</a> (<i>Cinnycerthia fulva</i>)</li>
+<li><a href="/wiki/Peruvian_Wren" title="Peruvian Wren">Peruvian Wren</a> (<i>Cinnycerthia peruana</i>)</li>
+<li><a href="/wiki/Rufous_Wren" title="Rufous Wren">Rufous Wren</a> (<i>Cinnycerthia unirufa</i>)</li>
+<li><a href="/wiki/Sepia-brown_Wren" title="Sepia-brown Wren">Sepia-brown Wren</a> or Sharpe's Wren (<i>Cinnycerthia olivascens</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Cantorchilus" title="Cantorchilus">Cantorchilus</a></i></b> (formerly included in <i>Thryothorus</i>)
+<ul>
+<li><a href="/wiki/Stripe-breasted_Wren" title="Stripe-breasted Wren">Stripe-breasted Wren</a> (<i>Cantorchilus thoracicus</i>)</li>
+<li><a href="/wiki/Stripe-throated_Wren" title="Stripe-throated Wren">Stripe-throated Wren</a> (<i>Cantorchilus leucopogon</i>)</li>
+<li><a href="/wiki/Plain_Wren" title="Plain Wren">Plain Wren</a> (<i>Cantorchilus modestus</i>)
+<ul>
+<li>Canebrake Wren (<i>Cantorchilus (modestus) zeledoni</i>)</li>
+</ul>
+</li>
+<li><a href="/wiki/Riverside_Wren" title="Riverside Wren">Riverside Wren</a> (<i>Cantorchilus semibadius</i>)</li>
+<li><a href="/wiki/Bay_Wren" title="Bay Wren">Bay Wren</a> (<i>Cantorchilus nigricapillus</i>)</li>
+<li><a href="/wiki/Superciliated_Wren" title="Superciliated Wren">Superciliated Wren</a> (<i>Cantorchilus superciliaris</i>)</li>
+<li><a href="/wiki/Buff-breasted_Wren" title="Buff-breasted Wren">Buff-breasted Wren</a> (<i>Cantorchilus leucotis</i>) (probably not <a href="/wiki/Monophyletic" title="Monophyletic" class="mw-redirect">monophyletic</a>)</li>
+<li><a href="/wiki/Fawn-breasted_Wren" title="Fawn-breasted Wren">Fawn-breasted Wren</a> (<i>Cantorchilus guarayanus</i>)</li>
+<li><a href="/wiki/Long-billed_Wren" title="Long-billed Wren">Long-billed Wren</a> (<i>Cantorchilus longirostris</i>)</li>
+<li><a href="/wiki/Gray_Wren" title="Gray Wren" class="mw-redirect">Gray Wren</a> (<i>Cantorchilus griseus</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Thryophilus" title="Thryophilus">Thryophilus</a></i></b> (formerly included in <i>Thryothorus</i>)
+<ul>
+<li><a href="/wiki/Antioquia_Wren" title="Antioquia Wren">Antioquia Wren</a> (<i>Thryophilus sernai</i>)</li>
+<li><a href="/wiki/Rufous-and-white_Wren" title="Rufous-and-white Wren">Rufous-and-white Wren</a> (<i>Thryophilus rufalbus</i>)</li>
+<li><a href="/wiki/Niceforo%27s_Wren" title="Niceforo's Wren">Niceforo's Wren</a> (<i>Thryophilus nicefori</i>)</li>
+<li><a href="/wiki/Sinaloa_Wren" title="Sinaloa Wren">Sinaloa Wren</a> (<i>Thryophilus sinaloa</i>)</li>
+<li><a href="/wiki/Banded_Wren" title="Banded Wren">Banded Wren</a> (<i>Thryophilus pleurostictus</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Pheugopedius" title="Pheugopedius">Pheugopedius</a></i></b> (formerly included in <i>Thryothorus</i>)
+<ul>
+<li><a href="/wiki/Moustached_Wren" title="Moustached Wren">Moustached Wren</a> (<i>Pheugopedius genibarbis</i>)</li>
+<li><a href="/wiki/Coraya_Wren" title="Coraya Wren">Coraya Wren</a> (<i>Pheugopedius coraya</i>)</li>
+<li><a href="/wiki/Whiskered_Wren" title="Whiskered Wren">Whiskered Wren</a> (<i>Pheugopedius mystacalis</i>)</li>
+<li><a href="/wiki/Plain-tailed_Wren" title="Plain-tailed Wren">Plain-tailed Wren</a> (<i>Pheugopedius euophrys</i>)</li>
+<li><a href="/wiki/Black-bellied_Wren" title="Black-bellied Wren">Black-bellied Wren</a> (<i>Pheugopedius fasciatoventris</i>)</li>
+<li><a href="/wiki/Black-throated_Wren" title="Black-throated Wren">Black-throated Wren</a> (<i>Pheugopedius atrogularis</i>)</li>
+<li><a href="/wiki/Sooty-headed_Wren" title="Sooty-headed Wren">Sooty-headed Wren</a> (<i>Pheugopedius spadix</i>)</li>
+<li><a href="/wiki/Speckle-breasted_Wren" title="Speckle-breasted Wren">Speckle-breasted Wren</a> (<i>Pheugopedius sclateri</i>)</li>
+<li><a href="/wiki/Happy_Wren" title="Happy Wren">Happy Wren</a> (<i>Pheugopedius felix</i>)</li>
+<li><a href="/wiki/Inca_Wren" title="Inca Wren">Inca Wren</a> (<i>Pheugopedius eisenmanni</i>)</li>
+<li><a href="/wiki/Rufous-breasted_Wren" title="Rufous-breasted Wren">Rufous-breasted Wren</a> (<i>Pheugopedius rutilus</i>)</li>
+<li><a href="/wiki/Spot-breasted_Wren" title="Spot-breasted Wren">Spot-breasted Wren</a> (<i>Pheugopedius maculipectus</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Cyphorhinus" title="Cyphorhinus">Cyphorhinus</a></i></b>
+<ul>
+<li><a href="/wiki/Chestnut-breasted_Wren" title="Chestnut-breasted Wren">Chestnut-breasted Wren</a> (<i>Cyphorhinus thoracicus</i>)</li>
+<li><a href="/wiki/Musician_Wren" title="Musician Wren">Musician Wren</a> (<i>Cyphorhinus aradus</i>)</li>
+<li><a href="/wiki/Song_Wren" title="Song Wren">Song Wren</a> (<i>Cyphorhinus phaeocephalus</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Uropsila" title="Uropsila" class="mw-redirect">Uropsila</a></i></b>
+<ul>
+<li><a href="/wiki/White-bellied_Wren" title="White-bellied Wren">White-bellied Wren</a> (<i>Uropsila leucogastra</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Henicorhina" title="Henicorhina">Henicorhina</a></i></b> - wood-wrens
+<ul>
+<li><a href="/wiki/Bar-winged_Wood-Wren" title="Bar-winged Wood-Wren" class="mw-redirect">Bar-winged Wood-Wren</a> (<i>Henicorhina leucoptera</i>)</li>
+<li><a href="/wiki/Gray-breasted_Wood-Wren" title="Gray-breasted Wood-Wren" class="mw-redirect">Gray-breasted Wood-Wren</a> (<i>Henicorhina leucophrys</i>)</li>
+<li><a href="/wiki/White-breasted_Wood-Wren" title="White-breasted Wood-Wren" class="mw-redirect">White-breasted Wood-Wren</a> (<i>Henicorhina leucosticta</i>)</li>
+<li><a href="/wiki/Munchique_Wood-Wren" title="Munchique Wood-Wren" class="mw-redirect">Munchique Wood-Wren</a>, (<i>Henicorhina negreti</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Thryorchilus" title="Thryorchilus" class="mw-redirect">Thryorchilus</a></i></b>
+<ul>
+<li><a href="/wiki/Timberline_Wren" title="Timberline Wren">Timberline Wren</a> (<i>Thryorchilus browni</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Troglodytes_(wren)" title="Troglodytes (wren)">Troglodytes</a></i></b> (10-15 species, depending on <a href="/wiki/Taxonomy" title="Taxonomy">taxonomy</a>; includes <i>Nannus</i> which may be distinct however)</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Cistothorus" title="Cistothorus">Cistothorus</a></i></b>
+<ul>
+<li><a href="/wiki/Apolinar%27s_Wren" title="Apolinar's Wren">Apolinar's Wren</a> (<i>Cistothorus apolinari</i>)</li>
+<li><a href="/wiki/Marsh_Wren" title="Marsh Wren">Marsh Wren</a> (<i>Cistothorus palustris</i>)</li>
+<li><a href="/wiki/M%C3%A9rida_Wren" title="Mérida Wren">Mérida Wren</a> or Paramo Wren (<i>Cistothorus meridae</i>)</li>
+<li><a href="/wiki/Sedge_Wren" title="Sedge Wren">Sedge Wren</a> (<i>Cistothorus platensis</i>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b>Genus <i><a href="/wiki/Ferminia" title="Ferminia" class="mw-redirect">Ferminia</a></i></b>
+<ul>
+<li><a href="/wiki/Zapata_Wren" title="Zapata Wren">Zapata Wren</a> (<i>Ferminia cerverai</i>)</li>
+</ul>
+</li>
+</ul>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Thryomanes_bewickii_14431.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Thryomanes_bewickii_14431.JPG/120px-Thryomanes_bewickii_14431.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Bewick%27s_Wren" title="Bewick's Wren">Bewick's Wren</a> (<i>Thryomanes bewickii</i>)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:20px auto;"><a href="/wiki/File:Bay_Wren.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bay_Wren.jpg/120px-Bay_Wren.jpg" width="120" height="110" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Bay_Wren" title="Bay Wren">Bay Wren</a> <i>Thryothorus nigricapillus</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:29.5px auto;"><a href="/wiki/File:Troglodytes_musculus_Registro.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Troglodytes_musculus_Registro.jpg/120px-Troglodytes_musculus_Registro.jpg" width="120" height="91" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/House_Wren" title="House Wren">House Wren</a> <i>Troglodytes musculus</i></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Campylorhynchus_brunneicapillus_20061226.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Campylorhynchus_brunneicapillus_20061226.jpg/94px-Campylorhynchus_brunneicapillus_20061226.jpg" width="94" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Cactus_Wren" title="Cactus Wren">Cactus Wren</a> <i>Campylorhynchus brunneicapillus</i></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Wren&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-HBW-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-HBW_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HBW_0-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HBW_0-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-HBW_0-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-HBW_0-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-HBW_0-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-HBW_0-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-HBW_0-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-HBW_0-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-HBW_0-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-HBW_0-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text"><span class="citation" id="CITEREFKroodsmaBrewer2005">Kroodsma, Donald; Brewer, David (2005), "Family Troglodytidae (Wrens)", in del Hoyo, Josep; Elliott, Andrew; Christie, David, <i><a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">Handbook of the Birds of the World</a>. Volume 10, Cuckoo-shrikes to Thrushes</i>, Barcelona: Lynx Edicions, pp.&#160;356–447, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-72-5" title="Special:BookSources/84-87334-72-5">84-87334-72-5</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Family+Troglodytidae+%28Wrens%29&amp;rft.atitle=%5B%5BHandbook+of+the+Birds+of+the+World%5D%5D.+Volume+10%2C+Cuckoo-shrikes+to+Thrushes&amp;rft.aulast=Kroodsma&amp;rft.aufirst=Donald&amp;rft.au=Kroodsma%2C%26%2332%3BDonald&amp;rft.au=Brewer%2C%26%2332%3BDavid&amp;rft.date=2005&amp;rft.pages=pp.%26nbsp%3B356%E2%80%93447&amp;rft.place=Barcelona&amp;rft.pub=Lynx+Edicions&amp;rft.isbn=84-87334-72-5&amp;rfr_id=info:sid/en.wikipedia.org:Wren"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Kluge-Lutz, <i>English Etymology</i> tentatively suggest association with Old High German <i>(w)renno</i> "stallion", but Suolahti (1909) rejects this as unlikely.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Suolahti, Viktor Hugo, <i>Die deutschen Vogelnamen&#160;: eine wortgeschichtliche Untersuchung</i>, Straßburg (1909), 80-85.</span></li>
+<li id="cite_note-EoB-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-EoB_3-0">^</a></b></span> <span class="reference-text"><span class="citation book">Perrins, C. (1991). Forshaw, Joseph. ed. <i>Encyclopaedia of Animals: Birds</i>. London: Merehurst Press. pp.&#160;190. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85391-186-0" title="Special:BookSources/1-85391-186-0">1-85391-186-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopaedia+of+Animals%3A+Birds&amp;rft.aulast=Perrins%2C+C.&amp;rft.au=Perrins%2C+C.&amp;rft.date=1991&amp;rft.pages=pp.%26nbsp%3B190&amp;rft.place=London&amp;rft.pub=Merehurst+Press&amp;rft.isbn=1-85391-186-0&amp;rfr_id=info:sid/en.wikipedia.org:Wren"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation Journal">Alström, Per; Ericson, Per G.P.; Olsson, Urban; Sundberg, Per (2006). "Phylogeny and classification of the avian superfamily Sylvioidea". <i>Molecular Phylogenetics and Evolution</i> <b>38</b> (2): 381–97. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2Fj.ympev.2005.05.015">10.1016/j.ympev.2005.05.015</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16054402">16054402</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Phylogeny+and+classification+of+the+avian+superfamily+Sylvioidea&amp;rft.jtitle=Molecular+Phylogenetics+and+Evolution&amp;rft.aulast=Alstr%C3%B6m%2C+Per%3B+Ericson%2C+Per+G.P.%3B+Olsson%2C+Urban%3B+Sundberg%2C+Per&amp;rft.au=Alstr%C3%B6m%2C+Per%3B+Ericson%2C+Per+G.P.%3B+Olsson%2C+Urban%3B+Sundberg%2C+Per&amp;rft.date=2006&amp;rft.volume=38&amp;rft.issue=2&amp;rft.pages=381%E2%80%9397&amp;rft_id=info:doi/10.1016%2Fj.ympev.2005.05.015&amp;rft_id=info:pmid/16054402&amp;rfr_id=info:sid/en.wikipedia.org:Wren"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li>Mann, Nigel I.; Barker, F. Keith; Graves, Jeff A.; Dingess-Mann, Kimberly A. &amp; Slater, Peter J. B. (2006): Molecular data delineate four genera of "Thryothorus" wrens. <i>Molecular Phylogenetics and Evolution</i> <b>40</b>: 750–759. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2Fj.ympev.2006.04.014">10.1016/j.ympev.2006.04.014</a> (HTML abstract)</li>
+</ul>
+<ul>
+<li>Martínez Gómez, Juan E.; Barber, Bruian R. &amp; Peterson, A. Townsend (2005): Phylogenetic position and generic placement of the Socorro Wren (<i>Thryomanes sissonii</i>). <i><a href="/wiki/Auk_(journal)" title="Auk (journal)" class="mw-redirect">Auk</a></i> <b>122</b>(1): 50–56. [English with Spanish abstract] <small><a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier" class="mw-redirect">DOI</a>:10.1642/0004-8038(2005)122[0050:PPAGPO]2.0.CO;2</small> <a rel="nofollow" class="external text" href="http://www.specifysoftware.org/Informatics/bios/biostownpeterson/MBP_A_2005.pdf">PDF fulltext</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Wren&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/family/wrens-troglodytidae">Wren videos</a> on the Internet Bird Collection</li>
+</ul>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Look up <i><b><a href="//en.wiktionary.org/wiki/wren" class="extiw" title="wiktionary:wren">wren</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Troglodytidae" class="extiw" title="commons:Troglodytidae">Troglodytidae</a></b></i></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 6952/1000000
+Preprocessor generated node count: 39900/1500000
+Post-expand include size: 29210/2048000 bytes
+Template argument size: 9308/2048000 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:103190-0!*!0!!en!4!* and timestamp 20121029215251 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Wren&amp;oldid=520494610">http://en.wikipedia.org/w/index.php?title=Wren&amp;oldid=520494610</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Troglodytidae" title="Category:Troglodytidae">Troglodytidae</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wren&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wren" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Wren"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Wren"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Wren" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Wren&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wren&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wren" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wren" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Wren&amp;oldid=520494610" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Wren&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Wren&amp;id=520494610" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wren" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wren&amp;oldid=520494610&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wren&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ang"><a href="//ang.wikipedia.org/wiki/Wrenna" title="Wrenna" lang="ang" hreflang="ang">Ænglisc</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B5%D8%B9%D9%88" title="صعو" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Troglodytidae" title="Troglodytidae" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Troglod%C3%ADtid" title="Troglodítid" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/St%C5%99%C3%ADzl%C3%ADkovit%C3%AD" title="Střízlíkovití" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Zaunk%C3%B6nige" title="Zaunkönige" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Troglodytidae" title="Troglodytidae" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Trogloditedoj" title="Trogloditedoj" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C_(%D9%BE%D8%B1%D9%86%D8%AF%D9%87)" title="الیکایی (پرنده)" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Troglodytidae" title="Troglodytidae" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Tomkes" title="Tomkes" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Troglodito" title="Troglodito" lang="io" hreflang="io">Ido</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Troglodytes" title="Troglodytes" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Karetaitiniai" title="Karetaitiniai" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-li"><a href="//li.wikipedia.org/wiki/Winterkeuninkskes" title="Winterkeuninkskes" lang="li" hreflang="li">Limburgs</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/%C3%96k%C3%B6rszemf%C3%A9l%C3%A9k" title="Ökörszemfélék" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_ren" title="Burung ren" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Winterkoningen" title="Winterkoningen" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-nds-nl"><a href="//nds-nl.wikipedia.org/wiki/Troglodytidae" title="Troglodytidae" lang="nds-nl" hreflang="nds-nl">Nedersaksisch</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BD%E3%82%B5%E3%82%B6%E3%82%A4%E7%A7%91" title="ミソサザイ科" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Gjerdesmettfamilien" title="Gjerdesmettfamilien" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Strzy%C5%BCyki" title="Strzyżyki" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Troglodytidae" title="Troglodytidae" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5" title="Крапивниковые" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/Bealgelottit" title="Bealgelottit" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Wren" title="Wren" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Peukaloiset" title="Peukaloiset" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/G%C3%A4rdsmygar" title="Gärdsmygar" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C3%87it_ku%C5%9Fugiller" title="Çit kuşugiller" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BE%D1%87%D0%BA%D0%BE%D0%B2%D1%96" title="Воловоочкові" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/H%E1%BB%8D_H%E1%BB%93ng_t%C6%B0%E1%BB%9Bc" title="Họ Hồng tước" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%B9%AA%E9%B9%A9%E7%A7%91" title="鹪鹩科" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 October 2012 at 21:52.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Wren&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv265 in 0.140 secs. -->
+	</body>
+</html>

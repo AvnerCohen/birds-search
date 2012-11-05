@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Grey Wagtail - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Grey_Wagtail&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Grey_Wagtail&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Grey_Wagtail","wgTitle":"Grey Wagtail","wgCurRevisionId":518608144,"wgArticleId":336687,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Motacilla","Birds of Europe","Birds of Africa","Birds of Kenya","Birds of Asia","Birds of Pakistan","Birds of India","Birds of Turkey"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Grey_Wagtail","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"d07f861ce0c3d311ad686ec0eeaf4e60","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":336687,"title":"Grey Wagtail","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Africa","Birds of Asia","Birds of Europe","Birds of India","Birds of Kenya","Birds of Pakistan","Birds of Turkey","IUCN Red List least concern species","Motacilla"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.postEdit","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Grey_Wagtail skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Grey Wagtail</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Grey Wagtail</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Grey_Wagtail.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Grey_Wagtail.jpg/220px-Grey_Wagtail.jpg" width="220" height="266" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Motacillidae" title="Motacillidae">Motacillidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Wagtail" title="Wagtail">Motacilla</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>M. cinerea</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Motacilla cinerea</i></span></b><br />
+<small><a href="/wiki/Marmaduke_Tunstall" title="Marmaduke Tunstall">Tunstall</a>, 1771</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Motacilla melanope</i><br />
+<i>Calobates melanope</i></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Grey Wagtail</b> (<i>Motacilla cinerea</i>) is a small member of the <a href="/wiki/Wagtail" title="Wagtail">wagtail</a> family, <a href="/wiki/Motacillidae" title="Motacillidae">Motacillidae</a>. The species looks similar to the <a href="/w/index.php?title=Yellow_Wagtail_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Yellow Wagtail (disambiguation) (page does not exist)">Yellow Wagtail</a> but has the yellow on its underside restricted to the throat and <a href="/wiki/Cloaca" title="Cloaca">vent</a>. Breeding males have a black throat. The species is widely distributed, with several populations breeding in Europe and Asia and migrating to tropical regions in Asia and Africa. They are usually seen on open marshy ground or meadows where they walk solitarily or in pairs along the ground, capturing insects that are disturbed. Like other wagtails, they frequently wag their tail and fly low with undulations and they have a sharp call that is often given in flight.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Taxonomy_and_systematics"><span class="tocnumber">3</span> <span class="toctext">Taxonomy and systematics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour_and_ecology"><span class="tocnumber">4</span> <span class="toctext">Behaviour and ecology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Grey_Wagtail&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Grey_Wagtail-_Breeding_Male_I_IMG_6705.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Grey_Wagtail-_Breeding_Male_I_IMG_6705.jpg/220px-Grey_Wagtail-_Breeding_Male_I_IMG_6705.jpg" width="220" height="173" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Grey_Wagtail-_Breeding_Male_I_IMG_6705.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Male <i>M. c. melanope</i></div>
+</div>
+</div>
+<p>This slim wagtail has a narrow white supercilium and a broken eye ring. The upperparts are grey and the yellow vent contrasting with whitish underparts makes it distinctive. The breeding male has a black throat that is edged by whitish moustachial stripes. They forage singly or in pairs on meadows or on shallow water marshes. They also use rocks in water and will often perch on trees. They have a clear sharp call note and the song consists of trills.<sup id="cite_ref-pcr_1-0" class="reference"><a href="#cite_note-pcr-1"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Grey_Wagtail&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<p>The bird is widely distributed across the Palearctic region with several well marked populations. The nominate form (includes <i>caspica</i> of Iran, Turkey and the Caucasus) is from western Europe including the British Isles, Scandinavia and Mediterranean region. Race <i>melanope</i>, which is not well separated from the nominate subspecies, is described as the population breeding in eastern Europe and central Asia mainly along the mountain chains of the Urals, Tien Shan and along the Himalayas.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> They winter in Africa and Asia. Race <i>robusta</i> breeds along the northeastern parts of Asia in Siberia extending to Korea and Japan. These winter in Southeast Asia. Island forms include <i>patriciae</i> of the Azores, <i>schmitzi</i> of Madeira and <i>canariensis</i> of the Canary Islands.</p>
+<p>They sometimes occur on the islands to the West of Alaska but have been known to occur further south in California as a vagrant.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Grey_Wagtail&amp;action=edit&amp;section=3" title="Edit section: Taxonomy and systematics">edit</a>]</span> <span class="mw-headline" id="Taxonomy_and_systematics">Taxonomy and systematics</span></h2>
+<p>This species was first described by <a href="/wiki/Marmaduke_Tunstall" title="Marmaduke Tunstall">Marmaduke Tunstall</a> in his 1771 Ornithologia Britannica.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>The relationships of this species are not well resolved; it belongs to the non-<a href="/wiki/Africa" title="Africa">African</a> <a href="/wiki/Clade" title="Clade">clade</a> of wagtails, these are confusing in their external <a href="/wiki/Morphology_(biology)" title="Morphology (biology)">morphology</a>, and <a href="/wiki/MtDNA" title="MtDNA" class="mw-redirect">mtDNA</a> <a href="/wiki/Cytochrome_b" title="Cytochrome b">cytochrome <i>b</i></a> and <a href="/wiki/NADH_dehydrogenase" title="NADH dehydrogenase">NADH dehydrogenase</a> <a href="/wiki/Protein_subunit" title="Protein subunit">subunit</a> 2 <a href="/wiki/DNA_sequence" title="DNA sequence" class="mw-redirect">sequence</a> data are not able to robustly resolve their relationships. While the present species is probably most closely related to <a href="/wiki/Citrine_Wagtail" title="Citrine Wagtail">Citrine Wagtails</a> and some <a href="/w/index.php?title=Yellow_Wagtail_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Yellow Wagtail (disambiguation) (page does not exist)">Blue-headed Wagtails</a>, the exact nature of this relationship is unclear.<sup id="cite_ref-Voelker_5-0" class="reference"><a href="#cite_note-Voelker-5"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Grey_Wagtail&amp;action=edit&amp;section=4" title="Edit section: Behaviour and ecology">edit</a>]</span> <span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Motacilla_cinerea_1_Luc_Viatour.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Motacilla_cinerea_1_Luc_Viatour.jpg/220px-Motacilla_cinerea_1_Luc_Viatour.jpg" width="220" height="152" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Motacilla_cinerea_1_Luc_Viatour.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nominate race (Belgium)</div>
+</div>
+</div>
+<p>The breeding season is April to July and the nest is placed near fast running streams or rivers on an embankment between stones and roots.<sup id="cite_ref-pcr_1-1" class="reference"><a href="#cite_note-pcr-1"><span>[</span>2<span>]</span></a></sup> The male in display, makes short flights up into the air and descends slowly with fluttering flight accompanied by a rapid series of chipping high notes.<sup id="cite_ref-hbk_6-0" class="reference"><a href="#cite_note-hbk-6"><span>[</span>7<span>]</span></a></sup> In Europe the nests are often made in holes in manmade structures. The clutch consists of 3-6 speckled eggs and multiple broods may be raised with declining numbers in the clutch in subsequent broods.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> The usual clutch size is five in Ireland and the breeding success is about 80% with predation of eggs or chicks being the main cause of breeding failure.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup> The Canary Islands population typically have smaller clutches and the breeding season is not as short and well marked as in populations at higher latitudes.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> The incubation period is about two weeks with chicks fledging within a fortnight. They live for a maximum of 8 years in the wild.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup></p>
+<p>In some parts of the its range the <a href="/wiki/White-throated_Dipper" title="White-throated Dipper">White-throated Dipper</a> nests in the same habitats as the Grey Wagtail and there are some records of <a href="/wiki/Interspecific_feeding" title="Interspecific feeding">interspecific feeding</a> of dipper chicks by nesting wagtails.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup></p>
+<p>These birds feed on a variety of aquatic invertebrates including adult flies, mayflies, beetles, crustacea and molluscs.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup> They often forage along roadsides in winter, flushing with a sharp <i>chi-cheep</i> call and flying up further along the road but after some distance turning back to return to the original location.<sup id="cite_ref-hbk_6-1" class="reference"><a href="#cite_note-hbk-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>In winter, they roost in small groups.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup> Wintering birds have been known to return to the same sites, sometimes a small urban garden, each year.<sup id="cite_ref-hbk_6-2" class="reference"><a href="#cite_note-hbk-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup></p>
+<p>Adults often have parasitic ticks, <i><a href="/wiki/Ixodes_ricinus" title="Ixodes ricinus">Ixodes ricinus</a></i>, which can harbour <i><a href="/wiki/Borrelia" title="Borrelia">Borrelia</a></i> and thus can potentially disperse Lyme disease over a wide region.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup> Coccidia such as <i><a href="/wiki/Isospora" title="Isospora">Isospora</a></i> sp. are known in this species.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> The <a href="/wiki/Common_Cuckoo" title="Common Cuckoo">Common Cuckoo</a> is sometimes a <a href="/wiki/Brood_parasitism" title="Brood parasitism" class="mw-redirect">brood parasite</a> of this species.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> and <a href="/wiki/Kestrel" title="Kestrel">Kestrels</a> may sometimes prey on them.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup></p>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34.5px auto;"><a href="/wiki/File:Motacilla_cinerea_4_Luc_Viatour.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Motacilla_cinerea_4_Luc_Viatour.jpg/120px-Motacilla_cinerea_4_Luc_Viatour.jpg" width="120" height="81" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Nominate in Belgium</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:Grey_Wagtail_Juv_160504W.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grey_Wagtail_Juv_160504W.jpg/120px-Grey_Wagtail_Juv_160504W.jpg" width="120" height="79" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Juvenile, spring, England</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33px auto;"><a href="/wiki/File:Grey_Wagtail-_Breeding_Male_I_IMG_6431.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Grey_Wagtail-_Breeding_Male_I_IMG_6431.jpg/120px-Grey_Wagtail-_Breeding_Male_I_IMG_6431.jpg" width="120" height="84" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Breeding <i>melanope</i> male (Himalayas, India)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Grey_Wagtail_(Br)_I_IMG_3077.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Grey_Wagtail_%28Br%29_I_IMG_3077.jpg/120px-Grey_Wagtail_%28Br%29_I_IMG_3077.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In breeding plumage 2000 metres (6500&#160;ft) in India</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Grey_Wagtail_(Br)_I_IMG_3076.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Grey_Wagtail_%28Br%29_I_IMG_3076.jpg/116px-Grey_Wagtail_%28Br%29_I_IMG_3076.jpg" width="116" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>In breeding plumage in <a href="/wiki/Himachal_Pradesh" title="Himachal Pradesh">Himachal Pradesh</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Grey_wagtail-_Kolkata_I_IMG_6228.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Grey_wagtail-_Kolkata_I_IMG_6228.jpg/120px-Grey_wagtail-_Kolkata_I_IMG_6228.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>At New Alipore, Kolkata</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Grey_wagtail-_Kolkata_I_IMG_6190.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Grey_wagtail-_Kolkata_I_IMG_6190.jpg/120px-Grey_wagtail-_Kolkata_I_IMG_6190.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>at New Alipore</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33px auto;"><a href="/wiki/File:Grey_Wagtail_160504W.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grey_Wagtail_160504W.jpg/120px-Grey_Wagtail_160504W.jpg" width="120" height="84" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult, spring, England</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:38.5px auto;"><a href="/wiki/File:Ter%C3%AEhejoka_bo%C3%A7ikzer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ter%C3%AEhejoka_bo%C3%A7ikzer.jpg/120px-Ter%C3%AEhejoka_bo%C3%A7ikzer.jpg" width="120" height="73" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult, spring, Northern <a href="/wiki/Kurdistan" title="Kurdistan">Kurdistan</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Grey_Wagtail&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106008412">"<i>Motacilla cinerea</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106008412">http://www.iucnredlist.org/apps/redlist/details/106008412</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Motacilla+cinerea%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106008412&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-pcr-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-pcr_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pcr_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Rasmussen PC &amp; JC Anderton (2005). <i>Birds of South Asia: The Ripley Guide. Volume 2</i>. Smithsonian Institution &amp; Lynx Edicions. p.&#160;317.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+South+Asia%3A+The+Ripley+Guide.+Volume+2&amp;rft.aulast=Rasmussen+PC+%26+JC+Anderton&amp;rft.au=Rasmussen+PC+%26+JC+Anderton&amp;rft.date=2005&amp;rft.pages=p.%26nbsp%3B317&amp;rft.pub=Smithsonian+Institution+%26+Lynx+Edicions&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Hume, AO (1890). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/nestseggsofindia02hume#page/206/mode/2up"><i>The nests and eggs of Indian Birds. Volume 2.</i></a>. R H Porter, London. p.&#160;207<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/nestseggsofindia02hume#page/206/mode/2up">http://www.archive.org/stream/nestseggsofindia02hume#page/206/mode/2up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+nests+and+eggs+of+Indian+Birds.+Volume+2.&amp;rft.aulast=Hume%2C+AO&amp;rft.au=Hume%2C+AO&amp;rft.date=1890&amp;rft.pages=p.%26nbsp%3B207&amp;rft.pub=R+H+Porter%2C+London&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fnestseggsofindia02hume%23page%2F206%2Fmode%2F2up&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.uaf.edu/museum/bird/products/checklist.pdf">"Checklist of Alaska birds. 15th Edition"</a>. University of Alaska, Fairbanks. 2009<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.uaf.edu/museum/bird/products/checklist.pdf">http://www.uaf.edu/museum/bird/products/checklist.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Checklist+of+Alaska+birds.+15th+Edition&amp;rft.atitle=&amp;rft.date=2009&amp;rft.pub=University+of+Alaska%2C+Fairbanks&amp;rft_id=http%3A%2F%2Fwww.uaf.edu%2Fmuseum%2Fbird%2Fproducts%2Fchecklist.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Marmaduke_Tunstall" title="Marmaduke Tunstall">Tunstall, Marmaduke</a> (1771) (in Latin). <i>Ornithologia Britannica: seu Avium omnium Britannicarum tam terrestrium, quam aquaticarum catalogus, sermone Latino, Anglico et Gallico redditus.</i>. London, J. Dixwell.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ornithologia+Britannica%3A+seu+Avium+omnium+Britannicarum+tam+terrestrium%2C+quam+aquaticarum+catalogus%2C+sermone+Latino%2C+Anglico+et+Gallico+redditus.&amp;rft.aulast=Tunstall&amp;rft.aufirst=Marmaduke&amp;rft.au=Tunstall%2C%26%2332%3BMarmaduke&amp;rft.date=1771&amp;rft.pub=London%2C+J.+Dixwell&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Voelker-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Voelker_5-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Voelker, Gary (2002). "Systematics and historical biogeography of wagtails: Dispersal versus vicariance revisited". <i>Condor</i> <b>104</b> (4): 725–739. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1650%2F0010-5422%282002%29104%5B0725%3ASAHBOW%5D2.0.CO%3B2">10.1650/0010-5422(2002)104[0725:SAHBOW]2.0.CO;2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Systematics+and+historical+biogeography+of+wagtails%3A+Dispersal+versus+vicariance+revisited&amp;rft.jtitle=Condor&amp;rft.aulast=Voelker%2C+Gary&amp;rft.au=Voelker%2C+Gary&amp;rft.date=2002&amp;rft.volume=104&amp;rft.issue=4&amp;rft.pages=725%E2%80%93739&amp;rft_id=info:doi/10.1650%2F0010-5422%282002%29104%5B0725%3ASAHBOW%5D2.0.CO%3B2&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-hbk-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-hbk_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hbk_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hbk_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Ali, S &amp; S D Ripley (1998). <i>Handbook of the birds of India and Pakistan. Volume 9</i> (2 ed.). pp.&#160;290–292.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+birds+of+India+and+Pakistan.+Volume+9&amp;rft.aulast=Ali%2C+S+%26+S+D+Ripley&amp;rft.au=Ali%2C+S+%26+S+D+Ripley&amp;rft.date=1998&amp;rft.pages=pp.%26nbsp%3B290%E2%80%93292&amp;rft.edition=2&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation Journal">Klemp S. (2000). <a rel="nofollow" class="external text" href="ftp://80.57.161.240/artikelen/G/Grote%20Gele%20Kwikstaart1.pdf">"Effects of parental effort on second brood, moult and survival in the Grey Wagtail Motacilla cinerea"</a>. <i>Ardea</i> <b>88</b> (1): 91–98<span class="printonly">. <a rel="nofollow" class="external free" href="ftp://80.57.161.240/artikelen/G/Grote%20Gele%20Kwikstaart1.pdf">ftp://80.57.161.240/artikelen/G/Grote%20Gele%20Kwikstaart1.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Effects+of+parental+effort+on+second+brood%2C+moult+and+survival+in+the+Grey+Wagtail+Motacilla+cinerea&amp;rft.jtitle=Ardea&amp;rft.aulast=Klemp+S.&amp;rft.au=Klemp+S.&amp;rft.date=2000&amp;rft.volume=88&amp;rft.issue=1&amp;rft.pages=91%E2%80%9398&amp;rft_id=ftp%3A%2F%2F80.57.161.240%2Fartikelen%2FG%2FGrote%2520Gele%2520Kwikstaart1.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">P. Smiddy J. O'Halloran (1998). "Breeding biology of the Grey Wagtail Motacilla cinerea in southwest Ireland". <i>Bird Study</i> <b>45</b> (3): 331–336. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1080%2F00063659809461104">10.1080/00063659809461104</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Breeding+biology+of+the+Grey+Wagtail+Motacilla+cinerea+in+southwest+Ireland&amp;rft.jtitle=Bird+Study&amp;rft.aulast=P.+Smiddy+J.+O%27Halloran&amp;rft.au=P.+Smiddy+J.+O%27Halloran&amp;rft.date=1998&amp;rft.volume=45&amp;rft.issue=3&amp;rft.pages=331%E2%80%93336&amp;rft_id=info:doi/10.1080%2F00063659809461104&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation Journal">Rodríguez B., Rodríguez A. (2007). <a rel="nofollow" class="external text" href="http://www.ebd.csic.es/Airam/pdf/Rodriguez_&amp;_Rodriguez_2007_Acta_Ornithol.pdf">"Breeding biology of Grey Wagtail Motacilla cinerea canariensis on Tenerife, Canary Islands"</a>. <i>Acta Ornithol.</i> <b>42</b>: 195–199<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ebd.csic.es/Airam/pdf/Rodriguez_&amp;_Rodriguez_2007_Acta_Ornithol.pdf">http://www.ebd.csic.es/Airam/pdf/Rodriguez_&amp;_Rodriguez_2007_Acta_Ornithol.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Breeding+biology+of+Grey+Wagtail+Motacilla+cinerea+canariensis+on+Tenerife%2C+Canary+Islands&amp;rft.jtitle=Acta+Ornithol.&amp;rft.aulast=Rodr%C3%ADguez+B.%2C+Rodr%C3%ADguez+A.&amp;rft.au=Rodr%C3%ADguez+B.%2C+Rodr%C3%ADguez+A.&amp;rft.date=2007&amp;rft.volume=42&amp;rft.pages=195%E2%80%93199&amp;rft_id=http%3A%2F%2Fwww.ebd.csic.es%2FAiram%2Fpdf%2FRodriguez_%26_Rodriguez_2007_Acta_Ornithol.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">Robinson, R.A. (2005). <a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob10190.htm">"BirdFacts: profiles of birds occurring in Britain &amp; Ireland"</a>. BTO Research<span class="printonly">. <a rel="nofollow" class="external free" href="http://blx1.bto.org/birdfacts/results/bob10190.htm">http://blx1.bto.org/birdfacts/results/bob10190.htm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=BirdFacts%3A+profiles+of+birds+occurring+in+Britain+%26+Ireland&amp;rft.atitle=&amp;rft.aulast=Robinson%2C+R.A.&amp;rft.au=Robinson%2C+R.A.&amp;rft.date=2005&amp;rft.pub=BTO+Research&amp;rft_id=http%3A%2F%2Fblx1.bto.org%2Fbirdfacts%2Fresults%2Fbob10190.htm&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation Journal">Jørgensen OH (1976). "Migration and Aspects of Population Dynamics in the Grey Wagtail Motacilla cinerea". <i>Ornis Scandinavica</i> <b>7</b> (1): 13–20. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F3676170">10.2307/3676170</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Migration+and+Aspects+of+Population+Dynamics+in+the+Grey+Wagtail+Motacilla+cinerea&amp;rft.jtitle=Ornis+Scandinavica&amp;rft.aulast=J%C3%B8rgensen+OH&amp;rft.au=J%C3%B8rgensen+OH&amp;rft.date=1976&amp;rft.volume=7&amp;rft.issue=1&amp;rft.pages=13%E2%80%9320&amp;rft_id=info:doi/10.2307%2F3676170&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation Journal">Yoerg, SI &amp; J O'Halloran (1991). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Auk/v108n02/p0427-p0429.pdf">"Dipper Nestlings Fed by a Gray Wagtail"</a>. <i>Auk</i> <b>108</b> (2): 427–429<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Auk/v108n02/p0427-p0429.pdf">http://elibrary.unm.edu/sora/Auk/v108n02/p0427-p0429.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dipper+Nestlings+Fed+by+a+Gray+Wagtail&amp;rft.jtitle=Auk&amp;rft.aulast=Yoerg%2C+SI+%26+J+O%27Halloran&amp;rft.au=Yoerg%2C+SI+%26+J+O%27Halloran&amp;rft.date=1991&amp;rft.volume=108&amp;rft.issue=2&amp;rft.pages=427%E2%80%93429&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FAuk%2Fv108n02%2Fp0427-p0429.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Santamarina, Jesus (1989). <a rel="nofollow" class="external text" href="http://www.ardeola.org/files/Ardeola_37%281%29_97-101.pdf">"The Grey Wagtall (Motacilla cinerea) diet in the Ulla river basin, Galicia. NW Spain"</a> (in Spanish). <i>Ardeola</i> <b>37</b> (1): 97–101<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ardeola.org/files/Ardeola_37%281%29_97-101.pdf">http://www.ardeola.org/files/Ardeola_37%281%29_97-101.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Grey+Wagtall+%28Motacilla+cinerea%29+diet+in+the+Ulla+river+basin%2C+Galicia.+NW+Spain&amp;rft.jtitle=Ardeola&amp;rft.aulast=Santamarina%2C+Jesus&amp;rft.au=Santamarina%2C+Jesus&amp;rft.date=1989&amp;rft.volume=37&amp;rft.issue=1&amp;rft.pages=97%E2%80%93101&amp;rft_id=http%3A%2F%2Fwww.ardeola.org%2Ffiles%2FArdeola_37%25281%2529_97-101.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Neelakantan,KK (1964). "Roosting of the Grey Wagtail [<i>Motacilla caspica</i> (Gmelin)] in the Thekkady Wild Life Sanctuary". <i>J. Bombay Nat. Hist. Soc.</i> <b>61</b> (3): 691–692.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Roosting+of+the+Grey+Wagtail+%5B%27%27Motacilla+caspica%27%27+%28Gmelin%29%5D+in+the+Thekkady+Wild+Life+Sanctuary&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Neelakantan%2CKK&amp;rft.au=Neelakantan%2CKK&amp;rft.date=1964&amp;rft.volume=61&amp;rft.issue=3&amp;rft.pages=691%E2%80%93692&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation Journal">Nickell, Walter P (1968). "Return of Northern Migrants to Tropical Winter Quarters and Banded Birds Recovered in the United States". <i>Bird-Banding</i> <b>39</b> (2): 107–116.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Return+of+Northern+Migrants+to+Tropical+Winter+Quarters+and+Banded+Birds+Recovered+in+the+United+States&amp;rft.jtitle=Bird-Banding&amp;rft.aulast=Nickell%2C+Walter+P&amp;rft.au=Nickell%2C+Walter+P&amp;rft.date=1968&amp;rft.volume=39&amp;rft.issue=2&amp;rft.pages=107%E2%80%93116&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation Journal">Dubska, Lenka;Ivan Literak;Elena Kocianova;Veronika Taragelova;Oldrich Sychra (2009). <a rel="nofollow" class="external text" href="http://aem.asm.org/cgi/reprint/75/3/596.pdf">"Differential Role of Passerine Birds in Distribution of <i>Borrelia</i> Spirochetes, Based on Data from Ticks Collected from Birds during the Postbreeding Migration Period in Central Europe"</a>. <i>Applied and Environmental Microbiology</i> <b>75</b> (3): 596–602. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1128%2FAEM.01674-08">10.1128/AEM.01674-08</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2632145">2632145</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19060160">19060160</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://aem.asm.org/cgi/reprint/75/3/596.pdf">http://aem.asm.org/cgi/reprint/75/3/596.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Differential+Role+of+Passerine+Birds+in+Distribution+of+%27%27Borrelia%27%27+Spirochetes%2C+Based+on+Data+from+Ticks+Collected+from+Birds+during+the+Postbreeding+Migration+Period+in+Central+Europe&amp;rft.jtitle=Applied+and+Environmental+Microbiology&amp;rft.aulast=Dubska%2C+Lenka%3BIvan+Literak%3BElena+Kocianova%3BVeronika+Taragelova%3BOldrich+Sychra&amp;rft.au=Dubska%2C+Lenka%3BIvan+Literak%3BElena+Kocianova%3BVeronika+Taragelova%3BOldrich+Sychra&amp;rft.date=2009&amp;rft.volume=75&amp;rft.issue=3&amp;rft.pages=596%E2%80%93602&amp;rft_id=info:doi/10.1128%2FAEM.01674-08&amp;rft_id=info:pmc/2632145&amp;rft_id=info:pmid/19060160&amp;rft_id=http%3A%2F%2Faem.asm.org%2Fcgi%2Freprint%2F75%2F3%2F596.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Svobodova, M (1994). <a rel="nofollow" class="external text" href="http://www.natur.cuni.cz/parasitology/milenaweb/isospora.pdf">"Isospora, Caryospora and Eimeria (Apicomplexa: Passeriform Birds from Czech Republic"</a>. <i>Acta Protozoologica</i> <b>33</b>: 101–108<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.natur.cuni.cz/parasitology/milenaweb/isospora.pdf">http://www.natur.cuni.cz/parasitology/milenaweb/isospora.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Isospora%2C+Caryospora+and+Eimeria+%28Apicomplexa%3A+Passeriform+Birds+from+Czech+Republic&amp;rft.jtitle=Acta+Protozoologica&amp;rft.aulast=Svobodova%2C+M&amp;rft.au=Svobodova%2C+M&amp;rft.date=1994&amp;rft.volume=33&amp;rft.pages=101%E2%80%93108&amp;rft_id=http%3A%2F%2Fwww.natur.cuni.cz%2Fparasitology%2Fmilenaweb%2Fisospora.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Adamík P., Husv ek J. &amp; Cepák J. (2009). "Rapid decline of Common Cuckoo Cuculus canorus parasitism in Red-backed Shrikes Lanius collurio". <i>Ardea</i> <b>97</b> (1): 17–22.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rapid+decline+of+Common+Cuckoo+Cuculus+canorus+parasitism+in+Red-backed+Shrikes+Lanius+collurio&amp;rft.jtitle=Ardea&amp;rft.aulast=Adam%C3%ADk+P.%2C+Husv+ek+J.+%26+Cep%C3%A1k+J.&amp;rft.au=Adam%C3%ADk+P.%2C+Husv+ek+J.+%26+Cep%C3%A1k+J.&amp;rft.date=2009&amp;rft.volume=97&amp;rft.issue=1&amp;rft.pages=17%E2%80%9322&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation Journal">Costantini, David; Casagrande, Stefania; Di Lieto, Giuseppe; Fanfani, Alberto; Dell'Omo, Giacomo (2005). <a rel="nofollow" class="external text" href="http://www.birdcam.it/files/Behaviour2005.pdf">"Consistent differences in feeding habits between neighbouring breeding kestrels"</a>. <i>Behaviour</i> <b>142</b> (9-10): 1403–1415. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1163%2F156853905774539409">10.1163/156853905774539409</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdcam.it/files/Behaviour2005.pdf">http://www.birdcam.it/files/Behaviour2005.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Consistent+differences+in+feeding+habits+between+neighbouring+breeding+kestrels&amp;rft.jtitle=Behaviour&amp;rft.aulast=Costantini%2C+David%3B+Casagrande%2C+Stefania%3B+Di+Lieto%2C+Giuseppe%3B+Fanfani%2C+Alberto%3B+Dell%27Omo%2C+Giacomo&amp;rft.au=Costantini%2C+David%3B+Casagrande%2C+Stefania%3B+Di+Lieto%2C+Giuseppe%3B+Fanfani%2C+Alberto%3B+Dell%27Omo%2C+Giacomo&amp;rft.date=2005&amp;rft.volume=142&amp;rft.issue=9-10&amp;rft.pages=1403%E2%80%931415&amp;rft_id=info:doi/10.1163%2F156853905774539409&amp;rft_id=http%3A%2F%2Fwww.birdcam.it%2Ffiles%2FBehaviour2005.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Grey_Wagtail"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Grey_Wagtail&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Motacilla_cinerea" class="extiw" title="commons:Motacilla cinerea">Grey Wagtail</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/grey-wagtail-motacilla-cinerea">Grey Wagtail videos, photos &amp; sounds</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.madeirabirds.com/grey_wagtail">Grey Wagtail (<i>schmitzi</i>)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/318_GreyWagtailMcinerea.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 16552/1000000
+Preprocessor generated node count: 43160/1500000
+Post-expand include size: 105157/2048000 bytes
+Template argument size: 31111/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:336687-0!*!0!!en!4!* and timestamp 20121018235948 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Grey_Wagtail&amp;oldid=518608144">http://en.wikipedia.org/w/index.php?title=Grey_Wagtail&amp;oldid=518608144</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Motacilla" title="Category:Motacilla">Motacilla</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Grey+Wagtail&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Grey+Wagtail" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Grey_Wagtail"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Grey_Wagtail"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Grey_Wagtail" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Grey_Wagtail&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Grey_Wagtail&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Grey_Wagtail" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Grey_Wagtail" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Grey_Wagtail&amp;oldid=518608144" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Grey_Wagtail&amp;id=518608144" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Grey+Wagtail" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Grey+Wagtail&amp;oldid=518608144&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Grey_Wagtail&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%83%D1%80%D1%88%D0%BC%D1%8B%D0%B2%D1%8D%D0%BA%D3%80%D1%8D%D0%BF%D1%8B%D1%81" title="КъуршмывэкӀэпыс" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B0%D8%B9%D8%B1%D8%A9_%D8%B1%D9%85%D8%A7%D8%AF%D9%8A%D8%A9" title="ذعرة رمادية" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%A2%D0%B0%D1%83_%D1%81%D3%99%D0%BF%D1%81%D0%B5%D0%B3%D0%B5" title="Тау сәпсеге" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D1%81%D1%82%D1%8A%D1%80%D1%87%D0%B8%D0%BE%D0%BF%D0%B0%D1%88%D0%BA%D0%B0" title="Планинска стърчиопашка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Kannerez_louet" title="Kannerez louet" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Cuereta_torrentera" title="Cuereta torrentera" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Konipas_horsk%C3%BD" title="Konipas horský" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Siglen_Lwyd" title="Siglen Lwyd" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Gebirgsstelze" title="Gebirgsstelze" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/J%C3%B5giv%C3%A4strik" title="Jõgivästrik" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Motacilla_cinerea" title="Motacilla cinerea" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Montarmotacilo" title="Montarmotacilo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Buztanikara_hori" title="Buztanikara hori" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/%C3%81arerla" title="Áarerla" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Bergeronnette_des_ruisseaux" title="Bergeronnette des ruisseaux" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%BC%D5%A5%D5%BC%D5%B6%D5%A1%D5%B5%D5%AB%D5%B6_%D5%AD%D5%A1%D5%B2%D5%BF%D5%BF%D5%B6%D5%AB%D5%AF" title="Լեռնային խաղտտնիկ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Kicuit_batu" title="Kicuit batu" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Motacilla_cinerea" title="Motacilla cinerea" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C%D7%99%D7%90%D7%9C%D7%99_%D7%96%D7%A0%D7%91%D7%AA%D7%9F" title="נחליאלי זנבתן" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%91%E1%83%96%E1%83%94%E1%83%AC%E1%83%95%E1%83%98%E1%83%90" title="ბზეწვია" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Kalnin%C4%97_kiel%C4%97" title="Kalninė kielė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Hegyi_billeget%C5%91" title="Hegyi billegető" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%81%E0%B4%B2%E0%B5%81%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF" title="വഴികുലുക്കി" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Grote_gele_kwikstaart" title="Grote gele kwikstaart" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AD%E3%82%BB%E3%82%AD%E3%83%AC%E3%82%A4" title="キセキレイ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Vintererle" title="Vintererle" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Vintererle" title="Vintererle" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Motacilla_cinerea" title="Motacilla cinerea" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pliszka_g%C3%B3rska" title="Pliszka górska" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Motacilla_cinerea" title="Motacilla cinerea" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D1%8F%D1%81%D0%BE%D0%B3%D1%83%D0%B7%D0%BA%D0%B0" title="Горная трясогузка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Virtav%C3%A4st%C3%A4r%C3%A4kki" title="Virtavästäräkki" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Fors%C3%A4rla" title="Forsärla" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%A8%E0%AE%BF%E0%AE%B1_%E0%AE%B5%E0%AE%BE%E0%AE%B2%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BF" title="சாம்பல்நிற வாலாட்டிக் குருவி" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Da%C4%9F_kuyruksallayan%C4%B1" title="Dağ kuyruksallayanı" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B8%D1%81%D0%BA%D0%B0_%D0%B3%D1%96%D1%80%D1%81%D1%8C%D0%BA%D0%B0" title="Плиска гірська" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Ch%C3%ACa_v%C3%B4i_x%C3%A1m" title="Chìa vôi xám" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 October 2012 at 23:59.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Grey_Wagtail&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv272 in 0.119 secs. -->
+	</body>
+</html>

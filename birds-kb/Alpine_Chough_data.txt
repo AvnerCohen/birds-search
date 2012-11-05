@@ -1,0 +1,1162 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Alpine Chough - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alpine_Chough&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alpine_Chough&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alpine_Chough","wgTitle":"Alpine Chough","wgCurRevisionId":512639092,"wgArticleId":195770,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Latin language external links","Articles with German language external links","IUCN Red List least concern species","Articles with \'species\' microformats","Featured articles","Use dmy dates from November 2010","Birds of Europe","Birds of Asia","Corvidae"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Alpine_Chough","wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"66b336c23b530b91298acb0e630b1167","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":195770,"title":"Alpine Chough","namespace":0,"categories":["Articles with \'species\' microformats","Articles with German language external links","Articles with Latin language external links","Birds of Asia","Birds of Europe","Corvidae","Featured articles","IUCN Red List least concern species","Use dmy dates from November 2010"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Alpine_Chough skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Alpine Chough</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Alpine Chough</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Alpine_Chough_by_Jim_Higham.jpg" class="image"><img alt="Black crow-like bird with yellow bill perched on rock with valley in the background" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Alpine_Chough_by_Jim_Higham.jpg/220px-Alpine_Chough_by_Jim_Higham.jpg" width="220" height="299" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Adult of nominate subspecies in Switzerland</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Corvidae" title="Corvidae">Corvidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Chough" title="Chough">Pyrrhocorax</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. graculus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Pyrrhocorax graculus</i></span></b><br />
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, 1766)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Pyrrhocoraxgraculusmap.png" class="image"><img alt="This bird is resident in mountains in Morocco, Spain, southern Europe, Central Asia, India and China" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pyrrhocoraxgraculusmap.png/220px-Pyrrhocoraxgraculusmap.png" width="220" height="128" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Approximate distribution shown in green</td>
+</tr>
+</table>
+</div>
+<p>The <b>Alpine Chough</b> (<span class="nowrap"><span title="pronunciation:"><img alt="play" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" /></span>&#160;<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span><span class="IPA"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/tʃ/ 'ch' in 'china'" style="border-bottom:1px dotted">tʃ</span></a></span><span class="IPA"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="/ʌ/ short 'u' in 'bud'" style="border-bottom:1px dotted">ʌ</span></a></span><span class="IPA"><a href="/wiki/Help:IPA_for_English#Key" title="Help:IPA for English"><span title="'f' in 'find'" style="border-bottom:1px dotted">f</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/</a></span></span>), or <b>Yellow-billed Chough</b>, (<i>Pyrrhocorax graculus</i>) is a <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Crow" title="Crow">crow</a> family, one of only two species in the genus <i>Pyrrhocorax</i>. Its two <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> breed in high mountains from <a href="/wiki/Spain" title="Spain">Spain</a> east through southern Europe and <a href="/wiki/North_Africa" title="North Africa">North Africa</a> to <a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a>, India and China, and it may nest at a higher altitude than any other bird. The eggs have adaptations to the thin atmosphere that improve oxygen take-up and reduce water loss.</p>
+<p>This bird has glossy black <a href="/wiki/Plumage" title="Plumage">plumage</a>, a yellow bill, red legs, and distinctive calls. It has a buoyant acrobatic flight with widely spread <a href="/wiki/Flight_feather" title="Flight feather">flight feathers</a>. The Alpine Chough <a href="/wiki/Pair_bond" title="Pair bond">pairs</a> for life and displays <a href="/wiki/Philopatry" title="Philopatry">fidelity</a> to its breeding site, which is usually a cave or crevice in a cliff face. It builds a lined stick nest and lays three to five brown-blotched whitish eggs. It feeds, usually in flocks, on short grazed grassland, taking mainly <a href="/wiki/Invertebrate" title="Invertebrate">invertebrate</a> prey in summer and fruit in winter; it will readily approach tourist sites to find supplementary food.</p>
+<p>Although it is subject to predation and parasitism, and changes in agricultural practices have caused local population declines, this widespread and abundant species is not threatened globally. Climate change may present a long-term threat, by shifting the necessary alpine habitat to higher altitudes.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour_and_ecology"><span class="tocnumber">4</span> <span class="toctext">Behaviour and ecology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Breeding"><span class="tocnumber">4.1</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Feeding"><span class="tocnumber">4.2</span> <span class="toctext">Feeding</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Natural_threats"><span class="tocnumber">4.3</span> <span class="toctext">Natural threats</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Status"><span class="tocnumber">5</span> <span class="toctext">Status</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pyrrhocorax_graculus_-Wengen_-Switzerland_-flying-8-4c.jpg" class="image"><img alt=" Alpine Chough in flight" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pyrrhocorax_graculus_-Wengen_-Switzerland_-flying-8-4c.jpg/220px-Pyrrhocorax_graculus_-Wengen_-Switzerland_-flying-8-4c.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pyrrhocorax_graculus_-Wengen_-Switzerland_-flying-8-4c.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Flying in <a href="/wiki/Wengen" title="Wengen">Wengen</a>, Switzerland</div>
+</div>
+</div>
+<p>The Alpine Chough was first described as <i>Corvus graculus</i> by <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a> in the <i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i> in 1766.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> It was moved to its current genus, <i>Pyrrhocorax</i>, by English <a href="/wiki/Ornithology" title="Ornithology">ornithologist</a> <a href="/wiki/Marmaduke_Tunstall" title="Marmaduke Tunstall">Marmaduke Tunstall</a> in his 1771 <i>Ornithologia Britannica</i>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> along with the only other member of the genus, the <a href="/wiki/Red-billed_Chough" title="Red-billed Chough">Red-billed Chough</a>, <i>P.&#160;pyrrhocorax</i>.<sup id="cite_ref-Madge94_3-0" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> The closest relatives of the choughs were formerly thought to be the typical <a href="/wiki/Crow" title="Crow">crows</a>, <i>Corvus</i>, especially the jackdaws in the subgenus <i><a href="/wiki/Coloeus" title="Coloeus">Coloeus</a></i>,<sup id="cite_ref-goodwin_4-0" class="reference"><a href="#cite_note-goodwin-4"><span>[</span>5<span>]</span></a></sup> but <a href="/wiki/DNA" title="DNA">DNA</a> and <a href="/wiki/Cytochrome_b" title="Cytochrome b">cytochrome&#160;b</a> analysis shows that the genus <i>Pyrrhocorax</i>, along with the <a href="/wiki/Ratchet-tailed_Treepie" title="Ratchet-tailed Treepie">Ratchet-tailed Treepie</a> (genus <i>Temnurus</i>), diverged early from the rest of the <a href="/wiki/Corvidae" title="Corvidae">Corvidae</a>.<sup id="cite_ref-Ericson_5-0" class="reference"><a href="#cite_note-Ericson-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The genus name is derived from <a href="/wiki/Greek_language" title="Greek language">Greek</a> <i>πύρρος (purrhos)</i>, "flame-coloured", and <i>κόραξ (korax)</i>, "raven".<sup id="cite_ref-BTO_6-0" class="reference"><a href="#cite_note-BTO-6"><span>[</span>7<span>]</span></a></sup> The species epithet <i>graculus</i> is <a href="/wiki/Latin" title="Latin">Latin</a> for a jackdaw.<sup id="cite_ref-woodhouse_7-0" class="reference"><a href="#cite_note-woodhouse-7"><span>[</span>8<span>]</span></a></sup> The current binomial name of the Alpine Chough was formerly sometimes applied to the Red-billed Chough.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> The English word "chough" was originally an alternative <a href="/wiki/Onomatopoeia" title="Onomatopoeia">onomatopoeic</a> name for the <a href="/wiki/Jackdaw" title="Jackdaw" class="mw-redirect">Jackdaw</a>, <i>Corvus monedula</i>, based on its call. The Red-billed Chough, formerly particularly common in <a href="/wiki/Cornwall" title="Cornwall">Cornwall</a> and known initially as the "Cornish Chough", eventually became just "Chough", the name transferring from one genus to another.<sup id="cite_ref-Cocker_10-0" class="reference"><a href="#cite_note-Cocker-10"><span>[</span>11<span>]</span></a></sup></p>
+<p>The Alpine Chough has two extant subspecies.</p>
+<ul>
+<li><i>P. g. graculus</i>, the <a href="/wiki/Subspecies#Nomenclature" title="Subspecies">nominate subspecies</a> in Europe, north Africa, Turkey, the Caucusus and northern Iran.<sup id="cite_ref-Madge94_3-1" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup></li>
+<li><i>P. g. digitatus</i>, described by the German naturalists <a href="/wiki/Wilhelm_Hemprich" title="Wilhelm Hemprich">Wilhelm Hemprich</a> and <a href="/wiki/Christian_Gottfried_Ehrenberg" title="Christian Gottfried Ehrenberg">Christian Gottfried Ehrenberg</a> as <i>P.&#160;alpinus</i> var. <i>digitatus</i> in 1833,<sup id="cite_ref-dickinson_11-0" class="reference"><a href="#cite_note-dickinson-11"><span>[</span>12<span>]</span></a></sup> is larger and has stronger feet than the nominate race.<sup id="cite_ref-Madge94_3-2" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> It breeds in the rest of the depicted Asian range, mainly in the Himalayas.<sup id="cite_ref-BWP_12-0" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup></li>
+</ul>
+<p><a href="/wiki/Moravia" title="Moravia">Moravian</a> <a href="/wiki/Paleontology" title="Paleontology">palaeontologist</a> <a href="/wiki/Ferdinand_Stoliczka" title="Ferdinand Stoliczka">Ferdinand Stoliczka</a> separated the Himalayan population as a third subspecies, <i>P.&#160;g.&#160;forsythi</i>,<sup id="cite_ref-stoliczka_13-0" class="reference"><a href="#cite_note-stoliczka-13"><span>[</span>14<span>]</span></a></sup> but this has not been widely accepted and is usually treated as <a href="/wiki/Synonym" title="Synonym">synonymous</a> with <i>digitatus</i>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup> A <a href="/wiki/Pleistocene" title="Pleistocene">Pleistocene</a> form from Europe was similar to the extant subspecies, and is sometimes categorised as <i>P.&#160;g.&#160;vetus</i>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Australia" title="Australia">Australian</a> <a href="/wiki/White-winged_Chough" title="White-winged Chough">White-winged Chough</a>, <i>Corcorax melanorhamphos</i>, despite its similar bill shape and black plumage, is only distantly related to the true choughs.<sup id="cite_ref-ITIS2_19-0" class="reference"><a href="#cite_note-ITIS2-19"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/w/index.php?title=File:ChoughsDiff.svg&amp;page=1" class="image"><img alt=" Diagrams of the two chough species perched and in flight" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/ChoughsDiff.svg/170px-ChoughsDiff.svg.png" width="170" height="204" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ChoughsDiff.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Red-billed Chough (left) has deeper wing "fingers" and tail wedge in flight than Alpine (on right), and its wings extend to or beyond the tail tip when standing.</div>
+</div>
+</div>
+<p>The adult of the nominate subspecies of the Alpine Chough has glossy black <a href="/wiki/Plumage" title="Plumage">plumage</a>, a short yellow bill, dark brown <a href="/wiki/Iris_(anatomy)" title="Iris (anatomy)">irises</a>, and red legs.<sup id="cite_ref-Madge94_3-3" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> It is slightly smaller than Red-billed Chough, at 37–39&#160;centimetres (14.6–15.3&#160;in) length with a 12–14 cm (4.7–5.5 in) tail and a 75–85 cm (30–33 in) wingspan, but has a proportionally longer tail and shorter wings than its relative. It has a similar buoyant and easy flight.<sup id="cite_ref-BWP_12-1" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup> The sexes are identical in appearance although the male averages slightly larger than the female. The juvenile is duller than the adult with a dull yellow bill and brownish legs.<sup id="cite_ref-Madge94_3-4" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> The Alpine Chough is unlikely to be confused with any other species; although the Jackdaw and Red-billed Chough share its range, the Jackdaw is smaller and has unglossed grey plumage, and the Red-billed Chough has a long red bill.<sup id="cite_ref-BWP_12-2" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup></p>
+<p>The subspecies <i>P.&#160;g.&#160;digitatus</i> averages slightly larger than the nominate form, weighing 191–244&#160;grams (6.8–8.7&#160;oz) against 188–252&#160;g (6.7–9.0&#160;oz) for <i>P.&#160;g.&#160;graculus</i>, and it has stronger feet.<sup id="cite_ref-Madge94_3-5" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-BWP_12-3" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup> This is in accordance with <a href="/wiki/Bergmann%27s_rule" title="Bergmann's rule">Bergmann's rule</a>, which predicts that the largest birds should be found higher elevations or in colder and more arid regions. The extremities of the body, the bill and <a href="/wiki/Tarsus_(skeleton)" title="Tarsus (skeleton)">tarsus</a>, were longer in warmer areas, in line with <a href="/wiki/Allen%27s_rule" title="Allen's rule">Allen's rule</a>. Temperature seemed to be the most important cause of body variation in the Alpine Chough.<sup id="cite_ref-Ecogeographic_20-0" class="reference"><a href="#cite_note-Ecogeographic-20"><span>[</span>21<span>]</span></a></sup></p>
+<p>The flight of the Alpine Chough is swift and acrobatic with loose deep wing beats. Its high manoeuvrability is accomplished by fanning the tail, folding its wings, and soaring in the <a href="/wiki/Vertical_draft" title="Vertical draft">updraughts</a> at cliff faces. Even in flight, it can be distinguished from Red-billed Chough by its less rectangular wings, and longer, less square-ended tail.<sup id="cite_ref-BWP_12-4" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-burton_21-0" class="reference"><a href="#cite_note-burton-21"><span>[</span>22<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Trill_(music)" title="Trill (music)">rippling</a> <i>preep</i> and whistled <i>sweeeooo</i> calls of the Alpine Chough are quite different from the more typically <a href="/wiki/Crow" title="Crow">crow-like</a> <i>chee-ow</i> vocalisations of the Jackdaw and the Red-billed Chough. It also has a rolling <i>churr</i> <a href="/wiki/Alarm_signal" title="Alarm signal">alarm call</a>, and a variety of quiet warbles and squeaks given by resting or feeding birds.<sup id="cite_ref-Madge94_3-6" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> In a study of chough calls throughout the <a href="/wiki/Palearctic_ecozone" title="Palearctic ecozone">Palearctic region</a> it was found that call <a href="/wiki/Audio_frequency" title="Audio frequency">frequencies</a> in the Alpine Chough showed an <a href="/wiki/Inverse_relationship" title="Inverse relationship">inverse relationship</a> between body size and frequency, being higher-pitched in smaller-bodied populations.<sup id="cite_ref-Laiolo2001_22-0" class="reference"><a href="#cite_note-Laiolo2001-22"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Picos393.JPG" class="image"><img alt=" high grey bare cliffs behind a meadow" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Picos393.JPG/220px-Picos393.JPG" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Picos393.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Cliffs with nearby alpine pasture provide nesting sites.</div>
+</div>
+</div>
+<p>The Alpine Chough breeds in mountains from Spain eastwards through southern Europe and the <a href="/wiki/Alps" title="Alps">Alps</a> across <a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a> and the <a href="/wiki/Himalayas" title="Himalayas">Himalayas</a> to western China. There are also populations in <a href="/wiki/Morocco" title="Morocco">Morocco</a>, <a href="/wiki/Corsica" title="Corsica">Corsica</a> and <a href="/wiki/Crete" title="Crete">Crete</a>. It is a <a href="/wiki/Bird_migration" title="Bird migration">non-migratory resident</a> throughout its range, although Moroccan birds have established a small colony near <a href="/wiki/M%C3%A1laga" title="Málaga">Málaga</a> in southern Spain, and wanderers have reached <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a>, <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a> and <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>.<sup id="cite_ref-Madge94_3-7" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>This is a high-altitude species normally breeding between 1,260–2,880 metres (4,130–9,450 ft) in Europe, 2,880–3,900 m (9,450–12,800 ft) in Morocco, and 3,500–5,000 m (11,500–16,000 ft) in the Himalayas.<sup id="cite_ref-Madge94_3-8" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> It has nested at 6,500&#160;m (21,300&#160;ft), higher than any other bird species,<sup id="cite_ref-bahn_23-0" class="reference"><a href="#cite_note-bahn-23"><span>[</span>24<span>]</span></a></sup> even surpassing the Red-billed Chough which has a diet less well adapted to the highest altitudes.<sup id="cite_ref-Rolando2_24-0" class="reference"><a href="#cite_note-Rolando2-24"><span>[</span>25<span>]</span></a></sup> It has been observed following mountaineers ascending <a href="/wiki/Mount_Everest" title="Mount Everest">Mount Everest</a> at an altitude of 8,200&#160;m (26,900&#160;ft).<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup> It usually nests in cavities and fissures on inaccessible rock faces, although locally it will use holes between rocks in fields,<sup id="cite_ref-Baumgart_26-0" class="reference"><a href="#cite_note-Baumgart-26"><span>[</span>27<span>]</span></a></sup> and forages in open habitats such as <a href="/wiki/Alpine_meadow" title="Alpine meadow" class="mw-redirect">alpine meadows</a> and <a href="/wiki/Scree" title="Scree">scree slopes</a> to the <a href="/wiki/Tree_line" title="Tree line">tree line</a> or lower, and in winter will often congregate around human settlements, <a href="/wiki/Ski_resort" title="Ski resort">ski resorts</a>, hotels and other tourist facilities.<sup id="cite_ref-BWP_12-5" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup> Its penchant for waiting by hotel windows for food is popular with tourists, but less so with hotel owners.<sup id="cite_ref-goodwin_4-1" class="reference"><a href="#cite_note-goodwin-4"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=4" title="Edit section: Behaviour and ecology">edit</a>]</span> <span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=5" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:128px;"><a href="/wiki/File:Alpendohle_Ei-3c.jpg" class="image"><img alt=" A cream egg with light buff blotches" src="//upload.wikimedia.org/wikipedia/commons/d/de/Alpendohle_Ei-3c.jpg" width="126" height="126" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alpendohle_Ei-3c.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Eggs vary from cream to <a href="/wiki/Buff_(colour)" title="Buff (colour)">buff</a> to light-green, and have brown speckles.<sup id="cite_ref-Madge94_3-9" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup></div>
+</div>
+</div>
+<p>The Alpine Chough is socially <a href="/wiki/Monogamy" title="Monogamy">monogamous</a>, showing high partner fidelity in summer and winter and from year to year.<sup id="cite_ref-delestradesty_27-0" class="reference"><a href="#cite_note-delestradesty-27"><span>[</span>28<span>]</span></a></sup> Nesting typically starts in early May, and is non-colonial, although in suitable habitat several pairs may nest in close proximity.<sup id="cite_ref-Madge94_3-10" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> The bulky nests are composed of roots, sticks and plant stems lined with grass, fine twiglets or hair, and may be constructed on ledges, in a cave or similar fissure in a cliff face, or in an abandoned building. The <a href="/wiki/Clutch_(eggs)" title="Clutch (eggs)">clutch</a> is 3–5 glossy whitish eggs, averaging 33.9 by 24.9 millimetres (1.33&#160;in ×&#160;0.98&#160;in) in size,<sup id="cite_ref-Harrison_28-0" class="reference"><a href="#cite_note-Harrison-28"><span>[</span>29<span>]</span></a></sup> which are tinged with buff, cream or light-green and marked with small brown blotches;<sup id="cite_ref-Madge94_3-11" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> they are incubated by the female for 14–21 days before hatching.<sup id="cite_ref-BWP_12-6" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup> The chicks hatch with a dense covering of natal <a href="/wiki/Down_feather" title="Down feather">down</a>, in contrast to those of the Red-billed Chough which are almost naked,<sup id="cite_ref-agd_29-0" class="reference"><a href="#cite_note-agd-29"><span>[</span>30<span>]</span></a></sup> and <a href="/wiki/Fledge" title="Fledge">fledge</a> in a further 29–31 days from hatching.<sup id="cite_ref-BWP_12-7" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup> The young birds are fed by both parents, and may also be fed by other adults when they have fledged and joined the flock.<sup id="cite_ref-Madge94_3-12" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup> Breeding is possible in the high mountains because chough eggs have relatively fewer pores than those of lowland species, and lose less water by evaporation at low atmospheric pressure.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup> The <a href="/wiki/Embryo" title="Embryo">embryos</a> of bird species that breed at high altitude also have <a href="/wiki/Haemoglobin" title="Haemoglobin" class="mw-redirect">haemoglobin</a> with a genetically determined high affinity for oxygen.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup></p>
+<p>In the western Italian Alps, the Alpine Chough nests in a greater variety of sites than Red-billed Chough, using natural cliffs, pot-holes and abandoned buildings, whereas the Red-billed uses only natural cliffs (although it nests in old buildings elsewhere).<sup id="cite_ref-Madge94_3-13" class="reference"><a href="#cite_note-Madge94-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Rolando2_24-1" class="reference"><a href="#cite_note-Rolando2-24"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-Blanco5_32-0" class="reference"><a href="#cite_note-Blanco5-32"><span>[</span>33<span>]</span></a></sup> The Alpine Chough lays its eggs about one month later than its relative, although breeding success and reproductive behaviour are similar. The similarities between the two species presumably arose because of the same strong environmental constraints on breeding behaviour.<sup id="cite_ref-Rolando2_24-2" class="reference"><a href="#cite_note-Rolando2-24"><span>[</span>25<span>]</span></a></sup></p>
+<p>A study of three different European populations showed a mean clutch size of 3.6 eggs, producing 2.6 chicks, of which 1.9 fledged. Adult survival rate varied from 83 to 92%, with no significant difference detected between males and females. Survival of first-year birds was, at 77%, lower than that of adults. The availability or otherwise of human food supplied from tourist activities did not affect breeding success.<sup id="cite_ref-delestradesty_27-1" class="reference"><a href="#cite_note-delestradesty-27"><span>[</span>28<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=6" title="Edit section: Feeding">edit</a>]</span> <span class="mw-headline" id="Feeding">Feeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pyrrhocorax_graculus_-Gornergrat_Observatory,_Switzerland_-alps-8.jpg" class="image"><img alt=" Visitors sitting at tables on a large balcony high in the Swiss Alps, and a chough is perching on a railing beside them." src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pyrrhocorax_graculus_-Gornergrat_Observatory%2C_Switzerland_-alps-8.jpg/220px-Pyrrhocorax_graculus_-Gornergrat_Observatory%2C_Switzerland_-alps-8.jpg" width="220" height="146" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pyrrhocorax_graculus_-Gornergrat_Observatory,_Switzerland_-alps-8.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A chough probably looking for supplementary food is perching on a railing alongside visitors to <a href="/wiki/Gornergrat" title="Gornergrat">Gornergrat</a>, high in the Swiss Alps</div>
+</div>
+</div>
+<p>In the summer, the Alpine Chough feeds mainly on <a href="/wiki/Invertebrate" title="Invertebrate">invertebrates</a> collected from pasture, such as <a href="/wiki/Beetle" title="Beetle">beetles</a> (<i><a href="/wiki/Selatosomus_aeneus" title="Selatosomus aeneus">Selatosomus aeneus</a></i> and <i><a href="/wiki/Otiorhynchus_morio" title="Otiorhynchus morio">Otiorhynchus morio</a></i> have been recorded from <a href="/wiki/Pellet_(ornithology)" title="Pellet (ornithology)">pellets</a>), <a href="/wiki/Snail" title="Snail">snails</a>, <a href="/wiki/Grasshopper" title="Grasshopper">grasshoppers</a>, <a href="/wiki/Caterpillar" title="Caterpillar">caterpillars</a> and <a href="/wiki/Fly" title="Fly">fly</a> <a href="/wiki/Larva" title="Larva">larvae</a>.<sup id="cite_ref-goodwin_4-2" class="reference"><a href="#cite_note-goodwin-4"><span>[</span>5<span>]</span></a></sup> The diet in autumn, winter and early spring becomes mainly fruit, including <a href="/wiki/Berry" title="Berry">berries</a> such as the European Hackberry (<i><a href="/wiki/Celtis_australis" title="Celtis australis">Celtis australis</a></i>) and Sea-buckthorn (<i><a href="/wiki/Sea-buckthorn" title="Sea-buckthorn">Hippophae rhamnoides</a></i>),<sup id="cite_ref-goodwin_4-3" class="reference"><a href="#cite_note-goodwin-4"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Rose_hip" title="Rose hip">rose hips</a>, and domesticated crops such as apples, grapes and pears where available.<sup id="cite_ref-LaioloCarisio_33-0" class="reference"><a href="#cite_note-LaioloCarisio-33"><span>[</span>34<span>]</span></a></sup> It has been observed eating flowers of <i><a href="/wiki/Crocus_vernus" title="Crocus vernus">Crocus vernus albiflorus</a></i>, including the <a href="/wiki/Gynoecium" title="Gynoecium">pistils</a>, perhaps as a source of <a href="/wiki/Carotenoid" title="Carotenoid">carotenoids</a>.<sup id="cite_ref-BCbirds_34-0" class="reference"><a href="#cite_note-BCbirds-34"><span>[</span>35<span>]</span></a></sup> The chough will readily supplement its winter diet with food provided by tourist activities in mountain regions, including ski resorts, <a href="/wiki/Landfill" title="Landfill">refuse dumps</a> and <a href="/wiki/Picnic" title="Picnic">picnic areas</a>. Where additional food is available, winter flocks are larger and contain a high proportion of immature birds. The young birds principally frequent the sites with the greatest food availability, such as refuse dumps.<sup id="cite_ref-Delestrade_35-0" class="reference"><a href="#cite_note-Delestrade-35"><span>[</span>36<span>]</span></a></sup> Both chough species will hide food in cracks and fissures, concealing the cache with a few pebbles.<sup id="cite_ref-wall_36-0" class="reference"><a href="#cite_note-wall-36"><span>[</span>37<span>]</span></a></sup></p>
+<p>This bird always forages in groups, which are larger in winter than summer, and have constant composition in each season. Where food resources are restricted, adults dominate young birds, and males outrank females.<sup id="cite_ref-delestradesty_27-2" class="reference"><a href="#cite_note-delestradesty-27"><span>[</span>28<span>]</span></a></sup> Foraging areas change altitudinally through the year, depending on climatic factors, food availability and food quality. During the breeding season, birds remain above the <a href="/wiki/Tree_line" title="Tree line">tree line</a>, although they may use food provided by tourists at refuges and picnic areas.<sup id="cite_ref-LaioloCarisio_33-1" class="reference"><a href="#cite_note-LaioloCarisio-33"><span>[</span>34<span>]</span></a></sup></p>
+<p>Movement to lower levels begins after the first snowfalls, and feeding by day is mainly in or near valley bottoms when the snow cover deepens, although the birds return to the mountains to roost. In March and April the choughs frequent villages at valley tops or forage in snow-free patches prior to their return to the high meadows.<sup id="cite_ref-LaioloCarisio_33-2" class="reference"><a href="#cite_note-LaioloCarisio-33"><span>[</span>34<span>]</span></a></sup> Feeding trips may cover 20&#160;km (12&#160;mi) distance and 1,600&#160;m (5,200&#160;ft) in altitude. In the Alps, the development of skiing above 3,000&#160;m (9,800&#160;ft) has enabled more birds to remain at high levels in winter.<sup id="cite_ref-BWP_12-8" class="reference"><a href="#cite_note-BWP-12"><span>[</span>13<span>]</span></a></sup></p>
+<p>Where their ranges overlap, the two chough species may feed together in the summer, although there is only limited competition for food. An Italian study showed that the vegetable part of the winter diet for the Red-billed Chough was almost exclusively <i><a href="/wiki/Gagea" title="Gagea">Gagea</a></i> bulbs dug from the ground, whilst the Alpine Chough took berries and hips. In June, Red-billed Choughs fed mainly on caterpillars whereas Alpine Choughs ate <a href="/wiki/Crane_fly" title="Crane fly">crane fly</a> <a href="/wiki/Pupa" title="Pupa">pupae</a>. Later in the summer, the Alpine Chough consumed large numbers of grasshoppers, while the Red-billed Chough added cranefly pupae, fly larvae and beetles to its diet.<sup id="cite_ref-Rolando2_24-3" class="reference"><a href="#cite_note-Rolando2-24"><span>[</span>25<span>]</span></a></sup> In the eastern Himalayas in November, Alpine Choughs occur mainly in <a href="/wiki/Juniper" title="Juniper">juniper</a> forests where they feed on <a href="/wiki/Juniper_berry" title="Juniper berry">juniper berries</a>, differing ecologically from the Red-billed Choughs in the same region and at the same time of year, which feed by digging in the soil of terraced pastures of villages.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>38<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=7" title="Edit section: Natural threats">edit</a>]</span> <span class="mw-headline" id="Natural_threats">Natural threats</span></h3>
+<p>Predators of the choughs include the <a href="/wiki/Peregrine_Falcon" title="Peregrine Falcon">Peregrine Falcon</a>, <a href="/wiki/Golden_Eagle" title="Golden Eagle">Golden Eagle</a> and <a href="/wiki/Eurasian_Eagle-owl" title="Eurasian Eagle-owl" class="mw-redirect">Eurasian Eagle-owl</a>, while the <a href="/wiki/Common_Raven" title="Common Raven">Common Raven</a> will take nestlings.<sup id="cite_ref-birdwatchireland_38-0" class="reference"><a href="#cite_note-birdwatchireland-38"><span>[</span>39<span>]</span></a></sup><sup id="cite_ref-OperationChough_39-0" class="reference"><a href="#cite_note-OperationChough-39"><span>[</span>40<span>]</span></a></sup><sup id="cite_ref-Rolando_40-0" class="reference"><a href="#cite_note-Rolando-40"><span>[</span>41<span>]</span></a></sup><sup id="cite_ref-Blanco_41-0" class="reference"><a href="#cite_note-Blanco-41"><span>[</span>42<span>]</span></a></sup> Alpine Choughs have been observed diving at a Tibetan <a href="/wiki/Red_fox" title="Red fox">red fox</a>. It seems likely that this "<a href="/wiki/Mobbing" title="Mobbing">mobbing</a>" behaviour may be play activity to give practice for when genuine defensive measures may be needed to protect eggs or young.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>43<span>]</span></a></sup></p>
+<p>The Alpine Chough is a host of the widespread bird <a href="/wiki/Flea" title="Flea">flea</a> <i>Ceratophyllus vagabunda</i>, two specialist chough fleas <i>Frontopsylla frontalis</i> and <i>F.&#160;laetus</i>,<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>44<span>]</span></a></sup> a <a href="/wiki/Cestoda" title="Cestoda">cestode</a> <i>Choanotaenia pirinica</i>,<sup id="cite_ref-44" class="reference"><a href="#cite_note-44"><span>[</span>45<span>]</span></a></sup> and various species of <a href="/wiki/Chewing_louse" title="Chewing louse" class="mw-redirect">chewing lice</a> in the genera <i><a href="/wiki/Brueelia" title="Brueelia">Brueelia</a></i>, <i><a href="/wiki/Menacanthus" title="Menacanthus">Menacanthus</a></i> and <i>Philopterus</i>.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>46<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=8" title="Edit section: Status">edit</a>]</span> <span class="mw-headline" id="Status">Status</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pyrrhocorax-graculus-0020-a.jpg" class="image"><img alt="Photograph showing the left side of an Alpine Chough perched standing on rocky ground" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pyrrhocorax-graculus-0020-a.jpg/220px-Pyrrhocorax-graculus-0020-a.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pyrrhocorax-graculus-0020-a.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In the <a href="/wiki/Alps" title="Alps">Alps</a>, Innsbruck, Austria</div>
+</div>
+</div>
+<p>The Alpine Chough has an extensive though sometimes fragmented range, estimated at 1–10&#160;million&#160;square kilometres (0.4–3.8&#160;million sq mi), and a large population, including an estimated 260,000 to 620,000 individuals in Europe. The Corsican population has been estimated to comprise about 2,500 birds.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>47<span>]</span></a></sup> Over its range as a whole, the species is not believed to approach the thresholds for the global population decline criteria of the IUCN Red List (i.e., declining more than 30% in ten years or three generations), and is therefore evaluated as <a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a>.<sup id="cite_ref-IUCN2012_0-1" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>At the greatest extent of the <a href="/wiki/Last_glacial_period" title="Last glacial period">last glacial period</a> around 18,000 years ago, southern Europe was characterised by cold open habitats, and the Alpine Chough was found as far as south as southern Italy, well outside its current range.<sup id="cite_ref-yalden_47-0" class="reference"><a href="#cite_note-yalden-47"><span>[</span>48<span>]</span></a></sup> Some of these peripheral prehistoric populations persisted until recently, only to disappear within the last couple of centuries. In the <a href="/wiki/Poland" title="Poland">Polish</a> <a href="/wiki/Tatra_Mountains" title="Tatra Mountains">Tatra Mountains</a>, where a population had survived since the glacial period, it was not found as a breeding bird after the 19th century.<sup id="cite_ref-tomek_48-0" class="reference"><a href="#cite_note-tomek-48"><span>[</span>49<span>]</span></a></sup> In Bulgaria, the number of breeding sites fell from 77 between 1950 and 1981 to just 14 in the 1996 to 2006 period, and the number of pairs in the remaining colonies were much smaller. The decline was thought to be due to the loss of former open grasslands which had reverted to scrubby vegetation once extensive cattle grazing ceased.<sup id="cite_ref-Stoyanov_49-0" class="reference"><a href="#cite_note-Stoyanov-49"><span>[</span>50<span>]</span></a></sup> Foraging habitat can also be lost to human activities such as the construction of ski resorts and other tourist development on former alpine meadows.<sup id="cite_ref-rolandopatterson_50-0" class="reference"><a href="#cite_note-rolandopatterson-50"><span>[</span>51<span>]</span></a></sup> Populations of choughs are stable or increasing in areas where traditional pastoral or other low intensity agriculture persists, but are declining or have become locally extinct where <a href="/wiki/Intensive_farming" title="Intensive farming">intensive farming</a> methods have been introduced, such as <a href="/wiki/Brittany" title="Brittany">Brittany</a>, England, south-west Portugal and mainland Scotland.<sup id="cite_ref-pain_51-0" class="reference"><a href="#cite_note-pain-51"><span>[</span>52<span>]</span></a></sup></p>
+<p>Choughs can be locally threatened by the accumulation of <a href="/wiki/Pesticide" title="Pesticide">pesticides</a> and <a href="/wiki/Heavy_metal_(chemistry)" title="Heavy metal (chemistry)">heavy metals</a> in the mountain soils, heavy rain, shooting and other human disturbances,<sup id="cite_ref-Stoyanov_49-1" class="reference"><a href="#cite_note-Stoyanov-49"><span>[</span>50<span>]</span></a></sup> but a longer-term threat comes from <a href="/wiki/Global_warming" title="Global warming">global warming</a>, which would cause the species' preferred <a href="/wiki/Alpine_climate" title="Alpine climate">Alpine climate</a> zone to shift to higher, more restricted areas, or locally to disappear entirely.<sup id="cite_ref-Sekercioglu_52-0" class="reference"><a href="#cite_note-Sekercioglu-52"><span>[</span>53<span>]</span></a></sup> Fossils of both chough species were found in the mountains of the <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a>. The local extinction of the Alpine Chough and the reduced range of Red-billed Chough in the islands may have been due to climate change or human activity.<sup id="cite_ref-rando_53-0" class="reference"><a href="#cite_note-rando-53"><span>[</span>54<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=9" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106005756">"<i>Pyrrhocorax graculus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106005756">http://www.iucnredlist.org/apps/redlist/details/106005756</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Pyrrhocorax+graculus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106005756&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Latin)</span> <span class="citation book"><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus, C.</a> (1766). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio duodecima</i>. Holmiae. (Laurentii Salvii). p.&#160;158.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+duodecima&amp;rft.aulast=Linnaeus&amp;rft.aufirst=C.&amp;rft.au=Linnaeus%2C%26%2332%3BC.&amp;rft.date=1766&amp;rft.pages=p.%26nbsp%3B158&amp;rft.pub=Holmiae.+%28Laurentii+Salvii%29&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Latin)</span> <span class="citation book"><a href="/wiki/Marmaduke_Tunstall" title="Marmaduke Tunstall">Tunstall, M.</a> (1771). <i>Ornithologia Britannica: seu Avium omnium Britannicarum tam terrrestrium, quam aquaticarum catalogus, sermone Latino, Anglico et Gallico redditus</i>. London, J. Dixwell. p.&#160;2.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ornithologia+Britannica%3A+seu+Avium+omnium+Britannicarum+tam+terrrestrium%2C+quam+aquaticarum+catalogus%2C+sermone+Latino%2C+Anglico+et+Gallico+redditus&amp;rft.aulast=Tunstall&amp;rft.aufirst=M.&amp;rft.au=Tunstall%2C%26%2332%3BM.&amp;rft.date=1771&amp;rft.pages=p.%26nbsp%3B2&amp;rft.pub=London%2C+J.+Dixwell&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Madge94-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Madge94_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Madge94_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Madge94_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Madge94_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Madge94_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Madge94_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Madge94_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Madge94_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Madge94_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Madge94_3-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Madge94_3-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Madge94_3-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Madge94_3-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Madge94_3-13"><sup><i><b>n</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Steve_Madge" title="Steve Madge">Madge, S.</a>; Burn, Hilary (1994). <i>Crows and jays: a guide to the crows, jays and magpies of the world</i>. <a href="/wiki/A_%26_C_Black" title="A &amp; C Black">A &amp; C Black</a>. pp.&#160;132–133. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7136-3999-7" title="Special:BookSources/0-7136-3999-7">0-7136-3999-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Crows+and+jays%3A+a+guide+to+the+crows%2C+jays+and+magpies+of+the+world&amp;rft.aulast=Madge&amp;rft.aufirst=S.&amp;rft.au=Madge%2C%26%2332%3BS.&amp;rft.date=1994&amp;rft.pages=pp.%26nbsp%3B132%26ndash%3B133&amp;rft.pub=%5B%5BA+%26+C+Black%5D%5D&amp;rft.isbn=0-7136-3999-7&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-goodwin-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-goodwin_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-goodwin_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-goodwin_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-goodwin_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Goodwin, Derek; Gillmor, Robert (1976). <i>Crows of the world</i>. London: British Museum (Natural History). pp.&#160;151–158. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-565-00771-8" title="Special:BookSources/0-565-00771-8">0-565-00771-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Crows+of+the+world&amp;rft.aulast=Goodwin&amp;rft.aufirst=Derek&amp;rft.au=Goodwin%2C%26%2332%3BDerek&amp;rft.date=1976&amp;rft.pages=pp.%26nbsp%3B151%26ndash%3B158&amp;rft.pub=London%3A+British+Museum+%28Natural+History%29&amp;rft.isbn=0-565-00771-8&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Ericson-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ericson_5-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Ericson, Per G. P.; Jansén, Anna-Lee; Johansson, Ulf S.; Ekman, Jan (2005). <a rel="nofollow" class="external text" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.nrm.se%2Fdownload%2F18.4e32c81078a8d9249800021299%2FCorvidae.pdf">"Inter-generic relationships of the crows, jays, magpies and allied groups (Aves: Corvidae) based on nucleotide sequence data"</a> (PDF). <i>Journal of Avian Biology</i> <b>36</b> (3): 222–234. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.0908-8857.2001.03409.x">10.1111/j.0908-8857.2001.03409.x</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.nrm.se%2Fdownload%2F18.4e32c81078a8d9249800021299%2FCorvidae.pdf">http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.nrm.se%2Fdownload%2F18.4e32c81078a8d9249800021299%2FCorvidae.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Inter-generic+relationships+of+the+crows%2C+jays%2C+magpies+and+allied+groups+%28Aves%3A+Corvidae%29+based+on+nucleotide+sequence+data&amp;rft.jtitle=Journal+of+Avian+Biology&amp;rft.aulast=Ericson&amp;rft.aufirst=Per+G.+P.&amp;rft.au=Ericson%2C%26%2332%3BPer+G.+P.&amp;rft.date=2005&amp;rft.volume=36&amp;rft.issue=3&amp;rft.pages=222%26ndash%3B234&amp;rft_id=info:doi/10.1111%2Fj.0908-8857.2001.03409.x&amp;rft_id=http%3A%2F%2Fwww.pdfdownload.org%2Fpdf2html%2Fview_online.php%3Furl%3Dhttp%253A%252F%252Fwww.nrm.se%252Fdownload%252F18.4e32c81078a8d9249800021299%252FCorvidae.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BTO-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-BTO_6-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob15590.htm">"Chough <i>Pyrrhocorax pyrrhocorax</i> [Linnaeus, 1758</a>"]. <i>BTO</i>Web <i>BirdFacts</i>. British Trust for Ornithology. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071224213534/http://blx1.bto.org/birdfacts/results/bob15590.htm">Archived</a> from the original on 24 December 2007<span class="printonly">. <a rel="nofollow" class="external free" href="http://blx1.bto.org/birdfacts/results/bob15590.htm">http://blx1.bto.org/birdfacts/results/bob15590.htm</a></span><span class="reference-accessdate">. Retrieved 6 February 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Chough+%27%27Pyrrhocorax+pyrrhocorax%27%27+%5BLinnaeus%2C+1758%5D&amp;rft.atitle=BTO%27%27Web%27%27+BirdFacts&amp;rft.pub=British+Trust+for+Ornithology&amp;rft_id=http%3A%2F%2Fblx1.bto.org%2Fbirdfacts%2Fresults%2Fbob15590.htm&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-woodhouse-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-woodhouse_7-0">^</a></b></span> <span class="reference-text"><span class="citation book">Woodhouse, Sidney Chawner (1982). <i>The Englishman's pocket Latin-English and English-Latin dictionary</i>. Taylor &amp; Francis. p.&#160;75. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7100-9267-9" title="Special:BookSources/0-7100-9267-9">0-7100-9267-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Englishman%27s+pocket+Latin-English+and+English-Latin+dictionary&amp;rft.aulast=Woodhouse&amp;rft.aufirst=Sidney+Chawner&amp;rft.au=Woodhouse%2C%26%2332%3BSidney+Chawner&amp;rft.date=1982&amp;rft.pages=p.%26nbsp%3B75&amp;rft.pub=Taylor+%26+Francis&amp;rft.isbn=0-7100-9267-9&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Thomas_Powys,_4th_Baron_Lilford" title="Thomas Powys, 4th Baron Lilford">Lilford, Thomas Littleton Powys</a>; Salvin, Osbert; Newton, Alfred; <a href="/wiki/Archibald_Thorburn" title="Archibald Thorburn">Thorburn, Archibald</a>; Keulemans, Gerrard John (1897). <i>Coloured figures of the birds of the British islands</i>. R. H. Porter.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Coloured+figures+of+the+birds+of+the+British+islands&amp;rft.aulast=Lilford&amp;rft.aufirst=Thomas+Littleton+Powys&amp;rft.au=Lilford%2C%26%2332%3BThomas+Littleton+Powys&amp;rft.date=1897&amp;rft.pub=R.+H.+Porter&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span> Contents, volume 2</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck, Coenraad Jacob</a> (1815–40). <i>Manuel d'ornithologie; Tableau systématique des oiseaux qui se trouvent en Europe</i>. Paris: Sepps &amp; Dufour. p.&#160;122.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Manuel+d%27ornithologie%3B+Tableau+syst%C3%A9matique+des+oiseaux+qui+se+trouvent+en+Europe&amp;rft.aulast=Temminck&amp;rft.aufirst=Coenraad+Jacob&amp;rft.au=Temminck%2C%26%2332%3BCoenraad+Jacob&amp;rft.date=1815%E2%80%9340&amp;rft.pages=p.%26nbsp%3B122&amp;rft.pub=Paris%3A+Sepps+%26+Dufour&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Cocker-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cocker_10-0">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Mark_Cocker" title="Mark Cocker">Cocker, Mark</a>; <a href="/wiki/Richard_Mabey" title="Richard Mabey">Mabey, Richard</a> (2005). <i>Birds Britannica</i>. London: Chatto &amp; Windus. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7011-6907-9" title="Special:BookSources/0-7011-6907-9">0-7011-6907-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+Britannica&amp;rft.aulast=Cocker&amp;rft.aufirst=Mark&amp;rft.au=Cocker%2C%26%2332%3BMark&amp;rft.date=2005&amp;rft.place=London&amp;rft.pub=Chatto+%26+Windus&amp;rft.isbn=0-7011-6907-9&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span> pp. 406–408</span></li>
+<li id="cite_note-dickinson-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-dickinson_11-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Dickinson, E C; Dekker, R. W. R. J.; Eck, S.; Somadikarta S. (2004). <a rel="nofollow" class="external text" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.naturalis.nl%2Fsites%2Fnaturalis.en%2Fcontents%2Fi000308%2Fsnab045.pdf">"Systematic notes on Asian birds. 45. Types of the Corvidae"</a> (PDF). <i>Leiden Zoologische verhandelingen</i> <b>350</b>: 121<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.naturalis.nl%2Fsites%2Fnaturalis.en%2Fcontents%2Fi000308%2Fsnab045.pdf">http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.naturalis.nl%2Fsites%2Fnaturalis.en%2Fcontents%2Fi000308%2Fsnab045.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Systematic+notes+on+Asian+birds.+45.+Types+of+the+Corvidae&amp;rft.jtitle=Leiden+Zoologische+verhandelingen&amp;rft.aulast=Dickinson&amp;rft.aufirst=E+C&amp;rft.au=Dickinson%2C%26%2332%3BE+C&amp;rft.date=2004&amp;rft.volume=350&amp;rft.pages=121&amp;rft_id=http%3A%2F%2Fwww.pdfdownload.org%2Fpdf2html%2Fview_online.php%3Furl%3Dhttp%253A%252F%252Fwww.naturalis.nl%252Fsites%252Fnaturalis.en%252Fcontents%252Fi000308%252Fsnab045.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BWP-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-BWP_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BWP_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BWP_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BWP_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BWP_12-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BWP_12-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-BWP_12-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-BWP_12-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-BWP_12-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Snow, David; Perrins, Christopher M. (editors) (1998). <i>The Birds of the Western Palearctic concise edition (2 volumes)</i>. Oxford: Oxford University Press. pp.&#160;1464–1466. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854099-X" title="Special:BookSources/0-19-854099-X">0-19-854099-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+Western+Palearctic+concise+edition+%282+volumes%29&amp;rft.aulast=Snow&amp;rft.aufirst=David&amp;rft.au=Snow%2C%26%2332%3BDavid&amp;rft.date=1998&amp;rft.pages=pp.%26nbsp%3B1464%26ndash%3B1466&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-854099-X&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-stoliczka-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-stoliczka_13-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Stoliczka, Ferdinand (1874). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/strayfeathersjou21874hume#page/462/mode/2up">"[Letter to the Editor, 10 September 1873, Camp Leh</a>"]. <i>Stray Feathers: A journal of ornithology for India and its dependencies</i> <b>2</b> (4): 461–463<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/strayfeathersjou21874hume#page/462/mode/2up">http://www.archive.org/stream/strayfeathersjou21874hume#page/462/mode/2up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%5BLetter+to+the+Editor%2C+10+September+1873%2C+Camp+Leh%5D&amp;rft.jtitle=Stray+Feathers%3A+A+journal+of+ornithology+for+India+and+its+dependencies&amp;rft.aulast=Stoliczka&amp;rft.aufirst=Ferdinand&amp;rft.au=Stoliczka%2C%26%2332%3BFerdinand&amp;rft.date=1874&amp;rft.volume=2&amp;rft.issue=4&amp;rft.pages=461%26ndash%3B463&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fstrayfeathersjou21874hume%23page%2F462%2Fmode%2F2up&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Vaurie, Charles (1954). <a rel="nofollow" class="external text" href="http://hdl.handle.net/2246/3595">"Systematic notes on Palearctic birds. No. 4, The choughs (<i>Pyrrhocorax</i>)"</a>. <i>American Museum novitates</i> <b>1658</b>: 6–7<span class="printonly">. <a rel="nofollow" class="external free" href="http://hdl.handle.net/2246/3595">http://hdl.handle.net/2246/3595</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Systematic+notes+on+Palearctic+birds.+No.+4%2C+The+choughs+%28%27%27Pyrrhocorax%27%27%29&amp;rft.jtitle=American+Museum+novitates&amp;rft.aulast=Vaurie&amp;rft.aufirst=Charles&amp;rft.au=Vaurie%2C%26%2332%3BCharles&amp;rft.date=1954&amp;rft.volume=1658&amp;rft.pages=6%26ndash%3B7&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2246%2F3595&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Pamela_C._Rasmussen" title="Pamela C. Rasmussen">Rasmussen, Pamela C.</a>; <a href="/wiki/John_C._Anderton" title="John C. Anderton">Anderton J. C.</a> (2006). <i>Birds of South Asia: The Ripley Guide</i>. <b>2</b>. Smithsonian Institution &amp; Lynx Edicions. p.&#160;598. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-67-9" title="Special:BookSources/84-87334-67-9">84-87334-67-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+South+Asia%3A+The+Ripley+Guide&amp;rft.aulast=Rasmussen&amp;rft.aufirst=Pamela+C.&amp;rft.au=Rasmussen%2C%26%2332%3BPamela+C.&amp;rft.date=2006&amp;rft.volume=2&amp;rft.pages=p.%26nbsp%3B598&amp;rft.pub=Smithsonian+Institution+%26+Lynx+Edicions&amp;rft.isbn=84-87334-67-9&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">(Hungarian with English abstract) Válóczi, Tibor (1999) "<a rel="nofollow" class="external text" href="http://www.matramuzeum.hu/e107_plugins/docrep_menu/docrep.php?0.getdoc.236.5.A">Vaskapu-barlang (Bükk-hegység) felső pleisztocén faunájának vizsgálata (Investigation of the Upper-Pleistocene fauna of Vaskapu-Cave (Bükk-mountain))</a>. <i>Folia historico naturalia musei Matraensis</i> <b>23</b>: 79–96 (PDF)</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Mlíkovský, Jirí (2002) <a rel="nofollow" class="external text" href="http://www.nm.cz/download/JML-18-2002-CBE.pdf"><i>Cenozoic birds of the world</i></a> (Part 1: Europe). Ninox Press, Prague. <a href="/wiki/Special:BookSources/80-901105-3-8" title="Special:BookSources/80-901105-3-8">ISBN 80-901105-3-8</a> p. 238</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mourer-Chauviré, C.; Philippe, M.; Quinif, Y.; Chaline, J.; Debard, E.; Guérin, C.; Hugueney, M. (2003). "Position of the palaeontological site Aven I des Abîmes de La Fage, at Noailles (Corrèze, France), in the European Pleistocene chronology". <i>Boreas</i> <b>32</b> (3): 521–531. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1080%2F03009480310003405">10.1080/03009480310003405</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Position+of+the+palaeontological+site+Aven+I+des+Ab%C3%AEmes+de+La+Fage%2C+at+Noailles+%28Corr%C3%A8ze%2C+France%29%2C+in+the+European+Pleistocene+chronology&amp;rft.jtitle=Boreas&amp;rft.aulast=Mourer-Chauvir%C3%A9&amp;rft.aufirst=C.&amp;rft.au=Mourer-Chauvir%C3%A9%2C%26%2332%3BC.&amp;rft.au=Philippe%2C%26%2332%3BM.&amp;rft.au=Quinif%2C%26%2332%3BY.&amp;rft.au=Chaline%2C%26%2332%3BJ.&amp;rft.au=Debard%2C%26%2332%3BE.&amp;rft.au=Gu%C3%A9rin%2C%26%2332%3BC.&amp;rft.au=Hugueney%2C%26%2332%3BM.&amp;rft.date=2003&amp;rft.volume=32&amp;rft.issue=3&amp;rft.pages=521%E2%80%93531&amp;rft_id=info:doi/10.1080%2F03009480310003405&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-ITIS2-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-ITIS2_19-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=557570">"ITIS Standard Report Page: <i>Corcorax</i>"</a>. Integrated Taxonomic Information System<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=557570">http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=557570</a></span><span class="reference-accessdate">. Retrieved 5 February 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=ITIS+Standard+Report+Page%3A+%27%27Corcorax%27%27&amp;rft.atitle=&amp;rft.pub=Integrated+Taxonomic+Information+System&amp;rft_id=http%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D557570&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Ecogeographic-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ecogeographic_20-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Laiolo, Paola; Rolando, Antonio (2000). "Ecogeographic correlates of morphometric variation in the Red-billed Chough <i>Pyrrhocorax pyrrhocorax</i> and the Alpine Chough <i>Pyrrhocorax graculus</i>". <i>Ibis</i> <b>43</b> (3): 602–616. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.2001.tb04888.x">10.1111/j.1474-919X.2001.tb04888.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ecogeographic+correlates+of+morphometric+variation+in+the+Red-billed+Chough+%27%27Pyrrhocorax+pyrrhocorax+%27%27and+the+Alpine+Chough+%27%27Pyrrhocorax+graculus%27%27&amp;rft.jtitle=Ibis&amp;rft.aulast=Laiolo&amp;rft.aufirst=Paola&amp;rft.au=Laiolo%2C%26%2332%3BPaola&amp;rft.date=2000&amp;rft.volume=43&amp;rft.issue=3&amp;rft.pages=602%26ndash%3B616&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.2001.tb04888.x&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-burton-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-burton_21-0">^</a></b></span> <span class="reference-text"><span class="citation book">Burton, Robert (1985). <i>Bird behaviour</i>. London: Granada. p.&#160;22. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-246-12440-7" title="Special:BookSources/0-246-12440-7">0-246-12440-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bird+behaviour&amp;rft.aulast=Burton&amp;rft.aufirst=Robert&amp;rft.au=Burton%2C%26%2332%3BRobert&amp;rft.date=1985&amp;rft.pages=p.%26nbsp%3B22&amp;rft.place=London&amp;rft.pub=Granada&amp;rft.isbn=0-246-12440-7&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Laiolo2001-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Laiolo2001_22-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Laiolo, Paola; Rolando, Antonio; Delestrade, Anne; de Sanctis, Augusto (2001). <a rel="nofollow" class="external text" href="http://www.bioone.org/doi/abs/10.1650/0010-5422(2001)103%5B0287%3AGVITCO%5D2.0.CO%3B2">"Geographical variation in the calls of the choughs"</a>. <i>The Condor</i> <b>103</b> (2): 287–297. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1650%2F0010-5422%282001%29103%5B0287%3AGVITCO%5D2.0.CO%3B2">10.1650/0010-5422(2001)103[0287:GVITCO]2.0.CO;2</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0010-5422">0010-5422</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bioone.org/doi/abs/10.1650/0010-5422(2001)103%5B0287%3AGVITCO%5D2.0.CO%3B2">http://www.bioone.org/doi/abs/10.1650/0010-5422(2001)103%5B0287%3AGVITCO%5D2.0.CO%3B2</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Geographical+variation+in+the+calls+of+the+choughs&amp;rft.jtitle=The+Condor&amp;rft.aulast=Laiolo%2C+Paola&amp;rft.au=Laiolo%2C+Paola&amp;rft.date=2001&amp;rft.volume=103&amp;rft.issue=2&amp;rft.pages=287%26ndash%3B297&amp;rft_id=info:doi/10.1650%2F0010-5422%282001%29103%5B0287%3AGVITCO%5D2.0.CO%3B2&amp;rft.issn=0010-5422&amp;rft_id=http%3A%2F%2Fwww.bioone.org%2Fdoi%2Fabs%2F10.1650%2F0010-5422%282001%29103%255B0287%253AGVITCO%255D2.0.CO%253B2&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-bahn-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-bahn_23-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bahn, H.; Ab, A. (1974). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Condor/files/issues/v076n02/p0147-p0152.pdf">"The avian egg: incubation time and water loss"</a> (PDF). <i>The Condor</i> <b>76</b> (2): 147–152. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F1366724">10.2307/1366724</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/1366724">1366724</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Condor/files/issues/v076n02/p0147-p0152.pdf">http://elibrary.unm.edu/sora/Condor/files/issues/v076n02/p0147-p0152.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+avian+egg%3A+incubation+time+and+water+loss&amp;rft.jtitle=The+Condor&amp;rft.aulast=Bahn&amp;rft.aufirst=H.&amp;rft.au=Bahn%2C%26%2332%3BH.&amp;rft.date=1974&amp;rft.volume=76&amp;rft.issue=2&amp;rft.pages=147%26ndash%3B152&amp;rft_id=info:doi/10.2307%2F1366724&amp;rft.jstor=1366724&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FCondor%2Ffiles%2Fissues%2Fv076n02%2Fp0147-p0152.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Rolando2-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rolando2_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rolando2_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Rolando2_24-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Rolando2_24-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Rolando, Antonio; Laiolo, Paola (April 1997). "A comparative analysis of the diets of the chough <i>Pyrrhocorax pyrrhocorax</i> and the alpine chough <i>Pyrrhocorax graculus</i> coexisting in the Alps". <i>Ibis</i> <b>139</b> (2): 388–395. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.1997.tb04639.x">10.1111/j.1474-919X.1997.tb04639.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+comparative+analysis+of+the+diets+of+the+chough+%27%27Pyrrhocorax+pyrrhocorax%27%27+and+the+alpine+chough+%27%27Pyrrhocorax+graculus%27%27+coexisting+in+the+Alps&amp;rft.jtitle=Ibis&amp;rft.aulast=Rolando&amp;rft.aufirst=Antonio&amp;rft.au=Rolando%2C%26%2332%3BAntonio&amp;rft.date=April+1997&amp;rft.volume=139&amp;rft.issue=2&amp;rft.pages=388%26ndash%3B395&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.1997.tb04639.x&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation book">Silverstein Alvin; Silverstein, Virginia (2003). <i>Nature's champions: the biggest, the fastest, the best</i>. Courier Dover Publications. p.&#160;17. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-486-42888-5" title="Special:BookSources/0-486-42888-5">0-486-42888-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Nature%27s+champions%3A+the+biggest%2C+the+fastest%2C+the+best&amp;rft.aulast=Silverstein+Alvin%3B+Silverstein%2C+Virginia&amp;rft.au=Silverstein+Alvin%3B+Silverstein%2C+Virginia&amp;rft.date=2003&amp;rft.pages=p.%26nbsp%3B17&amp;rft.pub=Courier+Dover+Publications&amp;rft.isbn=0-486-42888-5&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Baumgart-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Baumgart_26-0">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(German)</span> <span class="citation Journal">Baumgart, W. (1967). "Alpendohlenkoniein in Felsschächten des Westbalkan". <i>Journal für Ornithologie</i> <b>108</b> (3): 341–345. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2FBF01671883">10.1007/BF01671883</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Alpendohlenkoniein+in+Felssch%C3%A4chten+des+Westbalkan&amp;rft.jtitle=Journal+f%C3%BCr+Ornithologie&amp;rft.aulast=Baumgart&amp;rft.aufirst=W.&amp;rft.au=Baumgart%2C%26%2332%3BW.&amp;rft.date=1967&amp;rft.volume=108&amp;rft.issue=3&amp;rft.pages=341%26ndash%3B345&amp;rft_id=info:doi/10.1007%2FBF01671883&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-delestradesty-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-delestradesty_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-delestradesty_27-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-delestradesty_27-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Delestrade, Anne; Stoyanov, Georgi (1995). <a rel="nofollow" class="external text" href="http://www.crea.hautesavoie.net/doc/Delestrade&amp;Stoyanov1995_BirdStudy42.pdf">"Breeding biology and survival of the Alpine Chough <i>Pyrrhocorax graculus</i>"</a> (PDF). <i>Bird Study</i> <b>42</b> (3): 222–231. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1080%2F00063659509477171">10.1080/00063659509477171</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.crea.hautesavoie.net/doc/Delestrade&amp;Stoyanov1995_BirdStudy42.pdf">http://www.crea.hautesavoie.net/doc/Delestrade&amp;Stoyanov1995_BirdStudy42.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Breeding+biology+and+survival+of+the+Alpine+Chough+%27%27Pyrrhocorax+graculus%27%27&amp;rft.jtitle=Bird+Study&amp;rft.aulast=Delestrade&amp;rft.aufirst=Anne&amp;rft.au=Delestrade%2C%26%2332%3BAnne&amp;rft.date=1995&amp;rft.volume=42&amp;rft.issue=3&amp;rft.pages=222%26ndash%3B231&amp;rft_id=info:doi/10.1080%2F00063659509477171&amp;rft_id=http%3A%2F%2Fwww.crea.hautesavoie.net%2Fdoc%2FDelestrade%26Stoyanov1995_BirdStudy42.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Harrison-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harrison_28-0">^</a></b></span> <span class="reference-text"><span class="citation book">Harrison, Colin James Oliver (1975). <i>A field guide to the nests, eggs and nestlings of European birds: with North Africa and the Middle East</i>. Collins. p.&#160;316. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-00-219249-7" title="Special:BookSources/0-00-219249-7">0-00-219249-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+field+guide+to+the+nests%2C+eggs+and+nestlings+of+European+birds%3A+with+North+Africa+and+the+Middle+East&amp;rft.aulast=Harrison&amp;rft.aufirst=Colin+James+Oliver&amp;rft.au=Harrison%2C%26%2332%3BColin+James+Oliver&amp;rft.date=1975&amp;rft.pages=p.%26nbsp%3B316&amp;rft.pub=Collins&amp;rft.isbn=0-00-219249-7&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-agd-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-agd_29-0">^</a></b></span> <span class="reference-text"><span class="citation book">Starck, J Matthias; Ricklefs, Robert E. (1948). <a rel="nofollow" class="external text" href="http://sci.bio.lmu.de/morpho/downloads/agd1.pdf"><i>Avian growth and development. Evolution within the altricial precocial spectrum.</i></a>. New York: Oxford University Press. p.&#160;7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-510608-3" title="Special:BookSources/0-19-510608-3">0-19-510608-3</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://sci.bio.lmu.de/morpho/downloads/agd1.pdf">http://sci.bio.lmu.de/morpho/downloads/agd1.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Avian+growth+and+development.+Evolution+within+the+altricial+precocial+spectrum.&amp;rft.aulast=Starck%2C+J+Matthias%3B+Ricklefs%2C+Robert+E.&amp;rft.au=Starck%2C+J+Matthias%3B+Ricklefs%2C+Robert+E.&amp;rft.date=1948&amp;rft.pages=p.%26nbsp%3B7&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-510608-3&amp;rft_id=http%3A%2F%2Fsci.bio.lmu.de%2Fmorpho%2Fdownloads%2Fagd1.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation Journal">Rahn, H.; Ar, A. (1974). "The avian egg: incubation time and water loss". <i>The Condor</i> <b>76</b> (2): 147– 152. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F1366724">10.2307/1366724</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/1366724">1366724</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+avian+egg%3A+incubation+time+and+water+loss&amp;rft.jtitle=The+Condor&amp;rft.aulast=Rahn&amp;rft.aufirst=H.&amp;rft.au=Rahn%2C%26%2332%3BH.&amp;rft.date=1974&amp;rft.volume=76&amp;rft.issue=2&amp;rft.pages=147%26ndash%3B+152&amp;rft_id=info:doi/10.2307%2F1366724&amp;rft.jstor=1366724&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation Journal">Black, Craig Patrick; Snyder, Gregory K (1980). "Oxygen transport in the avian egg at high altitude". <i>American Zoologist</i> <b>20</b> (2): 461–468. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1093%2Ficb%2F20.2.461">10.1093/icb/20.2.461</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Oxygen+transport+in+the+avian+egg+at+high+altitude&amp;rft.jtitle=American+Zoologist&amp;rft.aulast=Black&amp;rft.aufirst=Craig+Patrick&amp;rft.au=Black%2C%26%2332%3BCraig+Patrick&amp;rft.date=1980&amp;rft.volume=20&amp;rft.issue=2&amp;rft.pages=461%26ndash%3B468&amp;rft_id=info:doi/10.1093%2Ficb%2F20.2.461&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Blanco5-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Blanco5_32-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Blanco, Guillermo; Fargallo, Juan A.; Tella, José Luis; Cuevas; Jesús A. (February–March 1997). "Role of buildings as nest-sites in the range expansion and conservation of choughs <i>Pyrrhocorax pyrrhocorax</i> in Spain". <i>Biological Conservation</i> <b>79</b> (2–3): 117–122. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2FS0006-3207%2896%2900118-8">10.1016/S0006-3207(96)00118-8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Role+of+buildings+as+nest-sites+in+the+range+expansion+and+conservation+of+choughs+%27%27Pyrrhocorax+pyrrhocorax%27%27+in+Spain&amp;rft.jtitle=Biological+Conservation&amp;rft.aulast=Blanco&amp;rft.aufirst=Guillermo&amp;rft.au=Blanco%2C%26%2332%3BGuillermo&amp;rft.date=February%E2%80%93March+1997&amp;rft.volume=79&amp;rft.issue=2%26ndash%3B3&amp;rft.pages=117%26ndash%3B122&amp;rft_id=info:doi/10.1016%2FS0006-3207%2896%2900118-8&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-LaioloCarisio-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-LaioloCarisio_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LaioloCarisio_33-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-LaioloCarisio_33-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Laiolo, Paola; Rolando, Antonio.; Carisio, Lorendana. <a rel="nofollow" class="external text" href="http://www.mountainecology.org/IBEX6/pdf/LAIOLO.pdf">"Winter movements of the Alpine Chough: implications for management in the Alps"</a> (PDF). <i>Journal of Mountain Ecology</i> <b>6</b>: 21–30<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.mountainecology.org/IBEX6/pdf/LAIOLO.pdf">http://www.mountainecology.org/IBEX6/pdf/LAIOLO.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Winter+movements+of+the+Alpine+Chough%3A+implications+for+management+in+the+Alps&amp;rft.jtitle=Journal+of+Mountain+Ecology&amp;rft.aulast=Laiolo&amp;rft.aufirst=Paola&amp;rft.au=Laiolo%2C%26%2332%3BPaola&amp;rft.volume=6&amp;rft.pages=21%26ndash%3B30&amp;rft_id=http%3A%2F%2Fwww.mountainecology.org%2FIBEX6%2Fpdf%2FLAIOLO.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BCbirds-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-BCbirds_34-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">McKibbin, René; Bishop, Christine A. (2008). <a rel="nofollow" class="external text" href="http://www.bcfo.ca/publications/bcbirds-articles/vol_18/McKibbin_Bishop2_2008.pdf">"Feeding observations of the western Yellow-breasted Chat in the south Okanagan valley British Columbia, Canada during a seven-year study period"</a> (PDF). <i>British Columbia Birds</i> <b>18</b>: 24–25<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bcfo.ca/publications/bcbirds-articles/vol_18/McKibbin_Bishop2_2008.pdf">http://www.bcfo.ca/publications/bcbirds-articles/vol_18/McKibbin_Bishop2_2008.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Feeding+observations+of+the+western+Yellow-breasted+Chat+in+the+south+Okanagan+valley+British+Columbia%2C+Canada+during+a+seven-year+study+period&amp;rft.jtitle=British+Columbia+Birds&amp;rft.aulast=McKibbin&amp;rft.aufirst=Ren%C3%A9&amp;rft.au=McKibbin%2C%26%2332%3BRen%C3%A9&amp;rft.date=2008&amp;rft.volume=18&amp;rft.pages=24%26ndash%3B25&amp;rft_id=http%3A%2F%2Fwww.bcfo.ca%2Fpublications%2Fbcbirds-articles%2Fvol_18%2FMcKibbin_Bishop2_2008.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Delestrade-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Delestrade_35-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Delestrade, Anne (1994). <a rel="nofollow" class="external text" href="http://www.crea.hautesavoie.net/doc/Delestrade1994_Ibis136.pdf">"Factors affecting flock size in the Alpine Chough <i>Pyrrhocomx graculus</i>"</a> (PDF). <i>Ibis</i> <b>136</b>: 91–96. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.1994.tb08135.x">10.1111/j.1474-919X.1994.tb08135.x</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.crea.hautesavoie.net/doc/Delestrade1994_Ibis136.pdf">http://www.crea.hautesavoie.net/doc/Delestrade1994_Ibis136.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Factors+affecting+flock+size+in+the+Alpine+Chough+%27%27Pyrrhocomx+graculus%27%27&amp;rft.jtitle=Ibis&amp;rft.aulast=Delestrade&amp;rft.aufirst=Anne&amp;rft.au=Delestrade%2C%26%2332%3BAnne&amp;rft.date=1994&amp;rft.volume=136&amp;rft.pages=91%26ndash%3B96&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.1994.tb08135.x&amp;rft_id=http%3A%2F%2Fwww.crea.hautesavoie.net%2Fdoc%2FDelestrade1994_Ibis136.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-wall-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-wall_36-0">^</a></b></span> <span class="reference-text"><span class="citation book">Wall, Stephen B. Vander (1990). <i>Food hoarding in animals</i>. University of Chicago Press. p.&#160;306. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-226-84735-7" title="Special:BookSources/0-226-84735-7">0-226-84735-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Food+hoarding+in+animals&amp;rft.aulast=Wall&amp;rft.aufirst=Stephen+B.+Vander&amp;rft.au=Wall%2C%26%2332%3BStephen+B.+Vander&amp;rft.date=1990&amp;rft.pages=p.%26nbsp%3B306&amp;rft.pub=University+of+Chicago+Press&amp;rft.isbn=0-226-84735-7&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation Journal">Laiolo, Paola (2003). <a rel="nofollow" class="external text" href="http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=15605736">"Ecological and behavioural divergence by foraging Red-billed <i>Pyrrhocorax pyrrhocorax</i> and Alpine Choughs <i>P. graculus</i> in the Himalayas"</a>. <i>Ardea</i> <b>91</b> (2): 273–277<span class="printonly">. <a rel="nofollow" class="external free" href="http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=15605736">http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=15605736</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ecological+and+behavioural+divergence+by+foraging+Red-billed+%27%27Pyrrhocorax+pyrrhocorax%27%27+and+Alpine+Choughs+%27%27P.+graculus%27%27+in+the+Himalayas&amp;rft.jtitle=Ardea&amp;rft.aulast=Laiolo%2C+Paola&amp;rft.au=Laiolo%2C+Paola&amp;rft.date=2003&amp;rft.volume=91&amp;rft.issue=2&amp;rft.pages=273%26ndash%3B277&amp;rft_id=http%3A%2F%2Fcat.inist.fr%2F%3FaModele%3DafficheN%26cpsidt%3D15605736&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span> (abstract)</span></li>
+<li id="cite_note-birdwatchireland-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-birdwatchireland_38-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.birdwatchireland.ie/Default.aspx?tabid=206">"A year in the life of Choughs"</a>. Birdwatch Ireland<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdwatchireland.ie/Default.aspx?tabid=206">http://www.birdwatchireland.ie/Default.aspx?tabid=206</a></span><span class="reference-accessdate">. Retrieved 6 February 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=A+year+in+the+life+of+Choughs&amp;rft.atitle=&amp;rft.pub=Birdwatch+Ireland&amp;rft_id=http%3A%2F%2Fwww.birdwatchireland.ie%2FDefault.aspx%3Ftabid%3D206&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-OperationChough-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-OperationChough_39-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.paradisepark.org.uk/choughs/2003/updatedec03.pdf">"Release Update December 2003"</a> (PDF). Operation Chough<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.paradisepark.org.uk/choughs/2003/updatedec03.pdf">http://www.paradisepark.org.uk/choughs/2003/updatedec03.pdf</a></span><span class="reference-accessdate">. Retrieved 6 February 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Release+Update+December+2003&amp;rft.atitle=&amp;rft.pub=Operation+Chough&amp;rft_id=http%3A%2F%2Fwww.paradisepark.org.uk%2Fchoughs%2F2003%2Fupdatedec03.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Rolando-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rolando_40-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Rolando, Antonio; Caldoni, Riccardo; De Sanctis, Augusto; Laiolo, Paola (2001). "Vigilance and neighbour distance in foraging flocks of red-billed choughs, <i>Pyrrhocorax pyrrhocorax</i>". <i>Journal of Zoology</i> <b>253</b> (2): 225–232. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1017%2FS095283690100019X">10.1017/S095283690100019X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Vigilance+and+neighbour+distance+in+foraging+flocks+of+red-billed+choughs%2C+%27%27Pyrrhocorax+pyrrhocorax%27%27&amp;rft.jtitle=Journal+of+Zoology&amp;rft.aulast=Rolando&amp;rft.aufirst=Antonio&amp;rft.au=Rolando%2C%26%2332%3BAntonio&amp;rft.date=2001&amp;rft.volume=253&amp;rft.issue=2&amp;rft.pages=225%26ndash%3B232&amp;rft_id=info:doi/10.1017%2FS095283690100019X&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Blanco-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-Blanco_41-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Blanco, Guillermo; Tella, José Luis (August 1997). "Protective association and breeding advantages of choughs nesting in lesser kestrel colonies". <i>Animal Behaviour</i> <b>54</b> (2): 335–342. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1006%2Fanbe.1996.0465">10.1006/anbe.1996.0465</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9268465">9268465</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Protective+association+and+breeding+advantages+of+choughs+nesting+in+lesser+kestrel+colonies&amp;rft.jtitle=Animal+Behaviour&amp;rft.aulast=Blanco&amp;rft.aufirst=Guillermo&amp;rft.au=Blanco%2C%26%2332%3BGuillermo&amp;rft.date=August+1997&amp;rft.volume=54&amp;rft.issue=2&amp;rft.pages=335%26ndash%3B342&amp;rft_id=info:doi/10.1006%2Fanbe.1996.0465&amp;rft_id=info:pmid/9268465&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation Journal">Blumstein, Daniel T.; Foggin, J. Marc (March 1993). <a rel="nofollow" class="external text" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.cons-dev.org%2Fmarm%2FMARM%2FBIBMAR%2FBibpdfBz%2F1009.pdf">"Playing with fire? alpine choughs play with a Tibetan red fox"</a> (PDF). <i>Journal, Bombay Natural History Society</i> <b>90</b>: 513–515<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.cons-dev.org%2Fmarm%2FMARM%2FBIBMAR%2FBibpdfBz%2F1009.pdf">http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.cons-dev.org%2Fmarm%2FMARM%2FBIBMAR%2FBibpdfBz%2F1009.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Playing+with+fire%3F+alpine+choughs+play+with+a+Tibetan+red+fox&amp;rft.jtitle=Journal%2C+Bombay+Natural+History+Society&amp;rft.aulast=Blumstein&amp;rft.aufirst=Daniel+T.&amp;rft.au=Blumstein%2C%26%2332%3BDaniel+T.&amp;rft.date=March+1993&amp;rft.volume=90&amp;rft.pages=513%26ndash%3B515&amp;rft_id=http%3A%2F%2Fwww.pdfdownload.org%2Fpdf2html%2Fview_online.php%3Furl%3Dhttp%253A%252F%252Fwww.cons-dev.org%252Fmarm%252FMARM%252FBIBMAR%252FBibpdfBz%252F1009.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Miriam_Rothschild" title="Miriam Rothschild">Rothschild, Miriam</a>; Clay, Theresa (1953). <a rel="nofollow" class="external text" href="http://ia331318.us.archive.org/1/items/fleasflukescucko017900mbp/fleasflukescucko017900mbp.pdf"><i>Fleas, flukes and cuckoos. A study of bird parasites.</i></a>. London: Collins. pp.&#160;89, 95<span class="printonly">. <a rel="nofollow" class="external free" href="http://ia331318.us.archive.org/1/items/fleasflukescucko017900mbp/fleasflukescucko017900mbp.pdf">http://ia331318.us.archive.org/1/items/fleasflukescucko017900mbp/fleasflukescucko017900mbp.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fleas%2C+flukes+and+cuckoos.+A+study+of+bird+parasites.&amp;rft.aulast=%5B%5BMiriam+Rothschild%7CRothschild%2C+Miriam%5D%5D%3B+Clay%2C+Theresa&amp;rft.au=%5B%5BMiriam+Rothschild%7CRothschild%2C+Miriam%5D%5D%3B+Clay%2C+Theresa&amp;rft.date=1953&amp;rft.pages=pp.%26nbsp%3B89%2C+95&amp;rft.place=London&amp;rft.pub=Collins&amp;rft_id=http%3A%2F%2Fia331318.us.archive.org%2F1%2Fitems%2Ffleasflukescucko017900mbp%2Ffleasflukescucko017900mbp.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text">(Russian) <span class="citation Journal">Georgiev B. B.; Kornyushin, VV.; Genov, T. (1987). "<i>Choanotaenia pirinica</i> sp. n. (Cestoda, Dilepididae), a parasite of <i>Pyrrhocorax graculus</i> in Bulgaria". <i>Vestnik Zoologii</i> <b>3</b>: 3–7.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%27%27Choanotaenia+pirinica%27%27+sp.+n.+%28Cestoda%2C+Dilepididae%29%2C+a+parasite+of+%27%27Pyrrhocorax+graculus%27%27+in+Bulgaria&amp;rft.jtitle=Vestnik+Zoologii&amp;rft.aulast=Georgiev+B.+B.&amp;rft.au=Georgiev+B.+B.&amp;rft.date=1987&amp;rft.volume=3&amp;rft.pages=3%26ndash%3B7&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><span class="citation Journal">Kellogg, V. L.; Paine, J. H. (1914). "Mallophaga from birds (mostly Corvidae and Phasianidae) of India and neighbouring countries". <i>Records of the Indian Museum</i> <b>10</b>: 217–243.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mallophaga+from+birds+%28mostly+Corvidae+and+Phasianidae%29+of+India+and+neighbouring+countries&amp;rft.jtitle=Records+of+the+Indian+Museum&amp;rft.aulast=Kellogg%2C+V.+L.&amp;rft.au=Kellogg%2C+V.+L.&amp;rft.date=1914&amp;rft.volume=10&amp;rft.pages=217%26ndash%3B243&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">(French) <span class="citation Journal">Delestrade, A. (1993). "Status, distribution and abundance of the Alpine Chough <i>Pyrrhocorax graculus</i> in Corsica, Mediterranean France". <i>Alauda</i> <b>61</b> (1): 9–17.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Status%2C+distribution+and+abundance+of+the+Alpine+Chough+%27%27Pyrrhocorax+graculus%27%27+in+Corsica%2C+Mediterranean+France&amp;rft.jtitle=Alauda&amp;rft.aulast=Delestrade%2C+A.&amp;rft.au=Delestrade%2C+A.&amp;rft.date=1993&amp;rft.volume=61&amp;rft.issue=1&amp;rft.pages=9%26ndash%3B17&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-yalden-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-yalden_47-0">^</a></b></span> <span class="reference-text"><span class="citation book">Yalden, Derek; Albarella, Umberto (2009). <i>The history of British birds</i>. Oxford University Press. pp.&#160;44–46. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-921751-3" title="Special:BookSources/0-19-921751-3">0-19-921751-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+history+of+British+birds&amp;rft.aulast=Yalden&amp;rft.aufirst=Derek&amp;rft.au=Yalden%2C%26%2332%3BDerek&amp;rft.date=2009&amp;rft.pages=pp.%26nbsp%3B44%26ndash%3B46&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-921751-3&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-tomek-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-tomek_48-0">^</a></b></span> <span class="reference-text">Tomek, Teresa; Bocheński, Zygmunt (2005) "<a rel="nofollow" class="external text" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.isez.pan.krakow.pl%2Fjournals%2Fazc_v%2Fpdf%2F48A%281-2%29%2F05.pdf">Weichselian and Holocene bird remains from Komarowa Cave, Central Poland.</a>" <i>Acta zoologica cracoviensia</i> <b>48A</b>(1–2) 43–65 (PDF)</span></li>
+<li id="cite_note-Stoyanov-49"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stoyanov_49-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stoyanov_49-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Stoyanov, Georgi P.; Ivanova, Teodora; Petrov, Boyan P.; Gueorguieva, Antoaneta (2008). "Past and present breeding distribution of the alpine chough (<i>Pyrrhocorax graculus</i>) in western Stara Planina and western Predbalkan Mts. (Bulgaria)". <i>Acta Zoologica Bulgarica</i> <b>Suppl. 2</b>: 119–132.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Past+and+present+breeding+distribution+of+the+alpine+chough+%28%27%27Pyrrhocorax+graculus%27%27%29+in+western+Stara+Planina+and+western+Predbalkan+Mts.+%28Bulgaria%29&amp;rft.jtitle=Acta+Zoologica+Bulgarica&amp;rft.aulast=Stoyanov&amp;rft.aufirst=Georgi+P.&amp;rft.au=Stoyanov%2C%26%2332%3BGeorgi+P.&amp;rft.date=2008&amp;rft.volume=Suppl.+2&amp;rft.pages=119%26ndash%3B132&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-rolandopatterson-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-rolandopatterson_50-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Rolando, Antonio; Patterson, Ian James (July 1993). "Range and movements of the Alpine Chough <i>Pyrrhocorax graculus</i> in relation to human developments in the Italian Alps in summer". <i>Journal of Ornithology</i> <b>134</b> (3): 338–344. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2FBF01640430">10.1007/BF01640430</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Range+and+movements+of+the+Alpine+Chough+%27%27Pyrrhocorax+graculus%27%27+in+relation+to+human+developments+in+the+Italian+Alps+in+summer&amp;rft.jtitle=Journal+of+Ornithology&amp;rft.aulast=Rolando&amp;rft.aufirst=Antonio&amp;rft.au=Rolando%2C%26%2332%3BAntonio&amp;rft.date=July+1993&amp;rft.volume=134&amp;rft.issue=3&amp;rft.pages=338%26ndash%3B344&amp;rft_id=info:doi/10.1007%2FBF01640430&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-pain-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-pain_51-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Pain, Debbie; Dunn, Euan (1996). <a rel="nofollow" class="external text" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2F64.106.42.23%2Fsora%2FIWSGB%2Fv081%2Fp00059-p00065.pdf">"The effects of agricultural intensification upon pastoral birds: lowland wet grasslands (The Netherlands) and transhumance (Spain)"</a> (PDF). <i>Wader Study Group Bulletin</i> <b>81</b>: 59– 65<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2F64.106.42.23%2Fsora%2FIWSGB%2Fv081%2Fp00059-p00065.pdf">http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2F64.106.42.23%2Fsora%2FIWSGB%2Fv081%2Fp00059-p00065.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+effects+of+agricultural+intensification+upon+pastoral+birds%3A+lowland+wet+grasslands+%28The+Netherlands%29+and+transhumance+%28Spain%29&amp;rft.jtitle=Wader+Study+Group+Bulletin&amp;rft.aulast=Pain&amp;rft.aufirst=Debbie&amp;rft.au=Pain%2C%26%2332%3BDebbie&amp;rft.date=1996&amp;rft.volume=81&amp;rft.pages=59%26ndash%3B+65&amp;rft_id=http%3A%2F%2Fwww.pdfdownload.org%2Fpdf2html%2Fview_online.php%3Furl%3Dhttp%253A%252F%252F64.106.42.23%252Fsora%252FIWSGB%252Fv081%252Fp00059-p00065.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Sekercioglu-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sekercioglu_52-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sekercioglu, Cagan H; Schneider, Stephen H.; Fay, John P. Loarie; Scott R. (2008). <a rel="nofollow" class="external text" href="http://ecologia.icb.ufmg.br/~rpcoelho/comunidades/Artigos_2008/ecs08_26.pdf">"Climate change, elevational range shifts, and bird extinctions"</a> (PDF). <i>Conservation Biology</i> <b>22</b> (1): 140–150. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1523-1739.2007.00852.x">10.1111/j.1523-1739.2007.00852.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18254859">18254859</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://ecologia.icb.ufmg.br/~rpcoelho/comunidades/Artigos_2008/ecs08_26.pdf">http://ecologia.icb.ufmg.br/~rpcoelho/comunidades/Artigos_2008/ecs08_26.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Climate+change%2C+elevational+range+shifts%2C+and+bird+extinctions&amp;rft.jtitle=Conservation+Biology&amp;rft.aulast=Sekercioglu&amp;rft.aufirst=Cagan+H&amp;rft.au=Sekercioglu%2C%26%2332%3BCagan+H&amp;rft.date=2008&amp;rft.volume=22&amp;rft.issue=1&amp;rft.pages=140%26ndash%3B150&amp;rft_id=info:doi/10.1111%2Fj.1523-1739.2007.00852.x&amp;rft_id=info:pmid/18254859&amp;rft_id=http%3A%2F%2Fecologia.icb.ufmg.br%2F%7Erpcoelho%2Fcomunidades%2FArtigos_2008%2Fecs08_26.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-rando-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-rando_53-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Reyes, Juan Carlos Rando (2007). "New fossil records of choughs genus <i>Pyrrhocorax</i> in the Canary Islands: hypotheses to explain its extinction and current narrow distribution". <i>Ardeola</i> <b>54</b> (2): 185–195.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=New+fossil+records+of+choughs+genus+%27%27Pyrrhocorax%27%27+in+the+Canary+Islands%3A+hypotheses+to+explain+its+extinction+and+current+narrow+distribution&amp;rft.jtitle=Ardeola&amp;rft.aulast=Reyes&amp;rft.aufirst=Juan+Carlos+Rando&amp;rft.au=Reyes%2C%26%2332%3BJuan+Carlos+Rando&amp;rft.date=2007&amp;rft.volume=54&amp;rft.issue=2&amp;rft.pages=185%26ndash%3B195&amp;rfr_id=info:sid/en.wikipedia.org:Alpine_Chough"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Alpine_Chough&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Pyrrhocorax_graculus" class="extiw" title="commons:Pyrrhocorax graculus">Pyrrhocorax graculus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/yellow-billed-chough-pyrrhocorax-graculus">Alpine Chough videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Corvidae" title="Template:Corvidae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Corvidae" title="Template talk:Corvidae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Corvidae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;">Extant species of family <a href="/wiki/Corvidae" title="Corvidae">Corvidae</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" style=";" colspan="2">
+<div>
+<ul>
+<li>Kingdom: <a href="/wiki/Animalia" title="Animalia" class="mw-redirect">Animalia</a></li>
+<li>Phylum: <a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></li>
+<li>Class: <a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></li>
+<li>Subclass: <a href="/wiki/Neornithes" title="Neornithes" class="mw-redirect">Neornithes</a></li>
+<li>Superorder: <a href="/wiki/Neognathae" title="Neognathae">Neognathae</a></li>
+<li>Order: <a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;">Family <a href="/wiki/Corvidae" title="Corvidae">Corvidae</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Choughs</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Chough" title="Chough">Pyrrhocorax</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Alpine Chough (<i>P. graculus</i>)</strong></li>
+<li><a href="/wiki/Red-billed_Chough" title="Red-billed Chough">Red-billed Chough (<i>P. pyrrhocorax</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;"><a href="/wiki/Treepie" title="Treepie">Treepies</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Crypsirina" title="Crypsirina">Crypsirina</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hooded_Treepie" title="Hooded Treepie">Hooded Treepie (<i>C. cucullata</i>)</a></li>
+<li><a href="/wiki/Black_Racket-tailed_Treepie" title="Black Racket-tailed Treepie" class="mw-redirect">Black Racket-tailed Treepie (<i>C. temia</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Dendrocitta" title="Dendrocitta">Dendrocitta</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andaman_Treepie" title="Andaman Treepie">Andaman Treepie (<i>D. bayleyi</i>)</a></li>
+<li><a href="/wiki/Bornean_Treepie" title="Bornean Treepie">Bornean Treepie (<i>D. cinerascens</i>)</a></li>
+<li><a href="/wiki/Grey_Treepie" title="Grey Treepie">Grey Treepie (<i>D. formosae</i>)</a></li>
+<li><a href="/wiki/Black-faced_Treepie" title="Black-faced Treepie" class="mw-redirect">Black-faced Treepie (<i>D. frontalis</i>)</a></li>
+<li><a href="/wiki/White-bellied_Treepie" title="White-bellied Treepie">White-bellied Treepie (<i>D. leucogastra</i>)</a></li>
+<li><a href="/wiki/Sunda_Treepie" title="Sunda Treepie" class="mw-redirect">Sunda Treepie (<i>D. occipitalis</i>)</a></li>
+<li><a href="/wiki/Rufous_Treepie" title="Rufous Treepie">Rufous Treepie (<i>D. vagabunda</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Platysmurus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_Magpie" title="Black Magpie">Black Magpie (<i>P. leucopterus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Temnurus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ratchet-tailed_Treepie" title="Ratchet-tailed Treepie">Ratchet-tailed Treepie (<i>T. temnurus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Oriental<br />
+<a href="/wiki/Magpie" title="Magpie">magpies</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Cissa_(genus)" title="Cissa (genus)">Cissa</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Green_Magpie" title="Green Magpie" class="mw-redirect">Green Magpie (<i>C. chinensis</i>)</a></li>
+<li><a href="/wiki/Yellow-breasted_Magpie" title="Yellow-breasted Magpie" class="mw-redirect">Yellow-breasted Magpie (<i>C. hypoleuca</i>)</a></li>
+<li><a href="/wiki/Short-tailed_Magpie" title="Short-tailed Magpie" class="mw-redirect">Short-tailed Magpie (<i>C. thalassina</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Urocissa" title="Urocissa">Urocissa</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Formosan_Blue_Magpie" title="Formosan Blue Magpie" class="mw-redirect">Formosan Blue Magpie (<i>U. caerulea</i>)</a></li>
+<li><a href="/wiki/Red-billed_Blue_Magpie" title="Red-billed Blue Magpie">Red-billed Blue Magpie (<i>U. erythrorhyncha</i>)</a></li>
+<li><a href="/wiki/Yellow-billed_Blue_Magpie" title="Yellow-billed Blue Magpie">Yellow-billed Blue Magpie (<i>U. flavirostris</i>)</a></li>
+<li><a href="/wiki/Sri_Lanka_Blue_Magpie" title="Sri Lanka Blue Magpie">Sri Lanka Blue Magpie (<i>U. ornata</i>)</a></li>
+<li><a href="/wiki/White-winged_Magpie" title="White-winged Magpie">White-winged Magpie (<i>U. whiteheadi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Old World <a href="/wiki/Jay" title="Jay">jays</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Garrulus" title="Garrulus">Garrulus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eurasian_Jay" title="Eurasian Jay">Eurasian Jay (<i>G. glandarius</i>)</a></li>
+<li><a href="/wiki/Lanceolated_Jay" title="Lanceolated Jay" class="mw-redirect">Lanceolated Jay (<i>G. lanceolatus</i>)</a></li>
+<li><a href="/wiki/Lidth%27s_Jay" title="Lidth's Jay">Lidth's Jay (<i>G. lidthi</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Ground_jay" title="Ground jay">Podoces</a></i><br />
+<span style="font-size:85%; color:#696969; font-weight:normal">(Ground jays)</span></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Xinjiang_Ground-jay" title="Xinjiang Ground-jay" class="mw-redirect">Biddulph's Ground Jay (<i>P. biddulphi</i>)</a></li>
+<li><a href="/wiki/Mongolian_Ground-jay" title="Mongolian Ground-jay" class="mw-redirect">Henderson's Ground Jay (<i>P. hendersoni</i>)</a></li>
+<li><a href="/wiki/Pander%27s_Ground_Jay" title="Pander's Ground Jay">Pander's Ground Jay (<i>P. panderi</i>)</a></li>
+<li><a href="/wiki/Persian_Ground-jay" title="Persian Ground-jay" class="mw-redirect">Persian Ground Jay (<i>P. pleskei</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Ptilostomus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Piapiac" title="Piapiac">Piapiac (<i>P. afer</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Stresemann's<br />
+Bushcrow</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Zavattariornis</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stresemann%27s_Bushcrow" title="Stresemann's Bushcrow">Stresemann's Bushcrow (<i>Z. stresemanni</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;">Family <a href="/wiki/Corvidae" title="Corvidae">Corvidae</a> <span style="font-weight:normal;">(Cont.)</span></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;"><a href="/wiki/Nutcracker_(bird)" title="Nutcracker (bird)">Nutcrackers</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Nutcracker_(bird)" title="Nutcracker (bird)">Nucifraga</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spotted_Nutcracker" title="Spotted Nutcracker">Spotted Nutcracker (<i>N. caryocatactes</i>)</a></li>
+<li><a href="/wiki/Clark%27s_Nutcracker" title="Clark's Nutcracker">Clark's Nutcracker (<i>N. columbiana</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Holarctic<br />
+<a href="/wiki/Magpie" title="Magpie">magpies</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Pica_(genus)" title="Pica (genus)">Pica</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-billed_Magpie" title="Black-billed Magpie">Black-billed Magpie (<i>P. hudsonia</i>)</a></li>
+<li><a href="/wiki/Yellow-billed_Magpie" title="Yellow-billed Magpie">Yellow-billed Magpie (<i>P. nuttalli</i>)</a></li>
+<li><a href="/wiki/European_Magpie" title="European Magpie" class="mw-redirect">European Magpie (<i>P. pica</i>)</a></li>
+<li><a href="/wiki/Korean_Magpie" title="Korean Magpie">Korean Magpie (<i>P. sericea</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;"><a href="/wiki/True_Crow" title="True Crow" class="mw-redirect">True crows</a><br />
+<span style="font-size:85%; color:#696969; font-weight:normal">(<a href="/wiki/Crow" title="Crow">crows</a>, <a href="/wiki/Raven" title="Raven">ravens</a>,<br />
+<a href="/wiki/Jackdaw" title="Jackdaw" class="mw-redirect">jackdaws</a> and <a href="/wiki/Rook_(bird)" title="Rook (bird)">rooks</a>)</span></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Corvus_(genus)" title="Corvus (genus)" class="mw-redirect">Corvus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;"><u><i>Australian</i> and <i>Melanesian</i> species</u></span></dt>
+<dd><a href="/wiki/Little_Crow_(bird)" title="Little Crow (bird)">Little Crow (<i>C. bennetti</i>)</a></dd>
+<dd><a href="/wiki/Australian_Raven" title="Australian Raven">Australian Raven (<i>C. coronoides</i>)</a></dd>
+<dd><a href="/wiki/Bismarck_Crow" title="Bismarck Crow">Bismarck Crow (<i>C. insularis</i>)</a></dd>
+<dd><a href="/wiki/Brown-headed_Crow" title="Brown-headed Crow">Brown-headed Crow (<i>C. fuscicapillus</i>)</a></dd>
+<dd><a href="/wiki/Bougainville_Crow" title="Bougainville Crow">Bougainville Crow (<i>C. meeki</i>)</a></dd>
+<dd><a href="/wiki/Little_Raven" title="Little Raven">Little Raven (<i>C. mellori</i>)</a></dd>
+<dd><a href="/wiki/New_Caledonian_Crow" title="New Caledonian Crow">New Caledonian Crow (<i>C. moneduloides</i>)</a></dd>
+<dd><a href="/wiki/Torresian_Crow" title="Torresian Crow">Torresian Crow (<i>C. orru</i>)</a></dd>
+<dd><a href="/wiki/Forest_Raven" title="Forest Raven">Forest Raven (<i>C. tasmanicus</i>)</a></dd>
+<dd><a href="/wiki/Grey_Crow" title="Grey Crow">Grey Crow (<i>C. tristis</i>)</a></dd>
+<dd><a href="/wiki/Long-billed_Crow" title="Long-billed Crow">Long-billed Crow (<i>C. validus</i>)</a></dd>
+<dd><a href="/wiki/White-billed_Crow" title="White-billed Crow">White-billed Crow (<i>C. woodfordi</i>)</a></dd>
+</dl>
+<dl>
+<dt><span style="font-weight:normal;"><u><i>Pacific island</i> species</u></span></dt>
+<dd><a href="/wiki/Hawaiian_Crow" title="Hawaiian Crow">Hawaiian Crow (<i>C. hawaiiensis</i>)</a></dd>
+<dd><a href="/wiki/Mariana_Crow" title="Mariana Crow">Mariana Crow (<i>C. kubaryi</i>)</a></dd>
+</dl>
+<dl>
+<dt><span style="font-weight:normal;"><u><i>Tropical Asian</i> species</u></span></dt>
+<dd><a href="/wiki/Daurian_Jackdaw" title="Daurian Jackdaw">Daurian Jackdaw (<i>C. dauuricus</i>)</a></dd>
+<dd><a href="/wiki/Slender-billed_Crow" title="Slender-billed Crow">Slender-billed Crow (<i>C. enca</i>)</a></dd>
+<dd><a href="/wiki/Flores_Crow" title="Flores Crow">Flores Crow (<i>C. florensis</i>)</a></dd>
+<dd><a href="/wiki/Jungle_Crow" title="Jungle Crow">Jungle Crow (<i>C. macrorhynchos</i>)</a></dd>
+<dd><a href="/wiki/House_Crow" title="House Crow">House Crow (<i>C. splendens</i>)</a></dd>
+<dd><a href="/wiki/Collared_Crow" title="Collared Crow">Collared Crow (<i>C. torquatus</i>)</a></dd>
+<dd><a href="/wiki/Piping_Crow" title="Piping Crow">Piping Crow (<i>C. typicus</i>)</a></dd>
+<dd><a href="/wiki/Banggai_Crow" title="Banggai Crow">Banggai Crow (<i>C. unicolor</i>)</a></dd>
+</dl>
+<dl>
+<dt><span style="font-weight:normal;"><u><i>Eurasian</i> and <i>North African</i> species</u></span></dt>
+<dd><a href="/wiki/Mesopotamian_Crow" title="Mesopotamian Crow">Mesopotamian Crow (<i>C. capellanus</i>)</a></dd>
+<dd><a href="/wiki/Hooded_Crow" title="Hooded Crow">Hooded Crow (<i>C. cornix</i>)</a></dd>
+<dd><a href="/wiki/Carrion_Crow" title="Carrion Crow">Carrion Crow (<i>C. corone</i>)</a></dd>
+<dd><a href="/wiki/Rook_(bird)" title="Rook (bird)">Rook (<i>C. frugilegus</i>)</a></dd>
+<dd><a href="/wiki/Jackdaw" title="Jackdaw" class="mw-redirect">Jackdaw (<i>C. monedula</i> )</a></dd>
+<dd><a href="/wiki/Eastern_Carrion_Crow" title="Eastern Carrion Crow">Eastern Carrion Crow (<i>C. orientalis</i>)</a></dd>
+<dd><a href="/wiki/Fan-tailed_Raven" title="Fan-tailed Raven">Fan-tailed Raven (<i>C. rhipidurus</i>)</a></dd>
+<dd><a href="/wiki/Brown-necked_Raven" title="Brown-necked Raven">Brown-necked Raven (<i>C. ruficollis</i>)</a></dd>
+</dl>
+<dl>
+<dt><span style="font-weight:normal;"><u><i>Holarctic</i> species</u></span></dt>
+<dd><a href="/wiki/Common_Raven" title="Common Raven">Common Raven (<i>C. corax</i>)</a></dd>
+</dl>
+<dl>
+<dt><span style="font-weight:normal;"><u><i>North</i> and <i>Central American</i> species</u></span></dt>
+<dd><a href="/wiki/American_Crow" title="American Crow">American Crow (<i>C. brachyrhynchos</i>)</a></dd>
+<dd><a href="/wiki/Northwestern_Crow" title="Northwestern Crow">Northwestern Crow (<i>C. caurinus</i>)</a></dd>
+<dd><a href="/wiki/Chihuahuan_Raven" title="Chihuahuan Raven">Chihuahuan Raven (<i>C. cryptoleucus</i>)</a></dd>
+<dd><a href="/wiki/Tamaulipas_Crow" title="Tamaulipas Crow">Tamaulipas Crow (<i>C. imparatus</i>)</a></dd>
+<dd><a href="/wiki/Jamaican_Crow" title="Jamaican Crow">Jamaican Crow (<i>C. jamaicensis</i>)</a></dd>
+<dd><a href="/wiki/White-necked_Crow" title="White-necked Crow">White-necked Crow (<i>C. leucognaphalus</i>)</a></dd>
+<dd><a href="/wiki/Cuban_Crow" title="Cuban Crow">Cuban Crow (<i>C. nasicus</i>)</a></dd>
+<dd><a href="/wiki/Fish_Crow" title="Fish Crow">Fish Crow (<i>C. ossifragus</i>)</a></dd>
+<dd><a href="/wiki/Palm_Crow" title="Palm Crow">Palm Crow (<i>C. palmarum</i>)</a></dd>
+<dd><a href="/wiki/Sinaloa_Crow" title="Sinaloa Crow">Sinaloan Crow (<i>C. sinaloae</i>)</a></dd>
+</dl>
+<dl>
+<dt><span style="font-weight:normal;"><u><i>Tropical African</i> species</u></span></dt>
+<dd><a href="/wiki/White-necked_Raven" title="White-necked Raven">White-necked Raven (<i>C. albicollis</i>)</a></dd>
+<dd><a href="/wiki/Pied_Crow" title="Pied Crow">Pied Crow (<i>C. albus</i>)</a></dd>
+<dd><a href="/wiki/Cape_Crow" title="Cape Crow">Cape Crow (<i>C. capensis</i>)</a></dd>
+<dd><a href="/wiki/Thick-billed_Raven" title="Thick-billed Raven">Thick-billed Raven (<i>C. crassirostris</i>)</a></dd>
+<dd><a href="/wiki/Somali_Crow" title="Somali Crow">Somali Crow (<i>C. edithae</i>)</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;">Family <a href="/wiki/Corvidae" title="Corvidae">Corvidae</a> <span style="font-weight:normal;">(Cont.)</span></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Azure-winged<br />
+Magpie</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Cyanopica</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Azure-winged_Magpie" title="Azure-winged Magpie">Azure-winged Magpie (<i>C. cyana</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Grey <a href="/wiki/Jay" title="Jay">jays</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Perisoreus" title="Perisoreus">Perisoreus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gray_Jay" title="Gray Jay">Gray Jay (<i>P. canadensis</i>)</a></li>
+<li><a href="/wiki/Siberian_Jay" title="Siberian Jay">Siberian Jay (<i>P. infaustus</i>)</a></li>
+<li><a href="/wiki/Sichuan_Jay" title="Sichuan Jay">Sichuan Jay (<i>P. internigrans</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">New World <a href="/wiki/Jay" title="Jay">jays</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Aphelocoma" title="Aphelocoma">Aphelocoma</a></i><br />
+<span style="font-size:85%; color:#696969; font-weight:normal">(Scrub jays)</span></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Western_Scrub_Jay" title="Western Scrub Jay">Western Scrub Jay (<i>A. californica</i>)</a></li>
+<li><a href="/wiki/Florida_Scrub_Jay" title="Florida Scrub Jay">Florida Scrub Jay (<i>A. coerulescens</i>)</a></li>
+<li><a href="/wiki/Island_Scrub_Jay" title="Island Scrub Jay">Island Scrub Jay (<i>A. insularis</i>)</a></li>
+<li><a href="/wiki/Mexican_Jay" title="Mexican Jay">Mexican Jay (<i>A. ultramarina</i>)</a></li>
+<li><a href="/wiki/Unicolored_Jay" title="Unicolored Jay">Unicolored Jay (<i>A. unicolor</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Magpie-jays" title="Magpie-jays" class="mw-redirect">Calocitta</a></i><br />
+<span style="font-size:85%; color:#696969; font-weight:normal">(Magpie-Jays)</span></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-throated_Magpie-Jay" title="Black-throated Magpie-Jay">Black-throated Magpie-Jay (<i>C. colliei</i>)</a></li>
+<li><a href="/wiki/White-throated_Magpie-Jay" title="White-throated Magpie-Jay">White-throated Magpie-Jay (<i>C. formosa</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Cyanocitta" title="Cyanocitta">Cyanocitta</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue_Jay" title="Blue Jay">Blue Jay (<i>C. cristata</i>)</a></li>
+<li><a href="/wiki/Steller%27s_Jay" title="Steller's Jay">Steller's Jay (<i>C. stelleri</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Cyanocorax" title="Cyanocorax">Cyanocorax</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-chested_Jay" title="Black-chested Jay">Black-chested Jay (<i>C. affinis</i>)</a></li>
+<li><a href="/wiki/Purplish-backed_Jay" title="Purplish-backed Jay">Purplish-backed Jay (<i>C. beecheii</i>)</a></li>
+<li><a href="/wiki/Azure_Jay" title="Azure Jay">Azure Jay (<i>C. caeruleus</i>)</a></li>
+<li><a href="/wiki/Cayenne_Jay" title="Cayenne Jay">Cayenne Jay (<i>C. cayanus</i>)</a></li>
+<li><a href="/wiki/Plush-crested_Jay" title="Plush-crested Jay">Plush-crested Jay (<i>C. chrysops</i>)</a></li>
+<li><a href="/wiki/Curl-crested_Jay" title="Curl-crested Jay">Curl-crested Jay (<i>C. cristatellus</i>)</a></li>
+<li><a href="/wiki/Purplish_Jay" title="Purplish Jay">Purplish Jay (<i>C. cyanomelas</i>)</a></li>
+<li><a href="/wiki/White-naped_Jay" title="White-naped Jay">White-naped Jay (<i>C. cyanopogon</i>)</a></li>
+<li><a href="/wiki/Tufted_Jay" title="Tufted Jay">Tufted Jay (<i>C. dickeyi</i>)</a></li>
+<li><a href="/wiki/Azure-naped_Jay" title="Azure-naped Jay">Azure-naped Jay (<i>C. heilprini</i>)</a></li>
+<li><a href="/wiki/Bushy-crested_Jay" title="Bushy-crested Jay">Bushy-crested Jay (<i>C. melanocyaneus</i>)</a></li>
+<li><a href="/wiki/Brown_Jay" title="Brown Jay">Brown Jay (<i>C. morio</i>)</a></li>
+<li><a href="/wiki/White-tailed_Jay" title="White-tailed Jay">White-tailed Jay (<i>C. mystacalis</i>)</a></li>
+<li><a href="/wiki/San_Blas_Jay" title="San Blas Jay">San Blas Jay (<i>C. sanblasianus</i>)</a></li>
+<li><a href="/wiki/Violaceous_Jay" title="Violaceous Jay">Violaceous Jay (<i>C. violaceus</i>)</a></li>
+<li><a href="/wiki/Green_Jay" title="Green Jay">Green Jay (<i>C. ynca</i>)</a></li>
+<li><a href="/wiki/Yucatan_Jay" title="Yucatan Jay">Yucatan Jay (<i>C. yucatanicus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i><a href="/wiki/Cyanolyca" title="Cyanolyca">Cyanolyca</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Silvery-throated_Jay" title="Silvery-throated Jay">Silvery-throated Jay (<i>C. argentigula</i>)</a></li>
+<li><a href="/wiki/Black-collared_Jay" title="Black-collared Jay">Black-collared Jay (<i>C. armillata</i>)</a></li>
+<li><a href="/wiki/Azure-hooded_Jay" title="Azure-hooded Jay">Azure-hooded Jay (<i>C. cucullata</i>)</a></li>
+<li><a href="/wiki/White-throated_Jay" title="White-throated Jay">White-throated Jay (<i>C. mirabilis</i>)</a></li>
+<li><a href="/wiki/Dwarf_Jay" title="Dwarf Jay">Dwarf Jay (<i>C. nana</i>)</a></li>
+<li><a href="/wiki/Beautiful_Jay" title="Beautiful Jay">Beautiful Jay (<i>C. pulchra</i>)</a></li>
+<li><a href="/wiki/Black-throated_Jay" title="Black-throated Jay">Black-throated Jay (<i>C. pumilo</i>)</a></li>
+<li><a href="/wiki/Turquoise_Jay" title="Turquoise Jay">Turquoise Jay (<i>C. turcosa</i>)</a></li>
+<li><a href="/wiki/White-collared_Jay" title="White-collared Jay">White-collared Jay (<i>C. viridicyana</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:9em;;"><i>Gymnorhinus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pinyon_Jay" title="Pinyon Jay">Pinyon Jay (<i>G. cyanocephalus</i>)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style="display:none; right:10px;" class="metadata topicon nopopups" id="featured-star"><a href="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/15px-Cscr-featured.svg.png" width="15" height="14" /></a></div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 50107/1000000
+Preprocessor generated node count: 93337/1500000
+Post-expand include size: 509691/2048000 bytes
+Template argument size: 273320/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 3/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:195770-0!*!0!!en!4!* and timestamp 20121022142057 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Alpine_Chough&amp;oldid=512639092">http://en.wikipedia.org/w/index.php?title=Alpine_Chough&amp;oldid=512639092</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Corvidae" title="Category:Corvidae">Corvidae</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Latin_language_external_links" title="Category:Articles with Latin language external links">Articles with Latin language external links</a></li><li><a href="/wiki/Category:Articles_with_German_language_external_links" title="Category:Articles with German language external links">Articles with German language external links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2010" title="Category:Use dmy dates from November 2010">Use dmy dates from November 2010</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alpine+Chough&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alpine+Chough" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Alpine_Chough"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Alpine_Chough"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Alpine_Chough" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Alpine_Chough&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Alpine_Chough&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alpine_Chough" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alpine_Chough" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Alpine_Chough&amp;oldid=512639092" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Alpine_Chough&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Alpine_Chough&amp;id=512639092" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alpine+Chough" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Alpine+Chough&amp;oldid=512639092&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alpine_Chough&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%83%D0%B0%D0%BB%D1%8D%D0%BF%D1%8D%D0%B3%D1%8A%D1%83" title="Къуалэпэгъу" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%96%D1%8A%D0%BB%D1%82%D0%BE%D0%BA%D0%BB%D1%8E%D0%BD%D0%B0_%D0%B3%D0%B0%D1%80%D0%B3%D0%B0" title="Жълтоклюна гарга" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Kavan_beg_melen" title="Kavan beg melen" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Gralla_de_bec_groc" title="Gralla de bec groc" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kav%C4%8De_%C5%BElutozob%C3%A9" title="Kavče žlutozobé" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-co"><a href="//co.wikipedia.org/wiki/Chjaccula" title="Chjaccula" lang="co" hreflang="co">Corsu</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Alpeallike" title="Alpeallike" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Alpendohle" title="Alpendohle" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Pyrrhocorax_graculus" title="Pyrrhocorax graculus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Flavbeka_montokorvo" title="Flavbeka montokorvo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Belatxinga_mokohori" title="Belatxinga mokohori" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B2%D8%A7%D8%BA_%D9%86%D9%88%DA%A9%E2%80%8C%D8%B2%D8%B1%D8%AF" title="زاغ نوک‌زرد" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Chocard_%C3%A0_bec_jaune" title="Chocard à bec jaune" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Choia_de_bico_amarelo" title="Choia de bico amarelo" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Pyrrhocorax_graculus" title="Pyrrhocorax graculus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D1%8B%D1%82%D2%B1%D0%BC%D1%81%D1%8B%D2%9B_%D1%88%D0%B0%D1%83%D2%9B%D0%B0%D1%80%D2%93%D0%B0" title="Сарытұмсық шауқарға" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Qaj%C3%BB" title="Qajû" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Alpu_kov%C4%81rnis" title="Alpu kovārnis" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Havasi_cs%C3%B3ka" title="Havasi csóka" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Alpenkauw" title="Alpenkauw" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AD%E3%83%90%E3%82%B7%E3%82%AC%E3%83%A9%E3%82%B9" title="キバシガラス" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Alpekaie" title="Alpekaie" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Pyrrhocorax_graculus" title="Pyrrhocorax graculus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Wieszczek" title="Wieszczek" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Gralha-de-bico-amarelo" title="Gralha-de-bico-amarelo" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%BB%D1%83%D1%88%D0%B8%D1%86%D1%8F" title="Клушиця" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0" title="Альпийская галка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Planinska_kavka" title="Planinska kavka" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Alppinaakka" title="Alppinaakka" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Alpkaja" title="Alpkaja" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Sar%C4%B1_gagal%C4%B1_da%C4%9F_kargas%C4%B1" title="Sarı gagalı dağ kargası" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%BA%D0%B0_%D0%B0%D0%BB%D1%8C%D0%BF%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0" title="Галка альпійська" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%BB%84%E5%98%B4%E5%B1%B1%E9%B8%A6" title="黄嘴山鸦" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 September 2012 at 11:44.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Alpine_Chough&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw35 in 0.133 secs. -->
+	</body>
+</html>

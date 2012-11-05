@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Hawfinch - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hawfinch&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hawfinch&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hawfinch","wgTitle":"Hawfinch","wgCurRevisionId":518957463,"wgArticleId":365217,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from December 2009","All articles to be expanded","Science articles needing translation from Spanish Wikipedia","Articles lacking in-text citations from January 2011","All articles lacking in-text citations","IUCN Red List least concern species","Articles with \'species\' microformats","Wikipedia articles needing clarification from October 2012","Articles to be expanded from May 2012","Use dmy dates from September 2010","Coccothraustes","Birds of Asia","Birds of Pakistan","Birds of Europe","Birds of Turkey"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hawfinch","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"a1cd6f77676dea27a9b888573a46a1e0","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":365217,"title":"Hawfinch","namespace":0,"categories":["All articles lacking in-text citations","All articles to be expanded","Articles lacking in-text citations from January 2011","Articles to be expanded from December 2009","Articles to be expanded from May 2012","Articles with \'species\' microformats","Birds of Asia","Birds of Europe","Birds of Pakistan","Birds of Turkey","Coccothraustes","IUCN Red List least concern species","Science articles needing translation from Spanish Wikipedia","Use dmy dates from September 2010","Wikipedia articles needing clarification from October 2012"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.postEdit","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Hawfinch skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Hawfinch</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-notice" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="/w/index.php?title=File:Translation_Latin_Alphabet.svg&amp;page=1" class="image" title="link ="><img alt="link =" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Translation_Latin_Alphabet.svg/50px-Translation_Latin_Alphabet.svg.png" width="50" height="16" /></a></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article <b>may be expanded with text translated from the <a href="//es.wikipedia.org/wiki/Coccothraustes_coccothraustes" class="extiw" title="es:Coccothraustes coccothraustes">corresponding article</a> in the <a href="//es.wikipedia.org/wiki/" class="extiw" title="es:">Spanish Wikipedia</a></b>.  <i><small>(December 2009)</small></i><br /></span>
+<p><span class="mbox-text-span"><a rel="nofollow" class="external text" href="http://translate.google.com/translate?&amp;u=http%3A%2F%2Fes.wikipedia.org%2Fwiki%2FCoccothraustes+coccothraustes&amp;sl=es&amp;tl=en">View</a> a machine-translated version of the Spanish article.</span></p>
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="font-weight:bold; background:transparent; text-align:center; padding-right: 3em; font-weight: normal; text-align: left"><span class="mbox-text-span">Click [show] on the right for instructions.</span></div>
+<div class="NavContent" style="font-weight:normal; background-color:transparent; text-align:left;">
+<ul>
+<li><span class="mbox-text-span">Google's machine translation is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</span></li>
+<li><span class="mbox-text-span">Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</span></li>
+<li><span class="mbox-text-span">After translating, <code>{{Translated|es|Coccothraustes coccothraustes}}</code> must be added to the <a href="/wiki/Talk:Hawfinch" title="Talk:Hawfinch">talk page</a> to ensure <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright compliance</a>.</span></li>
+<li><span class="mbox-text-span">For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</span></li>
+</ul>
+</div>
+</div>
+<span class="mbox-text-span"> </span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear because it has insufficient <a href="/wiki/Wikipedia:INCITE" title="Wikipedia:INCITE" class="mw-redirect">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(January 2011)</i></small> </span></td>
+</tr>
+</table>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Hawfinch</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Coccothraustes_coccothraustes.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Coccothraustes_coccothraustes.jpg/250px-Coccothraustes_coccothraustes.jpg" width="250" height="167" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Suborder:</td>
+<td><span class="suborder" style="white-space:nowrap;"><a href="/wiki/Passeri" title="Passeri" class="mw-redirect">Passeri</a></span></td>
+</tr>
+<tr>
+<td>Infraorder:</td>
+<td><span class="infraorder" style="white-space:nowrap;"><a href="/wiki/Passerida" title="Passerida">Passerida</a></span></td>
+</tr>
+<tr>
+<td>Superfamily:</td>
+<td><span class="superfamily" style="white-space:nowrap;"><a href="/wiki/Passeroidea" title="Passeroidea" class="mw-redirect">Passeroidea</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Fringillidae" title="Fringillidae" class="mw-redirect">Fringillidae</a></span></td>
+</tr>
+<tr>
+<td>Subfamily:</td>
+<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Carduelinae" title="Carduelinae">Carduelinae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Coccothraustes" title="Coccothraustes">Coccothraustes</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>C. coccothraustes</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Coccothraustes coccothraustes</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Rangemap-grosbec.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rangemap-grosbec.png/240px-Rangemap-grosbec.png" width="240" height="105" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Ranges of <i>C coccothraustes</i><br />
+<span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#FFFF00; color:#FFFF00;">&#160;&#160;&#160;&#160;</span>&#160;Summer</span><span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#008000; color:#008000;">&#160;&#160;&#160;&#160;</span>&#160;Resident</span><span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#0080FF; color:#0080FF;">&#160;&#160;&#160;&#160;</span>&#160;Winter</span></td>
+</tr>
+</table>
+</div>
+<p>The <b>Hawfinch</b> (<i>Coccothraustes coccothraustes</i>) is a <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Finch" title="Finch">finch</a> family Fringillidae. Its closest living relatives are the <a href="/wiki/Evening_Grosbeak" title="Evening Grosbeak">Evening Grosbeak</a> (<i>C. vespertinus</i>) from <a href="/wiki/North_America" title="North America">North America</a> and the <a href="/wiki/Hooded_Grosbeak" title="Hooded Grosbeak">Hooded Grosbeak</a> (<i>C. abeillei</i>) from <a href="/wiki/Central_America" title="Central America">Central America</a> especially <a href="/wiki/Mexico" title="Mexico">Mexico</a>.</p>
+<p>This bird breeds across <a href="/wiki/Europe" title="Europe">Europe</a> and temperate <a href="/wiki/Asia" title="Asia">Asia</a>. It is mainly resident in Europe, but many Asian birds <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> further south in the winter. It is a rare vagrant to the western islands of <a href="/wiki/Alaska" title="Alaska">Alaska</a>.</p>
+<p>Deciduous or mixed woodland,including parkland, with large trees - especially <a href="/wiki/Hornbeam" title="Hornbeam">Hornbeam</a> - is favoured for breeding,. The Hawfinch builds its nest in a bush or tree, and lays 2-7 eggs. The food is mainly seeds and fruit kernels, especially those of <a href="/wiki/Cherry" title="Cherry">cherries</a>, which it cracks with its powerful bill. This large finch species is usually seen in a pair or small group.</p>
+<p>The 16.5–18&#160;cm long Hawfinch is a bulky bull-headed bird, which appears very short-tailed in flight. Its head is orange-brown with a black eyestripe and bib, and a massive bill, which is black in summer but paler in winter. The upper parts are dark brown and the underparts orange.</p>
+<p>The white wing bars and tail tip are striking in flight. The sexes are similar. The call is a hard <i>chick</i>. The song of this unobtrusive bird is quiet and mumbled.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Southeast_England"><span class="tocnumber">2.1</span> <span class="toctext">Southeast England</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Southwest_England"><span class="tocnumber">2.2</span> <span class="toctext">Southwest England</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Western_England_and_Wales"><span class="tocnumber">2.3</span> <span class="toctext">Western England and Wales</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Eastern_England"><span class="tocnumber">2.4</span> <span class="toctext">Eastern England</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Northern_England"><span class="tocnumber">2.5</span> <span class="toctext">Northern England</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Scotland"><span class="tocnumber">2.6</span> <span class="toctext">Scotland</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Migration"><span class="tocnumber">2.7</span> <span class="toctext">Migration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Habitat"><span class="tocnumber">3</span> <span class="toctext">Habitat</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Feeding"><span class="tocnumber">4</span> <span class="toctext">Feeding</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Reproduction"><span class="tocnumber">5</span> <span class="toctext">Reproduction</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Flight"><span class="tocnumber">6</span> <span class="toctext">Flight</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Behaviour"><span class="tocnumber">7</span> <span class="toctext">Behaviour</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Hawfinch has a total length of 16.5–18&#160;cm, and its wingspan ranges from 29&#160;cm to 33&#160;cm. It weighs approximately 48–62&#160;cm.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text in the vicinity of this tag needs clarification or removal of jargon from October 2012">clarification needed</span></a></i>]</sup> Females are usually smaller and weigh less than males. It is a robust bird with a thick neck, large round head and a wide, strong conical beak with a metallic appearance. It has short pinkish legs with a light hue and it has a short tail. It has brown eyes. The males' plumage is much more appealing than the females'. The overall colour is light brown, its head having an orange hue to it. Its eyes have a black circle around them, extending to its beak and surrounding it at its edge. Its throat is also black. The sides of its neck, as well as the back of its neck, are gray. The upper side of its wings are a deep black colour. The wings also have three stripes from approximately the middle till their sides: a white, a brown and a blue stripe.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<p>The Hawfinch is distributed in the whole of Europe, Eastern Asia (including North Japan), the North of Africa (Morocco, Tunisia and Argelia). It has also been sighted in Alaska, but this is reported as an accidental presence. It is not found in Iceland, parts of the British Isles, Scandinavia nor certain Mediterranean islands. It is however found in the South, such as in Spain and Bulgaria, as well as in central Europe, including parts of Englans and the South of Sweden. In Asia it can be found in the Caucasus, the North of Iran, Afghanistan, Turkistan, Siberia, Manchuria and North Korea.</p>
+<p>In the 18th century, the Hawfinch was recorded as only a rare winter visitor in Britain. The first breeding record was early in the 19th century; by the early 1830s, a well-documented colony was established at <a href="/wiki/Epping_Forest" title="Epping Forest">Epping Forest</a> in <a href="/wiki/Essex" title="Essex">Essex</a>, and breeding was also recorded in other counties east and south of <a href="/wiki/London" title="London">London</a>. Further expansion of the range continued through the 19th and 20th centuries, with breeding occurring as far north as <a href="/wiki/Aberdeenshire" title="Aberdeenshire">Aberdeenshire</a> by 1968–1972. Peak numbers were in the period 1983–1990. Subsequently, there has been a significant decline of between 37% and 45% between 1990–1999.<sup id="cite_ref-holloway_1-0" class="reference"><a href="#cite_note-holloway-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-sharrock_2-0" class="reference"><a href="#cite_note-sharrock-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-gibbons_3-0" class="reference"><a href="#cite_note-gibbons-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-langston_4-0" class="reference"><a href="#cite_note-langston-4"><span>[</span>5<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=3" title="Edit section: Southeast England">edit</a>]</span> <span class="mw-headline" id="Southeast_England">Southeast England</span></h3>
+<p>Southeast England is the stronghold of Hawfinch in Britain. One well-known site is <a href="/wiki/Bedgebury_Pinetum" title="Bedgebury Pinetum" class="mw-redirect">Bedgebury Pinetum</a>, where flocks gather to roost in winter. The species is also found in the <a href="/wiki/New_Forest" title="New Forest">New Forest</a>; a central roost site exists here, at the <a href="/w/index.php?title=Blackwater_Arboretum&amp;action=edit&amp;redlink=1" class="new" title="Blackwater Arboretum (page does not exist)">Blackwater Arboretum</a>. The only Sussex stronghold is at Westdean Woods in <a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a>. While in <a href="/wiki/Surrey" title="Surrey">Surrey</a> they are regularly seen at Bookham Common in Winter. Formerly Hawfinch were regularly encountered in the Windsor Great Park area in winter though no sizeable gatherings have been reported since the mid 1990s. The recent (2007–11) BTO Bird Atlas shows no evidence of Hawfinch breeding anywhere in this area, the reasons are unclear.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=4" title="Edit section: Southwest England">edit</a>]</span> <span class="mw-headline" id="Southwest_England">Southwest England</span></h3>
+<p>In <a href="/wiki/Devon" title="Devon">Devon</a>, Hawfinch is largely confined to the upper <a href="/w/index.php?title=Teign_Valley&amp;action=edit&amp;redlink=1" class="new" title="Teign Valley (page does not exist)">Teign Valley</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=5" title="Edit section: Western England and Wales">edit</a>]</span> <span class="mw-headline" id="Western_England_and_Wales">Western England and Wales</span></h3>
+<p>Two areas in which Hawfinch reliably occurs are the <a href="/wiki/Forest_of_Dean" title="Forest of Dean">Forest of Dean</a> and the <a href="/wiki/Wyre_Forest" title="Wyre Forest">Wyre Forest</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=6" title="Edit section: Eastern England">edit</a>]</span> <span class="mw-headline" id="Eastern_England">Eastern England</span></h3>
+<p>Hawfinch is present in the <a href="/wiki/Breckland" title="Breckland">Breckland</a> of East Anglia.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=7" title="Edit section: Northern England">edit</a>]</span> <span class="mw-headline" id="Northern_England">Northern England</span></h3>
+<p>Hawfinches are regularly found in a small number of locations in northern England. Prime sites include <a href="/wiki/Fountains_Abbey" title="Fountains Abbey">Fountains Abbey</a> in Yorkshire and <a href="/wiki/Hulne_Park" title="Hulne Park">Hulne Park</a> in Northumberland. Hawfinches can be seen at Cromford Derbyshire near the canal and at Clumber Park (Nottinghamshire) near the chapel.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=8" title="Edit section: Scotland">edit</a>]</span> <span class="mw-headline" id="Scotland">Scotland</span></h3>
+<p><a href="/wiki/Scone_Palace" title="Scone Palace">Scone Palace</a> near Perth is the most well-known site in Scotland for Hawfinch. Formerly, they also occurred in the <a href="/wiki/Royal_Botanic_Garden_Edinburgh" title="Royal Botanic Garden Edinburgh">Royal Botanic Garden Edinburgh</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=9" title="Edit section: Migration">edit</a>]</span> <span class="mw-headline" id="Migration">Migration</span></h3>
+<p>The Hawfinch is a partial migrator, with Northern flocks migrating towards the South during the winter, as shown by ringing techniques. These same studies showed that those Hawfinches inhabiting habitats with a temperate climate would often have sedentary behaviours.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=10" title="Edit section: Habitat">edit</a>]</span> <span class="mw-headline" id="Habitat">Habitat</span></h2>
+<p>The Hawfinch typically inhabits deciduous forests during the spring to have offspring, often in trees that bare fruit, such as oak trees. They also incur into human areas, such as parks and gardens. They can also be found in pine woods, as long as there's a source of water in the vicinity. During autumn and winter they seek food-providing forests, especially those with cherry and plum trees. As for height, the Hawfinch is present in any altitude up to that which is limited by the size of the trees.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=11" title="Edit section: Feeding">edit</a>]</span> <span class="mw-headline" id="Feeding">Feeding</span></h2>
+<p>The Hawfinch feeds primarily on hard seeds from trees, as well as fruit seeds, which it obtains with the help of its strong beak with accompanying jaw muscles. Its jaw muscles exert a force equivalent to a load of approximately 30–48&#160;kg. Thus it can break through the seeds of cherries and plums. Other common sources of food include pine seeds, berries, sprouts and the occasional caterpillar and beetle. They can also break through olive seeds. The bird is known to eat in groups, especially during the winter.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=12" title="Edit section: Reproduction">edit</a>]</span> <span class="mw-headline" id="Reproduction">Reproduction</span></h2>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content" style="">
+<tr>
+<td class="mbox-image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/23px-Wiki_letter_w.svg.png" width="23" height="23" /></td>
+<td class="mbox-text" style=""><span class="mbox-text-span"><b>This section is empty.</b> <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Hawfinch&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(May 2012)</i></small></span></td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=13" title="Edit section: Flight">edit</a>]</span> <span class="mw-headline" id="Flight">Flight</span></h2>
+<p>Its flight is fast and its trajectory is straight over short distances. During long flights periodical undulations can be observed in their flight pattern. While on the ground scavenging it hops, and they are quick to fly away at the slightest noise. They are observed to catch insects mid-flight. They fly up to a height of 200m and they are seen to fly in groups, as well as alone.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=14" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<p>The Hawfinch is a shy species, and therefore difficult to observe and study. It spends most of the day on top of high branches, above all during breeding season. During the course of the Hawfinch's life it can only be seen on the ground while looking for seeds or drinking water, always near trees. While drinking and eating it is fairly aggressive and dominant, towards both its same species or different ones, even bigger birds. It guards a quite small territory when chicks are born, however when not bearing any offspring it is known to guard entire woods. This is interpreted as an evolutionary advantage, given colony rearing is seen as safer against nest predators.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=15" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106008887">"<i>Coccothraustes coccothraustes</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106008887">http://www.iucnredlist.org/apps/redlist/details/106008887</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Coccothraustes+coccothraustes%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106008887&amp;rfr_id=info:sid/en.wikipedia.org:Hawfinch"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-holloway-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-holloway_1-0">^</a></b></span> <span class="reference-text">Holloway, S. (1996). <i>The Historical Atlas of Breeding Birds in Britain and Ireland: 1875–1900</i>. T &amp; A D Poyser <a href="/wiki/Special:BookSources/0856610941" class="internal mw-magiclink-isbn">ISBN 0-85661-094-1</a>.</span></li>
+<li id="cite_note-sharrock-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-sharrock_2-0">^</a></b></span> <span class="reference-text">Sharrock, J. T. R. (1976). <i>The Atlas of Breeding Birds in Britain and Ireland</i>. British Trust for Ornithology / Irish Wildbird Conservancy <a href="/wiki/Special:BookSources/0903793016" class="internal mw-magiclink-isbn">ISBN 0-903793-01-6</a>.</span></li>
+<li id="cite_note-gibbons-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-gibbons_3-0">^</a></b></span> <span class="reference-text">Gibbons, D. W., Reid, J. B., &amp; Chapman, R. A., eds. (1993). <i>The New Atlas of Breeding Birds in Britain and Ireland: 1988–1991</i>. T &amp; A D Poyser <a href="/wiki/Special:BookSources/0856610755" class="internal mw-magiclink-isbn">ISBN 0-85661-075-5</a>.</span></li>
+<li id="cite_note-langston-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-langston_4-0">^</a></b></span> <span class="reference-text">Langston, R. H. W., Gregory, R. D., &amp; Adams, R. (2002). The status of the Hawfinch in the UK 1975-1999. <i>British Birds</i> 95: 166-173.</span></li>
+</ol>
+</div>
+<ul>
+<li><b>Arnaiz-Villena</b>, A., Moscoso, J., Ruiz-del-Valle, V., Gonzalez, J., Reguera, R., Wink, M., I. Serrano-Vela, J. 2007. Bayesian phylogeny of Fringillinae birds: status of the singular African oriole finch Linurgus olivaceus and evolution and heterogeneity of the genus Carpodacus. Acta Zoologica Sinica, 53 (5):826 - 834. <a rel="nofollow" class="external text" href="http://www.actazool.org/pdftemp/%7BC6BDA075-F92E-48AF-815F-98BED7C65FE5%7D.pdf">PDF fulltext</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Hawfinch&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Coccothraustes_coccothraustes" class="extiw" title="commons:Coccothraustes coccothraustes">Coccothraustes coccothraustes</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.oiseaux.net/oiseaux/photos/grosbec.casse-noyaux.html">Oiseaux</a> Photos</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/440_HawfinchCcoccothraustes.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+<p><span id="interwiki-es-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 6827/1000000
+Preprocessor generated node count: 41171/1500000
+Post-expand include size: 51672/2048000 bytes
+Template argument size: 18098/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 5/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:365217-0!*!0!!en!4!* and timestamp 20121021020858 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Hawfinch&amp;oldid=518957463">http://en.wikipedia.org/w/index.php?title=Hawfinch&amp;oldid=518957463</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Coccothraustes" title="Category:Coccothraustes">Coccothraustes</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_December_2009" title="Category:Articles to be expanded from December 2009">Articles to be expanded from December 2009</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Science_articles_needing_translation_from_Spanish_Wikipedia" title="Category:Science articles needing translation from Spanish Wikipedia">Science articles needing translation from Spanish Wikipedia</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_January_2011" title="Category:Articles lacking in-text citations from January 2011">Articles lacking in-text citations from January 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2012" title="Category:Wikipedia articles needing clarification from October 2012">Wikipedia articles needing clarification from October 2012</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_May_2012" title="Category:Articles to be expanded from May 2012">Articles to be expanded from May 2012</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2010" title="Category:Use dmy dates from September 2010">Use dmy dates from September 2010</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hawfinch&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hawfinch" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hawfinch"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Hawfinch"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Hawfinch" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Hawfinch&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hawfinch&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hawfinch" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hawfinch" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Hawfinch&amp;oldid=518957463" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Hawfinch&amp;id=518957463" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hawfinch" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Hawfinch&amp;oldid=518957463&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hawfinch&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%8D%D0%BA%D1%8A" title="Дубэкъ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D9%84%D8%A8%D9%84_%D8%B2%D9%8A%D8%AA%D9%88%D9%86%D9%8A" title="بلبل زيتوني" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D2%93%D0%B0%D0%B1%D0%B0%D1%88" title="Балғабаш" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B5%D1%88%D0%B0%D1%80%D0%BA%D0%B0" title="Черешарка" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Beg-tev" title="Beg-tev" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Durbec" title="Durbec" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Dlask_tlustozob%C3%BD" title="Dlask tlustozobý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Gylfinbraff" title="Gylfinbraff" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Kernebider" title="Kernebider" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Kernbei%C3%9Fer_(Art)" title="Kernbeißer (Art)" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Suurnokk-vint" title="Suurnokk-vint" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Coccothraustes_coccothraustes" title="Coccothraustes coccothraustes" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Kernorompulo" title="Kernorompulo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Mokolodi" title="Mokolodi" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D9%87%D8%B1%D9%87_%D9%86%D9%88%DA%A9%E2%80%8C%D8%A8%D8%B2%D8%B1%DA%AF" title="سهره نوک‌بزرگ" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Kjarnb%C3%ADtur" title="Kjarnbítur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Gros-bec_casse-noyaux" title="Gros-bec casse-noyaux" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Kersebiter" title="Kersebiter" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Glas%C3%A1n_gobmh%C3%B3r" title="Glasán gobmhór" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Bicogroso" title="Bicogroso" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%BD%A9%EC%83%88" title="콩새" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%8D%D5%B8%D5%BE%D5%B8%D6%80%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B0%D5%A1%D5%BF%D5%A2%D5%A5%D5%AF%D5%AB%D5%B9" title="Սովորական հատբեկիչ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Coccothraustes_coccothraustes" title="Coccothraustes coccothraustes" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A9%E1%83%95%E1%83%94%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%A0%E1%83%98%E1%83%95%E1%83%98_%E1%83%99%E1%83%A3%E1%83%9A%E1%83%A3%E1%83%9B%E1%83%91%E1%83%A3%E1%83%A0%E1%83%94%E1%83%91%E1%83%98" title="ჩვეულებრივი კულუმბურები" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Keskankiroj" title="Keskankiroj" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Svilikas" title="Svilikas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Meggyv%C3%A1g%C3%B3" title="Meggyvágó" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D1%85%D0%B0%D1%80_%D0%B1%D1%83%D0%BB%D0%B6%D1%83%D1%83%D1%85%D0%B0%D0%B9" title="Банхар булжуухай" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Appelvink" title="Appelvink" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A1" title="シメ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Kjernebiter" title="Kjernebiter" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Coccothraustes_coccothraustes" title="Coccothraustes coccothraustes" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Grubodzi%C3%B3b_zwyczajny" title="Grubodziób zwyczajny" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Bico-grossudo" title="Bico-grossudo" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Botgros" title="Botgros" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D1%80%D1%8B%D0%B7" title="Костогрыз" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D1%83%D0%B1%D0%BE%D0%BD%D0%BE%D1%81" title="Обыкновенный дубонос" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A1%D1%83%D0%BE%D0%BD_%D1%82%D1%83%D0%BC%D1%83%D1%81" title="Суон тумус" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Nokkavarpunen" title="Nokkavarpunen" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Stenkn%C3%A4ck" title="Stenknäck" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%98%D0%BC%D3%99%D0%BD%D0%B1%D0%BE%D1%80%D1%8B%D0%BD" title="Имәнборын" lang="tt" hreflang="tt">Татарча/tatarça</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_kocaba%C5%9F" title="Bayağı kocabaş" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%BE%D0%B3%D1%80%D0%B8%D0%B7" title="Костогриз" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vls"><a href="//vls.wikipedia.org/wiki/Appelvienke" title="Appelvienke" lang="vls" hreflang="vls">West-Vlams</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%94%A1%E5%98%B4%E9%9B%80" title="锡嘴雀" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 October 2012 at 02:08.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Hawfinch&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw51 in 0.139 secs. -->
+	</body>
+</html>

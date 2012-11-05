@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Yellow-legged Gull - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yellow-legged_Gull","wgTitle":"Yellow-legged Gull","wgCurRevisionId":512466906,"wgArticleId":376384,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from November 2009","Gulls","Larus"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Yellow-legged_Gull","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"2e65b0b39bddbe6fdd65188d6b094d57","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":376384,"title":"Yellow-legged Gull","namespace":0,"categories":["All articles with unsourced statements","Articles with \'species\' microformats","Articles with unsourced statements from November 2009","Gulls","IUCN Red List least concern species","Larus"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Yellow-legged_Gull skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Yellow-legged Gull</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Yellow-legged Gull</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Seagull_July_2008-6.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Seagull_July_2008-6.jpg/250px-Seagull_July_2008-6.jpg" width="250" height="175" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Yellow-legged Gull in Porto Covo, Portugal</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Laridae" title="Laridae" class="mw-redirect">Laridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Larus" title="Larus">Larus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>L. michahellis</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Larus michahellis</i></span></b><br />
+<small><a href="/wiki/Johann_Friedrich_Naumann" title="Johann Friedrich Naumann">Naumann</a>, 1840, coast of <a href="/wiki/Dalmatia" title="Dalmatia">Dalmatia</a></small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Larus argentatus michahellis</i> <small>Naumann, 1840</small><br />
+<i>Larus cachinnans michahellis</i> <small>Naumann, 1840</small><br />
+<i>Larus cachinnans atlantis</i><br />
+<i>Larus cachinnans lusitanius</i></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Yellow-legged Gull</b> (<i>Larus michahellis</i>), sometimes referred to as Western Yellow-legged Gull (to distinguish it from eastern populations of yellow-legged <a href="/wiki/Large_white-headed_gull" title="Large white-headed gull" class="mw-redirect">large white-headed gulls</a>), is a large <a href="/wiki/Gull" title="Gull">gull</a> of <a href="/wiki/Europe" title="Europe">Europe</a>, the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> and <a href="/wiki/North_Africa" title="North Africa">North Africa</a>, which has only recently achieved wide recognition as a distinct species. It was formerly treated as a <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> of either the <a href="/wiki/Caspian_Gull" title="Caspian Gull">Caspian Gull</a> <i>L. cachinnans</i>, or more broadly as a subspecies of the <a href="/wiki/European_Herring_Gull" title="European Herring Gull">Herring Gull</a> <i>L. argentatus</i>. It is named after the German zoologist <a href="/wiki/Karl_Michahelles" title="Karl Michahelles">Karl Michahelles</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Classification"><span class="tocnumber">1</span> <span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Description"><span class="tocnumber">3</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Diet"><span class="tocnumber">4</span> <span class="toctext">Diet</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Reproduction"><span class="tocnumber">5</span> <span class="toctext">Reproduction</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit&amp;section=1" title="Edit section: Classification">edit</a>]</span> <span class="mw-headline" id="Classification">Classification</span></h2>
+<p>It is now generally accepted that the Yellow-legged Gull is a full species, but until recently there was much disagreement. For example, <i><a href="/wiki/British_Birds_(magazine)" title="British Birds (magazine)">British Birds</a></i> magazine split Yellow-legged Gull from Herring Gull in 1993 but included the Caspian Gull in the former,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> but the <a href="/wiki/British_Ornithologists%27_Union" title="British Ornithologists' Union">BOU</a> in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> retained the Yellow-legged Gull as a subspecies of the Herring Gull until 2007.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> <a href="/wiki/DNA" title="DNA">DNA</a> research however suggests that Yellow-legged Gull is actually closest to <a href="/wiki/Great_Black-backed_Gull" title="Great Black-backed Gull">Great Black-backed Gull</a> <i>L. marinus</i> and <a href="/wiki/Armenian_Gull" title="Armenian Gull">Armenian Gull</a> <i>L. armenicus</i>, while Caspian Gull is closer to Herring Gull and <a href="/wiki/Lesser_Black-backed_Gull" title="Lesser Black-backed Gull">Lesser Black-backed Gull</a> <i>L. fuscus</i>, rather than being each other's closest relatives.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-collinson_4-0" class="reference"><a href="#cite_note-collinson-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>There are two subspecies of the Yellow-legged Gull:<sup id="cite_ref-collinson_4-1" class="reference"><a href="#cite_note-collinson-4"><span>[</span>5<span>]</span></a></sup></p>
+<ul>
+<li><i>Larus michahellis michahellis</i> Naumann, 1840. Mediterranean.</li>
+<li><i>Larus michahellis atlantis</i> (Dwight, 1922), syn. <i>Larus fuscus atlantis</i> Dwight, 1922. <a href="/wiki/Macaronesia" title="Macaronesia">Macaronesia</a> (<a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a>, <a href="/wiki/Madeira" title="Madeira">Madeira</a>, <a href="/wiki/Azores" title="Azores">Azores</a>). Birds breeding on the Atlantic coasts of <a href="/wiki/Morocco" title="Morocco">Morocco</a>, <a href="/wiki/Portugal" title="Portugal">Portugal</a> and <a href="/wiki/Galicia_(Spain)" title="Galicia (Spain)">Galicia</a> (and spreading north from there) are usually also included here, but are sometimes considered to be a third subspecies <i>L. m. lusitanius</i>. Atlantic Ocean birds have darker wings and back by comparison with Mediterranean birds, creating a more pronounced contrast to the white parts.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:2010.04.11_yellow-legged_gulls,_Constanta,_Romania_096cc.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/2010.04.11_yellow-legged_gulls%2C_Constanta%2C_Romania_096cc.jpg/220px-2010.04.11_yellow-legged_gulls%2C_Constanta%2C_Romania_096cc.jpg" width="220" height="182" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2010.04.11_yellow-legged_gulls,_Constanta,_Romania_096cc.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Mating on roof-top, Constanta, Romania</div>
+</div>
+</div>
+<p>The breeding range is centred around the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>. In North Africa it is common in Morocco, <a href="/wiki/Algeria" title="Algeria">Algeria</a> and <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a> and increasing in places. Recent breeding has occurred in <a href="/wiki/Libya" title="Libya">Libya</a> and <a href="/wiki/Egypt" title="Egypt">Egypt</a>. In the Middle East a few breed in <a href="/wiki/Israel" title="Israel">Israel</a> and <a href="/wiki/Syria" title="Syria">Syria</a> with larger numbers in <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a> and <a href="/wiki/Turkey" title="Turkey">Turkey</a>. In Europe there are colonies all along the Mediterranean coast, and also on the Atlantic islands and coasts north to <a href="/wiki/Brittany" title="Brittany">Brittany</a> and west to the Azores. It also breeds on the west side of the <a href="/wiki/Black_Sea" title="Black Sea">Black Sea</a>; here it overlaps with the Caspian Gull but there is a difference in habitat, with the Yellow-legged Gull preferring sea cliffs and Caspian Gull on flatter shores. In recent decades birds have spread north into central and western Europe. One to four pairs have attempted to breed in southern <a href="/wiki/England" title="England">England</a> since 1995 (sometimes hybrid pairs with Lesser Black-backed Gulls), though colonisation has been very slow.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>Many birds remain in the same area all year round but others migrate to spend the winter in mild areas of western Europe or head south as far as <a href="/wiki/Senegal" title="Senegal">Senegal</a>, the <a href="/wiki/Gambia" title="Gambia" class="mw-redirect">Gambia</a> and the <a href="/wiki/Red_Sea" title="Red Sea">Red Sea</a>. There is also extensive northward post-breeding dispersal in the late summer, with numbers in southern England high from July to October.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> It is reported as a vagrant to northeastern North America<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> and <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a>.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from November 2009">citation needed</span></a></i>]</sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit&amp;section=3" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Larus_portrait.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Larus_portrait.jpg/220px-Larus_portrait.jpg" width="220" height="157" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Larus_portrait.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nominate <i>L. m. michahellis</i>, <a href="/wiki/Elba" title="Elba">Elba</a></div>
+</div>
+</div>
+<p>The Yellow-legged Gull is a large gull, though the size does vary, with the smallest females being scarcely larger than a <a href="/wiki/Common_Gull" title="Common Gull">Common Gull</a> and the largest males being roughly the size of a <a href="/wiki/Great_Black-backed_Gull" title="Great Black-backed Gull">Great Black-backed Gull</a>. They range in length from 52 to 68 cm (20 to 27 in) in total length, from 120 to 155 cm (47 to 61 in) in wingspan and from 550 to 1,600 g (1.2 to 3.5 lb) in weight.<sup id="cite_ref-Olsen_8-0" class="reference"><a href="#cite_note-Olsen-8"><span>[</span>9<span>]</span></a></sup> Among standard measurements, the <a href="/wiki/Wing_chord_(biology)" title="Wing chord (biology)">wing chord</a> is 40.8 to 47.2 cm (16.1 to 18.6 in), the <a href="/wiki/Beak" title="Beak">bill</a> is 4.6 to 6 cm (1.8 to 2.4 in) and the <a href="/wiki/Tarsus_(skeleton)" title="Tarsus (skeleton)">tarsus</a> is 5.6 to 7.5 cm (2.2 to 3.0 in).<sup id="cite_ref-Olsen_8-1" class="reference"><a href="#cite_note-Olsen-8"><span>[</span>9<span>]</span></a></sup> Adults are externally similar to <a href="/wiki/Herring_Gull" title="Herring Gull">Herring Gulls</a> but have yellow legs. They have a grey back, slightly darker than Herring Gulls but lighter than <a href="/wiki/Lesser_Black-backed_Gull" title="Lesser Black-backed Gull">Lesser Black-backed Gulls</a>. They are much whiter-headed in autumn, and have more extensively black wing tips with few white spots, just as Lesser Black-backed. They have a red spot on the bill as adults, like the entire complex. There is a red ring around the eye like in the Lesser Black-backed Gull but unlike in the Herring Gull which has a dark yellow ring.</p>
+<p>First-year birds have a paler head, rump and underparts than those of the Herring Gull, more closely resembling first-year Great Black-backed Gulls in plumage. They have a dark bill and eyes, pinkish grey legs, dark <a href="/wiki/Remiges" title="Remiges" class="mw-redirect">flight feathers</a> and a well-defined black band on the tail. They become lighter in the underparts and lose the upperpart pattern subsequently. By their second winter, birds are essentially feathered like adults, save for the patterned feathers remaining on the <a href="/wiki/Wing_covert" title="Wing covert" class="mw-redirect">wing coverts</a>. However, their bill tips are black, their eyes still dark, and the legs are a light yellow flesh colour.</p>
+<p>The call is a loud laugh which is deeper and more nasal than the call of the Herring Gull.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit&amp;section=4" title="Edit section: Diet">edit</a>]</span> <span class="mw-headline" id="Diet">Diet</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Seagull_eating_a_pigeon.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Seagull_eating_a_pigeon.jpg/220px-Seagull_eating_a_pigeon.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Seagull_eating_a_pigeon.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Yellow-legged Gull eating a pigeon. Barcelona.</div>
+</div>
+</div>
+<p>They are omnivores like most <i>Larus</i> gulls, and they will scavenge on rubbish tips and elsewhere, as well as seeking suitable prey in fields or on the coast, or robbing smaller gulls and other seabirds of their catches.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit&amp;section=5" title="Edit section: Reproduction">edit</a>]</span> <span class="mw-headline" id="Reproduction">Reproduction</span></h2>
+<p>Yellow-legged Gulls usually breed in colonies. Eggs, usually three, are laid from mid March to early May and are defended vigorously by this large gull. The nest is a sometimes sparse mound of vegetation built on the ground or on cliff ledges. In some places such as <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a> they have started nesting on buildings. The eggs are incubated for 27–31 days and the young birds <a href="/wiki/Fledge" title="Fledge">fledge</a> after 35–40 days.</p>
+<ul class="gallery">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:29px auto;"><a href="/wiki/File:Gull_Porto_Covo_July_2007-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gull_Porto_Covo_July_2007-8.jpg/120px-Gull_Porto_Covo_July_2007-8.jpg" width="120" height="92" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Two gulls, Porto Covo, Portugal</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:43.5px auto;"><a href="/wiki/File:20030614-206_Marseille_Ch%C3%A2teau_d%27If_Young_Seagull.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/20030614-206_Marseille_Ch%C3%A2teau_d%27If_Young_Seagull.jpg/120px-20030614-206_Marseille_Ch%C3%A2teau_d%27If_Young_Seagull.jpg" width="120" height="63" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Young <i>L. m. michahellis</i> near <a href="/wiki/Marseille" title="Marseille">Marseille</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:2004-04-10_Larus_michahellis_juv.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2004-04-10_Larus_michahellis_juv.jpg/120px-2004-04-10_Larus_michahellis_juv.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Juvenile, about 1 year old</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:28.5px auto;"><a href="/wiki/File:Larus_michahellis_subadult.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Larus_michahellis_subadult.jpg/120px-Larus_michahellis_subadult.jpg" width="120" height="93" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Subadult <i>L. m. michahellis</i> (about 2 years old)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:2004-04-10_Larus_michahellis_ad.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/2004-04-10_Larus_michahellis_ad.jpg/120px-2004-04-10_Larus_michahellis_ad.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult, Portugal (<i>L. m. atlantis/lusitanius</i>)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Lesser_Black-backed_Gull_-_Barcelona,_Spain_-_Jan_2007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lesser_Black-backed_Gull_-_Barcelona%2C_Spain_-_Jan_2007.jpg/119px-Lesser_Black-backed_Gull_-_Barcelona%2C_Spain_-_Jan_2007.jpg" width="119" height="120" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult <i>L. m. michahellis</i>, Barcelona</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Gull_in_Gibraltar.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gull_in_Gibraltar.JPG/120px-Gull_in_Gibraltar.JPG" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A Yellow-legged Gull on a<br />
+guano encrusted rooftop in <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Larus_michahellis_couvant.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Larus_michahellis_couvant.jpg/120px-Larus_michahellis_couvant.jpg" width="120" height="90" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Adult <i>L. m. michahellis</i> (nest on building, <a href="/wiki/Marseille" title="Marseille">Marseille</a>)</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/160032604">"<i>Larus michahellis</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/160032604">http://www.iucnredlist.org/apps/redlist/details/160032604</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Larus+michahellis%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F160032604&amp;rfr_id=info:sid/en.wikipedia.org:Yellow-legged_Gull"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Sharrock, J. T. R. (1993). Editorial. <i>British Birds</i> 86 (1): 1–2.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sangster, George; Collinson, J. Martin; Knox, Alan G.; Parkin, David T.; Svensson, Lars (2007). "Taxonomic recommendations for British birds: Fourth report". <i>Ibis</i> <b>149</b> (4): 853. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.2007.00758.x">10.1111/j.1474-919X.2007.00758.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Taxonomic+recommendations+for+British+birds%3A+Fourth+report&amp;rft.jtitle=Ibis&amp;rft.aulast=Sangster&amp;rft.aufirst=George&amp;rft.au=Sangster%2C%26%2332%3BGeorge&amp;rft.au=Collinson%2C%26%2332%3BJ.+Martin&amp;rft.au=Knox%2C%26%2332%3BAlan+G.&amp;rft.au=Parkin%2C%26%2332%3BDavid+T.&amp;rft.au=Svensson%2C%26%2332%3BLars&amp;rft.date=2007&amp;rft.volume=149&amp;rft.issue=4&amp;rft.pages=853&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.2007.00758.x&amp;rfr_id=info:sid/en.wikipedia.org:Yellow-legged_Gull"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation Journal">Pons, J.-M., Hassanin, A. &amp; Crochet, P.-A. (2005). <a rel="nofollow" class="external text" href="http://www2.mnhn.fr/crbpo/IMG/pdf/Pons_et_al_2005_MolPhylEvol_Laridae.pdf">"Phylogenetic relationships within the Laridae (Charadriiformes: Aves) inferred from mitochondrial markers"</a>. <i>Molecular phylogenetics and evolution</i> <b>37</b> (3): 686–99. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2Fj.ympev.2005.05.011">10.1016/j.ympev.2005.05.011</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16054399">16054399</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www2.mnhn.fr/crbpo/IMG/pdf/Pons_et_al_2005_MolPhylEvol_Laridae.pdf">http://www2.mnhn.fr/crbpo/IMG/pdf/Pons_et_al_2005_MolPhylEvol_Laridae.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Phylogenetic+relationships+within+the+Laridae+%28Charadriiformes%3A+Aves%29+inferred+from+mitochondrial+markers&amp;rft.jtitle=Molecular+phylogenetics+and+evolution&amp;rft.aulast=Pons%2C+J.-M.%2C+Hassanin%2C+A.+%26+Crochet%2C+P.-A.&amp;rft.au=Pons%2C+J.-M.%2C+Hassanin%2C+A.+%26+Crochet%2C+P.-A.&amp;rft.date=2005&amp;rft.volume=37&amp;rft.issue=3&amp;rft.pages=686%E2%80%9399&amp;rft_id=info:doi/10.1016%2Fj.ympev.2005.05.011&amp;rft_id=info:pmid/16054399&amp;rft_id=http%3A%2F%2Fwww2.mnhn.fr%2Fcrbpo%2FIMG%2Fpdf%2FPons_et_al_2005_MolPhylEvol_Laridae.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Yellow-legged_Gull"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-collinson-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-collinson_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-collinson_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Collinson, J. M. et al. (2008). Species boundaries in the Herring and Lesser Black-backed Gull complex. <i>British Birds</i> 101: 340–363.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Holling, M. (2009). <a rel="nofollow" class="external text" href="http://www.rbbp.org.uk/downloads/rbbp-report-2006.pdf">Rare breeding birds in the United Kingdom in 2006</a>. <i>British Birds</i> 102: 188.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">D. W. Snow &amp; C. M. Perrins (1998). <i><a href="/wiki/The_Birds_of_the_Western_Palearctic" title="The Birds of the Western Palearctic">The Birds of the Western Palearctic</a>, Concise Edition</i> (Vol. 1), Oxford University Press, Oxford.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">National Geographic <i>Field Guide to the Birds of North America</i> <a href="/wiki/Special:BookSources/0792268776" class="internal mw-magiclink-isbn">ISBN 0-7922-6877-6</a></span></li>
+<li id="cite_note-Olsen-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Olsen_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Olsen_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Klaus Malling Olsen &amp; Hans Larsson <i>Gulls: Of North America, Europe, and Asia</i>. Princeton University Press (2004). <a href="/wiki/Special:BookSources/9780691119977" class="internal mw-magiclink-isbn">ISBN 978-0691119977</a>.</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit&amp;section=7" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li><i>Seabirds, an Identification Guide</i> by Peter Harrison, (1983) <a href="/wiki/Special:BookSources/0747014108" class="internal mw-magiclink-isbn">ISBN 0-7470-1410-8</a></li>
+<li><i><a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">Handbook of the Birds of the World</a></i> Vol. 3. Josep del Hoyo editor, <a href="/wiki/Special:BookSources/8487334105" class="internal mw-magiclink-isbn">ISBN 84-87334-10-5</a></li>
+<li>Alan Harris, Laurel Tucker &amp; <a href="/wiki/Keith_Vinicombe" title="Keith Vinicombe">Keith Vinicombe</a> (1994) <i>The <a href="/wiki/Macmillan_Field_Guide_to_Bird_Identification" title="Macmillan Field Guide to Bird Identification" class="mw-redirect">Macmillan Field Guide to Bird Identification</a></i>, Macmillan Press.</li>
+<li><a href="/wiki/Lars_Svensson_(ornithologist)" title="Lars Svensson (ornithologist)">Lars Svensson</a> &amp; <a href="/wiki/Peter_J._Grant" title="Peter J. Grant">Peter J. Grant</a> (1999) <i><a href="/wiki/Collins_Bird_Guide" title="Collins Bird Guide">Collins Bird Guide</a></i>, HarperCollins, London.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Larus_michahellis" class="extiw" title="commons:Category:Larus michahellis">Larus michahellis</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/235_YellowleggedGullLcachinnans.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.xs4all.nl/~calidris/gullindex.htm">Yellow-legged Gull photos</a>, Rudy's Gull-index</li>
+<li><a rel="nofollow" class="external text" href="http://nickrossiter.org.uk/ylgweb/index.htm">Atlantic and Mediterranean Yellow-legged Gulls</a>, Nick Rossiter</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Gulls" title="Template:Gulls"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Gulls" title="Template talk:Gulls"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gulls&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Gull" title="Gull">Gulls</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: <b>Laridae</b>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;background:#eef;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Species" title="Species">Species</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Larus" title="Larus">Larus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pacific_Gull" title="Pacific Gull">Pacific Gull</a></li>
+<li><a href="/wiki/Belcher%27s_Gull" title="Belcher's Gull">Belcher's Gull</a></li>
+<li><a href="/wiki/Olrog%27s_Gull" title="Olrog's Gull">Olrog's Gull</a></li>
+<li><a href="/wiki/Black-tailed_Gull" title="Black-tailed Gull">Black-tailed Gull</a></li>
+<li><a href="/wiki/Heermann%27s_Gull" title="Heermann's Gull">Heermann's Gull</a></li>
+<li><a href="/wiki/Common_Gull" title="Common Gull">Common Gull (or Mew Gull)</a></li>
+<li><a href="/wiki/Ring-billed_Gull" title="Ring-billed Gull">Ring-billed Gull</a></li>
+<li><a href="/wiki/California_Gull" title="California Gull">California Gull</a></li>
+<li><a href="/wiki/Great_Black-backed_Gull" title="Great Black-backed Gull">Great Black-backed Gull</a></li>
+<li><a href="/wiki/Kelp_Gull" title="Kelp Gull">Kelp Gull (or Cape Gull)</a></li>
+<li><a href="/wiki/Glaucous-winged_Gull" title="Glaucous-winged Gull">Glaucous-winged Gull</a></li>
+<li><a href="/wiki/Western_Gull" title="Western Gull">Western Gull</a></li>
+<li><a href="/wiki/Yellow-footed_Gull" title="Yellow-footed Gull">Yellow-footed Gull</a></li>
+<li><a href="/wiki/Glaucous_Gull" title="Glaucous Gull">Glaucous Gull</a></li>
+<li><a href="/wiki/Iceland_Gull" title="Iceland Gull">Iceland Gull</a></li>
+<li><a href="/wiki/Kumlien%27s_Gull" title="Kumlien's Gull">Kumlien's Gull</a></li>
+<li><a href="/wiki/Thayer%27s_Gull" title="Thayer's Gull">Thayer's Gull</a></li>
+<li><a href="/wiki/European_Herring_Gull" title="European Herring Gull">European Herring Gull</a></li>
+<li><a href="/wiki/Heuglin%27s_Gull" title="Heuglin's Gull">Heuglin's Gull</a></li>
+<li><a href="/wiki/American_Herring_Gull" title="American Herring Gull">American Herring Gull</a></li>
+<li><strong class="selflink">Yellow-legged Gull</strong></li>
+<li><a href="/wiki/Caspian_Gull" title="Caspian Gull">Caspian Gull</a></li>
+<li><a href="/wiki/Vega_Gull" title="Vega Gull">Vega Gull (or East Siberian Gull&#160;/ Mongolian Gull)</a></li>
+<li><a href="/wiki/Armenian_Gull" title="Armenian Gull">Armenian Gull</a></li>
+<li><a href="/wiki/Slaty-backed_Gull" title="Slaty-backed Gull">Slaty-backed Gull</a></li>
+<li><a href="/wiki/Lesser_Black-backed_Gull" title="Lesser Black-backed Gull">Lesser Black-backed Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Ichthyaetus" title="Ichthyaetus">Ichthyaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-eyed_Gull" title="White-eyed Gull">White-eyed Gull</a></li>
+<li><a href="/wiki/Sooty_Gull" title="Sooty Gull">Sooty Gull</a></li>
+<li><a href="/wiki/Great_Black-Headed_Gull" title="Great Black-Headed Gull" class="mw-redirect">Great Black-Headed Gull (or Pallas's Gull)</a></li>
+<li><a href="/wiki/Audouin%27s_Gull" title="Audouin's Gull">Audouin's Gull</a></li>
+<li><a href="/wiki/Mediterranean_Gull" title="Mediterranean Gull">Mediterranean Gull</a></li>
+<li><a href="/wiki/Relict_Gull" title="Relict Gull">Relict Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Leucophaeus" title="Leucophaeus">Leucophaeus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dolphin_Gull" title="Dolphin Gull">Dolphin Gull</a></li>
+<li><a href="/wiki/Laughing_Gull" title="Laughing Gull">Laughing Gull</a></li>
+<li><a href="/wiki/Franklin%27s_Gull" title="Franklin's Gull">Franklin's Gull</a></li>
+<li><a href="/wiki/Lava_Gull" title="Lava Gull">Lava Gull</a></li>
+<li><a href="/wiki/Grey_Gull" title="Grey Gull">Grey Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Chroicocephalus" title="Chroicocephalus">Chroicocephalus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Silver_Gull" title="Silver Gull">Silver Gull</a></li>
+<li><a href="/wiki/Red-billed_Gull" title="Red-billed Gull">Red-billed Gull</a></li>
+<li><a href="/wiki/Huahine_Gull" title="Huahine Gull">Huahine Gull</a></li>
+<li><a href="/wiki/Hartlaub%27s_Gull" title="Hartlaub's Gull">Hartlaub's Gull</a></li>
+<li><a href="/wiki/Brown-hooded_Gull" title="Brown-hooded Gull">Brown-hooded Gull</a></li>
+<li><a href="/wiki/Grey-headed_Gull" title="Grey-headed Gull">Grey-headed Gull (or Grey-hooded Gull)</a></li>
+<li><a href="/wiki/Andean_Gull" title="Andean Gull">Andean Gull</a></li>
+<li><a href="/wiki/Black-billed_Gull" title="Black-billed Gull">Black-billed Gull</a></li>
+<li><a href="/wiki/Brown-headed_Gull" title="Brown-headed Gull">Brown-headed Gull</a></li>
+<li><a href="/wiki/Black-Headed_Gull" title="Black-Headed Gull" class="mw-redirect">Black-Headed Gull</a></li>
+<li><a href="/wiki/Slender-billed_Gull" title="Slender-billed Gull">Slender-billed Gull</a></li>
+<li><a href="/wiki/Bonaparte%27s_Gull" title="Bonaparte's Gull">Bonaparte's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Saundersilarus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Saunders%27s_Gull" title="Saunders's Gull">Saunders's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Hydrocoloeus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Little_Gull" title="Little Gull">Little Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Rhodostethia</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ross%27s_Gull" title="Ross's Gull">Ross's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Kittiwake" title="Kittiwake">Rissa</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-legged_Kittiwake" title="Black-legged Kittiwake">Black-legged Kittiwake</a></li>
+<li><a href="/wiki/Red-legged_Kittiwake" title="Red-legged Kittiwake">Red-legged Kittiwake</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Pagophila</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ivory_Gull" title="Ivory Gull">Ivory Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Xema</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sabine%27s_Gull" title="Sabine's Gull">Sabine's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Creagrus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swallow-tailed_Gull" title="Swallow-tailed Gull">Swallow-tailed Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 10156/1000000
+Preprocessor generated node count: 53693/1500000
+Post-expand include size: 70230/2048000 bytes
+Template argument size: 27051/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:376384-0!*!0!!en!4!* and timestamp 20121022164008 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Yellow-legged_Gull&amp;oldid=512466906">http://en.wikipedia.org/w/index.php?title=Yellow-legged_Gull&amp;oldid=512466906</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Gulls" title="Category:Gulls">Gulls</a></li><li><a href="/wiki/Category:Larus" title="Category:Larus">Larus</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2009" title="Category:Articles with unsourced statements from November 2009">Articles with unsourced statements from November 2009</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yellow-legged+Gull&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yellow-legged+Gull" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Yellow-legged_Gull"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Yellow-legged_Gull"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Yellow-legged_Gull" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Yellow-legged_Gull&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Yellow-legged_Gull&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Yellow-legged_Gull" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Yellow-legged_Gull" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Yellow-legged_Gull&amp;oldid=512466906" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Yellow-legged_Gull&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Yellow-legged_Gull&amp;id=512466906" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Yellow-legged+Gull" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Yellow-legged+Gull&amp;oldid=512466906&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Yellow-legged_Gull&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Gavi%C3%A0_argentat" title="Gavià argentat" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Racek_st%C5%99edomo%C5%99sk%C3%BD" title="Racek středomořský" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-co"><a href="//co.wikipedia.org/wiki/Acula_marina" title="Acula marina" lang="co" hreflang="co">Corsu</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Mittelmeerm%C3%B6we" title="Mittelmeermöwe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Larus_michahellis" title="Larus michahellis" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Flavkrura_mevo" title="Flavkrura mevo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Kaio_hankahori" title="Kaio hankahori" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%BA_%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C_%D9%BE%D8%A7%D8%B2%D8%B1%D8%AF" title="مرغ دریایی پازرد" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Go%C3%A9land_leucoph%C3%A9e" title="Goéland leucophée" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Gaivota_patiamarela" title="Gaivota patiamarela" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Larus_michahellis" title="Larus michahellis" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Geltonkojis_kiras" title="Geltonkojis kiras" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Geelpootmeeuw" title="Geelpootmeeuw" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Gulbeingr%C3%A5m%C3%A5ke" title="Gulbeingråmåke" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Mewa_roma%C5%84ska" title="Mewa romańska" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Gaivota-de-patas-amarelas" title="Gaivota-de-patas-amarelas" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%B8%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D0%B0%D0%B9%D0%BA%D0%B0" title="Средиземноморская чайка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Etel%C3%A4nharmaalokki" title="Etelänharmaalokki" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Medelhavstrut" title="Medelhavstrut" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/M%C3%B2ng_bi%E1%BB%83n_ch%C3%A2n_v%C3%A0ng" title="Mòng biển chân vàng" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 September 2012 at 19:24.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Yellow-legged_Gull&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw48 in 0.150 secs. -->
+	</body>
+</html>

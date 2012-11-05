@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common Nightingale - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_Nightingale&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_Nightingale&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_Nightingale","wgTitle":"Common Nightingale","wgCurRevisionId":515501068,"wgArticleId":77288,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with German language external links","IUCN Red List least concern species","Articles with \'species\' microformats","Articles containing Ancient Greek language text","Luscinia","National symbols of Iran","Birds of Iran","Birds of Turkey","Birds of Pakistan","Birds of Palestine","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_Nightingale","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"2c86f96136691f96e224cf6c12cf0b3f","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":77288,"title":"Common Nightingale","namespace":0,"categories":["Articles containing Ancient Greek language text","Articles with \'species\' microformats","Articles with German language external links","Birds of Iran","Birds of Pakistan","Birds of Palestine","Birds of Turkey","Birds of Western Sahara","IUCN Red List least concern species","Luscinia","National symbols of Iran"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_Nightingale skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common Nightingale</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">"Nightingale" redirects here. For other uses, see <a href="/wiki/Nightingale_(disambiguation)" title="Nightingale (disambiguation)">Nightingale (disambiguation)</a>.</div>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Common Nightingale</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Nachtigall_(Luscinia_megarhynchos)-2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nachtigall_%28Luscinia_megarhynchos%29-2.jpg/220px-Nachtigall_%28Luscinia_megarhynchos%29-2.jpg" width="220" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nachtigall_%28Luscinia_megarhynchos%29-2.jpg/330px-Nachtigall_%28Luscinia_megarhynchos%29-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nachtigall_%28Luscinia_megarhynchos%29-2.jpg/440px-Nachtigall_%28Luscinia_megarhynchos%29-2.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><span class="unicode"><a href="/wiki/File:XN_Luscinia_megarhynchos_012.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" /></a>&#160;<a href="//upload.wikimedia.org/wikipedia/commons/a/a9/XN_Luscinia_megarhynchos_012.ogg" class="internal" title="XN Luscinia megarhynchos 012.ogg">Song</a><small class="metadata audiolinkinfo" style="cursor:help;">&#160;(<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help"><span style="cursor:help;">help</span></a>·<a href="/wiki/File:XN_Luscinia_megarhynchos_012.ogg" title="File:XN Luscinia megarhynchos 012.ogg"><span style="cursor:help;">info</span></a>)</small></span></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Muscicapidae" title="Muscicapidae" class="mw-redirect">Muscicapidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Luscinia" title="Luscinia">Luscinia</a></i> flaba</span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>L. megarhynchos</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Luscinia megarhynchos</i></span></b><br />
+<small>(<a href="/wiki/Christian_Ludwig_Brehm" title="Christian Ludwig Brehm">Brehm</a>, 1831)</small></td>
+</tr>
+</table>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Luscinia_megarhynchos_Istria_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Luscinia_megarhynchos_Istria_01.jpg/220px-Luscinia_megarhynchos_Istria_01.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Luscinia_megarhynchos_Istria_01.jpg/330px-Luscinia_megarhynchos_Istria_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Luscinia_megarhynchos_Istria_01.jpg/440px-Luscinia_megarhynchos_Istria_01.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Luscinia_megarhynchos_Istria_01.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nightingale</div>
+</div>
+</div>
+<p>The <b>Common Nightingale</b> or simply <b>Nightingale</b>(<i>Luscinia megarhynchos</i>), also known as <b>Rufous Nightingale</b>, is a small <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> that was formerly classed as a member of the <a href="/wiki/Thrush_(bird)" title="Thrush (bird)">thrush</a> family <a href="/wiki/Turdidae" title="Turdidae" class="mw-redirect">Turdidae</a>, but is now more generally considered to be an <a href="/wiki/Old_World_flycatcher" title="Old World flycatcher">Old World flycatcher</a>, <a href="/wiki/Muscicapidae" title="Muscicapidae" class="mw-redirect">Muscicapidae</a>. It belongs to a group of more terrestrial species, often called <a href="/wiki/Chat_(bird)" title="Chat (bird)">chats</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Range_and_habitat"><span class="tocnumber">1</span> <span class="toctext">Range and habitat</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Symbolism"><span class="tocnumber">3</span> <span class="toctext">Symbolism</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Culture"><span class="tocnumber">4</span> <span class="toctext">Culture</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Nightingale&amp;action=edit&amp;section=1" title="Edit section: Range and habitat">edit</a>]</span> <span class="mw-headline" id="Range_and_habitat">Range and habitat</span></h2>
+<p>It is a <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> insectivorous species breeding in forest and scrub in <a href="/wiki/Europe" title="Europe">Europe</a> and south-west <a href="/wiki/Asia" title="Asia">Asia</a>, but is not found naturally in the <a href="/wiki/Americas" title="Americas">Americas</a>. The distribution is more southerly than the very closely related <a href="/wiki/Thrush_Nightingale" title="Thrush Nightingale">Thrush Nightingale</a> <i>Luscinia luscinia</i>. It nests on the ground within or next to dense bushes. It winters in southern <a href="/wiki/Africa" title="Africa">Africa</a>. At least in the <a href="/wiki/Rhineland" title="Rhineland">Rhineland</a> (<a href="/wiki/Germany" title="Germany">Germany</a>), the breeding <a href="/wiki/Habitat_(ecology)" title="Habitat (ecology)" class="mw-redirect">habitat</a> of nightingales agrees with a number of <a href="/wiki/Geography" title="Geography">geographical</a> parameters.<sup id="cite_ref-Wink1973_1-0" class="reference"><a href="#cite_note-Wink1973-1"><span>[</span>2<span>]</span></a></sup></p>
+<ul>
+<li>less than 400&#160;m (1300&#160;ft) <a href="/wiki/Above_mean_sea_level" title="Above mean sea level">above mean sea level</a></li>
+<li>mean <a href="/wiki/Air_temperature" title="Air temperature" class="mw-redirect">air temperature</a> during the <a href="/wiki/Growing_season" title="Growing season">growing season</a> above <span style="white-space:nowrap;">14 °C</span> <span style="white-space:nowrap;">(57&#160;°F)</span></li>
+<li>more than 20 days/year on which temperatures exceed <span style="white-space:nowrap;">25 °C</span> <span style="white-space:nowrap;">(77&#160;°F)</span></li>
+<li>annual <a href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> less than 750mm</li>
+<li><a href="/wiki/Aridity_index" title="Aridity index">aridity index</a> lower than 0.35</li>
+<li>no closed <a href="/wiki/Canopy_(forest)" title="Canopy (forest)" class="mw-redirect">canopy</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Nightingale&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The Common Nightingale is slightly larger than the <a href="/wiki/European_Robin" title="European Robin">European Robin</a>, at 15–16.5 cm (5.9–6.5 in) length. It is plain brown above except for the reddish tail. It is buff to white below. Sexes are similar. The eastern <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> <i>L. m. hafizi</i> and <i>L. m. africana</i> have paler upperparts and a stronger face-pattern, including a pale <a href="/wiki/Supercilium" title="Supercilium">supercilium</a>.</p>
+<p>Common Nightingales are named so because they frequently sing at night as well as during the day. The name has been used for well over 1,000 years, being highly recognizable even in its Anglo-Saxon form – 'nightingale'. It means 'night songstress'. Early writers assumed the female sang when it is in fact the male. The song is loud, with an impressive range of whistles, trills and gurgles. Its song is particularly noticeable at night because few other birds are singing. This is why its name includes "night" in several languages. Only unpaired males sing regularly at night, and nocturnal song is likely to serve to attract a mate. Singing at dawn, during the hour before sunrise, is assumed to be important in defending the bird's territory. Nightingales sing even more loudly in urban or near-urban environments, in order to overcome the background noise. The most characteristic feature of the song is a loud whistling crescendo, absent from the song of Thrush Nightingale. It has a frog-like alarm call.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Nightingale&amp;action=edit&amp;section=3" title="Edit section: Symbolism">edit</a>]</span> <span class="mw-headline" id="Symbolism">Symbolism</span></h2>
+<p>The Common Nightingale is an important symbol for poets from a variety of ages, and has taken on a number of symbolic connotations. <a href="/wiki/Homer" title="Homer">Homer</a> evokes the Nightingale in <a href="/wiki/The_Odyssey" title="The Odyssey" class="mw-redirect">the <i>Odyssey</i></a>, suggesting the myth of <a href="/wiki/Philomela_(princess_of_Athens)" title="Philomela (princess of Athens)">Philomela and Procne</a> (one of whom, depending on the myth's version, is turned into a nightingale<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> ).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> This myth is the focus of <a href="/wiki/Sophocles" title="Sophocles">Sophocles'</a> tragedy, <i><a href="/wiki/Tereus_(Sophocles)" title="Tereus (Sophocles)">Tereus</a></i>, of which only fragments remain. <a href="/wiki/Ovid" title="Ovid">Ovid</a>, too, in his <i><a href="/wiki/Metamorphoses" title="Metamorphoses">Metamorphoses</a></i>, includes the most popular version of this myth, imitated and altered by later poets, including <a href="/wiki/Chr%C3%A9tien_de_Troyes" title="Chrétien de Troyes">Chrétien de Troyes</a>, <a href="/wiki/Geoffrey_Chaucer" title="Geoffrey Chaucer">Geoffrey Chaucer</a>, <a href="/wiki/John_Gower" title="John Gower">John Gower</a>, and <a href="/wiki/George_Gascoigne" title="George Gascoigne">George Gascoigne</a>. <a href="/wiki/T.S._Eliot" title="T.S. Eliot" class="mw-redirect">T.S. Eliot's</a> "<a href="/wiki/The_Waste_Land" title="The Waste Land">The Waste Land</a>" also evokes the Common Nightingale's song (and the myth of Philomela and Procne).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> Because of the violence associated with the myth, the nightingale's song was long interpreted as a lament.</p>
+<p>The Common Nightingale has also been used as a symbol of poets or their poetry.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> Poets chose the nightingale as a symbol because of its creative and seemingly spontaneous song. <a href="/wiki/Aristophanes" title="Aristophanes">Aristophanes'</a> <i>Birds</i> and <i><a href="/wiki/Callimachus" title="Callimachus">Callimachus</a></i> both evoke the bird's song as a form of poetry. <a href="/wiki/Virgil" title="Virgil">Virgil</a> compares the mourning of Orpheus to the “lament of the nightingale”.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>In <a href="/wiki/Sonnet_102" title="Sonnet 102">Sonnet 102</a> Shakespeare compares his love poetry to the song of the Common Nightingale (Philomel):</p>
+<dl>
+<dd>
+<dl>
+<dd>"Our love was new, and then but in the spring,</dd>
+<dd>When I was wont to greet it with my lays;</dd>
+<dd>As Philomel in summer's front doth sing,</dd>
+<dd>And stops his pipe in growth of riper days:"</dd>
+</dl>
+</dd>
+</dl>
+<p>During the <a href="/wiki/Romanticism" title="Romanticism">Romantic</a> era the bird's symbolism changed once more: poets viewed the nightingale not only as a poet in his own right, but as “master of a superior art that could inspire the human poet”.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> For some romantic poets, the nightingale even began to take on qualities of the muse. Coleridge and Wordsworth saw the nightingale more as an instance of natural poetic creation: the nightingale became a voice of nature. <a href="/wiki/John_Keats" title="John Keats">John Keats'</a> "<a href="/wiki/Ode_to_a_Nightingale" title="Ode to a Nightingale">Ode to a Nightingale</a>" pictures the nightingale as an idealized poet who has achieved the poetry that Keats longs to write. Invoking a similar conception of the nightingale, <a href="/wiki/Percy_Bysshe_Shelley" title="Percy Bysshe Shelley">Shelley</a> wrote in his “A Defense of Poetry":</p>
+<dl>
+<dd>
+<dl>
+<dd>"A poet is a nightingale who sits in darkness and sings to cheer its own solitude with sweet sounds; his auditors are as men entranced by the melody of an unseen musician, who feel that they are moved and softened, yet know not whence or why.”<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Nightingale&amp;action=edit&amp;section=4" title="Edit section: Culture">edit</a>]</span> <span class="mw-headline" id="Culture">Culture</span></h2>
+<ul>
+<li>The <i>Aēdōn</i> (<a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a>: <span lang="grc" xml:lang="grc">Ὰηδών</span>, "Nightingale") is a minor character in <a href="/wiki/Aristophanes" title="Aristophanes">Aristophanes</a>' <a href="/wiki/414_BC" title="414 BC">414 BC</a> <a href="/wiki/Attic_comedy" title="Attic comedy" class="mw-redirect">Attic comedy</a> "<a href="/wiki/The_Birds_(play)" title="The Birds (play)">The Birds</a>".</li>
+<li>"<a href="/wiki/The_Owl_and_the_Nightingale" title="The Owl and the Nightingale">The Owl and the Nightingale</a>" (12th or 13th century) is a <a href="/wiki/Middle_English" title="Middle English">Middle English</a> poem about an argument between these two birds.</li>
+<li>"<a href="/wiki/A_Nightingale_Sang_in_Berkeley_Square_(song)" title="A Nightingale Sang in Berkeley Square (song)">A Nightingale Sang in Berkeley Square</a>" was one of the most popular songs in Britain during World War 2</li>
+<li><a href="/wiki/John_Keats" title="John Keats">John Keats</a>'s "<a href="/wiki/Ode_to_a_Nightingale" title="Ode to a Nightingale">Ode to a Nightingale</a>" was described by <a href="/wiki/Edmund_Clarence_Stedman" title="Edmund Clarence Stedman">Edmund Clarence Stedman</a> as "one of our shorter English lyrics that still seems to me... the nearest to perfection, the one I would surrender last of all"<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> and by <a href="/wiki/Algernon_Charles_Swinburne" title="Algernon Charles Swinburne">Algernon Charles Swinburne</a> as "one of the final masterpieces of human work in all time and for all ages".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup></li>
+<li><a href="/wiki/John_Milton" title="John Milton">John Milton</a>'s sonnet "To the Nightingale" contrasts the symbolism of the nightingale as a bird for lovers, with the cuckoo as the bird that called when wives were unfaithful to (or "cuckolded") their husbands.</li>
+<li>The love of the nightingale for the rose is widely used, often metaphorically, in <a href="/wiki/Persian_literature" title="Persian literature">Persian literature</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup></li>
+<li>The beauty of the nightingale's song is a theme in <a href="/wiki/Hans_Christian_Andersen" title="Hans Christian Andersen">Hans Christian Andersen</a>'s story "<a href="/wiki/The_Nightingale_(fairy_tale)" title="The Nightingale (fairy tale)">The Nightingale</a>" from 1843.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup></li>
+<li>In <a rel="nofollow" class="external text" href="http://www.gutenberg.org/files/38252/38252-h/38252-h.htm#THE_BIRD_OF_SHADOWS">The Bird of Shadows and the Sun-Bird</a>, a fairy tale by Maud Margaret Key Statwell, a young girl wishes to become a nightingale.</li>
+<li>A nightingale is depicted on the <a href="/wiki/Obverse_and_reverse" title="Obverse and reverse">reverse</a> of the Croatian 1 <a href="/wiki/Croatian_kuna" title="Croatian kuna">kuna</a> coin, minted since 1993.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></li>
+<li>A recording of nightingale song is included, as directed by the score, in "<a href="/wiki/Pines_of_Rome#Sections" title="Pines of Rome">The Pines of Janiculum</a>", the third movement of <a href="/wiki/Ottorino_Respighi" title="Ottorino Respighi">Ottorino Respighi</a>'s 1924 <a href="/wiki/Symphonic_poem" title="Symphonic poem">symphonic poem</a> "<a href="/wiki/Pines_of_Rome" title="Pines of Rome">Pines of Rome</a>" (<i>Pini di Roma</i>).</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Nightingale&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106006593">"<i>Luscinia megarhynchos</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106006593">http://www.iucnredlist.org/apps/redlist/details/106006593</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Luscinia+megarhynchos%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106006593&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Wink1973-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wink1973_1-0">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(German)</span> Wink, Michael (1973): " <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/1967-79/28.%201973.pdf">Die Verbreitung der Nachtigall (<i>Luscinia megarhynchos</i>) im Rheinland</a>". <i>Charadrius</i> <b>9</b>(2/3): 65-80. (PDF)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFSalisbury2001">Salisbury, Joyce E. (2001), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=HF0m3spOebcC&amp;pg=PA276"><i>Women in the ancient world</i></a>, ABC-CLIO, p.&#160;276, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-57607-092-5" title="Special:BookSources/978-1-57607-092-5">978-1-57607-092-5</a><span class="printonly">, <a rel="nofollow" class="external free" href="http://books.google.com/books?id=HF0m3spOebcC&amp;pg=PA276">http://books.google.com/books?id=HF0m3spOebcC&amp;pg=PA276</a></span></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Women+in+the+ancient+world&amp;rft.aulast=Salisbury&amp;rft.aufirst=Joyce+E.&amp;rft.au=Salisbury%2C%26%2332%3BJoyce+E.&amp;rft.date=2001&amp;rft.pages=p.%26nbsp%3B276&amp;rft.pub=ABC-CLIO&amp;rft.isbn=978-1-57607-092-5&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHF0m3spOebcC%26pg%3DPA276&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFChandler1934"><a href="/w/index.php?title=Albert_R._Chandler&amp;action=edit&amp;redlink=1" class="new" title="Albert R. Chandler (page does not exist)">Chandler, Albert R.</a> (1934), <a rel="nofollow" class="external text" href="http://www.jstor.org/stable/3289944">"The Nightingale in Greek and Latin Poetry"</a>, <i>The Classic Journal</i> (The Classical Association of the Middle West and South, Inc.) <b>XXX</b> (2): 78–84<span class="printonly">, <a rel="nofollow" class="external free" href="http://www.jstor.org/stable/3289944">http://www.jstor.org/stable/3289944</a></span></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Nightingale+in+Greek+and+Latin+Poetry&amp;rft.jtitle=The+Classic+Journal&amp;rft.aulast=Chandler&amp;rft.aufirst=Albert+R.&amp;rft.au=Chandler%2C%26%2332%3BAlbert+R.&amp;rft.date=1934&amp;rft.volume=XXX&amp;rft.issue=2&amp;rft.pages=78%E2%80%9384&amp;rft.pub=The+Classical+Association+of+the+Middle+West+and+South%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.jstor.org%2Fstable%2F3289944&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFEliot1964">Eliot, T.S. (1964), <i>The Waste Land and Other Poems</i> (Signet Classic ed.), New York, NY: Penguin Group, pp.&#160;32–59, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-451-52684-7" title="Special:BookSources/978-0-451-52684-7">978-0-451-52684-7</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Waste+Land+and+Other+Poems&amp;rft.aulast=Eliot&amp;rft.aufirst=T.S.&amp;rft.au=Eliot%2C%26%2332%3BT.S.&amp;rft.date=1964&amp;rft.pages=pp.%26nbsp%3B32%E2%80%9359&amp;rft.edition=Signet+Classic&amp;rft.place=New+York%2C+NY&amp;rft.pub=Penguin+Group&amp;rft.isbn=978-0-451-52684-7&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFShippey1970">Shippey, Thomas (1970), <a rel="nofollow" class="external text" href="http://www.jstor.org/pss/1769299">"Listening to the Nightingale"</a>, <i>Comparative Literature</i> (Duke University Press) <b>XXII</b> (1): 46–60<span class="printonly">, <a rel="nofollow" class="external free" href="http://www.jstor.org/pss/1769299">http://www.jstor.org/pss/1769299</a></span></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Listening+to+the+Nightingale&amp;rft.jtitle=Comparative+Literature&amp;rft.aulast=Shippey&amp;rft.aufirst=Thomas&amp;rft.au=Shippey%2C%26%2332%3BThomas&amp;rft.date=1970&amp;rft.volume=XXII&amp;rft.issue=1&amp;rft.pages=46%E2%80%9360&amp;rft.pub=Duke+University+Press&amp;rft_id=http%3A%2F%2Fwww.jstor.org%2Fpss%2F1769299&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFDoggett1974">Doggett, Frank (1974), <a rel="nofollow" class="external text" href="http://www.jstor.org/stable/449753">"Romanticism's Singing Bird"</a>, <i>Studies in English Literature 1500-1900</i> (Rice University) <b>XIV</b> (4): 568<span class="printonly">, <a rel="nofollow" class="external free" href="http://www.jstor.org/stable/449753">http://www.jstor.org/stable/449753</a></span></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Romanticism%27s+Singing+Bird&amp;rft.jtitle=Studies+in+English+Literature+1500-1900&amp;rft.aulast=Doggett&amp;rft.aufirst=Frank&amp;rft.au=Doggett%2C%26%2332%3BFrank&amp;rft.date=1974&amp;rft.volume=XIV&amp;rft.issue=4&amp;rft.pages=568&amp;rft.pub=Rice+University&amp;rft_id=http%3A%2F%2Fwww.jstor.org%2Fstable%2F449753&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFDoggett1974">Doggett, Frank (1974), <a rel="nofollow" class="external text" href="http://www.jstor.org/stable/449753">"Romanticism's Singing Bird"</a>, <i>Studies in English Literature 1500-1900</i> (Rice University) <b>XIV</b> (4): 570<span class="printonly">, <a rel="nofollow" class="external free" href="http://www.jstor.org/stable/449753">http://www.jstor.org/stable/449753</a></span></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Romanticism%27s+Singing+Bird&amp;rft.jtitle=Studies+in+English+Literature+1500-1900&amp;rft.aulast=Doggett&amp;rft.aufirst=Frank&amp;rft.au=Doggett%2C%26%2332%3BFrank&amp;rft.date=1974&amp;rft.volume=XIV&amp;rft.issue=4&amp;rft.pages=570&amp;rft.pub=Rice+University&amp;rft_id=http%3A%2F%2Fwww.jstor.org%2Fstable%2F449753&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFBysshe_Shelley1903">Bysshe Shelley, Percy (1903), <i>A Defense of Poetry</i>, Boston, MA: Ginn &amp; Company, p.&#160;11</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Defense+of+Poetry&amp;rft.aulast=Bysshe+Shelley&amp;rft.aufirst=Percy&amp;rft.au=Bysshe+Shelley%2C%26%2332%3BPercy&amp;rft.date=1903&amp;rft.pages=p.%26nbsp%3B11&amp;rft.place=Boston%2C+MA&amp;rft.pub=Ginn+%26+Company&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFStedman1884"><a href="/wiki/Edmund_Clarence_Stedman" title="Edmund Clarence Stedman">Stedman, Edmund C.</a> (1884), <a rel="nofollow" class="external text" href="http://books.google.com/?id=XLWqByOcRjwC&amp;pg=PA600">"Keats"</a>, <i>The Century</i> <b>XXVII</b>: 600<span class="printonly">, <a rel="nofollow" class="external free" href="http://books.google.com/?id=XLWqByOcRjwC&amp;pg=PA600">http://books.google.com/?id=XLWqByOcRjwC&amp;pg=PA600</a></span></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Keats&amp;rft.jtitle=The+Century&amp;rft.aulast=Stedman&amp;rft.aufirst=Edmund+C.&amp;rft.au=Stedman%2C%26%2332%3BEdmund+C.&amp;rft.date=1884&amp;rft.volume=XXVII&amp;rft.pages=600&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DXLWqByOcRjwC%26pg%3DPA600&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFSwinburne1886"><a href="/wiki/Algernon_Charles_Swinburne" title="Algernon Charles Swinburne">Swinburne, Algernon Charles</a> (1886), <a rel="nofollow" class="external text" href="http://books.google.com/?id=UHsRAAAAYAAJ&amp;pg=PA211">"Keats"</a>, <i>Miscellanies</i>, New York: Worthington Company, pp.&#160;221<span class="printonly">, <a rel="nofollow" class="external free" href="http://books.google.com/?id=UHsRAAAAYAAJ&amp;pg=PA211">http://books.google.com/?id=UHsRAAAAYAAJ&amp;pg=PA211</a></span><span class="reference-accessdate">, retrieved 2008-10-08</span></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Keats&amp;rft.atitle=Miscellanies&amp;rft.aulast=Swinburne&amp;rft.aufirst=Algernon+Charles&amp;rft.au=Swinburne%2C%26%2332%3BAlgernon+Charles&amp;rft.date=1886&amp;rft.pages=pp.%26nbsp%3B221&amp;rft.place=New+York&amp;rft.pub=Worthington+Company&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DUHsRAAAAYAAJ%26pg%3DPA211&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span>. Reprinted from the <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i>.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20080122005248/http://www.iranica.com/articles/v11f1/v11f1034.html">"The Rose and nightingale in Persian literature"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.iranica.com/articles/v11f1/v11f1034.html">the original</a> on 2008-01-22<span class="printonly">. <a rel="nofollow" class="external free" href="http://web.archive.org/web/20080122005248/http://www.iranica.com/articles/v11f1/v11f1034.html">http://web.archive.org/web/20080122005248/http://www.iranica.com/articles/v11f1/v11f1034.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Rose+and+nightingale+in+Persian+literature&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20080122005248%2Fhttp%3A%2F%2Fwww.iranica.com%2Farticles%2Fv11f1%2Fv11f1034.html&amp;rfr_id=info:sid/en.wikipedia.org:Common_Nightingale"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.andersen.sdu.dk/vaerk/hersholt/TheNightingale_e.html">The Nightingale</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hnb.hr">Croatian National Bank</a>. <a rel="nofollow" class="external text" href="http://www.hnb.hr/novcan/ekovanic.htm?tsfsg=a89719a221b101407a7b882421d5f621">Kuna and Lipa, Coins of Croatia</a>: <a rel="nofollow" class="external text" href="http://www.hnb.hr/novcan/kovanice/e1kuna.htm?tsfsg=2f8fb802e4db3c45c05d9feb07991fe6">1 Kuna Coin</a>. – Retrieved on 31 March 2009.</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_Nightingale&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wikiquote-logo-en.svg/40px-Wikiquote-logo-en.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wikiquote-logo-en.svg/60px-Wikiquote-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wikiquote-logo-en.svg/80px-Wikiquote-logo-en.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikiquote has a collection of quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Nightingales" class="extiw" title="q:Nightingales">Nightingales</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Luscinia_megarhynchos" class="extiw" title="commons:Luscinia megarhynchos">Luscinia megarhynchos</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/329_NightingaleLmegarhynchos.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.freesound.org/people/dobroide/sounds/19662/">High-quality Nightingale sound file</a>, The Freesound Project: (requires free account to download). Retrieved 14 April 2012.</li>
+<li><a rel="nofollow" class="external text" href="http://www.camargue.unibas.ch/luscinia_megarhynchos.html">Nightingale song and behavioural ecology</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/common-nightingale-luscinia-megarhynchos?">Nightingale videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.metmuseum.org/toah/works-of-art/1993.98">Rose and nightingale in Persian art</a></li>
+<li><a href="/wiki/RSPB" title="RSPB" class="mw-redirect">Royal Society for the Protection of Birds</a> (British) Nightingale <a rel="nofollow" class="external text" href="http://www.rspb.org.uk/wildlife/birdguide/name/n/nightingale/">Nightinghale</a>, Retrieved June 11, 2007.</li>
+<li><a rel="nofollow" class="external text" href="http://www.freesound.org/people/reinsamba/sounds/17185/">Uncompressed high-quality Nightingale sound file</a>, The Freesound Project, (requires free account to download). Retrieved 14 April 2012.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 12532/1000000
+Preprocessor generated node count: 49762/1500000
+Post-expand include size: 80077/2048000 bytes
+Template argument size: 22004/2048000 bytes
+Highest expansion depth: 31/40
+Expensive parser function count: 2/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:77288-0!*!0!!en!4!* and timestamp 20121026013823 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_Nightingale&amp;oldid=515501068">http://en.wikipedia.org/w/index.php?title=Common_Nightingale&amp;oldid=515501068</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Luscinia" title="Category:Luscinia">Luscinia</a></li><li><a href="/wiki/Category:National_symbols_of_Iran" title="Category:National symbols of Iran">National symbols of Iran</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_German_language_external_links" title="Category:Articles with German language external links">Articles with German language external links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek_language_text" title="Category:Articles containing Ancient Greek language text">Articles containing Ancient Greek language text</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Nightingale&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+Nightingale" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_Nightingale"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_Nightingale"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_Nightingale" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_Nightingale&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_Nightingale&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_Nightingale" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_Nightingale" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_Nightingale&amp;oldid=515501068" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Common_Nightingale&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_Nightingale&amp;id=515501068" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+Nightingale" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+Nightingale&amp;oldid=515501068&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_Nightingale&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D9%86%D8%AF%D9%84%D9%8A%D8%A8" title="عندليب" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/C%C9%99nub_b%C3%BClb%C3%BCl%C3%BC" title="Cənub bülbülü" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%AE%D0%B6%D0%B5%D0%BD_%D1%81%D0%BB%D0%B0%D0%B2%D0%B5%D0%B9" title="Южен славей" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Eostig" title="Eostig" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Rossinyol" title="Rossinyol" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%A8%C4%83%D0%BF%D1%87%C4%83%D0%BA" title="Шăпчăк" lang="cv" hreflang="cv">Чӑвашла</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Slav%C3%ADk_obecn%C3%BD" title="Slavík obecný" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Eos" title="Eos" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Sydlig_nattergal" title="Sydlig nattergal" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Nachtigall" title="Nachtigall" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CE%B7%CE%B4%CF%8C%CE%BD%CE%B9" title="Αηδόνι" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-myv"><a href="//myv.wikipedia.org/wiki/%D0%A6%D1%91%D0%BA%D0%BE%D0%B2" title="Цёков" lang="myv" hreflang="myv">Эрзянь</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Luscinia_megarhynchos" title="Luscinia megarhynchos" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Najtingalo_(birdo)" title="Najtingalo (birdo)" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Urretxindor_arrunt" title="Urretxindor arrunt" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D9%84%D8%A8%D9%84" title="بلبل" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Su%C3%B0urn%C3%A1ttargali" title="Suðurnáttargali" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Rossignol_philom%C3%A8le" title="Rossignol philomèle" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Rousinol" title="Rousinol" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%82%98%EC%9D%B4%ED%8C%85%EA%B2%8C%EC%9D%BC" title="나이팅게일" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%B6%E0%A4%BE%E0%A4%B9_%E0%A4%AC%E0%A5%81%E0%A4%B2%E0%A4%AC%E0%A5%81%E0%A4%B2" title="शाह बुलबुल" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Slavuj" title="Slavuj" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Naktigalo" title="Naktigalo" lang="io" hreflang="io">Ido</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Luscinia_megarhynchos" title="Luscinia megarhynchos" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%96%D7%9E%D7%99%D7%A8_%D7%94%D7%99%D7%A8%D7%93%D7%9F" title="זמיר הירדן" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-ht"><a href="//ht.wikipedia.org/wiki/Rosiny%C3%B2l" title="Rosinyòl" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Bilbil_(balinde)" title="Bilbil (balinde)" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lad"><a href="//lad.wikipedia.org/wiki/Bilbilikos" title="Bilbilikos" lang="lad" hreflang="lad">Ladino</a></li>
+			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Luscinia_megarhynchos" title="Luscinia megarhynchos" lang="la" hreflang="la">Latina</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Rietumu_lakst%C4%ABgala" title="Rietumu lakstīgala" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Vakarin%C4%97_lak%C5%A1tingala" title="Vakarinė lakštingala" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-lmo"><a href="//lmo.wikipedia.org/wiki/Luscinia_megarhynchos" title="Luscinia megarhynchos" lang="lmo" hreflang="lmo">Lumbaart</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/F%C3%BClem%C3%BCle" title="Fülemüle" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Nachtegaal" title="Nachtegaal" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A8%E3%83%8A%E3%82%AD%E3%83%89%E3%83%AA" title="サヨナキドリ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-nap"><a href="//nap.wikipedia.org/wiki/Russignuolo" title="Russignuolo" lang="nap" hreflang="nap">Nnapulitano</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Naachtigal" title="Naachtigal" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/S%C3%B8rnattergal" title="Sørnattergal" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Luscinia_megarhynchos" title="Luscinia megarhynchos" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Orsigno_filom%C3%A8le" title="Orsigno filomèle" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Luscinia_megarhynchos" title="Luscinia megarhynchos" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/S%C5%82owik_rdzawy" title="Słowik rdzawy" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Rouxinol" title="Rouxinol" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Privighetoare" title="Privighetoare" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-qu"><a href="//qu.wikipedia.org/wiki/Ruysi%C3%B1ur" title="Ruysiñur" lang="qu" hreflang="qu">Runa Simi</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D0%B9" title="Западный соловей" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D0%B9" title="Западный соловей" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%A2%D2%AF%D2%AF%D2%A5%D2%A5%D2%AF_%D1%87%D1%8B%D1%8B%D1%87%D0%B0%D0%B0%D1%85" title="Түүҥҥү чыычаах" lang="sah" hreflang="sah">Саха тыла</a></li>
+			<li class="interwiki-scn"><a href="//scn.wikipedia.org/wiki/Luscinia_megarhynchos" title="Luscinia megarhynchos" lang="scn" hreflang="scn">Sicilianu</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Nightingale" title="Nightingale" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Sl%C3%A1vik_oby%C4%8Dajn%C3%BD" title="Slávik obyčajný" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B0%D0%B2%D1%83%D1%98" title="Славуј" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Etel%C3%A4nsatakieli" title="Etelänsatakieli" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Sydn%C3%A4ktergal" title="Sydnäktergal" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tl"><a href="//tl.wikipedia.org/wiki/Ruwisenyor" title="Ruwisenyor" lang="tl" hreflang="tl">Tagalog</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AE%BF" title="இராப்பாடி" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-tg"><a href="//tg.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B1%D1%83%D0%BB" title="Булбул" lang="tg" hreflang="tg">Тоҷикӣ</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/B%C3%BClb%C3%BCl" title="Bülbül" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D0%B9%D0%BA%D0%BE_%D0%B7%D0%B0%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%B9" title="Соловейко західний" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%A4%9C%E9%B6%AF" title="夜鶯" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 18:21.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_Nightingale&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv200 in 0.154 secs. -->
+	</body>
+</html>

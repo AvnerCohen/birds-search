@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Little Swift - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Little_Swift&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Little_Swift&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Little_Swift","wgTitle":"Little Swift","wgCurRevisionId":520143930,"wgArticleId":376451,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Apus (genus)","Birds of Pakistan","Birds of India"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Little_Swift","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"3586fa647329f611a2fe14f2f35ac65c","wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":376451,"title":"Little Swift","namespace":0,"categories":["Apus (genus)","Articles with \'species\' microformats","Birds of India","Birds of Pakistan","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Little_Swift skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Little Swift</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Little Swift</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:House_swift_I_IMG_3260.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/House_swift_I_IMG_3260.jpg/220px-House_swift_I_IMG_3260.jpg" width="220" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/House_swift_I_IMG_3260.jpg/330px-House_swift_I_IMG_3260.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/House_swift_I_IMG_3260.jpg/440px-House_swift_I_IMG_3260.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">In <a href="/wiki/India" title="India">India</a>.</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Swift" title="Swift">Apodiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Apodidae" title="Apodidae" class="mw-redirect">Apodidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Apus_(genus)" title="Apus (genus)">Apus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. affinis</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Apus affinis</i></span></b><br />
+<small>(<a href="/wiki/John_Edward_Gray" title="John Edward Gray">JE Gray</a>, 1830)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:ApusAffinisDistribution.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/ApusAffinisDistribution.png/220px-ApusAffinisDistribution.png" width="220" height="178" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/ApusAffinisDistribution.png/330px-ApusAffinisDistribution.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/ApusAffinisDistribution.png/440px-ApusAffinisDistribution.png 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><br />
+<span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#00FF32; color:#00FF32;">&#160;&#160;&#160;&#160;</span>&#160;Summer</span> <span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#009865; color:#009865;">&#160;&#160;&#160;&#160;</span>&#160;Resident</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+</table>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:House_Swift_I2_filtered.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/House_Swift_I2_filtered.jpg/220px-House_Swift_I2_filtered.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/House_Swift_I2_filtered.jpg/330px-House_Swift_I2_filtered.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/House_Swift_I2_filtered.jpg/440px-House_Swift_I2_filtered.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:House_Swift_I2_filtered.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, <a href="/wiki/India" title="India">India</a>.</div>
+</div>
+</div>
+<p>The <b>Little Swift</b> (<i>Apus affinis</i>), is a small <a href="/wiki/Bird" title="Bird">bird</a>, superficially similar to a <a href="/wiki/Barn_Swallow" title="Barn Swallow">Barn Swallow</a> or <a href="/wiki/House_Martin" title="House Martin" class="mw-redirect">House Martin</a>. It is, however, completely unrelated to those <a href="/wiki/Passerine" title="Passerine">passerine</a> species, since <a href="/wiki/Swift" title="Swift">swifts</a> are in the order Apodiformes. The resemblances between the groups are due to <a href="/wiki/Convergent_evolution" title="Convergent evolution">convergent evolution</a> reflecting similar life styles. The former eastern race, <a href="/wiki/House_Swift" title="House Swift">House Swift</a>, is usually considered a separate species, <i>Apus nipalensis</i>.</p>
+<p>These birds have very short legs which they use only for clinging to vertical surfaces. The scientific name comes from the <a href="/wiki/Greek_language" title="Greek language">Greek</a> απους, <i>apous</i>, meaning "without feet". They never settle voluntarily on the ground.</p>
+<p>Little Swifts breed around habitation and cliffs from <a href="/wiki/Africa" title="Africa">Africa</a> northeastwards through southern <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> and <a href="/wiki/India" title="India">India</a> and <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a>. Unlike the more northerly <a href="/wiki/Common_Swift" title="Common Swift">Common Swift</a>, many birds are resident, but some populations are <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, and winter further south than their breeding areas. They wander widely on migration, and are seen as rare vagrants in much of Europe and Asia.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:House_Swift_(Apus_affinis)_at_nest_in_Hyderabad,_AP_W2_IMG_0192.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/House_Swift_%28Apus_affinis%29_at_nest_in_Hyderabad%2C_AP_W2_IMG_0192.jpg/220px-House_Swift_%28Apus_affinis%29_at_nest_in_Hyderabad%2C_AP_W2_IMG_0192.jpg" width="220" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/House_Swift_%28Apus_affinis%29_at_nest_in_Hyderabad%2C_AP_W2_IMG_0192.jpg/330px-House_Swift_%28Apus_affinis%29_at_nest_in_Hyderabad%2C_AP_W2_IMG_0192.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/House_Swift_%28Apus_affinis%29_at_nest_in_Hyderabad%2C_AP_W2_IMG_0192.jpg/440px-House_Swift_%28Apus_affinis%29_at_nest_in_Hyderabad%2C_AP_W2_IMG_0192.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:House_Swift_(Apus_affinis)_at_nest_in_Hyderabad,_AP_W2_IMG_0192.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+At nest in <a href="/wiki/Hyderabad,_India" title="Hyderabad, India">Hyderabad, India</a>.</div>
+</div>
+</div>
+<p>Little Swifts build their nests in hole in buildings or sometimes on cliffs, laying 1-4 eggs. A swift will return to the same site year after year, rebuilding its nest when necessary. A species of bedbug <i>Cimex hemipterus</i> has been recorded from its nest in India.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
+<p>Little Swifts spend most of their lives in the air, living on the insects they catch in their beaks. They drink on the wing, but roost on vertical cliffs or walls. They are notoriously slow risers in the mornings.</p>
+<p>Little Swifts are readily identified by their small size. Their wingspan is 33&#160;cm compared to the 42&#160;cm of Common Swift. They are black except for a white rump, the white extending on to the flanks. They have a short square tail. The flight is fluttering like a House Martin.</p>
+<p>The call is a high twittering.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Little_Swift&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106001787">"<i>Apus affinis</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106001787">http://www.iucnredlist.org/apps/redlist/details/106001787</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Apus+affinis%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106001787&amp;rfr_id=info:sid/en.wikipedia.org:Little_Swift"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Phil Chantler &amp; Gerald Driessens (2000). <i>A Guide to the Swifts and Tree Swifts of the World</i>. <a href="/wiki/Pica_Press" title="Pica Press" class="mw-redirect">Pica Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-873403-83-6" title="Special:BookSources/1-873403-83-6">1-873403-83-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Guide+to+the+Swifts+and+Tree+Swifts+of+the+World&amp;rft.aulast=Phil+Chantler+%26+Gerald+Driessens&amp;rft.au=Phil+Chantler+%26+Gerald+Driessens&amp;rft.date=2000&amp;rft.pub=%5B%5BPica+Press%5D%5D&amp;rft.isbn=1-873403-83-6&amp;rfr_id=info:sid/en.wikipedia.org:Little_Swift"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation Journal">Horvath G (1912). "Revision of the American Cimicidae". <i>Ann. Hist. Nat. Mus. Hungary</i> <b>10</b>: 257–262.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Revision+of+the+American+Cimicidae&amp;rft.jtitle=Ann.+Hist.+Nat.+Mus.+Hungary&amp;rft.aulast=Horvath+G&amp;rft.au=Horvath+G&amp;rft.date=1912&amp;rft.volume=10&amp;rft.pages=257%E2%80%93262&amp;rfr_id=info:sid/en.wikipedia.org:Little_Swift"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book">Hicks, Ellis A (1959). <a rel="nofollow" class="external text" href="http://www.archive.org/details/checklistbibliog00hick"><i>Checklist and bibliography on the occurrence of insects in birds' nests</i></a>. Iowa State College Press, Ames<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/details/checklistbibliog00hick">http://www.archive.org/details/checklistbibliog00hick</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Checklist+and+bibliography+on+the+occurrence+of+insects+in+birds%27+nests&amp;rft.aulast=Hicks%2C+Ellis+A&amp;rft.au=Hicks%2C+Ellis+A&amp;rft.date=1959&amp;rft.pub=Iowa+State+College+Press%2C+Ames&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2Fchecklistbibliog00hick&amp;rfr_id=info:sid/en.wikipedia.org:Little_Swift"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Little_Swift&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" /> Media related to <a href="//commons.wikimedia.org/wiki/category:Apus_affinis" class="extiw" title="commons:category:Apus affinis">Apus affinis</a> at Wikimedia Commons</li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" width="14" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/27px-Wikispecies-logo.svg.png 2x" /> Data related to <a href="//species.wikimedia.org/wiki/Apus_affinis" class="extiw" title="wikispecies:Apus affinis">Apus affinis</a> at Wikispecies</li>
+<li><a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide/pool/tags/Apus+affinis"><i>Apus affinis</i></a> in the <a href="/wiki/Flickr" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide">Field Guide Birds of the World</a></li>
+<li><a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org/species.jsp?lang=EN&amp;avibaseid=4D28A0CDBED214AD">Apus affinis</a> on <a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org">Avibase</a></li>
+</ul>
+<p><span id="interwiki-de-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 5714/1000000
+Preprocessor generated node count: 40650/1500000
+Post-expand include size: 34418/2048000 bytes
+Template argument size: 8413/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:376451-0!*!0!!*!4!* and timestamp 20121027175555 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Little_Swift&amp;oldid=520143930">http://en.wikipedia.org/w/index.php?title=Little_Swift&amp;oldid=520143930</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Apus_(genus)" title="Category:Apus (genus)">Apus (genus)</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Little+Swift&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Little+Swift" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Little_Swift"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Little_Swift"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Little_Swift" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Little_Swift&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Little_Swift&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Little_Swift" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Little_Swift" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Little_Swift&amp;oldid=520143930" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Little_Swift&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Little_Swift&amp;id=520143930" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Little+Swift" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Little+Swift&amp;oldid=520143930&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Little_Swift&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%85%D8%A7%D9%85%D8%A9_%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9" title="سمامة صغيرة" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Apus_affinis" title="Apus affinis" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Glaouer_pastellek" title="Glaouer pastellek" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Haussegler" title="Haussegler" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Apus_affinis" title="Apus affinis" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Blankpuga_apuso" title="Blankpuga apuso" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Sorbeltz_txiki" title="Sorbeltz txiki" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Martinet_des_maisons" title="Martinet des maisons" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%B2%E0%B4%82%E0%B4%9A%E0%B5%81%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF" title="അമ്പലംചുറ്റി" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Layang-layang_Rumah" title="Burung Layang-layang Rumah" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Huisgierzwaluw" title="Huisgierzwaluw" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%82%A2%E3%83%9E%E3%83%84%E3%83%90%E3%83%A1" title="ヒメアマツバメ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Jerzyk_ma%C5%82y" title="Jerzyk mały" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Andorinh%C3%A3o-pequeno" title="Andorinhão-pequeno" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pikkukiit%C3%A4j%C3%A4_(lintu)" title="Pikkukiitäjä (lintu)" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Stubbstj%C3%A4rtseglare" title="Stubbstjärtseglare" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_ebabil" title="Küçük ebabil" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-udm"><a href="//udm.wikipedia.org/wiki/%D0%9F%D0%B8%D1%87%D0%B8_%D0%BF%D3%A7%D1%81%D1%8C%D0%BA%D1%8B" title="Пичи пӧськы" lang="udm" hreflang="udm">Удмурт</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B0%8F%E7%99%BD%E8%85%B0%E9%9B%A8%E7%87%95" title="小白腰雨燕" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 October 2012 at 17:55.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Little_Swift&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw45 in 0.143 secs. -->
+	</body>
+</html>

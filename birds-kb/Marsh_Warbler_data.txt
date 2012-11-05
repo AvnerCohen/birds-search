@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Marsh Warbler - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Marsh_Warbler&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Marsh_Warbler&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marsh_Warbler","wgTitle":"Marsh Warbler","wgCurRevisionId":519896494,"wgArticleId":347661,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Acrocephalus","Birds of Asia","Birds of Europe","Birds of Turkey","Birds of Africa","Birds of Palestine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Marsh_Warbler","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"6066d52f312f48c43fd00307ab2a5ee9","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":347661,"title":"Marsh Warbler","namespace":0,"categories":["Acrocephalus","Articles with \'species\' microformats","Birds of Africa","Birds of Asia","Birds of Europe","Birds of Palestine","Birds of Turkey","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Marsh_Warbler skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Marsh Warbler</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Marsh Warbler</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Acrocephalus_palustris_(Marek_Szczepanek).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Acrocephalus_palustris_%28Marek_Szczepanek%29.jpg/250px-Acrocephalus_palustris_%28Marek_Szczepanek%29.jpg" width="250" height="388" srcset="//upload.wikimedia.org/wikipedia/commons/7/7d/Acrocephalus_palustris_%28Marek_Szczepanek%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/7d/Acrocephalus_palustris_%28Marek_Szczepanek%29.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Superfamily:</td>
+<td><span class="superfamily" style="white-space:nowrap;"><a href="/wiki/Sylvioidea" title="Sylvioidea">Sylvioidea</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Acrocephalidae" title="Acrocephalidae">Acrocephalidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Acrocephalus" title="Acrocephalus">Acrocephalus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. palustris</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Acrocephalus palustris</i></span></b><br />
+<small>(<a href="/wiki/Johann_Matth%C3%A4us_Bechstein" title="Johann Matthäus Bechstein">Bechstein</a>, 1798)</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Marsh Warbler</b> (<i>Acrocephalus palustris</i>) is an <a href="/wiki/Old_World_warbler" title="Old World warbler">Old World warbler</a> currently classified in the family <a href="/wiki/Acrocephalidae" title="Acrocephalidae">Acrocephalidae</a>. It breeds in temperate Europe and western Asia and winters mainly in south east Africa. It is notable for incorporating striking imitations of a wide variety of other birds into its song.</p>
+<p>The Marsh Warbler breeds in a variety of mostly damp habitats, but in Africa winters mainly in dry, well-vegetated areas. It is common over much of its breeding range and expanding its distribution in some areas. However in Britain it is now virtually extinct as a breeding bird.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> This <a href="/wiki/Insectivorous" title="Insectivorous" class="mw-redirect">insectivorous</a> warbler can be easily confused with several close relatives, but the imitative song of the male is highly distinctive.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description_and_taxonomy"><span class="tocnumber">1</span> <span class="toctext">Description and taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution_and_habitat"><span class="tocnumber">2</span> <span class="toctext">Distribution and habitat</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Status_in_Britain"><span class="tocnumber">2.1</span> <span class="toctext">Status in Britain</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Social_behaviour_and_breeding"><span class="tocnumber">3.1</span> <span class="toctext">Social behaviour and breeding</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Song"><span class="tocnumber">3.2</span> <span class="toctext">Song</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Diet_and_feeding_behaviour"><span class="tocnumber">3.3</span> <span class="toctext">Diet and feeding behaviour</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Conservation"><span class="tocnumber">4</span> <span class="toctext">Conservation</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=1" title="Edit section: Description and taxonomy">edit</a>]</span> <span class="mw-headline" id="Description_and_taxonomy">Description and taxonomy</span></h2>
+<p>This is a medium-sized warbler. It is very similar in appearance to several other <a href="/wiki/Acrocephalus" title="Acrocephalus">acrocephaline</a> warblers, such as the <a href="/wiki/Reed_Warbler" title="Reed Warbler" class="mw-redirect">Reed Warbler</a> which also occurs in wetlands and has a similar breeding range. The male's distinctive song is useful for identification, as no other member of the genus mimics other birds to any significant extent. The Marsh Warbler also tends to avoid the stands of pure <a href="/wiki/Phragmites" title="Phragmites">reed</a> which are the Reed Warblers' favoured habitat.<sup id="cite_ref-BWPi_2-0" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The species is <a href="/wiki/Monotypic" title="Monotypic" class="mw-redirect">monotypic</a>, and there is no significant geographical variation. The sexes are alike in appearance. <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">Hybridisation</a> with both Reed Warbler and <a href="/wiki/Blyth%27s_Reed_Warbler" title="Blyth's Reed Warbler">Blyth's Reed Warbler</a> has been occasionally recorded.<sup id="cite_ref-BWPi_2-1" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=2" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<p>The Marsh Warbler breeds in the middle latitudes of Europe and western Asia, from the English Channel to about 70 degrees east. It mainly occupies areas with a <a href="/wiki/Continental_climate" title="Continental climate">continental climate</a>, but breeds, or has bred, in Britain and northern France as well. it is principally a bird of the lowlands, but occurs at altitudes of up to 3000m in Georgia. In recent decades it has expanded its range to the north, with increasing numbers of birds breeding in Scandinavia and north-west Russia.<sup id="cite_ref-BWPi_2-2" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>In western Europe the Marsh Warbler breeds mainly in rank vegetation on damp or seasonally flooded soils, and is particularly attracted to tall herbaceous vegetation such as <a href="/wiki/Stinging_nettle" title="Stinging nettle">nettles</a>, <a href="/wiki/Filipendula_ulmaria" title="Filipendula ulmaria">meadowsweet</a>, <a href="/wiki/Epilobium" title="Epilobium">willowherbs</a> and to young <a href="/wiki/Willow" title="Willow">osiers</a> and other low woody plants. It may breed in urban <a href="/wiki/Brownfield" title="Brownfield" class="mw-redirect">brownfield</a> sites with suitable vegetation, for instance in Berlin, and also occasionally in arable crops. In the eastern part of its range, it breeds on dry hillsides with shrubs and in open woodland, as well as the kind of damper habitats it frequents in the west.<sup id="cite_ref-BWPi_2-3" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The Marsh Warbler winters mainly in south-east Africa, from Cape Province north to Zambia and Malawi. It makes use of a range of well-vegetated habitats, from moist scrub to dense thickets and woodland edge, at altitudes of up to 2400m.<sup id="cite_ref-BWPi_2-4" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>Marsh Warblers tend to <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> from Europe to Africa via the Middle East, with many crossing Arabia and arriving in Africa on Sudan's <a href="/wiki/Red_Sea" title="Red Sea">Red Sea</a> coast. Adults usually leave their breeding grounds soon after their young are independent, with their offspring following about two weeks later. On the Red Sea coast most birds arrive from mid-August to mid-September, with numbers of adults peaking in August and of young birds in September. Birds tend to spend much of the autumn somewhere in north-east or east Africa, before continuing south to arrive on their wintering grounds in December or January.<sup id="cite_ref-BWPi_2-5" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>In spring, Marsh Warblers leave their wintering grounds in March or April. They are thought to follow broadly similar routes to their autumn migration. Birds breeding in south-east Europe, for instance on the Black Sea coast, may arrive there by late April. In other parts of their range, the majority of birds do not arrive until mid-May. On the western and northern edge of their range, for instance in England, birds do not tend to arrive until the end of May or early June.<sup id="cite_ref-BWPi_2-6" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>As a <a href="/wiki/Vagrancy_(biology)" title="Vagrancy (biology)">vagrant</a>, the species has been recorded as far away as Iceland and Madeira.<sup id="cite_ref-BWPi_2-7" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=3" title="Edit section: Status in Britain">edit</a>]</span> <span class="mw-headline" id="Status_in_Britain">Status in Britain</span></h3>
+<p>In Britain the species was never widespread, and disappeared from many areas from the 1930s onwards.<sup id="cite_ref-BWPi_2-8" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup> By the 1970s Marsh Warblers bred in significant numbers only in Worcestershire, where 40-70 pairs were recorded each year during that decade.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> This population was effectively extinct by the end of the 1990s.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> From the 1970s and 1980s onwards, a very small population slowly developed in south-east England. However this population is also now close to extinction.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=5" title="Edit section: Social behaviour and breeding">edit</a>]</span> <span class="mw-headline" id="Social_behaviour_and_breeding">Social behaviour and breeding</span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Marsh_Warbler_pho_0069.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marsh_Warbler_pho_0069.jpg/250px-Marsh_Warbler_pho_0069.jpg" width="250" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marsh_Warbler_pho_0069.jpg/375px-Marsh_Warbler_pho_0069.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marsh_Warbler_pho_0069.jpg/500px-Marsh_Warbler_pho_0069.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Marsh_Warbler_pho_0069.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Marsh Warbler with a cuckoo nestling.</div>
+</div>
+</div>
+<p>The species is usually <a href="/wiki/Monogamous" title="Monogamous" class="mw-redirect">monogamous</a>. Marsh Warblers tend to choose new mates each year and do not necessarily return to breed in the same area as previous years. On their breeding grounds they are <a href="/wiki/Territory_(animal)" title="Territory (animal)">territorial</a>, with territories often grouped into loose colonies. In Africa, they are essentially solitary, and may defend territories to some extent.<sup id="cite_ref-BWPi_2-9" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The nest is a cup, made mostly from leaves and plant stems, and is usually in dense vegetation, at varying heights. Three to six eggs are laid. Both sexes bring food to the nestlings.<sup id="cite_ref-BWPi_2-10" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup> In continental Europe at least, the species has a short breeding season, of 52–55 days.<sup id="cite_ref-Leisler_7-0" class="reference"><a href="#cite_note-Leisler-7"><span>[</span>8<span>]</span></a></sup> In some areas, such as Bulgaria, Marsh Warblers suffer significant levels of <a href="/wiki/Brood_parasitism" title="Brood parasitism" class="mw-redirect">parasitism</a> by <a href="/wiki/Common_cuckoo" title="Common cuckoo" class="mw-redirect">Common Cuckoos</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=6" title="Edit section: Song">edit</a>]</span> <span class="mw-headline" id="Song">Song</span></h3>
+<p>The Marsh Warbler is best known for the highly imitative song uttered by males, and very occasionally by females. Each male Marsh Warbler incorporates imitations of a wide range of other birds into its song. Other <a href="/wiki/Passerines" title="Passerines" class="mw-redirect">passerines</a> are most commonly imitated, but the calls of other kinds of bird such as <a href="/wiki/Wader" title="Wader">waders</a>, <a href="/wiki/Hornbill" title="Hornbill">hornbills</a> and <a href="/wiki/Columbidae" title="Columbidae">pigeons</a> have been noted too. On average, each male bird incorporates imitations of 75 other species into its song, with rather more African than northern species mimicked. All learning seems to take place in the summer the bird is hatched in Europe or Asia, and in its first winter in Africa. The calls of birds heard in subsequent years are not added to the warbler's repertoire.<sup id="cite_ref-BWPi_2-11" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup> Females may utter a simple, non-imitative song, and a range of other calls are also known.</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://sounds.bl.uk/View.aspx?item=022M-WACROXCEPH10-0200V0.xml#">recording of song</a></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=7" title="Edit section: Diet and feeding behaviour">edit</a>]</span> <span class="mw-headline" id="Diet_and_feeding_behaviour">Diet and feeding behaviour</span></h3>
+<p>The Marsh Warbler is mostly insectivorous, also taking some spiders and small numbers of snails. It generally gleans insects from vegetation but sometimes catches them on the ground or in mid-air. In autumn small numbers of berries may be eaten. There have been no detailed studies of the bird's diet in Africa, though foraging techniques during winter are known to be very similar.<sup id="cite_ref-BWPi_2-12" class="reference"><a href="#cite_note-BWPi-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=8" title="Edit section: Conservation">edit</a>]</span> <span class="mw-headline" id="Conservation">Conservation</span></h2>
+<p>Globally, the population is believed to be increasing, and the <a href="/wiki/World_Conservation_Union" title="World Conservation Union" class="mw-redirect">IUCN</a> categorises the species as of <a href="/wiki/Least_concern" title="Least concern" class="mw-redirect">least concern</a>. It is estimated to have a total population of 10 to 27 million individuals.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
+<p>The reasons for the population decline in Britain are not completely understood, and there appears to be much suitable habitat.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> The <a href="/wiki/Biodiversity_Action_Plan" title="Biodiversity Action Plan" class="mw-redirect">Biodiversity Action Plan</a> for the species further comments that it is not clear what can be done to conserve the species apart from protecting habitat at known breeding sites and protecting birds from egg collectors and from disturbance.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=9" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106007606">"<i>Acrocephalus palustris</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106007606">http://www.iucnredlist.org/apps/redlist/details/106007606</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Acrocephalus+palustris%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106007606&amp;rfr_id=info:sid/en.wikipedia.org:Marsh_Warbler"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">British Trust for Ornithology, <a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob12500.htm">BirdFacts: Marsh Warbler</a> accessed 21 February 2010.</span></li>
+<li id="cite_note-BWPi-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BWPi_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BWPi_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BWPi_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BWPi_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BWPi_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BWPi_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-BWPi_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-BWPi_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-BWPi_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-BWPi_2-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-BWPi_2-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-BWPi_2-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-BWPi_2-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><i>Birds of the Western Palearctic interactive (DVD-Rom)</i>. Oxford University Press and BirdGuides Ltd. 2006.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+the+Western+Palearctic+interactive+%28DVD-Rom%29&amp;rft.date=2006&amp;rft.pub=Oxford+University+Press+and+BirdGuides+Ltd&amp;rfr_id=info:sid/en.wikipedia.org:Marsh_Warbler"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Robin Spencer and the Rare Breeding Birds Panel <a rel="nofollow" class="external text" href="http://www.rbbp.org.uk/downloads/rbbp-report-1990.pdf">Report for 1990</a> accessed 21 February 2010.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Malcolm Ogilvie and the Rare Breeding Birds Panel <a rel="nofollow" class="external text" href="http://www.rbbp.org.uk/downloads/rbbp-report-1999.pdf">Report for 1999</a> accessed 21 February 2010.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">J. T. R. Sharrock and the Rare Breeding Birds Panel <a rel="nofollow" class="external text" href="http://www.rbbp.org.uk/downloads/rbbp-report-1978.pdf">Report for 1978</a> accessed 21 February 2010.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mark Holling and the Rare Breeding Birds Panel (2010). "Rare breeding birds in the United Kingdom in 2007". <i>British Birds</i> <b>103</b>: 45–6.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rare+breeding+birds+in+the+United+Kingdom+in+2007&amp;rft.jtitle=British+Birds&amp;rft.aulast=Mark+Holling+and+the+Rare+Breeding+Birds+Panel&amp;rft.au=Mark+Holling+and+the+Rare+Breeding+Birds+Panel&amp;rft.date=2010&amp;rft.volume=103&amp;rft.pages=45%E2%80%936&amp;rfr_id=info:sid/en.wikipedia.org:Marsh_Warbler"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Leisler-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leisler_7-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">(Leisler, B. &amp; Wink M. (2000). <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/2000/14.%202000.pdf">"Frequences of multiple paternity in three Acrocephalus species (Aves Sylviidae) with different mating systems (A. palustris, A. arudinaceus, A. paludicola)"</a>. <i>Ecology, Ethology and Evolution</i> <b>12</b>: 237–49<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/2000/14.%202000.pdf">http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/2000/14.%202000.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Frequences+of+multiple+paternity+in+three+Acrocephalus+species+%28Aves+Sylviidae%29+with+different+mating+systems+%28A.+palustris%2C+A.+arudinaceus%2C+A.+paludicola%29&amp;rft.jtitle=Ecology%2C+Ethology+and+Evolution&amp;rft.aulast=%28Leisler%2C+B.+%26+Wink+M.&amp;rft.au=%28Leisler%2C+B.+%26+Wink+M.&amp;rft.date=2000&amp;rft.volume=12&amp;rft.pages=237%E2%80%9349&amp;rft_id=http%3A%2F%2Fwww.uni-heidelberg.de%2Finstitute%2Ffak14%2Fipmb%2Fphazb%2Fpubwink%2F2000%2F14.%25202000.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Marsh_Warbler"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Antonov, Anton et al (2006). "Egg rejection in Marsh Warblers (Acrocephalus palustris) heavily parasitized by Common Cuckoos (Cuculus canorus)". <i>The Auk</i> <b>123</b> (2): 1801–35.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Egg+rejection+in+Marsh+Warblers+%28Acrocephalus+palustris%29+heavily+parasitized+by+Common+Cuckoos+%28Cuculus+canorus%29&amp;rft.jtitle=The+Auk&amp;rft.aulast=Antonov%2C+Anton+et+al&amp;rft.au=Antonov%2C+Anton+et+al&amp;rft.date=2006&amp;rft.volume=123&amp;rft.issue=2&amp;rft.pages=1801%E2%80%9335&amp;rfr_id=info:sid/en.wikipedia.org:Marsh_Warbler"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">IUCN, <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/148391/0">Red List: Acrocephalus palustris</a> accessed 21 February 2010.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ukbap-reporting.org.uk/plans/national_plan.asp?SAP={2D8C6B6F-C280-4639-8629-F68AAF0887E3}">Biodiversity Action Plan for Acrocephalus palustris (Marsh warbler)</a> accessed 21 February 2010</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ukbap-reporting.org.uk/plans/national_plan.asp?SAP={2D8C6B6F-C280-4639-8629-F68AAF0887E3}">Biodiversity Action Plan for Acrocephalus palustris (Marsh warbler)</a> accessed 21 February 2010.</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><a href="/wiki/Vinicombe,_Keith" title="Vinicombe, Keith" class="mw-redirect">Vinicombe, Keith</a> (2005) ID in depth: Marsh Warbler <i><a href="/wiki/Birdwatch_(magazine)" title="Birdwatch (magazine)">Birdwatch</a></i> 155:30-32</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Marsh_Warbler&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob12500.htm">British Trust for Ornithology page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ukbap-reporting.org.uk/plans/national_plan.asp?SAP={2D8C6B6F-C280-4639-8629-F68AAF0887E3}">UK National Action Plan</a></li>
+</ul>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Acrocephalus_palustris" class="extiw" title="commons:Category:Acrocephalus palustris">Acrocephalus palustris</a></b></i></td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 6803/1000000
+Preprocessor generated node count: 39856/1500000
+Post-expand include size: 38390/2048000 bytes
+Template argument size: 9853/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:347661-0!*!0!!en!4!* and timestamp 20121026070647 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Marsh_Warbler&amp;oldid=519896494">http://en.wikipedia.org/w/index.php?title=Marsh_Warbler&amp;oldid=519896494</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Acrocephalus" title="Category:Acrocephalus">Acrocephalus</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marsh+Warbler&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marsh+Warbler" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Marsh_Warbler"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Marsh_Warbler"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Marsh_Warbler" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Marsh_Warbler&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Marsh_Warbler&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Marsh_Warbler" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Marsh_Warbler" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Marsh_Warbler&amp;oldid=519896494" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Marsh_Warbler&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Marsh_Warbler&amp;id=519896494" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Marsh+Warbler" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Marsh+Warbler&amp;oldid=519896494&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Marsh_Warbler&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%B2%D8%AC%D8%A9_%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%A6%D8%AD" title="هازجة البطائح" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D2%A0%D1%83%D1%80%D2%99%D0%B0%D0%B9" title="Ҡурҙай" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D0%BE%D1%87%D1%83%D1%80%D0%BD%D0%BE_%D1%88%D0%B0%D0%B2%D0%B0%D1%80%D1%87%D0%B5" title="Мочурно шаварче" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Rouzegan-geun" title="Rouzegan-geun" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Boscarla_menjamosquits" title="Boscarla menjamosquits" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/R%C3%A1kosn%C3%ADk_zp%C4%9Bvn%C3%BD" title="Rákosník zpěvný" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Telor_y_Gwerni" title="Telor y Gwerni" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Sumpfrohrs%C3%A4nger" title="Sumpfrohrsänger" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Soo-roolind" title="Soo-roolind" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Acrocephalus_palustris" title="Acrocephalus palustris" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Grenokanbirdo" title="Grenokanbirdo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Zingira-lezkari" title="Zingira-lezkari" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Fenlj%C3%B3mari" title="Fenljómari" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Rousserolle_verderolle" title="Rousserolle verderolle" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Folosa_palustre" title="Folosa palustre" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Trstenjak_mlakar" title="Trstenjak mlakar" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Acrocephalus_palustris" title="Acrocephalus palustris" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Karklin%C4%97_nendrinuk%C4%97" title="Karklinė nendrinukė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/%C3%89nekes_n%C3%A1diposz%C3%A1ta" title="Énekes nádiposzáta" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Bosrietzanger" title="Bosrietzanger" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8C%E3%83%9E%E3%83%A8%E3%82%B7%E3%82%AD%E3%83%AA" title="ヌマヨシキリ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Myrsanger" title="Myrsanger" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Myrsongar" title="Myrsongar" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Acrocephalus_palustris" title="Acrocephalus palustris" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/%C5%81oz%C3%B3wka" title="Łozówka" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BC%D1%8B%D1%88%D0%BE%D0%B2%D0%BA%D0%B0" title="Болотная камышовка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Luhtakerttunen" title="Luhtakerttunen" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/K%C3%A4rrs%C3%A5ngare" title="Kärrsångare" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C3%87al%C4%B1_kam%C4%B1%C5%9F%C3%A7%C4%B1n%C4%B1" title="Çalı kamışçını" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D1%82%D1%8F%D0%BD%D0%BA%D0%B0_%D1%87%D0%B0%D0%B3%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0" title="Очеретянка чагарникова" lang="uk" hreflang="uk">Українська</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 October 2012 at 07:06.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Marsh_Warbler&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv272 in 0.127 secs. -->
+	</body>
+</html>

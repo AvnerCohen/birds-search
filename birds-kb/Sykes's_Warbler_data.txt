@@ -1,0 +1,1 @@
+Scripts should use an informative User-Agent string with contact information, or they may be IP-blocked without notice.

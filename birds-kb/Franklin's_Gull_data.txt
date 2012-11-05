@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Franklin's Gull - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Franklin\'s_Gull","wgTitle":"Franklin\'s Gull","wgCurRevisionId":503519009,"wgArticleId":386061,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from June 2011","All articles lacking in-text citations","IUCN Red List least concern species","Articles with \'species\' microformats","Wikipedia articles needing clarification from June 2011","Gulls","Animals described in 1831","Birds of Argentina","Birds of the United States","Birds of Chile","Birds of Peru","Birds of the Falkland Islands","Birds of Western Australia","Larus","Native birds of the Canadian Prairies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Franklin\'s_Gull","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"684da897dfc55d635cdb4e591e8d5b3b","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":386061,"title":"Franklin\'s Gull","namespace":0,"categories":["All articles lacking in-text citations","Animals described in 1831","Articles lacking in-text citations from June 2011","Articles with \'species\' microformats","Birds of Argentina","Birds of Chile","Birds of Peru","Birds of Western Australia","Birds of the Falkland Islands","Birds of the United States","Gulls","IUCN Red List least concern species","Larus","Native birds of the Canadian Prairies","Wikipedia articles needing clarification from June 2011"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/OggPlayer.js?12"></script><script>
+wgOggPlayer.msg = {"ogg-play":"Play","ogg-pause":"Pause","ogg-stop":"Stop","ogg-no-player":"Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.","ogg-player-videoElement":"Native browser support","ogg-player-oggPlugin":"Browser plugin","ogg-player-cortado":"Cortado (Java)","ogg-player-vlc-mozilla":"VLC","ogg-player-vlc-activex":"VLC (ActiveX)","ogg-player-quicktime-mozilla":"QuickTime","ogg-player-quicktime-activex":"QuickTime (ActiveX)","ogg-player-totem":"Totem","ogg-player-kaffeine":"Kaffeine","ogg-player-kmplayer":"KMPlayer","ogg-player-mplayerplug-in":"mplayerplug-in","ogg-player-thumbnail":"Still image only","ogg-player-selected":"(selected)","ogg-use-player":"Use player:","ogg-more":"More…","ogg-download":"Download file","ogg-desc-link":"About this file","ogg-dismiss":"Close","ogg-player-soundthumb":"No player","ogg-no-xiphqt":"You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
+wgOggPlayer.cortadoUrl = "http://bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/cortado-ovt-stripped-0.6.0.jar";
+wgOggPlayer.extPathUrl = "//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler";
+</script><style>
+.ogg-player-options {
+	border: solid 1px #ccc;
+	padding: 2pt;
+	text-align: left;
+	font-size: 10pt;
+}
+
+.center .ogg-player-options ul {
+	margin: 0.3em 0px 0px 1.5em;
+}
+</style><script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Franklin_s_Gull skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Franklin's Gull</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-No_footnotes" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, but <b>its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by introducing more precise citations.</span> <small><i>(June 2011)</i></small> </span></td>
+</tr>
+</table>
+<div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Franklin's Gull</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Franklin%27s_Gull_Brisbane98.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Franklin%27s_Gull_Brisbane98.jpg/220px-Franklin%27s_Gull_Brisbane98.jpg" width="220" height="185" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)</small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Laridae" title="Laridae" class="mw-redirect">Laridae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Leucophaeus" title="Leucophaeus">Leucophaeus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>L. pipixcan</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Leucophaeus pipixcan</i></span></b><br />
+<small>(<a href="/wiki/Johann_Georg_Wagler" title="Johann Georg Wagler">Wagler</a>, 1831, <a href="/wiki/Mexico" title="Mexico">Mexico</a>)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Larus pipixcan</i></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Franklin's Gull</b> (<i>Leucophaeus pipixcan</i>) is a small<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span>clarification needed</span></a></i>]</sup> <a href="/wiki/Gull" title="Gull">gull</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Behaviour"><span class="tocnumber">1.1</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Reproduction"><span class="tocnumber">1.1.1</span> <span class="toctext">Reproduction</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Naming"><span class="tocnumber">2</span> <span class="toctext">Naming</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>It breeds in central provinces of <a href="/wiki/Canada" title="Canada">Canada</a> and adjacent states of the northern <a href="/wiki/United_States" title="United States">United States</a>. It is a <a href="/wiki/Bird_migration" title="Bird migration">migratory bird</a>, wintering in <a href="/wiki/Argentina" title="Argentina">Argentina</a>, the <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a>, <a href="/wiki/Chile" title="Chile">Chile</a> and <a href="/wiki/Peru" title="Peru">Peru</a>.</p>
+<p>The summer adult's body is white and its back and wings are much darker grey than all other gulls of similar size except the larger <a href="/wiki/Laughing_Gull" title="Laughing Gull">Laughing Gull</a>. The wings have black tips with an adjacent white band. The bill and legs are red. The black hood of the breeding adult is mostly lost in winter.</p>
+<p>Young birds are similar to the adult but have less developed hoods and lack the white wing band. They take three years to reach maturity.</p>
+<p>Although the bird is uncommon on the coasts of <a href="/wiki/North_America" title="North America">North America</a>, it occurs as a rare vagrant to northwest <a href="/wiki/Europe" title="Europe">Europe</a>, south and west <a href="/wiki/Africa" title="Africa">Africa</a>, <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/Japan" title="Japan">Japan</a>, with a single record from <a href="/wiki/Eilat" title="Eilat">Eilat</a>, <a href="/wiki/Israel" title="Israel">Israel</a>, in 2002 (Smith 2002).</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit&amp;section=2" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h3>
+<p>They are <a href="/wiki/Omnivores" title="Omnivores" class="mw-redirect">omnivores</a> like most gulls, and they will scavenge as well as seeking suitable small prey.</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit&amp;section=3" title="Edit section: Reproduction">edit</a>]</span> <span class="mw-headline" id="Reproduction">Reproduction</span></h4>
+<p>The birds breed in colonies near prairie lakes with the nest constructed on the ground, or sometimes floating. The two or three eggs are incubated for about three weeks.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit&amp;section=4" title="Edit section: Naming">edit</a>]</span> <span class="mw-headline" id="Naming">Naming</span></h2>
+<p>The bird was named after the <a href="/wiki/Arctic" title="Arctic">Arctic</a> explorer Sir <a href="/wiki/John_Franklin" title="John Franklin">John Franklin</a>.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="from June 2011">why?</span></a></i>]</sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;">
+<div id="ogg_player_1">
+<div><a href="/wiki/File:Franklin%27s_Gull.ogg" class="image" title="Franklin's Gull.ogg"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Franklin%27s_Gull.ogg/mid-Franklin%27s_Gull.ogg.jpg" width="220" height="165" alt="" /></a></div>
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/e/e9/Franklin%27s_Gull.ogg&quot;,&quot;width&quot;:220,&quot;height&quot;:165,&quot;length&quot;:53.64,&quot;linkUrl&quot;:&quot;/wiki/File:Franklin%27s_Gull.ogg&quot;,&quot;isVideo&quot;:true});" style="width: 220px; text-align: center" title="Play video"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/play.png" width="22" height="22" alt="Play video" /></button></div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Franklin%27s_Gull.ogg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<a href="/wiki/Brisbane" title="Brisbane">Brisbane</a>, <a href="/wiki/Australia" title="Australia">Australia</a>, June 1998 (53-second video)</div>
+</div>
+</div>
+<p><br style="clear:both" /></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<div class="noprint tright portal" style="border:solid #aaa 1px; margin:0.5em 0 0.5em 1em;">
+<table style="background:#f9f9f9; font-size:85%; line-height:110%; max-width:175px;">
+<tr>
+<td style="text-align: center;"><a href="/w/index.php?title=File:Eagle_01.svg&amp;page=1" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Eagle_01.svg/23px-Eagle_01.svg.png" width="23" height="28" /></a></td>
+<td style="padding: 0 0.2em; vertical-align: middle; font-style: italic; font-weight: bold"><a href="/wiki/Portal:Birds" title="Portal:Birds">Birds  portal</a></td>
+</tr>
+</table>
+</div>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 90%; background-color:transparent;table-layout:fixed;">
+<tr valign="top">
+<td>
+<div style="margin-right:20px;">
+<ul>
+<li><a href="/wiki/List_of_birds_of_Argentina" title="List of birds of Argentina">List of birds of Argentina</a></li>
+<li><a href="/wiki/List_of_birds_of_Canada" title="List of birds of Canada">List of birds of Canada</a></li>
+<li><a href="/w/index.php?title=List_of_birds_of_the_Caribbean&amp;action=edit&amp;redlink=1" class="new" title="List of birds of the Caribbean (page does not exist)">List of birds of the Caribbean</a> <i>(see <a href="/wiki/Lists_of_birds_by_region" title="Lists of birds by region">Lists of birds by region</a>)</i></li>
+</ul>
+</div>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li><a href="/wiki/List_of_birds_of_Chile" title="List of birds of Chile">List of birds of Chile</a></li>
+<li><a href="/wiki/List_of_birds_of_Peru" title="List of birds of Peru">List of birds of Peru</a></li>
+<li><a href="/wiki/List_of_birds_of_the_United_States" title="List of birds of the United States">List of birds of the United States</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit&amp;section=6" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li>BirdLife International (2004). <i>Larus pipixcan</i>. 2006. <i><a href="/wiki/IUCN_Red_List_of_Threatened_Species" title="IUCN Red List of Threatened Species" class="mw-redirect">IUCN Red List of Threatened Species</a></i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">IUCN</a> 2006. <a rel="nofollow" class="external text" href="http://www.iucnredlist.org">www.iucnredlist.org</a>. Retrieved on 11 May 2006. Database entry includes justification for why this species is of least concern</li>
+<li>Howell, Steve N.G.; Dunn, Jon L. (2007). <i>Gulls of the Americas</i>. 516 pages. <a href="/wiki/Houghton_Mifflin" title="Houghton Mifflin" class="mw-redirect">Houghton Mifflin</a> (<a href="/wiki/Boston" title="Boston">Boston</a>). <a href="/wiki/Special:BookSources/9780618726417" class="internal mw-magiclink-isbn">ISBN 978-0-618-72641-7</a>.</li>
+<li><a href="/w/index.php?title=James_Smith_(ornithologist)&amp;action=edit&amp;redlink=1" class="new" title="James Smith (ornithologist) (page does not exist)">Smith, James</a> (2002). "A Franklin's Gull at Eilat&#160;– Mew to Israel and the Middle East". <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i>. Volume 16, Number 7. p.&#160;281. Illustrated with a colour photograph of the bird alongside two <a href="/wiki/Slender-billed_Gull" title="Slender-billed Gull">Slender-billed Gulls</a>.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Leucophaeus_pipixcan" class="extiw" title="commons:Category:Leucophaeus pipixcan">Leucophaeus pipixcan</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Leucophaeus_pipixcan" class="extiw" title="wikispecies:Leucophaeus pipixcan">Leucophaeus pipixcan</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.hbw.com/ibc/phtml/especie.phtml?idEspecie=1627">Franklin's Gull videos</a> on the <a href="/w/index.php?title=Internet_Bird_Collection&amp;action=edit&amp;redlink=1" class="new" title="Internet Bird Collection (page does not exist)">Internet Bird Collection</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Franklins_Gull.html">Franklin's Gull Species Account</a>&#160;– <a href="/wiki/Cornell_Lab_of_Ornithology" title="Cornell Lab of Ornithology">Cornell Lab of Ornithology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sdakotabirds.com/species/franklins_gull_info.htm">Franklin's Gull Information and Photos</a>&#160;– South Dakota Birds and Birding</li>
+<li><a rel="nofollow" class="external text" href="http://www.mbr-pwrc.usgs.gov/id/framlst/i0590id.html">Franklin's Gull - <i>Larus pipixcan</i></a>&#160;– <a href="/w/index.php?title=USGS_Patuxent_Bird_Identification_InfoCenter&amp;action=edit&amp;redlink=1" class="new" title="USGS Patuxent Bird Identification InfoCenter (page does not exist)">USGS Patuxent Bird Identification InfoCenter</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bird-stamps.org/cspecies/6704400.htm">Stamps</a> (for <a href="/wiki/Marshall_Islands" title="Marshall Islands">Marshall Islands</a>) with Americas' RangeMap</li>
+<li><a rel="nofollow" class="external text" href="http://vireo.acnatsci.org/search.html?VIREO_SESSION_ID=fb158f05e69205a36e5f67e40da796b8&amp;Form=Search&amp;SEARCHBY=Common&amp;KEYWORDS=franklin%27s+gull&amp;showwhat=images&amp;AGE=All&amp;SEX=All&amp;ACT=All&amp;Search=Search&amp;VIEW=All&amp;ORIENTATION=All&amp;RESULTS=24">Franklin's Gull photo gallery</a> VIREO <a rel="nofollow" class="external text" href="http://vireo.acnatsci.org/species_image.php?species=Larus+pipixcan">Photo-High Res</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.arthurgrosset.com/sabirds/franklin'sgull.html">Franklin's Gull article</a> <a rel="nofollow" class="external text" href="http://www.arthurgrosset.com/sabirds/photos/larpip15402.jpg">photo 1 of 3</a> write-up and photos</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Gulls" title="Template:Gulls"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Gulls" title="Template talk:Gulls"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gulls&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Gull" title="Gull">Gulls</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: <b>Laridae</b>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;background:#eef;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Species" title="Species">Species</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Larus" title="Larus">Larus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pacific_Gull" title="Pacific Gull">Pacific Gull</a></li>
+<li><a href="/wiki/Belcher%27s_Gull" title="Belcher's Gull">Belcher's Gull</a></li>
+<li><a href="/wiki/Olrog%27s_Gull" title="Olrog's Gull">Olrog's Gull</a></li>
+<li><a href="/wiki/Black-tailed_Gull" title="Black-tailed Gull">Black-tailed Gull</a></li>
+<li><a href="/wiki/Heermann%27s_Gull" title="Heermann's Gull">Heermann's Gull</a></li>
+<li><a href="/wiki/Common_Gull" title="Common Gull">Common Gull (or Mew Gull)</a></li>
+<li><a href="/wiki/Ring-billed_Gull" title="Ring-billed Gull">Ring-billed Gull</a></li>
+<li><a href="/wiki/California_Gull" title="California Gull">California Gull</a></li>
+<li><a href="/wiki/Great_Black-backed_Gull" title="Great Black-backed Gull">Great Black-backed Gull</a></li>
+<li><a href="/wiki/Kelp_Gull" title="Kelp Gull">Kelp Gull (or Cape Gull)</a></li>
+<li><a href="/wiki/Glaucous-winged_Gull" title="Glaucous-winged Gull">Glaucous-winged Gull</a></li>
+<li><a href="/wiki/Western_Gull" title="Western Gull">Western Gull</a></li>
+<li><a href="/wiki/Yellow-footed_Gull" title="Yellow-footed Gull">Yellow-footed Gull</a></li>
+<li><a href="/wiki/Glaucous_Gull" title="Glaucous Gull">Glaucous Gull</a></li>
+<li><a href="/wiki/Iceland_Gull" title="Iceland Gull">Iceland Gull</a></li>
+<li><a href="/wiki/Kumlien%27s_Gull" title="Kumlien's Gull">Kumlien's Gull</a></li>
+<li><a href="/wiki/Thayer%27s_Gull" title="Thayer's Gull">Thayer's Gull</a></li>
+<li><a href="/wiki/European_Herring_Gull" title="European Herring Gull">European Herring Gull</a></li>
+<li><a href="/wiki/Heuglin%27s_Gull" title="Heuglin's Gull">Heuglin's Gull</a></li>
+<li><a href="/wiki/American_Herring_Gull" title="American Herring Gull">American Herring Gull</a></li>
+<li><a href="/wiki/Yellow-legged_Gull" title="Yellow-legged Gull">Yellow-legged Gull</a></li>
+<li><a href="/wiki/Caspian_Gull" title="Caspian Gull">Caspian Gull</a></li>
+<li><a href="/wiki/Vega_Gull" title="Vega Gull">Vega Gull (or East Siberian Gull&#160;/ Mongolian Gull)</a></li>
+<li><a href="/wiki/Armenian_Gull" title="Armenian Gull">Armenian Gull</a></li>
+<li><a href="/wiki/Slaty-backed_Gull" title="Slaty-backed Gull">Slaty-backed Gull</a></li>
+<li><a href="/wiki/Lesser_Black-backed_Gull" title="Lesser Black-backed Gull">Lesser Black-backed Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Ichthyaetus" title="Ichthyaetus">Ichthyaetus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-eyed_Gull" title="White-eyed Gull">White-eyed Gull</a></li>
+<li><a href="/wiki/Sooty_Gull" title="Sooty Gull">Sooty Gull</a></li>
+<li><a href="/wiki/Great_Black-Headed_Gull" title="Great Black-Headed Gull" class="mw-redirect">Great Black-Headed Gull (or Pallas's Gull)</a></li>
+<li><a href="/wiki/Audouin%27s_Gull" title="Audouin's Gull">Audouin's Gull</a></li>
+<li><a href="/wiki/Mediterranean_Gull" title="Mediterranean Gull">Mediterranean Gull</a></li>
+<li><a href="/wiki/Relict_Gull" title="Relict Gull">Relict Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Leucophaeus" title="Leucophaeus">Leucophaeus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dolphin_Gull" title="Dolphin Gull">Dolphin Gull</a></li>
+<li><a href="/wiki/Laughing_Gull" title="Laughing Gull">Laughing Gull</a></li>
+<li><strong class="selflink">Franklin's Gull</strong></li>
+<li><a href="/wiki/Lava_Gull" title="Lava Gull">Lava Gull</a></li>
+<li><a href="/wiki/Grey_Gull" title="Grey Gull">Grey Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Chroicocephalus" title="Chroicocephalus">Chroicocephalus</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Silver_Gull" title="Silver Gull">Silver Gull</a></li>
+<li><a href="/wiki/Red-billed_Gull" title="Red-billed Gull">Red-billed Gull</a></li>
+<li><a href="/wiki/Huahine_Gull" title="Huahine Gull">Huahine Gull</a></li>
+<li><a href="/wiki/Hartlaub%27s_Gull" title="Hartlaub's Gull">Hartlaub's Gull</a></li>
+<li><a href="/wiki/Brown-hooded_Gull" title="Brown-hooded Gull">Brown-hooded Gull</a></li>
+<li><a href="/wiki/Grey-headed_Gull" title="Grey-headed Gull">Grey-headed Gull (or Grey-hooded Gull)</a></li>
+<li><a href="/wiki/Andean_Gull" title="Andean Gull">Andean Gull</a></li>
+<li><a href="/wiki/Black-billed_Gull" title="Black-billed Gull">Black-billed Gull</a></li>
+<li><a href="/wiki/Brown-headed_Gull" title="Brown-headed Gull">Brown-headed Gull</a></li>
+<li><a href="/wiki/Black-Headed_Gull" title="Black-Headed Gull" class="mw-redirect">Black-Headed Gull</a></li>
+<li><a href="/wiki/Slender-billed_Gull" title="Slender-billed Gull">Slender-billed Gull</a></li>
+<li><a href="/wiki/Bonaparte%27s_Gull" title="Bonaparte's Gull">Bonaparte's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Saundersilarus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Saunders%27s_Gull" title="Saunders's Gull">Saunders's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Hydrocoloeus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Little_Gull" title="Little Gull">Little Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Rhodostethia</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ross%27s_Gull" title="Ross's Gull">Ross's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i><a href="/wiki/Kittiwake" title="Kittiwake">Rissa</a></i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black-legged_Kittiwake" title="Black-legged Kittiwake">Black-legged Kittiwake</a></li>
+<li><a href="/wiki/Red-legged_Kittiwake" title="Red-legged Kittiwake">Red-legged Kittiwake</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Pagophila</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ivory_Gull" title="Ivory Gull">Ivory Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Xema</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sabine%27s_Gull" title="Sabine's Gull">Sabine's Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><i>Creagrus</i></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Swallow-tailed_Gull" title="Swallow-tailed Gull">Swallow-tailed Gull</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 4869/1000000
+Preprocessor generated node count: 33905/1500000
+Post-expand include size: 47306/2048000 bytes
+Template argument size: 12202/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 4/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:386061-0!*!0!!en!4!* and timestamp 20121022131040 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Franklin%27s_Gull&amp;oldid=503519009">http://en.wikipedia.org/w/index.php?title=Franklin%27s_Gull&amp;oldid=503519009</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Gulls" title="Category:Gulls">Gulls</a></li><li><a href="/wiki/Category:Animals_described_in_1831" title="Category:Animals described in 1831">Animals described in 1831</a></li><li><a href="/wiki/Category:Birds_of_Argentina" title="Category:Birds of Argentina">Birds of Argentina</a></li><li><a href="/wiki/Category:Birds_of_the_United_States" title="Category:Birds of the United States">Birds of the United States</a></li><li><a href="/wiki/Category:Birds_of_Chile" title="Category:Birds of Chile">Birds of Chile</a></li><li><a href="/wiki/Category:Birds_of_Peru" title="Category:Birds of Peru">Birds of Peru</a></li><li><a href="/wiki/Category:Birds_of_the_Falkland_Islands" title="Category:Birds of the Falkland Islands">Birds of the Falkland Islands</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:Larus" title="Category:Larus">Larus</a></li><li><a href="/wiki/Category:Native_birds_of_the_Canadian_Prairies" title="Category:Native birds of the Canadian Prairies">Native birds of the Canadian Prairies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_June_2011" title="Category:Articles lacking in-text citations from June 2011">Articles lacking in-text citations from June 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_June_2011" title="Category:Wikipedia articles needing clarification from June 2011">Wikipedia articles needing clarification from June 2011</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Franklin%27s+Gull&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Franklin%27s+Gull" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Franklin%27s_Gull"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Franklin%27s_Gull"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Franklin%27s_Gull" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Franklin%27s_Gull&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Franklin%27s_Gull&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Franklin%27s_Gull" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Franklin%27s_Gull" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Franklin%27s_Gull&amp;oldid=503519009" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Franklin%27s_Gull&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Franklin%27s_Gull&amp;id=503519009" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Franklin%27s+Gull" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Franklin%27s+Gull&amp;oldid=503519009&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Franklin%27s_Gull&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Gouelanig_Franklin" title="Gouelanig Franklin" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Gavina_de_Franklin" title="Gavina de Franklin" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Racek_vnitrozemsk%C3%BD" title="Racek vnitrozemský" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Pr%C3%A4riem%C3%B6we" title="Präriemöwe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Larus_pipixcan" title="Larus pipixcan" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Franklina_mevo" title="Franklina mevo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Franklin_antxeta" title="Franklin antxeta" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Heygsm%C3%A1si" title="Heygsmási" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Mouette_de_Franklin" title="Mouette de Franklin" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Leucophaeus_pipixcan" title="Leucophaeus pipixcan" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Pr%C3%A9risir%C3%A1ly" title="Prérisirály" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nah"><a href="//nah.wikipedia.org/wiki/%C4%80pipipitzcatl" title="Āpipipitzcatl" lang="nah" hreflang="nah">Nāhuatl</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%BA%E3%82%B0%E3%83%AD%E3%82%AB%E3%83%A2%E3%83%A1" title="アメリカズグロカモメ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Franklinm%C3%A5ke" title="Franklinmåke" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Mewa_preriowa" title="Mewa preriowa" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Gaivota-de-franklin" title="Gaivota-de-franklin" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0_%D1%87%D0%B0%D0%B9%D0%BA%D0%B0" title="Франклинова чайка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Preerianaurulokki" title="Preerianaurulokki" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Pr%C3%A4riem%C3%A5s" title="Präriemås" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/M%C3%B2ng_Franklin" title="Mòng Franklin" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 July 2012 at 01:05.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Franklin%27s_Gull&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv260 in 0.134 secs. -->
+	</body>
+</html>

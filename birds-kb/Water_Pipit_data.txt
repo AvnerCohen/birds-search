@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Water Pipit - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Water_Pipit&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Water_Pipit&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Water_Pipit","wgTitle":"Water Pipit","wgCurRevisionId":519050256,"wgArticleId":338644,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Anthus","Birds of Europe","Birds of Turkey","Birds of Asia","Birds of Bhutan","Birds of Nepal","Birds of Pakistan","Birds of India","Birds of Bangladesh"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Water_Pipit","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"25332ac5d6f4553241b61e3ce6a5568f","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":338644,"title":"Water Pipit","namespace":0,"categories":["Anthus","Articles with \'species\' microformats","Birds of Asia","Birds of Bangladesh","Birds of Bhutan","Birds of Europe","Birds of India","Birds of Nepal","Birds of Pakistan","Birds of Turkey","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Water_Pipit skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Water Pipit</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Water Pipit</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Anthus_spinoletta.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Anthus_spinoletta.jpg/220px-Anthus_spinoletta.jpg" width="220" height="174" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Motacillidae" title="Motacillidae">Motacillidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Anthus" title="Anthus" class="mw-redirect">Anthus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. spinoletta</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Anthus spinoletta</i></span></b><br />
+<small>(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, 1758)</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Water Pipit</b> (<i>Anthus spinoletta</i>) is a small <a href="/wiki/Passerine" title="Passerine">passerine</a> bird which breeds in the mountains of southern <a href="/wiki/Europe" title="Europe">Europe</a> and southern temperate <a href="/wiki/Asia" title="Asia">Asia</a> across to <a href="/wiki/China" title="China">China</a>. It is a short-distance <a href="/wiki/Bird_migration" title="Bird migration">migrant</a> moving to wet open lowlands such as marshes and flooded fields in winter. Some birds migrate north to Britain for winter, taking advantage of the warm <a href="/wiki/Oceanic_climate" title="Oceanic climate">oceanic climate</a>.</p>
+<p>Like most other <a href="/wiki/Pipit" title="Pipit">pipits</a>, this is an undistinguished looking species on the ground, mainly brown above and dark streaked buff below. It has dark legs, white outer tail feathers and a longish dark bill. In summer it has a distinctive breeding <a href="/wiki/Plumage" title="Plumage">plumage</a>, with a pinkish breast, grey head and pale supercilium.<sup id="cite_ref-id_1-0" class="reference"><a href="#cite_note-id-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Eurasian_Rock_Pipit" title="Eurasian Rock Pipit">Eurasian Rock Pipit</a>'s subspecies <i>littoralis</i> in summer plumage is very close in outward appearance to the Water Pipit however. They can be told apart by their song,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> and occupy different <a href="/wiki/Habitat_(ecology)" title="Habitat (ecology)" class="mw-redirect">habitat</a> types even when they occur in the same general area.<sup id="cite_ref-Bijlsma_4-0" class="reference"><a href="#cite_note-Bijlsma-4"><span>[</span>5<span>]</span></a></sup> The Water Pipit is also much less approachable than the Eurasian Rock Pipit, rising high and quickly leaving the vicinity when approached. Water and <a href="/wiki/Buff-bellied_Pipit" title="Buff-bellied Pipit">Buff-bellied Pipit</a> do not co-occur except in a small area in <a href="/wiki/Central_Asia" title="Central Asia">Central Asia</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>This species is insectivorous. Its call is an explosive "fit", like Eurasian Rock Pipit. Its song is similar, but it consisting of maybe 5 "blocks" of just about half a dozen notes each (the Eurasian Rock Pipit has fewer, but longer blocks); it ends either with no or with repeated trills.<sup id="cite_ref-Bijlsma_4-1" class="reference"><a href="#cite_note-Bijlsma-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>Formerly included in the Water Pipit were the subspecies now separated as Rock Pipit and <a href="/wiki/Buff-bellied_Pipit" title="Buff-bellied Pipit">Buff-bellied Pipit</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> The former is more closely related to the Water Pipit than the latter, as indicated by external<sup id="cite_ref-id_1-1" class="reference"><a href="#cite_note-id-1"><span>[</span>2<span>]</span></a></sup> and molecular characteristics.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Water_Pipit&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106008453">"<i>Anthus spinoletta</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106008453">http://www.iucnredlist.org/apps/redlist/details/106008453</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Anthus+spinoletta%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106008453&amp;rfr_id=info:sid/en.wikipedia.org:Water_Pipit"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-id-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-id_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-id_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Per Alström &amp; Krister Mild (1996). "The identification of Rock, Water and Buff-bellied Pipits". <i><a href="/wiki/Alula_(journal)" title="Alula (journal)" class="mw-redirect">Alula</a></i> <b>2</b> (4): 161–175.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+identification+of+Rock%2C+Water+and+Buff-bellied+Pipits&amp;rft.jtitle=%5B%5BAlula+%28journal%29%7CAlula%5D%5D&amp;rft.aulast=Per+Alstr%C3%B6m+%26+Krister+Mild&amp;rft.au=Per+Alstr%C3%B6m+%26+Krister+Mild&amp;rft.date=1996&amp;rft.volume=2&amp;rft.issue=4&amp;rft.pages=161%E2%80%93175&amp;rfr_id=info:sid/en.wikipedia.org:Water_Pipit"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Per Alström &amp; Krister Mild (1987). "Some notes on the taxonomy of the Water Pipit complex". Proceedings of the 4th International Identification Meeting. Eilat: International Birdwatching Center. pp.&#160;47–48.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Some+notes+on+the+taxonomy+of+the+Water+Pipit+complex&amp;rft.atitle=&amp;rft.aulast=Per+Alstr%C3%B6m+%26+Krister+Mild&amp;rft.au=Per+Alstr%C3%B6m+%26+Krister+Mild&amp;rft.date=1987&amp;rft.pages=pp.%26nbsp%3B47%E2%80%9348&amp;rft.place=Eilat&amp;rft.pub=International+Birdwatching+Center&amp;rfr_id=info:sid/en.wikipedia.org:Water_Pipit"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation Journal">V. V. Leonovich, G. V. Deminia &amp; O. D. Veprintseva (1997). "On the taxonomy and phylogeny of pipits (Genus <i>Anthus</i>, Motacillidae, Aves) in Eurasia" (in Russian). <i>Biulleten Moskovskogo obshchestva ispytatelei prirody. Otdel biologicheskii</i> <b>102</b> (2): 14–22.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=On+the+taxonomy+and+phylogeny+of+pipits+%28Genus+%27%27Anthus%27%27%2C+Motacillidae%2C+Aves%29+in+Eurasia&amp;rft.jtitle=Biulleten+Moskovskogo+obshchestva+ispytatelei+prirody.+Otdel+biologicheskii&amp;rft.aulast=V.+V.+Leonovich%2C+G.+V.+Deminia+%26+O.+D.+Veprintseva&amp;rft.au=V.+V.+Leonovich%2C+G.+V.+Deminia+%26+O.+D.+Veprintseva&amp;rft.date=1997&amp;rft.volume=102&amp;rft.issue=2&amp;rft.pages=14%E2%80%9322&amp;rfr_id=info:sid/en.wikipedia.org:Water_Pipit"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Bijlsma-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bijlsma_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bijlsma_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">R. Bijlsma (1977). "Voorkomen en oecologie van <i>Anthus spinoletta</i> en <i>A. s. littoralis</i> in de uiterwaarden van de Rijn bij Wageningen" (in Dutch). <i><a href="/w/index.php?title=Limosa_(journal)&amp;action=edit&amp;redlink=1" class="new" title="Limosa (journal) (page does not exist)">Limosa</a></i> <b>50</b>: 127–136.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Voorkomen+en+oecologie+van+%27%27Anthus+spinoletta%27%27+en+%27%27A.+s.+littoralis%27%27+in+de+uiterwaarden+van+de+Rijn+bij+Wageningen&amp;rft.jtitle=%5B%5BLimosa+%28journal%29%7CLimosa%5D%5D&amp;rft.aulast=R.+Bijlsma&amp;rft.au=R.+Bijlsma&amp;rft.date=1977&amp;rft.volume=50&amp;rft.pages=127%E2%80%93136&amp;rfr_id=info:sid/en.wikipedia.org:Water_Pipit"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation Journal">A. A. Nazarenko (1978). "On species validity of <i>Anthus rubescens</i> Tunstall (Aves: Motacillidae)" (in Russian). <i>Zoologicheskiy Zhurnal</i> <b>57</b>: 1743–1744.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=On+species+validity+of+%27%27Anthus+rubescens%27%27+Tunstall+%28Aves%3A+Motacillidae%29&amp;rft.jtitle=Zoologicheskiy+Zhurnal&amp;rft.aulast=A.+A.+Nazarenko&amp;rft.au=A.+A.+Nazarenko&amp;rft.date=1978&amp;rft.volume=57&amp;rft.pages=1743%E2%80%931744&amp;rfr_id=info:sid/en.wikipedia.org:Water_Pipit"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation Journal">George Sangster, Alan G. Knox, Andreas J. Helbig &amp; David T. Parkin (2002). "Taxonomic recommendations for European Birds". <i><a href="/wiki/Ibis_(journal)" title="Ibis (journal)">Ibis</a></i> <b>144</b> (1): 153–159. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1046%2Fj.0019-1019.2001.00026.x">10.1046/j.0019-1019.2001.00026.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Taxonomic+recommendations+for+European+Birds&amp;rft.jtitle=%5B%5BIbis+%28journal%29%7CIbis%5D%5D&amp;rft.aulast=George+Sangster%2C+Alan+G.+Knox%2C+Andreas+J.+Helbig+%26+David+T.+Parkin&amp;rft.au=George+Sangster%2C+Alan+G.+Knox%2C+Andreas+J.+Helbig+%26+David+T.+Parkin&amp;rft.date=2002&amp;rft.volume=144&amp;rft.issue=1&amp;rft.pages=153%E2%80%93159&amp;rft_id=info:doi/10.1046%2Fj.0019-1019.2001.00026.x&amp;rfr_id=info:sid/en.wikipedia.org:Water_Pipit"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation Journal">G. Voelker (1999). "Molecular evolutionary relationships in the avian genus <i>Anthus</i> (Pipits: Motacillidae)". <i><a href="/wiki/Molecular_Phylogenetics_and_Evolution" title="Molecular Phylogenetics and Evolution">Molecular Phylogenetics and Evolution</a></i> <b>11</b> (1): 84–94. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1006%2Fmpev.1998.0555">10.1006/mpev.1998.0555</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10082613">10082613</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Molecular+evolutionary+relationships+in+the+avian+genus+%27%27Anthus%27%27+%28Pipits%3A+Motacillidae%29&amp;rft.jtitle=%5B%5BMolecular+Phylogenetics+and+Evolution%5D%5D&amp;rft.aulast=G.+Voelker&amp;rft.au=G.+Voelker&amp;rft.date=1999&amp;rft.volume=11&amp;rft.issue=1&amp;rft.pages=84%E2%80%9394&amp;rft_id=info:doi/10.1006%2Fmpev.1998.0555&amp;rft_id=info:pmid/10082613&amp;rfr_id=info:sid/en.wikipedia.org:Water_Pipit"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Water_Pipit&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Anthus_spinoletta" class="extiw" title="commons:Anthus spinoletta">Anthus spinoletta</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Anthus_spinoletta" class="extiw" title="wikispecies:Anthus spinoletta">Anthus spinoletta</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/315_WaterPipitAspinoletta.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bsc-eoc.org/avibase/species.jsp?lang=EN&amp;id=3A74BDB639E80118&amp;ts=1226439522256&amp;sec=summary">Avibase</a> Links in turn to Flckr Handguide</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 8506/1000000
+Preprocessor generated node count: 41083/1500000
+Post-expand include size: 51680/2048000 bytes
+Template argument size: 13931/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:338644-0!*!0!!*!4!* and timestamp 20121021172349 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Water_Pipit&amp;oldid=519050256">http://en.wikipedia.org/w/index.php?title=Water_Pipit&amp;oldid=519050256</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Anthus" title="Category:Anthus">Anthus</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Bhutan" title="Category:Birds of Bhutan">Birds of Bhutan</a></li><li><a href="/wiki/Category:Birds_of_Nepal" title="Category:Birds of Nepal">Birds of Nepal</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Bangladesh" title="Category:Birds of Bangladesh">Birds of Bangladesh</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Water+Pipit&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Water+Pipit" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Water_Pipit"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Water_Pipit"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Water_Pipit" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Water_Pipit&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Water_Pipit&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Water_Pipit" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Water_Pipit" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Water_Pipit&amp;oldid=519050256" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Water_Pipit&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Water_Pipit&amp;id=519050256" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Water+Pipit" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Water+Pipit&amp;oldid=519050256&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Water_Pipit&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%83%D1%80%D1%88%D0%BA%D1%8A%D1%83%D0%B0%D1%86%D1%8D%D1%89%D3%80%D1%8D%D0%B6" title="КъуршкъуацэщӀэж" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%AA%D9%85%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%A7%D8%A1" title="أبو تمرة الماء" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0%B1%D1%8A%D0%B1%D1%80%D0%B8%D1%86%D0%B0" title="Планинска бъбрица" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Sidan-dour" title="Sidan-dour" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Grasset_de_muntanya" title="Grasset de muntanya" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Lindu%C5%A1ka_horsk%C3%A1" title="Linduška horská" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Bergpieper" title="Bergpieper" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/M%C3%A4gikiur" title="Mägikiur" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Anthus_spinoletta" title="Anthus spinoletta" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Akvopipio" title="Akvopipio" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Mendi-txirta" title="Mendi-txirta" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pipit_spioncelle" title="Pipit spioncelle" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Pica_alpina" title="Pica alpina" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%BC%D5%A5%D5%BC%D5%B6%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B1%D5%AB%D5%A1%D5%A9%D5%BC%D5%B9%D5%B6%D5%A1%D5%AF" title="Լեռնային ձիաթռչնակ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Anthus_spinoletta" title="Anthus spinoletta" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Vandeninis_kalviukas" title="Vandeninis kalviukas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Havasi_pityer" title="Havasi pityer" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A3%D1%81%D0%BD%D1%8B_%D1%88%D0%B8%D0%B9%D1%85%D0%BD%D2%AF%D2%AF%D1%85%D1%8D%D0%B9" title="Усны шийхнүүхэй" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Waterpieper" title="Waterpieper" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BF%E3%83%92%E3%83%90%E3%83%AA" title="タヒバリ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Vannpiplerke" title="Vannpiplerke" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Vasspiplerke" title="Vasspiplerke" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Anthus_spinoletta_spinoletta" title="Anthus spinoletta spinoletta" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Siwerniak" title="Siwerniak" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Petinha-ribeirinha" title="Petinha-ribeirinha" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D1%8F%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B8%D0%BA" title="Водяный коник" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%91%D0%BA" title="Горный конёк" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Vuorikirvinen" title="Vuorikirvinen" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Vattenpipl%C3%A4rka" title="Vattenpiplärka" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Da%C4%9F_incir_ku%C5%9Fu" title="Dağ incir kuşu" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B0%B4%E9%B9%A8" title="水鹨" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 October 2012 at 17:23.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Water_Pipit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","ext.EventLogging"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw49 in 0.143 secs. -->
+	</body>
+</html>

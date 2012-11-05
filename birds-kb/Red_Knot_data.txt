@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Red Knot - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Red_Knot&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Red_Knot&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Red_Knot","wgTitle":"Red Knot","wgCurRevisionId":515680996,"wgArticleId":312714,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Latin language external links","IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from April 2012","Calidris","Sandpipers","Arctic birds","Birds of Kenya","Birds of India","Birds of Sri Lanka","Birds of Europe","Birds of Turkey","Birds of South Australia","Birds of Western Australia","British Isles coastal fauna","Animals described in 1758","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Red_Knot","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"622cc4d44f278daa515b7f33ef9305c6","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":312714,"title":"Red Knot","namespace":0,"categories":["All articles with unsourced statements","Animals described in 1758","Arctic birds","Articles with \'species\' microformats","Articles with Latin language external links","Articles with unsourced statements from April 2012","Birds of Europe","Birds of India","Birds of Kenya","Birds of South Australia","Birds of Sri Lanka","Birds of Turkey","Birds of Western Australia","Birds of Western Sahara","British Isles coastal fauna","Calidris","IUCN Red List least concern species","Sandpipers"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Red_Knot skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Red Knot</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Red Knot</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Red_knot_Delaware.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Red_knot_Delaware.jpg/300px-Red_knot_Delaware.jpg" width="300" height="223" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>Calidris canutus rufa</i>, breeding plumage</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Scolopacidae" title="Scolopacidae" class="mw-redirect">Scolopacidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Calidrid" title="Calidrid">Calidris</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>C. canutus</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Calidris canutus</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/w/index.php?title=File:RedKnotMigration.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RedKnotMigration.svg/300px-RedKnotMigration.svg.png" width="300" height="130" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Distribution and migration routes of the six subspecies of the Red Knot</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Tringa canutus</i></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Red Knot</b> (<i>Calidris canutus</i>) (just <b>Knot</b> in <a href="/wiki/Europe" title="Europe">Europe</a>), is a medium sized <a href="/wiki/Wader" title="Wader">shorebird</a> which breeds in <a href="/wiki/Tundra" title="Tundra">tundra</a> and the <a href="/wiki/Arctic_Cordillera" title="Arctic Cordillera">Arctic Cordillera</a> in the far north of <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/Europe" title="Europe">Europe</a>, and <a href="/wiki/Russia" title="Russia">Russia</a>. It is a large member of the <i><a href="/wiki/Calidris" title="Calidris" class="mw-redirect">Calidris</a></i> sandpipers, second only to the <a href="/wiki/Great_Knot" title="Great Knot">Great Knot</a>.<sup id="cite_ref-shorebirds_1-0" class="reference"><a href="#cite_note-shorebirds-1"><span>[</span>2<span>]</span></a></sup> Six <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> are recognised.</p>
+<p>Their diet varies according to season; arthropods and larvae are the preferred food items at the breeding grounds, while various hard-shelled molluscs are consumed at other feeding sites at other times. North American breeders <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> to coastal areas in Europe and <a href="/wiki/South_America" title="South America">South America</a>, while the <a href="/wiki/Eurasia" title="Eurasia">Eurasian</a> populations winter in <a href="/wiki/Africa" title="Africa">Africa</a>, <a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a>, <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>. This species forms enormous flocks when not breeding.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy.2C_systematics_and_evolution"><span class="tocnumber">1</span> <span class="toctext">Taxonomy, systematics and evolution</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution_and_migration"><span class="tocnumber">2</span> <span class="toctext">Distribution and migration</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Description_and_anatomy"><span class="tocnumber">3</span> <span class="toctext">Description and anatomy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">4</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Diet_and_feeding"><span class="tocnumber">4.1</span> <span class="toctext">Diet and feeding</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Breeding"><span class="tocnumber">4.2</span> <span class="toctext">Breeding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Status"><span class="tocnumber">5</span> <span class="toctext">Status</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Threats_to_the_American_subspecies"><span class="tocnumber">5.1</span> <span class="toctext">Threats to the American subspecies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=1" title="Edit section: Taxonomy, systematics and evolution">edit</a>]</span> <span class="mw-headline" id="Taxonomy.2C_systematics_and_evolution">Taxonomy, systematics and evolution</span></h2>
+<p>This Red Knot was first described by <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a> in the landmark 1758 <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">tenth edition</a> of his <i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i> as <i>Tringa canutus</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> One theory is that it gets its name and species epithet from King <a href="/wiki/Cnut_the_Great" title="Cnut the Great">Canute</a>, Knot being another form of Canute; the name would refer to the knot's foraging along the tide line and the <a href="/wiki/Cnut_the_Great#Ruler_of_the_waves" title="Cnut the Great">story of Canute and the tide</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> Another etymology is that the name is <a href="/wiki/Onomatopoeia" title="Onomatopoeia">onomatopoeic</a>, based on the bird's grunting call note.<sup id="cite_ref-HANZAB_4-0" class="reference"><a href="#cite_note-HANZAB-4"><span>[</span>5<span>]</span></a></sup></p>
+<table style="border: 1px solid #ccc; background-color: white; margin-left: 1em; margin-right: 0em; width: 248px; float: right; clear: right; vertical-align: middle">
+<tr>
+<td style="text-align: center; font-weight: bold; border: 0; padding: 0;">&#160;</td>
+</tr>
+<tr>
+<td style="border: 1px solid #dedede; padding: 3px">
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; font-size: 88%; width: 248px; border: 0; padding: 0;">Population relatedness and divergence
+<table cellspacing="0" cellpadding="0" border="0" style="font-size:75%;line-height:75%">
+<tr>
+<td style="text-align: center; vertical-align: bottom; width:1.5em; border-bottom:1px solid black; border-left: 0; border-top: 0; border-right: 0; padding:0 0.2em;"><span style="white-space:nowrap">&#160;</span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="text-align: center; vertical-align: bottom; width:1.5em; border-bottom:1px solid black; border-left: 0; border-top: 0; border-right: 0; padding:0 0.2em;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i>canutus</i></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom: 0;"><br /></td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: bottom; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom:1px solid black;padding:0 0.2em;"><span style="white-space:nowrap">&#160;</span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="text-align: center; vertical-align: bottom; width:1.5em; border-bottom:1px solid black; border-left: 0; border-top: 0; border-right: 0; padding:0 0.2em;"><span style="white-space:nowrap">&#160;</span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="text-align: center; vertical-align: bottom; width:1.5em; border-bottom:1px solid black; border-left: 0; border-top: 0; border-right: 0; padding:0 0.2em;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i>roselaari</i></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom: 0;"><br /></td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: bottom; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom:1px solid black;padding:0 0.2em;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i>rufa</i></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom: 0;"><br /></td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: bottom; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom:1px solid black;padding:0 0.2em;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i>islandica</i></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border: 0; padding: 0;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom: 0;"><br /></td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: bottom; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom:1px solid black;padding:0 0.2em;"><span style="white-space:nowrap">&#160;</span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="text-align: center; vertical-align: bottom; width:1.5em; border-bottom:1px solid black; border-left: 0; border-top: 0; border-right: 0; padding:0 0.2em;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i>piersmai</i></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom: 0;"><br /></td>
+</tr>
+<tr>
+<td style="text-align: center; vertical-align: bottom; border-left:1px solid black; border-top: 0; border-right: 0; border-bottom:1px solid black;padding:0 0.2em;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i>rogersi</i></p>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border: 0; padding: 0;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border: 0; padding: 0;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border: 0; padding: 0;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; border: 0; padding: 0;"><br /></td>
+</tr>
+</table>
+<p>The diversification events may be associated with the <a href="/wiki/Last_glacial_period" title="Last glacial period">Wisconsinan (Weichselian) glaciation</a> 18,000 to 22,000 years ago; the opening of the ice-free corridor in North America 12,000 to 14,000 years ago; and the <a href="/wiki/Holocene_climatic_optimum" title="Holocene climatic optimum">Holocene climatic optimum</a> 7,000 to 9,000 years ago.<sup id="cite_ref-buehler_5-0" class="reference"><a href="#cite_note-buehler-5"><span>[</span>6<span>]</span></a></sup></p>
+</td>
+</tr>
+</table>
+<p>The Red Knot and the <a href="/wiki/Great_Knot" title="Great Knot">Great Knot</a> were originally the only two species placed in the <a href="/wiki/Genus" title="Genus">genus</a> <i><a href="/wiki/Calidris" title="Calidris" class="mw-redirect">Calidris</a></i> but many other species of sandpiper were subsequently added.<sup id="cite_ref-HBW_6-0" class="reference"><a href="#cite_note-HBW-6"><span>[</span>7<span>]</span></a></sup> A 2004 study found that the genus was <a href="/wiki/Polyphyly" title="Polyphyly">polyphyletic</a>, and that the closest relative of the two knot species is the <a href="/wiki/Surfbird" title="Surfbird">Surfbird</a> (currently <i>Aphriza virgata</i>).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>There are six <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>, in order of size;</p>
+<ul>
+<li><i>C. c. roselaari</i> Tomkovich, 1990 (largest)</li>
+<li><i>C. c. rufa</i> (Wilson, 1813)</li>
+<li><i>C. c. canutus</i> (Linnaeus, 1758)</li>
+<li><i>C. c. islandica</i> (Linnaeus, 1767)</li>
+<li><i>C. c. rogersi</i> (Mathews, 1913)</li>
+<li><i>C. c. piersmai</i> Tomkovich, 2001 (smallest)</li>
+</ul>
+<p>Studies based on mitochondrial sequence divergence and models of <a href="/wiki/Paleoclimatology" title="Paleoclimatology">paleoclimatic changes</a> during the glacial cycles suggest that <i>canutus</i> is the most basal population, separating about 20,000 years ago (95% confidence interval: 60,000–4,000 years ago) with two distinct lineages of the American and Siberian breeders emerging about 12,000 years ago (with a 95% confidence interval: 45,000–3,500 years ago).<sup id="cite_ref-buehler_5-1" class="reference"><a href="#cite_note-buehler-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=2" title="Edit section: Distribution and migration">edit</a>]</span> <span class="mw-headline" id="Distribution_and_migration">Distribution and migration</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Snettishamroost_2590.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Snettishamroost_2590.jpg/220px-Snettishamroost_2590.jpg" width="220" height="161" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Snettishamroost_2590.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Large flocks of <i>C. c. islandica</i> winter in the coastal marshes of Britain, along with other waders. <a href="/wiki/The_Wash" title="The Wash">The Wash</a>, Norfolk</div>
+</div>
+</div>
+<p>In the breeding season the Red Knot has a <a href="//en.wiktionary.org/wiki/circumpolar" class="extiw" title="wikt:circumpolar">circumpolar</a> distribution in the high <a href="/wiki/Arctic" title="Arctic">Arctic</a>, then migrates to coasts around the world from 50° N to 58° S. The red knot has one of the longest migrations of any bird. Every year it travels more than 9,000 miles from the Arctic to the southern tip of South America.<sup id="cite_ref-LPZRedKnot_9-0" class="reference"><a href="#cite_note-LPZRedKnot-9"><span>[</span>10<span>]</span></a></sup> The exact migration routes and wintering grounds of individual subspecies are still somewhat uncertain. The nominate race <i>C. c. canutus</i> breeds in the <a href="/wiki/Taymyr_Peninsula" title="Taymyr Peninsula">Taymyr Peninsula</a> and possibly <a href="/wiki/Sakha_Republic" title="Sakha Republic">Yakutia</a> and migrates to the Western Europe and then down to western and southern <a href="/wiki/Africa" title="Africa">Africa</a>. <i>C. c. rogersi</i> breeds in the <a href="/wiki/Chukchi_Peninsula" title="Chukchi Peninsula">Chukchi Peninsula</a> in eastern Siberia, and winters in eastern <a href="/wiki/Australia" title="Australia">Australia</a> and <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>.<sup id="cite_ref-HBW_6-1" class="reference"><a href="#cite_note-HBW-6"><span>[</span>7<span>]</span></a></sup> Small and declining numbers<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> of <i>rogersi</i> (but possibly of the later described <i>piersmai</i>) winter in the <a href="/wiki/Mudflat" title="Mudflat">mudflats</a> in the <a href="/wiki/Gulf_of_Mannar" title="Gulf of Mannar">Gulf of Mannar</a> and on the eastern coast<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> of India.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> The recently split race <i>C. c. piersmai</i> breeds in the <a href="/wiki/New_Siberian_Islands" title="New Siberian Islands">New Siberian Islands</a> and winters in north-western Australia.<sup id="cite_ref-tomkovich_13-0" class="reference"><a href="#cite_note-tomkovich-13"><span>[</span>14<span>]</span></a></sup> <i>C. c. roselaari</i> breeds in <a href="/wiki/Wrangel_Island" title="Wrangel Island">Wrangel Island</a> in Siberia and north-western <a href="/wiki/Alaska" title="Alaska">Alaska</a>, and it apparently winters in <a href="/wiki/Florida" title="Florida">Florida</a>, <a href="/wiki/Panama" title="Panama">Panama</a> and <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>. <i>C. c. rufa</i> breeds in the Canadian low Arctic, and winters South America, and <i>C. c. islandica</i> breeds in the Canadian high Arctic as well as <a href="/wiki/Greenland" title="Greenland">Greenland</a>, and winters in Western Europe.</p>
+<p>Birds wintering in west Africa were found to restrict their daily foraging to a range of just 2–16&#160;km<sup>2</sup> of intertidal area and roosted a single site for several months. In temperate regions such as the Wadden Sea they have been found to change roost sites each week and their feeding range may be as much as 800&#160;km<sup>2</sup> during the course of a week.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=3" title="Edit section: Description and anatomy">edit</a>]</span> <span class="mw-headline" id="Description_and_anatomy">Description and anatomy</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Red_Knot_RWD1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Red_Knot_RWD1.jpg/220px-Red_Knot_RWD1.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Red_Knot_RWD1.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nonbreeding adult</div>
+</div>
+</div>
+<p>An adult Red Knot is the second largest <i>Calidris</i> sandpiper, measuring 23–26&#160;cm (9–10&#160;in) long with a 47–53&#160;cm (18.5–21&#160;in) <a href="/wiki/Wingspan" title="Wingspan">wingspan</a>. The body shape is typical for the genus, with a small head and eyes, a short neck and a slightly tapering <a href="/wiki/Beak" title="Beak">bill</a> that is no longer than its head.<sup id="cite_ref-BNA_15-0" class="reference"><a href="#cite_note-BNA-15"><span>[</span>16<span>]</span></a></sup> It has short dark legs and a medium thin dark bill. The winter, or basic, <a href="/wiki/Plumage" title="Plumage">plumage</a> becomes uniformly pale grey, and is similar between the sexes. The alternate, or breeding, plumage is mottled grey on top with a cinnamon face, throat and breast and light-coloured rear belly. The alternate plumage of females is similar to that of the male except it is slightly lighter and the eye-line is less distinct. <i>canutus, islandica</i> and <i>piersmai</i> are the "darker" subspecies. Subspecies <i>rogersi</i> has a lighter belly than either <i>roselaari</i> or <i>piersmai</i>, and <i>rufa</i> is the lightest in overall plumage. The transition from alternate to basic plumages begins at the breeding site but is most pronounced during the southwards migration. The <a href="/wiki/Molt" title="Molt" class="mw-redirect">molt</a> to alternate plumage begins just prior to the northwards migration to the breeding grounds, but is mostly during the migration period.<sup id="cite_ref-BNA_15-1" class="reference"><a href="#cite_note-BNA-15"><span>[</span>16<span>]</span></a></sup></p>
+<p>The large size, white wing bar and grey rump and tail make it easy to identify in flight. When feeding the short dark green legs give it a characteristic 'low-slung' appearance. When foraging singly, they rarely call, but when flying in a flock they make a low monosyllabic <i>knutt</i> and when migrating they utter a disyllabic <i>knuup-knuup</i>. They breed in the moist tundra during June to August. The display song of the male is a fluty <i>poor-me</i>. The display includes circling high with quivering wing beats and tumbling to the ground with the wings held upward. Both sexes <a href="/wiki/Avian_incubation" title="Avian incubation" class="mw-redirect">incubate</a> the eggs, but the female leaves parental care to the male once the eggs have hatched.<sup id="cite_ref-shorebirds_1-1" class="reference"><a href="#cite_note-shorebirds-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>Juvenile birds have distinctive submarginal lines and brown coverts during the first year. In the breeding season the males can be separated with difficulty (&lt;80% accuracy in comparison to molecular methods<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup>) based on the more even shade of the red underparts that extend towards the rear of the belly.<sup id="cite_ref-shorebirds_1-2" class="reference"><a href="#cite_note-shorebirds-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>The weight varies with subspecies, but ranges between 100 and 200&#160;g (45–91&#160;oz). Red Knots can double their weight prior to migration. Like many migratory birds they also reduce the size of their digestive organs prior to migration. The extent of the atrophy is not as pronounced as species like the <a href="/wiki/Bar-tailed_Godwit" title="Bar-tailed Godwit">Bar-tailed Godwit</a>, probably because there are more opportunities to feed during migration for the Red Knot.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> Red Knots are also able to change the size of their digestive organs seasonally. The size of the <a href="/wiki/Gizzard" title="Gizzard">gizzard</a> increases in thickness when feeding on harder foods on the wintering ground and decreases in size while feeding on softer foods in the breeding grounds. These changes can be very rapid, occurring in as little as six days.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=5" title="Edit section: Diet and feeding">edit</a>]</span> <span class="mw-headline" id="Diet_and_feeding">Diet and feeding</span></h3>
+<p>On the breeding grounds, Knots eat mostly <a href="/wiki/Spider" title="Spider">spiders</a>, <a href="/wiki/Arthropod" title="Arthropod">arthropods</a>, and larvae obtained by surface pecking, and on the wintering and migratory grounds they eat a variety of hard-shelled prey such as bivalves, <a href="/wiki/Gastropod" title="Gastropod" class="mw-redirect">gastropods</a> and small <a href="/wiki/Crab" title="Crab">crabs</a> that are ingested whole and crushed by a muscular stomach.<sup id="cite_ref-BNA_15-2" class="reference"><a href="#cite_note-BNA-15"><span>[</span>16<span>]</span></a></sup></p>
+<p>While feeding in mudflats during the winter and migration Red Knots are tactile feeders, probing for unseen prey in the mud. Their feeding techniques include the use of shallow probes into the mud while pacing along the shore. When the tide is ebbing, they tend to peck at the surface and in soft mud they may probe and plough forward with the bill inserted to about a centimetre depth. The bivalved mollusc <i><a href="/wiki/Macoma" title="Macoma">Macoma</a></i> is their preferred prey on European coasts, swallowing them whole and breaking them up in their gizzard.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> In <a href="/wiki/Delaware_Bay" title="Delaware Bay">Delaware Bay</a>, they feed in large numbers on the eggs of horseshoe crabs which spawn just as the birds arrive in mid-summer.<sup id="cite_ref-fws_22-0" class="reference"><a href="#cite_note-fws-22"><span>[</span>23<span>]</span></a></sup> They are able to detect molluscs buried under wet sand from changes in the pressure of water that they sense using <a href="/wiki/Corpuscles_of_Herbst" title="Corpuscles of Herbst">Herbst corpuscles</a> in their bill.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup> Unlike many tactile feeders their <a href="/wiki/Visual_field" title="Visual field">visual field</a> is not panoramic (allowing for an almost 360 degree field of view), as during the short breeding season they switch to being visual hunters of mobile, unconcealed prey, which are obtained by pecking.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup> Pecking is also used to obtain some surface foods in the wintering and migratory feeding grounds, such as the eggs of <a href="/wiki/Horseshoe_crab" title="Horseshoe crab">horseshoe crabs</a>.<sup id="cite_ref-BNA_15-3" class="reference"><a href="#cite_note-BNA-15"><span>[</span>16<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=6" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Calidris_canutus_MHNT.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Calidris_canutus_MHNT.jpg/220px-Calidris_canutus_MHNT.jpg" width="220" height="199" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Calidris_canutus_MHNT.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>Calidris canutus</i> - <a href="/wiki/MHNT" title="MHNT" class="mw-redirect">MHNT</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Calidris-canutus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Calidris-canutus.jpg/220px-Calidris-canutus.jpg" width="220" height="274" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Calidris-canutus.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Red Knot in breeding plumage</div>
+</div>
+</div>
+<p>The Red Knot is <a href="/wiki/Territory_(animal)" title="Territory (animal)">territorial</a> and seasonally <a href="/wiki/Monogamy" title="Monogamy">monogamous</a>; it is unknown if pairs remain together from season to season. Males and females breeding in Russia have been shown to exhibit <a href="/wiki/Philopatry" title="Philopatry">site fidelity</a> towards their breeding locales from year to year, but there is no evidence as to whether they exhibit territorial fidelity. Males arrive before females after migration and begin defending territories. As soon as males arrive, they begin displaying, and aggressively defending their territory from other males.<sup id="cite_ref-BNA_15-4" class="reference"><a href="#cite_note-BNA-15"><span>[</span>16<span>]</span></a></sup></p>
+<p>The Red Knot nests on the ground, near water, and usually inland. The <a href="/wiki/Bird_nest" title="Bird nest">nest</a> is a shallow scrape lined with leaves, lichens and <a href="/wiki/Moss" title="Moss">moss</a>.<sup id="cite_ref-LPZRedKnot_9-1" class="reference"><a href="#cite_note-LPZRedKnot-9"><span>[</span>10<span>]</span></a></sup> Males construct three to five nest scrapes in their territories prior to the arrival of the females. The female lays three or more usually four eggs, apparently laid over the course of six days. The eggs measure 43 x 30&#160;mm (1.7 x 1.2&#160;in) in size and are ground coloured, light olive to deep olive buff, with a slight gloss. Both parents <a href="/wiki/Avian_incubation" title="Avian incubation" class="mw-redirect">incubate</a> the eggs, sharing the duties equally. The off duty parent forages in flocks with others of the same species. The incubation period lasting around 22 days. At early stages of incubation the adults are easily flushed from the nest by the presence of humans near the nest, and may not return for several hours after being flushed. However in later stages of incubation they will stay fast on the eggs. Hatching of the clutch is usually synchronised. The chicks are <a href="/wiki/Precocial" title="Precocial">precocial</a> at hatching, covered in downy cryptic feathers. The chicks and the parents move away from the nest within a day of hatching and begin foraging with their parents. The female leaves before the young fledge while the males stay on. After the young have fledged, the male begins his migration south and the young make their first migration on their own.<sup id="cite_ref-BNA_15-5" class="reference"><a href="#cite_note-BNA-15"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=7" title="Edit section: Status">edit</a>]</span> <span class="mw-headline" id="Status">Status</span></h2>
+<p>The Red Knot has an extensive range, estimated at 0.1–1.0&#160;million&#160;square kilometres (0.04–0.38&#160;million square miles), and a large population of about 1.1 million individuals. The species is not believed to approach the thresholds for the population decline criterion of the IUCN Red List (i.e., declining more than 30% in ten years or three generations), and is therefore evaluated as <a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a>.<sup id="cite_ref-IUCN2012_0-1" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup> However many local declines have been noted such as the dredging of intertidal flats for edible cockles (<i><a href="/wiki/Cerastoderma_edule" title="Cerastoderma edule">Cerastoderma edule</a></i>) which led to reductions in the wintering of <i>islandica</i> in the Dutch Wadden Sea.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup> The quality of food at migratory stopover sites is a critical factor in their migration strategy.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup></p>
+<p>This is one of the species to which the <i><a href="/wiki/Agreement_on_the_Conservation_of_African-Eurasian_Migratory_Waterbirds" title="Agreement on the Conservation of African-Eurasian Migratory Waterbirds">Agreement on the Conservation of African-Eurasian Migratory Waterbirds</a></i> (AEWA) applies.<sup id="cite_ref-AEWA_27-0" class="reference"><a href="#cite_note-AEWA-27"><span>[</span>28<span>]</span></a></sup> This commits signatories to regulate the taking of listed species or their eggs, to establish protected areas to conserve habitats for the listed species, to regulate hunting and to monitor the populations of the birds concerned.<sup id="cite_ref-AEWA2_28-0" class="reference"><a href="#cite_note-AEWA2-28"><span>[</span>29<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=8" title="Edit section: Threats to the American subspecies">edit</a>]</span> <span class="mw-headline" id="Threats_to_the_American_subspecies">Threats to the American subspecies</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Red_knot_horseshoe_crab_feeding.jpg" class="image"><img alt="Large numbers of brown, white and reddish birds dip their heads into in shallow water behind the carapace of a large crab-like creature" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Red_knot_horseshoe_crab_feeding.jpg/220px-Red_knot_horseshoe_crab_feeding.jpg" width="220" height="146" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Red_knot_horseshoe_crab_feeding.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Red Knot feeding on horseshoe crab eggs in Delaware Bay</div>
+</div>
+</div>
+<p>Towards the end of the 19th century, large numbers of Red Knot were shot for food as they migrated through <a href="/wiki/North_America" title="North America">North America</a>. It is hypothesized that more recently, the birds have become threatened as a result of commercial harvesting of <a href="/wiki/Limulus_polyphemus" title="Limulus polyphemus" class="mw-redirect">horseshoe crabs</a> in the <a href="/wiki/Delaware_River" title="Delaware River">Delaware Bay</a> which began in the early 1990s. Delaware Bay is a critical stopover point during spring migration; the birds refuel by eating the eggs laid by these crabs (with little else to eat in the Delaware Bay).<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>30<span>]</span></a></sup> If horseshoe crab abundance in the Bay is reduced there may fewer eggs to feed on which could negatively affect knot survival.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>33<span>]</span></a></sup></p>
+<p>In 2003, scientists projected that at its current rate of decline the American subspecies might become extinct as early as 2010, but as of April 2011 the subspecies is still extant. Several environmental groups have petitioned the U.S. government to list the birds as endangered,<sup id="cite_ref-fws_22-1" class="reference"><a href="#cite_note-fws-22"><span>[</span>23<span>]</span></a></sup> but thus far their requests have not been granted. In New Jersey, state and local agencies are taking steps to protect these birds by limiting horseshoe crab harvesting and restricting beach access. In Delaware, a two-year ban on the harvesting of horseshoe crabs was enacted but struck down by a judge who cited insufficient evidence to justify the potential disruption to the fishing industry but a male-only harvest has been in place in recent years.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from April 2012">citation needed</span></a></i>]</sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=9" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003041">"<i>Calidris canutus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003041">http://www.iucnredlist.org/apps/redlist/details/106003041</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Calidris+canutus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003041&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-shorebirds-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-shorebirds_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-shorebirds_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-shorebirds_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Marchant, John; Hayman, Peter; Prater, Tony (1986). <i>Shorebirds: an identification guide to the waders of the world</i>. Boston: Houghton Mifflin. pp.&#160;363–364. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-395-37903-2" title="Special:BookSources/0-395-37903-2">0-395-37903-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Shorebirds%3A+an+identification+guide+to+the+waders+of+the+world&amp;rft.aulast=Marchant&amp;rft.aufirst=John&amp;rft.au=Marchant%2C%26%2332%3BJohn&amp;rft.au=Hayman%2C%26%2332%3BPeter&amp;rft.au=Prater%2C%26%2332%3BTony&amp;rft.date=1986&amp;rft.pages=pp.%26nbsp%3B363%E2%80%93364&amp;rft.place=Boston&amp;rft.pub=Houghton+Mifflin&amp;rft.isbn=0-395-37903-2&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Latin)</span> <span class="citation book"><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus, Carl</a> (1758). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata.</i>. Holmiae. (Laurentii Salvii).. pp.&#160;149. "T. roftro laevi, pedibus cinerascentibus, remigibus primoribus ferratis."</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata.&amp;rft.aulast=Linnaeus&amp;rft.aufirst=Carl&amp;rft.au=Linnaeus%2C%26%2332%3BCarl&amp;rft.date=1758&amp;rft.pages=pp.%26nbsp%3B149&amp;rft.pub=Holmiae.+%28Laurentii+Salvii%29.&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book">Holloway, Joel Ellis (2003). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=O07_W9NF39MC&amp;pg=PA50&amp;lpg=PA50"><i>Dictionary of Birds of the United States: Scientific and Common Names</i></a>. Portland, Oregon: Timber Press. p.&#160;50. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-88192-600-0" title="Special:BookSources/0-88192-600-0">0-88192-600-0</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/books?id=O07_W9NF39MC&amp;pg=PA50&amp;lpg=PA50">http://books.google.com/books?id=O07_W9NF39MC&amp;pg=PA50&amp;lpg=PA50</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dictionary+of+Birds+of+the+United+States%3A+Scientific+and+Common+Names&amp;rft.aulast=Holloway%2C+Joel+Ellis&amp;rft.au=Holloway%2C+Joel+Ellis&amp;rft.date=2003&amp;rft.pages=p.%26nbsp%3B50&amp;rft.place=Portland%2C+Oregon&amp;rft.pub=Timber+Press&amp;rft.isbn=0-88192-600-0&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DO07_W9NF39MC%26pg%3DPA50%26lpg%3DPA50&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-HANZAB-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-HANZAB_4-0">^</a></b></span> <span class="reference-text"><span class="citation book">Higgins, Peter J.; Davies, S.J.J.F., ed. (1996). <i><a href="/wiki/Handbook_of_Australian,_New_Zealand_and_Antarctic_Birds" title="Handbook of Australian, New Zealand and Antarctic Birds">Handbook of Australian, New Zealand and Antarctic Birds</a>. Volume 3: Snipe to Pigeons.</i>. Melbourne, Victoria: Oxford University Press. pp.&#160;224–32. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-553070-5" title="Special:BookSources/0-19-553070-5">0-19-553070-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%5B%5BHandbook+of+Australian%2C+New+Zealand+and+Antarctic+Birds%5D%5D.+Volume+3%3A+Snipe+to+Pigeons.&amp;rft.date=1996&amp;rft.pages=pp.%26nbsp%3B224%E2%80%9332&amp;rft.place=Melbourne%2C+Victoria&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-553070-5&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-buehler-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-buehler_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-buehler_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Buehler, Deborah M.; Baker, Allan J.; Piersma, Theunis (2006). <a rel="nofollow" class="external text" href="http://cees.eldoc.ub.rug.nl/FILES/root/Animal_Ecology/Articles/2006/BuehlerDM-Reconstruc/1Buehler06.pdf">"Reconstructing palaeoflyways of the late Pleistocene and early Holocene Red Knot <i>Calidris canutus</i>"</a> (PDF). <i>Ardea</i> <b>94</b> (3): 485–98<span class="printonly">. <a rel="nofollow" class="external free" href="http://cees.eldoc.ub.rug.nl/FILES/root/Animal_Ecology/Articles/2006/BuehlerDM-Reconstruc/1Buehler06.pdf">http://cees.eldoc.ub.rug.nl/FILES/root/Animal_Ecology/Articles/2006/BuehlerDM-Reconstruc/1Buehler06.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Reconstructing+palaeoflyways+of+the+late+Pleistocene+and+early+Holocene+Red+Knot+%27%27Calidris+canutus%27%27&amp;rft.jtitle=Ardea&amp;rft.aulast=Buehler&amp;rft.aufirst=Deborah+M.&amp;rft.au=Buehler%2C%26%2332%3BDeborah+M.&amp;rft.au=Baker%2C%26%2332%3BAllan+J.&amp;rft.au=Piersma%2C%26%2332%3BTheunis&amp;rft.date=2006&amp;rft.volume=94&amp;rft.issue=3&amp;rft.pages=485%E2%80%9398&amp;rft_id=http%3A%2F%2Fcees.eldoc.ub.rug.nl%2FFILES%2Froot%2FAnimal_Ecology%2FArticles%2F2006%2FBuehlerDM-Reconstruc%2F1Buehler06.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-HBW-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-HBW_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HBW_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Piersma,, T; van Gils, J; Wiersma, P (1996). "Scolopacidae(Sandpipers And Allies)". In Josep, del Hoyo; Andrew, Sargatal; Jordi, Christie. <i><a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">Handbook of the Birds of the World</a>. Volume 3, Hoatzin To Auks</i>. Barcelona: Lynx Edicions. p.&#160;519. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-20-2" title="Special:BookSources/84-87334-20-2">84-87334-20-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Scolopacidae%28Sandpipers+And+Allies%29&amp;rft.atitle=%5B%5BHandbook+of+the+Birds+of+the+World%5D%5D.+Volume+3%2C+Hoatzin+To+Auks&amp;rft.aulast=Piersma%2C&amp;rft.aufirst=T&amp;rft.au=Piersma%2C%2C%26%2332%3BT&amp;rft.au=van+Gils%2C%26%2332%3BJ&amp;rft.au=Wiersma%2C%26%2332%3BP&amp;rft.date=1996&amp;rft.pages=p.%26nbsp%3B519&amp;rft.place=Barcelona&amp;rft.pub=Lynx+Edicions&amp;rft.isbn=84-87334-20-2&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation Journal">Thomas, Gavin H.; Wills, Matthew A.; Székely, Tamás (2004). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC515296/">"A supertree approach to shorebird phylogeny"</a>. <i><a href="/wiki/BMC_journals" title="BMC journals">BMC</a> Evolutionary Biology</i> <b>4</b> (28): 1–18. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1186%2F1471-2148-4-28">10.1186/1471-2148-4-28</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC515296">515296</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15329156">15329156</a><span class="printonly">. //www.ncbi.nlm.nih.gov/pmc/articles/PMC515296/</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+supertree+approach+to+shorebird+phylogeny&amp;rft.jtitle=%5B%5BBMC+journals%7CBMC%5D%5D+Evolutionary+Biology&amp;rft.aulast=Thomas&amp;rft.aufirst=Gavin+H.&amp;rft.au=Thomas%2C%26%2332%3BGavin+H.&amp;rft.date=2004&amp;rft.volume=4&amp;rft.issue=28&amp;rft.pages=1%E2%80%9318&amp;rft_id=info:doi/10.1186%2F1471-2148-4-28&amp;rft_id=info:pmc/515296&amp;rft_id=info:pmid/15329156&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC515296%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Buehler, Deborah M.; Baker, Allan J. (2005). <a rel="nofollow" class="external text" href="http://individual.utoronto.ca/dmbuehler/BuehlerBaker2005Condor.pdf">"Population divergence times and historical demography in red knots and dunlins"</a> (PDF). <i>The Condor</i> <b>107</b>: 497–513. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1650%2F0010-5422%282005%29107%5B0497%3APDTAHD%5D2.0.CO%3B2">10.1650/0010-5422(2005)107[0497:PDTAHD]2.0.CO;2</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://individual.utoronto.ca/dmbuehler/BuehlerBaker2005Condor.pdf">http://individual.utoronto.ca/dmbuehler/BuehlerBaker2005Condor.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Population+divergence+times+and+historical+demography+in+red+knots+and+dunlins&amp;rft.jtitle=The+Condor&amp;rft.aulast=Buehler&amp;rft.aufirst=Deborah+M.&amp;rft.au=Buehler%2C%26%2332%3BDeborah+M.&amp;rft.au=Baker%2C%26%2332%3BAllan+J.&amp;rft.date=2005&amp;rft.volume=107&amp;rft.pages=497%E2%80%93513&amp;rft_id=info:doi/10.1650%2F0010-5422%282005%29107%5B0497%3APDTAHD%5D2.0.CO%3B2&amp;rft_id=http%3A%2F%2Findividual.utoronto.ca%2Fdmbuehler%2FBuehlerBaker2005Condor.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-LPZRedKnot-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-LPZRedKnot_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LPZRedKnot_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lpzoo.org/animals/factsheet/red-knot">"Red Knot Fact Sheet, Lincoln Park Zoo"</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Boere, G.C., Galbraith, C.A. &amp; Stroud, D.A. (eds). 2006. Waterbirds around the world. The Stationery Office, Edinburgh, UK. 960 pp. <a rel="nofollow" class="external text" href="http://www.jncc.gov.uk/PDF/pub07_waterbirds_part3.5.13.pdf">PDF</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation Journal">Rao, P.; Mohapatra, K.K. (1993). "Occurrence of the Knot (<i>Calidris canutus</i>) in Andhra Pradesh in India". <i>J. Bombay Nat. Hist. Soc.</i> <b>90</b> (3): 509.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Occurrence+of+the+Knot+%28%27%27Calidris+canutus%27%27%29+in+Andhra+Pradesh+in+India&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Rao%2C+P.%3B+Mohapatra%2C+K.K.&amp;rft.au=Rao%2C+P.%3B+Mohapatra%2C+K.K.&amp;rft.date=1993&amp;rft.volume=90&amp;rft.issue=3&amp;rft.pages=509&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation Journal">Balachandran, S. (1998). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/IWSGB/v086/p00044-p00047.pdf">"Population, status, moult, measurements, and subspecies of Knot <i>Calidris canutus</i> wintering in south India"</a> (PDF). <i>Wader Study Group Bull.</i> <b>86</b>: 44–47<span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/IWSGB/v086/p00044-p00047.pdf">http://elibrary.unm.edu/sora/IWSGB/v086/p00044-p00047.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Population%2C+status%2C+moult%2C+measurements%2C+and+subspecies+of+Knot+%27%27Calidris+canutus%27%27+wintering+in+south+India&amp;rft.jtitle=Wader+Study+Group+Bull.&amp;rft.aulast=Balachandran&amp;rft.aufirst=S.&amp;rft.au=Balachandran%2C%26%2332%3BS.&amp;rft.date=1998&amp;rft.volume=86&amp;rft.pages=44%E2%80%9347&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FIWSGB%2Fv086%2Fp00044-p00047.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-tomkovich-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-tomkovich_13-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Tomkovich, P.S. (2001). "A new subspecies of Red Knot <i>Calidris canutus</i> from the New Siberian Islands". <i><a href="/wiki/Bulletin_of_the_British_Ornithologists%27_Club" title="Bulletin of the British Ornithologists' Club">Bulletin of the British Ornithologists' Club</a></i> <b>121</b>: 257–63.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+new+subspecies+of+Red+Knot+%27%27Calidris+canutus%27%27+from+the+New+Siberian+Islands&amp;rft.jtitle=%5B%5BBulletin+of+the+British+Ornithologists%27+Club%5D%5D&amp;rft.aulast=Tomkovich&amp;rft.aufirst=P.S.&amp;rft.au=Tomkovich%2C%26%2332%3BP.S.&amp;rft.date=2001&amp;rft.volume=121&amp;rft.pages=257%E2%80%9363&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Leyrer, Jutta; Spaans, Bernard; Camara, Mohamed; Piersma, Theunis (2006). <a rel="nofollow" class="external text" href="http://cees.eldoc.ub.rug.nl/FILES/root/Animal_Ecology/Articles/2006/LeyrerJ-Small/LeyrerJ-Small-2006.pdf">"Small home ranges and high site fidelity in red knots (<i>Calidris c. canutus</i>) wintering on the Banc d’Arguin, Mauritania"</a> (PDF). <i>J. Ornithol.</i> <b>147</b>: 376–84. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2Fs10336-005-0030-8">10.1007/s10336-005-0030-8</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://cees.eldoc.ub.rug.nl/FILES/root/Animal_Ecology/Articles/2006/LeyrerJ-Small/LeyrerJ-Small-2006.pdf">http://cees.eldoc.ub.rug.nl/FILES/root/Animal_Ecology/Articles/2006/LeyrerJ-Small/LeyrerJ-Small-2006.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Small+home+ranges+and+high+site+fidelity+in+red+knots+%28%27%27Calidris+c.+canutus%27%27%29+wintering+on+the+Banc+d%E2%80%99Arguin%2C+Mauritania&amp;rft.jtitle=J.+Ornithol.&amp;rft.aulast=Leyrer&amp;rft.aufirst=Jutta&amp;rft.au=Leyrer%2C%26%2332%3BJutta&amp;rft.date=2006&amp;rft.volume=147&amp;rft.pages=376%E2%80%9384&amp;rft_id=info:doi/10.1007%2Fs10336-005-0030-8&amp;rft_id=http%3A%2F%2Fcees.eldoc.ub.rug.nl%2FFILES%2Froot%2FAnimal_Ecology%2FArticles%2F2006%2FLeyrerJ-Small%2FLeyrerJ-Small-2006.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BNA-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-BNA_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BNA_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BNA_15-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BNA_15-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BNA_15-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BNA_15-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Harrington, Brian (2001). <a rel="nofollow" class="external text" href="http://bna.birds.cornell.edu/bna/species/563">"Red Knot"</a>. <i>Birds of North America</i>. Ithaca: Cornell Lab of Ornithology. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2173%2Fbna.563">10.2173/bna.563</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://bna.birds.cornell.edu/bna/species/563">http://bna.birds.cornell.edu/bna/species/563</a></span><span class="reference-accessdate">. Retrieved 27 April 2009</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Red+Knot&amp;rft.atitle=Birds+of+North+America&amp;rft.aulast=Harrington&amp;rft.aufirst=Brian&amp;rft.au=Harrington%2C%26%2332%3BBrian&amp;rft.date=2001&amp;rft.pub=Ithaca%3A+Cornell+Lab+of+Ornithology&amp;rft_id=info:doi/10.2173%2Fbna.563&amp;rft_id=http%3A%2F%2Fbna.birds.cornell.edu%2Fbna%2Fspecies%2F563&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation Journal">Baker, AJ; T Piersma &amp; AD Greenslade (1999). <a rel="nofollow" class="external text" href="http://elibrary.unm.edu/sora/Condor/files/issues/v101n04/p0887-p0893.pdf">"Molecular vs. phenotypic sexing in red knots"</a> (PDF). <i>The Condor</i> (Cooper Ornithological Society) <b>101</b> (4): 887–893. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F1370083">10.2307/1370083</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/1370083">1370083</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://elibrary.unm.edu/sora/Condor/files/issues/v101n04/p0887-p0893.pdf">http://elibrary.unm.edu/sora/Condor/files/issues/v101n04/p0887-p0893.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Molecular+vs.+phenotypic+sexing+in+red+knots&amp;rft.jtitle=The+Condor&amp;rft.aulast=Baker&amp;rft.aufirst=AJ&amp;rft.au=Baker%2C%26%2332%3BAJ&amp;rft.date=1999&amp;rft.volume=101&amp;rft.issue=4&amp;rft.pages=887%E2%80%93893&amp;rft.pub=Cooper+Ornithological+Society&amp;rft_id=info:doi/10.2307%2F1370083&amp;rft.jstor=1370083&amp;rft_id=http%3A%2F%2Felibrary.unm.edu%2Fsora%2FCondor%2Ffiles%2Fissues%2Fv101n04%2Fp0887-p0893.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Piersma, Theunis (1998). "Phenotypic Flexibility during Migration: Optimization of Organ Size Contingent on the Risks and Rewards of Fueling and Flight?". <i>Journal of Avian Biology</i> (Blackwell Publishing) <b>29</b> (4): 511–20. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F3677170">10.2307/3677170</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/3677170">3677170</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Phenotypic+Flexibility+during+Migration%3A+Optimization+of+Organ+Size+Contingent+on+the+Risks+and+Rewards+of+Fueling+and+Flight%3F&amp;rft.jtitle=Journal+of+Avian+Biology&amp;rft.aulast=Piersma&amp;rft.aufirst=Theunis&amp;rft.au=Piersma%2C%26%2332%3BTheunis&amp;rft.date=1998&amp;rft.volume=29&amp;rft.issue=4&amp;rft.pages=511%E2%80%9320&amp;rft.pub=Blackwell+Publishing&amp;rft_id=info:doi/10.2307%2F3677170&amp;rft.jstor=3677170&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Dekinga, A.; Dietz MW, Koolhaas A, Piersma T (2001). "Time course and reversibility of changes in the gizzards of red knots alternately eating hard and soft food". <i>Journal of Experimental Biology</i> <b>204</b> (12): 2167–73.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Time+course+and+reversibility+of+changes+in+the+gizzards+of+red+knots+alternately+eating+hard+and+soft+food&amp;rft.jtitle=Journal+of+Experimental+Biology&amp;rft.aulast=Dekinga&amp;rft.aufirst=A.&amp;rft.au=Dekinga%2C%26%2332%3BA.&amp;rft.date=2001&amp;rft.volume=204&amp;rft.issue=12&amp;rft.pages=2167%E2%80%9373&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation Journal">Piersma, Theunis; Dietz, M. W., Dekinga, A., Nebel, S., van Gils, J. A., Battley, P. F. &amp; Spaans, B. (1999). <a rel="nofollow" class="external text" href="http://publish.uwo.ca/~snebel2/Piersma99Acta_oecol.pdf">"Reversible size-changes in stomachs of shorebirds: when, to what extent, and why?"</a> (PDF). <i>Acta Ornithologica</i> <b>34</b>: 175–81<span class="printonly">. <a rel="nofollow" class="external free" href="http://publish.uwo.ca/~snebel2/Piersma99Acta_oecol.pdf">http://publish.uwo.ca/~snebel2/Piersma99Acta_oecol.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Reversible+size-changes+in+stomachs+of+shorebirds%3A+when%2C+to+what+extent%2C+and+why%3F&amp;rft.jtitle=Acta+Ornithologica&amp;rft.aulast=Piersma&amp;rft.aufirst=Theunis&amp;rft.au=Piersma%2C%26%2332%3BTheunis&amp;rft.date=1999&amp;rft.volume=34&amp;rft.pages=175%E2%80%9381&amp;rft_id=http%3A%2F%2Fpublish.uwo.ca%2F%7Esnebel2%2FPiersma99Acta_oecol.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation Journal">Prater, A. J. (1972). "The Ecology of Morecambe Bay. III. The Food and Feeding Habits of Knot (<i>Calidris canutus</i> L.) in Morecambe Bay.". <i>Journal of Applied Ecology</i> (British Ecological Society) <b>9</b> (1): 179–94. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F2402055">10.2307/2402055</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/2402055">2402055</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Ecology+of+Morecambe+Bay.+III.+The+Food+and+Feeding+Habits+of+Knot+%28%27%27Calidris+canutus%27%27+L.%29+in+Morecambe+Bay.&amp;rft.jtitle=Journal+of+Applied+Ecology&amp;rft.aulast=Prater&amp;rft.aufirst=A.+J.&amp;rft.au=Prater%2C%26%2332%3BA.+J.&amp;rft.date=1972&amp;rft.volume=9&amp;rft.issue=1&amp;rft.pages=179%E2%80%9394&amp;rft.pub=British+Ecological+Society&amp;rft_id=info:doi/10.2307%2F2402055&amp;rft.jstor=2402055&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation Journal">Zwarts, L; Blomert, A-M (1992). <a rel="nofollow" class="external text" href="http://www.int-res.com/articles/meps/83/m083p113.pdf">"Why knot <i>Calidris canutus</i> take medium-sized <i>Macoma balthica</i> when six prey species are available."</a> (PDF). <i>Marine Ecol. Progress. Series</i> <b>83</b> (2-3): 113–28. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.3354%2Fmeps083113">10.3354/meps083113</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.int-res.com/articles/meps/83/m083p113.pdf">http://www.int-res.com/articles/meps/83/m083p113.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Why+knot+%27%27Calidris+canutus%27%27+take+medium-sized+%27%27Macoma+balthica%27%27+when+six+prey+species+are+available.&amp;rft.jtitle=Marine+Ecol.+Progress.+Series&amp;rft.aulast=Zwarts&amp;rft.aufirst=L&amp;rft.au=Zwarts%2C%26%2332%3BL&amp;rft.date=1992&amp;rft.volume=83&amp;rft.issue=2-3&amp;rft.pages=113%E2%80%9328&amp;rft_id=info:doi/10.3354%2Fmeps083113&amp;rft_id=http%3A%2F%2Fwww.int-res.com%2Farticles%2Fmeps%2F83%2Fm083p113.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-fws-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-fws_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fws_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.fws.gov/northeast/redknot/riverkeeper.pdf">"Petition to List the Red Knot (<i>Caladris canutus rufa</i>) as Endangered and Request for Emergency Listing under the Endangered Species Act"</a>. <i>Federal Wildlife Service</i>. 2005-08-02<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.fws.gov/northeast/redknot/riverkeeper.pdf">http://www.fws.gov/northeast/redknot/riverkeeper.pdf</a></span><span class="reference-accessdate">. Retrieved 2009-03-27</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Petition+to+List+the+Red+Knot+%28%27%27Caladris+canutus+rufa%27%27%29+as+Endangered+and+Request+for+Emergency+Listing+under+the+Endangered+Species+Act&amp;rft.atitle=Federal+Wildlife+Service&amp;rft.date=2005-08-02&amp;rft_id=http%3A%2F%2Fwww.fws.gov%2Fnortheast%2Fredknot%2Friverkeeper.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation Journal">Piersma, Theunis; Renee van Aelst; Karin Kurk; Herman Berkhoudt &amp; Leo R M Maas (1998). <a rel="nofollow" class="external text" href="http://wfscnet.tamu.edu/faculty/tdewitt/WFSC622/Piersma%20et%20al.%201998.%20red%20knot%20sensory.pdf">"A new pressure sensory mechanism for prey detection in birds: the use of principles of seabed dynamics?"</a> (PDF). <i>Proceedings of the Royal Society B: Biological Sciences</i> <b>265</b>: 1377–83. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1098%2Frspb.1998.0445">10.1098/rspb.1998.0445</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://wfscnet.tamu.edu/faculty/tdewitt/WFSC622/Piersma%20et%20al.%201998.%20red%20knot%20sensory.pdf">http://wfscnet.tamu.edu/faculty/tdewitt/WFSC622/Piersma%20et%20al.%201998.%20red%20knot%20sensory.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+new+pressure+sensory+mechanism+for+prey+detection+in+birds%3A+the+use+of+principles+of+seabed+dynamics%3F&amp;rft.jtitle=Proceedings+of+the+Royal+Society+B%3A+Biological+Sciences&amp;rft.aulast=Piersma&amp;rft.aufirst=Theunis&amp;rft.au=Piersma%2C%26%2332%3BTheunis&amp;rft.date=1998&amp;rft.volume=265&amp;rft.pages=1377%E2%80%9383&amp;rft_id=info:doi/10.1098%2Frspb.1998.0445&amp;rft_id=http%3A%2F%2Fwfscnet.tamu.edu%2Ffaculty%2Ftdewitt%2FWFSC622%2FPiersma%2520et%2520al.%25201998.%2520red%2520knot%2520sensory.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation Journal">Martin, Graham R.; Theunis Piersma (2009). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2664340/">"Vision and touch in relation to foraging and predator detection: insightful contrasts between a plover and a sandpiper"</a>. <i>Proceedings of the Royal Society B</i> <b>276</b> (1656): 437–45. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1098%2Frspb.2008.1110">10.1098/rspb.2008.1110</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2664340">2664340</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18842546">18842546</a><span class="printonly">. //www.ncbi.nlm.nih.gov/pmc/articles/PMC2664340/</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Vision+and+touch+in+relation+to+foraging+and+predator+detection%3A+insightful+contrasts+between+a+plover+and+a+sandpiper&amp;rft.jtitle=Proceedings+of+the+Royal+Society+B&amp;rft.aulast=Martin&amp;rft.aufirst=Graham+R.&amp;rft.au=Martin%2C%26%2332%3BGraham+R.&amp;rft.date=2009&amp;rft.volume=276&amp;rft.issue=1656&amp;rft.pages=437%E2%80%9345&amp;rft_id=info:doi/10.1098%2Frspb.2008.1110&amp;rft_id=info:pmc/2664340&amp;rft_id=info:pmid/18842546&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2664340%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation Journal">van Gils, Jan A; Theunis Piersma, Anne Dekinga, Bernard Spaans and Casper Kraan (2006). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1635749/">"Shellfish Dredging Pushes a Flexible Avian Top Predator out of a Marine Protected Area."</a>. <i>PLoS Biol.</i> <b>4</b> (12): e376. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1371%2Fjournal.pbio.0040376">10.1371/journal.pbio.0040376</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1635749">1635749</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17105350">17105350</a><span class="printonly">. //www.ncbi.nlm.nih.gov/pmc/articles/PMC1635749/</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Shellfish+Dredging+Pushes+a+Flexible+Avian+Top+Predator+out+of+a+Marine+Protected+Area.&amp;rft.jtitle=PLoS+Biol.&amp;rft.aulast=van+Gils&amp;rft.aufirst=Jan+A&amp;rft.au=van+Gils%2C%26%2332%3BJan+A&amp;rft.date=2006&amp;rft.volume=4&amp;rft.issue=12&amp;rft.pages=e376&amp;rft_id=info:doi/10.1371%2Fjournal.pbio.0040376&amp;rft_id=info:pmc/1635749&amp;rft_id=info:pmid/17105350&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1635749%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation Journal">van Gils, Jan A; Phil F Battley, Theunis Piersma and Rudi Drent (2005). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1559986/">"Reinterpretation of gizzard sizes of red knots world-wide emphasises overriding importance of prey quality at migratory stopover sites."</a>. <i>Proc. R. Soc. B</i> <b>272</b> (1581): 2609–2618. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1098%2Frspb.2005.3245">10.1098/rspb.2005.3245</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1559986">1559986</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16321783">16321783</a><span class="printonly">. //www.ncbi.nlm.nih.gov/pmc/articles/PMC1559986/</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Reinterpretation+of+gizzard+sizes+of+red+knots+world-wide+emphasises+overriding+importance+of+prey+quality+at+migratory+stopover+sites.&amp;rft.jtitle=Proc.+R.+Soc.+B&amp;rft.aulast=van+Gils&amp;rft.aufirst=Jan+A&amp;rft.au=van+Gils%2C%26%2332%3BJan+A&amp;rft.date=2005&amp;rft.volume=272&amp;rft.issue=1581&amp;rft.pages=2609%E2%80%932618&amp;rft_id=info:doi/10.1098%2Frspb.2005.3245&amp;rft_id=info:pmc/1559986&amp;rft_id=info:pmid/16321783&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1559986%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-AEWA-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-AEWA_27-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.unep-aewa.org/documents/agreement_text/eng/pdf/aewa_agreement_text_annex2.pdf">"Annex 2: Waterbird species to which the Agreement applies"</a> (PDF). <i>Agreement on the conservation of African-Eurasian migratory Waterbirds (AEWA)</i>. AEWA<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.unep-aewa.org/documents/agreement_text/eng/pdf/aewa_agreement_text_annex2.pdf">http://www.unep-aewa.org/documents/agreement_text/eng/pdf/aewa_agreement_text_annex2.pdf</a></span><span class="reference-accessdate">. Retrieved 22 April 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Annex+2%3A+Waterbird+species+to+which+the+Agreement+applies&amp;rft.atitle=Agreement+on+the+conservation+of+African-Eurasian+migratory+Waterbirds+%28AEWA%29&amp;rft.pub=AEWA&amp;rft_id=http%3A%2F%2Fwww.unep-aewa.org%2Fdocuments%2Fagreement_text%2Feng%2Fpdf%2Faewa_agreement_text_annex2.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-AEWA2-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-AEWA2_28-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.unep-aewa.org/documents/agreement_text/eng/pdf/aewa_agreement_text_2009_2012_annex3.pdf">"Annex 3: Waterbird species to which the Agreement applies"</a> (PDF). <i>Agreement on the conservation of African-Eurasian migratory Waterbirds (AEWA)</i>. AEWA<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.unep-aewa.org/documents/agreement_text/eng/pdf/aewa_agreement_text_2009_2012_annex3.pdf">http://www.unep-aewa.org/documents/agreement_text/eng/pdf/aewa_agreement_text_2009_2012_annex3.pdf</a></span><span class="reference-accessdate">. Retrieved 22 April 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Annex+3%3A+Waterbird+species+to+which+the+Agreement+applies&amp;rft.atitle=Agreement+on+the+conservation+of+African-Eurasian+migratory+Waterbirds+%28AEWA%29&amp;rft.pub=AEWA&amp;rft_id=http%3A%2F%2Fwww.unep-aewa.org%2Fdocuments%2Fagreement_text%2Feng%2Fpdf%2Faewa_agreement_text_2009_2012_annex3.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation Journal">Karpanty, Sarah; Fraser, James D.; Berkson, Jim; Niles, Lawrence J.; Dey, Amanda; Smith, Eric P. (2006). "Horseshoe crab eggs determine red knot distribution in Delaware Bay". <i>Journal of Wildlife Management</i> <b>70</b> (6): 1704–1710. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2193%2F0022-541X%282006%2970%5B1704%3AHCEDRK%5D2.0.CO%3B2">10.2193/0022-541X(2006)70[1704:HCEDRK]2.0.CO;2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Horseshoe+crab+eggs+determine+red+knot+distribution+in+Delaware+Bay&amp;rft.jtitle=Journal+of+Wildlife+Management&amp;rft.aulast=Karpanty&amp;rft.aufirst=Sarah&amp;rft.au=Karpanty%2C%26%2332%3BSarah&amp;rft.date=2006&amp;rft.volume=70&amp;rft.issue=6&amp;rft.pages=1704%E2%80%931710&amp;rft_id=info:doi/10.2193%2F0022-541X%282006%2970%5B1704%3AHCEDRK%5D2.0.CO%3B2&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation Journal">Baker, Allan J.; Gonzalez, Patricia M.; Piersma, Theunis; Niles, Lawrence J.; do Nascimento, Ineˆs de Lima Serrano; Atkinson, Philip W.; Clark, Nigel A.; Minton, Clive D. T.; Peck, Mark K.; Aarts, Geert (2004). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1691665/">"Rapid population decline in red knots: fitness consequences of decreased refueling rates and late arrival in Delaware Bay"</a>. <i>Proceedings of the Royal Society</i> <b>271</b> (1541): 875–82. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1098%2Frspb.2003.2663">10.1098/rspb.2003.2663</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1691665">1691665</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15255108">15255108</a><span class="printonly">. //www.ncbi.nlm.nih.gov/pmc/articles/PMC1691665/</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rapid+population+decline+in+red+knots%3A+fitness+consequences+of+decreased+refueling+rates+and+late+arrival+in+Delaware+Bay&amp;rft.jtitle=Proceedings+of+the+Royal+Society&amp;rft.aulast=Baker&amp;rft.aufirst=Allan+J.&amp;rft.au=Baker%2C%26%2332%3BAllan+J.&amp;rft.date=2004&amp;rft.volume=271&amp;rft.issue=1541&amp;rft.pages=875%E2%80%9382&amp;rft_id=info:doi/10.1098%2Frspb.2003.2663&amp;rft_id=info:pmc/1691665&amp;rft_id=info:pmid/15255108&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1691665%2F&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Lawrence J. Niles, Humphrey P. Sitters, Amanda D. Dey, Philip W. Atkinson, Allan J. Baker, Karen A. Bennett, Roberto Carmona, Kathleen E. Clark, Nigel A. Clark, Carmen Espoz, Patricia M. González, Brian A. Harrington, Daniel E. Hernández, Kevin S. Kalasz, Richard G. Lathrop, Ricardo N. Matus, Clive D. T. Minton, R. I. Guy Morrison, Mark K. Peck, William Pitts, Robert A. Robinson, and Inês L. Serrano (2008) <a rel="nofollow" class="external text" href="http://myfwc.com/docs/Conservation/FBCI_StatusoftheRedKnot.pdf">Status of the Red Knot (<i>Calidris canutus rufa</i>) in the Western Hemisphere</a> <i>Studies in Avian Biology No. 36</i>. Cooper Ornithological Society. (PDf)</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation Journal">Niles, L., Bart, J., Sitters, H., Dey, A., Clark, K., Atkinson, P., <i>et al.</i> (2009). "Effects of horseshoe crab harvest in Delaware Bay on red knots: are harvest restrictions working?". <i>BioScience</i> <b>59</b> (2): 153–164. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1525%2Fbio.2009.59.2.8">10.1525/bio.2009.59.2.8</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Effects+of+horseshoe+crab+harvest+in+Delaware+Bay+on+red+knots%3A+are+harvest+restrictions+working%3F&amp;rft.jtitle=BioScience&amp;rft.aulast=Niles%2C+L.%2C+Bart%2C+J.%2C+Sitters%2C+H.%2C+Dey%2C+A.%2C+Clark%2C+K.%2C+Atkinson%2C+P.%2C+%27%27et+al.%27%27&amp;rft.au=Niles%2C+L.%2C+Bart%2C+J.%2C+Sitters%2C+H.%2C+Dey%2C+A.%2C+Clark%2C+K.%2C+Atkinson%2C+P.%2C+%27%27et+al.%27%27&amp;rft.date=2009&amp;rft.volume=59&amp;rft.issue=2&amp;rft.pages=153%E2%80%93164&amp;rft_id=info:doi/10.1525%2Fbio.2009.59.2.8&amp;rfr_id=info:sid/en.wikipedia.org:Red_Knot"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Red_Knot&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Calidris_canutus" class="extiw" title="commons:Calidris canutus">Calidris canutus</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Calidris_canutus" class="extiw" title="wikispecies:Calidris canutus">Calidris canutus</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li>(Red) Knot - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/271.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.xeno-canto.org/browse.php?query=Calidris+canutus">Calls of Red Knot (Xeno-Canto)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Red_Knot.html">Cornell Lab of Ornithology - Red Knot</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mbr-pwrc.usgs.gov/id/framlst/i2340id.html">USGS - Red Knot Information</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sdakotabirds.com/species/red_knot_info.htm">South Dakota Birds - Red Knot Information and Photos</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.enature.com/fieldguides/detail.asp?recnum=BD0214">eNature.com - Red Knot</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.state.nj.us/dep/fgw/ensp/about2k.htm">In Search of the Red Knot-New Jersey Fish and Game</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fws.gov/northeast/redknot/">US Fish and Wildlife Service</a></li>
+<li><a rel="nofollow" class="external text" href="http://shorebirdproject.blogspot.com/">The Shorebird Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.state.nj.us/dep/fgw/ensp/redknot.htm">Red Knot An Imperiled Migratory Shorebird in New Jersey</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 26665/1000000
+Preprocessor generated node count: 53077/1500000
+Post-expand include size: 218640/2048000 bytes
+Template argument size: 77646/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 2/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:312714-0!*!0!!en!4!* and timestamp 20121016004502 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Red_Knot&amp;oldid=515680996">http://en.wikipedia.org/w/index.php?title=Red_Knot&amp;oldid=515680996</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Calidris" title="Category:Calidris">Calidris</a></li><li><a href="/wiki/Category:Sandpipers" title="Category:Sandpipers">Sandpipers</a></li><li><a href="/wiki/Category:Arctic_birds" title="Category:Arctic birds">Arctic birds</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Sri_Lanka" title="Category:Birds of Sri Lanka">Birds of Sri Lanka</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Latin_language_external_links" title="Category:Articles with Latin language external links">Articles with Latin language external links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2012" title="Category:Articles with unsourced statements from April 2012">Articles with unsourced statements from April 2012</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Red+Knot&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Red+Knot" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Red_Knot"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Red_Knot"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Red_Knot" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Red_Knot&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Red_Knot&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Red_Knot" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Red_Knot" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Red_Knot&amp;oldid=515680996" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Red_Knot&amp;id=515680996" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Red+Knot" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Red+Knot&amp;oldid=515680996&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Red_Knot&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AF%D8%B1%D9%8A%D8%AC%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84" title="دريجة الشمال" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8F%D0%BC_%D0%B1%D1%80%D0%B5%D0%B3%D0%BE%D0%B1%D0%B5%D0%B3%D0%B0%D1%87" title="Голям брегобегач" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Sourouc%27han_morlerek" title="Sourouc'han morlerek" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Territ_gros" title="Territ gros" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Jesp%C3%A1k_rezav%C3%BD" title="Jespák rezavý" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Pibydd_yr_Aber" title="Pibydd yr Aber" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Islandsk_ryle" title="Islandsk ryle" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Knutt" title="Knutt" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Calidris_canutus" title="Calidris canutus" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Granda_kalidro" title="Granda kalidro" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Txirri_lodi" title="Txirri lodi" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/%C3%8Dslandsgr%C3%A6lingur" title="Íslandsgrælingur" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/B%C3%A9casseau_maub%C3%A8che" title="Bécasseau maubèche" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Cnota" title="Cnota" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Pilro_gordo" title="Pilro gordo" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Calidris_canutus" title="Calidris canutus" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Islandinis_b%C4%97gikas" title="Islandinis bėgikas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Sarki_partfut%C3%B3" title="Sarki partfutó" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mi"><a href="//mi.wikipedia.org/wiki/Huahou" title="Huahou" lang="mi" hreflang="mi">Māori</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Kedidi_Dian_Kecil" title="Burung Kedidi Dian Kecil" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kanoet" title="Kanoet" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AA%E3%83%90%E3%82%B7%E3%82%AE" title="コオバシギ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Kanuut" title="Kanuut" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Polarsnipe" title="Polarsnipe" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Polarsnipe" title="Polarsnipe" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B1%D8%AA%D8%A7_%D9%86%D8%A7%D9%B9" title="رتا ناٹ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Rousl%C3%A9te" title="Rousléte" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Calidris_canutus" title="Calidris canutus" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Biegus_rdzawy" title="Biegus rdzawy" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Seixoeira" title="Seixoeira" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D0%BA" title="Исландский песочник" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Pobre%C5%BEn%C3%ADk_hrdzav%C3%BD" title="Pobrežník hrdzavý" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Isosirri" title="Isosirri" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Kustsn%C3%A4ppa" title="Kustsnäppa" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_kum_ku%C5%9Fu" title="Büyük kum kuşu" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B8%D0%BA_%D1%96%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9" title="Побережник ісландський" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BA%A2%E8%85%B9%E6%BB%A8%E9%B9%AC" title="红腹滨鹬" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 October 2012 at 20:16.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Red_Knot&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw48 in 0.185 secs. -->
+	</body>
+</html>

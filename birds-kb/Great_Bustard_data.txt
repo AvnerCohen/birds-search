@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Great Bustard - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Great_Bustard&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Great_Bustard&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Great_Bustard","wgTitle":"Great Bustard","wgCurRevisionId":520402727,"wgArticleId":26683509,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List vulnerable species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from May 2010","Otididae","Birds of Europe","Birds of Asia","Monotypic birds genera","Animals described in 1758"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Great_Bustard","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"10a97e8b23febd685c7127ee6f1079b9","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":26683509,"title":"Great Bustard","namespace":0,"categories":["All articles with unsourced statements","Animals described in 1758","Articles with \'species\' microformats","Articles with unsourced statements from May 2010","Birds of Asia","Birds of Europe","IUCN Red List vulnerable species","Monotypic birds genera","Otididae"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Great_Bustard skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Great Bustard</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Great Bustard</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Greatbustard.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Greatbustard.jpg/250px-Greatbustard.jpg" width="250" height="323" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Greatbustard.jpg/375px-Greatbustard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Greatbustard.jpg/500px-Greatbustard.jpg 2x" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/220px-Status_iucn3.1_VU.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/330px-Status_iucn3.1_VU.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/440px-Status_iucn3.1_VU.svg.png 2x" /><br />
+<a href="/wiki/Vulnerable_species" title="Vulnerable species">Vulnerable</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Gruiformes" title="Gruiformes">Gruiformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Otidae" title="Otidae" class="mw-redirect">Otidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><b>Otis</b></i></span><br />
+<small><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758</small></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>O. tarda</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Otis tarda</i></span></b><br />
+<small><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Otis_tarda_distribution.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Otis_tarda_distribution.png/220px-Otis_tarda_distribution.png" width="220" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Otis_tarda_distribution.png/330px-Otis_tarda_distribution.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Otis_tarda_distribution.png/440px-Otis_tarda_distribution.png 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#00a750; color:#00a750;">&#160;&#160;&#160;&#160;</span>&#160;Mainly resident</span>
+<p><span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#F7A229; color:#F7A229;">&#160;&#160;&#160;&#160;</span>&#160;Mainly summering grounds</span> <span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#5379F6; color:#5379F6;">&#160;&#160;&#160;&#160;</span>&#160;Mainly wintering grounds</span></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Great Bustard</b> (<i>Otis tarda</i>) is in the <a href="/wiki/Bustard" title="Bustard">bustard</a> family, the only member of the <a href="/wiki/Genus" title="Genus">genus</a> <i>Otis</i>. It breeds in southern and central <a href="/wiki/Europe" title="Europe">Europe</a>, where it is the largest species of bird, and across temperate <a href="/wiki/Asia" title="Asia">Asia</a>. European populations are mainly resident, but Asian birds <a href="/wiki/Bird_migration" title="Bird migration">move</a> further south in winter. Spain now contains about 60% of the world's population.<sup id="cite_ref-HBW_1-0" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy_and_etymology"><span class="tocnumber">1</span> <span class="toctext">Taxonomy and etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Habitat"><span class="tocnumber">3</span> <span class="toctext">Habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behavior"><span class="tocnumber">4</span> <span class="toctext">Behavior</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Reproduction"><span class="tocnumber">4.1</span> <span class="toctext">Reproduction</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Diet"><span class="tocnumber">4.2</span> <span class="toctext">Diet</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mortality"><span class="tocnumber">4.3</span> <span class="toctext">Mortality</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Populations"><span class="tocnumber">5</span> <span class="toctext">Populations</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Threats_and_conservation_status"><span class="tocnumber">6</span> <span class="toctext">Threats and conservation status</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=1" title="Edit section: Taxonomy and etymology">edit</a>]</span> <span class="mw-headline" id="Taxonomy_and_etymology">Taxonomy and etymology</span></h2>
+<p>The Great Bustard was classified with its scientific name in 1758 by <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carl Linnaeus</a>, though the species was referred to as <i>avis tarda</i> in the much older writings of <a href="/wiki/Pliny_the_Elder" title="Pliny the Elder">Pliny the Elder</a>. <i>Otis</i> is an <a href="/wiki/Old_Greek" title="Old Greek">Old Greek</a> name for "bustard". The specific name, <i>tarda</i>, has been traced to an <a href="/wiki/Old_Spanish_language" title="Old Spanish language">Old Spanish</a> name for "tread", although it has also been used in <a href="/wiki/Latin" title="Latin">Latin</a> for "slow" and "deliberate", which is apt to describe the typical walking style of the species.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> The Great Bustard <i>túzok</i> in <a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a> and it is the <a href="/wiki/National_bird" title="National bird" class="mw-redirect">national bird</a> of Hungary and a subject of several <a href="/wiki/Proverb" title="Proverb">proverbs</a> of that region.<sup id="cite_ref-HBW_1-1" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The male of this huge bird is possibly the <a href="/wiki/Flying_and_gliding_animals#Flying.2Fsoaring" title="Flying and gliding animals">heaviest living flying animal</a>. It also arguably the most <a href="/wiki/Sexual_dimorphism" title="Sexual dimorphism">sexual dimorphic</a> extant bird species, in terms of the size difference between males and females. Among both bustards and all living birds, the mass of this species is rivaled by that of the <a href="/wiki/Kori_Bustard" title="Kori Bustard">Kori Bustard</a>, which, thanks to its relatively longer tarsi and tail, is both longer and taller on average and is less sexually dimorphic.<sup id="cite_ref-Alonso_3-0" class="reference"><a href="#cite_note-Alonso-3"><span>[</span>4<span>]</span></a></sup> A male is typically 90–105 cm (2&#160;ft 10&#160;in–3&#160;ft 5&#160;in) tall, with a length of around 115&#160;cm (3&#160;ft&#160;9&#160;in) and has a 2.1–2.7 m (6&#160;ft 10&#160;in–8&#160;ft 10&#160;in) wingspan. The male can range in weight from 5.8 to 18 kg (13 to 40 lb), with an average of 9.65 to 13.5 kg (21.3 to 30 lb).<sup id="cite_ref-HBW_1-2" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Alonso_3-1" class="reference"><a href="#cite_note-Alonso-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-gbgroup_4-0" class="reference"><a href="#cite_note-gbgroup-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Wood_5-0" class="reference"><a href="#cite_note-Wood-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Letters_6-0" class="reference"><a href="#cite_note-Letters-6"><span>[</span>7<span>]</span></a></sup> The heaviest verified specimen was about 21&#160;kg (46&#160;lb).<sup id="cite_ref-Wood_5-1" class="reference"><a href="#cite_note-Wood-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Tetrapod_7-0" class="reference"><a href="#cite_note-Tetrapod-7"><span>[</span>8<span>]</span></a></sup> In a recent study in Spain, another giant male tipped the scales at 19&#160;kg (42&#160;lb).<sup id="cite_ref-Alonso_3-2" class="reference"><a href="#cite_note-Alonso-3"><span>[</span>4<span>]</span></a></sup> Larger specimens have been reported but remain unverified.<sup id="cite_ref-Wood_5-2" class="reference"><a href="#cite_note-Wood-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Tetrapod_7-1" class="reference"><a href="#cite_note-Tetrapod-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>The female is about a third smaller in linear dimensions, typically measuring 75 to 85 cm (2&#160;ft 6&#160;in to 2&#160;ft 9&#160;in) in height, about 90&#160;cm (2&#160;ft&#160;11&#160;in)<sup id="cite_ref-Letters_6-1" class="reference"><a href="#cite_note-Letters-6"><span>[</span>7<span>]</span></a></sup> in length and 180&#160;cm (5&#160;ft&#160;11&#160;in) across the wings.<sup id="cite_ref-HBW_1-3" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-gbgroup_4-1" class="reference"><a href="#cite_note-gbgroup-4"><span>[</span>5<span>]</span></a></sup> At an average of 4.4&#160;kg (9.7&#160;lb), the females are roughly one-third the weight of the male. Overall, the female's weight can range from 3.3 to 8 kg (7.3 to 18 lb).<sup id="cite_ref-gbgroup_4-2" class="reference"><a href="#cite_note-gbgroup-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-CRC_9-0" class="reference"><a href="#cite_note-CRC-9"><span>[</span>10<span>]</span></a></sup> Perhaps because of this physical sexual dimorphism, there is a skewed sex ratio of about 1.5:1 female to male.</p>
+<p>An adult male is brown above, barred with blackish coloration, and white below, with a long grey neck and head. His breast and lower neck sides are chestnut and there is a golden wash to the back and the extent of these bright colors tending to increase as the male ages. In the breeding season, the male has long white neck bristles, which measure up to 12–15 cm (4.7–5.9 in) in length, continually growing from the third to the sixth year of life.<sup id="cite_ref-HBW_1-4" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup> In flight, the long wings are predominantly white with brown showing along the edges of the lower primary and secondary feathers and a dark brown streak along the upper-edge of the wing. The breast and neck of the female are buff, with brown and pale coloration over the rest of the plumage rendering it well camouflaged in open habitats. Immature birds resemble the female. The Eastern subspecies (<i>O. t. dybowskii</i>) is more extensively gray in color in both sexes, with more extensive barring on the back.<sup id="cite_ref-HBW_1-5" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup> The Great Bustard has long legs, a long neck and a heavy, barrel-chested body. It is fairly typical of the family in its overall shape and habitat preferences. Three other bustard species overlap in range with this species: the <a href="/wiki/Macqueen%27s_Bustard" title="Macqueen's Bustard" class="mw-redirect">Macqueen's</a>, <a href="/wiki/Houbara_Bustard" title="Houbara Bustard">Houbara</a> and <a href="/wiki/Little_Bustard" title="Little Bustard">Little Bustards</a>. However, none of these attain the huge sizes, bulky form and plumage coloration of this species. Thus, the Great Bustard is essentially unmistakable.</p>
+<p>Among standard measurements in the Eastern race, males have a <a href="/wiki/Wing_chord_(biology)" title="Wing chord (biology)">wing chord</a> length of 59.5 to 63.5 cm (23.4 to 25.0 in), a <a href="/wiki/Tail" title="Tail">tail</a> of 21 to 23.5 cm (8.3 to 9.3 in), a <a href="/wiki/Tarsus_(skeleton)" title="Tarsus (skeleton)">tarsus</a> of 14.2 to 15 cm (5.6 to 5.9 in) and a <a href="/wiki/Culmen_(bird)" title="Culmen (bird)" class="mw-redirect">exposed culmen</a> of 4.1 to 4.7 cm (1.6 to 1.9 in). In comparison, the Eastern female measures 45.5 to 49.5 cm (17.9 to 19.5 in) across the wing chord, has a tail of 17.8 to 21 cm (7.0 to 8.3 in), a tarsus of 11.3 to 12.6 cm (4.4 to 5.0 in) and a culmen of 3.5 to 4 cm (1.4 to 1.6 in), respectively.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> Standard measurements indicate the nominate subspecies is slightly larger than the Eastern subspecies, in adult males, culmen length is to 9.8&#160;cm (3.9&#160;in), wing chord length to 69&#160;cm (27&#160;in), tail length to 29.5&#160;cm (11.6&#160;in) and tarsal length to 22&#160;cm (8.7&#160;in).<sup id="cite_ref-Alonso_3-3" class="reference"><a href="#cite_note-Alonso-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=3" title="Edit section: Habitat">edit</a>]</span> <span class="mw-headline" id="Habitat">Habitat</span></h2>
+<p>This bird's <a href="/wiki/Habitat" title="Habitat">habitat</a> is <a href="/wiki/Grassland" title="Grassland">grassland</a> or <a href="/wiki/Steppe" title="Steppe">steppe</a> defined by open, flat or somewhat rolling landscapes. It can be found on undisturbed cultivation and seems to prefer areas with wild or cultivated crops such as cereals, vineyards and fodder plants. However, during the breeding season, they actively avoid areas with regular human activity and can be distributed by agricultural practices. Great Bustards are often attracted to areas with considerable insect activity.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=4" title="Edit section: Behavior">edit</a>]</span> <span class="mw-headline" id="Behavior">Behavior</span></h2>
+<p>This species is gregarious, especially in winter when gatherings of several dozen birds may occur. Male and female groups do not mix outside of the breeding season. The Great Bustard has a stately slow walk but tends to run when disturbed rather than fly. Running speeds have not been measured but adult females have been known to outrun <a href="/wiki/Red_fox" title="Red fox">red foxes</a>, which can reach a trotting speed of 48&#160;km/h (30&#160;mph).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup> However, they can be fairly strong fliers as well, especially during seasonal movements, and can reach speeds of up to 80&#160;km/h (50&#160;mph) in flight.<sup id="cite_ref-HBW_1-6" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup> Both sexes are usually silent but can engage in deep grunts when alarmed or angered. The displaying adult male may produce some booming, grunting and raucous noises. The female may utter some guttural calls at the nest and brooded young make a soft, trilling call in communication with their mothers. The Asian and Russian populations of the species are migratory and will gather in large numbers at pre-migratory sites in order to move collectively to winter grounds. In the remainder of the range, such as Central Asia, only partial migrations may occur based on seasonal food availability. In the <a href="/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberian Peninsula</a>, bustards that engage in migration seem to choose different periods for movements based on sex.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup> No population is known to use the same grounds for wintering and summering.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=5" title="Edit section: Reproduction">edit</a>]</span> <span class="mw-headline" id="Reproduction">Reproduction</span></h3>
+<p>The Great Bustard breeds in March, and a single male may mate with up to five females. Before mating, the males moult into their breeding plumage around January. Males establish dominance in their groups during winter, clashing violently by ramming into and hitting each other with their bills.<sup id="cite_ref-HBW_1-7" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup> Like other bustards, the male Great Bustard displays and competes for the attention of females on what is known as a <a href="/wiki/Lek_(biology)" title="Lek (biology)" class="mw-redirect">lek</a>. In this species, the male has a flamboyant display beginning with the strutting male puffing up his throat to the size of a football. He then tilts forwards and pulls his head in so that the long whiskery chin feathers point upwards and the head is no longer visible. He next cocks his tail flat along his back, exposing the normally hidden bright white plumage then he lowers his wings, with the primary flight feathers folded but with the white secondaries fanning out.<sup id="cite_ref-NHM_17-0" class="reference"><a href="#cite_note-NHM-17"><span>[</span>18<span>]</span></a></sup> The displaying males, whom may walk around for several minutes at a time with feathers flared and head buried, has been described as a "foam-bath" due to its appearance.<sup id="cite_ref-HBW_1-8" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup> All breeding Great Bustards also moult again from June to September.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Beijing_solo_026.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/76/Beijing_solo_026.JPG/220px-Beijing_solo_026.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/76/Beijing_solo_026.JPG/330px-Beijing_solo_026.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/76/Beijing_solo_026.JPG/440px-Beijing_solo_026.JPG 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Beijing_solo_026.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Great Bustard at Beijing Zoo.</div>
+</div>
+</div>
+<p>One to three olive or tan coloured, glossy eggs (two eggs being the average) are laid by the female in May or June. The nests, which are shallow scrapes by the female on dry, soft slopes and plains, are usually situated close to the prior lek location. Nests are situated in sparse clusters, with a study in <a href="/wiki/Inner_Mongolia" title="Inner Mongolia">Inner Mongolia</a> finding nests at a minimal 9&#160;m (30&#160;ft) apart from each other. In the same study, nests were placed at mid-elevation on a hill, at about 190 to 230 m (620 to 750 ft). Nesting sites are typically in dense grassy vegetation about 15 to 35 cm (5.9 to 14 in), likely for protection against predation, with extensive exposure to sunlight.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> Eggs weigh about 150 g (5.3&#160;oz) and are on average 79.4&#160;mm (3.1&#160;in) tall by 56.8&#160;mm (2.2&#160;in) wide. The female incubates the eggs alone for 21 to 28 days. The chicks almost immediately leave the nest after they hatch, although they do not move very far from their mother until they are at least 1 year old. Young Great Bustards begin developing their adult plumage at about 2 months, and begin to develop flying skills at the same time. They practice by stretching, running, flapping, and making small hops and jumps to get airborne. By three months they are able to fly reasonable distances. If threatened, the young stand still, using their downy plumage, mainly sepia in color with paler buffy streaks, as camouflage. Juveniles are independent by their first winter, but normally stay with their mother until the next breeding season. Males usually start to mate from 5 to 6 years of age, although may engage in breeding display behavior at a younger age. Females usually first breed at 2 to 3 years old.<sup id="cite_ref-HBW_1-9" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-NHM_17-1" class="reference"><a href="#cite_note-NHM-17"><span>[</span>18<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=6" title="Edit section: Diet">edit</a>]</span> <span class="mw-headline" id="Diet">Diet</span></h3>
+<p>This species is <a href="/wiki/Omnivore" title="Omnivore">omnivorous</a> taking different foods in differing seasons. In northwestern Spain in August, 48.4% of the diet of adult birds was comprised by green plant material, 40.9% was <a href="/wiki/Invertebrate" title="Invertebrate">invertebrates</a> and 10.6% was seeds. In the same population during winter, seeds and green plant material compromised almost the entirety of the diet. <a href="/wiki/Alfalfa" title="Alfalfa">Alfalfa</a> are seemingly preferred in the diet of birds from Spain.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup> Other favored plant life in the diet can including <a href="/wiki/Legume" title="Legume">legumes</a>, <a href="/wiki/Brassicaceae" title="Brassicaceae">crucifers</a>, <a href="/wiki/Taraxacum_officinale" title="Taraxacum officinale">common dandelion</a> and <a href="/wiki/Grape" title="Grape">grapes</a> and the dry seeds of <a href="/wiki/Wheat" title="Wheat">wheat</a> and <a href="/wiki/Barley" title="Barley">barley</a>.<sup id="cite_ref-HBW_1-10" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup> Among animal prey, <a href="/wiki/Insect" title="Insect">insects</a> are generally eaten and are the main food for young bustards in their first summer, though they then switching to the seasonal herbivorous preferences of adults by winter. <a href="/wiki/Coleoptera" title="Coleoptera" class="mw-redirect">Coleoptera</a> (including <a href="/wiki/Beetle" title="Beetle">beetles</a>), <a href="/wiki/Hymenoptera" title="Hymenoptera">Hymenoptera</a> (including <a href="/wiki/Bee" title="Bee">bees</a>, <a href="/wiki/Wasp" title="Wasp">wasps</a> and <a href="/wiki/Ant" title="Ant">ants</a>) and <a href="/wiki/Orthoptera" title="Orthoptera">Orthoptera</a> (including <a href="/wiki/Cricket" title="Cricket">crickets</a>, <a href="/wiki/Grasshopper" title="Grasshopper">grasshoppers</a> and <a href="/wiki/Locust" title="Locust">locusts</a>) are mainly taken, largely based on availability and abundance. Small <a href="/wiki/Vertebrate" title="Vertebrate">vertebrates</a>, including small <a href="/wiki/Rodent" title="Rodent">rodents</a>, <a href="/wiki/Frog" title="Frog">frogs</a>, <a href="/wiki/Lizard" title="Lizard">lizards</a> and chicks of other <a href="/wiki/Bird" title="Bird">birds</a>, may supplement the diet when the opportunity arises.<sup id="cite_ref-HBW_1-11" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=7" title="Edit section: Mortality">edit</a>]</span> <span class="mw-headline" id="Mortality">Mortality</span></h3>
+<p>Great Bustards typically live for around 10 years, but some have been known to live up to 15 years or more. The maximum known life span for the species was 28 years. Adult males seem to have a higher mortality rate than females due mainly to fierce intraspecies fighting with other males during the breeding season. Many males may perish in their first couple of years of maturity due to this cause.<sup id="cite_ref-gbgroup_4-3" class="reference"><a href="#cite_note-gbgroup-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>Over 80% of Great Bustards die in the first year of life. Chicks are endangered to <a href="/wiki/Predation" title="Predation">predation</a> by the fact that they are ground-dwelling birds which are reluctant to fly. Predators of <a href="/wiki/Bird_egg" title="Bird egg">eggs</a> and hatchlings include <a href="/wiki/Bird_of_prey" title="Bird of prey">raptors</a>, <a href="/wiki/Corvid" title="Corvid" class="mw-redirect">corvids</a>, <a href="/wiki/Hedgehog" title="Hedgehog">hedgehogs</a>, <a href="/wiki/Fox" title="Fox">foxes</a>, <a href="/wiki/Badger" title="Badger">badgers</a>, <a href="/wiki/Marten" title="Marten">martens</a>, <a href="/wiki/Rat" title="Rat">rats</a> and <a href="/wiki/Wild_boar" title="Wild boar">wild boars</a>. The most serious natural predators of nests are perhaps <a href="/wiki/Red_fox" title="Red fox">red foxes</a> and <a href="/wiki/Hooded_crow" title="Hooded crow" class="mw-redirect">hooded crows</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> Chicks grow very quickly, by 6 months being nearly two-thirds of their adult size, and are predated by <a href="/wiki/Fox" title="Fox">foxes</a>, <a href="/wiki/Lynx" title="Lynx">lynxes</a>, <a href="/wiki/Gray_Wolf" title="Gray Wolf" class="mw-redirect">wolves</a>, <a href="/wiki/Dog" title="Dog">dogs</a>, <a href="/wiki/Jackal" title="Jackal">jackals</a> and <a href="/wiki/Eagle" title="Eagle">eagles</a>. The bold, conspicuous behavior of the breeding adult male bustard may attract the same large mammalian predators that predate chicks, such as wolves and lynx, while the more inconspicuous female may sometimes be attacked by large eagles. However, predation is rare for adults due to their size, nimbleness and safety in numbers due to their social behavior.<sup id="cite_ref-HBW_1-12" class="reference"><a href="#cite_note-HBW-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-gbgroup_4-4" class="reference"><a href="#cite_note-gbgroup-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-CMS_22-0" class="reference"><a href="#cite_note-CMS-22"><span>[</span>23<span>]</span></a></sup></p>
+<p>Occasionally, other natural causes may contribute to mortality in the species, especially starvation in harsh winter months.<sup id="cite_ref-CMS_22-1" class="reference"><a href="#cite_note-CMS-22"><span>[</span>23<span>]</span></a></sup> However, major causes of mortality in recent centuries have been largely linked to human activity, as described below.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=8" title="Edit section: Populations">edit</a>]</span> <span class="mw-headline" id="Populations">Populations</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BustardDisplay.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BustardDisplay.jpg/220px-BustardDisplay.jpg" width="220" height="341" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BustardDisplay.jpg/330px-BustardDisplay.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BustardDisplay.jpg/440px-BustardDisplay.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BustardDisplay.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Bustard display</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bet.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bet.jpg/220px-Bet.jpg" width="220" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bet.jpg/330px-Bet.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bet.jpg/440px-Bet.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bet.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Bustard juvenille</div>
+</div>
+</div>
+<p>The population of this species numbers between 31,000 to 37,000 birds. Between 4,200 and 4,500 are found in east Asia. In recent times, there have been steep declines in population throughout eastern and central Europe and in Asia, particularly in <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a> and <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a>.</p>
+<table class="wikitable">
+<caption>Range (2008)</caption>
+<tr>
+<th>Presence</th>
+<th>Countries</th>
+</tr>
+<tr>
+<td>Native</td>
+<td><a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a>, <a href="/wiki/Armenia" title="Armenia">Armenia</a>, <a href="/wiki/Austria" title="Austria">Austria</a>, <a href="/wiki/Azerbaijan" title="Azerbaijan">Azerbaijan</a>, <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a>, <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Croatia" title="Croatia">Croatia</a>, <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>, <a href="/wiki/France" title="France">France</a>, <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, <a href="/wiki/Greece" title="Greece">Greece</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a>, <a href="/wiki/Iran" title="Iran">Iran</a>, <a href="/wiki/Iraq" title="Iraq">Iraq</a>, <a href="/wiki/Italy" title="Italy">Italy</a>, <a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a>, <a href="/wiki/Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a>, <a href="/wiki/Republic_of_Macedonia" title="Republic of Macedonia">Macedonia</a>, <a href="/wiki/Moldova" title="Moldova">Moldova</a>, <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a>, <a href="/wiki/Montenegro" title="Montenegro">Montenegro</a>, <a href="/wiki/Morocco" title="Morocco">Morocco</a>, <a href="/wiki/Portugal" title="Portugal">Portugal</a>, <a href="/wiki/Romania" title="Romania">Romania</a>, <a href="/wiki/Russia" title="Russia">Russia</a>, <a href="/wiki/Serbia" title="Serbia">Serbia</a>, <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>, <a href="/wiki/Spain" title="Spain">Spain</a>, <a href="/wiki/Syria" title="Syria">Syria</a>, <a href="/wiki/Tajikistan" title="Tajikistan">Tajikistan</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a>, <a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a>, <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>, <a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a></td>
+</tr>
+<tr>
+<td>Regionally extinct</td>
+<td><a href="/wiki/Algeria" title="Algeria">Algeria</a>, <a href="/wiki/Myanmar" title="Myanmar" class="mw-redirect">Myanmar</a>, <a href="/wiki/Poland" title="Poland">Poland</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+</tr>
+<tr>
+<td>Vagrant</td>
+<td><a href="/wiki/Albania" title="Albania">Albania</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a>, <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>, <a href="/wiki/Denmark" title="Denmark">Denmark</a>, <a href="/wiki/Egypt" title="Egypt">Egypt</a>, <a href="/wiki/Finland" title="Finland">Finland</a>, <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>, <a href="/wiki/Ireland" title="Ireland">Ireland</a>, <a href="/wiki/Israel" title="Israel">Israel</a>, <a href="/wiki/Japan" title="Japan">Japan</a>, <a href="/wiki/Korea" title="Korea">Korea</a>, <a href="/wiki/Latvia" title="Latvia">Latvia</a>, <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>, <a href="/wiki/Malta" title="Malta">Malta</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>, <a href="/wiki/Tunisia" title="Tunisia">Tunisia</a></td>
+</tr>
+<tr>
+<td>Presence uncertain</td>
+<td><a href="/wiki/Lebanon" title="Lebanon">Lebanon</a>, <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></td>
+</tr>
+</table>
+<p>Sizeable populations exist in <a href="/wiki/Spain" title="Spain">Spain</a> (23,055 birds), <a href="/wiki/Russia" title="Russia">Russia</a> (8,000 birds), <a href="/wiki/Turkey" title="Turkey">Turkey</a> (800–3,000 birds), <a href="/wiki/Portugal" title="Portugal">Portugal</a> (1,435 birds) and <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a> (1,000 birds). Elsewhere, the populations are declining due to habitat loss throughout its range. A sizeable population also exists in <a href="/wiki/Hungary" title="Hungary">Hungary</a> (1,100–1,300 birds) where the Eastern European steppe zone ends, near <a href="/wiki/D%C3%A9vav%C3%A1nya" title="Dévaványa">Dévaványa</a> town and also in the <a href="/wiki/Hortob%C3%A1gy" title="Hortobágy">Hortobágy</a>, <a href="/wiki/Nagykuns%C3%A1g" title="Nagykunság">Nagykunság</a> and <a href="/w/index.php?title=Nagy-S%C3%A1rr%C3%A9t&amp;action=edit&amp;redlink=1" class="new" title="Nagy-Sárrét (page does not exist)">Nagy-Sárrét</a> regions. The population is down from a population of 10,000–12,000 before the <a href="/wiki/Second_World_War" title="Second World War" class="mw-redirect">Second World War</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=9" title="Edit section: Threats and conservation status">edit</a>]</span> <span class="mw-headline" id="Threats_and_conservation_status">Threats and conservation status</span></h2>
+<p>The Great Bustard is classified as Vulnerable at the species level. There are a myriad of threats faced by Great Bustards. Increasing human disturbance and land privatisation is expected to lead to habitat loss caused by the ploughing of grasslands, intensive agriculture, <a href="/wiki/Afforestation" title="Afforestation">afforestation</a>, increased development of irrigation schemes, and the construction of roads, power lines, fencing and ditches. Mechanisation, chemical <a href="/wiki/Fertilizer" title="Fertilizer">fertilizers</a> and <a href="/wiki/Pesticide" title="Pesticide">pesticides</a>, fire and predation by dogs are serious threats for chicks and juveniles, and hunting of adults contributes to high mortality in some of their range countries. Agricultural activity is a major disturbance at nest and, in Hungary, few successful nests are found outside of protected areas.<sup id="cite_ref-CMS_22-2" class="reference"><a href="#cite_note-CMS-22"><span>[</span>23<span>]</span></a></sup></p>
+<p>Two very rare <a href="/wiki/Albinism" title="Albinism">albino</a> Great Bustards from the same nest were killed by electricity cables in Hungary in 2000 and 2003<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from May 2010">citation needed</span></a></i>]</sup>. The bustards, despite their large size, are able to fly at a high velocity and are often mutilated or killed by the cables which are placed in Hungary just at their flying heights. The electricity companies affected will bury only part of the dangerous cables, therefore the authorities are experimenting with fixing fluorescent "Firefly" devices on the most dangerous cables to provide the birds with warning lights. Bustards also occasionally killed by collisions with automobiles or by entanglement in wires.<sup id="cite_ref-CMS_22-3" class="reference"><a href="#cite_note-CMS-22"><span>[</span>23<span>]</span></a></sup></p>
+<p>The Great Bustard was formerly native in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> and a bustard forms part of the design of the <a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a> <a href="/wiki/Coat_of_arms" title="Coat of arms">Coat of Arms</a>. It was hunted out of existence by the 1840s. In 2004 a project overseeing the reintroduction to <a href="/wiki/Salisbury_Plain" title="Salisbury Plain">Salisbury Plain</a> in Wiltshire using eggs taken from Saratov in Russia was undertaken by The Great Bustard Group, a UK Registered Charity that aims to establish a self-sustaining population of Great Bustards in the UK. They have laid eggs and raised chicks in Britain in 2009 and 2010. Although the Great Bustard was once native to Britain, Great Bustards are considered an alien species under English law.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup> The reintroduction of the Great Bustard to the UK by the Great Bustard Group is being carried out in parallel with researchers from the University of Bath that are providing insight into the habitat of native Great Bustard populations in Russia and Hungary. On January 19, 2011 it was announced that the Great Bustard Project had been awarded EU <a href="/wiki/The_LIFE_Programme" title="The LIFE Programme">LIFE+</a> funding, reportedly to the tune of £1.8 million.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup> In Hungary, where the species is the National Bird, Great Bustards are actively protected. The Hungarian authorities are seeking to preserve the long-term future of the population by active protection measures: the area affected by the special ecological treatment had grown to 15&#160;km<sup>2</sup> (5.8&#160;sq&#160;mi) by the summer of 2006.</p>
+<p>Under the auspices of the <a href="/wiki/Bonn_Convention" title="Bonn Convention">Convention on Migratory Species of Wild Animals (CMS)</a>, also known as the <a href="/wiki/Bonn_Convention" title="Bonn Convention">Bonn Convention</a>, <a href="/wiki/Great_Bustard_Memorandum_of_Understanding" title="Great Bustard Memorandum of Understanding">the Memorandum of Understanding (MoU) on the Conservation and Management of Middle-European Populations of the Great Bustard</a> was concluded and came into effect on June 1, 2001. The MoU provides a framework for governments, scientists, conservation bodies and others to monitor and coordinate conservation efforts in order to protect the middle-European populations of the Great Bustard.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=10" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106002760">"<i>Otis tarda</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106002760">http://www.iucnredlist.org/apps/redlist/details/106002760</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Otis+tarda%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106002760&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-HBW-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-HBW_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HBW_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HBW_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-HBW_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-HBW_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-HBW_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-HBW_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-HBW_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-HBW_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-HBW_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-HBW_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-HBW_1-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-HBW_1-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text"><span class="citation book">del Hoyo, J; Elliot, A; Sargatal, J (1996). <i><a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">Handbook of the Birds of the World</a></i>. <b>3</b>. <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>: <a href="/wiki/Lynx_Edicions" title="Lynx Edicions">Lynx Edicions</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-20-2" title="Special:BookSources/84-87334-20-2">84-87334-20-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%5B%5BHandbook+of+the+Birds+of+the+World%5D%5D&amp;rft.aulast=del+Hoyo&amp;rft.aufirst=J&amp;rft.au=del+Hoyo%2C%26%2332%3BJ&amp;rft.au=Elliot%2C%26%2332%3BA&amp;rft.au=Sargatal%2C%26%2332%3BJ&amp;rft.date=1996&amp;rft.volume=3&amp;rft.place=%5B%5BBarcelona%5D%5D&amp;rft.pub=%5B%5BLynx+Edicions%5D%5D&amp;rft.isbn=84-87334-20-2&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eol.org/pages/915364/overview">Great Bustard (Otis tarda) – Information on Great Bustard – Encyclopedia of Life</a>. Eol.org. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-Alonso-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Alonso_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Alonso_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Alonso_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Alonso_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Alonso, Juan C.; Magaña, Marina; Alonso, Javier A.; Palacín, Carlos; Martín, Carlos A.; Martín, Beatriz (2009). <a rel="nofollow" class="external text" href="http://www.proyectoavutarda.mncn.csic.es/wp-content/uploads/2011/06/Alonso%20et%20al%20Auk%20(2009).pdf">"The Most Extreme Sexual Size Dimorphism among Birds: Allometry, Selection, and Early Juvenile Development in the Great Bustard (<i>Otis tarda</i>)"</a>. <i>The Auk</i> <b>126</b> (3): 657. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1525%2Fauk.2009.08233">10.1525/auk.2009.08233</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.proyectoavutarda.mncn.csic.es/wp-content/uploads/2011/06/Alonso%20et%20al%20Auk%20(2009).pdf">http://www.proyectoavutarda.mncn.csic.es/wp-content/uploads/2011/06/Alonso%20et%20al%20Auk%20(2009).pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Most+Extreme+Sexual+Size+Dimorphism+among+Birds%3A+Allometry%2C+Selection%2C+and+Early+Juvenile+Development+in+the+Great+Bustard+%28%27%27Otis+tarda%27%27%29&amp;rft.jtitle=The+Auk&amp;rft.aulast=Alonso&amp;rft.aufirst=Juan+C.&amp;rft.au=Alonso%2C%26%2332%3BJuan+C.&amp;rft.au=Maga%C3%B1a%2C%26%2332%3BMarina&amp;rft.au=Alonso%2C%26%2332%3BJavier+A.&amp;rft.au=Palac%C3%ADn%2C%26%2332%3BCarlos&amp;rft.au=Mart%C3%ADn%2C%26%2332%3BCarlos+A.&amp;rft.au=Mart%C3%ADn%2C%26%2332%3BBeatriz&amp;rft.date=2009&amp;rft.volume=126&amp;rft.issue=3&amp;rft.pages=657&amp;rft_id=info:doi/10.1525%2Fauk.2009.08233&amp;rft_id=http%3A%2F%2Fwww.proyectoavutarda.mncn.csic.es%2Fwp-content%2Fuploads%2F2011%2F06%2FAlonso%2520et%2520al%2520Auk%2520%282009%29.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-gbgroup-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-gbgroup_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gbgroup_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gbgroup_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-gbgroup_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-gbgroup_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://greatbustard.org/about-the-birds/">"The Great Bustard"</a>. Great Bustard Group<span class="printonly">. <a rel="nofollow" class="external free" href="http://greatbustard.org/about-the-birds/">http://greatbustard.org/about-the-birds/</a></span><span class="reference-accessdate">. Retrieved 21 June 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Great+Bustard&amp;rft.atitle=&amp;rft.pub=Great+Bustard+Group&amp;rft_id=http%3A%2F%2Fgreatbustard.org%2Fabout-the-birds%2F&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Wood-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wood_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wood_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Wood_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Wood, Gerald (1983). <i>The Guinness Book of Animal Facts and Feats</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-85112-235-9" title="Special:BookSources/978-0-85112-235-9">978-0-85112-235-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Guinness+Book+of+Animal+Facts+and+Feats&amp;rft.aulast=Wood%2C+Gerald&amp;rft.au=Wood%2C+Gerald&amp;rft.date=1983&amp;rft.isbn=978-0-85112-235-9&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Letters-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Letters_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Letters_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Payne-Galleway, <i>Letters to Young Shooters on the Choice and Use of a Gun</i>. General Books LLC (2009), <a href="/wiki/Special:BookSources/9781150356452" class="internal mw-magiclink-isbn">ISBN 978-1-150-35645-2</a></span></li>
+<li id="cite_note-Tetrapod-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tetrapod_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tetrapod_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Naish, Darren. (2010-04-06) <a rel="nofollow" class="external text" href="http://scienceblogs.com/tetrapodzoology/2010/04/the_great_bustard_returns.php">The Great bustard returns – Tetrapod Zoology</a>. Scienceblogs.com. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://animals.jrank.org/pages/652/Bustards-Otididae-GREAT-BUSTARD-Otis-tarda-SPECIES-ACCOUNTS.html">Great Bustard Profile- Jrank</a> (2011).</span></li>
+<li id="cite_note-CRC-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-CRC_9-0">^</a></b></span> <span class="reference-text"><i>CRC Handbook of Avian Body Masses</i> by John B. Dunning Jr. (Editor). CRC Press (1992), <a href="/wiki/Special:BookSources/9780849342585" class="internal mw-magiclink-isbn">ISBN 978-0-8493-4258-5</a>.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://avis.indianbiodiversity.org/fauna-of-british-india-2nd-ed-vol-vi-1929/eastern-great-bustard-otis-tarda-dybowskii.html">Eastern Great Bustard (Otis tarda dybowskii)</a>. Avis.indianbiodiversity.org. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://bibdigital.rjb.csic.es/Imagenes/P0012_07/P0012_07_560.pdf">Fam. Otididae</a>. bibdigital.rjb.csic.es</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation book">Julius von Madarász (1886). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=F90TAAAAYAAJ&amp;pg=PA182"><i>Zeitschrift für die gesammte Ornithologie</i></a>. Franklin-Verein. pp.&#160;182–<span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/books?id=F90TAAAAYAAJ&amp;pg=PA182">http://books.google.com/books?id=F90TAAAAYAAJ&amp;pg=PA182</a></span><span class="reference-accessdate">. Retrieved 21 August 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Zeitschrift+f%C3%BCr+die+gesammte+Ornithologie&amp;rft.aulast=Julius+von+Madar%C3%A1sz&amp;rft.au=Julius+von+Madar%C3%A1sz&amp;rft.date=1886&amp;rft.pages=pp.%26nbsp%3B182%E2%80%93&amp;rft.pub=Franklin-Verein&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DF90TAAAAYAAJ%26pg%3DPA182&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.westcountrywildlife.com/greatbustard.htm">Great Bustard – Wildlife In The Westcountry</a>. Westcountrywildlife.com. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.biokids.umich.edu/critters/Vulpes_vulpes/">BioKIDS – Kids' Inquiry of Diverse Species, Critter Catalog, Vulpes vulpes, red fox</a>. Biokids.umich.edu (2007-09-27). Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Morales et al. 2000, Alonso et al. 2000, 2001, Palacín et al. 2009, 2011</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/speciesfactsheet.php?id=2760">Great Bustard (<i>Otis tarda</i>) – BirdLife species factsheet</a>. Birdlife.org. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-NHM-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-NHM_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NHM_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nhm.ac.uk/nature-online/species-of-the-day/biodiversity/endangered-species/otis-tarda/index.html"><i>Otis tarda</i> (great bustard) | Natural History Museum</a>. Nhm.ac.uk. Retrieved on 2012-08-21.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Wan, D; Gao, W; Zhao, J; Wang, H; Cheng, J (2002). "On nest-site selection of <i>Otic  [</i><a href="/wiki/Sic" title="Sic">sic</a><i>] tarda</i>". <i>Ying yong sheng tai xue bao = the journal of applied ecology / Zhongguo sheng tai xue xue hui, Zhongguo ke xue yuan Shenyang ying yong sheng tai yan jiu suo zhu ban</i> <b>13</b> (11): 1445–8. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12625004">12625004</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=On+nest-site+selection+of+%27%27Otic+%26%2332%3B%26%2391%3B%27%27%5B%5Bsic%5D%5D%27%27%26%2393%3B+tarda%27%27&amp;rft.jtitle=Ying+yong+sheng+tai+xue+bao+%3D+the+journal+of+applied+ecology+%2F+Zhongguo+sheng+tai+xue+xue+hui%2C+Zhongguo+ke+xue+yuan+Shenyang+ying+yong+sheng+tai+yan+jiu+suo+zhu+ban&amp;rft.aulast=Wan&amp;rft.aufirst=D&amp;rft.au=Wan%2C%26%2332%3BD&amp;rft.au=Gao%2C%26%2332%3BW&amp;rft.au=Zhao%2C%26%2332%3BJ&amp;rft.au=Wang%2C%26%2332%3BH&amp;rft.au=Cheng%2C%26%2332%3BJ&amp;rft.date=2002&amp;rft.volume=13&amp;rft.issue=11&amp;rft.pages=1445%E2%80%938&amp;rft_id=info:pmid/12625004&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation Journal">Lane, S. J.; Alonso, J. C.; Alonso, J. A.; Naveso, M. A. (1999). "Seasonal changes in diet and diet selection of great bustards (Otis t. Tarda) in north-west Spain". <i>Journal of Zoology</i> <b>247</b> (2): 201. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1469-7998.1999.tb00984.x">10.1111/j.1469-7998.1999.tb00984.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Seasonal+changes+in+diet+and+diet+selection+of+great+bustards+%28Otis+t.+Tarda%29+in+north-west+Spain&amp;rft.jtitle=Journal+of+Zoology&amp;rft.aulast=Lane&amp;rft.aufirst=S.+J.&amp;rft.au=Lane%2C%26%2332%3BS.+J.&amp;rft.au=Alonso%2C%26%2332%3BJ.+C.&amp;rft.au=Alonso%2C%26%2332%3BJ.+A.&amp;rft.au=Naveso%2C%26%2332%3BM.+A.&amp;rft.date=1999&amp;rft.volume=247&amp;rft.issue=2&amp;rft.pages=201&amp;rft_id=info:doi/10.1111%2Fj.1469-7998.1999.tb00984.x&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bravo, Carolina; Ponce, Carlos; Palacín, Carlos; Carlos Alonso, Juan (2012). "Diet of young Great Bustards <i>Otis tarda</i> in Spain: Sexual and seasonal differences". <i>Bird Study</i> <b>59</b> (2): 243. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1080%2F00063657.2012.662940">10.1080/00063657.2012.662940</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Diet+of+young+Great+Bustards+%27%27Otis+tarda%27%27+in+Spain%3A+Sexual+and+seasonal+differences&amp;rft.jtitle=Bird+Study&amp;rft.aulast=Bravo&amp;rft.aufirst=Carolina&amp;rft.au=Bravo%2C%26%2332%3BCarolina&amp;rft.au=Ponce%2C%26%2332%3BCarlos&amp;rft.au=Palac%C3%ADn%2C%26%2332%3BCarlos&amp;rft.au=Carlos+Alonso%2C%26%2332%3BJuan&amp;rft.date=2012&amp;rft.volume=59&amp;rft.issue=2&amp;rft.pages=243&amp;rft_id=info:doi/10.1080%2F00063657.2012.662940&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.grosstrappe.at/files/gefahre.html">Threats</a>. grosstrappe.at</span></li>
+<li id="cite_note-CMS-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-CMS_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CMS_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CMS_22-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CMS_22-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Bankovics, Attila <a rel="nofollow" class="external text" href="http://www.cms.int/species/otis_tarda/meetings/GB_1/pdf/Inf_05_2_NationalWorkProgramme_Hungary.pdf">Great Bustard Work Program of Hungary</a>. cms.int</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/england/wiltshire/8079310.stm">New bustard chicks a 'huge step'</a>, BBC (2009-06-02).</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/uk-england-wiltshire-12218959">Salisbury Plain great bustard project EU funding boost</a>, BBC (2011-01-19).</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Gorman, Gerard (1996). <i>The Birds of Hungary</i>. London: Helm (A&amp;C Black). <a href="/wiki/Special:BookSources/0713642351" class="internal mw-magiclink-isbn">ISBN 0-7136-4235-1</a>.</li>
+<li><span class="citation book"><a href="/wiki/Hans-Otto_Meissner" title="Hans-Otto Meissner">Meissner, Hans Otto</a> (1963). <i>Unknown Europe</i>. trans. Florence and Isabel McHugh. London and Glasgow: Blackie &amp; Sons. pp.&#160;125–139.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Unknown+Europe&amp;rft.aulast=Meissner&amp;rft.aufirst=Hans+Otto&amp;rft.au=Meissner%2C%26%2332%3BHans+Otto&amp;rft.date=1963&amp;rft.pages=pp.%26nbsp%3B125%E2%80%93139&amp;rft.place=London+and+Glasgow&amp;rft.pub=Blackie+%26+Sons&amp;rfr_id=info:sid/en.wikipedia.org:Great_Bustard"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Great_Bustard&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Otis_tarda" class="extiw" title="commons:Otis tarda">Otis tarda</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Otis_tarda" class="extiw" title="wikispecies:Otis tarda">Otis tarda</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.arkive.org/species/GES/birds/Otis_tarda/">ARKive – images and movies of the Great Bustard</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cms.int/species/otis_tarda/otis_tarda_bkrd.htm">CMS Great Bustard Memorandum of Understanding</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.greatbustard.com/">The Great Bustard Project</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.grosstrappe.at/">http://www.grosstrappe.at/</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.asiangreatbustard.org">Great Bustard in Central Asia</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=2760&amp;m=0">BirdLife Species Factsheet</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.flickr.com/search/groups/?w=42637302@N00&amp;q=Otis+tarda&amp;m=pool">Field Guide Page on Flickr</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.guardian.co.uk/theguardian/2004/aug/04/features11.g2">Guardian Q&amp;A on the Great Bustard</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 26605/1000000
+Preprocessor generated node count: 60894/1500000
+Post-expand include size: 102141/2048000 bytes
+Template argument size: 63071/2048000 bytes
+Highest expansion depth: 32/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26683509-0!*!0!!en!4!* and timestamp 20121029094640 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Great_Bustard&amp;oldid=520402727">http://en.wikipedia.org/w/index.php?title=Great_Bustard&amp;oldid=520402727</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_vulnerable_species" title="Category:IUCN Red List vulnerable species">IUCN Red List vulnerable species</a></li><li><a href="/wiki/Category:Otididae" title="Category:Otididae">Otididae</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/w/index.php?title=Category:Monotypic_birds_genera&amp;action=edit&amp;redlink=1" class="new" title="Category:Monotypic birds genera (page does not exist)">Monotypic birds genera</a></li><li><a href="/wiki/Category:Animals_described_in_1758" title="Category:Animals described in 1758">Animals described in 1758</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2010" title="Category:Articles with unsourced statements from May 2010">Articles with unsourced statements from May 2010</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Great+Bustard&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Great+Bustard" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Great_Bustard"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Great_Bustard"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Great_Bustard" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Great_Bustard&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Great_Bustard&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Great_Bustard" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Great_Bustard" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Great_Bustard&amp;oldid=520402727" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Great_Bustard&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Great_Bustard&amp;id=520402727" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Great+Bustard" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Great+Bustard&amp;oldid=520402727&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Great_Bustard&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%94%D1%83%D0%B4%D0%B0%D0%BA%D1%8A" title="Дудакъ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AD%D8%A8%D8%A7%D8%B1%D9%89_%D9%83%D8%A8%D8%B1%D9%89" title="حبارى كبرى" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-av"><a href="//av.wikipedia.org/wiki/%D0%94%D0%B0%D0%B1%D0%B0%D0%B4%D0%B0%D1%85" title="Дабадах" lang="av" hreflang="av">Авар</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Dovdaq" title="Dovdaq" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%A2%D1%83%D2%93%D0%B0%D2%99%D0%B0%D2%A1" title="Туғаҙаҡ" lang="ba" hreflang="ba">Башҡортса</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%BF" title="Дроп" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0_%D0%B4%D1%80%D0%BE%D0%BF%D0%BB%D0%B0" title="Голяма дропла" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Otiz_bras" title="Otiz bras" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-bxr"><a href="//bxr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BE%D0%B4%D0%BE%D0%B3" title="Тоодог" lang="bxr" hreflang="bxr">Буряад</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Pioc_salvatge" title="Pioc salvatge" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Drop_velk%C3%BD" title="Drop velký" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Gro%C3%9Ftrappe" title="Großtrappe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Otis_tarda" title="Otis tarda" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Granda_otido" title="Granda otido" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Basoilo_handi" title="Basoilo handi" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B4%E2%80%8C%D9%85%D8%B1%D8%BA" title="میش‌مرغ" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Tvagla" title="Tvagla" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Grande_Outarde" title="Grande Outarde" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Avetarda" title="Avetarda" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%8A%90%EC%8B%9C" title="느시" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Otis_tarda" title="Otis tarda" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%97%E1%83%98" title="სავათი" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%94%D1%83%D0%B0%D0%B4%D0%B0%D2%9B" title="Дуадақ" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Bet" title="Bet" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Didysis_einis" title="Didysis einis" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/T%C3%BAzok" title="Túzok" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BE%D0%B4%D0%BE%D0%B3" title="Тоодог" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Grote_trap" title="Grote trap" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AC%E3%83%B3" title="ノガン" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/Todaq" title="Todaq" lang="ce" hreflang="ce">Нохчийн</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Stortrappe" title="Stortrappe" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%88%DA%88%D8%A7_%D8%A8%D8%B3%D9%B9%D8%A7%D8%B1%DA%88" title="وڈا بسٹارڈ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Otis_tarda" title="Otis tarda" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Drop" title="Drop" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Abetarda-comum" title="Abetarda-comum" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-crh"><a href="//crh.wikipedia.org/wiki/Duvadaq" title="Duvadaq" lang="crh" hreflang="crh">Qırımtatarca</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Dropie" title="Dropie" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D1%84%D0%B0" title="Дрофа" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Drop_ve%C4%BEk%C3%BD" title="Drop veľký" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%B4%D1%80%D0%BE%D0%BF%D1%99%D0%B0" title="Велика дропља" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Isotrappi" title="Isotrappi" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Stortrapp" title="Stortrapp" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%94%D2%AF%D0%B4%D3%99%D0%BA" title="Дүдәк" lang="tt" hreflang="tt">Татарча/tatarça</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Toy_(ku%C5%9F)" title="Toy (kuş)" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D1%85%D0%B2%D0%B0" title="Дрохва" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%A4%A7%E9%B8%A8" title="大鸨" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 October 2012 at 09:46.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Great_Bustard&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv203 in 0.172 secs. -->
+	</body>
+</html>

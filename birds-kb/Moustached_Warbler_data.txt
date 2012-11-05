@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Moustached Warbler - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Moustached_Warbler&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Moustached_Warbler&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Moustached_Warbler","wgTitle":"Moustached Warbler","wgCurRevisionId":515661553,"wgArticleId":348445,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Acrocephalus","Birds of Africa","Birds of Asia","Birds of Europe","Birds of Morocco","Birds of Algeria","Birds of Libya","Birds of Egypt","Birds of the United Arab Emirates","Birds of Saudi Arabia","Birds of Palestine","Birds of Jordan","Birds of Israel","Birds of Lebanon","Birds of Syria","Birds of Iraq","Birds of Turkey","Birds of Georgia (country)","Birds of Armenia","Birds of Azerbaijan","Birds of Iran","Birds of Russia","Birds of Kyrgyzstan","Birds of Tajikistan","Birds of Turkmenistan","Birds of Uzbekistan","Birds of Kazakhstan","Birds of Afghanistan","Birds of Pakistan","Birds of India","Birds of Zimbabwe","Animals described in 1823"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Moustached_Warbler","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"c1cad0708ce02c1cae3c783fcc4b1922","wgArticleFeedbackv5Permissions":{"aft-reader":false,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":348445,"title":"Moustached Warbler","namespace":0,"categories":["Acrocephalus","Animals described in 1823","Articles with \'species\' microformats","Birds of Afghanistan","Birds of Africa","Birds of Algeria","Birds of Armenia","Birds of Asia","Birds of Azerbaijan","Birds of Egypt","Birds of Europe","Birds of Georgia (country)","Birds of India","Birds of Iran","Birds of Iraq","Birds of Israel","Birds of Jordan","Birds of Kazakhstan","Birds of Kyrgyzstan","Birds of Lebanon","Birds of Libya","Birds of Morocco","Birds of Pakistan","Birds of Palestine","Birds of Russia","Birds of Saudi Arabia","Birds of Syria","Birds of Tajikistan","Birds of Turkey","Birds of Turkmenistan","Birds of Uzbekistan","Birds of Zimbabwe","Birds of the United Arab Emirates","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/OggPlayer.js?12"></script><script>
+wgOggPlayer.msg = {"ogg-play":"Play","ogg-pause":"Pause","ogg-stop":"Stop","ogg-no-player":"Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.","ogg-player-videoElement":"Native browser support","ogg-player-oggPlugin":"Browser plugin","ogg-player-cortado":"Cortado (Java)","ogg-player-vlc-mozilla":"VLC","ogg-player-vlc-activex":"VLC (ActiveX)","ogg-player-quicktime-mozilla":"QuickTime","ogg-player-quicktime-activex":"QuickTime (ActiveX)","ogg-player-totem":"Totem","ogg-player-kaffeine":"Kaffeine","ogg-player-kmplayer":"KMPlayer","ogg-player-mplayerplug-in":"mplayerplug-in","ogg-player-thumbnail":"Still image only","ogg-player-selected":"(selected)","ogg-use-player":"Use player:","ogg-more":"More…","ogg-download":"Download file","ogg-desc-link":"About this file","ogg-dismiss":"Close","ogg-player-soundthumb":"No player","ogg-no-xiphqt":"You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
+wgOggPlayer.cortadoUrl = "http://bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/cortado-ovt-stripped-0.6.0.jar";
+wgOggPlayer.extPathUrl = "//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler";
+</script><style>
+.ogg-player-options {
+	border: solid 1px #ccc;
+	padding: 2pt;
+	text-align: left;
+	font-size: 10pt;
+}
+
+.center .ogg-player-options ul {
+	margin: 0.3em 0px 0px 1.5em;
+}
+</style><script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Moustached_Warbler skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Moustached Warbler</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Moustached Warbler</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Acrocephalus_melanopogon_ad03_CB.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Acrocephalus_melanopogon_ad03_CB.jpg/220px-Acrocephalus_melanopogon_ad03_CB.jpg" width="220" height="147" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Superfamily:</td>
+<td><span class="superfamily" style="white-space:nowrap;"><a href="/wiki/Sylvioidea" title="Sylvioidea">Sylvioidea</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Acrocephalidae" title="Acrocephalidae">Acrocephalidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Acrocephalus" title="Acrocephalus">Acrocephalus</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>A. melanopogon</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Acrocephalus melanopogon</i></span></b><br />
+<small>(<a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck</a>, 1823)</small></td>
+</tr>
+</table>
+</div>
+<p>The <b>Moustached Warbler</b> (<i>Acrocephalus melanopogon</i>) is an <a href="/wiki/Old_World_warbler" title="Old World warbler">Old World warbler</a> in the <a href="/wiki/Genus" title="Genus">genus</a> <i><a href="/wiki/Acrocephalus" title="Acrocephalus">Acrocephalus</a></i>. It breeds in southern <a href="/wiki/Europe" title="Europe">Europe</a> and southern temperate <a href="/wiki/Asia" title="Asia">Asia</a> with a few in north-west <a href="/wiki/Africa" title="Africa">Africa</a>. It is partially <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>. South west European birds are resident, south east European birds winter in the <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> breeding range, and the Asiatic race migrates to <a href="/wiki/Arabian_Peninsula" title="Arabian Peninsula">Arabia</a> and <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>.</p>
+<p>It is scarce north of its range, but has occurred as a very rare vagrant as far as <a href="/wiki/Poland" title="Poland">Poland</a> and <a href="/wiki/Denmark" title="Denmark">Denmark</a>. There are a few reports from <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>, including a pair breeding in <a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a> in 1946, but these records have recently been removed from the official list of British birds.</p>
+<p>This <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> is a species found in upright aquatic vegetation such as reeds and <a href="/wiki/Cyperaceae" title="Cyperaceae">sedge</a>. 3-6 <a href="/wiki/Bird_egg" title="Bird egg">eggs</a> are laid from mid-April and incubated for 14–15 days. The nest is built over water among reeds or rushes or in a bush. This species is usually <a href="/wiki/Monogamous" title="Monogamous" class="mw-redirect">monogamous</a> (Leisler &amp; Wink 2000).</p>
+<p>This is a medium-sized warbler, 12-13.5&#160;cm long, slightly larger than the similar <a href="/wiki/Sedge_Warbler" title="Sedge Warbler">Sedge Warbler</a>, <i>Acrocephalus schoenobaenus</i>. The adult has a finely streaked brown back and white underparts. The forehead is flattened, there is a prominent whitish supercilium, grey ear coverts, and the bill is strong and pointed.</p>
+<p>The sexes are identical, as with most warblers, but young birds are more heavily streaked and have markings on the breast. Like most warblers, it is <a href="/wiki/Insectivorous" title="Insectivorous" class="mw-redirect">insectivorous</a> and also feeds on water snails.</p>
+<p>The song is fast and similar to the Sedge Warbler and <a href="/wiki/Reed_Warbler" title="Reed Warbler" class="mw-redirect">Reed Warbler</a>, with some mimicry and typically acrocephaline whistles added. Its song is softer and more melodious than those of its relatives, and includes phrases reminiscent of the <a href="/wiki/Nightingale" title="Nightingale" class="mw-redirect">Nightingale</a>. Unlike the Sedge Warbler, it does not sing in flight.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;">
+<div id="ogg_player_1">
+<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/c/cd/Acrocephalus_melanopogon_1.ogg&quot;,&quot;width&quot;:220,&quot;height&quot;:35,&quot;length&quot;:25.655986394558,&quot;linkUrl&quot;:&quot;/wiki/File:Acrocephalus_melanopogon_1.ogg&quot;,&quot;isVideo&quot;:false});" style="width: 220px; text-align: center" title="Play sound"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/play.png" width="22" height="22" alt="Play sound" /></button></div>
+<div><a href="/wiki/File:Acrocephalus_melanopogon_1.ogg" class="image" title="About this file"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/info.png" width="22" height="22" alt="" /></a></div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Acrocephalus_melanopogon_1.ogg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Song Scarlino marsh, Italy</div>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Moustached_Warbler&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106007596">"<i>Acrocephalus melanopogon</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106007596">http://www.iucnredlist.org/apps/redlist/details/106007596</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Acrocephalus+melanopogon%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106007596&amp;rfr_id=info:sid/en.wikipedia.org:Moustached_Warbler"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li>Leisler, B. &amp; Wink, Michael (2000): Frequencies of multiple paternity in three <i>Acrocephalus</i> species (Aves: Sylviidae) with different mating systems (<i>A. palustris, A. arundinaceus, A. paludicola</i>). <i>Ethology, Ecology &amp; Evolution</i> <b>12</b>: 237-249. <a rel="nofollow" class="external text" href="http://www.uni-heidelberg.de/institute/fak14/ipmb/phazb/pubwink/2000/14.%202000.pdf">PDF fulltext</a></li>
+</ul>
+<ul>
+<li>Snow, David W.; Perrins, Christopher M.; Doherty, Paul &amp; Cramp, Stanley (1998): <i>The complete birds of the western Palaearctic on CD-ROM</i>. Oxford University Press. <small><a href="/wiki/Special:BookSources/0192685791" class="internal mw-magiclink-isbn">ISBN 0-19-268579-1</a></small></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Moustached_Warbler&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/354_MoustachedWarblerAmelanopogon.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 3819/1000000
+Preprocessor generated node count: 31250/1500000
+Post-expand include size: 21849/2048000 bytes
+Template argument size: 4361/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:348445-0!*!0!!*!4!* and timestamp 20121017180959 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Moustached_Warbler&amp;oldid=515661553">http://en.wikipedia.org/w/index.php?title=Moustached_Warbler&amp;oldid=515661553</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Acrocephalus" title="Category:Acrocephalus">Acrocephalus</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Morocco" title="Category:Birds of Morocco">Birds of Morocco</a></li><li><a href="/wiki/Category:Birds_of_Algeria" title="Category:Birds of Algeria">Birds of Algeria</a></li><li><a href="/wiki/Category:Birds_of_Libya" title="Category:Birds of Libya">Birds of Libya</a></li><li><a href="/wiki/Category:Birds_of_Egypt" title="Category:Birds of Egypt">Birds of Egypt</a></li><li><a href="/wiki/Category:Birds_of_the_United_Arab_Emirates" title="Category:Birds of the United Arab Emirates">Birds of the United Arab Emirates</a></li><li><a href="/wiki/Category:Birds_of_Saudi_Arabia" title="Category:Birds of Saudi Arabia">Birds of Saudi Arabia</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li><li><a href="/wiki/Category:Birds_of_Jordan" title="Category:Birds of Jordan">Birds of Jordan</a></li><li><a href="/wiki/Category:Birds_of_Israel" title="Category:Birds of Israel">Birds of Israel</a></li><li><a href="/wiki/Category:Birds_of_Lebanon" title="Category:Birds of Lebanon">Birds of Lebanon</a></li><li><a href="/wiki/Category:Birds_of_Syria" title="Category:Birds of Syria">Birds of Syria</a></li><li><a href="/wiki/Category:Birds_of_Iraq" title="Category:Birds of Iraq">Birds of Iraq</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Georgia_(country)" title="Category:Birds of Georgia (country)">Birds of Georgia (country)</a></li><li><a href="/wiki/Category:Birds_of_Armenia" title="Category:Birds of Armenia">Birds of Armenia</a></li><li><a href="/wiki/Category:Birds_of_Azerbaijan" title="Category:Birds of Azerbaijan">Birds of Azerbaijan</a></li><li><a href="/wiki/Category:Birds_of_Iran" title="Category:Birds of Iran">Birds of Iran</a></li><li><a href="/wiki/Category:Birds_of_Russia" title="Category:Birds of Russia">Birds of Russia</a></li><li><a href="/wiki/Category:Birds_of_Kyrgyzstan" title="Category:Birds of Kyrgyzstan">Birds of Kyrgyzstan</a></li><li><a href="/wiki/Category:Birds_of_Tajikistan" title="Category:Birds of Tajikistan">Birds of Tajikistan</a></li><li><a href="/wiki/Category:Birds_of_Turkmenistan" title="Category:Birds of Turkmenistan">Birds of Turkmenistan</a></li><li><a href="/wiki/Category:Birds_of_Uzbekistan" title="Category:Birds of Uzbekistan">Birds of Uzbekistan</a></li><li><a href="/wiki/Category:Birds_of_Kazakhstan" title="Category:Birds of Kazakhstan">Birds of Kazakhstan</a></li><li><a href="/wiki/Category:Birds_of_Afghanistan" title="Category:Birds of Afghanistan">Birds of Afghanistan</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Zimbabwe" title="Category:Birds of Zimbabwe">Birds of Zimbabwe</a></li><li><a href="/wiki/Category:Animals_described_in_1823" title="Category:Animals described in 1823">Animals described in 1823</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Moustached+Warbler&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Moustached+Warbler" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Moustached_Warbler"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Moustached_Warbler"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Moustached_Warbler" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Moustached_Warbler&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Moustached_Warbler&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Moustached_Warbler" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Moustached_Warbler" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Moustached_Warbler&amp;oldid=515661553" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Moustached_Warbler&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Moustached_Warbler&amp;id=515661553" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Moustached+Warbler" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Moustached+Warbler&amp;oldid=515661553&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Moustached_Warbler&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%91%D0%B3%D1%8A%D1%8D%D0%BD%D0%B1%D0%B7%D1%83%D0%BD%D0%B0%D0%B1%D0%B4%D0%B7%D1%8D%D1%85%D1%83" title="Бгъэнбзунабдзэху" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%B2%D8%AC%D8%A9_%D8%A3%D9%85_%D8%B4%D8%A7%D8%B1%D8%A8" title="هازجة أم شارب" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D1%82%D0%BE_%D1%88%D0%B0%D0%B2%D0%B0%D1%80%D1%87%D0%B5" title="Мустакато шаварче" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Rouzegan-tamariskl" title="Rouzegan-tamariskl" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Boscarla_mostatxuda" title="Boscarla mostatxuda" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/R%C3%A1kosn%C3%ADk_tamary%C5%A1kov%C3%BD" title="Rákosník tamaryškový" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Mariskens%C3%A4nger" title="Mariskensänger" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Acrocephalus_melanopogon" title="Acrocephalus melanopogon" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Tamarika_grilbirdo" title="Tamarika grilbirdo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Benarriz_kaskabeltz" title="Benarriz kaskabeltz" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Lusciniole_%C3%A0_moustaches" title="Lusciniole à moustaches" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Folosa_real" title="Folosa real" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Crnoprugasti_trstenjak" title="Crnoprugasti trstenjak" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Acrocephalus_melanopogon" title="Acrocephalus melanopogon" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/F%C3%BClem%C3%BClesitke" title="Fülemülesitke" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Zwartkoprietzanger" title="Zwartkoprietzanger" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Acrocephalus_melanopogon" title="Acrocephalus melanopogon" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Tamaryszka" title="Tamaryszka" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Felosa-real" title="Felosa-real" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BC%D1%8B%D1%88%D1%91%D0%B2%D0%BA%D0%B0" title="Тонкоклювая камышёвка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Osmank%C3%A4%C3%A4mikerttunen" title="Osmankäämikerttunen" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Kavelduns%C3%A5ngare" title="Kaveldunsångare" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/B%C4%B1y%C4%B1kl%C4%B1_kam%C4%B1%C5%9F%C3%A7%C4%B1n" title="Bıyıklı kamışçın" lang="tr" hreflang="tr">Türkçe</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 October 2012 at 18:06.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Moustached_Warbler&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","ext.EventLogging"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv212 in 0.192 secs. -->
+	</body>
+</html>

@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Eurasian Crag Martin - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
+</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eurasian_Crag_Martin","wgTitle":"Eurasian Crag Martin","wgCurRevisionId":513777903,"wgArticleId":357926,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Featured articles","Hirundinidae","Birds of Europe","Birds of Asia","Birds of Africa","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eurasian_Crag_Martin","wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"a0be3dc07de9bea53fd6bdbe90af9bbb","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":357926,"title":"Eurasian Crag Martin","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Africa","Birds of Asia","Birds of Europe","Birds of Western Sahara","Featured articles","Hirundinidae","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.postEdit","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Eurasian_Crag_Martin skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Eurasian Crag Martin</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Eurasian Crag Martin</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Ptyonoprogne_rupestris_-Alcobaca,_Portugal_-perching_on_roof.jpg" class="image"><img alt="Five small brownish swallow-like birds perched on a roof" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ptyonoprogne_rupestris_-Alcobaca%2C_Portugal_-perching_on_roof.jpg/220px-Ptyonoprogne_rupestris_-Alcobaca%2C_Portugal_-perching_on_roof.jpg" width="220" height="293" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Perching on a roof in <a href="/wiki/Alcoba%C3%A7a_(Portugal)" title="Alcobaça (Portugal)" class="mw-redirect">Alcobaça</a>, Portugal</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-birdlife_0-0" class="reference"><a href="#cite_note-birdlife-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Swallow" title="Swallow">Hirundinidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Ptyonoprogne" title="Ptyonoprogne" class="mw-redirect">Ptyonoprogne</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. rupestris</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Ptyonoprogne rupestris</i></span></b><br />
+<small>(<a href="/wiki/Giovanni_Antonio_Scopoli" title="Giovanni Antonio Scopoli">Scopoli</a>, 1769)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Ptyonoprogne_rupestris.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ptyonoprogne_rupestris.png/220px-Ptyonoprogne_rupestris.png" width="220" height="123" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">
+<div style="text-align:left;"><big><span style="margin:0px; font-size:90%;"><span style="border:1px solid #aaa; background-color:#F5ED00; color:black;">&#160;&#160;&#160;&#160;&#160;</span>&#160; Breeding range</span><br />
+<span style="margin:0px; font-size:90%;"><span style="border:1px solid #aaa; background-color:#008108; color:black;">&#160;&#160;&#160;&#160;&#160;</span>&#160; Resident year-round</span><br />
+<span style="margin:0px; font-size:90%;"><span style="border:1px solid #aaa; background-color:#00BDC2; color:black;">&#160;&#160;&#160;&#160;&#160;</span>&#160; Non-breeding range</span></big></div>
+(ranges are approximate)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Hirundo rupestris</i></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Eurasian Crag Martin</b> or just <b>Crag Martin</b> (<i>Ptyonoprogne rupestris</i>) is a small <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Swallow" title="Swallow">swallow</a> family. It is about 14&#160;cm (5.5&#160;in) long with ash-brown upperparts and paler underparts, and a short, square tail that has distinctive white patches on most of its feathers. It breeds in the mountains of southern Europe, northwestern Africa and southern Asia. It can be confused with the other two species in its genus, but is larger than both, with brighter tail spots and different plumage tone. Many European birds are resident, but some northern populations and most Asian breeders are <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, wintering in northern Africa, the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> or <a href="/wiki/India" title="India">India</a>.</p>
+<p>The Eurasian Crag Martin builds a nest adherent to the rock under a cliff overhang or increasingly onto a man-made structure. It makes a neat half-cup mud nest with an inner soft lining of feathers and dry grass. Nests are often solitary, although a few pairs may breed relatively close together at good locations. Two to five brown-blotched white eggs are incubated mainly by the female, and both parents feed the chicks. This species does not form large breeding colonies, but is <a href="/wiki/Gregarious" title="Gregarious" class="mw-redirect">gregarious</a> outside the breeding season. It feeds on a wide variety of insects that are caught in its beak as the martin flies near to cliff faces or over streams and alpine meadows. Adults and young may be hunted and eaten by <a href="/wiki/Bird_of_prey" title="Bird of prey">birds of prey</a> or <a href="/wiki/Corvidae" title="Corvidae">corvids</a>, and this species is a host of blood-sucking mites. With its very large and expanding range and large population there are no significant conservation concerns.</p>
+<p>This bird is closely related to the other two crag martins which share its genus, and has sometimes been considered to be the same species as one or both, although it appears that there are areas where two species' ranges overlap without <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybridisation</a> occurring. All three <i>Ptyonoprogne</i> crag martins are quite similar in behaviour to other <a href="/wiki/Old_World" title="Old World">Old World</a> swallows that build mud nests, and are sometimes subsumed into the larger genus <i><a href="/wiki/Hirundo" title="Hirundo">Hirundo</a></i>, but this approach leads to inconsistencies in classifying other genera, particularly the <a href="/wiki/Delichon" title="Delichon">house martins</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">4</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Breeding"><span class="tocnumber">4.1</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Feeding"><span class="tocnumber">4.2</span> <span class="toctext">Feeding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Predators_and_parasites"><span class="tocnumber">5</span> <span class="toctext">Predators and parasites</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Status"><span class="tocnumber">6</span> <span class="toctext">Status</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Cited_texts"><span class="tocnumber">8</span> <span class="toctext">Cited texts</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<p>The Eurasian Crag Martin was formally described as <i>Hirundo rupestris</i> by Italian naturalist <a href="/wiki/Giovanni_Antonio_Scopoli" title="Giovanni Antonio Scopoli">Giovanni Antonio Scopoli</a> in 1769<sup id="cite_ref-scopoli_1-0" class="reference"><a href="#cite_note-scopoli-1"><span>[</span>2<span>]</span></a></sup> and was moved to the new genus <i><a href="/wiki/Ptyonoprogne" title="Ptyonoprogne" class="mw-redirect">Ptyonoprogne</a></i> by German ornithologist <a href="/wiki/Heinrich_Gustav_Reichenbach" title="Heinrich Gustav Reichenbach">Heinrich Gustav Reichenbach</a> in 1850.<sup id="cite_ref-reichenbach_2-0" class="reference"><a href="#cite_note-reichenbach-2"><span>[</span>3<span>]</span></a></sup> Its nearest relatives are the two other members of the genus, the <a href="/wiki/Rock_Martin" title="Rock Martin">Rock Martin</a>, <i>P. fuligula</i>, and the <a href="/wiki/Dusky_Crag_Martin" title="Dusky Crag Martin">Dusky Crag Martin</a>, <i>P. concolor</i>.<sup id="cite_ref-turner160_3-0" class="reference"><a href="#cite_note-turner160-3"><span>[</span>4<span>]</span></a></sup> The genus name is derived from the Greek <i>ptuon</i> (φτυον), "a fan", referring to the shape of the opened tail, and Procne (Πρόκνη), a mythological girl who was turned into a swallow. The specific <i>rupestris</i> means "of rocks", from the Latin <i>rupes</i> "rock".<sup id="cite_ref-bto_4-0" class="reference"><a href="#cite_note-bto-4"><span>[</span>5<span>]</span></a></sup> There are no generally recognised subspecies. Two races, Central Asian <i>P. r. centralasica</i> and <i>P. r. theresae</i> in the <a href="/wiki/Atlas_Mountains" title="Atlas Mountains">Atlas Mountains</a> of Morocco, have been proposed, but the slight differences in size and colour show no consistent geographical pattern.<sup id="cite_ref-turner158_5-0" class="reference"><a href="#cite_note-turner158-5"><span>[</span>6<span>]</span></a></sup> Fossils of this species have been found in <a href="/wiki/Late_Pleistocene" title="Late Pleistocene">Late Pleistocene</a> deposits in Bulgaria,<sup id="cite_ref-boev_6-0" class="reference"><a href="#cite_note-boev-6"><span>[</span>7<span>]</span></a></sup> and in central France in layers dated at 242,000 to 301,000 years ago.<sup id="cite_ref-mc1_7-0" class="reference"><a href="#cite_note-mc1-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>The three <i>Ptyonoprogne</i> species are members of the swallow family of birds, and are placed in the Hirundininae subfamily, which comprises all swallows and martins except the very distinctive <a href="/wiki/River_martin" title="River martin">river martins</a>. <a href="/wiki/DNA" title="DNA">DNA</a> studies suggest that there are three major groupings within the Hirundininae, broadly correlating with the type of nest built.<sup id="cite_ref-sheldon_9-0" class="reference"><a href="#cite_note-sheldon-9"><span>[</span>10<span>]</span></a></sup> The groups are the "core martins" including burrowing species like the <a href="/wiki/Sand_Martin" title="Sand Martin">Sand Martin</a>, the "nest-adopters", which are birds like the <a href="/wiki/Tree_Swallow" title="Tree Swallow">Tree Swallow</a> that utilise natural cavities, and the "mud nest builders". The <i>Ptyonoprogne</i> species construct an open mud nest and therefore belong to the last group; <i><a href="/wiki/Hirundo" title="Hirundo">Hirundo</a></i> species also build open nests, <i><a href="/wiki/Delichon" title="Delichon">Delichon</a></i> house martins have a closed nest, and the <i><a href="/wiki/Cecropis" title="Cecropis">Cecropis</a></i> and <i><a href="/wiki/Petrochelidon" title="Petrochelidon">Petrochelidon</a></i> swallows have <a href="/wiki/Retort" title="Retort">retort-like</a> closed nests with an entrance tunnel.<sup id="cite_ref-sheldon2_10-0" class="reference"><a href="#cite_note-sheldon2-10"><span>[</span>11<span>]</span></a></sup></p>
+<p><i>Ptyonoprogne</i> is closely related to the larger swallow genus <i>Hirundo</i> into which it is often subsumed, but a DNA analysis showed that an enlarged <i>Hirundo</i> genus should logically contain all the mud-builder genera, including the <i><a href="/wiki/Delichon" title="Delichon">Delichon</a></i> house martins, a practice which few authorities follow. Although the nests of the <i>Ptyonoprogne</i> crag martins resembles those of typical <i>Hirundo</i> species like the <a href="/wiki/Barn_Swallow" title="Barn Swallow">Barn Swallow</a>, the research showed that if <i>Delichon</i>, <i><a href="/wiki/Cecropis" title="Cecropis">Cecropis</a></i> and <i><a href="/wiki/Petrochelidon" title="Petrochelidon">Petrochelidon</a></i> are split from <i>Hirundo</i>, <i>Ptyonoprogne</i> should also be treated as a separate genus.<sup id="cite_ref-sheldon_9-1" class="reference"><a href="#cite_note-sheldon-9"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ptyonoprogne_rupestris_-Europe-8.jpg" class="image"><img alt="Mostly brownish martins perching on brownish rocky ground" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ptyonoprogne_rupestris_-Europe-8.jpg/220px-Ptyonoprogne_rupestris_-Europe-8.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ptyonoprogne_rupestris_-Europe-8.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Group perched on a rocky surface</div>
+</div>
+</div>
+<p>The Eurasian Crag Martin is 13–15&#160;cm (5.1–5.9&#160;in) long with a 32–34.5&#160;cm (12.6–13.6&#160;in) wingspan, and weighs an average 23&#160;g (0.81&#160;oz). It has ash-brown upperparts and paler underparts, and has a broader body, wings and tail than any other European swallow. The tail is short and square, with white patches near the tips of all but the central and outermost pairs of feathers. The underwing and undertail <a href="/wiki/Covert_(feather)" title="Covert (feather)" class="mw-redirect">coverts</a> are blackish, the eyes are brown, the small bill is mainly black, and the legs are brownish-pink. The sexes are alike, but juveniles have buff-brown tips to the plumage of the head, upperparts and wing coverts. This species can be distinguished from the <a href="/wiki/Sand_Martin" title="Sand Martin">Sand Martin</a> by its larger size, the white patches on the tail, and its lack of a brown breast band. Where the range overlaps with that of another <i>Ptyonoprogne</i> species, the Eurasian Crag Martin is darker, browner and 15% larger than the Rock Martin,<sup id="cite_ref-turner158_5-1" class="reference"><a href="#cite_note-turner158-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-bwp_11-0" class="reference"><a href="#cite_note-bwp-11"><span>[</span>12<span>]</span></a></sup> and larger and paler, particularly on its underparts than the Dusky Crag Martin.<sup id="cite_ref-india_12-0" class="reference"><a href="#cite_note-india-12"><span>[</span>13<span>]</span></a></sup> The white tail spots of the Eurasian Crag Martin are significantly larger than those of both its relatives.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
+<p>The Crag Martin's flight appears relatively slow for a swallow. Rapid wing beats are interspersed with flat-winged glides, and its long flexible <a href="/wiki/Flight_feather#Primaries" title="Flight feather">primaries</a> give it the agility to manoeuvre near cliff faces.<sup id="cite_ref-fantur_14-0" class="reference"><a href="#cite_note-fantur-14"><span>[</span>15<span>]</span></a></sup> The average migration flight speed has been measured at 9.9&#160;m/s (32.5&#160;ft/s), less than the roughly 11&#160;m/s (36&#160;ft/s) typical for hirundines, but the data is limited.<sup id="cite_ref-bruderer_15-0" class="reference"><a href="#cite_note-bruderer-15"><span>[</span>16<span>]</span></a></sup> The bird often flies high, and shows the white spots as it spreads its tail. The vocalisations include short high <i>pli</i>, and <i>piieh</i> and <i>tshir</i> calls resembling those of the <a href="/wiki/Linnet" title="Linnet" class="mw-redirect">Linnet</a> and the <a href="/wiki/Common_House_Martin" title="Common House Martin">House Martin</a> respectively.<sup id="cite_ref-collins_16-0" class="reference"><a href="#cite_note-collins-16"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Picos393.JPG" class="image"><img alt=" bare cliffs with meadow in the foreground" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Picos393.JPG/220px-Picos393.JPG" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Picos393.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Breeding habitat in Spain</div>
+</div>
+</div>
+<p>The Eurasian Crag Martin breeds in mountains from <a href="/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberia</a> and northwesternmost Africa through southern Europe, the <a href="/wiki/Persian_Gulf" title="Persian Gulf">Persian Gulf</a> and the <a href="/wiki/Himalayas" title="Himalayas">Himalayas</a> to southwestern and northeastern China. Northern populations are <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, with European birds wintering in north Africa, Senegal, Ethiopia and the <a href="/wiki/Nile" title="Nile">Nile Valley</a>, and Asian breeders going to southern China, the Indian subcontinent and the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>.<sup id="cite_ref-bnhs_17-0" class="reference"><a href="#cite_note-bnhs-17"><span>[</span>18<span>]</span></a></sup> Some European birds stay north of the Mediterranean, and, like martins in warmer areas such as India, Turkey and Cyprus, just move to lower ground after breeding.<sup id="cite_ref-turner158_5-2" class="reference"><a href="#cite_note-turner158-5"><span>[</span>6<span>]</span></a></sup> The breeding range is bounded by the 20&#160;°C (68&#160;°F) July isotherm,<sup id="cite_ref-boev_6-1" class="reference"><a href="#cite_note-boev-6"><span>[</span>7<span>]</span></a></sup> and wintering areas need a temperature of about 15&#160;°C (58&#160;°F) for enough insect food to be available.<sup id="cite_ref-fantur_14-1" class="reference"><a href="#cite_note-fantur-14"><span>[</span>15<span>]</span></a></sup> This is a rare species any distance north of its breeding areas. For example, there are only eight records from the UK,<sup id="cite_ref-BB_18-0" class="reference"><a href="#cite_note-BB-18"><span>[</span>19<span>]</span></a></sup> none from Ireland,<sup id="cite_ref-irbc_19-0" class="reference"><a href="#cite_note-irbc-19"><span>[</span>20<span>]</span></a></sup> and the first record for Sweden was reported as recently as 1996.<sup id="cite_ref-mats_20-0" class="reference"><a href="#cite_note-mats-20"><span>[</span>21<span>]</span></a></sup> South of its normal wintering range, it has occurred as a vagrant in The Gambia.<sup id="cite_ref-birdlife_0-1" class="reference"><a href="#cite_note-birdlife-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>Crag Martins breed on dry, warm and sheltered cliffs in mountainous areas with crags and gorges. The typical altitude is 2,000–2,700&#160;m (6,600–8,900&#160;ft) but breeding occurs up to 5,000&#160;m (16,500&#160;ft) in Central Asia.<sup id="cite_ref-turner158_5-3" class="reference"><a href="#cite_note-turner158-5"><span>[</span>6<span>]</span></a></sup> The Eurasian Crag Martin's choice of nest sites is very similar to that of <a href="/wiki/Savi%27s_Pipistrelle" title="Savi's Pipistrelle">Savi's Pipistrelle</a>, <i>Hypsugo savii</i>; the bird and the bat often breed in the same locations and have almost identical ranges in Europe.<sup id="cite_ref-smithsonianzoo_21-0" class="reference"><a href="#cite_note-smithsonianzoo-21"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup> In South Asia, migrant Eurasian birds sometimes join with flocks of the Dusky Crag Martin and roost communally on ledges of cliffs or buildings.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=5" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cragmartinnest.jpg" class="image"><img alt=" mud cup nest containing three young" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cragmartinnest.jpg/220px-Cragmartinnest.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cragmartinnest.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nest with young</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ptyonoprogne_rupestris_MHNT.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ptyonoprogne_rupestris_MHNT.jpg/220px-Ptyonoprogne_rupestris_MHNT.jpg" width="220" height="140" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ptyonoprogne_rupestris_MHNT.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>Ptyonoprogne rupestris</i> - <a href="/wiki/MHNT" title="MHNT" class="mw-redirect">MHNT</a></div>
+</div>
+</div>
+<p>Crag Martin pairs nest alone or in small <a href="/wiki/Bird_colony" title="Bird colony">colonies</a>, usually containing fewer than ten nests.<sup id="cite_ref-bwp_11-1" class="reference"><a href="#cite_note-bwp-11"><span>[</span>12<span>]</span></a></sup> Nests are on average 30&#160;m (100&#160;ft) apart and each pair aggressively defends its breeding territory against other Crag Martins and most other bird species. Nesting takes place from May to August, and usually two broods are raised. The nest, built by both adults, is an open half cup made of mud and lined with soft material such as feathers or dry grass.<sup id="cite_ref-hume_24-0" class="reference"><a href="#cite_note-hume-24"><span>[</span>25<span>]</span></a></sup> It is constructed under an overhang on a rock cliff face, in a crevice or cave, or on a man-made structure. It takes one to three weeks to build and is re-used for the second brood and in subsequent years. The clutch is two to five eggs with an average of three. The eggs are white with brownish blotches particularly at the wide end, and average 20.2&#160;x&#160;14.0&#160;mm (0.80&#160;x&#160;0.55&#160;in) with a weight of 2.08&#160;g (0.073&#160;oz). The eggs are incubated mainly by the female for 13–17 days to hatching, and the chicks take another 24–27 days to fledge. Both parents feed the chicks bringing food every two to five minutes, and the young are fed for 14–21 days after fledging.<sup id="cite_ref-turner158_5-4" class="reference"><a href="#cite_note-turner158-5"><span>[</span>6<span>]</span></a></sup> With such frequent feeding rates the adults mainly forage in the best hunting zones in the immediate vicinity of the nest, since the further they fly to forage the longer it would take to bring food to the chicks in the nest.<sup id="cite_ref-fantur_14-2" class="reference"><a href="#cite_note-fantur-14"><span>[</span>15<span>]</span></a></sup> In an Italian study, the hatching rate was 80.2&#160;percent, and the average number of fledged young was 3.1.<sup id="cite_ref-acquarone_25-0" class="reference"><a href="#cite_note-acquarone-25"><span>[</span>26<span>]</span></a></sup></p>
+<p>The Crag Martin has over the last few decades increasingly used houses and other man-made sites to nest. This greater availability of breeding sites has enabled the species to expand its range, but it is possible that this will lead to competition with other hirundines, such as the Barn Swallow and <a href="/wiki/Common_House_Martin" title="Common House Martin">Common House Martin</a>, which also use artificial nest sites.<sup id="cite_ref-isenmann_26-0" class="reference"><a href="#cite_note-isenmann-26"><span>[</span>27<span>]</span></a></sup></p>
+<p>An Italian study showed that, as with other aerial feeders, the start of breeding was delayed by cold or wet weather, but this had no influence on the clutch size nor on the number of fledged young. Unexpectedly, it was found that once the eggs had hatched there was a negative relationship between temperature and the number of fledged young. The authors suggested that hot weather dried up the small rivers where the parents found food. Colony size did not influence the laying date, the clutch size or the number of successfully fledged young, but this species does not form large colonies anyway.<sup id="cite_ref-acquarone_25-1" class="reference"><a href="#cite_note-acquarone-25"><span>[</span>26<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=6" title="Edit section: Feeding">edit</a>]</span> <span class="mw-headline" id="Feeding">Feeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ptyonoprogne_rupestris-crop.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ptyonoprogne_rupestris-crop.jpg/220px-Ptyonoprogne_rupestris-crop.jpg" width="220" height="211" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ptyonoprogne_rupestris-crop.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+In flight</div>
+</div>
+</div>
+<p>The Eurasian Crag Martin feeds mainly on insects caught in its beak in flight, although it will occasionally take prey items off rocks, the ground, or a water surface. When breeding, birds often fly back and forth near to a rock face hunting for insects, feeding both inside and outside the nesting territory. At other times, they may hunt flying above streams or alpine meadows. The insects taken depend on what is locally available and may include <a href="/wiki/Fly" title="Fly">flies</a>, ants, aerial spiders, and <a href="/wiki/Beetle" title="Beetle">beetles</a>. Aquatic species such as <a href="/wiki/Plecoptera" title="Plecoptera">stoneflies</a>, <a href="/wiki/Caddisfly" title="Caddisfly">caddisflies</a> and <a href="/wiki/Gerridae" title="Gerridae">pond skaters</a> appear to be important in at least Spain<sup id="cite_ref-turner158_5-5" class="reference"><a href="#cite_note-turner158-5"><span>[</span>6<span>]</span></a></sup> and Italy. Unlike other hirundines, these birds feed close to their breeding sites, and may be locally vulnerable to fluctuations in insect availability.<sup id="cite_ref-acquarone_25-2" class="reference"><a href="#cite_note-acquarone-25"><span>[</span>26<span>]</span></a></sup> This martin is gregarious outside the breeding season, and may form sizeable flocks where food is abundant.<sup id="cite_ref-bwp_11-2" class="reference"><a href="#cite_note-bwp-11"><span>[</span>12<span>]</span></a></sup> Cliff faces generate <a href="/wiki/Standing_wave" title="Standing wave">standing waves</a> in the airflow which concentrate insects near vertical areas. The Crag Martin exploits the area close to the cliff when it hunts, relying on its high manoeuvrability and ability to perform tight turns.<sup id="cite_ref-fantur_14-3" class="reference"><a href="#cite_note-fantur-14"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=7" title="Edit section: Predators and parasites">edit</a>]</span> <span class="mw-headline" id="Predators_and_parasites">Predators and parasites</span></h2>
+<p>This species is occasionally hunted by the <a href="/wiki/Peregrine_Falcon" title="Peregrine Falcon">Peregrine Falcon</a>, which shares its mountain habitat,<sup id="cite_ref-rizzolli_27-0" class="reference"><a href="#cite_note-rizzolli-27"><span>[</span>28<span>]</span></a></sup> and during its migration over the Himalayas, it is reported to be subject to predation by crows.<sup id="cite_ref-bnhs_17-1" class="reference"><a href="#cite_note-bnhs-17"><span>[</span>18<span>]</span></a></sup> <a href="/wiki/Common_Kestrel" title="Common Kestrel">Common Kestrels</a>, <a href="/wiki/Eurasian_Sparrowhawk" title="Eurasian Sparrowhawk">Eurasian Sparrowhawks</a>, <a href="/wiki/Eurasian_Jay" title="Eurasian Jay">Eurasian Jays</a> and <a href="/wiki/Common_Raven" title="Common Raven">Common Ravens</a> are also treated as predators and attacked by repeated dives if they approach nesting cliffs. Despite the general aggressiveness of the martin, it tolerates <a href="/wiki/Sympatric" title="Sympatric" class="mw-redirect">sympatric</a> Common House Martins, perhaps because the large numbers of that highly colonial species provide an early warning of predators.<sup id="cite_ref-fantur_14-4" class="reference"><a href="#cite_note-fantur-14"><span>[</span>15<span>]</span></a></sup></p>
+<p>The Crag Martin is a host of blood-sucking mites of the genus <i>Dermanyssus</i>, including <i>D. chelidonis</i>,<sup id="cite_ref-roy_28-0" class="reference"><a href="#cite_note-roy-28"><span>[</span>29<span>]</span></a></sup> and of the nasal mite <i>Ptilonyssus ptyonoprognes</i>.<sup id="cite_ref-texas_29-0" class="reference"><a href="#cite_note-texas-29"><span>[</span>30<span>]</span></a></sup> Two new species of parasites were first discovered on this martin, the fly <i>Ornithomya rupes</i> in Gibraltar and the flea <i>Ceratophyllus nanshanensis</i> from China.<sup id="cite_ref-hutson_30-0" class="reference"><a href="#cite_note-hutson-30"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-tsai_31-0" class="reference"><a href="#cite_note-tsai-31"><span>[</span>32<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=8" title="Edit section: Status">edit</a>]</span> <span class="mw-headline" id="Status">Status</span></h2>
+<p>The European population of the Eurasian Crag Martin is estimated to be 360,000–1,110,000 individuals, including 120,000–370,000 breeding pairs. A rough estimate of the worldwide population is 500,000–5,000,000 individuals, with Europe hosting between one-quarter and one-half of the total. The population is estimated to be increasing following a northward expansion, which may be partly due to increased use of man-made structures as nest sites. Expansions of the range have been reported in Austria (where motorway bridges are used as nest sites), Switzerland, the former Yugoslavia, Romania, and Bulgaria. With its very large range and high numbers, the Eurasian Crag Martin is not considered to be threatened, and it is classed as <a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a> on the <a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List</a>.<sup id="cite_ref-birdlife_0-2" class="reference"><a href="#cite_note-birdlife-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-bwp_11-3" class="reference"><a href="#cite_note-bwp-11"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=9" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 45em; -webkit-column-width: 45em; column-width: 45em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-birdlife-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-birdlife_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-birdlife_0-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-birdlife_0-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=7112&amp;m=1">"Species factsheet <i>Hirundo rupestris</i>"</a>. <a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=7112&amp;m=1">http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=7112&amp;m=1</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Species+factsheet+%27%27Hirundo+rupestris%27%27&amp;rft.atitle=&amp;rft.pub=%5B%5BBirdLife+International%5D%5D&amp;rft_id=http%3A%2F%2Fwww.birdlife.org%2Fdatazone%2Fspecies%2Findex.html%3Faction%3DSpcHTMDetails.asp%26sid%3D7112%26m%3D1&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span> Retrieved 26 March 2010</span></li>
+<li id="cite_note-scopoli-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-scopoli_1-0">^</a></b></span> <span class="reference-text">Scopoli (1769) p. 172</span></li>
+<li id="cite_note-reichenbach-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-reichenbach_2-0">^</a></b></span> <span class="reference-text">Reichenbach (1850) plate LXXXVII figure 6</span></li>
+<li id="cite_note-turner160-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-turner160_3-0">^</a></b></span> <span class="reference-text">Turner (1989) pp. 160–164</span></li>
+<li id="cite_note-bto-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-bto_4-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob9910.htm">"Crag Martin <i>Ptyonoprogne rupestris</i> [Scopoli, 1769]"</a>. <i>Bird facts</i>. <a href="/wiki/British_Trust_for_Ornithology" title="British Trust for Ornithology">British Trust for Ornithology</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://blx1.bto.org/birdfacts/results/bob9910.htm">http://blx1.bto.org/birdfacts/results/bob9910.htm</a></span><span class="reference-accessdate">. Retrieved 28 March 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Crag+Martin+%27%27Ptyonoprogne+rupestris%27%27+[Scopoli, 1769]&amp;rft.atitle=Bird+facts&amp;rft.pub=%5B%5BBritish+Trust+for+Ornithology%5D%5D&amp;rft_id=http%3A%2F%2Fblx1.bto.org%2Fbirdfacts%2Fresults%2Fbob9910.htm&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-turner158-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-turner158_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-turner158_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-turner158_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-turner158_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-turner158_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-turner158_5-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Turner (1989) pp. 158–160</span></li>
+<li id="cite_note-boev-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-boev_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-boev_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Boev Zlatozar. (2001). "<a rel="nofollow" class="external text" href="http://www.haltakov.com/8group/zb/sci/154_boev_2001_kozarnika_avifaunas.pdf">Late Pleistocene birds from the Kozarnika Cave (Montana District; NW Bulgaria)</a>" in Delchev P., Shanov S., Benderev A. (Eds) <i>Proceedings of the First national Conference on Environment and Cultural Heritage in Karst. Sofia 10–11.11.2000. Volume 1</i> 113–128.</span></li>
+<li id="cite_note-mc1-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-mc1_7-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mourer-Chauviré, Cécile; Philippe, M; Quinif, Y; Chaline, J; Debard, E; Guérin, C; Hugueney, M (September 2003). "Position of the palaeontological site Aven I des Abîmes de La Fage, at Noailles (Corrèze, France), in the European Pleistocene chronology". <i>Boreas</i> <b>32</b> (3): 521–531. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1080%2F03009480310003405">10.1080/03009480310003405</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Position+of+the+palaeontological+site+Aven+I+des+Ab%C3%AEmes+de+La+Fage%2C+at+Noailles+%28Corr%C3%A8ze%2C+France%29%2C+in+the+European+Pleistocene+chronology&amp;rft.jtitle=Boreas&amp;rft.aulast=Mourer-Chauvir%C3%A9&amp;rft.aufirst=C%C3%A9cile&amp;rft.au=Mourer-Chauvir%C3%A9%2C%26%2332%3BC%C3%A9cile&amp;rft.date=September+2003&amp;rft.volume=32&amp;rft.issue=3&amp;rft.pages=521%E2%80%93531&amp;rft_id=info:doi/10.1080%2F03009480310003405&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mourer-Chauviré, Cécile (1975). "Les oiseaux (Aves) du gisement pléistocène moyen des Abîmes de la Fage à Noailles (Corrèze)" (in French). <i>Nouvelles Archives du Muséum d'Histoire naturelle de Lyon</i> <b>13</b>: 89–112.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Les+oiseaux+%28Aves%29+du+gisement+pl%C3%A9istoc%C3%A8ne+moyen+des+Ab%C3%AEmes+de+la+Fage+%C3%A0+Noailles+%28Corr%C3%A8ze%29&amp;rft.jtitle=Nouvelles+Archives+du+Mus%C3%A9um+d%27Histoire+naturelle+de+Lyon&amp;rft.aulast=Mourer-Chauvir%C3%A9&amp;rft.aufirst=C%C3%A9cile&amp;rft.au=Mourer-Chauvir%C3%A9%2C%26%2332%3BC%C3%A9cile&amp;rft.date=1975&amp;rft.volume=13&amp;rft.pages=89%E2%80%93112&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-sheldon-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-sheldon_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sheldon_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal"><a href="/wiki/Fred_Sheldon_(ornithologist)" title="Fred Sheldon (ornithologist)">Sheldon, Frederick H</a>; Whittingham, Linda A; Moyle, Robert G; Slikas, Beth; Winkler, David W (2005). "Phylogeny of swallows (Aves: Hirundinidae) estimated from nuclear and mitochondrial DNA". <i><a href="/wiki/Molecular_Phylogenetics_and_Evolution" title="Molecular Phylogenetics and Evolution">Molecular phylogenetics and evolution</a></i> <b>35</b> (1): 254–270. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2Fj.ympev.2004.11.008">10.1016/j.ympev.2004.11.008</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15737595">15737595</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Phylogeny+of+swallows+%28Aves%3A+Hirundinidae%29+estimated+from+nuclear+and+mitochondrial+DNA&amp;rft.jtitle=%5B%5BMolecular+Phylogenetics+and+Evolution%7CMolecular+phylogenetics+and+evolution%5D%5D&amp;rft.aulast=Sheldon&amp;rft.aufirst=Frederick+H&amp;rft.au=Sheldon%2C%26%2332%3BFrederick+H&amp;rft.date=2005&amp;rft.volume=35&amp;rft.issue=1&amp;rft.pages=254%E2%80%93270&amp;rft_id=info:doi/10.1016%2Fj.ympev.2004.11.008&amp;rft_id=info:pmid/15737595&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-sheldon2-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-sheldon2_10-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Winkler, David W; Sheldon, Frederick H (1993). <a rel="nofollow" class="external text" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F90%2F12%2F5705.full.pdf">"Evolution of nest construction in swallows (Hirundinidae): A molecular phylogenetic perspective"</a> (PDF). <i>Proceedings of the National Academy of Sciences USA</i> <b>90</b> (12): 5705–5707. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1073%2Fpnas.90.12.5705">10.1073/pnas.90.12.5705</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC46790">46790</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8516319">8516319</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F90%2F12%2F5705.full.pdf">http://www.pdfdownload.org/pdf2html/view_online.php?url=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F90%2F12%2F5705.full.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Evolution+of+nest+construction+in+swallows+%28Hirundinidae%29%3A+A+molecular+phylogenetic+perspective&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences+USA&amp;rft.aulast=Winkler&amp;rft.aufirst=David+W&amp;rft.au=Winkler%2C%26%2332%3BDavid+W&amp;rft.date=1993&amp;rft.volume=90&amp;rft.issue=12&amp;rft.pages=5705%E2%80%935707&amp;rft_id=info:doi/10.1073%2Fpnas.90.12.5705&amp;rft_id=info:pmc/46790&amp;rft_id=info:pmid/8516319&amp;rft_id=http%3A%2F%2Fwww.pdfdownload.org%2Fpdf2html%2Fview_online.php%3Furl%3Dhttp%253A%252F%252Fwww.pnas.org%252Fcontent%252F90%252F12%252F5705.full.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-bwp-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-bwp_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bwp_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bwp_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bwp_11-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Snow &amp; Perrins (1998) pp. 1059–1061</span></li>
+<li id="cite_note-india-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-india_12-0">^</a></b></span> <span class="reference-text">Grimmett <i>et al.</i> (2002) p. 268</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Rasmussen &amp; Anderton (2005) p. 311</span></li>
+<li id="cite_note-fantur-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-fantur_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fantur_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fantur_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fantur_14-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-fantur_14-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Fantur, von Roman (1997). <a rel="nofollow" class="external text" href="http://www.biologiezentrum.at/pdf_frei_remote/CAR_187_107_0229-0252.pdf">"Die Jagdstrategie der Felsenschwalbe (<i>Hirundo rupestris</i>) [The hunting strategy of the Crag Martin (<i>Hirundo rupestris</i>)]"</a> (in German with English summary). <i>Carinthia</i> <b>187</b> (107): 229–252<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.biologiezentrum.at/pdf_frei_remote/CAR_187_107_0229-0252.pdf">http://www.biologiezentrum.at/pdf_frei_remote/CAR_187_107_0229-0252.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Die+Jagdstrategie+der+Felsenschwalbe+%28%27%27Hirundo+rupestris%27%27%29&amp;rft.jtitle=Carinthia&amp;rft.aulast=Fantur&amp;rft.aufirst=von+Roman&amp;rft.au=Fantur%2C%26%2332%3Bvon+Roman&amp;rft.date=1997&amp;rft.volume=187&amp;rft.issue=107&amp;rft.pages=229%E2%80%93252&amp;rft_id=http%3A%2F%2Fwww.biologiezentrum.at%2Fpdf_frei_remote%2FCAR_187_107_0229-0252.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-bruderer-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-bruderer_15-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bruderer, Bruno; Boldt, Andreas (2001). <a rel="nofollow" class="external text" href="http://infonet.vogelwarte.ch/upload/08557238.PDF">"Flight characteristics of birds: 1. radar measurements of speeds"</a>. <i>Ibis</i> <b>143</b> (2): 178–204. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.2001.tb04475.x">10.1111/j.1474-919X.2001.tb04475.x</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://infonet.vogelwarte.ch/upload/08557238.PDF">http://infonet.vogelwarte.ch/upload/08557238.PDF</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Flight+characteristics+of+birds%3A+1.+radar+measurements+of+speeds&amp;rft.jtitle=Ibis&amp;rft.aulast=Bruderer&amp;rft.aufirst=Bruno&amp;rft.au=Bruderer%2C%26%2332%3BBruno&amp;rft.date=2001&amp;rft.volume=143&amp;rft.issue=2&amp;rft.pages=178%E2%80%93204&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.2001.tb04475.x&amp;rft_id=http%3A%2F%2Finfonet.vogelwarte.ch%2Fupload%2F08557238.PDF&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-collins-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-collins_16-0">^</a></b></span> <span class="reference-text">Mullarney <i>et al.</i> (1999) p.240</span></li>
+<li id="cite_note-bnhs-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-bnhs_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bnhs_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Dodsworth, P T L (1912). "The Crag Martin (<i>Ptyonoprogne rupestris</i>)". <i>Journal of the Bombay Natural History Society</i> <b>21</b> (2): 660–661.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Crag+Martin+%28%27%27Ptyonoprogne+rupestris%27%27%29&amp;rft.jtitle=Journal+of+the+Bombay+Natural+History+Society&amp;rft.aulast=Dodsworth%2C+P+T+L&amp;rft.au=Dodsworth%2C+P+T+L&amp;rft.date=1912&amp;rft.volume=21&amp;rft.issue=2&amp;rft.pages=660%E2%80%93661&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BB-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-BB_18-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Hudson, Nigel; The rarities committee (October 2009). "Report on rare birds in Great Britain in 2008". <i>British Birds</i> <b>112</b> (10): 569.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Report+on+rare+birds+in+Great+Britain+in+2008&amp;rft.jtitle=British+Birds&amp;rft.aulast=Hudson&amp;rft.aufirst=Nigel&amp;rft.au=Hudson%2C%26%2332%3BNigel&amp;rft.date=October+2009&amp;rft.volume=112&amp;rft.issue=10&amp;rft.pages=569&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-irbc-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-irbc_19-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.irbc.ie/topbar/IrishList/IRBC_IrishList%2831122007%29.pdf">"The Irish List"</a>. Irish Rare Birds Committee. December 2007<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.irbc.ie/topbar/IrishList/IRBC_IrishList%2831122007%29.pdf">http://www.irbc.ie/topbar/IrishList/IRBC_IrishList%2831122007%29.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Irish+List&amp;rft.atitle=&amp;rft.date=December+2007&amp;rft.pub=Irish+Rare+Birds+Committee&amp;rft_id=http%3A%2F%2Fwww.irbc.ie%2Ftopbar%2FIrishList%2FIRBC_IrishList%252831122007%2529.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span> Retrieved 26 March 2010</span></li>
+<li id="cite_note-mats-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-mats_20-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mats, Peterz (1996). "Klippsvala observerad vid Kullen". <i>Anser</i> <b>35</b> (4): 279–280.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Klippsvala+observerad+vid+Kullen&amp;rft.jtitle=Anser&amp;rft.aulast=Mats&amp;rft.aufirst=Peterz&amp;rft.au=Mats%2C%26%2332%3BPeterz&amp;rft.date=1996&amp;rft.volume=35&amp;rft.issue=4&amp;rft.pages=279%E2%80%93280&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-smithsonianzoo-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-smithsonianzoo_21-0">^</a></b></span> <span class="reference-text"><span class="citation web">Youth, Howard (Sept – Oct 2001). <a rel="nofollow" class="external text" href="http://nationalzoo.si.edu/Publications/ZooGoer/2001/5/spaiwildlife.cfm">"Wildlife on the Rocks—and Buildings"</a>. <i>Smithsonian's National Zoological Park: Smithsonian Zoogoer</i>. Friends of the National Zoo<span class="printonly">. <a rel="nofollow" class="external free" href="http://nationalzoo.si.edu/Publications/ZooGoer/2001/5/spaiwildlife.cfm">http://nationalzoo.si.edu/Publications/ZooGoer/2001/5/spaiwildlife.cfm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Wildlife+on+the+Rocks%E2%80%94and+Buildings&amp;rft.atitle=Smithsonian%27s+National+Zoological+Park%3A+Smithsonian+Zoogoer&amp;rft.aulast=Youth%2C+Howard&amp;rft.au=Youth%2C+Howard&amp;rft.date=Sept+%E2%80%93+Oct+2001&amp;rft.pub=Friends+of+the+National+Zoo&amp;rft_id=http%3A%2F%2Fnationalzoo.si.edu%2FPublications%2FZooGoer%2F2001%2F5%2Fspaiwildlife.cfm&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span> Retrieved 26 March 2010</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation book">Simmons, Nancy B. "Chiroptera". In Wilson, Don E; Reeder, DeeAnn M. <i>Mammal Species of the World: A Taxonomic and Geographic Reference</i>. The Johns Hopkins University Press. p.&#160;491. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8018-8221-4" title="Special:BookSources/0-8018-8221-4">0-8018-8221-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Chiroptera&amp;rft.atitle=Mammal+Species+of+the+World%3A+A+Taxonomic+and+Geographic+Reference&amp;rft.aulast=Simmons%2C+Nancy+B&amp;rft.au=Simmons%2C+Nancy+B&amp;rft.pages=p.%26nbsp%3B491&amp;rft.pub=The+Johns+Hopkins+University+Press&amp;rft.isbn=0-8018-8221-4&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Ali &amp; Ripley (1986) pp. 53–54</span></li>
+<li id="cite_note-hume-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-hume_24-0">^</a></b></span> <span class="reference-text">Hume (1890) pp. <a rel="nofollow" class="external text" href="http://www.archive.org/stream/nestseggsofindia02humerich#page/181/mode/1up">180–183</a></span></li>
+<li id="cite_note-acquarone-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-acquarone_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acquarone_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-acquarone_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Acquarone, Camilla; Cucco, Marco; Malacarne, Giorgio (2003). <a rel="nofollow" class="external text" href="ftp://80.57.161.240/artikelen/R/Rotszwaluw1.pdf">"Reproduction of the Crag Martin (<i>Ptyonoprogne rupestris</i>) in relation to weather and colony size"</a>. <i>Ornis Fennica</i> <b>80</b>: 1–7<span class="printonly">. <a rel="nofollow" class="external free" href="ftp://80.57.161.240/artikelen/R/Rotszwaluw1.pdf">ftp://80.57.161.240/artikelen/R/Rotszwaluw1.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Reproduction+of+the+Crag+Martin+%28%27%27Ptyonoprogne+rupestris%27%27%29+in+relation+to+weather+and+colony+size&amp;rft.jtitle=Ornis+Fennica&amp;rft.aulast=Acquarone&amp;rft.aufirst=Camilla&amp;rft.au=Acquarone%2C%26%2332%3BCamilla&amp;rft.date=2003&amp;rft.volume=80&amp;rft.pages=1%E2%80%937&amp;rft_id=ftp%3A%2F%2F80.57.161.240%2Fartikelen%2FR%2FRotszwaluw1.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-isenmann-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-isenmann_26-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Isenmann, Paul (2001). "Do man-made nesting sites promote the increase in numbers and spatial spread of the Eurasian Crag Martin <i>Ptyonoprogne rupestris</i> in Europe?". <i>Revue d'écologie</i> <b>56</b> (3): 299–302.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Do+man-made+nesting+sites+promote+the+increase+in+numbers+and+spatial+spread+of+the+Eurasian+Crag+Martin+%27%27Ptyonoprogne+rupestris%27%27+in+Europe%3F&amp;rft.jtitle=Revue+d%27%C3%A9cologie&amp;rft.aulast=Isenmann&amp;rft.aufirst=Paul&amp;rft.au=Isenmann%2C%26%2332%3BPaul&amp;rft.date=2001&amp;rft.volume=56&amp;rft.issue=3&amp;rft.pages=299%E2%80%93302&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-rizzolli-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-rizzolli_27-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Rizzolli, Franco; Sergio, Fabrizio; Marchesi, Luigi&#160;; Pedrini, Paolo (2005). "Density, productivity, diet and population status of the Peregrine Falcon <i>Falco peregrinus</i> in the Italian Alps". <i>Bird Study</i> <b>52</b> (2): 188–192. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1080%2F00063650509461390">10.1080/00063650509461390</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Density%2C+productivity%2C+diet+and+population+status+of+the+Peregrine+Falcon+%27%27Falco+peregrinus%27%27+in+the+Italian+Alps&amp;rft.jtitle=Bird+Study&amp;rft.aulast=Rizzolli&amp;rft.aufirst=Franco&amp;rft.au=Rizzolli%2C%26%2332%3BFranco&amp;rft.date=2005&amp;rft.volume=52&amp;rft.issue=2&amp;rft.pages=188%E2%80%93192&amp;rft_id=info:doi/10.1080%2F00063650509461390&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-roy-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-roy_28-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Roy, Lise; Chauve, C M (2007). <a rel="nofollow" class="external text" href="http://www.parasite-journal.org/dwld/07-2_Roy_87-100.pdf">"Historical review of the genus <i>Dermanyssus</i> Dugès, 1834 (Acari: Mesostigmata: Dermanyssidae)"</a>. <i>Parasite</i> <b>14</b> (2): 87–100. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17645179">17645179</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.parasite-journal.org/dwld/07-2_Roy_87-100.pdf">http://www.parasite-journal.org/dwld/07-2_Roy_87-100.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Historical+review+of+the+genus+%27%27Dermanyssus%27%27+Dug%C3%A8s%2C+1834+%28Acari%3A+Mesostigmata%3A+Dermanyssidae%29&amp;rft.jtitle=Parasite&amp;rft.aulast=Roy&amp;rft.aufirst=Lise&amp;rft.au=Roy%2C%26%2332%3BLise&amp;rft.date=2007&amp;rft.volume=14&amp;rft.issue=2&amp;rft.pages=87%E2%80%93100&amp;rft_id=info:pmid/17645179&amp;rft_id=http%3A%2F%2Fwww.parasite-journal.org%2Fdwld%2F07-2_Roy_87-100.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-texas-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-texas_29-0">^</a></b></span> <span class="reference-text"><span class="citation web">Amrine, Jim. <a rel="nofollow" class="external text" href="http://insects.tamu.edu/research/COLLECTION/hallan/Acari/Family/Rhinonyssidae.txt">"Bibliography of the Eriophyidae"</a>. <i>Biology Catalog</i>. Texas A&amp;M University Department of Entomology<span class="printonly">. <a rel="nofollow" class="external free" href="http://insects.tamu.edu/research/COLLECTION/hallan/Acari/Family/Rhinonyssidae.txt">http://insects.tamu.edu/research/COLLECTION/hallan/Acari/Family/Rhinonyssidae.txt</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Bibliography+of+the+Eriophyidae&amp;rft.atitle=Biology+Catalog&amp;rft.aulast=Amrine%2C+Jim&amp;rft.au=Amrine%2C+Jim&amp;rft.pub=Texas+A%26M+University+Department+of+Entomology&amp;rft_id=http%3A%2F%2Finsects.tamu.edu%2Fresearch%2FCOLLECTION%2Fhallan%2FAcari%2FFamily%2FRhinonyssidae.txt&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span> Retrieved 30 March 2010</span></li>
+<li id="cite_note-hutson-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-hutson_30-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Hutson, A M (1981). "A new species of the <i>Ornithomya biloba</i>-group (Dipt., Hippoboscidae) from crag martin (<i>Ptyonoprogne rupestris</i>) (Aves, Hirundinidae)". <i>Mitteilungen der Schweizerischen Entomologischen Gesellschaft</i> <b>54</b> (1–2): 157–162.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+new+species+of+the+%27%27Ornithomya+biloba%27%27-group+%28Dipt.%2C+Hippoboscidae%29+from+crag+martin+%28%27%27Ptyonoprogne+rupestris%27%27%29+%28Aves%2C+Hirundinidae%29&amp;rft.jtitle=Mitteilungen+der+Schweizerischen+Entomologischen+Gesellschaft&amp;rft.aulast=Hutson&amp;rft.aufirst=A+M&amp;rft.au=Hutson%2C%26%2332%3BA+M&amp;rft.date=1981&amp;rft.volume=54&amp;rft.issue=1%E2%80%932&amp;rft.pages=157%E2%80%93162&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-tsai-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-tsai_31-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Tsai, L.-y; Pan, F-c; Liu Chuan (1980). "A new species of <i>Ceratophyllus</i> from Chinghai Province, China". <i>Acta Entomologica Sinica</i> <b>23</b> (1): 79–81.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+new+species+of+%27%27Ceratophyllus%27%27+from+Chinghai+Province%2C+China&amp;rft.jtitle=Acta+Entomologica+Sinica&amp;rft.aulast=Tsai&amp;rft.aufirst=L.-y&amp;rft.au=Tsai%2C%26%2332%3BL.-y&amp;rft.date=1980&amp;rft.volume=23&amp;rft.issue=1&amp;rft.pages=79%26ndash%3B81&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=10" title="Edit section: Cited texts">edit</a>]</span> <span class="mw-headline" id="Cited_texts">Cited texts</span></h2>
+<ul>
+<li><span class="citation book"><a href="/wiki/Salim_Ali_(ornithologist)" title="Salim Ali (ornithologist)" class="mw-redirect">Ali, Salim</a>; <a href="/wiki/Sidney_Dillon_Ripley" title="Sidney Dillon Ripley">Ripley, Sidney Dillon</a> D (1986). <i>Handbook of the birds of India and Pakistan</i>. <b>5</b> (2 ed.). Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-561857-2" title="Special:BookSources/0-19-561857-2">0-19-561857-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+birds+of+India+and+Pakistan&amp;rft.aulast=%5B%5BSalim+Ali+%28ornithologist%29%7CAli%2C+Salim%5D%5D%3B+%5B%5BSidney+Dillon+Ripley%7CRipley%2C+Sidney+Dillon%5D%5D+D&amp;rft.au=%5B%5BSalim+Ali+%28ornithologist%29%7CAli%2C+Salim%5D%5D%3B+%5B%5BSidney+Dillon+Ripley%7CRipley%2C+Sidney+Dillon%5D%5D+D&amp;rft.date=1986&amp;rft.volume=5&amp;rft.edition=2&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-561857-2&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Grimmett, Richard; Inskipp, Carol; Inskipp, Tim (2002). <i>Birds of India</i>. London: Christopher Helm Publishers Ltd. p.&#160;226. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7136-6304-9" title="Special:BookSources/0-7136-6304-9">0-7136-6304-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+India&amp;rft.aulast=Grimmett&amp;rft.aufirst=Richard&amp;rft.au=Grimmett%2C%26%2332%3BRichard&amp;rft.date=2002&amp;rft.pages=p.%26nbsp%3B226&amp;rft.place=London&amp;rft.pub=Christopher+Helm+Publishers+Ltd&amp;rft.isbn=0-7136-6304-9&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book"><a href="/wiki/Allan_Octavian_Hume" title="Allan Octavian Hume">Hume, Allan Octavian</a> (1890). <i>The nests and eggs of Indian birds</i>. <b>2</b> (2 ed.). London: R H Porter.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+nests+and+eggs+of+Indian+birds&amp;rft.aulast=Hume%2C+Allan+Octavian&amp;rft.au=Hume%2C+Allan+Octavian&amp;rft.date=1890&amp;rft.volume=2&amp;rft.edition=2&amp;rft.pub=London%3A+R+H+Porter&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Mullarney, Killian; Svensson, Lars; Zetterstrom, Dan; Grant, Peter (1999). <i>Collins Bird Guide</i>. London: HarperCollins. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-00-219728-6" title="Special:BookSources/0-00-219728-6">0-00-219728-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Collins+Bird+Guide&amp;rft.aulast=Mullarney&amp;rft.aufirst=Killian&amp;rft.au=Mullarney%2C%26%2332%3BKillian&amp;rft.date=1999&amp;rft.place=London&amp;rft.pub=HarperCollins&amp;rft.isbn=0-00-219728-6&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book"><a href="/wiki/Pamela_C._Rasmussen" title="Pamela C. Rasmussen">Rasmussen P C</a>; Anderton, J C (2005). <i><a href="/wiki/Birds_of_South_Asia._The_Ripley_Guide" title="Birds of South Asia. The Ripley Guide">Birds of South Asia: The Ripley Guide</a></i>. <b>2</b>. Smithsonian Institution &amp; Lynx Edicions. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/84-87334-66-0" title="Special:BookSources/84-87334-66-0">84-87334-66-0</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%5B%5BBirds+of+South+Asia.+The+Ripley+Guide%7CBirds+of+South+Asia%3A+The+Ripley+Guide%5D%5D&amp;rft.aulast=%5B%5BPamela+C.+Rasmussen%7CRasmussen+P+C%5D%5D%3B+Anderton%2C+J+C&amp;rft.au=%5B%5BPamela+C.+Rasmussen%7CRasmussen+P+C%5D%5D%3B+Anderton%2C+J+C&amp;rft.date=2005&amp;rft.volume=2&amp;rft.pub=Smithsonian+Institution+%26+Lynx+Edicions&amp;rft.isbn=84-87334-66-0&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Reichenbach, Heinrich Gustav (1850) (in German). <i>Avium systema naturale.</i>. Dresden and Leipzig: F. Hofmeister.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Avium+systema+naturale.&amp;rft.aulast=Reichenbach&amp;rft.aufirst=Heinrich+Gustav&amp;rft.au=Reichenbach%2C%26%2332%3BHeinrich+Gustav&amp;rft.date=1850&amp;rft.pub=Dresden+and+Leipzig%3A+F.+Hofmeister&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Scopoli, Giovanni Antonio (1769) (in French). <i>Annus I Historico-Naturalis</i>. Lipsiae: Christian Gottlob Hischeri.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Annus+I+Historico-Naturalis&amp;rft.aulast=Scopoli&amp;rft.aufirst=Giovanni+Antonio&amp;rft.au=Scopoli%2C%26%2332%3BGiovanni+Antonio&amp;rft.date=1769&amp;rft.pub=Lipsiae%3A+Christian+Gottlob+Hischeri&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Snow, David; Perrins, Christopher M (editors) (1998). <i>The Birds of the Western Palearctic concise edition (2 volumes)</i>. Oxford: Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854099-X" title="Special:BookSources/0-19-854099-X">0-19-854099-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+Western+Palearctic+concise+edition+%282+volumes%29&amp;rft.aulast=Snow&amp;rft.aufirst=David&amp;rft.au=Snow%2C%26%2332%3BDavid&amp;rft.date=1998&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-854099-X&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation book">Turner, Angela K; Rose, Chris (1989). <i>A handbook to the swallows and martins of the world</i>. London: Christopher Helm. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7470-3202-5" title="Special:BookSources/0-7470-3202-5">0-7470-3202-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+handbook+to+the+swallows+and+martins+of+the+world&amp;rft.aulast=Turner&amp;rft.aufirst=Angela+K&amp;rft.au=Turner%2C%26%2332%3BAngela+K&amp;rft.date=1989&amp;rft.place=London&amp;rft.pub=Christopher+Helm&amp;rft.isbn=0-7470-3202-5&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Ptyonoprogne_rupestris" class="extiw" title="commons:Category:Ptyonoprogne rupestris">Ptyonoprogne rupestris</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><span class="citation web">Blasco-Zumeta, Javier. <a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/306_CragMartinPrupestris.pdf">"306: Craig Martin"</a> (pdf). Laboratorio Virtual Ibercaja (LAV)<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ibercajalav.net/img/306_CragMartinPrupestris.pdf">http://www.ibercajalav.net/img/306_CragMartinPrupestris.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=306%3A+Craig+Martin&amp;rft.atitle=&amp;rft.aulast=Blasco-Zumeta&amp;rft.aufirst=Javier&amp;rft.au=Blasco-Zumeta%2C%26%2332%3BJavier&amp;rft.pub=Laboratorio+Virtual+Ibercaja+%28LAV%29&amp;rft_id=http%3A%2F%2Fwww.ibercajalav.net%2Fimg%2F306_CragMartinPrupestris.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Crag_Martin"><span style="display: none;">&#160;</span></span></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hirundinidae" title="Template:Hirundinidae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hirundinidae" title="Template talk:Hirundinidae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hirundinidae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Swallow" title="Swallow">Swallows</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Hirundinidae)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/River_martin" title="River martin">River martins</a> (<b>subfamily: Pseudochelidoninae</b> · <b>genus: <i>Pseudochelidon</i></b>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/River_martin" title="River martin">Pseudochelidon</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African_River_Martin" title="African River Martin">African River Martin</a></li>
+<li><a href="/wiki/White-eyed_River_Martin" title="White-eyed River Martin">White-eyed River Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;">All other swallows and martins (<b>subfamily: Hirundininae</b>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Species" title="Species">Species</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Saw-wing" title="Saw-wing">Psalidoprocne</a></i><br />
+(saw-wings)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Square-tailed_Saw-wing" title="Square-tailed Saw-wing">Square-tailed Saw-wing</a></li>
+<li><a href="/wiki/Mountain_Saw-wing" title="Mountain Saw-wing">Mountain Saw-wing</a></li>
+<li><a href="/wiki/White-headed_Saw-wing" title="White-headed Saw-wing">White-headed Saw-wing</a></li>
+<li><a href="/wiki/Black_Saw-wing" title="Black Saw-wing">Black Saw-wing</a></li>
+<li><a href="/wiki/Fanti_Saw-wing" title="Fanti Saw-wing">Fanti Saw-wing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Pseudhirundo</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grey-rumped_Swallow" title="Grey-rumped Swallow">Grey-rumped Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Phedina" title="Phedina">Phedina</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mascarene_Martin" title="Mascarene Martin">Mascarene Martin</a></li>
+<li><a href="/wiki/Brazza%27s_Martin" title="Brazza's Martin">Brazza's Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Riparia" title="Riparia">Riparia</a></i><br />
+(sand martins)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brown-throated_Sand_Martin" title="Brown-throated Sand Martin" class="mw-redirect">Brown-throated Sand Martin</a></li>
+<li><a href="/wiki/Congo_Sand_Martin" title="Congo Sand Martin" class="mw-redirect">Congo Sand Martin</a></li>
+<li><a href="/wiki/Sand_Martin" title="Sand Martin">Sand Martin</a></li>
+<li><a href="/wiki/Sand_Martin" title="Sand Martin">Pale Martin</a></li>
+<li><a href="/wiki/Banded_Martin" title="Banded Martin">Banded Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Tachycineta" title="Tachycineta">Tachycineta</a></i><br />
+(tree swallows)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tree_Swallow" title="Tree Swallow">Tree Swallow</a></li>
+<li><a href="/wiki/Violet-green_Swallow" title="Violet-green Swallow">Violet-green Swallow</a></li>
+<li><a href="/wiki/Golden_Swallow_(bird)" title="Golden Swallow (bird)">Golden Swallow</a></li>
+<li><a href="/wiki/Bahama_Swallow" title="Bahama Swallow">Bahama Swallow</a></li>
+<li><a href="/wiki/Tumbes_Swallow" title="Tumbes Swallow">Tumbes Swallow</a></li>
+<li><a href="/wiki/Mangrove_Swallow" title="Mangrove Swallow">Mangrove Swallow</a></li>
+<li><a href="/wiki/White-winged_Swallow" title="White-winged Swallow">White-winged Swallow</a></li>
+<li><a href="/wiki/White-rumped_Swallow" title="White-rumped Swallow">White-rumped Swallow</a></li>
+<li><a href="/wiki/Chilean_Swallow" title="Chilean Swallow">Chilean Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Progne" title="Progne">Progne</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Purple_Martin" title="Purple Martin">Purple Martin</a></li>
+<li><a href="/wiki/Caribbean_Martin" title="Caribbean Martin">Caribbean Martin</a></li>
+<li><a href="/wiki/Sinaloa_Martin" title="Sinaloa Martin">Sinaloa Martin</a></li>
+<li><a href="/wiki/Gray-breasted_Martin" title="Gray-breasted Martin">Grey-breasted Martin</a></li>
+<li><a href="/wiki/Gal%C3%A1pagos_Martin" title="Galápagos Martin">Galápagos Martin</a></li>
+<li><a href="/wiki/Peruvian_Martin" title="Peruvian Martin">Peruvian Martin</a></li>
+<li><a href="/wiki/Southern_Martin" title="Southern Martin">Southern Martin</a></li>
+<li><a href="/wiki/Brown-chested_Martin" title="Brown-chested Martin">Brown-chested Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Notiochelidon" title="Notiochelidon">Notiochelidon</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brown-bellied_Swallow" title="Brown-bellied Swallow">Brown-bellied Swallow</a></li>
+<li><a href="/wiki/Blue-and-white_Swallow" title="Blue-and-white Swallow">Blue-and-white Swallow</a></li>
+<li><a href="/wiki/Pale-footed_Swallow" title="Pale-footed Swallow">Pale-footed Swallow</a></li>
+<li><a href="/wiki/Black-capped_Swallow" title="Black-capped Swallow">Black-capped Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Haplochelidon</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andean_Swallow" title="Andean Swallow">Andean Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Atticora" title="Atticora">Atticora</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-banded_Swallow" title="White-banded Swallow">White-banded Swallow</a></li>
+<li><a href="/wiki/Black-collared_Swallow" title="Black-collared Swallow">Black-collared Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Neochelidon</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-thighed_Swallow" title="White-thighed Swallow">White-thighed Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Stelgidopteryx" title="Stelgidopteryx">Stelgidopteryx</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Northern_Rough-winged_Swallow" title="Northern Rough-winged Swallow">Northern Rough-winged Swallow</a></li>
+<li><a href="/wiki/Southern_Rough-winged_Swallow" title="Southern Rough-winged Swallow">Southern Rough-winged Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Alopochelidon</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tawny-headed_Swallow" title="Tawny-headed Swallow">Tawny-headed Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Hirundo" title="Hirundo">Hirundo</a></i><br />
+(barn swallows)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barn_Swallow" title="Barn Swallow">Barn Swallow</a></li>
+<li><a href="/wiki/Red-chested_Swallow" title="Red-chested Swallow">Red-chested Swallow</a></li>
+<li><a href="/wiki/Angola_Swallow" title="Angola Swallow">Angola Swallow</a></li>
+<li><a href="/wiki/Pacific_Swallow" title="Pacific Swallow">Pacific Swallow</a></li>
+<li><a href="/wiki/Welcome_Swallow" title="Welcome Swallow">Welcome Swallow</a></li>
+<li><a href="/wiki/White-throated_Swallow" title="White-throated Swallow">White-throated Swallow</a></li>
+<li><a href="/wiki/Ethiopian_Swallow" title="Ethiopian Swallow">Ethiopian Swallow</a></li>
+<li><a href="/wiki/Wire-tailed_Swallow" title="Wire-tailed Swallow">Wire-tailed Swallow</a></li>
+<li><a href="/wiki/White-throated_Blue_Swallow" title="White-throated Blue Swallow" class="mw-redirect">White-throated Blue Swallow</a></li>
+<li><a href="/wiki/Pied-winged_Swallow" title="Pied-winged Swallow">Pied-winged Swallow</a></li>
+<li><a href="/wiki/White-tailed_Swallow" title="White-tailed Swallow">White-tailed Swallow</a></li>
+<li><a href="/wiki/Pearl-breasted_Swallow" title="Pearl-breasted Swallow">Pearl-breasted Swallow</a></li>
+<li><a href="/wiki/Blue_Swallow" title="Blue Swallow">Blue Swallow</a></li>
+<li><a href="/wiki/Black-and-rufous_Swallow" title="Black-and-rufous Swallow">Black-and-rufous Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Crag_martin" title="Crag martin">Ptyonoprogne</a></i><br />
+(crag martins)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Eurasian Crag Martin</strong></li>
+<li><a href="/wiki/Rock_Martin" title="Rock Martin">Rock Martin</a></li>
+<li><a href="/wiki/Dusky_Crag_Martin" title="Dusky Crag Martin">Dusky Crag Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Delichon" title="Delichon">Delichon</a></i><br />
+(house martins)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_House_Martin" title="Common House Martin">Common House Martin</a></li>
+<li><a href="/wiki/Asian_House_Martin" title="Asian House Martin">Asian House Martin</a></li>
+<li><a href="/wiki/Nepal_House_Martin" title="Nepal House Martin">Nepal House Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Cecropis" title="Cecropis">Cecropis</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Greater_Striped_Swallow" title="Greater Striped Swallow">Greater Striped Swallow</a></li>
+<li><a href="/wiki/Lesser_Striped_Swallow" title="Lesser Striped Swallow">Lesser Striped Swallow</a></li>
+<li><a href="/wiki/Rufous-chested_Swallow" title="Rufous-chested Swallow" class="mw-redirect">Rufous-chested Swallow</a></li>
+<li><a href="/wiki/Mosque_Swallow" title="Mosque Swallow">Mosque Swallow</a></li>
+<li><a href="/wiki/Red-rumped_Swallow" title="Red-rumped Swallow">Red-rumped Swallow</a></li>
+<li><a href="/wiki/Striated_Swallow" title="Striated Swallow">Striated Swallow</a></li>
+<li><a href="/wiki/Striated_Swallow" title="Striated Swallow">Striated Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Petrochelidon" title="Petrochelidon">Petrochelidon</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_Swallow" title="Forest Swallow">Forest Swallow</a></li>
+<li><a href="/wiki/Streak-throated_Swallow" title="Streak-throated Swallow">Streak-throated Swallow</a></li>
+<li><a href="/wiki/Fairy_Martin" title="Fairy Martin">Fairy Martin</a></li>
+<li><a href="/wiki/Tree_Martin" title="Tree Martin">Tree Martin</a></li>
+<li><a href="/wiki/American_Cliff_Swallow" title="American Cliff Swallow">American Cliff Swallow</a></li>
+<li><a href="/wiki/Red-throated_Cliff_Swallow" title="Red-throated Cliff Swallow">Red-throated Cliff Swallow</a></li>
+<li><a href="/wiki/Preuss%27s_Cliff_Swallow" title="Preuss's Cliff Swallow">Preuss's Cliff Swallow</a></li>
+<li><a href="/wiki/Red_Sea_Cliff_Swallow" title="Red Sea Cliff Swallow">Red Sea Cliff Swallow</a></li>
+<li><a href="/wiki/South_African_Cliff_Swallow" title="South African Cliff Swallow">South African Cliff Swallow</a></li>
+<li><a href="/wiki/Cave_Swallow" title="Cave Swallow">Cave Swallow</a></li>
+<li><a href="/wiki/Chestnut-collared_Swallow" title="Chestnut-collared Swallow">Chestnut-collared Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Cheramoeca</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-backed_Swallow" title="White-backed Swallow">White-backed Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style="display:none; right:10px;" class="metadata topicon nopopups" id="featured-star"><a href="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/15px-Cscr-featured.svg.png" width="15" height="14" /></a></div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 27039/1000000
+Preprocessor generated node count: 64109/1500000
+Post-expand include size: 278172/2048000 bytes
+Template argument size: 117803/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:357926-0!*!0!!en!4!* and timestamp 20121017171824 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Eurasian_Crag_Martin&amp;oldid=513777903">http://en.wikipedia.org/w/index.php?title=Eurasian_Crag_Martin&amp;oldid=513777903</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Hirundinidae" title="Category:Hirundinidae">Hirundinidae</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eurasian+Crag+Martin&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eurasian+Crag+Martin" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Eurasian_Crag_Martin"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Eurasian_Crag_Martin"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Eurasian_Crag_Martin" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Eurasian_Crag_Martin&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Eurasian_Crag_Martin" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Eurasian_Crag_Martin" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Eurasian_Crag_Martin&amp;oldid=513777903" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Eurasian_Crag_Martin&amp;id=513777903" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eurasian+Crag+Martin" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Eurasian+Crag+Martin&amp;oldid=513777903&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Eurasian_Crag_Martin&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D1%83%D1%80%D1%88%D0%BF%D1%86%D3%80%D0%B0%D1%89%D1%85%D1%8A%D1%83%D1%8D" title="КъуршпцӀащхъуэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%86%D9%88%D9%86%D9%88_%D8%A7%D9%84%D8%AC%D8%B1%D9%81_%D8%A3%D9%88%D8%B1%D8%A7%D8%B3%D9%8A" title="سنونو الجرف أوراسي" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Da%C4%9F_qaranqu%C5%9Fu" title="Dağ qaranquşu" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%BD%D0%B0_%D0%BB%D1%8F%D1%81%D1%82%D0%BE%D0%B2%D0%B8%D1%86%D0%B0" title="Скална лястовица" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Gwennili-garreg" title="Gwennili-garreg" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Roquerol" title="Roquerol" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/B%C5%99ehule_skaln%C3%AD" title="Břehule skalní" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Felsenschwalbe" title="Felsenschwalbe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Kivip%C3%A4%C3%A4suke" title="Kivipääsuke" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Ptyonoprogne_rupestris" title="Ptyonoprogne rupestris" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Rokhirundo" title="Rokhirundo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Haitz-enara" title="Haitz-enara" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Hirondelle_de_rochers" title="Hirondelle de rochers" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Andori%C3%B1a_dos_penedos" title="Andoriña dos penedos" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%BA%D5%A1%D5%B5%D5%BC%D5%A1%D5%B5%D5%AB%D5%B6_%D5%AE%D5%AB%D5%AE%D5%A5%D5%BC%D5%B6%D5%A1%D5%AF" title="Ժայռային ծիծեռնակ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Ptyonoprogne_rupestris" title="Ptyonoprogne rupestris" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Hechecik%C3%AA_zinaran" title="Hechecikê zinaran" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Szirtifecske" title="Szirtifecske" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Rotszwaluw" title="Rotszwaluw" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Klippesvale" title="Klippesvale" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Hirundo_rupestris" title="Hirundo rupestris" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Jask%C3%B3%C5%82ka_skalna" title="Jaskółka skalna" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Andorinha-das-rochas" title="Andorinha-das-rochas" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B0" title="Скалистая ласточка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Skalna_lastovka" title="Skalna lastovka" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kalliop%C3%A4%C3%A4sky" title="Kalliopääsky" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Klippsvala" title="Klippsvala" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kaya_k%C4%B1rlang%C4%B1c%C4%B1" title="Kaya kırlangıcı" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B2%A9%E7%87%95" title="岩燕" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 September 2012 at 21:39.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Eurasian_Crag_Martin&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw32 in 0.177 secs. -->
+	</body>
+</html>

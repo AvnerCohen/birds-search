@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Common House Martin - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Common_House_Martin&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Common_House_Martin&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Common_House_Martin","wgTitle":"Common House Martin","wgCurRevisionId":512238784,"wgArticleId":196842,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Featured articles","Use dmy dates from November 2010","Delichon","Migratory birds (Eastern hemisphere)","Birds of Europe","Birds of Asia","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Common_House_Martin","wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"dd76005e3ffcf34d24a758a822f1288b","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":196842,"title":"Common House Martin","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Asia","Birds of Europe","Birds of Western Sahara","Delichon","Featured articles","IUCN Red List least concern species","Migratory birds (Eastern hemisphere)","Use dmy dates from November 2010"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Common_House_Martin skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Common House Martin</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Common House Martin</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Delichon_urbicum_-Iceland_-flying-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Delichon_urbicum_-Iceland_-flying-8.jpg/300px-Delichon_urbicum_-Iceland_-flying-8.jpg" width="300" height="271" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Flying in Iceland, where it breeds only occasionally<sup id="cite_ref-BWP_0-0" class="reference"><a href="#cite_note-BWP-0"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_1-0" class="reference"><a href="#cite_note-IUCN2012-1"><span>[</span>2<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Swallow" title="Swallow">Hirundinidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Delichon" title="Delichon">Delichon</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>D. urbicum</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Delichon urbicum</i></span></b><br />
+<small>(<a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758)</small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Delichon_urbicum.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Delichon_urbicum.png/300px-Delichon_urbicum.png" width="300" height="205" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Yellow – breeding range<br />
+<p>Blue – wintering range</p>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<p><i>Hirundo urbica</i> <small>Linnaeus, 1758</small></p>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>Common House Martin</b> (<i>Delichon urbicum</i>), sometimes called the <b>Northern House Martin</b> or, particularly in Europe, just <b>House Martin</b>, is a <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> of the <a href="/wiki/Swallow" title="Swallow">swallow</a> family which breeds in Europe, north Africa and temperate Asia; and winters in <a href="/wiki/Sahara" title="Sahara">sub-Saharan</a> Africa and tropical Asia. It feeds on insects which are caught in flight, and it migrates to climates where flying insects are plentiful. It has a blue head and upperparts, white rump and pure white underparts, and is found in both open country and near human habitation. It is similar in appearance to the two other martin <a href="/wiki/Species" title="Species">species</a> of the <i><a href="/wiki/Delichon" title="Delichon">Delichon</a></i> genus, which are both endemic to eastern and southern Asia. It has two accepted <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>.<sup id="cite_ref-Turner_2-0" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>Both the scientific and colloquial name of the bird are related to its use of man-made structures. It builds a closed cup nest from mud pellets under eaves or similar locations on buildings usually in <a href="/wiki/Bird_colony" title="Bird colony">colonies</a>, but sometimes fouling below nests can be a problem.<sup id="cite_ref-Turner_2-1" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>It is hunted by the <a href="/wiki/Eurasian_Hobby" title="Eurasian Hobby">Eurasian Hobby</a> (<i>Falco subbuteo</i>), and like other birds is affected by internal <a href="/wiki/Parasite" title="Parasite" class="mw-redirect">parasites</a> and external fleas and mites, but its large range and population mean that it is not threatened globally.<sup id="cite_ref-BirdLife_3-0" class="reference"><a href="#cite_note-BirdLife-3"><span>[</span>4<span>]</span></a></sup> Its proximity to man is generally accepted leading to some cultural and literary references.<sup id="cite_ref-Turner_2-2" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Cooper92_4-0" class="reference"><a href="#cite_note-Cooper92-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Cocker_5-0" class="reference"><a href="#cite_note-Cocker-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-martlet_6-0" class="reference"><a href="#cite_note-martlet-6"><span>[</span>7<span>]</span></a></sup></p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour"><span class="tocnumber">4</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Breeding"><span class="tocnumber">4.1</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Diet"><span class="tocnumber">4.2</span> <span class="toctext">Diet</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Predators_and_parasites"><span class="tocnumber">4.3</span> <span class="toctext">Predators and parasites</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Conservation_status"><span class="tocnumber">5</span> <span class="toctext">Conservation status</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#In_literature_and_culture"><span class="tocnumber">6</span> <span class="toctext">In literature and culture</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<p>The Common House Martin was first described by <a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a> in his <i><a href="/wiki/Systema_Naturae" title="Systema Naturae">Systema Naturae</a></i> in 1758 as <i>Hirundo urbica</i>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> but was placed in its current genus <i>Delichon</i> by <a href="/wiki/Thomas_Horsfield" title="Thomas Horsfield">Thomas Horsfield</a> and <a href="/wiki/Frederic_Moore" title="Frederic Moore">Frederic Moore</a> in 1854.<sup id="cite_ref-ITIS_8-0" class="reference"><a href="#cite_note-ITIS-8"><span>[</span>9<span>]</span></a></sup> <i>Delichon</i> is an <a href="/wiki/Anagram" title="Anagram">anagram</a> of the <a href="/wiki/Ancient_Greek_language" title="Ancient Greek language" class="mw-redirect">Ancient Greek</a> term <i>χελιδών</i> (<i>chelīdōn</i>), meaning 'swallow',<sup id="cite_ref-BTO_bird_facts_9-0" class="reference"><a href="#cite_note-BTO_bird_facts-9"><span>[</span>10<span>]</span></a></sup> and the species name <i>urbicum</i> (<i>urbica</i> until 2004, due to a misunderstanding of Latin grammar) means 'of the town' in <a href="/wiki/Latin" title="Latin">Latin</a>.<sup id="cite_ref-Sangster_10-0" class="reference"><a href="#cite_note-Sangster-10"><span>[</span>11<span>]</span></a></sup></p>
+<p>The <i><a href="/wiki/Delichon" title="Delichon">Delichon</a></i> genus is a recent divergence from the <a href="/wiki/Barn_Swallow" title="Barn Swallow">Barn Swallow</a> genus <i><a href="/wiki/Hirundo" title="Hirundo">Hirundo</a></i>, and its three members are similar in appearance with blue upperparts, a contrasting white-rump, and whitish underparts. In the past, the Common House Martin was sometimes considered to be conspecific with the <a href="/wiki/Asian_House_Martin" title="Asian House Martin">Asian House Martin</a> (<i>D. dasypus</i>), which breeds in the mountains of central and eastern Asia and winters in <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>, and it also closely resembles the <a href="/wiki/Nepal_House_Martin" title="Nepal House Martin">Nepal House Martin</a> (<i>D. nipalense</i>), a resident in the mountains of southern Asia. Although the three <i>Delichon</i> martins are similar in appearance, only <i>D. urbicum</i> has a pure white rump and underparts.<sup id="cite_ref-Turner_2-3" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The Common House Martin has two geographical <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>, the western <a href="/wiki/Subspecies#Nomenclature" title="Subspecies">nominate subspecies</a> <i>D. u. urbicum</i>, and the eastern <i>D. u. lagopodum</i>, which was described by <a href="/wiki/Germany" title="Germany">German</a> <a href="/wiki/Zoology" title="Zoology">zoologist</a> <a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Peter Simon Pallas</a> in 1811. Other races, like <i>meridionalis</i> from around the <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> have been described, but the claimed differences from the nominate race are <a href="/wiki/Cline_(population_genetics)" title="Cline (population genetics)" class="mw-redirect">clinal</a>, and therefore probably invalid.<sup id="cite_ref-Turner_2-4" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<p>The adult Common House Martin of the western nominate race is 13&#160;centimetres (5.1&#160;in) long, with a wing span of 26–29&#160;centimetres (10.2–11.4&#160;in) and a weight averaging 18.3&#160;grammes (0.65&#160;oz). It is steel-blue above with a white rump, and white underparts, including the underwings; even its short legs have white downy feathering. It has brown eyes and a small black bill, and its toes and exposed parts of the legs are pink. The sexes are similar, but the juvenile bird is sooty black, and some of its wing <a href="/wiki/Covert_(feather)" title="Covert (feather)" class="mw-redirect">coverts</a> and quills have white tips and edgings. <i>D. u. lagopodum</i> differs from the nominate race in that its white rump extends much further onto the tail, and the fork of its tail is intermediate in depth between that of <i>D. u. urbicum</i> and that of the Asian House Martin.<sup id="cite_ref-Turner_2-5" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The white rump and underparts of the Common House Martin, very noticeable in flight, prevent confusion with other widespread <a href="/wiki/Palearctic_ecozone" title="Palearctic ecozone">Palaeoarctic</a> swallows such as the Barn Swallow (<i>Hirundo rustica</i>), <a href="/wiki/Sand_Martin" title="Sand Martin">Sand Martin</a> (<i>Riparia riparia</i>) or <a href="/wiki/Red-rumped_Swallow" title="Red-rumped Swallow">Red-rumped Swallow</a> (<i>Cecropis daurica</i>). In Africa, confusion with <a href="/wiki/Grey-rumped_Swallow" title="Grey-rumped Swallow">Grey-rumped Swallow</a> (<i>Pseudhirundo griseopyga</i>) is possible, but that species has a grey rump, off-white underparts and long, deeply forked tail.<sup id="cite_ref-Turner_2-6" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> The Common House Martin flies with a wing beat averaging 5.3&#160;beats per second, which is faster than the wing beat of 4.4&#160;beats per second for the Barn Swallow,<sup id="cite_ref-flight_11-0" class="reference"><a href="#cite_note-flight-11"><span>[</span>12<span>]</span></a></sup> but the flight speed of 11&#160;m•s<sup>−1</sup> (36&#160;ft•s<sup>−1</sup>) is typical for hirundines.<sup id="cite_ref-bruderer_12-0" class="reference"><a href="#cite_note-bruderer-12"><span>[</span>13<span>]</span></a></sup></p>
+<p>The Common House Martin is a noisy species, especially at its breeding colonies. The male's song, given throughout the year, is a soft twitter of melodious chirps. The contact call, also given on the wintering grounds, is a hard <i>chirrrp</i>, and the alarm is a shrill <i>tseep</i>.<sup id="cite_ref-BWP_0-1" class="reference"><a href="#cite_note-BWP-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-SASOL_13-0" class="reference"><a href="#cite_note-SASOL-13"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Delichon_urbica_NRM.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Delichon_urbica_NRM.jpg/220px-Delichon_urbica_NRM.jpg" width="220" height="244" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Delichon_urbica_NRM.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+At an official <a href="/wiki/Bird_ringing" title="Bird ringing">bird ringing</a> station</div>
+</div>
+</div>
+<p>The subspecies <i>D. u. urbicum</i> breeds across temperate <a href="/wiki/Eurasia" title="Eurasia">Eurasia</a> east to central Mongolia and the <a href="/wiki/Yenisei_River" title="Yenisei River">Yenisei River</a>, and in Morocco, Tunisia and northern Algeria,<sup id="cite_ref-BWP_0-2" class="reference"><a href="#cite_note-BWP-0"><span>[</span>1<span>]</span></a></sup> and migrates on a broad front to winter in <a href="/wiki/Sahara" title="Sahara">sub-Saharan</a> Africa. <i>D. u. lagopodum</i> breeds eastwards of the Yenisei to <a href="/wiki/Kolyma" title="Kolyma">Kolyma</a> and south to northern Mongolia and northern China; it winters in southern China and <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>.<sup id="cite_ref-Turner_2-7" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>The preferred habitat of the Common House Martin is open country with low vegetation, such as pasture, meadows and farmland, and preferably near water, although it is also found in mountains up to at least 2,200&#160;metres (7,200&#160;ft) altitude.<sup id="cite_ref-BWP_0-3" class="reference"><a href="#cite_note-BWP-0"><span>[</span>1<span>]</span></a></sup> It is much more urban than the Barn Swallow, and will nest even in city centres if the air is clean enough.<sup id="cite_ref-BWP_0-4" class="reference"><a href="#cite_note-BWP-0"><span>[</span>1<span>]</span></a></sup> It is more likely to be found near trees than other Eurasian swallows, since they provide insect food and also roosting sites. This species does not normally use the reed-bed roosts favoured by migrating Barn Swallows.<sup id="cite_ref-Mullarney_14-0" class="reference"><a href="#cite_note-Mullarney-14"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-Euring_15-0" class="reference"><a href="#cite_note-Euring-15"><span>[</span>16<span>]</span></a></sup></p>
+<p>It uses similar open habitats on the wintering grounds, but the Common House Martin is less conspicuous than wintering Barn Swallows, tending to fly higher and be more nomadic. In the tropical parts of its wintering range, like <a href="/wiki/East_Africa" title="East Africa">East Africa</a> and <a href="/wiki/Thailand" title="Thailand">Thailand</a>, it appears to be mainly found in the higher areas.<sup id="cite_ref-Turner_2-8" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Lekagul_16-0" class="reference"><a href="#cite_note-Lekagul-16"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-Robson_17-0" class="reference"><a href="#cite_note-Robson-17"><span>[</span>18<span>]</span></a></sup></p>
+<p>The Common House Martin is a <a href="/wiki/Bird_migration" title="Bird migration">migrant</a> which moves on a broad-front (i.e. European birds are not funnelled through the short sea crossings used by large soaring birds, but cross the Mediterranean and <a href="/wiki/Sahara" title="Sahara">Sahara</a>).<sup id="cite_ref-Gordo_18-0" class="reference"><a href="#cite_note-Gordo-18"><span>[</span>19<span>]</span></a></sup> While migrating they feed in the air on insects,<sup id="cite_ref-Turner_2-9" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> and they generally travel in daylight, although some birds may move at night.<sup id="cite_ref-poster_19-0" class="reference"><a href="#cite_note-poster-19"><span>[</span>20<span>]</span></a></sup> Migration brings its own hazards; in 1974, several hundred thousand birds of this species were found dead or dying in the <a href="/wiki/Swiss_Alps" title="Swiss Alps">Swiss Alps</a> and surrounding areas, caught by heavy snowfall and low temperatures. Adult survival on autumn migration depends mainly on temperature, with precipitation another major factor, but for juveniles low temperatures during the breeding season are more critical.<sup id="cite_ref-Stokke_20-0" class="reference"><a href="#cite_note-Stokke-20"><span>[</span>21<span>]</span></a></sup> It is anticipated that since extreme weather is predicted to become more frequent with <a href="/wiki/Climate_change" title="Climate change">climate change</a>, future survival rates will depend more on adverse weather conditions than at present.<sup id="cite_ref-Stokke_20-1" class="reference"><a href="#cite_note-Stokke-20"><span>[</span>21<span>]</span></a></sup></p>
+<p>The Common House Martin returns to the breeding grounds a few days after the first Barn Swallows; like that species, particularly when the weather is poor, it seldom goes straight to the nesting sites, but hunts for food over large fresh water bodies.<sup id="cite_ref-Coward_21-0" class="reference"><a href="#cite_note-Coward-21"><span>[</span>22<span>]</span></a></sup> There are records of migrant House Martins staying to breed in Namibia and South Africa instead of returning north.<sup id="cite_ref-SASOL_13-1" class="reference"><a href="#cite_note-SASOL-13"><span>[</span>14<span>]</span></a></sup> As would be expected for a long distance migrant, it has occurred as a vagrant eastwards to <a href="/wiki/Alaska" title="Alaska">Alaska</a> and west to <a href="/wiki/Newfoundland_(island)" title="Newfoundland (island)">Newfoundland</a>, Bermuda and the <a href="/wiki/Azores" title="Azores">Azores</a>.<sup id="cite_ref-Turner_2-10" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Sibley_22-0" class="reference"><a href="#cite_note-Sibley-22"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=4" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=5" title="Edit section: Breeding">edit</a>]</span> <span class="mw-headline" id="Breeding">Breeding</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Delichon_urbicum_-Midtjylland,_Denmark-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Delichon_urbicum_-Midtjylland%2C_Denmark-8.jpg/220px-Delichon_urbicum_-Midtjylland%2C_Denmark-8.jpg" width="220" height="126" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Delichon_urbicum_-Midtjylland,_Denmark-8.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Collecting mud for nests in Denmark</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Delichon_urbicum_MHNT.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Delichon_urbicum_MHNT.jpg/220px-Delichon_urbicum_MHNT.jpg" width="220" height="131" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Delichon_urbicum_MHNT.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<i>Delichon urbicum</i> – <a href="/wiki/MHNT" title="MHNT" class="mw-redirect">MHNT</a></div>
+</div>
+</div>
+<p>The Common House Martin was originally a cliff and cave nester, and some cliff-nesting colonies still exist, with the nests built below an overhanging rock. It now largely uses human structures such as bridges and houses. Unlike the Barn Swallow, it uses the outside of inhabited buildings, rather than the inside of barns or stables. The nests are built at the junction of a vertical surface and an overhang, such as on house eaves, so that they may be strengthened by attachment to both planes.<sup id="cite_ref-Turner_2-11" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>Breeding birds return to Europe between April and May, and nest building starts between late March in North Africa and mid-June in <a href="/wiki/S%C3%A1pmi_(area)" title="Sápmi (area)">Lapland</a>. The nest is a neat closed convex cup fixed below a suitable ledge, with a narrow opening at the top. It is constructed by both sexes with mud pellets collected in their beaks, and lined with grasses, hair or other soft materials. The mud, added in successive layers, is collected from ponds, streams or puddles.<sup id="cite_ref-Turner_2-12" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> <a href="/wiki/House_Sparrow" title="House Sparrow">House Sparrows</a> frequently attempt to take over the nest during construction, with the House Martins rebuilding elsewhere if they are successful. The entrance at the top of the cup is so small once it is complete that sparrows cannot take over the nest.<sup id="cite_ref-Coward_21-1" class="reference"><a href="#cite_note-Coward-21"><span>[</span>22<span>]</span></a></sup></p>
+<p>The Common House Martin tends to breed colonially, and nests may be built in contact with each other. A <a href="/wiki/Group_size_measures" title="Group size measures">colony size</a> of less than 10 nests is typical, but there are records of colonies with thousands of nests. Four or five white eggs are usually laid, which average 1.9&#160;x&#160;1.33&#160;centimetres (0.75&#160;x&#160;0.52&#160;in) in size, and weigh 1.7&#160;grammes (0.06&#160;oz). The female does most of the incubation, which normally lasts 14–16 days. The newly hatched chicks are <a href="/wiki/Altricial" title="Altricial">altricial</a>, and after a further 22–32 days, depending on weather, the chicks leave the nest. The fledged young stay with, and are fed by, the parents for about a week after leaving the nest. Occasionally, first-year birds from the first brood will assist in feeding the second brood.<sup id="cite_ref-Turner_2-13" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>There are normally two broods each year, the nest being reused for the second brood, and repaired and used again in subsequent years. Hatching success is 90%, and fledging survival 60–80%. Third broods are not uncommon, though late nestlings are often left to starve. The average annual mortality for adults nesting in the <a href="/wiki/Palearctic_ecozone" title="Palearctic ecozone">Western Palaearctic</a> is 40–60%, with most deaths outside the breeding season.<sup id="cite_ref-Turner_2-14" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> A study of British breeders gave an average adult survival rate of just under 40%, but ranging from 25% to 70%. Rainfall in the African wintering grounds is a major factor in adult survival, although wet weather in the breeding areas has very little effect.<sup id="cite_ref-Ringing_23-0" class="reference"><a href="#cite_note-Ringing-23"><span>[</span>24<span>]</span></a></sup> Although individuals aged 10 and 14 years have been recorded, most survive less than five years.<sup id="cite_ref-Turner_2-15" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> For weeks after leaving the nest the young congregate in ever-increasing flocks which, as the season advances, may be seen gathering in trees or on housetops, or on the wires with Swallows. By the end of October, most Martins have left their breeding areas in western and central Europe, though late birds in November and December are not uncommon, and further south migration finishes later anyway.<sup id="cite_ref-Turner_2-16" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>Once established, pairs remain together to breed for life; however, extra-pair copulations are common, making this species genetically polygamous, despite being socially monogamous. A <a href="/wiki/Scotland" title="Scotland">Scottish</a> study showed that 15% of nestlings were not related to their putative fathers, and 32% of broods contained at least one extra-pair chick. Extra-pair males, usually from nests where laying had already taken place, were often seen to enter other nests. The paired male initially ensured that his female spent little time alone at the nest, and accompanied her on flights, but the mate-guarding slackened after egg laying began, so the youngest nestling was the most likely to have a different father.<sup id="cite_ref-Riley_24-0" class="reference"><a href="#cite_note-Riley-24"><span>[</span>25<span>]</span></a></sup></p>
+<p>The Common House Martin has been regularly recorded as hybridising with the Barn Swallow, this being one of the most common passerine interspecific crosses.<sup id="cite_ref-Moller_25-0" class="reference"><a href="#cite_note-Moller-25"><span>[</span>26<span>]</span></a></sup> The frequency of this hybrid has led to suggestions that <i>Delichon</i> is not sufficiently separated genetically from <i>Hirundo</i> to be considered a separate genus.<sup id="cite_ref-Turner_2-17" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=6" title="Edit section: Diet">edit</a>]</span> <span class="mw-headline" id="Diet">Diet</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Zwei_Jungschwalben_im_Nest.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zwei_Jungschwalben_im_Nest.jpg/220px-Zwei_Jungschwalben_im_Nest.jpg" width="220" height="231" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Zwei_Jungschwalben_im_Nest.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nest with chicks</div>
+</div>
+</div>
+<p>The Common House Martin is similar in habits to other aerial <a href="/wiki/Insectivore" title="Insectivore">insectivores</a>, including other swallows and martins and the unrelated <a href="/wiki/Swift" title="Swift">swifts</a>, and catches insects in flight.<sup id="cite_ref-Turner_2-18" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> In the breeding areas, <a href="/wiki/Fly" title="Fly">flies</a> and <a href="/wiki/Aphid" title="Aphid">aphids</a> make up much of the diet, and in Europe, the House Martin takes a larger proportion of aphids and small flies than the Barn Swallow.<sup id="cite_ref-Turner_2-19" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> As with that species, <a href="/wiki/Hymenoptera" title="Hymenoptera">Hymenoptera</a>, especially flying <a href="/wiki/Ant" title="Ant">ants</a>, are important food items in the wintering area.<sup id="cite_ref-Turner_2-20" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<p>This species hunts at an average height of 21&#160;metres (70&#160;ft) during the breeding season, but lower in wet conditions.<sup id="cite_ref-Turner_2-21" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> The hunting grounds are typically within 450&#160;metres (1,500&#160;ft) of the nest, with a preference for open ground or water, the latter especially in poor weather, but the martins will also follow the plough or large animals to catch disturbed insects. On the wintering grounds, hunting takes place at a greater height of over 50&#160;metres (165&#160;ft).<sup id="cite_ref-Turner_2-22" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=7" title="Edit section: Predators and parasites">edit</a>]</span> <span class="mw-headline" id="Predators_and_parasites">Predators and parasites</span></h3>
+<p>Although the Common House Martin is hunted by the <a href="/wiki/Eurasian_Hobby" title="Eurasian Hobby">Hobby</a> (<i><a href="/wiki/Falco_subbuteo" title="Falco subbuteo" class="mw-redirect">Falco subbuteo</a></i>), its aerial skills enable it to evade most predators.<sup id="cite_ref-Mullarney_14-1" class="reference"><a href="#cite_note-Mullarney-14"><span>[</span>15<span>]</span></a></sup> It is most vulnerable when collecting mud from the ground. This has therefore become a communal activity, with a group of birds descending suddenly on a patch of mud.<sup id="cite_ref-birdguides_26-0" class="reference"><a href="#cite_note-birdguides-26"><span>[</span>27<span>]</span></a></sup></p>
+<p>It is parasitised externally by <a href="/wiki/Fleas" title="Fleas" class="mw-redirect">fleas</a> and <a href="/wiki/Mites" title="Mites" class="mw-redirect">mites</a>, including the "House Martin Flea", <i><a href="/w/index.php?title=Ceratophyllus_hirundinis&amp;action=edit&amp;redlink=1" class="new" title="Ceratophyllus hirundinis (page does not exist)">Ceratophyllus hirundinis</a></i>,<sup id="cite_ref-NHM_27-0" class="reference"><a href="#cite_note-NHM-27"><span>[</span>28<span>]</span></a></sup> and internally by <a href="/wiki/Endoparasites" title="Endoparasites" class="mw-redirect">endoparasites</a> such as <i><a href="/w/index.php?title=Haemoproteus_prognei&amp;action=edit&amp;redlink=1" class="new" title="Haemoproteus prognei (page does not exist)">Haemoproteus prognei</a></i> (avian <a href="/wiki/Malaria" title="Malaria">malaria</a>), which are transmitted by blood-sucking insects including mosquitoes.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-Marzal_29-0" class="reference"><a href="#cite_note-Marzal-29"><span>[</span>30<span>]</span></a></sup> A Polish study showed that nests typically contained more than 29 specimens of ectoparasite, with <i>C. hirundinis</i> and <i><a href="/w/index.php?title=Oeciacus_hirundinis&amp;action=edit&amp;redlink=1" class="new" title="Oeciacus hirundinis (page does not exist)">Oeciacus hirundinis</a></i> the most abundant.<sup id="cite_ref-Kaczmarek_30-0" class="reference"><a href="#cite_note-Kaczmarek-30"><span>[</span>31<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=8" title="Edit section: Conservation status">edit</a>]</span> <span class="mw-headline" id="Conservation_status">Conservation status</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Delichon_urbicum_(Adrian_Benko).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Delichon_urbicum_%28Adrian_Benko%29.jpg/220px-Delichon_urbicum_%28Adrian_Benko%29.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Delichon_urbicum_(Adrian_Benko).jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Nest with board to prevent fouling below.</div>
+</div>
+</div>
+<p>The Common House Martin has a large range, with an estimated global extent of 10&#160;million&#160;square&#160;kilometres.<sup id="cite_ref-BirdLife_3-1" class="reference"><a href="#cite_note-BirdLife-3"><span>[</span>4<span>]</span></a></sup> Its European population is estimated to be 20–48 million individuals. Global population trends have not been quantified, although there is evidence of population fluctuations.<sup id="cite_ref-BWP_0-5" class="reference"><a href="#cite_note-BWP-0"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Turner_2-23" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> For these reasons, the species is evaluated as "least concern" on the IUCN Red List,<sup id="cite_ref-IUCN2012_1-1" class="reference"><a href="#cite_note-IUCN2012-1"><span>[</span>2<span>]</span></a></sup> and has no special status under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (<a href="/wiki/CITES" title="CITES">CITES</a>) which regulates international trade in specimens of wild animals and plants. In Europe and Britain however, population numbers indicate a declining trend,<sup id="cite_ref-BTO_bird_facts_9-1" class="reference"><a href="#cite_note-BTO_bird_facts-9"><span>[</span>10<span>]</span></a></sup> and leading conservation groups in Britain have updated the conservations status to amber indicating medium conservation concern there.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>32<span>]</span></a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>33<span>]</span></a></sup></p>
+<p>This is a species which has greatly benefited historically from forest clearance creating the open habitats it prefers, and from human habitation which has given it an abundance of safe man-made nest sites.<sup id="cite_ref-Turner_2-24" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> However, populations can fluctuate locally for a number of reasons.<sup id="cite_ref-Turner_2-25" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> New housing has created more nest sites, and clean air legislation has enabled breeding in the centre of major cities like <a href="/wiki/London" title="London">London</a>.<sup id="cite_ref-Turner_2-26" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> The population of House Martins in Sheffield, central UK, has been estimated at 12,353 individuals.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>34<span>]</span></a></sup> Conversely, poor weather, poisoning by agricultural pesticides, lack of mud for nest building and competition with House Sparrows can reduce numbers.<sup id="cite_ref-Turner_2-27" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup> Widespread declines in Common House Martin numbers have been reported from central and northern Europe since 1970.<sup id="cite_ref-rspb_34-0" class="reference"><a href="#cite_note-rspb-34"><span>[</span>35<span>]</span></a></sup> As an attractive bird which feeds on flying insects, the House Martin has usually been tolerated by humans when it shares their buildings for nesting, although the accumulation of droppings below breeding birds can be a nuisance leading to some destruction of nests.<sup id="cite_ref-Turner_2-28" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=9" title="Edit section: In literature and culture">edit</a>]</span> <span class="mw-headline" id="In_literature_and_culture">In literature and culture</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/w/index.php?title=File:Royal_Arms_of_England_(1395-1399).svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Royal_Arms_of_England_%281395-1399%29.svg/220px-Royal_Arms_of_England_%281395-1399%29.svg.png" width="220" height="256" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Royal_Arms_of_England_(1395-1399).svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Coat of arms of <a href="/wiki/Richard_II_of_England" title="Richard II of England">Richard II</a> featuring five martlets</div>
+</div>
+</div>
+<p>This species lacks the wealth of literary references associated with its relative, the Barn Swallow, although it is possible that some of the older mentions for that bird might equally well refer to the House Martin.<sup id="cite_ref-Cocker_5-1" class="reference"><a href="#cite_note-Cocker-5"><span>[</span>6<span>]</span></a></sup> <a href="/wiki/William_Shakespeare" title="William Shakespeare">William Shakespeare</a> was clearly describing the House Martin when <a href="/wiki/Banquo" title="Banquo">Banquo</a> brings the nests and birds to the attention of <a href="/wiki/Duncan_I_of_Scotland" title="Duncan I of Scotland">Duncan</a> at Macbeth's castle, <a href="/wiki/Inverness" title="Inverness">Inverness</a>:</p>
+<blockquote>
+<p>"This guest of summer,<br />
+The temple-haunting martlet, does approve<br />
+By his loved mansionry that the heaven's breath<br />
+Smells wooingly here. No jutty, frieze,<br />
+Buttress, nor coign of vantage, but this bird<br />
+Hath made his pendant bed and procreant cradle;<br />
+Where they most breed and haunt, I have observed<br />
+The air is delicate." (<a href="/wiki/Macbeth" title="Macbeth">Macbeth</a>, Act I, scene VI).<sup id="cite_ref-Cocker_5-2" class="reference"><a href="#cite_note-Cocker-5"><span>[</span>6<span>]</span></a></sup></p>
+</blockquote>
+<p>There are old legends, with no basis in fact, that House Martins would wall-up House Sparrows by closing the entrance of the mud nest with the intruder inside, or that they would gather en masse to kill a Sparrow.<sup id="cite_ref-Cocker_5-3" class="reference"><a href="#cite_note-Cocker-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Martlet" title="Martlet">martlet</a>, often believed to refer to the House Martin, or possibly a swallow, was a <a href="/wiki/Heraldry" title="Heraldry">heraldic</a> bird with short tufts of feathers in the place of legs.<sup id="cite_ref-Macbeth_35-0" class="reference"><a href="#cite_note-Macbeth-35"><span>[</span>36<span>]</span></a></sup> It was the <a href="/wiki/Cadency" title="Cadency">cadency</a> mark of the fourth son of a noble family, and features in many <a href="/wiki/Coat_of_arms" title="Coat of arms">coats of arms</a>, including the <a href="/wiki/House_of_Plantagenet" title="House of Plantagenet">Plantagenets</a>.<sup id="cite_ref-martlet_6-1" class="reference"><a href="#cite_note-martlet-6"><span>[</span>7<span>]</span></a></sup> The lack of feet signified its inability to land, which explained its link to a younger son, also landless. It also represented swiftness.<sup id="cite_ref-Cooper92_4-1" class="reference"><a href="#cite_note-Cooper92-4"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=10" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-BWP-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-BWP_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BWP_0-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BWP_0-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BWP_0-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BWP_0-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BWP_0-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Snow, David; Perrins, Christopher M (editors) (1998). <i>The Birds of the Western Palearctic concise edition (2 volumes)</i>. Oxford: Oxford University Press. pp.&#160;1066–1069. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-854099-X" title="Special:BookSources/0-19-854099-X">0-19-854099-X</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+Western+Palearctic+concise+edition+%282+volumes%29&amp;rft.aulast=Snow&amp;rft.aufirst=David&amp;rft.au=Snow%2C%26%2332%3BDavid&amp;rft.date=1998&amp;rft.pages=pp.%26nbsp%3B1066%E2%80%931069&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-854099-X&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-IUCN2012-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106007150">"<i>Delichon urbicum</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106007150">http://www.iucnredlist.org/apps/redlist/details/106007150</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Delichon+urbicum%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106007150&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Turner-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Turner_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Turner_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Turner_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Turner_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Turner_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Turner_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Turner_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Turner_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Turner_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Turner_2-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Turner_2-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Turner_2-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Turner_2-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Turner_2-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Turner_2-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Turner_2-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-Turner_2-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-Turner_2-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-Turner_2-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-Turner_2-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-Turner_2-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-Turner_2-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-Turner_2-22"><sup><i><b>w</b></i></sup></a> <a href="#cite_ref-Turner_2-23"><sup><i><b>x</b></i></sup></a> <a href="#cite_ref-Turner_2-24"><sup><i><b>y</b></i></sup></a> <a href="#cite_ref-Turner_2-25"><sup><i><b>z</b></i></sup></a> <a href="#cite_ref-Turner_2-26"><sup><i><b>aa</b></i></sup></a> <a href="#cite_ref-Turner_2-27"><sup><i><b>ab</b></i></sup></a> <a href="#cite_ref-Turner_2-28"><sup><i><b>ac</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Turner, Angela K; Rose, Chris (1989). <i>Swallows &amp; Martins: an identification guide and handbook</i>. Boston, Massachusetts, US: Houghton Mifflin. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-395-51174-7" title="Special:BookSources/0-395-51174-7">0-395-51174-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Swallows+%26+Martins%3A+an+identification+guide+and+handbook&amp;rft.aulast=Turner&amp;rft.aufirst=Angela+K&amp;rft.au=Turner%2C%26%2332%3BAngela+K&amp;rft.date=1989&amp;rft.place=Boston%2C+Massachusetts%2C+US&amp;rft.pub=Houghton+Mifflin&amp;rft.isbn=0-395-51174-7&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span> pp226–233</span></li>
+<li id="cite_note-BirdLife-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-BirdLife_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BirdLife_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=7150&amp;m=0">"Northern House-martin – BirdLife Species Factsheet"</a>. BirdLife International<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=7150&amp;m=0">http://www.birdlife.org/datazone/species/index.html?action=SpcHTMDetails.asp&amp;sid=7150&amp;m=0</a></span><span class="reference-accessdate">. Retrieved 2007-11-15</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Northern+House-martin+%E2%80%93+BirdLife+Species+Factsheet&amp;rft.atitle=&amp;rft.pub=BirdLife+International&amp;rft_id=http%3A%2F%2Fwww.birdlife.org%2Fdatazone%2Fspecies%2Findex.html%3Faction%3DSpcHTMDetails.asp%26sid%3D7150%26m%3D0&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Cooper92-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cooper92_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cooper92_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Cooper, JC (1992). <i>Symbolic and Mythological Animals</i>. London: Aquarian Press. p.&#160;158. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85538-118-4" title="Special:BookSources/1-85538-118-4">1-85538-118-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Symbolic+and+Mythological+Animals&amp;rft.aulast=Cooper&amp;rft.aufirst=JC&amp;rft.au=Cooper%2C%26%2332%3BJC&amp;rft.date=1992&amp;rft.pages=p.%26nbsp%3B158&amp;rft.place=London&amp;rft.pub=Aquarian+Press&amp;rft.isbn=1-85538-118-4&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Cocker-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cocker_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cocker_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Cocker_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Cocker_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Cocker, Mark; Mabey, Richard (2005). <i>Birds Britannica</i>. Chatto &amp; Windus. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7011-6907-9" title="Special:BookSources/0-7011-6907-9">0-7011-6907-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+Britannica&amp;rft.aulast=Cocker&amp;rft.aufirst=Mark&amp;rft.au=Cocker%2C%26%2332%3BMark&amp;rft.date=2005&amp;rft.pub=Chatto+%26+Windus&amp;rft.isbn=0-7011-6907-9&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span> pp318–9</span></li>
+<li id="cite_note-martlet-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-martlet_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-martlet_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.baronage.co.uk/1999/corner01.html">"Curiosity Corner"</a>. Baronage.co.uk<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.baronage.co.uk/1999/corner01.html">http://www.baronage.co.uk/1999/corner01.html</a></span><span class="reference-accessdate">. Retrieved 27 January 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Curiosity+Corner&amp;rft.atitle=&amp;rft.pub=Baronage.co.uk&amp;rft_id=http%3A%2F%2Fwww.baronage.co.uk%2F1999%2Fcorner01.html&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus, C</a> (1758) (in Latin). <i>Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata.</i>. Holmiae. (Laurentii Salvii).. p.&#160;192. "H. rectricibus immaculatis, dorso nîgro-caerulescente"</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Systema+naturae+per+regna+tria+naturae%2C+secundum+classes%2C+ordines%2C+genera%2C+species%2C+cum+characteribus%2C+differentiis%2C+synonymis%2C+locis.+Tomus+I.+Editio+decima%2C+reformata.&amp;rft.aulast=Linnaeus&amp;rft.aufirst=C&amp;rft.au=Linnaeus%2C%26%2332%3BC&amp;rft.date=1758&amp;rft.pages=p.%26nbsp%3B192&amp;rft.pub=Holmiae.+%28Laurentii+Salvii%29.&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-ITIS-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-ITIS_8-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=178444">"ITIS Standard Report Page: <i>Delichon</i>"</a>. The Integrated Taxonomic Information System (ITIS)<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=178444">http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=178444</a></span><span class="reference-accessdate">. Retrieved 2008-01-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=ITIS+Standard+Report+Page%3A+%27%27Delichon%27%27&amp;rft.atitle=&amp;rft.pub=The+Integrated+Taxonomic+Information+System+%28ITIS%29&amp;rft_id=http%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D178444&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-BTO_bird_facts-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-BTO_bird_facts_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BTO_bird_facts_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob10010.htm">"House Martin <i>Delichon urbicum</i> (Linnaeus, 1758)"</a>. <i>Bird facts</i>. British Trust for Ornithology<span class="printonly">. <a rel="nofollow" class="external free" href="http://blx1.bto.org/birdfacts/results/bob10010.htm">http://blx1.bto.org/birdfacts/results/bob10010.htm</a></span><span class="reference-accessdate">. Retrieved 2008-01-24</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=House+Martin+%27%27Delichon+urbicum%27%27+%28Linnaeus%2C+1758%29&amp;rft.atitle=Bird+facts&amp;rft.pub=British+Trust+for+Ornithology&amp;rft_id=http%3A%2F%2Fblx1.bto.org%2Fbirdfacts%2Fresults%2Fbob10010.htm&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Sangster-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sangster_10-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Sangster, George; Collinson, J. Martin; Helbig, Andreas J; Knox, Alan G; Parkin, David T. (2004). <a rel="nofollow" class="external text" href="http://www.bou.org.uk/blchanges031218.pdf">"Taxonomic recommendations for British birds: second report"</a>. <i>Ibis</i> <b>146</b>: 153–157<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bou.org.uk/blchanges031218.pdf">http://www.bou.org.uk/blchanges031218.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Taxonomic+recommendations+for+British+birds%3A+second+report&amp;rft.jtitle=Ibis&amp;rft.aulast=Sangster%2C+George%3B+Collinson%2C+J.+Martin%3B+Helbig%2C+Andreas+J%3B+Knox%2C+Alan+G%3B+Parkin%2C+David+T.&amp;rft.au=Sangster%2C+George%3B+Collinson%2C+J.+Martin%3B+Helbig%2C+Andreas+J%3B+Knox%2C+Alan+G%3B+Parkin%2C+David+T.&amp;rft.date=2004&amp;rft.volume=146&amp;rft.pages=153%E2%80%93157&amp;rft_id=http%3A%2F%2Fwww.bou.org.uk%2Fblchanges031218.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-flight-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-flight_11-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Liechti, Felix; Bruderer, Lukas (15 August 2002). <a rel="nofollow" class="external text" href="http://jeb.biologists.org/cgi/reprint/205/16/2461">"Wingbeat frequency of barn swallows and house martins: a comparison between free flight and wind tunnel experiments"</a>. <i>The Journal of Experimental Biology</i> (The Company of Biologists) <b>205</b> (16): 2461–2467. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12124369">12124369</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://jeb.biologists.org/cgi/reprint/205/16/2461">http://jeb.biologists.org/cgi/reprint/205/16/2461</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Wingbeat+frequency+of+barn+swallows+and+house+martins%3A+a+comparison+between+free+flight+and+wind+tunnel+experiments&amp;rft.jtitle=The+Journal+of+Experimental+Biology&amp;rft.aulast=Liechti&amp;rft.aufirst=Felix&amp;rft.au=Liechti%2C%26%2332%3BFelix&amp;rft.date=15+August+2002&amp;rft.volume=205&amp;rft.issue=16&amp;rft.pages=2461%E2%80%932467&amp;rft.pub=The+Company+of+Biologists&amp;rft_id=info:pmid/12124369&amp;rft_id=http%3A%2F%2Fjeb.biologists.org%2Fcgi%2Freprint%2F205%2F16%2F2461&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-bruderer-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-bruderer_12-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bruderer, Bruno; Boldt, Andreas (2001). <a rel="nofollow" class="external text" href="http://infonet.vogelwarte.ch/upload/08557238.PDF">"Flight characteristics of birds: 1. radar measurements of speeds"</a>. <i>Ibis</i> <b>143</b> (2): 178–204. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.2001.tb04475.x">10.1111/j.1474-919X.2001.tb04475.x</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://infonet.vogelwarte.ch/upload/08557238.PDF">http://infonet.vogelwarte.ch/upload/08557238.PDF</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Flight+characteristics+of+birds%3A+1.+radar+measurements+of+speeds&amp;rft.jtitle=Ibis&amp;rft.aulast=Bruderer&amp;rft.aufirst=Bruno&amp;rft.au=Bruderer%2C%26%2332%3BBruno&amp;rft.date=2001&amp;rft.volume=143&amp;rft.issue=2&amp;rft.pages=178%E2%80%93204&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.2001.tb04475.x&amp;rft_id=http%3A%2F%2Finfonet.vogelwarte.ch%2Fupload%2F08557238.PDF&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-SASOL-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-SASOL_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SASOL_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Sinclair, Ian; Hockey, Phil; Tarboton, Warwick (2002). <i>SASOL Birds of Southern Africa</i>. Struik. p.&#160;296. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-86872-721-1" title="Special:BookSources/1-86872-721-1">1-86872-721-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=SASOL+Birds+of+Southern+Africa&amp;rft.aulast=Sinclair&amp;rft.aufirst=Ian&amp;rft.au=Sinclair%2C%26%2332%3BIan&amp;rft.date=2002&amp;rft.pages=p.%26nbsp%3B296&amp;rft.pub=Struik&amp;rft.isbn=1-86872-721-1&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Mullarney-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mullarney_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mullarney_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Mullarney, Killian; Svensson, Lars; Zetterstrom, Dan; Grant, Peter (1999). <i><a href="/wiki/Collins_Bird_Guide" title="Collins Bird Guide">Collins Bird Guide</a></i>. Collins. p.&#160;242. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-00-219728-6" title="Special:BookSources/0-00-219728-6">0-00-219728-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%5B%5BCollins+Bird+Guide%5D%5D&amp;rft.aulast=Mullarney&amp;rft.aufirst=Killian&amp;rft.au=Mullarney%2C%26%2332%3BKillian&amp;rft.date=1999&amp;rft.pages=p.%26nbsp%3B242&amp;rft.pub=Collins&amp;rft.isbn=0-00-219728-6&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Euring-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Euring_15-0">^</a></b></span> <span class="reference-text"><span class="citation web">Pilastro, Andrea. <a rel="nofollow" class="external text" href="http://www.euring.org/about_euring/newsletter2/euring_swallows_italy.htm">"The Euring swallow project in Italy"</a>. <i>Euring Newsletter – Volume 2, December 1998</i>. Euring<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.euring.org/about_euring/newsletter2/euring_swallows_italy.htm">http://www.euring.org/about_euring/newsletter2/euring_swallows_italy.htm</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+Euring+swallow+project+in+Italy&amp;rft.atitle=Euring+Newsletter+%E2%80%93+Volume+2%2C+December+1998&amp;rft.aulast=Pilastro&amp;rft.aufirst=Andrea&amp;rft.au=Pilastro%2C%26%2332%3BAndrea&amp;rft.pub=Euring&amp;rft_id=http%3A%2F%2Fwww.euring.org%2Fabout_euring%2Fnewsletter2%2Feuring_swallows_italy.htm&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Lekagul-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lekagul_16-0">^</a></b></span> <span class="reference-text"><span class="citation book">Lekagul, Boonsong; Round, Philip (1991). <i>A Guide to the Birds of Thailand</i>. Saha Karn Baet. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/974-85673-6-2" title="Special:BookSources/974-85673-6-2">974-85673-6-2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Guide+to+the+Birds+of+Thailand&amp;rft.aulast=Lekagul&amp;rft.aufirst=Boonsong&amp;rft.au=Lekagul%2C%26%2332%3BBoonsong&amp;rft.date=1991&amp;rft.pub=Saha+Karn+Baet&amp;rft.isbn=974-85673-6-2&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span> p236</span></li>
+<li id="cite_note-Robson-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Robson_17-0">^</a></b></span> <span class="reference-text"><span class="citation book">Robson, Craig (2004). <i>A Field Guide to the Birds of Thailand</i>. New Holland Press. p.&#160;206. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-84330-921-1" title="Special:BookSources/1-84330-921-1">1-84330-921-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Field+Guide+to+the+Birds+of+Thailand&amp;rft.aulast=Robson&amp;rft.aufirst=Craig&amp;rft.au=Robson%2C%26%2332%3BCraig&amp;rft.date=2004&amp;rft.pages=p.%26nbsp%3B206&amp;rft.pub=New+Holland+Press&amp;rft.isbn=1-84330-921-1&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Gordo-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gordo_18-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Gordo, Oscar; Brotons ,Lluís; Ferrer, Xavier; Comas, Pere (January 2005). "Do changes in climate patterns in wintering areas affect the timing of the spring arrival of trans-Saharan migrant birds?". <i>Global Change Biology</i> <b>11</b> (1): 12–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1365-2486.2004.00875.x">10.1111/j.1365-2486.2004.00875.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Do+changes+in+climate+patterns+in+wintering+areas+affect+the+timing+of+the+spring+arrival+of+trans-Saharan+migrant+birds%3F&amp;rft.jtitle=Global+Change+Biology&amp;rft.aulast=Gordo&amp;rft.aufirst=Oscar&amp;rft.au=Gordo%2C%26%2332%3BOscar&amp;rft.date=January+2005&amp;rft.volume=11&amp;rft.issue=1&amp;rft.pages=12%E2%80%9321&amp;rft_id=info:doi/10.1111%2Fj.1365-2486.2004.00875.x&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-poster-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-poster_19-0">^</a></b></span> <span class="reference-text">Kube, Jan; Kjellén Nils; Bellebaum, Jochen; Klein, Ronald; Wendeln, Helmut: "<a rel="nofollow" class="external text" href="http://www.ifv-vogelwarte.de/files/ESF/ESF_final/Poster/Kube_Poster.pdf">How many diurnal migrants cross the Baltic Sea at night?</a>" <i>Instituts für Vogelforschung Poster.</i></span></li>
+<li id="cite_note-Stokke-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stokke_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stokke_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Stokke, Bård G; Møller, Anders Pape; Sæther, Bernt-Erik; Rheinwald, Goetz; Gutscher, Hans (April 2005). <a rel="nofollow" class="external text" href="http://www.bio.ntnu.no/svfelles/Stokke_et-al-Auk.pdf">"Weather in the breeding area and during migration affects the demography of a small long-distance passerine migrant"</a>. <i>The Auk</i> <b>122</b> (2): 637–647. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1642%2F0004-8038%282005%29122%5B0637%3AWITBAA%5D2.0.CO%3B2">10.1642/0004-8038(2005)122[0637:WITBAA]2.0.CO;2</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0004-8038">0004-8038</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bio.ntnu.no/svfelles/Stokke_et-al-Auk.pdf">http://www.bio.ntnu.no/svfelles/Stokke_et-al-Auk.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Weather+in+the+breeding+area+and+during+migration+affects+the+demography+of+a+small+long-distance+passerine+migrant&amp;rft.jtitle=The+Auk&amp;rft.aulast=Stokke&amp;rft.aufirst=B%C3%A5rd+G&amp;rft.au=Stokke%2C%26%2332%3BB%C3%A5rd+G&amp;rft.date=April+2005&amp;rft.volume=122&amp;rft.issue=2&amp;rft.pages=637%E2%80%93647&amp;rft_id=info:doi/10.1642%2F0004-8038%282005%29122%5B0637%3AWITBAA%5D2.0.CO%3B2&amp;rft.issn=0004-8038&amp;rft_id=http%3A%2F%2Fwww.bio.ntnu.no%2Fsvfelles%2FStokke_et-al-Auk.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Coward-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Coward_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Coward_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Coward, Thomas Alfred (1930). <i>The Birds of the British Isles and Their Eggs (two volumes)</i>. <b>2</b> (Third ed.). Frederick Warne. pp.&#160;252–254.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Birds+of+the+British+Isles+and+Their+Eggs+%28two+volumes%29&amp;rft.aulast=Coward&amp;rft.aufirst=Thomas+Alfred&amp;rft.au=Coward%2C%26%2332%3BThomas+Alfred&amp;rft.date=1930&amp;rft.volume=2&amp;rft.pages=pp.%26nbsp%3B252%E2%80%93254&amp;rft.edition=Third&amp;rft.pub=Frederick+Warne&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Sibley-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sibley_22-0">^</a></b></span> <span class="reference-text"><span class="citation book">Sibley, David (2000). <i>The North American Bird Guide</i>. Pica Press. p.&#160;322. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-873403-98-4" title="Special:BookSources/1-873403-98-4">1-873403-98-4</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+North+American+Bird+Guide&amp;rft.aulast=Sibley&amp;rft.aufirst=David&amp;rft.au=Sibley%2C%26%2332%3BDavid&amp;rft.date=2000&amp;rft.pages=p.%26nbsp%3B322&amp;rft.pub=Pica+Press&amp;rft.isbn=1-873403-98-4&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Ringing-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ringing_23-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Robinson, Robert A.; Balmer, Dawn E.; Marchant, John H. (2008). <a rel="nofollow" class="external text" href="http://www.bto.org/sites/default/files/u13/robinson.pdf">"Survival rates of hirundines in relation to British and African rainfall"</a>. <i>Ringing and Migration</i> <b>24</b>: 1–6<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bto.org/sites/default/files/u13/robinson.pdf">http://www.bto.org/sites/default/files/u13/robinson.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Survival+rates+of+hirundines+in+relation+to+British+and+African+rainfall&amp;rft.jtitle=Ringing+and+Migration&amp;rft.aulast=Robinson&amp;rft.aufirst=Robert+A.&amp;rft.au=Robinson%2C%26%2332%3BRobert+A.&amp;rft.date=2008&amp;rft.volume=24&amp;rft.pages=1%E2%80%936&amp;rft_id=http%3A%2F%2Fwww.bto.org%2Fsites%2Fdefault%2Ffiles%2Fu13%2Frobinson.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Riley-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Riley_24-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Riley, Helen T.; Bryant, David M.; Carter, Royston E.; Parkin, David T. (February 1995). "Extra-pair fertilizations and paternity defence in house martins, <i>Delichon urbica</i>". <i>Animal Behaviour</i> <b>49</b> (2): 495–509. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1006%2Fanbe.1995.0065">10.1006/anbe.1995.0065</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Extra-pair+fertilizations+and+paternity+defence+in+house+martins%2C+%27%27Delichon+urbica%27%27&amp;rft.jtitle=Animal+Behaviour&amp;rft.aulast=Riley&amp;rft.aufirst=Helen+T.&amp;rft.au=Riley%2C%26%2332%3BHelen+T.&amp;rft.date=February+1995&amp;rft.volume=49&amp;rft.issue=2&amp;rft.pages=495%E2%80%93509&amp;rft_id=info:doi/10.1006%2Fanbe.1995.0065&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Moller-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Moller_25-0">^</a></b></span> <span class="reference-text">Møller, Anders Pape; Gregersen, Jens (illustrator) (1994) <i>Sexual Selection and the Barn Swallow</i>. Oxford: Oxford University Press <a href="/wiki/Special:BookSources/0198540280" class="internal mw-magiclink-isbn">ISBN 0-19-854028-0</a> <a rel="nofollow" class="external text" href="http://books.google.com/books?id=qPh3kmnYG5MC&amp;pg=PA245&amp;lpg=PA245&amp;dq=barn+swallow+mobbing&amp;source=web&amp;ots=OgFPsh7qrn&amp;sig=l3WxmkKguTiniShgofWKs7YuvTI#PPA245,M1">Full text</a></span></li>
+<li id="cite_note-birdguides-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-birdguides_26-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.birdguides.com/species/species.asp?sp=117070">"Birdguides: House Martin page"</a>. BirdGuides<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.birdguides.com/species/species.asp?sp=117070">http://www.birdguides.com/species/species.asp?sp=117070</a></span><span class="reference-accessdate">. Retrieved 22 November 2007</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Birdguides%3A+House+Martin+page&amp;rft.atitle=&amp;rft.pub=BirdGuides&amp;rft_id=http%3A%2F%2Fwww.birdguides.com%2Fspecies%2Fspecies.asp%3Fsp%3D117070&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-NHM-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-NHM_27-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nhm.ac.uk/research-curation/projects/british-flea-distribution/database/Searchpage.do?species=&amp;fleaname=&amp;host=68&amp;hostname=&amp;county=&amp;publication=&amp;sortorder=">"The housemartin flea"</a>. <i>Distribution of British fleas</i>. Natural History Museum<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.nhm.ac.uk/research-curation/projects/british-flea-distribution/database/Searchpage.do?species=&amp;fleaname=&amp;host=68&amp;hostname=&amp;county=&amp;publication=&amp;sortorder=">http://www.nhm.ac.uk/research-curation/projects/british-flea-distribution/database/Searchpage.do?species=&amp;fleaname=&amp;host=68&amp;hostname=&amp;county=&amp;publication=&amp;sortorder=</a></span><span class="reference-accessdate">. Retrieved 2008-01-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+housemartin+flea&amp;rft.atitle=Distribution+of+British+fleas&amp;rft.pub=Natural+History+Museum&amp;rft_id=http%3A%2F%2Fwww.nhm.ac.uk%2Fresearch-curation%2Fprojects%2Fbritish-flea-distribution%2Fdatabase%2FSearchpage.do%3Fspecies%3D%26fleaname%3D%26host%3D68%26hostname%3D%26county%3D%26publication%3D%26sortorder%3D&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web">Weisman, Jaime (2007). <a rel="nofollow" class="external text" href="http://www.vet.uga.edu/vpp/clerk/weisman/index.php">"Haemoproteus Infection in Avian Species"</a>. University of Georgia<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.vet.uga.edu/vpp/clerk/weisman/index.php">http://www.vet.uga.edu/vpp/clerk/weisman/index.php</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Haemoproteus+Infection+in+Avian+Species&amp;rft.atitle=&amp;rft.aulast=Weisman&amp;rft.aufirst=Jaime&amp;rft.au=Weisman%2C%26%2332%3BJaime&amp;rft.date=2007&amp;rft.pub=University+of+Georgia&amp;rft_id=http%3A%2F%2Fwww.vet.uga.edu%2Fvpp%2Fclerk%2Fweisman%2Findex.php&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Marzal-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-Marzal_29-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Marzal, Alfonso; de Lope, Florentino; Navarro, Carlos; Møller, Anders Pape (2005). <a rel="nofollow" class="external text" href="http://www.eeza.csic.es/eeza/documentos/2005-Oecologia%20(142,%20541-545).pdf">"Malarial parasites decrease reproductive success: an experimental study in a passerine bird"</a> (PDF). <i>Oecologia</i> <b>142</b> (4): 541–545. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2Fs00442-004-1757-2">10.1007/s00442-004-1757-2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15688214">15688214</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.eeza.csic.es/eeza/documentos/2005-Oecologia%20(142,%20541-545).pdf">http://www.eeza.csic.es/eeza/documentos/2005-Oecologia%20(142,%20541-545).pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Malarial+parasites+decrease+reproductive+success%3A+an+experimental+study+in+a+passerine+bird&amp;rft.jtitle=Oecologia&amp;rft.aulast=Marzal&amp;rft.aufirst=Alfonso&amp;rft.au=Marzal%2C%26%2332%3BAlfonso&amp;rft.date=2005&amp;rft.volume=142&amp;rft.issue=4&amp;rft.pages=541%E2%80%93545&amp;rft_id=info:doi/10.1007%2Fs00442-004-1757-2&amp;rft_id=info:pmid/15688214&amp;rft_id=http%3A%2F%2Fwww.eeza.csic.es%2Feeza%2Fdocumentos%2F2005-Oecologia%2520%28142%2C%2520541-545%29.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Kaczmarek-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kaczmarek_30-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Kaczmarek, S. (1993;). "Ectoparasites from nests of swallows <i>Delichon urbica</i> and <i><a href="/wiki/Hirundo_rustica" title="Hirundo rustica" class="mw-redirect">Hirundo rustica</a></i> collected in autumn" (in Polish). <i>Wiad Parazytol.</i> <b>39</b> (4): 407–9. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8128730">8128730</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ectoparasites+from+nests+of+swallows+%27%27Delichon+urbica%27%27+and+%27%27%5B%5BHirundo+rustica%5D%5D%27%27+collected+in+autumn&amp;rft.jtitle=Wiad+Parazytol.&amp;rft.aulast=Kaczmarek&amp;rft.aufirst=S.&amp;rft.au=Kaczmarek%2C%26%2332%3BS.&amp;rft.date=1993%3B&amp;rft.volume=39&amp;rft.issue=4&amp;rft.pages=407%E2%80%939&amp;rft_id=info:pmid/8128730&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bto.org/psob/amberlist.htm">"The population status of birds in the UK: Birds of Conservation Concern: 2002–2007"</a>. British Trust for Ornithology<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bto.org/psob/amberlist.htm">http://www.bto.org/psob/amberlist.htm</a></span><span class="reference-accessdate">. Retrieved 28 January 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=The+population+status+of+birds+in+the+UK%3A+Birds+of+Conservation+Concern%3A+2002%E2%80%932007&amp;rft.atitle=&amp;rft.pub=British+Trust+for+Ornithology&amp;rft_id=http%3A%2F%2Fwww.bto.org%2Fpsob%2Famberlist.htm&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bto.org/birdtrends2006/wcrhouma.htm">"House Martin"</a>. British Trust for Ornithology<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bto.org/birdtrends2006/wcrhouma.htm">http://www.bto.org/birdtrends2006/wcrhouma.htm</a></span><span class="reference-accessdate">. Retrieved 28 January 2008</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=House+Martin&amp;rft.atitle=&amp;rft.pub=British+Trust+for+Ornithology&amp;rft_id=http%3A%2F%2Fwww.bto.org%2Fbirdtrends2006%2Fwcrhouma.htm&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation Journal">Fuller RA, Tratalos J, Gaston KJ (2009). "How many birds are there in a city of half a million people?". <i>Diversity and Distributions</i> <b>15</b> (2): 328–337. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1472-4642.2008.00537.x">10.1111/j.1472-4642.2008.00537.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=How+many+birds+are+there+in+a+city+of+half+a+million+people%3F&amp;rft.jtitle=Diversity+and+Distributions&amp;rft.aulast=Fuller+RA%2C+Tratalos+J%2C+Gaston+KJ&amp;rft.au=Fuller+RA%2C+Tratalos+J%2C+Gaston+KJ&amp;rft.date=2009&amp;rft.volume=15&amp;rft.issue=2&amp;rft.pages=328%E2%80%93337&amp;rft_id=info:doi/10.1111%2Fj.1472-4642.2008.00537.x&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-rspb-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-rspb_34-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rspb.org.uk/wildlife/birdguide/name/h/housemartin/population_changes.asp">"Population trends"</a>. <i>House Martin</i>. Royal Society for the Protection of Birds<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.rspb.org.uk/wildlife/birdguide/name/h/housemartin/population_changes.asp">http://www.rspb.org.uk/wildlife/birdguide/name/h/housemartin/population_changes.asp</a></span><span class="reference-accessdate">. Retrieved 2007-12-18</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Population+trends&amp;rft.atitle=House+Martin&amp;rft.pub=Royal+Society+for+the+Protection+of+Birds&amp;rft_id=http%3A%2F%2Fwww.rspb.org.uk%2Fwildlife%2Fbirdguide%2Fname%2Fh%2Fhousemartin%2Fpopulation_changes.asp&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Macbeth-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Macbeth_35-0">^</a></b></span> <span class="reference-text"><span class="citation book">Shakespeare, William; Brooke, Nicholas (annotator) (1990). <i>The Tragedy of Macbeth</i>. Oxford University Press. p.&#160;115. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-283417-7" title="Special:BookSources/0-19-283417-7">0-19-283417-7</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Tragedy+of+Macbeth&amp;rft.aulast=Shakespeare&amp;rft.aufirst=William&amp;rft.au=Shakespeare%2C%26%2332%3BWilliam&amp;rft.date=1990&amp;rft.pages=p.%26nbsp%3B115&amp;rft.pub=Oxford+University+Press&amp;rft.isbn=0-19-283417-7&amp;rfr_id=info:sid/en.wikipedia.org:Common_House_Martin"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Common_House_Martin&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Delichon_urbica" class="extiw" title="commons:Delichon urbica">Delichon urbica</a></b></i></td>
+</tr>
+</table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
+<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Delichon_urbica" class="extiw" title="wikispecies:Delichon urbica">Delichon urbica</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/northern-house-martin-delichon-urbicum">House Martin videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li>(Common) House Martin – <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/530.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/309_HouseMartinDurbica.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
+</ul>
+<div style="display:none; right:10px;" class="metadata topicon nopopups" id="featured-star"><a href="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/15px-Cscr-featured.svg.png" width="15" height="14" /></a></div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hirundinidae" title="Template:Hirundinidae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hirundinidae" title="Template talk:Hirundinidae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hirundinidae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Swallow" title="Swallow">Swallows</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Hirundinidae)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;"><a href="/wiki/River_martin" title="River martin">River martins</a> (<b>subfamily: Pseudochelidoninae</b> · <b>genus: <i>Pseudochelidon</i></b>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/River_martin" title="River martin">Pseudochelidon</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African_River_Martin" title="African River Martin">African River Martin</a></li>
+<li><a href="/wiki/White-eyed_River_Martin" title="White-eyed River Martin">White-eyed River Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;">All other swallows and martins (<b>subfamily: Hirundininae</b>)</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Species" title="Species">Species</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Saw-wing" title="Saw-wing">Psalidoprocne</a></i><br />
+(saw-wings)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Square-tailed_Saw-wing" title="Square-tailed Saw-wing">Square-tailed Saw-wing</a></li>
+<li><a href="/wiki/Mountain_Saw-wing" title="Mountain Saw-wing">Mountain Saw-wing</a></li>
+<li><a href="/wiki/White-headed_Saw-wing" title="White-headed Saw-wing">White-headed Saw-wing</a></li>
+<li><a href="/wiki/Black_Saw-wing" title="Black Saw-wing">Black Saw-wing</a></li>
+<li><a href="/wiki/Fanti_Saw-wing" title="Fanti Saw-wing">Fanti Saw-wing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Pseudhirundo</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grey-rumped_Swallow" title="Grey-rumped Swallow">Grey-rumped Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Phedina" title="Phedina">Phedina</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mascarene_Martin" title="Mascarene Martin">Mascarene Martin</a></li>
+<li><a href="/wiki/Brazza%27s_Martin" title="Brazza's Martin">Brazza's Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Riparia" title="Riparia">Riparia</a></i><br />
+(sand martins)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brown-throated_Sand_Martin" title="Brown-throated Sand Martin" class="mw-redirect">Brown-throated Sand Martin</a></li>
+<li><a href="/wiki/Congo_Sand_Martin" title="Congo Sand Martin" class="mw-redirect">Congo Sand Martin</a></li>
+<li><a href="/wiki/Sand_Martin" title="Sand Martin">Sand Martin</a></li>
+<li><a href="/wiki/Sand_Martin" title="Sand Martin">Pale Martin</a></li>
+<li><a href="/wiki/Banded_Martin" title="Banded Martin">Banded Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Tachycineta" title="Tachycineta">Tachycineta</a></i><br />
+(tree swallows)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tree_Swallow" title="Tree Swallow">Tree Swallow</a></li>
+<li><a href="/wiki/Violet-green_Swallow" title="Violet-green Swallow">Violet-green Swallow</a></li>
+<li><a href="/wiki/Golden_Swallow_(bird)" title="Golden Swallow (bird)">Golden Swallow</a></li>
+<li><a href="/wiki/Bahama_Swallow" title="Bahama Swallow">Bahama Swallow</a></li>
+<li><a href="/wiki/Tumbes_Swallow" title="Tumbes Swallow">Tumbes Swallow</a></li>
+<li><a href="/wiki/Mangrove_Swallow" title="Mangrove Swallow">Mangrove Swallow</a></li>
+<li><a href="/wiki/White-winged_Swallow" title="White-winged Swallow">White-winged Swallow</a></li>
+<li><a href="/wiki/White-rumped_Swallow" title="White-rumped Swallow">White-rumped Swallow</a></li>
+<li><a href="/wiki/Chilean_Swallow" title="Chilean Swallow">Chilean Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Progne" title="Progne">Progne</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Purple_Martin" title="Purple Martin">Purple Martin</a></li>
+<li><a href="/wiki/Caribbean_Martin" title="Caribbean Martin">Caribbean Martin</a></li>
+<li><a href="/wiki/Sinaloa_Martin" title="Sinaloa Martin">Sinaloa Martin</a></li>
+<li><a href="/wiki/Gray-breasted_Martin" title="Gray-breasted Martin">Grey-breasted Martin</a></li>
+<li><a href="/wiki/Gal%C3%A1pagos_Martin" title="Galápagos Martin">Galápagos Martin</a></li>
+<li><a href="/wiki/Peruvian_Martin" title="Peruvian Martin">Peruvian Martin</a></li>
+<li><a href="/wiki/Southern_Martin" title="Southern Martin">Southern Martin</a></li>
+<li><a href="/wiki/Brown-chested_Martin" title="Brown-chested Martin">Brown-chested Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Notiochelidon" title="Notiochelidon">Notiochelidon</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brown-bellied_Swallow" title="Brown-bellied Swallow">Brown-bellied Swallow</a></li>
+<li><a href="/wiki/Blue-and-white_Swallow" title="Blue-and-white Swallow">Blue-and-white Swallow</a></li>
+<li><a href="/wiki/Pale-footed_Swallow" title="Pale-footed Swallow">Pale-footed Swallow</a></li>
+<li><a href="/wiki/Black-capped_Swallow" title="Black-capped Swallow">Black-capped Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Haplochelidon</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andean_Swallow" title="Andean Swallow">Andean Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Atticora" title="Atticora">Atticora</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-banded_Swallow" title="White-banded Swallow">White-banded Swallow</a></li>
+<li><a href="/wiki/Black-collared_Swallow" title="Black-collared Swallow">Black-collared Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Neochelidon</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-thighed_Swallow" title="White-thighed Swallow">White-thighed Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Stelgidopteryx" title="Stelgidopteryx">Stelgidopteryx</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Northern_Rough-winged_Swallow" title="Northern Rough-winged Swallow">Northern Rough-winged Swallow</a></li>
+<li><a href="/wiki/Southern_Rough-winged_Swallow" title="Southern Rough-winged Swallow">Southern Rough-winged Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Alopochelidon</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tawny-headed_Swallow" title="Tawny-headed Swallow">Tawny-headed Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Hirundo" title="Hirundo">Hirundo</a></i><br />
+(barn swallows)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barn_Swallow" title="Barn Swallow">Barn Swallow</a></li>
+<li><a href="/wiki/Red-chested_Swallow" title="Red-chested Swallow">Red-chested Swallow</a></li>
+<li><a href="/wiki/Angola_Swallow" title="Angola Swallow">Angola Swallow</a></li>
+<li><a href="/wiki/Pacific_Swallow" title="Pacific Swallow">Pacific Swallow</a></li>
+<li><a href="/wiki/Welcome_Swallow" title="Welcome Swallow">Welcome Swallow</a></li>
+<li><a href="/wiki/White-throated_Swallow" title="White-throated Swallow">White-throated Swallow</a></li>
+<li><a href="/wiki/Ethiopian_Swallow" title="Ethiopian Swallow">Ethiopian Swallow</a></li>
+<li><a href="/wiki/Wire-tailed_Swallow" title="Wire-tailed Swallow">Wire-tailed Swallow</a></li>
+<li><a href="/wiki/White-throated_Blue_Swallow" title="White-throated Blue Swallow" class="mw-redirect">White-throated Blue Swallow</a></li>
+<li><a href="/wiki/Pied-winged_Swallow" title="Pied-winged Swallow">Pied-winged Swallow</a></li>
+<li><a href="/wiki/White-tailed_Swallow" title="White-tailed Swallow">White-tailed Swallow</a></li>
+<li><a href="/wiki/Pearl-breasted_Swallow" title="Pearl-breasted Swallow">Pearl-breasted Swallow</a></li>
+<li><a href="/wiki/Blue_Swallow" title="Blue Swallow">Blue Swallow</a></li>
+<li><a href="/wiki/Black-and-rufous_Swallow" title="Black-and-rufous Swallow">Black-and-rufous Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Crag_martin" title="Crag martin">Ptyonoprogne</a></i><br />
+(crag martins)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eurasian_Crag_Martin" title="Eurasian Crag Martin">Eurasian Crag Martin</a></li>
+<li><a href="/wiki/Rock_Martin" title="Rock Martin">Rock Martin</a></li>
+<li><a href="/wiki/Dusky_Crag_Martin" title="Dusky Crag Martin">Dusky Crag Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Delichon" title="Delichon">Delichon</a></i><br />
+(house martins)</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Common House Martin</strong></li>
+<li><a href="/wiki/Asian_House_Martin" title="Asian House Martin">Asian House Martin</a></li>
+<li><a href="/wiki/Nepal_House_Martin" title="Nepal House Martin">Nepal House Martin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Cecropis" title="Cecropis">Cecropis</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Greater_Striped_Swallow" title="Greater Striped Swallow">Greater Striped Swallow</a></li>
+<li><a href="/wiki/Lesser_Striped_Swallow" title="Lesser Striped Swallow">Lesser Striped Swallow</a></li>
+<li><a href="/wiki/Rufous-chested_Swallow" title="Rufous-chested Swallow" class="mw-redirect">Rufous-chested Swallow</a></li>
+<li><a href="/wiki/Mosque_Swallow" title="Mosque Swallow">Mosque Swallow</a></li>
+<li><a href="/wiki/Red-rumped_Swallow" title="Red-rumped Swallow">Red-rumped Swallow</a></li>
+<li><a href="/wiki/Striated_Swallow" title="Striated Swallow">Striated Swallow</a></li>
+<li><a href="/wiki/Striated_Swallow" title="Striated Swallow">Striated Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i><a href="/wiki/Petrochelidon" title="Petrochelidon">Petrochelidon</a></i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Forest_Swallow" title="Forest Swallow">Forest Swallow</a></li>
+<li><a href="/wiki/Streak-throated_Swallow" title="Streak-throated Swallow">Streak-throated Swallow</a></li>
+<li><a href="/wiki/Fairy_Martin" title="Fairy Martin">Fairy Martin</a></li>
+<li><a href="/wiki/Tree_Martin" title="Tree Martin">Tree Martin</a></li>
+<li><a href="/wiki/American_Cliff_Swallow" title="American Cliff Swallow">American Cliff Swallow</a></li>
+<li><a href="/wiki/Red-throated_Cliff_Swallow" title="Red-throated Cliff Swallow">Red-throated Cliff Swallow</a></li>
+<li><a href="/wiki/Preuss%27s_Cliff_Swallow" title="Preuss's Cliff Swallow">Preuss's Cliff Swallow</a></li>
+<li><a href="/wiki/Red_Sea_Cliff_Swallow" title="Red Sea Cliff Swallow">Red Sea Cliff Swallow</a></li>
+<li><a href="/wiki/South_African_Cliff_Swallow" title="South African Cliff Swallow">South African Cliff Swallow</a></li>
+<li><a href="/wiki/Cave_Swallow" title="Cave Swallow">Cave Swallow</a></li>
+<li><a href="/wiki/Chestnut-collared_Swallow" title="Chestnut-collared Swallow">Chestnut-collared Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
+<div style="padding:0em 0.75em;"><i>Cheramoeca</i></div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/White-backed_Swallow" title="White-backed Swallow">White-backed Swallow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="interwiki-uk-ga"></span> <span id="interwiki-de-fa"></span> <span id="interwiki-pt-fa"></span> <span id="interwiki-ru-fa"></span> <span id="interwiki-sv-fa"></span> <span id="interwiki-ro-fa"></span> <span id="interwiki-es-ga"></span> <span id="interwiki-fr-ga"></span></p>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 29415/1000000
+Preprocessor generated node count: 67209/1500000
+Post-expand include size: 292363/2048000 bytes
+Template argument size: 119564/2048000 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:196842-0!*!0!!en!4!* and timestamp 20121022130707 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Common_House_Martin&amp;oldid=512238784">http://en.wikipedia.org/w/index.php?title=Common_House_Martin&amp;oldid=512238784</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Delichon" title="Category:Delichon">Delichon</a></li><li><a href="/wiki/Category:Migratory_birds_(Eastern_hemisphere)" title="Category:Migratory birds (Eastern hemisphere)">Migratory birds (Eastern hemisphere)</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2010" title="Category:Use dmy dates from November 2010">Use dmy dates from November 2010</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+House+Martin&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Common+House+Martin" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Common_House_Martin"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Common_House_Martin"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Common_House_Martin" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Common_House_Martin&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Common_House_Martin&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Common_House_Martin" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Common_House_Martin" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Common_House_Martin&amp;oldid=512238784" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Common_House_Martin&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Common_House_Martin&amp;id=512238784" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Common+House+Martin" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Common+House+Martin&amp;oldid=512238784&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Common_House_Martin&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B0%D0%BB%D1%8D%D0%BF%D1%86%D3%80%D0%B0%D1%89%D1%85%D1%8A%D1%83%D1%8D" title="КъалэпцӀащхъуэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Huisswael" title="Huisswael" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%86%D9%88%D9%86%D9%88_%D8%A3%D8%A8%D9%8A%D8%B6_%D8%A7%D9%84%D8%A8%D8%B7%D9%86" title="سنونو أبيض البطن" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/%C5%9E%C9%99h%C9%99r_qaranqu%C5%9Fu" title="Şəhər qaranquşu" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%B0%D1%9E%D0%BA%D0%B0" title="Гарадская ластаўка" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0_%D0%BB%D1%8F%D1%81%D1%82%D0%BE%D0%B2%D0%B8%D1%86%D0%B0" title="Градска лястовица" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Gwennili-vein-do" title="Gwennili-vein-do" lang="br" hreflang="br">Brezhoneg</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Oreneta_cuablanca" title="Oreneta cuablanca" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Ji%C5%99i%C4%8Dka_obecn%C3%A1" title="Jiřička obecná" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Gwennol_y_Bondo" title="Gwennol y Bondo" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Bysvale" title="Bysvale" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Mehlschwalbe" title="Mehlschwalbe" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/R%C3%A4%C3%A4stap%C3%A4%C3%A4suke" title="Räästapääsuke" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Delichon_urbicum" title="Delichon urbicum" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Murhirundo" title="Murhirundo" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Enara_azpizuri" title="Enara azpizuri" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%86%D9%84%DA%86%D9%84%D9%87_%D8%AF%D9%85%DA%AF%D8%A7%D9%87_%D8%B3%D9%81%DB%8C%D8%AF" title="چلچله دمگاه سفید" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Lonasvala" title="Lonasvala" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Hirondelle_de_fen%C3%AAtre" title="Hirondelle de fenêtre" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Wytgatswel" title="Wytgatswel" lang="fy" hreflang="fy">Frysk</a></li>
+			<li class="interwiki-ga"><a href="//ga.wikipedia.org/wiki/Gabhl%C3%A1n_binne" title="Gabhlán binne" lang="ga" hreflang="ga">Gaeilge</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%94%D5%A1%D5%B2%D5%A1%D6%84%D5%A1%D5%B5%D5%AB%D5%B6_%D5%AE%D5%AB%D5%AE%D5%A5%D5%BC%D5%B6%D5%A1%D5%AF" title="Քաղաքային ծիծեռնակ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Delichon_urbicum" title="Delichon urbicum" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Hechecik%C3%AA_malan" title="Hechecikê malan" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-mrj"><a href="//mrj.wikipedia.org/wiki/%D0%9B%D1%8C%D1%8B%D1%80%D1%82%D1%8B%D0%BA" title="Льыртык" lang="mrj" hreflang="mrj">Кырык мары</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/M%C4%81jas_%C4%8Durkste" title="Mājas čurkste" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Langin%C4%97_kreg%C5%BEd%C4%97" title="Langinė kregždė" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Moln%C3%A1rfecske" title="Molnárfecske" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Huiszwaluw" title="Huiszwaluw" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AF%E3%83%84%E3%83%90%E3%83%A1" title="イワツバメ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Sarkswaalk" title="Sarkswaalk" lang="frr" hreflang="frr">Nordfriisk</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Taksvale" title="Taksvale" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Taksvale" title="Taksvale" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
+			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Ironda_de_fen%C3%A8stra" title="Ironda de fenèstra" lang="oc" hreflang="oc">Occitan</a></li>
+			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Delichon_urbica" title="Delichon urbica" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Okn%C3%B3wka_zwyczajna" title="Oknówka zwyczajna" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Andorinha-dos-beirais" title="Andorinha-dos-beirais" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/L%C4%83stun_de_cas%C4%83" title="Lăstun de casă" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%82%D1%96%D0%B2%D0%BA%D0%B0_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%8C%D1%81%D0%BA%D0%B0" title="Ластівка городьска" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B0" title="Городская ласточка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-se"><a href="//se.wikipedia.org/wiki/Beskko%C5%A1" title="Beskkoš" lang="se" hreflang="se">Sámegiella</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/R%C3%A4yst%C3%A4sp%C3%A4%C3%A4sky" title="Räystäspääsky" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Hussvala" title="Hussvala" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Ev_k%C4%B1rlang%C4%B1c%C4%B1" title="Ev kırlangıcı" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%82%D1%96%D0%B2%D0%BA%D0%B0_%D0%BC%D1%96%D1%81%D1%8C%D0%BA%D0%B0" title="Ластівка міська" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-wa"><a href="//wa.wikipedia.org/wiki/Oronde_des_st%C3%A5ves" title="Oronde des ståves" lang="wa" hreflang="wa">Walon</a></li>
+			<li class="interwiki-vls"><a href="//vls.wikipedia.org/wiki/Huuszwoaluwe" title="Huuszwoaluwe" lang="vls" hreflang="vls">West-Vlams</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%99%BD%E8%85%B9%E6%AF%9B%E8%84%9A%E7%87%95" title="白腹毛脚燕" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 September 2012 at 20:03.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Common_House_Martin&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw53 in 0.220 secs. -->
+	</body>
+</html>

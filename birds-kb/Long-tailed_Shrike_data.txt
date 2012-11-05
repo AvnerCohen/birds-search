@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Long-tailed Shrike - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Long-tailed_Shrike","wgTitle":"Long-tailed Shrike","wgCurRevisionId":520767126,"wgArticleId":204491,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","All articles with unsourced statements","Articles with unsourced statements from May 2012","Lanius","Birds of Asia","Birds of Southeast Asia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Long-tailed_Shrike","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"4e0a8fdefc23de86c180fc94f089afa1","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":204491,"title":"Long-tailed Shrike","namespace":0,"categories":["All articles with unsourced statements","Articles with \'species\' microformats","Articles with unsourced statements from May 2012","Birds of Asia","Birds of Southeast Asia","IUCN Red List least concern species","Lanius"],"permissionLevel":"aft-reader"}});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
+"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Long-tailed_Shrike skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Long-tailed Shrike</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Long-tailed Shrike</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Long-tailed_Shrike_(Lanius_schach-_erythronotus_race)_in_Delhi_W2_Pix_051.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Long-tailed_Shrike_%28Lanius_schach-_erythronotus_race%29_in_Delhi_W2_Pix_051.jpg/220px-Long-tailed_Shrike_%28Lanius_schach-_erythronotus_race%29_in_Delhi_W2_Pix_051.jpg" width="220" height="208" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Long-tailed_Shrike_%28Lanius_schach-_erythronotus_race%29_in_Delhi_W2_Pix_051.jpg/330px-Long-tailed_Shrike_%28Lanius_schach-_erythronotus_race%29_in_Delhi_W2_Pix_051.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Long-tailed_Shrike_%28Lanius_schach-_erythronotus_race%29_in_Delhi_W2_Pix_051.jpg/440px-Long-tailed_Shrike_%28Lanius_schach-_erythronotus_race%29_in_Delhi_W2_Pix_051.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%"><i>L. s. erythronotus</i> (<a href="/wiki/New_Delhi" title="New Delhi">New Delhi</a>, <a href="/wiki/India" title="India">India</a>)</td>
+</tr>
+<tr style="text-align: center; background-color: rgb(211,211,164)">
+<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
+<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
+</tr>
+<tr>
+<td>Phylum:</td>
+<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Shrike" title="Shrike">Laniidae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Lanius" title="Lanius">Lanius</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>L. schach</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Lanius schach</i></span></b><br />
+<small><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>L. s. stresemanni</i> <small>Mertens, 1923</small></li>
+<li><i>L. s. bentet</i> <small>Horsfield, 1822</small></li>
+<li><i>L. s. suluensis</i> <small>(Mearns, 1905)</small></li>
+<li><i>L. s. nasutus</i> <small>Scopoli, 1780</small></li>
+<li><i>L. s. schach</i> <small>Linnaeus, 1758</small></li>
+<li><i>L. s. longicaudatus</i> <small>Ogilvie-Grant, 1902</small></li>
+<li><i>L. s. tricolor</i> <small>Hodgson, 1837</small></li>
+<li><i>L. s. caniceps</i> <small>Blyth, 1846</small></li>
+<li><i>L. s. erythronotus</i> <small>(Vigors, 1831)</small></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/w/index.php?title=File:LaniusSchachMap.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LaniusSchachMap.svg/220px-LaniusSchachMap.svg.png" width="220" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LaniusSchachMap.svg/330px-LaniusSchachMap.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LaniusSchachMap.svg/440px-LaniusSchachMap.svg.png 2x" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Rough distribution of key forms</td>
+</tr>
+</table>
+</div>
+<p>The <b>Long-tailed Shrike</b> or <b>Rufous-backed Shrike</b> (<i>Lanius schach</i>) is a member of the <a href="/wiki/Bird" title="Bird">bird</a> family Laniidae, the <a href="/wiki/Shrike" title="Shrike">shrikes</a>. They are found widely distributed across Asia and there are variations in plumage across the range. The species ranges across much of <a href="/wiki/Asia" title="Asia">Asia</a>, both on the mainland and the eastern archipelagos. The eastern or <a href="/wiki/Himalaya" title="Himalaya" class="mw-redirect">Himalayan</a> subspecies, <i>L. s. tricolor</i>, is sometimes called the <b>Black-headed Shrike</b>. Although there are considerable differences in plumage among the subspecies, they all have a long and narrow black tail, have a black mask and forehead, rufous rump and flanks and a small white patch on the shoulder. It is considered to form a <a href="/wiki/Superspecies" title="Superspecies">superspecies</a> with the <a href="/wiki/Grey-backed_Shrike" title="Grey-backed Shrike">Grey-backed Shrike</a> (<i>Lanius tephronotus</i>) which breeds on the Tibetan Plateau.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Taxonomy"><span class="tocnumber">2</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour_and_ecology"><span class="tocnumber">4</span> <span class="toctext">Behaviour and ecology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Long-tailed_Shrike_(Lanius_schach-_race_tricolor)_in_Kolkata_W_IMG_3434.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Long-tailed_Shrike_%28Lanius_schach-_race_tricolor%29_in_Kolkata_W_IMG_3434.jpg/220px-Long-tailed_Shrike_%28Lanius_schach-_race_tricolor%29_in_Kolkata_W_IMG_3434.jpg" width="220" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Long-tailed_Shrike_%28Lanius_schach-_race_tricolor%29_in_Kolkata_W_IMG_3434.jpg/330px-Long-tailed_Shrike_%28Lanius_schach-_race_tricolor%29_in_Kolkata_W_IMG_3434.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Long-tailed_Shrike_%28Lanius_schach-_race_tricolor%29_in_Kolkata_W_IMG_3434.jpg/440px-Long-tailed_Shrike_%28Lanius_schach-_race_tricolor%29_in_Kolkata_W_IMG_3434.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Long-tailed_Shrike_(Lanius_schach-_race_tricolor)_in_Kolkata_W_IMG_3434.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Black-headed <i>tricolor</i> in <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/India" title="India">India</a></div>
+</div>
+</div>
+<p>The Long-tailed Shrike is a typical shrike, favouring dry open habitats and found perched prominently atop a bush or on a wire. The dark mask through the eye is broad and covers the forehead in most subspecies and the whole head is black in subspecies <i>tricolor</i> and <i>nasutus</i>. The tail is narrow and graduated with pale rufous on the outer feathers. Subspecies <i>erythronotus</i> has the grey of the mantle and upper back suffused with rufous while the southern Indian <i>caniceps</i> has pure grey.<sup id="cite_ref-hbk_1-0" class="reference"><a href="#cite_note-hbk-1"><span>[</span>2<span>]</span></a></sup> A small amount of white is present at the base of the primaries. The <a href="/wiki/Bay-backed_Shrike" title="Bay-backed Shrike">Bay-backed Shrike</a> is smaller and more contrastingly patterned and has a more prominent white patch on the wing. The sexes are alike in plumage.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit&amp;section=2" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
+<p>A number of subspecies are noted within the widely distributed range of this species. <a href="/wiki/Edward_Charles_Stuart_Baker" title="Edward Charles Stuart Baker" class="mw-redirect">Stuart Baker</a> in the second edition of <a href="/wiki/The_Fauna_of_British_India" title="The Fauna of British India" class="mw-redirect">The Fauna of British India</a> considered <i>Lanius schach</i>, <i>Lanius tephronotus</i> and <i>Lanius tricolor</i> as three species. He considered <i>nigriceps</i> as synonymous with <i>tricolor</i> and included <i>erythronotus</i> as a race of <i>schach</i>. Other treatments were proposed by <a href="/wiki/Hugh_Whistler" title="Hugh Whistler">Hugh Whistler</a> and <a href="/wiki/Norman_Boyd_Kinnear" title="Norman Boyd Kinnear">N B Kinnear</a> where <i>tephronotus</i> was considered a subspecies of <i>schach</i> and <i>nigriceps</i> and <i>nasutus</i> grouped together. Another treatment considered <i>tricolor</i> as a subspecies of <i>L. tephronotus</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> It was subsequently however noted that <i>tephronotus</i> and <i>schach</i> co-occurred in the Kumaon region and so the two were confirmed as distinct species. Molecular distances also indicate that they are distant enough.<sup id="cite_ref-acta2007_4-0" class="reference"><a href="#cite_note-acta2007-4"><span>[</span>5<span>]</span></a></sup> The <i>erythronotus</i> group have a grey head which continues into the back with a gradual suffusion of rufous. The westernmost population from Transcaspia named by <a href="/wiki/Sergei_Aleksandrovich_Buturlin" title="Sergei Aleksandrovich Buturlin">Sergei Buturlin</a> as <i>jaxartensis</i> and said to be larger, is not considered valid.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> A very light grey form from western dry region of India named by Walter Koelz as <i>kathiawarensis</i> is also considered merely as a variant.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> In southern India and Sri Lanka, subspecies <i>caniceps</i>, is marked by the rufous restricted to the rump, light crown and the pure grey on the back. <a href="/wiki/Biswamoy_Biswas" title="Biswamoy Biswas">Biswamoy Biswas</a> supported the view that <i>nigriceps</i> (having upper mantle grey and lower mantle rufous) was a hybrid of <i>tricolor</i> and <i>erythronotus</i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
+<p>Subspecies <i>longicaudatus</i> has a greyer crown and is found in Thailand and Burma. The nominate subspecies is found in China from the Yangtze valley south to Hainan and Taiwan. Some individuals of the nominate form show melanism and were once described as a species <i>fuscatus</i>.<sup id="cite_ref-acta2007_4-1" class="reference"><a href="#cite_note-acta2007-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> Island forms include <i>nasutus</i> (Philippine lslands from Mindanao to Luzon and north Borneo), <i>suluensis</i> (Sulu Island), <i>bentet</i> (Sunda Islands and Sumatra other than Borneo) and <i>stresemanni</i> of New Guinea.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
+<p>The species is found across Asia from Kazhakstan to New Guinea. It is found mainly in scrub and open habitats. Many of the temperate zone populations are migratory, moving south in winter while those in the tropics tend to be sedentary although they may make short distance movements. Subspecies <i>caniceps</i> of southern India is found in winter in the dry coastal zone of southern India.<sup id="cite_ref-hbk_1-1" class="reference"><a href="#cite_note-hbk-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> Subspecies <i>tricolor</i> migrates south to Bengal in India.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> They are found in scrub, grassland and open land under cultivation. A survey in southern India found them to be among the commonest wintering shrikes and found at a linear density along roadsides at about 0.58 per kilometer, often choosing wires to perch.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
+<p>This species is a rare <a href="/wiki/Vagrancy_(biology)" title="Vagrancy (biology)">vagrant</a> to western <a href="/wiki/Europe" title="Europe">Europe</a> on the strength of two accepted records in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> on <a href="/wiki/South_Uist" title="South Uist">South Uist</a> in November 2000<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup> and the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> near <a href="/wiki/Den_Helder" title="Den Helder">Den Helder</a> in October 2011. A bird matching the features of <i>caniceps</i> was seen on the island of Maldives.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup> It has also occurred as a vagrant to <a href="/wiki/Jordan" title="Jordan">Jordan</a>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup> <a href="/wiki/Israel" title="Israel">Israel</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a>,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> <a href="/wiki/Hungary" title="Hungary">Hungary</a>, <a href="/wiki/Japan" title="Japan">Japan</a> and <a href="/wiki/Sweden" title="Sweden">Sweden</a>.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from May 2012">citation needed</span></a></i>]</sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit&amp;section=4" title="Edit section: Behaviour and ecology">edit</a>]</span> <span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Long-tailed_Shrike_(Lanius_schach)-_erythronotus_race_at_Bharatpur_I_IMG_5401.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Long-tailed_Shrike_%28Lanius_schach%29-_erythronotus_race_at_Bharatpur_I_IMG_5401.jpg/170px-Long-tailed_Shrike_%28Lanius_schach%29-_erythronotus_race_at_Bharatpur_I_IMG_5401.jpg" width="170" height="184" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Long-tailed_Shrike_%28Lanius_schach%29-_erythronotus_race_at_Bharatpur_I_IMG_5401.jpg/255px-Long-tailed_Shrike_%28Lanius_schach%29-_erythronotus_race_at_Bharatpur_I_IMG_5401.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Long-tailed_Shrike_%28Lanius_schach%29-_erythronotus_race_at_Bharatpur_I_IMG_5401.jpg/340px-Long-tailed_Shrike_%28Lanius_schach%29-_erythronotus_race_at_Bharatpur_I_IMG_5401.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Long-tailed_Shrike_(Lanius_schach)-_erythronotus_race_at_Bharatpur_I_IMG_5401.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Upright posture (ssp. <i>erythronotus</i> (<a href="/wiki/Keoladeo_National_Park" title="Keoladeo National Park">Keoladeo National Park</a>, <a href="/wiki/India" title="India">India</a>)</div>
+</div>
+</div>
+<p>This bird has a characteristic upright "shrike" attitude when perched on a bush, from which it glides down at an angle to take <a href="/wiki/Lizard" title="Lizard">lizards</a>, large <a href="/wiki/Insect" title="Insect">insects</a>, small <a href="/wiki/List_of_birds" title="List of birds">birds</a> and <a href="/wiki/Rodent" title="Rodent">rodents</a>. They maintain feeding territories and are usually found single or in pairs that are well spaced out. Several members have been observed indulging in play behaviour fighting over perches.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> The usual calls are harsh grating and scolding calls, likened to the squealing of a frog caught by a snake. They are capable of vocal mimicry and include the calls of many species including lapwings, cuckoos, puppies and squirrels in their song.<sup id="cite_ref-hbk_1-2" class="reference"><a href="#cite_note-hbk-1"><span>[</span>2<span>]</span></a></sup> This singing ability makes it a popular pet in parts of southeast Asia.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup></p>
+<p>Long-tailed Shrikes take a wide variety of animal prey. On occasion, they have been noted capturing fish from a stream.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> They also take small snakes.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup> It sometimes indulges in kleptoparasitism and takes prey from other birds. It also captures flying insects in the air. They sometimes impale prey on a thorny bush after feeding just on the head or brain. They have been reported to feed on the fruits of the <a href="/wiki/Neem" title="Neem" class="mw-redirect">neem</a> in Kerala, even attempting to impale them on a twig.<sup id="cite_ref-hbk_1-3" class="reference"><a href="#cite_note-hbk-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup></p>
+<p>The breeding season is in summer in the temperate ranges. The nest is a deep and loose cup made up of thorny twigs, rags and hair. This is placed in a thorny bush, trees such as <i><a href="/wiki/Flacourtia" title="Flacourtia">Flacourtia</a></i> and wild date palms (<i><a href="/wiki/Phoenix_(plant)" title="Phoenix (plant)">Phoenix</a></i>).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup> The usual clutch is about 3 to 6 eggs which are incubated by both sexes. The eggs hatch after about 13 to 16 days. Young chicks are often fed with pieces of small birds captured by the parents.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup> A second brood may be raised in the same nest. They are sometimes parasitized by cuckoos such as the <a href="/wiki/Common_Cuckoo" title="Common Cuckoo">Common Cuckoo</a> (Dehra Dun), <a href="/wiki/Common_Hawk-Cuckoo" title="Common Hawk-Cuckoo">Common Hawk-Cuckoo</a>, <a href="/wiki/Jacobin_Cuckoo" title="Jacobin Cuckoo">Jacobin Cuckoo</a> and the <a href="/wiki/Asian_Koel" title="Asian Koel">Asian Koel</a> in Bangladesh.<sup id="cite_ref-hbk_1-4" class="reference"><a href="#cite_note-hbk-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106005533">"<i>Lanius schach</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106005533">http://www.iucnredlist.org/apps/redlist/details/106005533</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Lanius+schach%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106005533&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-hbk-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-hbk_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hbk_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hbk_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hbk_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-hbk_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Ali, S; &amp; Ripley, SD (1986). <i>Handbook of the Birds of India and Pakistan. Volume 7</i> (2 ed.). New Delhi: Oxford University Press. pp.&#160;93–98.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+India+and+Pakistan.+Volume+7&amp;rft.aulast=Ali%2C+S%3B+%26+Ripley%2C+SD&amp;rft.au=Ali%2C+S%3B+%26+Ripley%2C+SD&amp;rft.date=1986&amp;rft.pages=pp.%26nbsp%3B93%E2%80%9398&amp;rft.edition=2&amp;rft.place=New+Delhi&amp;rft.pub=Oxford+University+Press&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Rasmussen, PC; &amp; Anderton, JC (2005). <i>Birds of South Asia. The Ripley Guide. Volume 2</i>. pp.&#160;350–351.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+South+Asia.+The+Ripley+Guide.+Volume+2&amp;rft.aulast=Rasmussen%2C+PC%3B+%26+Anderton%2C+JC&amp;rft.au=Rasmussen%2C+PC%3B+%26+Anderton%2C+JC&amp;rft.date=2005&amp;rft.pages=pp.%26nbsp%3B350%E2%80%93351&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation Journal">Biswas, B (1962). "Further notes on the Shrikes <i>Lanius tephronotus</i> and <i>Lanius schach</i>". <i>Ibis</i> <b>104</b> (1): 112–115. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.1962.tb08635.x">10.1111/j.1474-919X.1962.tb08635.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Further+notes+on+the+Shrikes+%27%27Lanius+tephronotus%27%27+and+%27%27Lanius+schach%27%27&amp;rft.jtitle=Ibis&amp;rft.aulast=Biswas%2C+B&amp;rft.au=Biswas%2C+B&amp;rft.date=1962&amp;rft.volume=104&amp;rft.issue=1&amp;rft.pages=112%E2%80%93115&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.1962.tb08635.x&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-acta2007-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-acta2007_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acta2007_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">Zhang, Wei; Lei, Fu-Min; Liang, Gang; Yin, Zuo-Hua; Zhao, Hong-Feng; Wang, Hong-Jian; &amp; Krištín, Anton (2007). "Taxonomic status of eight Asian shrike species (Lanius): phylogenetic analysis based on Cyt <i>b</i> and CoI gene sequences.". <i>Acta Ornithologica</i> <b>42</b> (2): 173–180.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Taxonomic+status+of+eight+Asian+shrike+species+%28Lanius%29%3A+phylogenetic+analysis+based+on+Cyt+%27%27b%27%27+and+CoI+gene+sequences.&amp;rft.jtitle=Acta+Ornithologica&amp;rft.aulast=Zhang%2C+Wei%3B+Lei%2C+Fu-Min%3B+Liang%2C+Gang%3B+Yin%2C+Zuo-Hua%3B+Zhao%2C+Hong-Feng%3B+Wang%2C+Hong-Jian%3B+%26+Kri%C5%A1t%C3%ADn%2C+Anton&amp;rft.au=Zhang%2C+Wei%3B+Lei%2C+Fu-Min%3B+Liang%2C+Gang%3B+Yin%2C+Zuo-Hua%3B+Zhao%2C+Hong-Feng%3B+Wang%2C+Hong-Jian%3B+%26+Kri%C5%A1t%C3%ADn%2C+Anton&amp;rft.date=2007&amp;rft.volume=42&amp;rft.issue=2&amp;rft.pages=173%E2%80%93180&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation Journal">Vaurie, Charles (1955). "Systematic Notes on Palearctic Birds. No. 17 Laniidae". <i>American Museum Novitates</i> <b>1752</b>: 1–19. <a href="/wiki/Handle_System" title="Handle System">hdl</a>:<a rel="nofollow" class="external text" href="http://hdl.handle.net/2246%2F3647">2246/3647</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Systematic+Notes+on+Palearctic+Birds.+No.+17+Laniidae&amp;rft.jtitle=American+Museum+Novitates&amp;rft.aulast=Vaurie&amp;rft.aufirst=Charles&amp;rft.au=Vaurie%2C%26%2332%3BCharles&amp;rft.date=1955&amp;rft.volume=1752&amp;rft.pages=1%E2%80%9319&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation Journal">Abdulali, Humayun (1975). "On the validity of <i>Lanius schach kathiawarensis</i> Koelz". <i>J. Bombay Nat. Hist. Soc.</i> <b>72</b> (3): 854–855.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=On+the+validity+of+%27%27Lanius+schach+kathiawarensis%27%27+Koelz&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Abdulali%2C+Humayun&amp;rft.au=Abdulali%2C+Humayun&amp;rft.date=1975&amp;rft.volume=72&amp;rft.issue=3&amp;rft.pages=854%E2%80%93855&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation Journal"><a href="/wiki/Biswamoy_Biswas" title="Biswamoy Biswas">Biswas, Biswamoy</a> (1950). "On the Shrike <i>Lanius tephronotus</i> (Vigors), with remarks on the <i>erythronotus</i> and <i>tricolor</i> groups of <i>Lanius schach</i> Linne, and their hybrids". <i>J. Bombay Nat. Hist. Soc.</i> <b>49</b> (3): 444–455.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=On+the+Shrike+%27%27Lanius+tephronotus%27%27+%28Vigors%29%2C+with+remarks+on+the+%27%27erythronotus%27%27+and+%27%27tricolor%27%27+groups+of+%27%27Lanius+schach%27%27+Linne%2C+and+their+hybrids&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Biswas%2C+Biswamoy&amp;rft.au=Biswas%2C+Biswamoy&amp;rft.date=1950&amp;rft.volume=49&amp;rft.issue=3&amp;rft.pages=444%E2%80%93455&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Dunajewski, A (1939). "Gliederung und Verbreitung des Formenkreises <i>Lanius schach</i> L" (in German). <i>J. Orn.</i> <b>83</b> (1): 28–53. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2FBF01950811">10.1007/BF01950811</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Gliederung+und+Verbreitung+des+Formenkreises+%27%27Lanius+schach%27%27+L&amp;rft.jtitle=J.+Orn.&amp;rft.aulast=Dunajewski%2C+A&amp;rft.au=Dunajewski%2C+A&amp;rft.date=1939&amp;rft.volume=83&amp;rft.issue=1&amp;rft.pages=28%E2%80%9353&amp;rft_id=info:doi/10.1007%2FBF01950811&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation Journal">Huang, Jin-wen; Zhao, Shi-ye; Lin, Yizhou; Yang, Lei; Chen, Yuan-zhong; Tang, Si-xian; &amp; Hu, Hui-jian (2009). "Comparison of Breeding Ecology Between Two Color Morphs of Lanius schach". <i>Zoological Research</i> <b>30</b> (3): 288−294. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.3724%2FSP.J.1141.2009.03288">10.3724/SP.J.1141.2009.03288</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Comparison+of+Breeding+Ecology+Between+Two+Color+Morphs+of+Lanius+schach&amp;rft.jtitle=Zoological+Research&amp;rft.aulast=Huang%2C+Jin-wen%3B+Zhao%2C+Shi-ye%3B+Lin%2C+Yizhou%3B+Yang%2C+Lei%3B+Chen%2C+Yuan-zhong%3B+Tang%2C+Si-xian%3B+%26+Hu%2C+Hui-jian&amp;rft.au=Huang%2C+Jin-wen%3B+Zhao%2C+Shi-ye%3B+Lin%2C+Yizhou%3B+Yang%2C+Lei%3B+Chen%2C+Yuan-zhong%3B+Tang%2C+Si-xian%3B+%26+Hu%2C+Hui-jian&amp;rft.date=2009&amp;rft.volume=30&amp;rft.issue=3&amp;rft.pages=288%E2%88%92294&amp;rft_id=info:doi/10.3724%2FSP.J.1141.2009.03288&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation book">Mayr, E; &amp; Greenway, JC, Jr. (1960). <a rel="nofollow" class="external text" href="http://archive.org/stream/checklistofbirds91960pete#page/348/mode/1up"><i>Check-list of the birds of the World. Volume 9</i></a>. Cambdridge, Massachusetts: Museum of Comparative Zoology. pp.&#160;349–351<span class="printonly">. <a rel="nofollow" class="external free" href="http://archive.org/stream/checklistofbirds91960pete#page/348/mode/1up">http://archive.org/stream/checklistofbirds91960pete#page/348/mode/1up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Check-list+of+the+birds+of+the+World.+Volume+9&amp;rft.aulast=Mayr%2C+E%3B+%26+Greenway%2C+JC%2C+Jr.&amp;rft.au=Mayr%2C+E%3B+%26+Greenway%2C+JC%2C+Jr.&amp;rft.date=1960&amp;rft.pages=pp.%26nbsp%3B349%E2%80%93351&amp;rft.place=Cambdridge%2C+Massachusetts&amp;rft.pub=Museum+of+Comparative+Zoology&amp;rft_id=http%3A%2F%2Farchive.org%2Fstream%2Fchecklistofbirds91960pete%23page%2F348%2Fmode%2F1up&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation Journal">Guruswami, V (1997). <a rel="nofollow" class="external text" href="http://archive.org/stream/NLBW37_5#page/n21/mode/1up">"South Indian Grey-backed Shrike <i>Lanius schach caniceps</i>"</a>. <i><a href="/wiki/Newsletter_for_Birdwatchers" title="Newsletter for Birdwatchers">Newsletter for Birdwatchers</a></i> <b>37</b> (5): 91<span class="printonly">. <a rel="nofollow" class="external free" href="http://archive.org/stream/NLBW37_5#page/n21/mode/1up">http://archive.org/stream/NLBW37_5#page/n21/mode/1up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=South+Indian+Grey-backed+Shrike+%27%27Lanius+schach+caniceps%27%27&amp;rft.jtitle=%5B%5BNewsletter+for+Birdwatchers%5D%5D&amp;rft.aulast=Guruswami%2C+V&amp;rft.au=Guruswami%2C+V&amp;rft.date=1997&amp;rft.volume=37&amp;rft.issue=5&amp;rft.pages=91&amp;rft_id=http%3A%2F%2Farchive.org%2Fstream%2FNLBW37_5%23page%2Fn21%2Fmode%2F1up&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation Journal">Law, SC (1932). "The status of the Indian Blackheaded Shrike <i>Lanius nigriceps</i> (Frank) in lower Bengal". <i>J. Bombay Nat. Hist. Soc.</i> <b>36</b> (1): 259–262.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+status+of+the+Indian+Blackheaded+Shrike+%27%27Lanius+nigriceps%27%27+%28Frank%29+in+lower+Bengal&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Law%2C+SC&amp;rft.au=Law%2C+SC&amp;rft.date=1932&amp;rft.volume=36&amp;rft.issue=1&amp;rft.pages=259%E2%80%93262&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Pande S; Pawashe A; Sant N; Mahabal A (2004). "Status, habitat preferences and population estimates of non-breeding shrikes Lanius spp. in Maharashtra and Karnataka states, India". <i>Biological Letters</i> <b>41</b> (2): 65–69.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Status%2C+habitat+preferences+and+population+estimates+of+non-breeding+shrikes+Lanius+spp.+in+Maharashtra+and+Karnataka+states%2C+India&amp;rft.jtitle=Biological+Letters&amp;rft.aulast=Pande+S%3B+Pawashe+A%3B+Sant+N%3B+Mahabal+A&amp;rft.au=Pande+S%3B+Pawashe+A%3B+Sant+N%3B+Mahabal+A&amp;rft.date=2004&amp;rft.volume=41&amp;rft.issue=2&amp;rft.pages=65%E2%80%9369&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Stevenson, Andrew (2000). "The Long-tailed Shrike on the Outer Hebrides – a new British bird". <i>Birding World</i> <b>13</b> (11): 454–457.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Long-tailed+Shrike+on+the+Outer+Hebrides+%E2%80%93+a+new+British+bird&amp;rft.jtitle=Birding+World&amp;rft.aulast=Stevenson%2C+Andrew&amp;rft.au=Stevenson%2C+Andrew&amp;rft.date=2000&amp;rft.volume=13&amp;rft.issue=11&amp;rft.pages=454%E2%80%93457&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation Journal">Anderson C; Baldock M (2001). <a rel="nofollow" class="external text" href="http://www.orientalbirdclub.org/publications/forktail/17pdfs/Anderson-Maldives.pdf"><i>New records of birds from the Maldives, with notes on other species</i></a>. <b>17</b>. pp.&#160;67–73<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.orientalbirdclub.org/publications/forktail/17pdfs/Anderson-Maldives.pdf">http://www.orientalbirdclub.org/publications/forktail/17pdfs/Anderson-Maldives.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=New+records+of+birds+from+the+Maldives%2C+with+notes+on+other+species&amp;rft.aulast=Anderson+C%3B+Baldock+M&amp;rft.au=Anderson+C%3B+Baldock+M&amp;rft.date=2001&amp;rft.volume=17&amp;rft.pages=pp.%26nbsp%3B67%E2%80%9373&amp;rft_id=http%3A%2F%2Fwww.orientalbirdclub.org%2Fpublications%2Fforktail%2F17pdfs%2FAnderson-Maldives.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation Journal">Dufourny, H (2006). "First Record of Long-tailed Shrike <i>Lanius schach</i> for Jordan". <i>Sandgrouse</i> <b>28</b> (1): 73–75.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=First+Record+of+Long-tailed+Shrike+%27%27Lanius+schach%27%27+for+Jordan&amp;rft.jtitle=Sandgrouse&amp;rft.aulast=Dufourny%2C+H&amp;rft.au=Dufourny%2C+H&amp;rft.date=2006&amp;rft.volume=28&amp;rft.issue=1&amp;rft.pages=73%E2%80%9375&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Shirihai, H; Golan, Y (1994). "First records of Long-tailed Shrike Lanius schach in Israel and Turkey". <i>Sandgrouse</i> <b>16</b> (1): 36–40.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=First+records+of+Long-tailed+Shrike+Lanius+schach+in+Israel+and+Turkey&amp;rft.jtitle=Sandgrouse&amp;rft.aulast=Shirihai%2C+H%3B+Golan%2C+Y&amp;rft.au=Shirihai%2C+H%3B+Golan%2C+Y&amp;rft.date=1994&amp;rft.volume=16&amp;rft.issue=1&amp;rft.pages=36%E2%80%9340&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Serrao, JS (1969). <a rel="nofollow" class="external text" href="http://archive.org/stream/NLBW9#page/n155/mode/1up">"A curious play of Rufousbacked Shrikes"</a>. <i><a href="/wiki/Newsletter_for_Birdwatchers" title="Newsletter for Birdwatchers">Newsletter for Birdwatchers</a></i> <b>9</b> (11): 9<span class="printonly">. <a rel="nofollow" class="external free" href="http://archive.org/stream/NLBW9#page/n155/mode/1up">http://archive.org/stream/NLBW9#page/n155/mode/1up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+curious+play+of+Rufousbacked+Shrikes&amp;rft.jtitle=%5B%5BNewsletter+for+Birdwatchers%5D%5D&amp;rft.aulast=Serrao%2C+JS&amp;rft.au=Serrao%2C+JS&amp;rft.date=1969&amp;rft.volume=9&amp;rft.issue=11&amp;rft.pages=9&amp;rft_id=http%3A%2F%2Farchive.org%2Fstream%2FNLBW9%23page%2Fn155%2Fmode%2F1up&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation book">Sodhi, NS; Sekercioğlu, CH; Barlow, J; &amp; Robinson, S (2011). <i>Conservation of Tropical Birds</i>. John Wiley &amp; Sons. p.&#160;163.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Conservation+of+Tropical+Birds&amp;rft.aulast=Sodhi%2C+NS%3B+Sekercio%C4%9Flu%2C+CH%3B+Barlow%2C+J%3B+%26+Robinson%2C+S&amp;rft.au=Sodhi%2C+NS%3B+Sekercio%C4%9Flu%2C+CH%3B+Barlow%2C+J%3B+%26+Robinson%2C+S&amp;rft.date=2011&amp;rft.pages=p.%26nbsp%3B163&amp;rft.pub=John+Wiley+%26+Sons&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation Journal">Shepherd, CR (2006). <a rel="nofollow" class="external text" href="http://www.traffic.org/non-traffic/non-traffic_pub1.pdf">"The bird trade in Medan, north Sumatra: an overview"</a>. <i>BirdingASIA</i> <b>5</b>: 16–24<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.traffic.org/non-traffic/non-traffic_pub1.pdf">http://www.traffic.org/non-traffic/non-traffic_pub1.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+bird+trade+in+Medan%2C+north+Sumatra%3A+an+overview&amp;rft.jtitle=BirdingASIA&amp;rft.aulast=Shepherd%2C+CR&amp;rft.au=Shepherd%2C+CR&amp;rft.date=2006&amp;rft.volume=5&amp;rft.pages=16%E2%80%9324&amp;rft_id=http%3A%2F%2Fwww.traffic.org%2Fnon-traffic%2Fnon-traffic_pub1.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation Journal">Magrath, HAF (1910). "The food of the Rufous-backed Shrike (<i>Lanius erythronotus</i>)". <i>J. Bombay Nat. Hist. Soc.</i> <b>20</b> (1): 218.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+food+of+the+Rufous-backed+Shrike+%28%27%27Lanius+erythronotus%27%27%29&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Magrath%2C+HAF&amp;rft.au=Magrath%2C+HAF&amp;rft.date=1910&amp;rft.volume=20&amp;rft.issue=1&amp;rft.pages=218&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mohan, Dhananjai (1994). "Rufousbacked Shrike (<i>Lanius schach</i> Linne) feeding a Striped Keelback (<i>Amphiesma stolata</i>) to Cuckoo (<i>Cuculus canorus</i> Linne) fledgeling". <i>J. Bombay Nat. Hist. Soc.</i> <b>91</b> (1): 143.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rufousbacked+Shrike+%28%27%27Lanius+schach%27%27+Linne%29+feeding+a+Striped+Keelback+%28%27%27Amphiesma+stolata%27%27%29+to+Cuckoo+%28%27%27Cuculus+canorus%27%27+Linne%29+fledgeling&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Mohan%2C+Dhananjai&amp;rft.au=Mohan%2C+Dhananjai&amp;rft.date=1994&amp;rft.volume=91&amp;rft.issue=1&amp;rft.pages=143&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation Journal">Neelakantan, KK (1952). "More stray bird notes from Malabar". <i>J. Bombay Nat. Hist. Soc.</i> <b>50</b> (3): 664–667.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=More+stray+bird+notes+from+Malabar&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Neelakantan%2C+KK&amp;rft.au=Neelakantan%2C+KK&amp;rft.date=1952&amp;rft.volume=50&amp;rft.issue=3&amp;rft.pages=664%E2%80%93667&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation Journal">Law, SC (1933). "Further notes on the nesting of Lanius nigriceps Frank. with observations on juvenile plumage". <i>Journal of the Bombay Natural History Society</i> <b>36</b>: 499–501.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Further+notes+on+the+nesting+of+Lanius+nigriceps+Frank.+with+observations+on+juvenile+plumage&amp;rft.jtitle=Journal+of+the+Bombay+Natural+History+Society&amp;rft.aulast=Law%2C+SC&amp;rft.au=Law%2C+SC&amp;rft.date=1933&amp;rft.volume=36&amp;rft.pages=499%E2%80%93501&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation Journal">Yoong, KS (2011). "Observations on the hunting and feeding behaviour of breeding Long-tailed Shrikes <i>Lanius schach</i>". <i>BirdingASIA</i> <b>16</b>: 71–74.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Observations+on+the+hunting+and+feeding+behaviour+of+breeding+Long-tailed+Shrikes+%27%27Lanius+schach%27%27&amp;rft.jtitle=BirdingASIA&amp;rft.aulast=Yoong%2C+KS&amp;rft.au=Yoong%2C+KS&amp;rft.date=2011&amp;rft.volume=16&amp;rft.pages=71%E2%80%9374&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation Journal">Begum, S; Moksnes, A; Røskaft, E; &amp; Stokke, BG (2011). "Factors influencing host nest use by the brood parasitic Asian Koel (Eudynamys scolopacea)". <i>Journal of Ornithology</i> <b>152</b> (3): 793–800. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2Fs10336-011-0652-y">10.1007/s10336-011-0652-y</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Factors+influencing+host+nest+use+by+the+brood+parasitic+Asian+Koel+%28Eudynamys+scolopacea%29&amp;rft.jtitle=Journal+of+Ornithology&amp;rft.aulast=Begum%2C+S%3B+Moksnes%2C+A%3B+R%C3%B8skaft%2C+E%3B+%26+Stokke%2C+BG&amp;rft.au=Begum%2C+S%3B+Moksnes%2C+A%3B+R%C3%B8skaft%2C+E%3B+%26+Stokke%2C+BG&amp;rft.date=2011&amp;rft.volume=152&amp;rft.issue=3&amp;rft.pages=793%E2%80%93800&amp;rft_id=info:doi/10.1007%2Fs10336-011-0652-y&amp;rfr_id=info:sid/en.wikipedia.org:Long-tailed_Shrike"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Lanius_schach" class="extiw" title="commons:Category:Lanius schach">Lanius schach</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/long-tailed-shrike-lanius-schach">Photographs and media on the Internet Bird Collection</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 21558/1000000
+Preprocessor generated node count: 48234/1500000
+Post-expand include size: 128938/2048000 bytes
+Template argument size: 37888/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:204491-0!*!0!!en!4!* and timestamp 20121031163539 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Long-tailed_Shrike&amp;oldid=520767126">http://en.wikipedia.org/w/index.php?title=Long-tailed_Shrike&amp;oldid=520767126</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Lanius" title="Category:Lanius">Lanius</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2012" title="Category:Articles with unsourced statements from May 2012">Articles with unsourced statements from May 2012</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Long-tailed+Shrike&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Long-tailed+Shrike" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Long-tailed_Shrike"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Long-tailed_Shrike"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Long-tailed_Shrike" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Long-tailed_Shrike&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Long-tailed_Shrike&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Long-tailed_Shrike" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Long-tailed_Shrike" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Long-tailed_Shrike&amp;oldid=520767126" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li><a href="/w/index.php?title=Long-tailed_Shrike&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Long-tailed_Shrike&amp;id=520767126" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Long-tailed+Shrike" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Long-tailed+Shrike&amp;oldid=520767126&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Long-tailed_Shrike&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Lanius_schach" title="Lanius schach" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Longvosta_lanio" title="Longvosta lanio" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Lanius_schach" title="Lanius schach" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pie-gri%C3%A8che_schach" title="Pie-grièche schach" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Bentet_Kelabu" title="Bentet Kelabu" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Lanius_schach" title="Lanius schach" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-jv"><a href="//jv.wikipedia.org/wiki/Manuk_Cendet" title="Manuk Cendet" lang="jv" hreflang="jv">Basa Jawa</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Hossz%C3%BAfark%C3%BA_g%C3%A9bics" title="Hosszúfarkú gébics" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Tirjup_Ekor_Panjang" title="Tirjup Ekor Panjang" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%B3_%D0%B4%D1%83%D0%BD%D1%85%D0%B0%D0%B9" title="Алаг дунхай" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Langstaartklauwier" title="Langstaartklauwier" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AB%E3%82%B5%E3%82%B4%E3%83%A2%E3%82%BA" title="タカサゴモズ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Agache-%C3%A9creuh%C3%A8le_schach" title="Agache-écreuhèle schach" lang="pcd" hreflang="pcd">Picard</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ruskoper%C3%A4lepink%C3%A4inen" title="Ruskoperälepinkäinen" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Rostgumpad_t%C3%B6rnskata" title="Rostgumpad törnskata" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Uzun_kuyruklu_%C3%B6r%C3%BCmcek_ku%C5%9Fu" title="Uzun kuyruklu örümcek kuşu" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%A3%95%E8%83%8C%E4%BC%AF%E5%8A%B3" title="棕背伯劳" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 October 2012 at 16:35.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
+Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Long-tailed_Shrike&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by srv239 in 0.134 secs. -->
+	</body>
+</html>
