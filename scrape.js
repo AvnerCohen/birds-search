@@ -12,11 +12,10 @@ function parseSpeciesName(orig) {
 }
 
 function scrapeWikiPage(species_name, callback) {
-    console.log(species_name + "::1Scraping");
-
+    console.log(species_name + "::1-Scraping");
     nodeio.scrape(function() {
         this.get('http://en.wikipedia.org/wiki/', function(err, data) {
-            console.log(species_name + "::3DataRecevied");
+            console.log(species_name + "::2-DataRecevied");
 
             if (err) {
                 saveToDisk("error" + species_name, err);
@@ -31,7 +30,7 @@ function scrapeWikiPage(species_name, callback) {
 }
 
 function saveToDisk(species_name, data) {
-    console.log(species_name + "::4Saving");
+    console.log(species_name + "::3-Saving");
     fs.writeFile("./birds-kb/" + species_name + "_data.txt", data, function(err) {
         if (err) {
             console.log(err);
@@ -49,8 +48,8 @@ function doIt(species) {
         doneOnce = true;
         g_speciesList = species;
         q = async.queue(function(item, callback) {
-            scrapeWikiPage(item.bird);
-        }, 7);
+            scrapeWikiPage(item.bird, callback);
+        }, 5);
 
         while(g_speciesList.length){
           addToQueue();
