@@ -49,12 +49,16 @@ function doIt(species) {
         g_speciesList = species;
         q = async.queue(function(item, callback) {
             scrapeWikiPage(item.bird, callback);
-        }, 5);
+        }, 6);
 
-        while(g_speciesList.length){
-          addToQueue();
-        }
-        q.on("drain",function() {
+        addToQueue();
+        addToQueue();
+        addToQueue();
+        addToQueue();
+        addToQueue();
+        addToQueue();
+
+        q.on("drain", function() {
             console.error("Done scraping");
         });
     }
@@ -63,9 +67,11 @@ function doIt(species) {
 
 function addToQueue() {
     var new_item = g_speciesList.pop();
-    q.push({
-        bird: new_item
-    }, addToQueue);
+    if (new_item) {
+        q.push({
+            bird: new_item
+        }, addToQueue);
+    }
 
 }
 
