@@ -1,0 +1,14 @@
+{
+  "name": "birds-search",
+  "description": "Solr + node.io + node js + angular.js knowledge base",
+  "version": "0.0.1",
+  "author": "Avner Cohen <israbirding@gmail.com>",
+  "dependencies": {
+    "ecstatic": "~0.1.6",
+    "node.io": "~0.4.12"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
