@@ -1,46 +1,29 @@
 // This job will be reposible for scraping the birds list of the israbirding.com site.
 // Once scraped, it will spawn a number of child process (based on number of cpus?) to scrape
 // Wikipedia for the pages of each of the species.
-var nodeio = require('node.io');
+var request = require('request');
 var async = require('async');
+var nodeio = require('node.io');
 var fs = require('fs');
-var child_proc = require('child_process');
 var path = require('path');
-
+request.defaults({"User-Agent" : "BirdData/1.1 (http://www.israbirding.com/; israbirding@gmail.com)"});
 function parseSpeciesName(orig) {
     return (orig.replace(/\ /g, "_"));
 }
 
-function scrapeWikiPage(species_name, callback) {
+function scrapeWikiPage(species_name) {
     console.log(species_name + "::1-Scraping");
-    nodeio.scrape(function() {
-        this.get('http://en.wikipedia.org/wiki/', function(err, data) {
-            console.log(species_name + "::2-DataRecevied");
 
-            if (err) {
-                saveToDisk("error" + species_name, err);
-            } else {
-                saveToDisk(species_name, data);
-            }
-            callback(species_name);
-        });
-    });
-
-
+    request('http://en.wikipedia.org/wiki/' + species_name).pipe(fs.createWriteStream("./birds-kb/" + species_name + "_data.txt"));
 }
 
-function saveToDisk(species_name, data) {
-    console.log(species_name + "::3-Saving");
-    fs.writeFile("./birds-kb/" + species_name + "_data.txt", data, function(err) {
-        if (err) {
-            console.log(err);
-        }
-    });
-}
 
 var doneOnce = false;
 var g_speciesList = [];
 var q = null;
+
+var CONCURRENT = 15;
+var TIMEOUT = 3 * 1000;
 
 function doIt(species) {
 
@@ -48,30 +31,31 @@ function doIt(species) {
         doneOnce = true;
         g_speciesList = species;
         q = async.queue(function(item, callback) {
-            scrapeWikiPage(item.bird, callback);
-        }, 6);
+            scrapeWikiPage(item.bird);
+            setTimeout(callback, TIMEOUT);
+        }, CONCURRENT);
 
         addToQueue();
-        addToQueue();
-        addToQueue();
-        addToQueue();
-        addToQueue();
-        addToQueue();
 
-        q.on("drain", function() {
+
+        q.drain = function() {
             console.error("Done scraping");
-        });
+        };
     }
 
 }
 
-function addToQueue() {
+function addToQueue(species_name) {
     var new_item = g_speciesList.pop();
     if (new_item) {
         q.push({
             bird: new_item
         }, addToQueue);
     }
+    if (q.length()<CONCURRENT/2 ) {
+    addToQueue();//Fill up
+    console.log("\x1B[31mFill up queue\x1B[0m");
+  }
 
 }
 

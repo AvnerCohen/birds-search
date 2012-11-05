@@ -6,7 +6,10 @@
   "dependencies": {
     "ecstatic": "~0.1.6",
     "node.io": "~0.4.12",
-    "async": "~0.1.22"
+    "async": "~0.1.22",
+    "solr": "~0.2.2",
+    "cheerio": "~0.10.1",
+    "request": "~2.11.4"
   },
   "engines": {
     "node": "0.8.x",
