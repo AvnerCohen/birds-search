@@ -16,9 +16,10 @@ function solrSearch(searchterm) {
     var page = parts.query['page'];
 
     var that = this;
-    var query = client.createQuery().q({
-        title_t: searchterm
-    }).start(page).rows(10);
+    var query = client.createQuery().q(searchterm)
+                  .dismax()
+                  .qf({title_t : 0.2 , summary_t : 3.3})
+                  .mm(2).start(page).rows(10);
     client.search(query, function(err, obj) {
         if (err) throw err;
 

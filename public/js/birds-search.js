@@ -30,9 +30,19 @@ function invokeSearch() {
         docs.forEach(function(item) {
             $list.append(getTemplate(item));
         });
+        $(body).trigger("results-done");
     });
 }
 
+function resultsDone(){
+  var partialPage = ($("#results li").length < birdsSearch.ROW_SIZE);
+  var $arrow = $(".next");
+  if (partialPage){
+    $arrow.attr('disabled', 'disabled');
+  } else{
+    $arrow.removeAttr('disabled');
+  }
+}
 function getTemplate(item) {
     var str = "";
     with(item) {

@@ -16,6 +16,7 @@
          $(document).ready(function() {
                  $("#searchterm").on("keyup", changeSearchValue);
                  $(".arrow").on("click", changeResultPage);
+                 $(body).on("results-done", resultsDone)
          });
         </script>
         <link rel="stylesheet" href="css/style.css">
