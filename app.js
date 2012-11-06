@@ -1,39 +1,47 @@
-  var http = require('http');
-  var director = require('director');
-  var log = require("./log").log;
-  var solr = require('solr');
-  var client = solr.createClient();
+var http = require('http');
+var director = require('director');
+var log = require("./log").log;
+var solr = require('solr');
+var union = require('union');
+var ecstatic = require('ecstatic');
+
+var client = solr.createClient();
 
 
-function performSolrSearch(searchterm){
-  console.log("searched for:"+ searchterm);
-  var query = 'title_t:warbler';
-  var that = this;
-  client.query(query, function(err, response) {
-      if (err) throw err;
-      var responseObj = JSON.parse(response);
-      that.res.writeHead(200, {
-          'Content-Type': 'text/html'
-      })
-      that.res.end(response);
-  });
+function solrSearch(searchterm) {
+    var query = 'title_t:' + searchterm;
+    var that = this;
+    client.query(query, function(err, response) {
+        if (err) throw err;
+        var responseObj = JSON.parse(response);
+        that.res.writeHead(200, {
+            'Content-Type': 'text/html'
+        });
+        that.res.end(response);
+
+    });
 }
 
+//##### The flatiron-director router
+var router = new director.http.Router({
+    '/search/:searchterm': {
+        get: solrSearch
+    }
+});
 
-  var router = new director.http.Router({
-      '/:searchterm': {
-          get: performSolrSearch
-      }
-  });
 
-  var server = http.createServer(function(req, res) {
-      router.dispatch(req, res, function(err) {
-          if (err) {
-              res.writeHead(404);
-              res.end();
-          }
-      });
-  });
+var server = union.createServer({
+    before: [
 
-  server.listen(8080);
-  console.log("server listens: http://localhost:8080")
+    function(req, res) {
+        var found = router.dispatch(req, res);
+        if (!found) {
+            res.emit('next');
+        }
+    },
+    ecstatic(__dirname + '/public')]
+});
+
+
+server.listen(8080);
+console.log('Listening on http://127.0.0.1:8080');

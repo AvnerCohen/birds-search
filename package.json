@@ -10,7 +10,8 @@
     "solr": "~0.2.2",
     "cheerio": "~0.10.1",
     "request": "~2.11.4",
-    "director": "~1.1.6"
+    "director": "~1.1.6",
+    "union": "~0.3.4"
   },
   "engines": {
     "node": "0.8.x",

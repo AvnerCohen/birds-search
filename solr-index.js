@@ -4,6 +4,7 @@ var cheerio = require('cheerio');
 var log = require("./log").log;
 
 
+
 var client = solr.createClient();
 
 //Loop through files in birds-kb.
