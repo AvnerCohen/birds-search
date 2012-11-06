@@ -30,7 +30,7 @@ function invokeSearch() {
 function getTemplate(item) {
     var str = "";
     with(item) {
-        str = "<li><a href='" + link_t + "' target='_blank'>" + title_t + "</a> - <articale>" + summary_t + "</articale></li>";
+        str = "<li><a class='main_href' href='" + link_t + "' target='_blank'>" + title_t + "</a> - <articale>" + summary_t + "</articale></li>";
     }
     return str;
 
