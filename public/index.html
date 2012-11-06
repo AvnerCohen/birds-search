@@ -7,53 +7,18 @@
             Bird Search
         </title>
         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
-                                                    
+              
+        </script>
+        <script type="text/javascript" src="js/birds-search.js">
+                
         </script>
         <script type="text/javascript">
-     var GAP_TO_KICK_SEARCH = 300;
-     $(document).ready(function() {
-        $("#searchterm").on("keyup", function() {
-            var now = new Date().getTime();
-            $("#searchterm").attr('tickNow', now);
-            setTimeout(checkTimer, GAP_TO_KICK_SEARCH);
-
-        });
-    });
-
-    function checkTimer() {
-        var now = new Date().getTime();
-        var prev = parseInt($("#searchterm").attr('tickNow'), 10);
-        if ($("#searchterm").val().length > 2 && (now - prev) > GAP_TO_KICK_SEARCH) {
-            invokeSearch();
-        }
-    }
-
-    function invokeSearch() {
-        var val = $("#searchterm").val().trim();
-        $.getJSON("./search/" + val, function(res) {
-            var $list = $("#results");
-            $list.empty();
-            $("#matched").text("Results found: " + res.response.numFound);
-            var docs = res.response.docs;
-            docs.forEach(function(item) {
-                $list.append(getTemplate(item));
-            });
-        })
-    }
-
-    function getTemplate(item) {
-        var str = "";
-        with(item) {
-            str = "<li><a href='" + link_t + "' target='_blank'>" + title_t + "</a> - <articale>" + summary_t + "</articale></li>";
-        }
-        return str;
-
-    }
+                                $(document).ready(function() {
+                            $("#searchterm").on("keyup", applyTickNow);
+                        });
         </script>
-        <style>
-            body{font-family:tahoma} li a{font-size:15px;color:#333} li articale{font-size:12px;color:#666}
-            li{padding-bottom: 10px;}
-        </style>
+        <link rel="stylesheet" href="css/styles.css">
+        </link>
     </head>
     
     <body>
@@ -65,9 +30,9 @@
             </header>
             <div id="body">
                 <header>
-                    <input type="text" id="searchterm">
+                    <label for="searchterm">Enter search criteria:</label> <input type="text" id="searchterm">
                 </header>
-                <div>
+                <div class="resultpane">
                     <span id="matched">
                     </span>
                     <ul id="results">
