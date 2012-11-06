@@ -1,31 +1,20 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
+<!doctype html>
+<html lang="en" ng-app="birdsSearch">
 <head>
-  <meta charset="UTF-8">
-  <title>My title</title>
+  <meta charset="utf-8">
+  <title>Search Solr For Birds</title>
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <script src="lib/angular/angular.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/services.js"></script>
+  <script src="lib/angular/angular-resource.js"></script>
 </head>
 <body>
-  <div id="wrapper">
-    <header>
-      <div id="logo"><img src="" alt=""></div>
-      <h1></h1>
-      <nav>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-      </nav>
-    </header>
-    <div id="body">
-      <header>
-        <h2></h2>
-        <p></p>
-      </header>
-    </div>
-    <footer>
-      <p></p>
-    </footer>
-  </div>
+
+  <div ng-view></div>
+
 </body>
 </html>

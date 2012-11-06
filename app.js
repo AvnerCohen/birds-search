@@ -32,7 +32,6 @@ var router = new director.http.Router({
 
 var server = union.createServer({
     before: [
-
     function(req, res) {
         var found = router.dispatch(req, res);
         if (!found) {
