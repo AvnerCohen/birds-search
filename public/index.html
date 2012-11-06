@@ -1,24 +1,70 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
-<head>
-  <meta charset="UTF-8">
-  <title>Bird Search</title>
-  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-</head>
-<body>
-  <div id="wrapper">
-    <header>
-        Birds Search via Solr
-    </header>
-    <div id="body">
-      <header>
-        <h2></h2>
-        <p></p>
-      </header>
-    </div>
-    <footer>
-      <p></p>
-    </footer>
-  </div>
-</body>
+    
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            Bird Search
+        </title>
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
+                                        
+        </script>
+        <script type="text/javascript">
+        var GAP_TO_KICK_SEARCH = 500;
+        $(document).ready(function() {
+            $("#searchterm").on("keyup", function() {
+              var now = new Date().getTime();
+              $("#searchterm").attr('tickNow', now);
+                setTimeout(checkTimer, GAP_TO_KICK_SEARCH);
+
+            });
+        });
+        function checkTimer(){
+          var now = new Date().getTime();
+          var prev = parseInt($("#searchterm").attr('tickNow'),10);
+          if ($("#searchterm").val().length > 3 && (now-prev) > GAP_TO_KICK_SEARCH){
+            invokeSearch();
+          }
+        }
+
+        function invokeSearch() {
+            var val = $("#searchterm").val().trim();
+            $.getJSON("./search/" + val, function(res) {
+                var $list = $("#results");
+                $list.empty();
+                $("#matched").text("Results found: " + res.response.numFound);
+                var docs = res.response.docs;
+                docs.forEach(function(item) {
+                    $list.append("<li>" + item.title_t + "</li>");
+                });
+            })
+        }
+        </script>
+    </head>
+    
+    <body>
+        <div id="wrapper">
+            <header>
+                <h1>
+                    Birds Search via Solr
+                </h1>
+            </header>
+            <div id="body">
+                <header>
+                    <input type="text" id="searchterm">
+                </header>
+                <div>
+                    <span id="matched">
+                    </span>
+                    <ul id="results">
+                    </ul>
+                </div>
+            </div>
+            <footer>
+                <p>
+                </p>
+            </footer>
+        </div>
+    </body>
+
 </html>
