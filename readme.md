@@ -20,7 +20,7 @@ The flow of setting up the project is as follows:
 
     node scrape
     
-This will start a process to scrape the list of birds recorded in israel from: http://www.israbirding.com/checklist/ 
+Not a mandatory process since repo also include the scraped pages from some point in world history. This will start a process to scrape the list of birds recorded in israel from: http://www.israbirding.com/checklist/ 
 
 After that with a minor tweak on the bird names, it will scrape the relevant bird pages from wikipedia. The process takes a 2-4 minutes. It is really not optimized or parallelized as it should.
 

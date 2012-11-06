@@ -1,4 +1,4 @@
-var solr = require('solr');
+var solr = require('solr-client');
 var fs = require('fs');
 var cheerio = require('cheerio');
 var log = require("./log").log;
@@ -6,11 +6,11 @@ var log = require("./log").log;
 
 
 var client = solr.createClient();
-var query = "*:*";
 
-client.del(null, query, function(err, response) {
+
+client.deleteByQuery("*:*", function(err, response) {
     if (err) throw err;
-    console.log('Deleted all docs matching query "' + query + '"');
+    console.log('Deleted all docs matching query');
     client.commit();
     reIndex();
 });
@@ -23,7 +23,7 @@ function reIndex() {
     //Extract: keywords
     //extract body
     var BASE_PATH = "./birds-kb/";
-    var BASE_LINK = "http://en.wikipedia.org/wiki/"
+    var BASE_LINK = "http://en.wikipedia.org/wiki/";
     var files = fs.readdirSync(BASE_PATH);
     var counter = 0;
     //Loop through files and extract important content
@@ -37,7 +37,7 @@ function reIndex() {
             continue;
         }
 
-        var doc = {
+        var articale = {
             id: counter++,
             title_t: title,
             link_t: BASE_LINK + files[i].replace("_data.txt", ""),
@@ -45,7 +45,7 @@ function reIndex() {
             summary_t: doc("div#mw-content-text p").first().html()
         };
 
-        client.add(doc, done);
+        client.add(articale, done);
     }
 
     function done() {

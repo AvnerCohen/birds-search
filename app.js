@@ -1,7 +1,7 @@
 var http = require('http');
 var director = require('director');
 var log = require("./log").log;
-var solr = require('solr');
+var solr = require('solr-client');
 var union = require('union');
 var ecstatic = require('ecstatic');
 var url = require('url');
@@ -10,23 +10,22 @@ var client = solr.createClient();
 
 
 function solrSearch(searchterm) {
-    //add critera
-    var query =  'title_t:# OR summary_t:# OR body_t:#'.replace(/#/g, searchterm);
 
     //add page to start from
     var parts = url.parse(this.req.url, true);
     var page = parts.query['page'];
-    query+= "&start=" + page;
 
     var that = this;
-    client.query(query, function(err, response) {
+    var query = client.createQuery().q({
+        title_t: searchterm
+    }).start(page).rows(10);
+    client.search(query, function(err, obj) {
         if (err) throw err;
-        var responseObj = JSON.parse(response);
+
         that.res.writeHead(200, {
             'Content-Type': 'text/html'
         });
-        that.res.end(response);
-
+        that.res.end(JSON.stringify(obj));
     });
 }
 
@@ -40,6 +39,7 @@ var router = new director.http.Router({
 
 var server = union.createServer({
     before: [
+
     function(req, res) {
         var found = router.dispatch(req, res);
         if (!found) {

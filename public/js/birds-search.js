@@ -1,6 +1,7 @@
 var birdsSearch = {
     GAP_TO_KICK_SEARCH: 200,
-    CURRENT_PAGE: 0
+    CURRENT_PAGE: 0,
+    ROW_SIZE : 10
 };
 
 function changeSearchValue() {
@@ -20,7 +21,7 @@ function checkTimer() {
 
 function invokeSearch() {
     var val = $("#searchterm").val().trim();
-    var uri = "./search/" + val + "?page="+ birdsSearch.CURRENT_PAGE;
+    var uri = "./search/" + val + "?page="+ (birdsSearch.CURRENT_PAGE * birdsSearch.ROW_SIZE);
     $.getJSON(uri, function(res) {
         var $list = $("#results");
         $list.empty();
