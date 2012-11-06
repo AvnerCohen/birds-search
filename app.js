@@ -9,7 +9,7 @@ var client = solr.createClient();
 
 
 function solrSearch(searchterm) {
-    var query = 'title_t:' + searchterm;
+    var query =  'title_t:# OR summary_t:# OR body_t:#'.replace(/#/g, searchterm);
     var that = this;
     client.query(query, function(err, response) {
         if (err) throw err;

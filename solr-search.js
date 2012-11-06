@@ -3,7 +3,7 @@ var solr = require('solr');
 var client = solr.createClient();
 
 
-var query = 'title_t:warbler';
+var query = 'title_t:# OR summary_t:# OR body_t:#';
 client.query(query, function(err, response) {
     if (err) throw err;
     var responseObj = JSON.parse(response);
