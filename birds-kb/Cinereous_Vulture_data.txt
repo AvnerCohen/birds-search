@@ -650,7 +650,7 @@ Expensive parser function count: 4/500
 			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/J%C3%A1r%C5%BAa_%C3%A1rzu" title="Járźa árzu" lang="ce" hreflang="ce">Нохчийн</a></li>
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Munkegribb" title="Munkegribb" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
 			<li class="interwiki-oc"><a href="//oc.wikipedia.org/wiki/Aegypius_monachus" title="Aegypius monachus" lang="oc" hreflang="oc">Occitan</a></li>
-			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B3%D9%86%D8%B1%D8%B3_%DA%AF%D8%AF%DA%BE" title="سنرس گدھ" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%B3%D9%86%D8%B1%D8%B3_%DA%AF%D8%AF%DA%BE" title="سنرس گدھ" lang="pnb" hreflang="pnb">پ��جابی</a></li>
 			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Aegypius_monachus" title="Aegypius monachus" lang="pms" hreflang="pms">Piemontèis</a></li>
 			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/S%C4%99p_kasztanowaty" title="Sęp kasztanowaty" lang="pl" hreflang="pl">Polski</a></li>
 			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Abutre-preto" title="Abutre-preto" lang="pt" hreflang="pt">Português</a></li>

@@ -537,7 +537,7 @@ Expensive parser function count: 0/500
 	<div class="body">
 		<ul>
 			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Maraboe" title="Maraboe" lang="af" hreflang="af">Afrikaans</a></li>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%B3%D8%B9%D9%86_%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A" title="أبو سعن الأفريقي" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%B3%D8%B9%D9%86_%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A" title="أبو سعن الأفري��ي" lang="ar" hreflang="ar">العربية</a></li>
 			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Marabou_Afrika" title="Marabou Afrika" lang="br" hreflang="br">Brezhoneg</a></li>
 			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Marab%C3%BA_afric%C3%A0" title="Marabú africà" lang="ca" hreflang="ca">Català</a></li>
 			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Marabu_africk%C3%BD" title="Marabu africký" lang="cs" hreflang="cs">Česky</a></li>

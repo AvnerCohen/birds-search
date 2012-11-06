@@ -330,7 +330,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Plovin%C4%97_vi%C5%A1tel%C4%97" title="Plovinė vištelė" lang="lt" hreflang="lt">Lietuvių</a></li>
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kis_v%C3%ADzicsibe" title="Kis vízicsibe" lang="hu" hreflang="hu">Magyar</a></li>
 			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Klein_waterhoen" title="Klein waterhoen" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AF%E3%82%A4%E3%83%8A" title="コクイナ" lang="ja" hreflang="ja">日���語</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AF%E3%82%A4%E3%83%8A" title="コクイナ" lang="ja" hreflang="ja">日本語</a></li>
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Sumprikse" title="Sumprikse" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
 			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%86%DA%A9%DB%8C_%DA%A9%D8%B1%DB%8C%DA%A9" title="نکی کریک" lang="pnb" hreflang="pnb">پنجابی</a></li>
 			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Porzana_parva" title="Porzana parva" lang="pms" hreflang="pms">Piemontèis</a></li>

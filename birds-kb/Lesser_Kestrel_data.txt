@@ -377,7 +377,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Feh%C3%A9rkarm%C3%BA_v%C3%A9rcse" title="Fehérkarmú vércse" lang="hu" hreflang="hu">Magyar</a></li>
 			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%97%D1%8D%D1%8D%D1%80%D0%B4_%D1%88%D0%BE%D0%BD%D1%85%D0%BE%D1%80" title="Зээрд шонхор" lang="mn" hreflang="mn">Монгол</a></li>
 			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kleine_torenvalk" title="Kleine torenvalk" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%81%E3%83%A7%E3%82%A6%E3%82%B2%E3%83%B3%E3%83%9C%E3%82%A6" title="ヒ���チョウゲンボウ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%81%E3%83%A7%E3%82%A6%E3%82%B2%E3%83%B3%E3%83%9C%E3%82%A6" title="ヒメチョウゲンボウ" lang="ja" hreflang="ja">日本語</a></li>
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/R%C3%B8dfalk" title="Rødfalk" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
 			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%86%DA%A9%D8%A7_%DA%A9%DB%8C%D8%B3%D9%B9%D8%B1%D9%84" title="نکا کیسٹرل" lang="pnb" hreflang="pnb">پنجابی</a></li>
 			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Falco_naumanni" title="Falco naumanni" lang="pms" hreflang="pms">Piemontèis</a></li>
@@ -391,7 +391,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/R%C3%B6dfalk" title="Rödfalk" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_kerkenez" title="Küçük kerkenez" lang="tr" hreflang="tr">Türkçe</a></li>
 			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D0%B2%D1%96%D1%82%D0%B5%D1%80_%D1%81%D1%82%D0%B5%D0%BF%D0%BE%D0%B2%D0%B8%D0%B9" title="Боривітер степовий" lang="uk" hreflang="uk">Українська</a></li>
-			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/C%E1%BA%AFt_nh%E1%BB%8F" title="Cắt nhỏ" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/C%E1%BA%AFt_nh%E1%BB%8F" title="Cắt nhỏ" lang="vi" hreflang="vi">Ti���ng Việt</a></li>
 			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%BB%84%E7%88%AA%E9%9A%BC" title="黄爪隼" lang="zh" hreflang="zh">中文</a></li>
 		</ul>
 	</div>

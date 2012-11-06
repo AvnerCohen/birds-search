@@ -409,7 +409,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D1%8B%D1%88%D1%96%D0%B2%D0%BA%D0%B0_%D0%B7%D0%B2%D1%8B%D1%87%D0%B0%D0%B9%D0%BD%D0%B0" title="Камышівка звычайна" lang="rue" hreflang="rue">Русиньскый</a></li>
 			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B7%D0%B4%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BC%D1%8B%D1%88%D0%BE%D0%B2%D0%BA%D0%B0" title="Дроздовидная камышовка" lang="ru" hreflang="ru">Русский</a></li>
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Rastaskerttunen" title="Rastaskerttunen" lang="fi" hreflang="fi">Suomi</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Trasts%C3%A5ngare" title="Trasts��ngare" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Trasts%C3%A5ngare" title="Trastsångare" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_kam%C4%B1%C5%9F%C3%A7%C4%B1n" title="Büyük kamışçın" lang="tr" hreflang="tr">Türkçe</a></li>
 			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D1%82%D1%8F%D0%BD%D0%BA%D0%B0_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0" title="Очеретянка велика" lang="uk" hreflang="uk">Українська</a></li>
 			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%A4%A7%E8%8B%87%E8%8E%BA" title="大苇莺" lang="zh" hreflang="zh">中文</a></li>

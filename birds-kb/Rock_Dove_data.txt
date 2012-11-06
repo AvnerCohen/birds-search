@@ -560,7 +560,7 @@ Expensive parser function count: 1/500
 		<ul>
 			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%93%D1%83%D0%B1%D0%B3%D1%8A%D1%83%D1%8D%D1%82%D1%85%D1%8C%D1%8D%D1%80%D1%8B%D0%BA%D1%8A%D1%83%D1%8D" title="Губгъуэтхьэрыкъуэ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
 			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Wildeposduif" title="Wildeposduif" lang="af" hreflang="af">Afrikaans</a></li>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AC%D8%A8%D9%84%D9%8A" title="حمام جبلي" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D9%85_%D8%AC%D8%A8%D9%84%D9%8A" title="حمام جبلي" lang="ar" hreflang="ar">الع��بية</a></li>
 			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Columba_livia" title="Columba livia" lang="an" hreflang="an">Aragonés</a></li>
 			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/%C3%87%C3%B6l_g%C3%B6y%C9%99r%C3%A7ini" title="Çöl göyərçini" lang="az" hreflang="az">Azərbaycanca</a></li>
 			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%9A%D2%AF%D0%BA_%D0%BA%D2%AF%D0%B3%D3%99%D1%80%D1%81%D0%B5%D0%BD" title="Күк күгәрсен" lang="ba" hreflang="ba">Башҡортса</a></li>

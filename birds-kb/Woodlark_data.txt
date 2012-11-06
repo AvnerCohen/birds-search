@@ -402,7 +402,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Lullula_arborea" title="Lullula arborea" lang="pms" hreflang="pms">Piemontèis</a></li>
 			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Lerka" title="Lerka" lang="pl" hreflang="pl">Polski</a></li>
 			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Cotovia-pequena" title="Cotovia-pequena" lang="pt" hreflang="pt">Português</a></li>
-			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9B%D1%97%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B6%D0%B0%D0%B9%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%BA" title="Лїсовый жайворонок" lang="rue" hreflang="rue">Русиньскый</a></li>
+			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9B%D1%97%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B6%D0%B0%D0%B9%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%BA" title="Лїсовый жайв��ронок" lang="rue" hreflang="rue">Русиньскый</a></li>
 			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9_%D0%B6%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%BA" title="Лесной жаворонок" lang="ru" hreflang="ru">Русский</a></li>
 			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/%C5%A0kovr%C3%A1nik_stromov%C3%BD" title="Škovránik stromový" lang="sk" hreflang="sk">Slovenčina</a></li>
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kangaskiuru" title="Kangaskiuru" lang="fi" hreflang="fi">Suomi</a></li>

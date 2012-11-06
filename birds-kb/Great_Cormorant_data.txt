@@ -854,7 +854,7 @@ Expensive parser function count: 3/500
 	<h5>Languages</h5>
 	<div class="body">
 		<ul>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%BA%D8%B1%D8%A7%D8%A8_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1" title="غراب البحر" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%BA%D8%B1%D8%A7%D8%A8_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1" title="غ��اب البحر" lang="ar" hreflang="ar">العربية</a></li>
 			<li class="interwiki-ast"><a href="//ast.wikipedia.org/wiki/Phalacrocorax_carbo" title="Phalacrocorax carbo" lang="ast" hreflang="ast">Asturianu</a></li>
 			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/B%C3%B6y%C3%BCk_qarabatdaq" title="Böyük qarabatdaq" lang="az" hreflang="az">Azərbaycanca</a></li>
 			<li class="interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/L%C3%B4%CD%98-ch%C3%AE" title="Lô͘-chî" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li>

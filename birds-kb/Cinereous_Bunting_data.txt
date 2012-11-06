@@ -353,7 +353,7 @@ Expensive parser function count: 0/500
 		<ul>
 			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AF%D8%B1%D8%B3%D8%A9_%D8%B4%D8%A7%D9%85%D9%8A%D8%A9" title="درسة شامية" lang="ar" hreflang="ar">العربية</a></li>
 			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Brean_melenc%27hris" title="Brean melenc'hris" lang="br" hreflang="br">Brezhoneg</a></li>
-			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/T%C3%BCrkenammer" title="Türkenammer" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/T%C3%BCrkenammer" title="T��rkenammer" lang="de" hreflang="de">Deutsch</a></li>
 			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Flavgriza_emberizo" title="Flavgriza emberizo" lang="eo" hreflang="eo">Esperanto</a></li>
 			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Emberiza_cineracea" title="Emberiza cineracea" lang="eu" hreflang="eu">Euskara</a></li>
 			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Bruant_cendr%C3%A9" title="Bruant cendré" lang="fr" hreflang="fr">Français</a></li>

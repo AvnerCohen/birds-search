@@ -677,7 +677,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pikkumerimetso" title="Pikkumerimetso" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Dv%C3%A4rgskarv" title="Dvärgskarv" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_karabatak" title="Küçük karabatak" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9" title="Баклан малий" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9" title="Баклан малий" lang="uk" hreflang="uk">Ук��аїнська</a></li>
 		</ul>
 	</div>
 </div>

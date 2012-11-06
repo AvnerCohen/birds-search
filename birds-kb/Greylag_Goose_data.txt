@@ -583,7 +583,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%91%D0%BE%D1%80_%D0%B3%D0%B0%D0%BB%D1%83%D1%83" title="Бор галуу" lang="mn" hreflang="mn">Монгол</a></li>
 			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%84%E1%80%94%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BD%E1%80%B2" title="ငန်းမွဲ" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
 			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Grauwe_gans" title="Grauwe gans" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%82%AC%E3%83%B3" title="ハイイロガン" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%A4%E3%83%AD%E3%82%AC%E3%83%B3" title="ハイイロガン" lang="ja" hreflang="ja">日���語</a></li>
 			<li class="interwiki-ce"><a href="//ce.wikipedia.org/wiki/Moqa_aqa_%C7%B5az" title="Moqa aqa ǵaz" lang="ce" hreflang="ce">Нохчийн</a></li>
 			<li class="interwiki-frr"><a href="//frr.wikipedia.org/wiki/Gr%C3%A4_gus" title="Grä gus" lang="frr" hreflang="frr">Nordfriisk</a></li>
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Gr%C3%A5g%C3%A5s" title="Grågås" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>

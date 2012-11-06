@@ -417,7 +417,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Pterocles_orientalis" title="Pterocles orientalis" lang="es" hreflang="es">Español</a></li>
 			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Nigraventra_stepkoko" title="Nigraventra stepkoko" lang="eo" hreflang="eo">Esperanto</a></li>
 			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Ganga_azpibeltz" title="Ganga azpibeltz" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%82%D8%B1%D9%82%D8%B1%D9%87" title="باقرقر��" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D8%A7%D9%82%D8%B1%D9%82%D8%B1%D9%87" title="باقرقره" lang="fa" hreflang="fa">فارسی</a></li>
 			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ganga_unibande" title="Ganga unibande" lang="fr" hreflang="fr">Français</a></li>
 			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D2%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%83%D1%8B%D1%80_%D0%B1%D2%B1%D0%BB%D0%B4%D1%8B%D1%80%D1%8B%D2%9B" title="Қарабауыр бұлдырық" lang="kk" hreflang="kk">Қазақша</a></li>
 			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Qitik" title="Qitik" lang="ku" hreflang="ku">Kurdî</a></li>

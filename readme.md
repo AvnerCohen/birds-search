@@ -7,6 +7,7 @@ This is a sample repo of a work with the following libs/frameworks:
     * flatiron/director - Routing lib
     * ecstatic - Serve static files
     * cheerio - A jquery core selector implentation 
+    * node-async - Async flow control library
     * Node.IO  - scraping lib (can be     removed..)
     * node-solr - Apache Solr client
 * Apache Solr - search engine
@@ -19,9 +20,11 @@ The flow of setting up the project is as follows:
 
     node scrape
     
-This will start a process to scrape the list of birds recorded in israeli from: http://www.israbirding.com/checklist/ 
+This will start a process to scrape the list of birds recorded in israel from: http://www.israbirding.com/checklist/ 
 
-Than, with a minor tweak on the bird names, it will scrape the relevant bird pages from wikipedia.
+After that with a minor tweak on the bird names, it will scrape the relevant bird pages from wikipedia. The process takes a 2-4 minutes. It is really not optimized or parallelized as it should.
+
+Also, the process seems to complete with exception, if not botherd with it, it seems like a node-async issue.
 
 ### 2 ###
 
@@ -33,7 +36,7 @@ Make sure solr is up.
 
     node solr-index
 
-process to pick up the files scraped from the web and create the solr documents
+process to pick up the files scraped from the web and create the solr documents in the birds-kb/ directory of the repo.
 
 ### 4 ###
 

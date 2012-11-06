@@ -373,7 +373,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/R%C3%A9ti_cank%C3%B3" title="Réti cankó" lang="hu" hreflang="hu">Magyar</a></li>
 			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%81%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BE%E0%B4%9F%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8A%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D" title="പുള്ളിക്കാടക്കൊക്ക്" lang="ml" hreflang="ml">മലയാളം</a></li>
 			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Kedidi_Sawah" title="Burung Kedidi Sawah" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
-			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A8%D1%83%D0%B3%D1%83%D0%B9%D0%BD_%D1%85%D3%A9%D0%B3%D1%87%D2%AF%D2%AF" title="Шугуйн ��өгчүү" lang="mn" hreflang="mn">Монгол</a></li>
+			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A8%D1%83%D0%B3%D1%83%D0%B9%D0%BD_%D1%85%D3%A9%D0%B3%D1%87%D2%AF%D2%AF" title="Шугуйн хөгчүү" lang="mn" hreflang="mn">Монгол</a></li>
 			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Bosruiter" title="Bosruiter" lang="nl" hreflang="nl">Nederlands</a></li>
 			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AB%E3%83%96%E3%82%B7%E3%82%AE" title="タカブシギ" lang="ja" hreflang="ja">日本語</a></li>
 			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Gr%C3%B8nnstilk" title="Grønnstilk" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>

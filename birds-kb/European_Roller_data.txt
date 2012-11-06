@@ -3,7 +3,7 @@
 <head>
 <title>European Roller - Wikipedia, the free encyclopedia</title>
 <meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf2" />
+<meta name="generator" content="MediaWiki 1.21wmf3" />
 <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=European_Roller&amp;action=edit" />
 <link rel="edit" title="Edit this page" href="/w/index.php?title=European_Roller&amp;action=edit" />
 <link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
@@ -12,7 +12,7 @@
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
 <link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
 <link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
 <meta name="ResourceLoaderDynamicStyles" content="" />
 <link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
 <style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
@@ -20,17 +20,17 @@
 
 <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"European_Roller","wgTitle":"European Roller","wgCurRevisionId":515494143,"wgArticleId":223983,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List near threatened species","Articles with \'species\' microformats","Coracias","Birds of Europe","Birds of Kenya","Birds of Turkey","Birds of Pakistan","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"European_Roller","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"ae7c875c35960da072d3f72374003bce","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":223983,"title":"European Roller","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Europe","Birds of Kenya","Birds of Pakistan","Birds of Turkey","Birds of Western Sahara","Coracias","IUCN Red List near threatened species"],"permissionLevel":"aft-reader"}});
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"European_Roller","wgTitle":"European Roller","wgCurRevisionId":521645354,"wgArticleId":223983,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List near threatened species","Articles with \'species\' microformats","Coracias","Birds of Europe","Birds of Kenya","Birds of Turkey","Birds of Pakistan","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"European_Roller","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"f53d449bce6a6a90fd833120263c7be6","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":223983,"title":"European Roller","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Europe","Birds of Kenya","Birds of Pakistan","Birds of Turkey","Birds of Western Sahara","Coracias","IUCN Red List near threatened species"],"permissionLevel":"aft-reader"}});
 }</script><script>if(window.mw){
 mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
-"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
+"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
 }</script>
 <script>if(window.mw){
 mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
 }</script>
-<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf3/vector/csshover.min.htc")}</style><![endif]--></head>
 <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-European_Roller skin-vector action-view vector-animateLayout">
 		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
@@ -64,7 +64,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">European Roller</th>
 </tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:European_roller.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/European_roller.jpg/220px-European_roller.jpg" width="220" height="176" /></a></td>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:European_roller.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/European_roller.jpg/220px-European_roller.jpg" width="220" height="176" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/European_roller.jpg/330px-European_roller.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/European_roller.jpg/440px-European_roller.jpg 2x" /></a></td>
 </tr>
 <tr>
 <td colspan="2" style="text-align: center; font-size: 88%">An adult Roller with a <a href="/wiki/Centipede" title="Centipede">Centipede</a></td>
@@ -74,8 +74,8 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 </tr>
 <tr>
 <td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/220px-Status_iucn3.1_NT.svg.png" width="220" height="59" /><br />
-<a href="/wiki/Near_Threatened" title="Near Threatened">Near Threatened</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/220px-Status_iucn3.1_NT.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/330px-Status_iucn3.1_NT.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Status_iucn3.1_NT.svg/440px-Status_iucn3.1_NT.svg.png 2x" /><br />
+<a href="/wiki/Near_Threatened" title="Near Threatened">Near Threatened</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></small></div>
 </td>
 </tr>
 <tr>
@@ -142,28 +142,35 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <p>This species is striking in its strong direct flight, with the brilliant blue contrasting with black flight feathers. Sexes are similar, but the juvenile is a drabber version of the adult.</p>
 <p>The display of this bird is a <a href="/wiki/Northern_Lapwing" title="Northern Lapwing">lapwing</a>-like display, with the twists and turns that give this species its English name. It nests in an unlined tree or cliff hole, and lays up to six eggs.</p>
 <p>The call is a harsh <a href="/wiki/Crow" title="Crow">crow</a>-like sound. It gives a raucous series of calls when nervous.</p>
-<p>Some populations migrate to Africa through India. A collision with an aircraft over the Arabian Sea has been recorded.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<p>Some populations migrate to Africa through India. A collision with an aircraft over the Arabian Sea has been recorded.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
 <h2><span class="editsection">[<a href="/w/index.php?title=European_Roller&amp;action=edit&amp;section=2" title="Edit section: Decline">edit</a>]</span> <span class="mw-headline" id="Decline">Decline</span></h2>
 <p>The European Roller has a large global population, including an estimated 100,000-220,000 individuals in Europe. However, following a moderate decline during 1970-1990, the species has continued to decline especially in Europe, with overall European exceeding 30% in three generations (15 years). In <a href="/wiki/Estonia" title="Estonia">Estonia</a> the 50-100 pairs in 1998 have reduced to no known breeding pairs in 2004; in <a href="/wiki/Latvia" title="Latvia">Latvia</a> and <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> populations have decreased from several thousand of pairs in the 1970s to under 30 pairs in 2004. In <a href="/wiki/Russia" title="Russia">Russia</a> it has disappeared from the northern part of its range. However, there is no evidence of any declines in Central Asia. The declines in the European population has resulted in its Red List status being upgraded from Least Concern to Near Threatened in 2005 and another uplisting being expected. Threats include persecution on migration in some Mediterranean countries and hundreds, perhaps thousands, are shot for food in <a href="/wiki/Oman" title="Oman">Oman</a> every spring. Use of pesticides reduces food availability, and the species is sensitive to changing farming and forestry practices.</p>
 <h2><span class="editsection">[<a href="/w/index.php?title=European_Roller&amp;action=edit&amp;section=3" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
 <div class="thumb tright">
-<div class="thumbinner" style="width:262px;"><a href="/wiki/File:Coracias_garrulus_am.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Coracias_garrulus_am.jpg/260px-Coracias_garrulus_am.jpg" width="260" height="173" class="thumbimage" /></a>
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:Eurasian_Roller.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Eurasian_Roller.jpg/260px-Eurasian_Roller.jpg" width="260" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Eurasian_Roller.jpg/390px-Eurasian_Roller.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Eurasian_Roller.jpg/520px-Eurasian_Roller.jpg 2x" /></a>
 <div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Coracias_garrulus_am.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<div class="magnify"><a href="/wiki/File:Eurasian_Roller.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+At <a href="/wiki/Hesaraghatta_Lake" title="Hesaraghatta Lake">Hesaraghatta Lake</a>, <a href="/wiki/Bangalore" title="Bangalore">Bangalore</a>, <a href="/wiki/India" title="India">India</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:Coracias_garrulus_am.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Coracias_garrulus_am.jpg/260px-Coracias_garrulus_am.jpg" width="260" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Coracias_garrulus_am.jpg/390px-Coracias_garrulus_am.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Coracias_garrulus_am.jpg/520px-Coracias_garrulus_am.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Coracias_garrulus_am.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
 Coracias garrulus in <a href="/wiki/Romania" title="Romania">Romania</a></div>
 </div>
 </div>
 <div class="thumb tright">
-<div class="thumbinner" style="width:262px;"><a href="/wiki/File:European_Roller.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_Roller.JPG/260px-European_Roller.JPG" width="260" height="260" class="thumbimage" /></a>
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:European_Roller.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_Roller.JPG/260px-European_Roller.JPG" width="260" height="260" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_Roller.JPG/390px-European_Roller.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_Roller.JPG/520px-European_Roller.JPG 2x" /></a>
 <div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:European_Roller.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+<div class="magnify"><a href="/wiki/File:European_Roller.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
 European Roller, Kruger National Park (South Africa)</div>
 </div>
 </div>
 <div class="reflist" style="list-style-type: decimal;">
 <ol class="references">
-<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106001033">"<i>Coracias garrulus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106001033">http://www.iucnredlist.org/apps/redlist/details/106001033</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Coracias+garrulus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106001033&amp;rfr_id=info:sid/en.wikipedia.org:European_Roller"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Satheesan, S. M. (1990) Bird-aircraft collision at an altitude of 2424&#160;m over the sea. J. Bombay Nat. Hist. Soc. 87(1):145-146</span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106001033">"<i>Coracias garrulus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106001033">http://www.iucnredlist.org/apps/redlist/details/106001033</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Coracias+garrulus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106001033&amp;rfr_id=info:sid/en.wikipedia.org:European_Roller"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Satheesan, S. M. (1990) Bird-aircraft collision at an altitude of 2424&#160;m over the sea. J. Bombay Nat. Hist. Soc. 87(1):145-146</span></li>
 </ol>
 </div>
 <h2><span class="editsection">[<a href="/w/index.php?title=European_Roller&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
@@ -171,7 +178,7 @@ European Roller, Kruger National Park (South Africa)</div>
 <li>Lars Svensson and Peter J. Grant. <i>Collins Bird Guide</i>. 1999.</li>
 </ul>
 <h2><span class="editsection">[<a href="/w/index.php?title=European_Roller&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
-<p><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" /> Media related to <a href="//commons.wikimedia.org/wiki/category:Coracias_garrulus" class="extiw" title="commons:category:Coracias garrulus">Coracias garrulus</a> at Wikimedia Commons</p>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" /> Media related to <a href="//commons.wikimedia.org/wiki/category:Coracias_garrulus" class="extiw" title="commons:category:Coracias garrulus">Coracias garrulus</a> at Wikimedia Commons</p>
 <ul>
 <li>European Roller - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/446.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
 <li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/european-roller-coracias-garrulus">European Roller videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
@@ -192,11 +199,11 @@ Highest expansion depth: 17/40
 Expensive parser function count: 0/500
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:223983-0!*!0!!en!4!* and timestamp 20121018042404 -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:223983-0!*!0!!en!4!* and timestamp 20121106092628 -->
 </div>				<!-- /bodycontent -->
 								<!-- printfooter -->
 				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=European_Roller&amp;oldid=515494143">http://en.wikipedia.org/w/index.php?title=European_Roller&amp;oldid=515494143</a>"				</div>
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=European_Roller&amp;oldid=521645354">http://en.wikipedia.org/w/index.php?title=European_Roller&amp;oldid=521645354</a>"				</div>
 				<!-- /printfooter -->
 												<!-- catlinks -->
 				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_near_threatened_species" title="Category:IUCN Red List near threatened species">IUCN Red List near threatened species</a></li><li><a href="/wiki/Category:Coracias" title="Category:Coracias">Coracias</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Kenya" title="Category:Birds of Kenya">Birds of Kenya</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
@@ -276,7 +283,7 @@ Expensive parser function count: 0/500
 	<h5><label for="searchInput">Search</label></h5>
 	<form action="/w/index.php" id="searchform">
 				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
 		</div>
 	</form>
 </div>
@@ -337,9 +344,9 @@ Expensive parser function count: 0/500
 			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/European_Roller" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
 			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
 			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=European_Roller&amp;oldid=515494143" title="Permanent link to this revision of the page">Permanent link</a></li>
-			<li><a href="/w/index.php?title=European_Roller&amp;action=info">Page information</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=European_Roller&amp;id=515494143" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+			<li id="t-permalink"><a href="/w/index.php?title=European_Roller&amp;oldid=521645354" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=European_Roller&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=European_Roller&amp;id=521645354" title="Information on how to cite this page">Cite this page</a></li>		</ul>
 	</div>
 </div>
 
@@ -349,7 +356,7 @@ Expensive parser function count: 0/500
 <div class="portal" id='p-coll-print_export'>
 	<h5>Print/export</h5>
 	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=European+Roller" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=European+Roller&amp;oldid=515494143&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=European_Roller&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=European+Roller" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=European+Roller&amp;oldid=521645354&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=European_Roller&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
 </div>
 
 <!-- /coll-print_export -->
@@ -411,7 +418,7 @@ Expensive parser function count: 0/500
 		<!-- footer -->
 		<div id="footer">
 							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 17:35.<br /></li>
+											<li id="footer-info-lastmod"> This page was last modified on 6 November 2012 at 09:26.<br /></li>
 											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.
 See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
@@ -428,7 +435,7 @@ Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.
 						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
 					</li>
 					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
 					</li>
 				</ul>
 						<div style="clear:both"></div>
@@ -439,10 +446,10 @@ mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
 }</script>
 <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
+mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
 }</script>
 <script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
 <script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by mw35 in 0.160 secs. -->
+<!-- Served by srv264 in 0.151 secs. -->
 	</body>
 </html>

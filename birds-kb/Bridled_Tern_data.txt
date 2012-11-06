@@ -468,7 +468,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Brilstern" title="Brilstern" lang="nl" hreflang="nl">Nederlands</a></li>
 			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%83%9F%E3%82%B8%E3%83%AD%E3%82%A2%E3%82%B8%E3%82%B5%E3%82%B7" title="マミジロアジサシ" lang="ja" hreflang="ja">日本語</a></li>
 			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%A6%DA%88%D9%84%DA%88_%D9%B9%D8%B1%D9%86" title="برائڈلڈ ٹرن" lang="pnb" hreflang="pnb">پنجابی</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BE%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%8F_%D0%BA%D1%80%D0%B0%D1%87%D0%BA%D0%B0" title="Бурокрылая крачка" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BE%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%8F_%D0%BA%D1%80%D0%B0%D1%87%D0%BA%D0%B0" title="Б��рокрылая крачка" lang="ru" hreflang="ru">Русский</a></li>
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ohjasnokitiira" title="Ohjasnokitiira" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Tygelt%C3%A4rna" title="Tygeltärna" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-to"><a href="//to.wikipedia.org/wiki/Tala_piti" title="Tala piti" lang="to" hreflang="to">Lea faka-Tonga</a></li>

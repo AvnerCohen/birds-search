@@ -457,7 +457,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Arovarpushaukka" title="Arovarpushaukka" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Shikrah%C3%B6k" title="Shikrahök" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%88%E0%AE%B0%E0%AE%BF" title="வைரி" lang="ta" hreflang="ta">தமிழ்</a></li>
-			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B2" title="เหยี่ยวชิครา" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B2" title="เหย���่ยวชิครา" lang="th" hreflang="th">ไทย</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C5%9Eeritli_k%C3%BC%C3%A7%C3%BCk_%C3%A7ak%C4%B1r_ku%C5%9Fu" title="Şeritli küçük çakır kuşu" lang="tr" hreflang="tr">Türkçe</a></li>
 			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/%C6%AFng_x%C3%A1m" title="Ưng xám" lang="vi" hreflang="vi">Tiếng Việt</a></li>
 			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%A4%90%E8%80%B3%E9%B9%B0" title="褐耳鹰" lang="zh" hreflang="zh">中文</a></li>

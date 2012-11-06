@@ -495,7 +495,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Buztanikara_hori" title="Buztanikara hori" lang="eu" hreflang="eu">Euskara</a></li>
 			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/%C3%81arerla" title="Áarerla" lang="fo" hreflang="fo">Føroyskt</a></li>
 			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Bergeronnette_des_ruisseaux" title="Bergeronnette des ruisseaux" lang="fr" hreflang="fr">Français</a></li>
-			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%BC%D5%A5%D5%BC%D5%B6%D5%A1%D5%B5%D5%AB%D5%B6_%D5%AD%D5%A1%D5%B2%D5%BF%D5%BF%D5%B6%D5%AB%D5%AF" title="Լեռնային խաղտտնիկ" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%BC%D5%A5%D5%BC%D5%B6%D5%A1%D5%B5%D5%AB%D5%B6_%D5%AD%D5%A1%D5%B2%D5%BF%D5%BF%D5%B6%D5%AB%D5%AF" title="Լեռնային խաղտտնիկ" lang="hy" hreflang="hy">Հ��յերեն</a></li>
 			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Kicuit_batu" title="Kicuit batu" lang="id" hreflang="id">Bahasa Indonesia</a></li>
 			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Motacilla_cinerea" title="Motacilla cinerea" lang="it" hreflang="it">Italiano</a></li>
 			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C%D7%99%D7%90%D7%9C%D7%99_%D7%96%D7%A0%D7%91%D7%AA%D7%9F" title="נחליאלי זנבתן" lang="he" hreflang="he">עברית</a></li>

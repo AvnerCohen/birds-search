@@ -355,7 +355,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Lapinkirvinen" title="Lapinkirvinen" lang="fi" hreflang="fi">Suomi</a></li>
 			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/R%C3%B6dstrupig_pipl%C3%A4rka" title="Rödstrupig piplärka" lang="sv" hreflang="sv">Svenska</a></li>
 			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_gerdanl%C4%B1_incir_ku%C5%9Fu" title="Kızıl gerdanlı incir kuşu" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A9%D0%B5%D0%B2%D1%80%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D1%83%D0%B4%D0%B8%D0%B9" title="Щеврик червоногру��ий" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A9%D0%B5%D0%B2%D1%80%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D1%83%D0%B4%D0%B8%D0%B9" title="Щеврик червоногрудий" lang="uk" hreflang="uk">Українська</a></li>
 			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BA%A2%E5%96%89%E9%B9%A8" title="红喉鹨" lang="zh" hreflang="zh">中文</a></li>
 		</ul>
 	</div>

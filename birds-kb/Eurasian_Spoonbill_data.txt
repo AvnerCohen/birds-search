@@ -706,7 +706,7 @@ Expensive parser function count: 1/500
 			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/E%C5%ADrazia_plataleo" title="Eŭrazia plataleo" lang="eo" hreflang="eo">Esperanto</a></li>
 			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Mokozabal_zuri" title="Mokozabal zuri" lang="eu" hreflang="eu">Euskara</a></li>
 			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Sp%C3%B3nnev" title="Spónnev" lang="fo" hreflang="fo">Føroyskt</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Spatule_blanche" title="Spatule blanche" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Spatule_blanche" title="Spatule blanche" lang="fr" hreflang="fr">Fran��ais</a></li>
 			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Leppelbek" title="Leppelbek" lang="fy" hreflang="fy">Frysk</a></li>
 			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Cullereiro" title="Cullereiro" lang="gl" hreflang="gl">Galego</a></li>
 			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%85%B8%EB%9E%91%EB%B6%80%EB%A6%AC%EC%A0%80%EC%96%B4%EC%83%88" title="노랑부리저어새" lang="ko" hreflang="ko">한국어</a></li>

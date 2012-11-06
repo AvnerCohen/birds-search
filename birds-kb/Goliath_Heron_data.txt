@@ -390,7 +390,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Ardea_goliath" title="Ardea goliath" lang="it" hreflang="it">Italiano</a></li>
 			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/%C3%93ri%C3%A1sg%C3%A9m" title="Óriásgém" lang="hu" hreflang="hu">Magyar</a></li>
 			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Reuzenreiger" title="Reuzenreiger" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%AF%D9%88%D9%84%DB%8C%D8%A7%D8%AA%DA%BE_%DB%81%DB%8C%D8%B1%D9%88%D9%86" title="گولیاتھ ہیرون" lang="pnb" hreflang="pnb">پ��جابی</a></li>
+			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DA%AF%D9%88%D9%84%DB%8C%D8%A7%D8%AA%DA%BE_%DB%81%DB%8C%D8%B1%D9%88%D9%86" title="گولیاتھ ہیرون" lang="pnb" hreflang="pnb">پنجابی</a></li>
 			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Czapla_olbrzymia" title="Czapla olbrzymia" lang="pl" hreflang="pl">Polski</a></li>
 			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B0%D0%BF%D0%BB%D1%8F" title="Исполинская цапля" lang="ru" hreflang="ru">Русский</a></li>
 			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Goliath_Heron" title="Goliath Heron" lang="simple" hreflang="simple">Simple English</a></li>

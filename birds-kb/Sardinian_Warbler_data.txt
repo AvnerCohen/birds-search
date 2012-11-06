@@ -407,7 +407,7 @@ Expensive parser function count: 0/500
 			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Sylvia_melanocephala" title="Sylvia melanocephala" lang="es" hreflang="es">Español</a></li>
 			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Nigrakapa_silvio" title="Nigrakapa silvio" lang="eo" hreflang="eo">Esperanto</a></li>
 			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Txinbo_burubeltz" title="Txinbo burubeltz" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/H%C3%B8vu%C3%B0svartur_lj%C3%B3mari" title="Høvuðsvartur lj��mari" lang="fo" hreflang="fo">Føroyskt</a></li>
+			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/H%C3%B8vu%C3%B0svartur_lj%C3%B3mari" title="Høvuðsvartur ljómari" lang="fo" hreflang="fo">Føroyskt</a></li>
 			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Fauvette_m%C3%A9lanoc%C3%A9phale" title="Fauvette mélanocéphale" lang="fr" hreflang="fr">Français</a></li>
 			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Sylvia_melanocephala" title="Sylvia melanocephala" lang="it" hreflang="it">Italiano</a></li>
 			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%91%D7%9B%D7%99_%D7%A9%D7%97%D7%95%D7%A8-%D7%A8%D7%90%D7%A9" title="סבכי שחור-ראש" lang="he" hreflang="he">עברית</a></li>
