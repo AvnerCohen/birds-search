@@ -35,7 +35,7 @@
                 $("#matched").text("Results found: " + res.response.numFound);
                 var docs = res.response.docs;
                 docs.forEach(function(item) {
-                    $list.append("<li>" + item.title_t + "</li>");
+                    $list.append("<li><a href='"+item.link_t+"' target='_blank'>" + item.title_t + "</a></li>");
                 });
             })
         }

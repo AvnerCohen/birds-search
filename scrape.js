@@ -36,18 +36,6 @@ function scrapeWikiPage(species_name) {
     }).on('error', function(e) {
     log("Got error: " + e.message);
   });
-    // //Second cycle.. Scrape and save only data is not already present
-    // var filename = "./birds-kb/" + species_name + "_data.txt";
-    // var uri = 'http://en.wikipedia.org/wiki/' + species_name;
-
-    // var exists = fs.existsSync(filename);
-    // var stats = exists && fs.lstatSync(filename);
-    // if (!stats || stats.size < 121) {
-    //     console.log(filename + "::"+ uri +"::1-Scraping");
-    //     request(uri).pipe();
-    // } else {
-    //     log(species_name + "::0-Skipped scraping");
-    // }
 }
 
 

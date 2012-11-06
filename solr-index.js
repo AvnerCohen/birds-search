@@ -13,6 +13,7 @@ var client = solr.createClient();
 //Extract: keywords
 //extract body
 var BASE_PATH = "./birds-kb/";
+var BASE_LINK = "http://en.wikipedia.org/wiki/"
 var files = fs.readdirSync(BASE_PATH);
 var counter = 0;
 //Loop through files and extract important content
@@ -28,6 +29,7 @@ for (var i = 0; i < files.length; i++) {
     var doc = {
       id: counter++,
       title_t : title,
+      link_t :BASE_LINK + files[i].replace("_data.txt", ""),
       body_t : doc("div#bodyContent").text()
     };
   client.add(doc, done); 
