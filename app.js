@@ -4,12 +4,20 @@ var log = require("./log").log;
 var solr = require('solr');
 var union = require('union');
 var ecstatic = require('ecstatic');
+var url = require('url');
 
 var client = solr.createClient();
 
 
 function solrSearch(searchterm) {
+    //add critera
     var query =  'title_t:# OR summary_t:# OR body_t:#'.replace(/#/g, searchterm);
+
+    //add page to start from
+    var parts = url.parse(this.req.url, true);
+    var page = parts.query['page'];
+    query+= "&start=" + page;
+
     var that = this;
     client.query(query, function(err, response) {
         if (err) throw err;

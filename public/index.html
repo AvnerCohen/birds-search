@@ -7,15 +7,16 @@
             Bird Search
         </title>
         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
-                      
+                              
         </script>
         <script type="text/javascript" src="js/birds-search.js">
-                        
+                                
         </script>
         <script type="text/javascript">
-                                        $(document).ready(function() {
-                                    $("#searchterm").on("keyup", applyTickNow);
-                                });
+         $(document).ready(function() {
+                 $("#searchterm").on("keyup", changeSearchValue);
+                 $(".arrow").on("click", changeResultPage);
+         });
         </script>
         <link rel="stylesheet" href="css/style.css">
         </link>
@@ -43,8 +44,14 @@
                 </div>
             </div>
             <footer>
-                <p>
-                </p>
+                <nav>
+                    <button class="arrow prev" data-dir="prev">
+                        Prev &#x25C0;
+                    </button> 
+                    <button class="arrow next" data-dir="next">
+                        &#x25B6; Next
+                    </button>
+                </nav>
             </footer>
         </div>
     </body>

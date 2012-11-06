@@ -17,11 +17,16 @@ li {
   }
 }
 .resultpane{
-  padding-top:10px;
+  height:500px;
   background-color:#E9EEF5;
   border:1px dashed;
 }
 
 #matched{
   margin-left:2px;
+}
+
+.arrow{
+font-size:10px;
+line-height:14px;
 }

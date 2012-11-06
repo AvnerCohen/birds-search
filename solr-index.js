@@ -6,38 +6,50 @@ var log = require("./log").log;
 
 
 var client = solr.createClient();
+var query = "*:*";
 
-//Loop through files in birds-kb.
-//Load content.
-//Extract: title
-//Extract: keywords
-//extract body
-var BASE_PATH = "./birds-kb/";
-var BASE_LINK = "http://en.wikipedia.org/wiki/"
-var files = fs.readdirSync(BASE_PATH);
-var counter = 0;
-//Loop through files and extract important content
-for (var i = 0; i < files.length; i++) {
-    var data = fs.readFileSync(BASE_PATH + files[i] ,"utf8");
-    var doc = cheerio.load(data);
+client.del(null, query, function(err, response) {
+    if (err) throw err;
+    console.log('Deleted all docs matching query "' + query + '"');
+    client.commit();
+    reIndex();
+});
 
-    var title = doc("h1").text();
-    if (title === ""){
-      log("No title in:" + files[i]);
-      continue;
+
+function reIndex() {
+    //Loop through files in birds-kb.
+    //Load content.
+    //Extract: title
+    //Extract: keywords
+    //extract body
+    var BASE_PATH = "./birds-kb/";
+    var BASE_LINK = "http://en.wikipedia.org/wiki/"
+    var files = fs.readdirSync(BASE_PATH);
+    var counter = 0;
+    //Loop through files and extract important content
+    for (var i = 0; i < files.length; i++) {
+        var data = fs.readFileSync(BASE_PATH + files[i], "utf8");
+        var doc = cheerio.load(data);
+
+        var title = doc("h1").text();
+        if (title === "") {
+            log("No title in:" + files[i]);
+            continue;
+        }
+
+        var doc = {
+            id: counter++,
+            title_t: title,
+            link_t: BASE_LINK + files[i].replace("_data.txt", ""),
+            body_t: doc("div#bodyContent").text(),
+            summary_t: doc("div#mw-content-text p").first().html()
+        };
+
+        client.add(doc, done);
     }
-    var doc = {
-      id: counter++,
-      title_t : title,
-      link_t :BASE_LINK + files[i].replace("_data.txt", ""),
-      body_t : doc("div#bodyContent").text(),
-      summary_t: doc("div#mw-content-text p").first().html()
-    };
-  client.add(doc, done); 
-}
-function done(){
-   client.commit();
 
-}
+    function done() {
+        client.commit();
 
-function parseData(err, data) {}
+    }
+}
