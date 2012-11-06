@@ -30,7 +30,8 @@ for (var i = 0; i < files.length; i++) {
       id: counter++,
       title_t : title,
       link_t :BASE_LINK + files[i].replace("_data.txt", ""),
-      body_t : doc("div#bodyContent").text()
+      body_t : doc("div#bodyContent").text(),
+      summary_t: doc("div#mw-content-text p").first().html()
     };
   client.add(doc, done); 
 }
