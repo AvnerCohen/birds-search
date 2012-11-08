@@ -17,7 +17,6 @@ The flow of setting up the project is as follows:
 
 ### 1 ###
 
-
     node scrape
     
 Not a mandatory process since repo also include the scraped pages from some point in world history. This will start a process to scrape the list of birds recorded in israel from: http://www.israbirding.com/checklist/ 
