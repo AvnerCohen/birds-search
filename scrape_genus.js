@@ -19,12 +19,13 @@ function genusToCSV() {
         var $ = cheerio.load(data);
         let family = $('td:contains("Family") ~ td').children("a").text().trim()
         let genus = $('td:contains("Genus") ~ td').children("a").text().trim()
+        let order = $('td:contains("Order") ~ td').children("a").text().trim()
         var title = $("h1").text();
-        asCSV += `${title},${family},${genus}\n`
+        asCSV += `${title},${family},${order},${genus}\n`
 
     }
 
-    fs.writeFile('genus.output', asCSV, function (err) {
+    fs.writeFile('genus.csv', asCSV, function (err) {
       if (err) throw err;
       console.log('It\'s saved!');
     })
