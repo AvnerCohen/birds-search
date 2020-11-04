@@ -7,7 +7,7 @@
     "async": "^3.2.0",
     "cheerio": "~0.10.1",
     "director": "~1.1.6",
-    "ecstatic": "~0.1.6",
+    "ecstatic": "~2.2.2",
     "grunt-css": "~0.3.2",
     "request": "^2.88.2",
     "solr-client": "~0.2.3",
