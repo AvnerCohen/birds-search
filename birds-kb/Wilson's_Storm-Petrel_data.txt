@@ -1,474 +1,615 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Wilson's Storm Petrel - Wikipedia, the free encyclopedia</title>
-<meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf3" />
-<link rel="canonical" href="/wiki/Wilson%27s_Storm_Petrel" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
-
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wilson\'s_Storm_Petrel","wgTitle":"Wilson\'s Storm Petrel","wgCurRevisionId":515206165,"wgArticleId":389491,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Storm-petrels","Oceanitinae","Antarctic birds","Birds of South America","Birds of South Georgia and the South Sandwich Islands","Birds of South Australia","Birds of Canada","Fauna of the Kerguelen Islands","Animals described in 1820","Fauna of Macquarie Island","Fauna of Heard Island and McDonald Islands","Fauna of Bouvet Island","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wilson\'s_Storm_Petrel","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Wilson\'s_Storm-Petrel","wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"2cd57f501b1aa88ebf1825306c52d714","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":389491,"title":"Wilson\'s Storm Petrel","namespace":0,"categories":["Animals described in 1820","Antarctic birds","Articles with \'species\' microformats","Birds of Canada","Birds of South America","Birds of South Australia","Birds of South Georgia and the South Sandwich Islands","Birds of Western Sahara","Fauna of Bouvet Island","Fauna of Heard Island and McDonald Islands","Fauna of Macquarie Island","Fauna of the Kerguelen Islands","IUCN Red List least concern species","Oceanitinae","Storm-petrels"],"permissionLevel":"aft-reader"}});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
-"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
-}</script>
-<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf3/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Wilson_s_Storm_Petrel skin-vector action-view vector-animateLayout">
-		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content" class="mw-body">
-			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Wilson's Storm Petrel</span></h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- tagline -->
-				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-				<!-- /tagline -->
-								<!-- subtitle -->
-				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Wilson%27s_Storm-Petrel&amp;redirect=no" title="Wilson's Storm-Petrel">Wilson's Storm-Petrel</a>)</div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<meta charset="UTF-8"/>
+<title>Wilson's storm petrel - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5920cec9-f3f8-45cb-861e-eccc59704a6a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wilson's_storm_petrel","wgTitle":"Wilson's storm petrel","wgCurRevisionId":944980135,"wgRevisionId":944980135,"wgArticleId":389491,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: ref=harv","Cite iucn maint","Articles with 'species' microformats","Commons link is on Wikidata","Taxonbars with 25–29 taxon IDs","IUCN Red List least concern species","Storm-petrels","Oceanites","Birds of the Falkland Islands","Birds of islands of the Atlantic Ocean",
+"Birds of subantarctic islands","Birds of the Indian Ocean","Fauna of Heard Island and McDonald Islands","Fauna of subantarctic islands","Birds described in 1820"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wilson's_storm_petrel","wgRelevantArticleId":389491,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Wilson's_Storm-Petrel","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Wilson%27s_storm_petrel","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q607024"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oceanites_oceanicus_-_SE_Tasmania.jpg/1200px-Oceanites_oceanicus_-_SE_Tasmania.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Wilson%27s_storm_petrel"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wilson%27s_storm_petrel"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wilson_s_storm_petrel rootpage-Wilson_s_storm_petrel skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wilson's storm petrel</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Wilson%27s_Storm-Petrel&amp;redirect=no" class="mw-redirect" title="Wilson&#039;s Storm-Petrel">Wilson&#039;s Storm-Petrel</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
 <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Wilson&#39;s storm petrel
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Wilson's Storm Petrel</th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Oceanites_oceanicus_-_SE_Tasmania.jpg" class="image"><img alt="Oceanites oceanicus - SE Tasmania.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oceanites_oceanicus_-_SE_Tasmania.jpg/220px-Oceanites_oceanicus_-_SE_Tasmania.jpg" decoding="async" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oceanites_oceanicus_-_SE_Tasmania.jpg/330px-Oceanites_oceanicus_-_SE_Tasmania.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oceanites_oceanicus_-_SE_Tasmania.jpg/440px-Oceanites_oceanicus_-_SE_Tasmania.jpg 2x" data-file-width="1600" data-file-height="1067" /></a>
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Oceanites_oceanicus_-_SE_Tasmania.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oceanites_oceanicus_-_SE_Tasmania.jpg/220px-Oceanites_oceanicus_-_SE_Tasmania.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oceanites_oceanicus_-_SE_Tasmania.jpg/330px-Oceanites_oceanicus_-_SE_Tasmania.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Oceanites_oceanicus_-_SE_Tasmania.jpg/440px-Oceanites_oceanicus_-_SE_Tasmania.jpg 2x" /></a></td>
-</tr>
-<tr style="text-align: center; background-color: rgb(211,211,164)">
-<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
-</tr>
+<td colspan="2"><div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" data-file-width="240" data-file-height="64" /><br /><a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN_1-0" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
 <tr>
-<td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
-<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Oceanites" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Domain:
 </td>
-</tr>
+<td><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryota</a>
+</td></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
-</tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
 <tr>
-<td>Kingdom:</td>
-<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
-</tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
 <tr>
-<td>Phylum:</td>
-<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
-</tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Bird" title="Bird">Aves</a>
+</td></tr>
 <tr>
-<td>Class:</td>
-<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
-</tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Procellariiformes" title="Procellariiformes">Procellariiformes</a>
+</td></tr>
 <tr>
-<td>Order:</td>
-<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Procellariiformes" title="Procellariiformes">Procellariiformes</a></span></td>
-</tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Austral_storm_petrel" title="Austral storm petrel">Oceanitidae</a>
+</td></tr>
 <tr>
-<td>Family:</td>
-<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Hydrobatidae" title="Hydrobatidae" class="mw-redirect">Hydrobatidae</a></span></td>
-</tr>
+<td>Genus:
+</td>
+<td><a href="/wiki/Oceanites" title="Oceanites"><i>Oceanites</i></a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<td>Subfamily:</td>
-<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Oceanitinae" title="Oceanitinae">Oceanitinae</a></span></td>
-</tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>O.&#160;oceanicus</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
 <tr>
-<td>Genus:</td>
-<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Oceanites" title="Oceanites">Oceanites</a></i></span></td>
-</tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
 <tr>
-<td>Species:</td>
-<td><span class="species" style="white-space:nowrap;"><i><b>O. oceanicus</b></i></span></td>
-</tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Oceanites oceanicus</i></span></b><br /><div style="font-size: 85%;"><a href="/wiki/Heinrich_Kuhl" title="Heinrich Kuhl">Kuhl</a>, 1820</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:OceanitesDistribution.svg" class="image"><img alt="OceanitesDistribution.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/OceanitesDistribution.svg/220px-OceanitesDistribution.svg.png" decoding="async" width="220" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/OceanitesDistribution.svg/330px-OceanitesDistribution.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/OceanitesDistribution.svg/440px-OceanitesDistribution.svg.png 2x" data-file-width="863" data-file-height="443" /></a>
+</td></tr>
 <tr>
-<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Oceanites oceanicus</i></span></b><br />
-<small><a href="/wiki/Heinrich_Kuhl" title="Heinrich Kuhl">Kuhl</a>, 1820</small></td>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center"><a href="/w/index.php?title=File:OceanitesDistribution.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/OceanitesDistribution.svg/220px-OceanitesDistribution.svg.png" width="220" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/OceanitesDistribution.svg/330px-OceanitesDistribution.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/OceanitesDistribution.svg/440px-OceanitesDistribution.svg.png 2x" /></a></td>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center; font-size: 88%">Distribution range (blue)</td>
-</tr>
-</table>
-</div>
-<p><b>Wilson's Storm Petrel</b> (<i>Oceanites oceanicus</i>), also known as <b>Wilson's Petrel</b>, is a small <a href="/wiki/Seabird" title="Seabird">seabird</a> of the <a href="/wiki/Storm_petrel" title="Storm petrel">storm petrel</a> family. It is one of the most abundant bird species in the world and has a circumpolar distribution mainly in the seas of the southern hemisphere but extending northwards during the summer of the northern hemisphere. The world population has been estimated to be more than 50 million pairs.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> The name commemorates the Scottish-American ornithologist <a href="/wiki/Alexander_Wilson" title="Alexander Wilson">Alexander Wilson</a>.</p>
-<table id="toc" class="toc">
-<tr>
-<td>
-<div id="toctitle">
-<h2>Contents</h2>
-</div>
+<td colspan="2" style="text-align: center; font-size: 88%">Distribution range (blue)
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p><b>Wilson's storm petrel</b> (<i>Oceanites oceanicus</i>), also known as <b>Wilson's petrel</b>, is a small <a href="/wiki/Seabird" title="Seabird">seabird</a> of the <a href="/wiki/Austral_storm_petrel" title="Austral storm petrel">austral storm petrel</a> family <a href="/wiki/Oceanitidae" class="mw-redirect" title="Oceanitidae">Oceanitidae</a>. It is one of the most abundant bird species in the world and has a circumpolar distribution mainly in the seas of the southern hemisphere but extending northwards during the summer of the northern hemisphere. The world population has been estimated to be more than 50 million pairs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The name commemorates the Scottish-American ornithologist <a href="/wiki/Alexander_Wilson_(ornithologist)" title="Alexander Wilson (ornithologist)">Alexander Wilson</a>. The genus name <i>Oceanites</i> refers to the mythical <a href="/wiki/Oceanid" class="mw-redirect" title="Oceanid">Oceanids</a>, the three thousand daughters of <a href="/wiki/Tethys_(mythology)" title="Tethys (mythology)">Tethys</a>. The species name is from <a href="/wiki/Latin" title="Latin">Latin</a> <i>oceanus</i>, "ocean".<sup id="cite_ref-job90_3-0" class="reference"><a href="#cite_note-job90-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Taxonomy"><span class="tocnumber">2</span> <span class="toctext">Taxonomy</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Distribution"><span class="tocnumber">3</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
 <li class="toclevel-1 tocsection-4"><a href="#Behaviour_and_ecology"><span class="tocnumber">4</span> <span class="toctext">Behaviour and ecology</span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#Other_sources"><span class="tocnumber">6</span> <span class="toctext">Other sources</span></a></li>
 <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
 </ul>
-</td>
-</tr>
-</table>
-<h2><span class="editsection">[<a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
-<div class="thumb tleft">
-<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wilsons_Storm_Petrel_(Oceanites_oceanicus)_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg/220px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg" width="220" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg/330px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg/440px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg 2x" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Wilsons_Storm_Petrel_(Oceanites_oceanicus)_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-The yellow webbing to the feet is distinctive</div>
 </div>
-</div>
-<p>Wilson's Storm Petrel is a small <a href="/wiki/Bird" title="Bird">bird</a>, 16–18.5&#160;cm (6.3–7.3&#160;in) in length with a 38–42&#160;cm (15–16.5&#160;in) wingspan. It is slightly larger than the <a href="/wiki/European_Storm_Petrel" title="European Storm Petrel">European Storm Petrel</a> and is essentially dark brown in all plumages, except for the white rump and flanks. The feet jut beyond the square ended tail in flight. The European Storm Petrel has a very distinct whitish lining to the underwing and a nearly all dark upperwing. Wilson's Storm Petrel has a diffuse pale band along the upper wing coverts and lacks the distinctive white underwing lining.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> The webbing between the toes is yellow with black spots in pre-breeding age individuals.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit&amp;section=2" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
-<div class="thumb tright">
-<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wilsons_Storm_Petrel_(Oceanites_oceanicus)_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg/220px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg/330px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg/440px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg 2x" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Wilsons_Storm_Petrel_(Oceanites_oceanicus)_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-Showing the pale band on the upper wing secondary coverts</div>
-</div>
-</div>
-<p>Originally described in the genus <i>Procellaria</i> it has been placed under the genus <i>Oceanites</i>. Two or three subspecies are recognized and one population <i>maorianus</i> from New Zealand may be extinct. The nominate population breeds from Cape Horn to the Kerguelen Islands while <i>exasperatus</i> breeds along the Antarctic coast in the South Shetland and other islands. The population from Tierra del Fuego was described as <i>chilensis</i> (=<i>wollastoni</i>, <i>magellanicus</i>) but this is considered a <i><a href="/wiki/Nomen_nudum" title="Nomen nudum">nomen nudum</a></i> although some authors have reinstated it, noting that it can be distinguished by white mottling on the belly.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
-<p>The name <i>Mother Carey's Chicken</i> was used in early literature and often applied to several petrel species while the generic name of stormy petrel referred to the idea that their appearance foretold stormy weather. Some authors called it the Yellow-webbed Storm-petrel.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit&amp;section=3" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
-<p>This species breeds on the <a href="/wiki/Antarctic" title="Antarctic">Antarctic</a> coastlines and nearby islands such as the <a href="/wiki/South_Shetland_Islands" title="South Shetland Islands">South Shetland Islands</a> during the summer of the southern hemisphere. It spends the rest of the year at sea, and moves into the northern oceans in the southern hemisphere's winter. It is much more common in the north <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> than the <a href="/wiki/Pacific" title="Pacific" class="mw-redirect">Pacific</a>. Wilson's Storm Petrel is common off eastern <a href="/wiki/North_America" title="North America">North America</a> in the northern summer and the seasonal abundance of this <a href="/wiki/Bird" title="Bird">bird</a> in suitable <a href="/wiki/Europe" title="Europe">European</a> waters has been revealed through pelagic boat trips, most notably in the area of the <a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a>, <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>.</p>
-<p>It is strictly pelagic outside the breeding season, and this, together with its remote breeding sites, makes Wilson's Petrel a difficult bird to see from land. Only in severe storms might this species be pushed into headlands.</p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit&amp;section=4" title="Edit section: Behaviour and ecology">edit</a>]</span> <span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span></h2>
-<p>Wilson's Storm Petrel has a more direct gliding flight than other small petrels, and like most others it flies low over the seas surface and has the habit of pattering on the water surface as it picks <a href="/wiki/Plankton" title="Plankton">planktonic</a> food items from the ocean surface. Their unique fluttering and hovering flight is achieved often with their wings held high. Even in calm weather, they can make use of the slight breeze produced by the waves and in effect soar while using their feet to stabilize themselves.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup> Like European Storm Petrel, it is highly gregarious, and will also follow ships. A soft peeping noise is often heard while the birds are feeding. They feed predominantly on planktonic invertebrates close to the surface, rarely plunging below the surface to capture prey. They may however sometimes take 3–8&#160;cm long fish in the family <a href="/wiki/Myctophidae" title="Myctophidae" class="mw-redirect">Myctophidae</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
-<p>At 40 g on average, it is the smallest warm-blooded animal that breeds in the Antarctic region.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> It nests in colonies close to the sea in rock crevices or small burrows in soft earth and lays a single white egg. Like most petrels, its walking ability is limited to a short shuffle to the burrow. In the Antarctic, nests may sometimes get snowed over leading to destruction of the nest or chicks. This <a href="/wiki/Storm_petrel" title="Storm petrel">storm petrel</a> is strictly nocturnal at the breeding sites to avoid predation by <a href="/wiki/Gull" title="Gull">gulls</a> and <a href="/wiki/Skua" title="Skua">skuas</a>, and will even avoid coming to land on clear moonlit nights. Both parents tend the nest and feed the single chick.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> The chicks call and beg for food, more vigorously when hungry.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> Chicks remain at nest for about 60 days and are fed on krill, fish and amphipods.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup> Adults have the ability to identify their nest burrows<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup> in the dark and their mates by olfactory cues.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup></p>
-<p>Widespread throughout its large range, Wilson's Storm Petrel is evaluated as Least Concern on the <a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List</a> of Threatened Species.<sup id="cite_ref-IUCN2012_0-1" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit&amp;section=5" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
-<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+
+<h2><span class="mw-headline" id="Taxonomy">Taxonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wilsons_Storm_Petrel_(Oceanites_oceanicus)_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg/220px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg/330px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg/440px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wilsons_Storm_Petrel_(Oceanites_oceanicus)_hovering_Oct_2011_Karnataka_Pelagic_Udupi.jpg" class="internal" title="Enlarge"></a></div>Showing the pale band on the upper wing secondary coverts</div></div></div>
+<p>Originally described in the genus <i>Procellaria</i> it has been placed under the genus <i>Oceanites</i>. Two or three subspecies are recognized and one population <i>maorianus</i> from New Zealand may be extinct. The nominate population breeds from Cape Horn to the Kerguelen Islands while <i>exasperatus</i> breeds along the Antarctic coast in the South Shetland and other islands. The population from Tierra del Fuego was described as <i>chilensis</i> (=<i>wollastoni</i>, <i>magellanicus</i>) but this is considered a <i><a href="/wiki/Nomen_nudum" title="Nomen nudum">nomen nudum</a></i> although some authors have reinstated it, noting that it can be distinguished by white mottling on the belly.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>The name <i><a href="/wiki/Mother_Carey" title="Mother Carey">Mother Carey</a>'s chicken</i> was used in early literature and often applied to several petrel species while the generic name of stormy petrel referred to the idea that their appearance foretold stormy weather. <a href="/wiki/F._M._Littler" class="mw-redirect" title="F. M. Littler">F. M. Littler</a> and others called it the yellow-webbed storm-petrel.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wilsons_Storm_Petrel_(Oceanites_oceanicus)_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg/220px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg" decoding="async" width="220" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg/330px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg/440px-Wilsons_Storm_Petrel_%28Oceanites_oceanicus%29_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg 2x" data-file-width="458" data-file-height="320" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wilsons_Storm_Petrel_(Oceanites_oceanicus)_webbed_feet_Oct_2011_Karnataka_Pelagic_Udupi.jpg" class="internal" title="Enlarge"></a></div>The yellow webbing to the feet is distinctive</div></div></div>
+<p>Wilson's storm petrel is a small <a href="/wiki/Bird" title="Bird">bird</a>, 16–18.5&#160;cm (6.3–7.3&#160;in) in length with a 38–42&#160;cm (15–16.5&#160;in) wingspan. It is slightly larger than the <a href="/wiki/European_storm_petrel" title="European storm petrel">European storm petrel</a> and is essentially dark brown in all plumages, except for the white rump and flanks. The feet jut beyond the square ended tail in flight. The European storm petrel has a very distinct whitish lining to the underwing and a nearly all dark upperwing. Wilson's storm petrel has a diffuse pale band along the upper wing coverts and lacks the distinctive white underwing lining.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The webbing between the toes is yellow with black spots in pre-breeding age individuals.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This species breeds on the <a href="/wiki/Antarctic" title="Antarctic">Antarctic</a> coastlines and nearby islands such as the <a href="/wiki/South_Shetland_Islands" title="South Shetland Islands">South Shetland Islands</a> during the summer of the southern hemisphere. It spends the rest of the year at sea, and moves into the northern oceans in the southern hemisphere's winter. It is much more common in the north <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> than the <a href="/wiki/Pacific" class="mw-redirect" title="Pacific">Pacific</a>. Wilson's storm petrel is common off eastern <a href="/wiki/North_America" title="North America">North America</a> in the northern summer and the seasonal abundance of this bird in suitable <a href="/wiki/Europe" title="Europe">European</a> waters has been revealed through pelagic boat trips, most notably in the area of the <a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a> and <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>.
+</p><p>It is strictly <a href="/wiki/Pelagic" class="mw-redirect" title="Pelagic">pelagic</a> outside the breeding season, and this, together with its remote breeding sites, makes Wilson's petrel a difficult bird to see from land. Only in severe storms might this species be pushed into headlands.
+</p>
+<h2><span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit&amp;section=4" title="Edit section: Behaviour and ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wilson's storm petrel has a more direct gliding flight than other small petrels, and like most others it flies low over the seas surface and has the habit of pattering on the water surface as it picks <a href="/wiki/Plankton" title="Plankton">planktonic</a> food items from the ocean surface. Their unique fluttering and hovering flight is achieved often with their wings held high. Even in calm weather, they can make use of the slight breeze produced by the waves and in effect soar while using their feet to stabilize themselves.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Like the European storm petrel, it is highly gregarious, and will also follow ships and fishing boats. A soft peeping noise is often heard while the birds are feeding. They feed predominantly on planktonic invertebrates close to the surface, rarely plunging below the surface to capture prey. They may however sometimes take 3–8&#160;cm long fish in the family <a href="/wiki/Myctophidae" class="mw-redirect" title="Myctophidae">Myctophidae</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>At 40&#160;g on average, it is the smallest warm-blooded animal that breeds in the Antarctic region.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> It nests in colonies close to the sea in rock crevices or small burrows in soft earth and lays a single white egg. Like most petrels, its walking ability is limited to a short shuffle to the burrow. In the Antarctic, nests may sometimes get snowed over leading to destruction of the nest or chicks. This <a href="/wiki/Storm_petrel" title="Storm petrel">storm petrel</a> is strictly nocturnal at the breeding sites to avoid predation by larger <a href="/wiki/Gull" title="Gull">gulls</a> and <a href="/wiki/Skua" title="Skua">skuas</a>, and will even avoid coming to land on clear moonlit nights. Both parents tend the nest and feed the single chick.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> The chicks call and beg for food, more vigorously when hungry.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Chicks remain at nest for about 60 days and are fed on <a href="/wiki/Krill" title="Krill">krill</a>, fish and <a href="/wiki/Amphipoda" title="Amphipoda">amphipods</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Adults have the ability to identify their nest burrows<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> in the dark and their mates by olfactory cues.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>Widespread throughout its large range, Wilson's storm petrel is evaluated as <a href="/wiki/Least_concern" class="mw-redirect" title="Least concern">least concern</a> on the <a href="/wiki/IUCN_Red_List_of_Threatened_Species" class="mw-redirect" title="IUCN Red List of Threatened Species">IUCN Red List of Threatened Species</a>.<sup id="cite_ref-IUCN_1-1" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
 <ol class="references">
-<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003969">"<i>Oceanites oceanicus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003969">http://www.iucnredlist.org/apps/redlist/details/106003969</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Oceanites+oceanicus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003969&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Newton, Ian (1998). <i>Population limitation in birds</i>. Academic Press. p.&#160;3.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Population+limitation+in+birds&amp;rft.aulast=Newton%2C+Ian&amp;rft.au=Newton%2C+Ian&amp;rft.date=1998&amp;rft.pages=p.%26nbsp%3B3&amp;rft.pub=Academic+Press&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation Journal">Robert L. Flood and Bryan Thomas (2007). <a rel="nofollow" class="external text" href="http://scillypelagics.com/BBstormpetrels.pdf">"Identification of ‘black-and-white’ storm-petrels of the North Atlantic"</a>. <i>British Birds</i> <b>100</b> (7): 407–442<span class="printonly">. <a rel="nofollow" class="external free" href="http://scillypelagics.com/BBstormpetrels.pdf">http://scillypelagics.com/BBstormpetrels.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Identification+of+%E2%80%98black-and-white%E2%80%99+storm-petrels+of+the+North+Atlantic&amp;rft.jtitle=British+Birds&amp;rft.aulast=Robert+L.+Flood+and+Bryan+Thomas&amp;rft.au=Robert+L.+Flood+and+Bryan+Thomas&amp;rft.date=2007&amp;rft.volume=100&amp;rft.issue=7&amp;rft.pages=407%E2%80%93442&amp;rft_id=http%3A%2F%2Fscillypelagics.com%2FBBstormpetrels.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation Journal">Quillfeldt, Petra; Tim Schmoll and Hans-Ulrich Peter (2000). "The use of foot web coloration for the estimation of prebreeder numbers in Wilson's storm-petrels, Oceanites oceanicus". <i>Polar Biology</i> <b>23</b> (11): 802–804. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2Fs003000000167">10.1007/s003000000167</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+use+of+foot+web+coloration+for+the+estimation+of+prebreeder+numbers+in+Wilson%27s+storm-petrels%2C+Oceanites+oceanicus&amp;rft.jtitle=Polar+Biology&amp;rft.aulast=Quillfeldt%2C+Petra%3B+Tim+Schmoll+and+Hans-Ulrich+Peter&amp;rft.au=Quillfeldt%2C+Petra%3B+Tim+Schmoll+and+Hans-Ulrich+Peter&amp;rft.date=2000&amp;rft.volume=23&amp;rft.issue=11&amp;rft.pages=802%E2%80%93804&amp;rft_id=info:doi/10.1007%2Fs003000000167&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation Journal">Harrison, P. (1983). <a rel="nofollow" class="external text" href="http://www.britishbirds.co.uk/search?id=5905">"Identification of white-rumped North Atlantic petrels"</a>. <i>British Birds</i> <b>76</b> (4): 161–174<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.britishbirds.co.uk/search?id=5905">http://www.britishbirds.co.uk/search?id=5905</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Identification+of+white-rumped+North+Atlantic+petrels&amp;rft.jtitle=British+Birds&amp;rft.aulast=Harrison%2C+P.&amp;rft.au=Harrison%2C+P.&amp;rft.date=1983&amp;rft.volume=76&amp;rft.issue=4&amp;rft.pages=161%E2%80%93174&amp;rft_id=http%3A%2F%2Fwww.britishbirds.co.uk%2Fsearch%3Fid%3D5905&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation Journal">Dowdall, J., Enright, S., Fahy, K., Gilligan, J., Lillie, G. &amp; M. O'Keeffe (2009). <a rel="nofollow" class="external text" href="http://scillypelagics.com/Oceanites_Puerto_Montt_Chile.html">"Unidentified storm petrels off Puerto Montt, Chile, in February 2009"</a>. <i>Dutch Birding</i> <b>31</b> (4): 218–222<span class="printonly">. <a rel="nofollow" class="external free" href="http://scillypelagics.com/Oceanites_Puerto_Montt_Chile.html">http://scillypelagics.com/Oceanites_Puerto_Montt_Chile.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Unidentified+storm+petrels+off+Puerto+Montt%2C+Chile%2C+in+February+2009&amp;rft.jtitle=Dutch+Birding&amp;rft.aulast=Dowdall%2C+J.%2C+Enright%2C+S.%2C+Fahy%2C+K.%2C+Gilligan%2C+J.%2C+Lillie%2C+G.+%26+M.+O%27Keeffe&amp;rft.au=Dowdall%2C+J.%2C+Enright%2C+S.%2C+Fahy%2C+K.%2C+Gilligan%2C+J.%2C+Lillie%2C+G.+%26+M.+O%27Keeffe&amp;rft.date=2009&amp;rft.volume=31&amp;rft.issue=4&amp;rft.pages=218%E2%80%93222&amp;rft_id=http%3A%2F%2Fscillypelagics.com%2FOceanites_Puerto_Montt_Chile.html&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation book">Mayr E &amp; G W Cottrell, ed. (1979). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/checklistofbirds12pete#page/103/mode/1up"><i>Check-list of birds of the World. volume 1</i></a> (2 ed.). Museum of Comparative Zoology, Cambridge Massachusetts. pp.&#160;103–104<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/checklistofbirds12pete#page/103/mode/1up">http://www.archive.org/stream/checklistofbirds12pete#page/103/mode/1up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Check-list+of+birds+of+the+World.+volume+1&amp;rft.date=1979&amp;rft.pages=pp.%26nbsp%3B103%E2%80%93104&amp;rft.edition=2&amp;rft.pub=Museum+of+Comparative+Zoology%2C+Cambridge+Massachusetts&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fchecklistofbirds12pete%23page%2F103%2Fmode%2F1up&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation book">Littler, FM (1910). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/handbookofbirdso00littiala#page/157/mode/1up/"><i>A Handbook of the Birds of Tasmania and its dependencies</i></a>. Self published. pp.&#160;157–159<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/handbookofbirdso00littiala#page/157/mode/1up/">http://www.archive.org/stream/handbookofbirdso00littiala#page/157/mode/1up/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Handbook+of+the+Birds+of+Tasmania+and+its+dependencies&amp;rft.aulast=Littler%2C+FM&amp;rft.au=Littler%2C+FM&amp;rft.date=1910&amp;rft.pages=pp.%26nbsp%3B157%E2%80%93159&amp;rft.pub=Self+published&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fhandbookofbirdso00littiala%23page%2F157%2Fmode%2F1up%2F&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Withers, PC (1979). <a rel="nofollow" class="external text" href="http://www.avibirds.com/pdf/W/Wilson%20stormvogeltje5.pdf">"Aerodynamics and hydrodynamics of the 'hovering' flight of Wilson's Storm Petrel"</a>. <i>J. Exp. Biol.</i> <b>80</b>: 83–91<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.avibirds.com/pdf/W/Wilson%20stormvogeltje5.pdf">http://www.avibirds.com/pdf/W/Wilson%20stormvogeltje5.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Aerodynamics+and+hydrodynamics+of+the+%27hovering%27+flight+of+Wilson%27s+Storm+Petrel&amp;rft.jtitle=J.+Exp.+Biol.&amp;rft.aulast=Withers%2C+PC&amp;rft.au=Withers%2C+PC&amp;rft.date=1979&amp;rft.volume=80&amp;rft.pages=83%E2%80%9391&amp;rft_id=http%3A%2F%2Fwww.avibirds.com%2Fpdf%2FW%2FWilson%2520stormvogeltje5.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation Journal">Croxall, J.P. &amp; North, A.W. (1988). <a rel="nofollow" class="external text" href="http://www.antarctica.ac.uk/documents/bas_bulletins/bulletin78_03.pdf">"Fish prey of Wilson's storm petrel <i>Oceanites oceanicus</i> at South Georgia (Antarctica)"</a>. <i>British Antarctic Survey Bulletin</i> <b>78</b>: 37–42<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.antarctica.ac.uk/documents/bas_bulletins/bulletin78_03.pdf">http://www.antarctica.ac.uk/documents/bas_bulletins/bulletin78_03.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Fish+prey+of+Wilson%27s+storm+petrel+%27%27Oceanites+oceanicus%27%27+at+South+Georgia+%28Antarctica%29&amp;rft.jtitle=British+Antarctic+Survey+Bulletin&amp;rft.aulast=Croxall%2C+J.P.+%26+North%2C+A.W.&amp;rft.au=Croxall%2C+J.P.+%26+North%2C+A.W.&amp;rft.date=1988&amp;rft.volume=78&amp;rft.pages=37%E2%80%9342&amp;rft_id=http%3A%2F%2Fwww.antarctica.ac.uk%2Fdocuments%2Fbas_bulletins%2Fbulletin78_03.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation Journal">Obst, BS; Kenneth A. Nagy and Robert E. Ricklefs (1987). "Energy Utilization by Wilson's Storm Petrel (Oceanites oceanicus)". <i>Physiological Zoology</i> <b>60</b> (2): 200–210.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Energy+Utilization+by+Wilson%27s+Storm+Petrel+%28Oceanites+oceanicus%29&amp;rft.jtitle=Physiological+Zoology&amp;rft.aulast=Obst%2C+BS%3B+Kenneth+A.+Nagy+and+Robert+E.+Ricklefs&amp;rft.au=Obst%2C+BS%3B+Kenneth+A.+Nagy+and+Robert+E.+Ricklefs&amp;rft.date=1987&amp;rft.volume=60&amp;rft.issue=2&amp;rft.pages=200%E2%80%93210&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation Journal">Gladbach, A; C Braun; A Nordt; H-U Peter &amp; P Quillfeldt (2009). <a rel="nofollow" class="external text" href="http://orn.mpg.de/nwg/quillfeldt/Gladbach.pdf">"Chick provisioning and nest attendance of male and female Wilson's storm petrels Oceanites oceanicus"</a>. <i>Polar Biology</i> <b>32</b> (9): 1315–1321. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2Fs00300-009-0628-z">10.1007/s00300-009-0628-z</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://orn.mpg.de/nwg/quillfeldt/Gladbach.pdf">http://orn.mpg.de/nwg/quillfeldt/Gladbach.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Chick+provisioning+and+nest+attendance+of+male+and+female+Wilson%27s+storm+petrels+Oceanites+oceanicus&amp;rft.jtitle=Polar+Biology&amp;rft.aulast=Gladbach%2C+A%3B+C+Braun%3B+A+Nordt%3B+H-U+Peter+%26+P+Quillfeldt&amp;rft.au=Gladbach%2C+A%3B+C+Braun%3B+A+Nordt%3B+H-U+Peter+%26+P+Quillfeldt&amp;rft.date=2009&amp;rft.volume=32&amp;rft.issue=9&amp;rft.pages=1315%E2%80%931321&amp;rft_id=info:doi/10.1007%2Fs00300-009-0628-z&amp;rft_id=http%3A%2F%2Forn.mpg.de%2Fnwg%2Fquillfeldt%2FGladbach.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation Journal">Quillfeldt P (2002). "Begging in the absence of sibling competition in Wilson's storm-petrels, Oceanites oceanicus". <i>Animal Behaviour</i> <b>64</b> (4): 579–587. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1006%2Fanbe.2002.3090">10.1006/anbe.2002.3090</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Begging+in+the+absence+of+sibling+competition+in+Wilson%27s+storm-petrels%2C+Oceanites+oceanicus&amp;rft.jtitle=Animal+Behaviour&amp;rft.aulast=Quillfeldt+P&amp;rft.au=Quillfeldt+P&amp;rft.date=2002&amp;rft.volume=64&amp;rft.issue=4&amp;rft.pages=579%E2%80%93587&amp;rft_id=info:doi/10.1006%2Fanbe.2002.3090&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Quillfeldt, P; Tim Schmoll; Hans-Ulrich Peter; Jörg Thomas Epplen &amp; Thomas Lubjuhn (2001). "Genetic Monogamy in Wilson's Storm Petrel". <i>The Auk</i> <b>118</b> (1): 242–248. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1642%2F0004-8038%282001%29118%5B0242%3AGMIWSS%5D2.0.CO%3B2">10.1642/0004-8038(2001)118[0242:GMIWSS]2.0.CO;2</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Genetic+Monogamy+in+Wilson%27s+Storm+Petrel&amp;rft.jtitle=The+Auk&amp;rft.aulast=Quillfeldt%2C+P%3B+Tim+Schmoll%3B+Hans-Ulrich+Peter%3B+J%C3%B6rg+Thomas+Epplen+%26+Thomas+Lubjuhn&amp;rft.au=Quillfeldt%2C+P%3B+Tim+Schmoll%3B+Hans-Ulrich+Peter%3B+J%C3%B6rg+Thomas+Epplen+%26+Thomas+Lubjuhn&amp;rft.date=2001&amp;rft.volume=118&amp;rft.issue=1&amp;rft.pages=242%E2%80%93248&amp;rft_id=info:doi/10.1642%2F0004-8038%282001%29118%5B0242%3AGMIWSS%5D2.0.CO%3B2&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bonadonna, Francesco; Vincent Bretagnolle (2002). <a rel="nofollow" class="external text" href="http://jeb.biologists.org/content/205/16/2519.abstract">"Smelling home: a good solution for burrow-finding in nocturnal petrels?"</a>. <i>Journal of Experimental Biology</i> <b>205</b> (16): 2519–2523. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12124375">12124375</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://jeb.biologists.org/content/205/16/2519.abstract">http://jeb.biologists.org/content/205/16/2519.abstract</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Smelling+home%3A+a+good+solution+for+burrow-finding+in+nocturnal+petrels%3F&amp;rft.jtitle=Journal+of+Experimental+Biology&amp;rft.aulast=Bonadonna&amp;rft.aufirst=Francesco&amp;rft.au=Bonadonna%2C%26%2332%3BFrancesco&amp;rft.date=2002&amp;rft.volume=205&amp;rft.issue=16&amp;rft.pages=2519%E2%80%932523&amp;rft_id=info:pmid/12124375&amp;rft_id=http%3A%2F%2Fjeb.biologists.org%2Fcontent%2F205%2F16%2F2519.abstract&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation Journal">Jouventin, P; Vincent Mouret; Francesco Bonadonna (2007). "Wilson's Storm Petrels Oceanites oceanicus Recognise the Olfactory Signature of Their Mate". <i>Ethology</i> <b>113</b> (12): 1228–1232. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1439-0310.2007.01444.x">10.1111/j.1439-0310.2007.01444.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Wilson%27s+Storm+Petrels+Oceanites+oceanicus+Recognise+the+Olfactory+Signature+of+Their+Mate&amp;rft.jtitle=Ethology&amp;rft.aulast=Jouventin%2C+P%3B+Vincent+Mouret%3B+Francesco+Bonadonna&amp;rft.au=Jouventin%2C+P%3B+Vincent+Mouret%3B+Francesco+Bonadonna&amp;rft.date=2007&amp;rft.volume=113&amp;rft.issue=12&amp;rft.pages=1228%E2%80%931232&amp;rft_id=info:doi/10.1111%2Fj.1439-0310.2007.01444.x&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></span></li>
-</ol>
-</div>
-<h2><span class="editsection">[<a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit&amp;section=6" title="Edit section: Other sources">edit</a>]</span> <span class="mw-headline" id="Other_sources">Other sources</span></h2>
-<ul>
-<li><span class="citation book">Harrison, Peter (1996). <i>Seabirds of the World</i>. Princeton: Princeton University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-691-01551-1" title="Special:BookSources/0-691-01551-1">0-691-01551-1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Seabirds+of+the+World&amp;rft.aulast=Harrison&amp;rft.aufirst=Peter&amp;rft.au=Harrison%2C%26%2332%3BPeter&amp;rft.date=1996&amp;rft.place=Princeton&amp;rft.pub=Princeton+University+Press&amp;rft.isbn=0-691-01551-1&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></li>
-<li><span class="citation book">Bull, John; Farrand, Jr., John (April 1984). <i>The Audubon Society Field Guide to North American Birds, Eastern Region</i>. New York: Alfred A. Knopf. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-394-41405-5" title="Special:BookSources/0-394-41405-5">0-394-41405-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Audubon+Society+Field+Guide+to+North+American+Birds%2C+Eastern+Region&amp;rft.aulast=Bull&amp;rft.aufirst=John&amp;rft.au=Bull%2C%26%2332%3BJohn&amp;rft.date=April+1984&amp;rft.place=New+York&amp;rft.pub=Alfred+A.+Knopf&amp;rft.isbn=0-394-41405-5&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></li>
-<li>Beck, J.R &amp; Brown, D.W. 1972. The Biology of Wilson's Storm Petrel, Oceanites oceanicus (Kuhl) at Signy Island, South Orkney Islands. British Antarctic Survey Scientific Reports No. 69.</li>
-<li>Bourne, W.R.P. 1983. Letters (The ‘yellow webs’ of Wilson’s Storm-petrel). British Birds 76(7): 316-317.</li>
-<li>Bourne, W.R.P. 1987. Parallel variation in the markings of Wilson’s and Leach’s Storm-petrels. Sea Swallow 36: 64.</li>
-<li>Bourne, W.R.P. 1988. Letters (John Gould and the storm-petrels). British Birds 81(8): 402-403.</li>
-<li>British Ornithologists’ Union 2008. British Ornithologists’ Union Records Committee: 36th Report (November 2007). Ibis 150: 218-220.</li>
+<li id="cite_note-IUCN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBirdLife_International2012" class="citation journal cs1"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="https://www.iucnredlist.org/details/22698436/0">"<i>Oceanites oceanicus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species</a></i>. <b>2012</b><span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Oceanites+oceanicus&amp;rft.volume=2012&amp;rft.date=2012&amp;rft.au=BirdLife+International&amp;rft_id=https%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F22698436%2F0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: ref=harv (<a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><span class="citation-comment" style="display: none; color: #33aa33; margin-left: 0.3em;">old-form url</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFNewton1998" class="citation book cs1">Newton, Ian (1998). <i>Population limitation in birds</i>. Academic Press. p.&#160;3. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780080879239" title="Special:BookSources/9780080879239"><bdi>9780080879239</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Population+limitation+in+birds&amp;rft.pages=3&amp;rft.pub=Academic+Press&amp;rft.date=1998&amp;rft.isbn=9780080879239&amp;rft.aulast=Newton&amp;rft.aufirst=Ian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-job90-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-job90_3-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFJobling2010" class="citation book cs1">Jobling, James A (2010). <a rel="nofollow" class="external text" href="https://archive.org/details/Helm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling"><i>The Helm Dictionary of Scientific Bird Names</i></a>. London: Christopher Helm. p.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/Helm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling/page/n279">279</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-2501-4" title="Special:BookSources/978-1-4081-2501-4"><bdi>978-1-4081-2501-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Helm+Dictionary+of+Scientific+Bird+Names&amp;rft.place=London&amp;rft.pages=279&amp;rft.pub=Christopher+Helm&amp;rft.date=2010&amp;rft.isbn=978-1-4081-2501-4&amp;rft.aulast=Jobling&amp;rft.aufirst=James+A&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2FHelm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFDowdallEnrightFahyGilligan2009" class="citation journal cs1">Dowdall, J.; Enright, S.; Fahy, K.; Gilligan, J.; Lillie, G.; O'Keeffe, M. (2009). <a rel="nofollow" class="external text" href="http://scillypelagics.com/Oceanites_Puerto_Montt_Chile.html">"Unidentified storm petrels off Puerto Montt, Chile, in February 2009"</a>. <i>Dutch Birding</i>. <b>31</b> (4): 218–222.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dutch+Birding&amp;rft.atitle=Unidentified+storm+petrels+off+Puerto+Montt%2C+Chile%2C+in+February+2009&amp;rft.volume=31&amp;rft.issue=4&amp;rft.pages=218-222&amp;rft.date=2009&amp;rft.aulast=Dowdall&amp;rft.aufirst=J.&amp;rft.au=Enright%2C+S.&amp;rft.au=Fahy%2C+K.&amp;rft.au=Gilligan%2C+J.&amp;rft.au=Lillie%2C+G.&amp;rft.au=O%27Keeffe%2C+M.&amp;rft_id=http%3A%2F%2Fscillypelagics.com%2FOceanites_Puerto_Montt_Chile.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFMayr_EG_W_Cottrell1979" class="citation book cs1">Mayr E; G W Cottrell, eds. (1979). <a rel="nofollow" class="external text" href="https://archive.org/stream/checklistofbirds12pete#page/103/mode/1up"><i>Check-list of birds of the World. volume 1</i></a> (2nd ed.). Museum of Comparative Zoology, Cambridge Massachusetts. pp.&#160;103–104.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Check-list+of+birds+of+the+World.+volume+1&amp;rft.pages=103-104&amp;rft.edition=2nd&amp;rft.pub=Museum+of+Comparative+Zoology%2C+Cambridge+Massachusetts&amp;rft.date=1979&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fchecklistofbirds12pete%23page%2F103%2Fmode%2F1up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFLittler1910" class="citation book cs1">Littler, F.M. (1910). <a rel="nofollow" class="external text" href="https://archive.org/stream/handbookofbirdso00littiala#page/157/mode/1up/"><i>A Handbook of the Birds of Tasmania and its dependencies</i></a>. Self published. pp.&#160;157–159.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Handbook+of+the+Birds+of+Tasmania+and+its+dependencies&amp;rft.pages=157-159&amp;rft.pub=Self+published&amp;rft.date=1910&amp;rft.aulast=Littler&amp;rft.aufirst=F.M.&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fhandbookofbirdso00littiala%23page%2F157%2Fmode%2F1up%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFFloodThomas2007" class="citation journal cs1">Flood, Robert L.; Thomas, Bryan (2007). <a rel="nofollow" class="external text" href="http://scillypelagics.com/BBstormpetrels.pdf">"Identification of 'black-and-white' storm-petrels of the North Atlantic"</a> <span class="cs1-format">(PDF)</span>. <i>British Birds</i>. <b>100</b> (7): 407–442.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=British+Birds&amp;rft.atitle=Identification+of+%27black-and-white%27+storm-petrels+of+the+North+Atlantic&amp;rft.volume=100&amp;rft.issue=7&amp;rft.pages=407-442&amp;rft.date=2007&amp;rft.aulast=Flood&amp;rft.aufirst=Robert+L.&amp;rft.au=Thomas%2C+Bryan&amp;rft_id=http%3A%2F%2Fscillypelagics.com%2FBBstormpetrels.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFQuillfeldtSchmollPeter2000" class="citation journal cs1">Quillfeldt, Petra; Schmoll, Tim; Peter, Hans-Ulrich (2000). "The use of foot web coloration for the estimation of prebreeder numbers in Wilson's storm-petrels, Oceanites oceanicus". <i>Polar Biology</i>. <b>23</b> (11): 802–804. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs003000000167">10.1007/s003000000167</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Polar+Biology&amp;rft.atitle=The+use+of+foot+web+coloration+for+the+estimation+of+prebreeder+numbers+in+Wilson%27s+storm-petrels%2C+Oceanites+oceanicus&amp;rft.volume=23&amp;rft.issue=11&amp;rft.pages=802-804&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1007%2Fs003000000167&amp;rft.aulast=Quillfeldt&amp;rft.aufirst=Petra&amp;rft.au=Schmoll%2C+Tim&amp;rft.au=Peter%2C+Hans-Ulrich&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite id="CITEREFHarrison1983" class="citation journal cs1">Harrison, Peter (1983). <a rel="nofollow" class="external text" href="http://www.britishbirds.co.uk/search?id=5905">"Identification of white-rumped North Atlantic petrels"</a>. <i>British Birds</i>. <b>76</b> (4): 161–174.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=British+Birds&amp;rft.atitle=Identification+of+white-rumped+North+Atlantic+petrels&amp;rft.volume=76&amp;rft.issue=4&amp;rft.pages=161-174&amp;rft.date=1983&amp;rft.aulast=Harrison&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fwww.britishbirds.co.uk%2Fsearch%3Fid%3D5905&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFWithers1979" class="citation journal cs1">Withers, P.C. (1979). <a rel="nofollow" class="external text" href="http://www.avibirds.com/pdf/W/Wilson%20stormvogeltje5.pdf">"Aerodynamics and hydrodynamics of the 'hovering' flight of Wilson's Storm Petrel"</a> <span class="cs1-format">(PDF)</span>. <i>J. Exp. Biol</i>. <b>80</b>: 83–91.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Exp.+Biol.&amp;rft.atitle=Aerodynamics+and+hydrodynamics+of+the+%27hovering%27+flight+of+Wilson%27s+Storm+Petrel&amp;rft.volume=80&amp;rft.pages=83-91&amp;rft.date=1979&amp;rft.aulast=Withers&amp;rft.aufirst=P.C.&amp;rft_id=http%3A%2F%2Fwww.avibirds.com%2Fpdf%2FW%2FWilson%2520stormvogeltje5.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite id="CITEREFCroxallNorth1988" class="citation journal cs1">Croxall, J.P.; North, A.W. (1988). <a rel="nofollow" class="external text" href="http://www.antarctica.ac.uk/documents/bas_bulletins/bulletin78_03.pdf">"Fish prey of Wilson's storm petrel <i>Oceanites oceanicus</i> at South Georgia (Antarctica)"</a> <span class="cs1-format">(PDF)</span>. <i>British Antarctic Survey Bulletin</i>. <b>78</b>: 37–42.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=British+Antarctic+Survey+Bulletin&amp;rft.atitle=Fish+prey+of+Wilson%27s+storm+petrel+Oceanites+oceanicus+at+South+Georgia+%28Antarctica%29&amp;rft.volume=78&amp;rft.pages=37-42&amp;rft.date=1988&amp;rft.aulast=Croxall&amp;rft.aufirst=J.P.&amp;rft.au=North%2C+A.W.&amp;rft_id=http%3A%2F%2Fwww.antarctica.ac.uk%2Fdocuments%2Fbas_bulletins%2Fbulletin78_03.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite id="CITEREFObstNagyRicklefs1987" class="citation journal cs1">Obst, B.S.; Nagy, Kenneth A.; Ricklefs, Robert E. (1987). "Energy Utilization by Wilson's Storm Petrel (Oceanites oceanicus)". <i>Physiological Zoology</i>. <b>60</b> (2): 200–210. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1086%2Fphyszool.60.2.30158644">10.1086/physzool.60.2.30158644</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physiological+Zoology&amp;rft.atitle=Energy+Utilization+by+Wilson%27s+Storm+Petrel+%28Oceanites+oceanicus%29&amp;rft.volume=60&amp;rft.issue=2&amp;rft.pages=200-210&amp;rft.date=1987&amp;rft_id=info%3Adoi%2F10.1086%2Fphyszool.60.2.30158644&amp;rft.aulast=Obst&amp;rft.aufirst=B.S.&amp;rft.au=Nagy%2C+Kenneth+A.&amp;rft.au=Ricklefs%2C+Robert+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite id="CITEREFGladbachBraunNordtPeter2009" class="citation journal cs1">Gladbach, A.; Braun, C.; Nordt, A.; Peter, H-U; Quillfeldt, P. (2009). <a rel="nofollow" class="external text" href="http://orn.mpg.de/nwg/quillfeldt/Gladbach.pdf">"Chick provisioning and nest attendance of male and female Wilson's storm petrels Oceanites oceanicus"</a> <span class="cs1-format">(PDF)</span>. <i>Polar Biology</i>. <b>32</b> (9): 1315–1321. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs00300-009-0628-z">10.1007/s00300-009-0628-z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Polar+Biology&amp;rft.atitle=Chick+provisioning+and+nest+attendance+of+male+and+female+Wilson%27s+storm+petrels+Oceanites+oceanicus&amp;rft.volume=32&amp;rft.issue=9&amp;rft.pages=1315-1321&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.1007%2Fs00300-009-0628-z&amp;rft.aulast=Gladbach&amp;rft.aufirst=A.&amp;rft.au=Braun%2C+C.&amp;rft.au=Nordt%2C+A.&amp;rft.au=Peter%2C+H-U&amp;rft.au=Quillfeldt%2C+P.&amp;rft_id=http%3A%2F%2Forn.mpg.de%2Fnwg%2Fquillfeldt%2FGladbach.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite id="CITEREFQuillfeldt2002" class="citation journal cs1">Quillfeldt, P. (2002). "Begging in the absence of sibling competition in Wilson's storm-petrels, Oceanites oceanicus". <i>Animal Behaviour</i>. <b>64</b> (4): 579–587. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1006%2Fanbe.2002.3090">10.1006/anbe.2002.3090</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Animal+Behaviour&amp;rft.atitle=Begging+in+the+absence+of+sibling+competition+in+Wilson%27s+storm-petrels%2C+Oceanites+oceanicus&amp;rft.volume=64&amp;rft.issue=4&amp;rft.pages=579-587&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1006%2Fanbe.2002.3090&amp;rft.aulast=Quillfeldt&amp;rft.aufirst=P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFQuillfeldtSchmollPeterEpplen2001" class="citation journal cs1">Quillfeldt, P.; Schmoll, Tim; Peter, Hans-Ulrich; Epplen, Jörg Thomas; Lubjuhn, Thomas (2001). "Genetic Monogamy in Wilson's Storm Petrel". <i>The Auk</i>. <b>118</b> (1): 242–248. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1642%2F0004-8038%282001%29118%5B0242%3AGMIWSS%5D2.0.CO%3B2">10.1642/0004-8038(2001)118&#91;0242:GMIWSS&#93;2.0.CO;2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Auk&amp;rft.atitle=Genetic+Monogamy+in+Wilson%27s+Storm+Petrel&amp;rft.volume=118&amp;rft.issue=1&amp;rft.pages=242-248&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1642%2F0004-8038%282001%29118%5B0242%3AGMIWSS%5D2.0.CO%3B2&amp;rft.aulast=Quillfeldt&amp;rft.aufirst=P.&amp;rft.au=Schmoll%2C+Tim&amp;rft.au=Peter%2C+Hans-Ulrich&amp;rft.au=Epplen%2C+J%C3%B6rg+Thomas&amp;rft.au=Lubjuhn%2C+Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFBonadonnaBretagnolle2002" class="citation journal cs1">Bonadonna, Francesco; Bretagnolle, Vincent (2002). <a rel="nofollow" class="external text" href="http://jeb.biologists.org/content/205/16/2519.abstract">"Smelling home: a good solution for burrow-finding in nocturnal petrels?"</a>. <i>Journal of Experimental Biology</i>. <b>205</b> (16): 2519–2523. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/12124375">12124375</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Experimental+Biology&amp;rft.atitle=Smelling+home%3A+a+good+solution+for+burrow-finding+in+nocturnal+petrels%3F&amp;rft.volume=205&amp;rft.issue=16&amp;rft.pages=2519-2523&amp;rft.date=2002&amp;rft_id=info%3Apmid%2F12124375&amp;rft.aulast=Bonadonna&amp;rft.aufirst=Francesco&amp;rft.au=Bretagnolle%2C+Vincent&amp;rft_id=http%3A%2F%2Fjeb.biologists.org%2Fcontent%2F205%2F16%2F2519.abstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite id="CITEREFJouventinMouretBonadonna2007" class="citation journal cs1">Jouventin, P.; Mouret, Vincent; Bonadonna, Francesco (2007). "Wilson's Storm Petrels Oceanites oceanicus Recognise the Olfactory Signature of Their Mate". <i>Ethology</i>. <b>113</b> (12): 1228–1232. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1439-0310.2007.01444.x">10.1111/j.1439-0310.2007.01444.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ethology&amp;rft.atitle=Wilson%27s+Storm+Petrels+Oceanites+oceanicus+Recognise+the+Olfactory+Signature+of+Their+Mate&amp;rft.volume=113&amp;rft.issue=12&amp;rft.pages=1228-1232&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1439-0310.2007.01444.x&amp;rft.aulast=Jouventin&amp;rft.aufirst=P.&amp;rft.au=Mouret%2C+Vincent&amp;rft.au=Bonadonna%2C+Francesco&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Other_sources">Other sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit&amp;section=6" title="Edit section: Other sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFHarrison1996" class="citation book cs1">Harrison, Peter (1996). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/seabirdsofworldp00harr"><i>Seabirds of the World</i></a></span>. Princeton: Princeton University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-691-01551-1" title="Special:BookSources/0-691-01551-1"><bdi>0-691-01551-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Seabirds+of+the+World&amp;rft.place=Princeton&amp;rft.pub=Princeton+University+Press&amp;rft.date=1996&amp;rft.isbn=0-691-01551-1&amp;rft.aulast=Harrison&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fseabirdsofworldp00harr&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></li>
+<li><cite id="CITEREFBullFarrand_Jr.1984" class="citation book cs1">Bull, John; Farrand Jr., John (April 1984). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/audubonsocietyfi0000bull"><i>The Audubon Society Field Guide to North American Birds, Eastern Region</i></a></span>. New York: Alfred A. Knopf. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-394-41405-5" title="Special:BookSources/0-394-41405-5"><bdi>0-394-41405-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Audubon+Society+Field+Guide+to+North+American+Birds%2C+Eastern+Region&amp;rft.place=New+York&amp;rft.pub=Alfred+A.+Knopf&amp;rft.date=1984-04&amp;rft.isbn=0-394-41405-5&amp;rft.aulast=Bull&amp;rft.aufirst=John&amp;rft.au=Farrand+Jr.%2C+John&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Faudubonsocietyfi0000bull&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></li>
+<li>Beck, J.R. &amp; Brown, D.W. 1972. The Biology of Wilson's Storm Petrel, Oceanites oceanicus (Kuhl) at Signy Island, South Orkney Islands. British Antarctic Survey Scientific Reports No. 69.</li>
+<li>Bourne, W.R.P. 1983. Letters (The ‘yellow webs’ of Wilson's Storm-petrel). British Birds 76(7): 316–317.</li>
+<li>Bourne, W.R.P. 1987. Parallel variation in the markings of Wilson's and Leach's Storm-petrels. Sea Swallow 36: 64.</li>
+<li>Bourne, W.R.P. 1988. Letters (John Gould and the storm-petrels). British Birds 81(8): 402–403.</li>
+<li>British Ornithologists’ Union 2008. British Ornithologists’ Union Records Committee: 36th Report (November 2007). Ibis 150: 218–220.</li>
 <li>Copestake, P.G. &amp; Croxall, J.P. 1985. Aspects of the breeding biology of Wilson's Storm Petrel Oceanites oceanicus at Bird Island, South Georgia. British Antarctic Survey Bulletin 66: 7-17.</li>
-<li>Croxall, J.P. <i>et al.</i> 1988. Food and feeding ecology of Wilson’s storm petrel Oceanites oceanicus at South Georgia. Journal of Zoology 216: 83-102.</li>
-<li>Curtis, W.F. 1988. An example of melanism in Wilson’s Storm-petrel. Sea Swallow 37: 63.</li>
-<li>Flood, R.L. 2011. Notes (Wilson’s Storm-petrel with white stripes on the underwing). British Birds 104(5): 272-273.</li>
-<li>Gebczynski, A.K. 2003. The food demand in the nest of Wilson’s storm petrel. Polish Polar Research 24(2): 127-131.</li>
-<li>Orgeira, J.L. 1997. Nidificacion y habitat del Petrel de Wilson (Oceanites oceanicus) en Punta Cierva, Costa de Danco, peninsula Antarctica [Nesting habitat of Wilson’s Petrel (Oceanites oceanicus) at Cierva Point, Danco, Antarctic peninsula]. Ornitologia Neotropical 8: 49-56.</li>
-<li>Orgeira, J.L. 1997. Short communications (An infrared device for finding Wilson’s Storm Petrel Oceanites oceanicus nests). Marine Ornithology 25: 75-76.</li>
-<li>Quillefeldt, P. 2002. Seasonal and annual variation in the diet of breeding and non-breeding Wilson’s storm-petrel on King George Island, South Shetland Islands. Polar Biology 25: 216-221.</li>
-<li><span class="citation Journal">van den Berg, AB; Cecilia A. W. Bosman &amp; Frank G. Rozendaal (Ardea). <a rel="nofollow" class="external text" href="http://ardeajournal.natuurinfo.nl/ardeapdf/a70-082-083.pdf"><i>Mass movement of Bridled Terns Sterna anaethetus and Wilson’s Petrels Oceanites oceanicus off Colombo, Sri Lanka.</i></a>. <b>70</b>. pp.&#160;81–82<span class="printonly">. <a rel="nofollow" class="external free" href="http://ardeajournal.natuurinfo.nl/ardeapdf/a70-082-083.pdf">http://ardeajournal.natuurinfo.nl/ardeapdf/a70-082-083.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mass+movement+of+Bridled+Terns+Sterna+anaethetus+and+Wilson%E2%80%99s+Petrels+Oceanites+oceanicus+off+Colombo%2C+Sri+Lanka.&amp;rft.aulast=van+den+Berg%2C+AB%3B+Cecilia+A.+W.+Bosman+%26+Frank+G.+Rozendaal&amp;rft.au=van+den+Berg%2C+AB%3B+Cecilia+A.+W.+Bosman+%26+Frank+G.+Rozendaal&amp;rft.date=Ardea&amp;rft.volume=70&amp;rft.pages=pp.%26nbsp%3B81%E2%80%9382&amp;rft_id=http%3A%2F%2Fardeajournal.natuurinfo.nl%2Fardeapdf%2Fa70-082-083.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Wilson%27s_Storm_Petrel"><span style="display: none;">&#160;</span></span></li>
-<li>Wasilewski, A. 1986. Ecological aspects of the breeding cycle in the Petrel de Wilson, Oceanites oceanicus (Kuhl), at King George Island (South Shetland Islands, Antarctica). Polish Polar Research 7: 173-216.</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
-<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
-<tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
-<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Oceanites_oceanicus" class="extiw" title="commons:Oceanites oceanicus">Oceanites oceanicus</a></b></i></td>
-</tr>
-</table>
-<ul>
-<li>Wilson's Storm Petrel - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/044.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
-<li>Wilson's Storm Petrel Information and Photos - <a rel="nofollow" class="external text" href="http://sdakotabirds.com/species/wilsons_storm_petrel_info.htm">SD Birds and Birding</a></li>
-<li><a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob500.htm">BTO BirdFacts - Wilson's Storm Petrel</a></li>
-</ul>
-
-
+<li>Croxall, J.P. <i>et al.</i> 1988. Food and feeding ecology of Wilson's storm petrel Oceanites oceanicus at South Georgia. Journal of Zoology 216: 83-102.</li>
+<li>Curtis, W.F. 1988. An example of melanism in Wilson's Storm-petrel. Sea Swallow 37: 63.</li>
+<li>Flood, R.L. 2011. Notes (Wilson's Storm-petrel with white stripes on the underwing). British Birds 104(5): 272–273.</li>
+<li>Gebczynski, A.K. 2003. The food demand in the nest of Wilson's storm petrel. Polish Polar Research 24(2): 127–131.</li>
+<li>Orgeira, J.L. 1997. Nidificacion y habitat del Petrel de Wilson (Oceanites oceanicus) en Punta Cierva, Costa de Danco, peninsula Antarctica [Nesting habitat of Wilson's Petrel (Oceanites oceanicus) at Cierva Point, Danco, Antarctic peninsula]. Ornitologia Neotropical 8: 49–56.</li>
+<li>Orgeira, J.L. 1997. Short communications (An infrared device for finding Wilson's Storm Petrel Oceanites oceanicus nests). Marine Ornithology 25: 75–76.</li>
+<li>Quillefeldt, P. 2002. Seasonal and annual variation in the diet of breeding and non-breeding Wilson's storm-petrel on King George Island, South Shetland Islands. Polar Biology 25: 216–221.</li>
+<li><cite id="CITEREFvan_den_BergBosmanRozendaal1982" class="citation journal cs1">van den Berg, A.B.; Bosman, Cecilia A. W.; Rozendaal, Frank G. (1982). <a rel="nofollow" class="external text" href="http://ardeajournal.natuurinfo.nl/ardeapdf/a70-082-083.pdf">"Mass movement of Bridled Terns Sterna anaethetus and Wilson's Petrels Oceanites oceanicus off Colombo, Sri Lanka"</a> <span class="cs1-format">(PDF)</span>. <i>Ardea</i>. <b>70</b>: 81–82.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ardea&amp;rft.atitle=Mass+movement+of+Bridled+Terns+Sterna+anaethetus+and+Wilson%27s+Petrels+Oceanites+oceanicus+off+Colombo%2C+Sri+Lanka.&amp;rft.volume=70&amp;rft.pages=81-82&amp;rft.date=1982&amp;rft.aulast=van+den+Berg&amp;rft.aufirst=A.B.&amp;rft.au=Bosman%2C+Cecilia+A.+W.&amp;rft.au=Rozendaal%2C+Frank+G.&amp;rft_id=http%3A%2F%2Fardeajournal.natuurinfo.nl%2Fardeapdf%2Fa70-082-083.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilson%27s+storm+petrel" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></li>
+<li>Wasilewski, A. 1986. Ecological aspects of the breeding cycle in the Petrel de Wilson, Oceanites oceanicus (Kuhl), at King George Island (South Shetland Islands, Antarctica). Polish Polar Research 7: 173–216.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Oceanites_oceanicus" class="extiw" title="commons:Oceanites oceanicus">Oceanites oceanicus</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/044.pdf">Wilson’s Storm Petrel</a> - <i>The Atlas of Southern African Birds</i></li>
+<li><a rel="nofollow" class="external text" href="http://blx1.bto.org/birdfacts/results/bob500.htm">Wilson’s Petrel <i>Oceanites oceanicus</i></a> - British Trust for Ornithology</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q607024" class="extiw" title="wikidata:Q607024">Q607024</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Oceanites_oceanicus" class="extiw" title="wikispecies:Oceanites oceanicus">Oceanites oceanicus</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/American_Birding_Association" title="American Birding Association">ABA</a>: <span class="uid">wistpe</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/ARKive" title="ARKive">ARKive</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://web.archive.org/web/*/www.arkive.org/wd/oceanites-oceanicus/">oceanites-oceanicus</a></span></span></li>
+<li><span style="white-space:nowrap;">Avibase: <span class="uid"><a rel="nofollow" class="external text" href="https://avibase.bsc-eoc.org/species.jsp?avibaseid=D295D249BDB7E046">D295D249BDB7E046</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://datazone.birdlife.org/species/factsheet/22698436">22698436</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/British_Trust_for_Ornithology" title="British Trust for Ornithology">BTO</a>: <span class="uid">WILPE</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EBird" title="EBird">eBird</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ebird.org/species/wispet">wispet</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EPPO_Code" title="EPPO Code">EPPO</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://gd.eppo.int/taxon/OCENOC">OCENOC</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/European_Nature_Information_System" title="European Nature Information System">EUNIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eunis.eea.europa.eu/species/15604">15604</a></span></span></li>
+<li><span style="white-space:nowrap;">Euring: <span class="uid">500</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:faunaeur.org:taxname:96597">96597</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea (new)</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://fauna-eu.org/cdm_dataportal/taxon/384df5af-6a43-4748-822a-2cbf2f1e0d8b">384df5af-6a43-4748-822a-2cbf2f1e0d8b</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=372546">372546</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/5229419">5229419</a></span></span></li>
+<li><span style="white-space:nowrap;">GNAB: <span class="uid"><a rel="nofollow" class="external text" href="https://www.audubon.org/field-guide/bird/wilsons-storm-petrel">wilsons-storm-petrel</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/4146">4146</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=10840300">10840300</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=174650">174650</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/22698436">22698436</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NBNSYS0000000234">NBNSYS0000000234</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=79653">79653</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Neotropical_Birds_Online" class="mw-redirect" title="Neotropical Birds Online">Neotropical</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://neotropical.birds.cornell.edu/Species-Account/nb/species/wispet">wispet</a></span></span></li>
+<li><span style="white-space:nowrap;">NZBO: <span class="uid"><a rel="nofollow" class="external text" href="http://nzbirdsonline.org.nz/species/wilsons-storm-petrel">wilsons-storm-petrel</a></span></span></li>
+<li><span style="white-space:nowrap;">NZOR: <span class="uid"><a rel="nofollow" class="external text" href="http://www.nzor.org.nz/names/c96cdb79-31f0-4daa-9dc6-457bf51cc250">c96cdb79-31f0-4daa-9dc6-457bf51cc250</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/SeaLifeBase" title="SeaLifeBase">SeaLifeBase</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.sealifebase.ca/Summary/SpeciesSummary.php?id=73551">73551</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=137190">137190</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 16799/1000000
-Preprocessor generated node count: 51541/1500000
-Post-expand include size: 108581/2048000 bytes
-Template argument size: 33747/2048000 bytes
-Highest expansion depth: 21/40
-Expensive parser function count: 0/500
+Parsed by mw1366
+Cached time: 20201029223509
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.916 seconds
+Real time usage: 1.199 seconds
+Preprocessor visited node count: 6143/1000000
+Post‐expand include size: 63661/2097152 bytes
+Template argument size: 4094/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 62308/5000000 bytes
+Lua time usage: 0.677/10.000 seconds
+Lua memory usage: 8.81 MB/50 MB
+Number of Wikibase entities loaded: 26/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1107.202      1 -total
+ 39.74%  439.986      1 Template:Speciesbox
+ 38.16%  422.549      1 Template:Taxobox/core
+ 26.53%  293.776      1 Template:Taxonbar
+ 20.33%  225.124      1 Template:Reflist
+  9.45%  104.664      1 Template:Cite_iucn
+  7.26%   80.434      1 Template:Commons
+  7.02%   77.725      1 Template:Sister_project
+  6.34%   70.196      1 Template:Side_box
+  6.08%   67.314     13 Template:Cite_journal
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:389491-0!*!0!!en!4!* and timestamp 20121101011948 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Wilson%27s_Storm_Petrel&amp;oldid=515206165">http://en.wikipedia.org/w/index.php?title=Wilson%27s_Storm_Petrel&amp;oldid=515206165</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Storm-petrels" title="Category:Storm-petrels">Storm-petrels</a></li><li><a href="/wiki/Category:Oceanitinae" title="Category:Oceanitinae">Oceanitinae</a></li><li><a href="/wiki/Category:Antarctic_birds" title="Category:Antarctic birds">Antarctic birds</a></li><li><a href="/wiki/Category:Birds_of_South_America" title="Category:Birds of South America">Birds of South America</a></li><li><a href="/wiki/Category:Birds_of_South_Georgia_and_the_South_Sandwich_Islands" title="Category:Birds of South Georgia and the South Sandwich Islands">Birds of South Georgia and the South Sandwich Islands</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Canada" title="Category:Birds of Canada">Birds of Canada</a></li><li><a href="/wiki/Category:Fauna_of_the_Kerguelen_Islands" title="Category:Fauna of the Kerguelen Islands">Fauna of the Kerguelen Islands</a></li><li><a href="/wiki/Category:Animals_described_in_1820" title="Category:Animals described in 1820">Animals described in 1820</a></li><li><a href="/wiki/Category:Fauna_of_Macquarie_Island" title="Category:Fauna of Macquarie Island">Fauna of Macquarie Island</a></li><li><a href="/wiki/Category:Fauna_of_Heard_Island_and_McDonald_Islands" title="Category:Fauna of Heard Island and McDonald Islands">Fauna of Heard Island and McDonald Islands</a></li><li><a href="/wiki/Category:Fauna_of_Bouvet_Island" title="Category:Fauna of Bouvet Island">Fauna of Bouvet Island</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:389491-0!canonical and timestamp 20201029223508 and revision id 944980135
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wilson%27s_storm_petrel&amp;oldid=944980135">https://en.wikipedia.org/w/index.php?title=Wilson%27s_storm_petrel&amp;oldid=944980135</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Storm-petrels" title="Category:Storm-petrels">Storm-petrels</a></li><li><a href="/wiki/Category:Oceanites" title="Category:Oceanites">Oceanites</a></li><li><a href="/wiki/Category:Birds_of_the_Falkland_Islands" title="Category:Birds of the Falkland Islands">Birds of the Falkland Islands</a></li><li><a href="/wiki/Category:Birds_of_islands_of_the_Atlantic_Ocean" title="Category:Birds of islands of the Atlantic Ocean">Birds of islands of the Atlantic Ocean</a></li><li><a href="/wiki/Category:Birds_of_subantarctic_islands" title="Category:Birds of subantarctic islands">Birds of subantarctic islands</a></li><li><a href="/wiki/Category:Birds_of_the_Indian_Ocean" title="Category:Birds of the Indian Ocean">Birds of the Indian Ocean</a></li><li><a href="/wiki/Category:Fauna_of_Heard_Island_and_McDonald_Islands" title="Category:Fauna of Heard Island and McDonald Islands">Fauna of Heard Island and McDonald Islands</a></li><li><a href="/wiki/Category:Fauna_of_subantarctic_islands" title="Category:Fauna of subantarctic islands">Fauna of subantarctic islands</a></li><li><a href="/wiki/Category:Birds_described_in_1820" title="Category:Birds described in 1820">Birds described in 1820</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">CS1 maint: ref=harv</a></li><li><a href="/wiki/Category:Cite_iucn_maint" title="Category:Cite iucn maint">Cite iucn maint</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_link_is_on_Wikidata" title="Category:Commons link is on Wikidata">Commons link is on Wikidata</a></li><li><a href="/wiki/Category:Taxonbars_with_25%E2%80%9329_taxon_IDs" title="Category:Taxonbars with 25–29 taxon IDs">Taxonbars with 25–29 taxon IDs</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wilson%27s+storm+petrel" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wilson%27s+storm+petrel" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Wilson%27s_storm_petrel" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Wilson%27s_storm_petrel" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wilson%27s+Storm-Petrel&amp;type=signup">Create account</a></li>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wilson%27s+Storm-Petrel" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Wilson%27s_Storm_Petrel"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:Wilson%27s_Storm_Petrel"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-	<h4>
-		</h4>
-	<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Wilson%27s_storm_petrel">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Wilson%27s_Storm_Petrel" >Read</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
 	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
 
-<!-- /2 -->
-			</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
 	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
 	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wilson%27s_Storm_Petrel" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wilson%27s_Storm_Petrel" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;oldid=515206165" title="Permanent link to this revision of the page">Permanent link</a></li>
-			<li id="t-info"><a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;action=info">Page information</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Wilson%27s_Storm_Petrel&amp;id=515206165" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /TOOLBOX -->
-
-<!-- coll-print_export -->
-<div class="portal" id='p-coll-print_export'>
-	<h5>Print/export</h5>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wilson%27s+Storm+Petrel" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wilson%27s+Storm+Petrel&amp;oldid=515206165&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wilson%27s_Storm_Petrel&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- LANGUAGES -->
-<div class="portal" id='p-lang'>
-	<h5>Languages</h5>
-	<div class="body">
-		<ul>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B7%D8%A7%D8%A6%D8%B1_%D9%86%D9%88%D8%A1_%D9%88%D9%8A%D9%84%D8%B3%D9%88%D9%86" title="طائر نوء ويلسون" lang="ar" hreflang="ar">العربية</a></li>
-			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Satanig_Wilson" title="Satanig Wilson" lang="br" hreflang="br">Brezhoneg</a></li>
-			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Petrell_oce%C3%A0nic" title="Petrell oceànic" lang="ca" hreflang="ca">Català</a></li>
-			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Buntfu%C3%9F-Sturmschwalbe" title="Buntfuß-Sturmschwalbe" lang="de" hreflang="de">Deutsch</a></li>
-			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus" lang="es" hreflang="es">Español</a></li>
-			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Buntpieda_petrelo" title="Buntpieda petrelo" lang="eo" hreflang="eo">Esperanto</a></li>
-			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%BA_%D8%B7%D9%88%D9%81%D8%A7%D9%86" title="مرغ طوفان" lang="fa" hreflang="fa">فارسی</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Oc%C3%A9anite_de_Wilson" title="Océanite de Wilson" lang="fr" hreflang="fr">Français</a></li>
-			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Wilson-viharfecske" title="Wilson-viharfecske" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Wilsons_stormvogeltje" title="Wilsons stormvogeltje" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%83%8A%E3%82%AC%E3%82%A6%E3%83%9F%E3%83%84%E3%83%90%E3%83%A1" title="アシナガウミツバメ" lang="ja" hreflang="ja">日本語</a></li>
-			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Wilsonstormsvale" title="Wilsonstormsvale" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
-			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Wilsonstormsvale" title="Wilsonstormsvale" lang="nn" hreflang="nn">Norsk (nynorsk)‎</a></li>
-			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%88%D8%A7%D9%84%D8%B3%D9%86_%D8%AF%D8%A7_%D9%BE%DB%8C%D9%B9%D8%B1%D9%84" title="والسن دا پیٹرل" lang="pnb" hreflang="pnb">پنجابی</a></li>
-			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus" lang="pms" hreflang="pms">Piemontèis</a></li>
-			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Oceannik_%C5%BC%C3%B3%C5%82top%C5%82etwy" title="Oceannik żółtopłetwy" lang="pl" hreflang="pl">Polski</a></li>
-			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Painho-de-wilson" title="Painho-de-wilson" lang="pt" hreflang="pt">Português</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D1%83%D1%80%D0%BA%D0%B0_%D0%92%D0%B8%D0%BB%D1%8C%D1%81%D0%BE%D0%BD%D0%B0" title="Качурка Вильсона" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Wilson%27s_Storm-petrel" title="Wilson's Storm-petrel" lang="simple" hreflang="simple">Simple English</a></li>
-			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Rumenonogi_strako%C5%A1" title="Rumenonogi strakoš" lang="sl" hreflang="sl">Slovenščina</a></li>
-			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Etel%C3%A4nkeiju" title="Etelänkeiju" lang="fi" hreflang="fi">Suomi</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Havsl%C3%B6pare" title="Havslöpare" lang="sv" hreflang="sv">Svenska</a></li>
-			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_%D0%92%D1%96%D0%BB%D1%8C%D1%81%D0%BE%D0%BD%D0%B0" title="Океанник Вільсона" lang="uk" hreflang="uk">Українська</a></li>
-		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
 	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wilson%27s_storm_petrel" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wilson%27s_storm_petrel" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;oldid=944980135" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wilson%27s_storm_petrel&amp;id=944980135&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q607024" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Wilson%27s_storm_petrel&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wilson%27s_storm_petrel&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Oceanites_oceanicus" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Oceanites_oceanicus" hreflang="en">Wikispecies</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Gewone_stormswael" title="Gewone stormswael – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D8%A6%D8%B1_%D9%86%D9%88%D8%A1_%D9%88%D9%8A%D9%84%D8%B3%D9%88%D9%86" title="طائر نوء ويلسون – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D1%81%D1%8A%D0%BD%D0%BE%D0%B2%D0%B0_%D0%B2%D1%8A%D0%BB%D0%BD%D0%BE%D0%BB%D1%8E%D0%B1%D0%BA%D0%B0" title="Уилсънова вълнолюбка – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Satanig_Wilson" title="Satanig Wilson – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ocell_de_tempesta_de_Wilson" title="Ocell de tempesta de Wilson – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Pedryn_Wilson" title="Pedryn Wilson – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Buntfu%C3%9F-Sturmschwalbe" title="Buntfuß-Sturmschwalbe – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/K%C3%A9yah_Yistin%C3%ADd%C4%99%CC%81%C4%99%CC%81%CA%BC_n%C3%ADyol_yii%CA%BC_naat%CA%BCa%CA%BC%C3%ADg%C3%AD%C3%AD" title="Kéyah Yistinídę́ę́ʼ níyol yiiʼ naatʼaʼígíí – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Buntpieda_petrelo" title="Buntpieda petrelo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Wilson_ekaitz-txori" title="Wilson ekaitz-txori – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%BA_%D8%B7%D9%88%D9%81%D8%A7%D9%86_%D9%88%DB%8C%D9%84%D8%B3%D9%88%D9%86" title="مرغ طوفان ویلسون – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Oc%C3%A9anite_de_Wilson" title="Océanite de Wilson – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Pa%C3%AD%C3%B1o_de_Wilson" title="Paíño de Wilson – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Petrel-badai_coklat" title="Petrel-badai coklat – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%A1%D7%A2%D7%95%D7%A8%D7%95%D7%9F_%D7%95%D7%99%D7%9C%D7%A1%D7%95%D7%9F" title="יסעורון וילסון – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wilson-viharfecske" title="Wilson-viharfecske – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B5%BD%E0%B4%B8%E0%B5%BA_%E0%B4%95%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%B3%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF" title="വിൽസൺ കാറ്റിളക്കി – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wilsons_stormvogeltje" title="Wilsons stormvogeltje – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%83%8A%E3%82%AC%E3%82%A6%E3%83%9F%E3%83%84%E3%83%90%E3%83%A1" title="アシナガウミツバメ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Oseanstormsvale" title="Oseanstormsvale – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Oseanstormsvale" title="Oseanstormsvale – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%88%D8%A7%D9%84%D8%B3%D9%86_%D8%AF%D8%A7_%D9%BE%DB%8C%D9%B9%D8%B1%D9%84" title="والسن دا پیٹرل – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Oceannik_%C5%BC%C3%B3%C5%82top%C5%82etwy" title="Oceannik żółtopłetwy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Painho-de-wilson" title="Painho-de-wilson – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%87%D1%83%D1%80%D0%BA%D0%B0_%D0%92%D0%B8%D0%BB%D1%8C%D1%81%D0%BE%D0%BD%D0%B0" title="Качурка Вильсона – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Wilson%27s_storm-petrel" title="Wilson&#039;s storm-petrel – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Rumenonogi_strako%C5%A1" title="Rumenonogi strakoš – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Etel%C3%A4nkeiju" title="Etelänkeiju – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Havsl%C3%B6pare" title="Havslöpare – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA_%D0%92%D1%96%D0%BB%D1%8C%D1%81%D0%BE%D0%BD%D0%B0" title="Океанник Вільсона – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Chim_b%C3%A1o_b%C3%A3o_Wilson" title="Chim báo bão Wilson – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Oceanites_oceanicus" title="Oceanites oceanicus – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%BB%84%E8%B9%BC%E6%B4%8B%E6%B5%B7%E7%87%95" title="黄蹼洋海燕 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q607024#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
 </div>
 
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 1 November 2012 at 01:19.<br /></li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
-Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Wilson%27s_Storm-Petrel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
-}</script>
-<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by srv229 in 0.153 secs. -->
-	</body>
-</html>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 11 March 2020, at 02:24<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wilson%27s_storm_petrel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.916","walltime":"1.199","ppvisitednodes":{"value":6143,"limit":1000000},"postexpandincludesize":{"value":63661,"limit":2097152},"templateargumentsize":{"value":4094,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":62308,"limit":5000000},"entityaccesscount":{"value":26,"limit":400},"timingprofile":["100.00% 1107.202      1 -total"," 39.74%  439.986      1 Template:Speciesbox"," 38.16%  422.549      1 Template:Taxobox/core"," 26.53%  293.776      1 Template:Taxonbar"," 20.33%  225.124      1 Template:Reflist","  9.45%  104.664      1 Template:Cite_iucn","  7.26%   80.434      1 Template:Commons","  7.02%   77.725      1 Template:Sister_project","  6.34%   70.196      1 Template:Side_box","  6.08%   67.314     13 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.677","limit":"10.000"},"limitreport-memusage":{"value":9243129,"limit":52428800}},"cachereport":{"origin":"mw1366","timestamp":"20201029223509","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wilson's storm petrel","url":"https:\/\/en.wikipedia.org\/wiki\/Wilson%27s_storm_petrel","sameAs":"http:\/\/www.wikidata.org\/entity\/Q607024","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q607024","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-05T12:11:33Z","dateModified":"2020-03-11T02:24:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/Oceanites_oceanicus_-_SE_Tasmania.jpg","headline":"species of bird"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":171,"wgHostname":"mw1323"});});</script>
+</body></html>

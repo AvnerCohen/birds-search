@@ -1,24 +1,26 @@
-// This job will be reposible for scraping the birds list of the israbirding.com site.
+// This job will be resposible for scraping the birds list of the israbirding.com site.
 // Once scraped, it will spawn a number of child process (based on number of cpus?) to scrape
 // Wikipedia for the pages of each of the species.
-var async = require('async');
-var nodeio = require('node.io');
-var fs = require('fs');
-var path = require('path');
-var log = require("./log").log;
-var http =require("http");
+var request = require('request')
+  , cheerio = require('cheerio')
+  , async = require('async')
+  , fs = require('fs')
+  , path = require('path')
+  , log = require("./log").log
+  , http =require("http");
 
-var http = require('http');
+const https = require('https')
 var options = {
   host: 'en.wikipedia.org',
-  // port: 80,
+  port: 443,
   path: '',
-  headers: {"user-agent": "BirdData/1.1 (http://www.israbirding.com/; israbirding@gmail.com)"}
+  headers: {"user-agent": "BirdData/1.1 (https://www.israbirding.com/; israbirding@gmail.com)"}
 };
 
+const ROOT_URL = 'https://www.israbirding.com/checklist/'
 
 function parseSpeciesName(orig) {
-    return (orig.replace(/\ /g, "_"));
+    return (orig.replace(/\ /g, "_").replace("backspace", "").trim());
 }
 
 function scrapeWikiPage(species_name) {
@@ -27,14 +29,10 @@ function scrapeWikiPage(species_name) {
 
   options.path="/wiki/" + species_name;
   var data ="";
-    http.get(options, function(res) {
-    res.on("data", function(chunk) {
-       data +=chunk;
-    });
-    res.on("end", function(){
-      fs.writeFileSync(filename, data, "utf8");})
-    }).on('error', function(e) {
-    log("Got error: " + e.message);
+
+  const file = fs.createWriteStream(filename);
+  const request = https.get(options, function(response) {
+    response.pipe(file);
   });
 }
 
@@ -67,28 +65,27 @@ function doIt(species) {
 }
 
 function addToQueue(species_name) {
-    var new_item = g_speciesList.pop();
+    var new_item = g_speciesList.pop()
     if (new_item) {
         q.push({
             bird: new_item
-        }, addToQueue);
+        }, addToQueue)
     }
     if (q.length() < CONCURRENT / 2) {
         addToQueue(); //Fill up
-        log("Fill up queue");
+        log("Fill up queue")
     }
-
 }
 
 function scrapeList() {
-    nodeio.scrape(function() {
-        this.getHtml('http://israbirding.com/checklist/', function(err, $) {
-            var species = [];
-            $('#main_list tr td.en').each(function(bird_species) {
-                species.push(parseSpeciesName(bird_species.text));
-            });
-            doIt(species);
+    request(ROOT_URL, function (err, response, body) {
+        if (err) throw err
+        var $ = cheerio.load(body)
+        var species = []
+        $('td.en').each(function(bird_species) {
+          species.push(parseSpeciesName($(this).text()))
         });
+        doIt(species)
     });
 }
 

@@ -1,783 +1,742 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Eurasian Spoonbill - Wikipedia, the free encyclopedia</title>
-<meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf2" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
-
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eurasian_Spoonbill","wgTitle":"Eurasian Spoonbill","wgCurRevisionId":516453507,"wgArticleId":311969,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from May 2011","All articles lacking in-text citations","IUCN Red List least concern species","Articles with \'species\' microformats","Platalea","Birds of Africa","Birds of Asia","Birds of Pakistan","Birds of India","Birds of Europe","Birds of Turkey","Birds of Japan","British Isles coastal fauna","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eurasian_Spoonbill","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"9214b65eefc2c76ce68c9b865156aa93","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":311969,"title":"Eurasian Spoonbill","namespace":0,"categories":["All articles lacking in-text citations","Articles lacking in-text citations from May 2011","Articles with \'species\' microformats","Birds of Africa","Birds of Asia","Birds of Europe","Birds of India","Birds of Japan","Birds of Pakistan","Birds of Turkey","Birds of Western Sahara","British Isles coastal fauna","IUCN Red List least concern species","Platalea"],"permissionLevel":"aft-reader"}});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
-"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
-}</script>
-<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Eurasian_Spoonbill skin-vector action-view vector-animateLayout">
-		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content" class="mw-body">
-			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Eurasian Spoonbill</span></h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- tagline -->
-				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-				<!-- /tagline -->
-								<!-- subtitle -->
-				<div id="contentSub"></div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" style="">
-<tr>
-<td class="mbox-image">
-<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" /></div>
-</td>
-<td class="mbox-text" style=""><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear because it has insufficient <a href="/wiki/Wikipedia:INCITE" title="Wikipedia:INCITE" class="mw-redirect">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(May 2011)</i></small> </span></td>
-</tr>
-</table>
-<div>
+<meta charset="UTF-8"/>
+<title>Eurasian spoonbill - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b1ddce33-6bae-4072-80e1-c3f939880547","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Eurasian_spoonbill","wgTitle":"Eurasian spoonbill","wgCurRevisionId":984704847,"wgRevisionId":984704847,"wgArticleId":311969,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 Dutch-language sources (nl)","Articles with short description","Short description matches Wikidata","Articles with 'species' microformats","Commons category link is on Wikidata","Taxonbars with 20–24 taxon IDs","Articles containing video clips",
+"IUCN Red List least concern species","Platalea","Birds of Eurasia","Birds described in 1758","Taxa named by Carl Linnaeus"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Eurasian_spoonbill","wgRelevantArticleId":311969,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Eurasian_Spoonbill","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Eurasian_spoonbill","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":
+"interlanguage","wgWikibaseItemId":"Q171360"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eurasian_Spoonbill-2.jpg/1200px-Eurasian_Spoonbill-2.jpg"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Eurasian_spoonbill"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Eurasian_spoonbill"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Eurasian_spoonbill rootpage-Eurasian_spoonbill skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Eurasian spoonbill</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Eurasian_Spoonbill&amp;redirect=no" class="mw-redirect" title="Eurasian Spoonbill">Eurasian Spoonbill</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Species of bird</div>
+<p class="mw-empty-elt">
+</p>
 <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Eurasian spoonbill
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Eurasian Spoonbill</th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Eurasian_Spoonbill-2.jpg" class="image"><img alt="Eurasian Spoonbill-2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eurasian_Spoonbill-2.jpg/220px-Eurasian_Spoonbill-2.jpg" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eurasian_Spoonbill-2.jpg/330px-Eurasian_Spoonbill-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eurasian_Spoonbill-2.jpg/440px-Eurasian_Spoonbill-2.jpg 2x" data-file-width="2547" data-file-height="2547" /></a>
+</td></tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Eurasian_Spoonbill.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Eurasian_Spoonbill.jpg/220px-Eurasian_Spoonbill.jpg" width="220" height="147" /></a></td>
-</tr>
-<tr style="text-align: center; background-color: rgb(211,211,164)">
-<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
-</tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Adult in breeding plumage
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
 <tr>
-<td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
-<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
+<td colspan="2"><div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" data-file-width="240" data-file-height="64" /><br /><a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN_1-0" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Platalea" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Domain:
 </td>
-</tr>
+<td><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryota</a>
+</td></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
-</tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
 <tr>
-<td>Kingdom:</td>
-<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
-</tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
 <tr>
-<td>Phylum:</td>
-<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
-</tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Bird" title="Bird">Aves</a>
+</td></tr>
 <tr>
-<td>Class:</td>
-<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
-</tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Pelecaniformes" title="Pelecaniformes">Pelecaniformes</a>
+</td></tr>
 <tr>
-<td>Order:</td>
-<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Pelecaniformes" title="Pelecaniformes">Pelecaniformes</a></span></td>
-</tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Threskiornithidae" title="Threskiornithidae">Threskiornithidae</a>
+</td></tr>
 <tr>
-<td>Family:</td>
-<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Threskiornithidae" title="Threskiornithidae">Threskiornithidae</a></span></td>
-</tr>
+<td>Genus:
+</td>
+<td><a href="/wiki/Spoonbill" title="Spoonbill"><i>Platalea</i></a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<td>Genus:</td>
-<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Spoonbill" title="Spoonbill">Platalea</a></i></span></td>
-</tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>P.&#160;leucorodia</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
 <tr>
-<td>Species:</td>
-<td><span class="species" style="white-space:nowrap;"><i><b>P. leucorodia</b></i></span></td>
-</tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Platalea leucorodia</i></span></b><br />
-<small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></small></td>
-</tr>
-</table>
-</div>
-<p>The <b>Eurasian Spoonbill</b> or <b>Common Spoonbill</b> (<i>Platalea leucorodia</i>) is a wading <a href="/wiki/Bird" title="Bird">bird</a> of the <a href="/wiki/Ibis" title="Ibis">ibis</a> and <a href="/wiki/Spoonbill" title="Spoonbill">spoonbill</a> family <a href="/wiki/Threskiornithidae" title="Threskiornithidae">Threskiornithidae</a>,</p>
-<table id="toc" class="toc">
-<tr>
-<td>
-<div id="toctitle">
-<h2>Contents</h2>
-</div>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Platalea leucorodia</i></span></b><br /><div style="font-size: 85%;"><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><div id="mwe_player_0" class="PopUpMediaTransform" style="width:220px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:852px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/852px--Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:852px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;191.321&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;852&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1096424&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.480p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;SD VP9 (480P)&quot; data-shorttitle=&quot;VP9 480P&quot; data-transcodekey=&quot;480p.vp9.webm&quot; data-width=&quot;852&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1240272&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Original WebM file, 1,023 × 576 (1.31 Mbps)&quot; data-shorttitle=&quot;WebM source&quot; data-width=&quot;1023&quot; data-height=&quot;576&quot; data-bandwidth=&quot;1310595&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;214&quot; data-height=&quot;120&quot; data-bandwidth=&quot;178528&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;224576&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;180&quot; data-bandwidth=&quot;253280&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;323064&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Small VP9 (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;367624&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;577096&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.360p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 (360P)&quot; data-shorttitle=&quot;VP9 360P&quot; data-transcodekey=&quot;360p.vp9.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;675032&quot; data-framerate=&quot;25&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:Lepelaar in goud licht bij zonsondergang-4961759.webm" style="width:220px;height:124px" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm/220px--Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/9/99/Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lepelaar_in_goud_licht_bij_zonsondergang-4961759.webm" class="internal" title="Enlarge"></a></div>Eurasian spoonbill video</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0.jpg/220px-%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0.jpg/330px-%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0.jpg/440px-%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0.jpg 2x" data-file-width="2112" data-file-height="2816" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0.jpg" class="internal" title="Enlarge"></a></div>Common spoonbill in a <a href="/wiki/Rostov-on-Don" title="Rostov-on-Don">Rostov-on-don</a> zoo, <a href="/wiki/Russia" title="Russia">Russia</a>. The most adverse impact on the populations of this species are caused by the draining of waterlogged lands and environment pollution.</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:272px;"><a href="/wiki/File:%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%96_%D0%B2_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%96_%D0%94%D1%83%D0%BD%D0%B0%D1%8E.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%96_%D0%B2_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%96_%D0%94%D1%83%D0%BD%D0%B0%D1%8E.jpg/270px-%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%96_%D0%B2_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%96_%D0%94%D1%83%D0%BD%D0%B0%D1%8E.jpg" decoding="async" width="270" height="189" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%96_%D0%B2_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%96_%D0%94%D1%83%D0%BD%D0%B0%D1%8E.jpg/405px-%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%96_%D0%B2_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%96_%D0%94%D1%83%D0%BD%D0%B0%D1%8E.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%96_%D0%B2_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%96_%D0%94%D1%83%D0%BD%D0%B0%D1%8E.jpg/540px-%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%96_%D0%B2_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%96_%D0%94%D1%83%D0%BD%D0%B0%D1%8E.jpg 2x" data-file-width="4000" data-file-height="2800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:%D0%9A%D0%BE%D1%81%D0%B0%D1%80%D1%96_%D0%B2_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%96_%D0%94%D1%83%D0%BD%D0%B0%D1%8E.jpg" class="internal" title="Enlarge"></a></div>Common spoonbill in Danube Biosphere Reserve, <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></div></div></div>
+<p>The <b>Eurasian spoonbill</b> (<i>Platalea leucorodia</i>), or <b>common spoonbill</b>, is a wading <a href="/wiki/Bird" title="Bird">bird</a> of the <a href="/wiki/Ibis" title="Ibis">ibis</a> and <a href="/wiki/Spoonbill" title="Spoonbill">spoonbill</a> family <a href="/wiki/Threskiornithidae" title="Threskiornithidae">Threskiornithidae</a>. The genus name <i>Platalea</i> is from <a href="/wiki/Latin" title="Latin">Latin</a> and means "broad", referring to the distinctive shape of the bill, and <i>leucorodia</i> is from <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> <i>leukerodios</i> "spoonbill", itself derived from <i>leukos</i>, "white" and <i>erodios</i> "heron".<sup id="cite_ref-job_2-0" class="reference"><a href="#cite_note-job-2">&#91;2&#93;</a></sup> In England it was traditionally known as the "shovelard", a name later used for the <a href="/wiki/Northern_Shoveller" class="mw-redirect" title="Northern Shoveller">Northern Shoveller</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Distribution"><span class="tocnumber">1</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy_and_systematics"><span class="tocnumber">1</span> <span class="toctext">Taxonomy and systematics</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Taxonomy"><span class="tocnumber">3</span> <span class="toctext">Taxonomy</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Habitat"><span class="tocnumber">4</span> <span class="toctext">Habitat</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Diet"><span class="tocnumber">5</span> <span class="toctext">Diet</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Behaviour"><span class="tocnumber">6</span> <span class="toctext">Behaviour</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Conservation"><span class="tocnumber">7</span> <span class="toctext">Conservation</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">8</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">9</span> <span class="toctext">Notes</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
-</ul>
-</td>
-</tr>
-</table>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=1" title="Edit section: Distribution">edit</a>]</span> <span class="mw-headline" id="Distribution">Distribution</span></h2>
-<p>This is a <a href="/wiki/Palearctic" title="Palearctic" class="mw-redirect">Palearctic</a> species, breeding from the United Kingdom and Spain in the west through to <a href="/wiki/Japan" title="Japan">Japan</a>, and also in <a href="/wiki/North_Africa" title="North Africa">North Africa</a>. In Europe, only The Netherlands, Spain, Austria, Hungary and Greece have sizeable populations.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> Most birds <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> to the tropics in winter, with <a href="/wiki/Europe" title="Europe">European</a> breeders mainly going to <a href="/wiki/Africa" title="Africa">Africa</a>, but a few remaining in mild winter areas of western Europe south to the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>. It was <a href="/wiki/Extirpated" title="Extirpated" class="mw-redirect">extirpated</a> from the United Kingdom but sporadic breeding attempts in the early 21st Century culminated with the formation of a colony at <a href="/wiki/Holkham" title="Holkham">Holkham</a> in <a href="/wiki/Norfolk" title="Norfolk">Norfolk</a> in 2010. In 2011, 8 breeding pairs nested, successfully fledging 14 young.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
-<p>This species is almost unmistakable in most of its range. The breeding bird is all white except for its dark legs, black bill with a yellow tip, and a yellow breast patch like a <a href="/wiki/Pelican" title="Pelican">pelican</a>. It has a crest in the breeding season. Non-breeders lack the crest and breast patch, and immature birds have a pale bill and black tips to the primary flight feathers. Unlike herons, spoonbills fly with their necks outstretched. The Eurasian Spoonbill differs from the <a href="/wiki/African_Spoonbill" title="African Spoonbill">African Spoonbill</a> with which in overlaps in winter, in that the latter species has a red face and legs, and no crest. They are mostly silent. Even at their breeding colonies the main sounds are bill snapping, occasional deep grunting and occasional trumpeting noises.</p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=3" title="Edit section: Taxonomy">edit</a>]</span> <span class="mw-headline" id="Taxonomy">Taxonomy</span></h2>
-<p>A study of mitochondrial DNA of the spoonbills found that the Eurasian Spoonbill is sister taxon to a clade containing the <a href="/wiki/Royal_Spoonbill" title="Royal Spoonbill">Royal</a> and <a href="/wiki/Black-faced_Spoonbill" title="Black-faced Spoonbill">Black-faced Spoonbills</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></p>
-<p>The Eurasian Spoonbill has three <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>:</p>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Behaviour_and_ecology"><span class="tocnumber">4</span> <span class="toctext">Behaviour and ecology</span></a>
 <ul>
-<li><i>P. l. leucorodia</i>, the nominate race, occupies all the range except as below.</li>
-<li><i>P. l. balsaci</i>. Islands off the <a href="/wiki/Banc_d%27Arguin" title="Banc d'Arguin" class="mw-redirect">Banc d'Arguin</a>, <a href="/wiki/Mauritania" title="Mauritania">Mauritania</a>.</li>
-<li><i>P. l. archeri</i>. The coasts of the <a href="/wiki/Red_Sea" title="Red Sea">Red Sea</a> and <a href="/wiki/Somalia" title="Somalia">Somalia</a>.</li>
+<li class="toclevel-2 tocsection-5"><a href="#Breeding"><span class="tocnumber">4.1</span> <span class="toctext">Breeding</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Feeding"><span class="tocnumber">4.2</span> <span class="toctext">Feeding</span></a></li>
 </ul>
-<p>Birds in Asia are sometimes separated as <i>P. l. major</i></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=4" title="Edit section: Habitat">edit</a>]</span> <span class="mw-headline" id="Habitat">Habitat</span></h2>
-<p>Eurasian Spoonbills show a preference for extensive shallow, wetlands with muddy, clay or fine sandy beds. They may inhabit any type of marsh, river, lake, flooded area and mangrove swamp, whether fresh, brackish or saline, but especially those with islands for nesting or dense emergent vegetation (e.g. reedbeds) and scattered trees or srubs (especially <a href="/wiki/Willow" title="Willow">willow</a> <a href="/wiki/Salix" title="Salix" class="mw-redirect">Salix</a> spp., <a href="/wiki/Oak" title="Oak">oak</a> <a href="/wiki/Quercus" title="Quercus" class="mw-redirect">Quercus</a> spp. or <a href="/wiki/Poplar" title="Poplar" class="mw-redirect">poplar</a> <a href="/wiki/Populus" title="Populus">Populus</a> spp.). Eurasian Spoonbills may also frequent sheltered marine habitats during the winter such as deltas, estuaries, tidal creeks and coastal lagoons.<sup id="cite_ref-IUCN2012_0-1" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=5" title="Edit section: Diet">edit</a>]</span> <span class="mw-headline" id="Diet">Diet</span></h2>
-<p>The diet consists of adult and larval aquatic insects, molluscs, crustaceans, worms, leeches, frogs, tadpoles and small fish up to 10–15&#160;cm long. It may also take algae or small fragments of aquatic plants (although these are possibly ingested accidentally with animal matter).<sup id="cite_ref-IUCN2012_0-2" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=6" title="Edit section: Behaviour">edit</a>]</span> <span class="mw-headline" id="Behaviour">Behaviour</span></h2>
-<p>More northerly breeding populations are fully migratory but may only migrate short distances while other, more southerly populations are resident and nomadic or partially migratory. In the Palearctic the species breeds in spring (e.g. from April) but in tropical parts of its range it times breeding to coincide with rainfall. Breeding is normally in single species colonies or in small single species groups amidst mixed-species colonies of other waterbirds such as herons, egrets and cormorants. Outside the breeding season Eurasian Spoonbills forage singly or in small flocks of up to 100 individuals. Migration is usually conducted in flocks of up to 100 individuals. Most activity takes place during the morning and evening (although in coastal areas it foraging is governed by tidal rhythms), they often roost communally in roosts which are up to 15&#160;km away from the feeding areas.<sup id="cite_ref-IUCN2012_0-3" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></p>
-<div class="center">
-<div class="thumb tnone">
-<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Junge_L%C3%B6ffler_im_Nest.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Junge_L%C3%B6ffler_im_Nest.JPG/250px-Junge_L%C3%B6ffler_im_Nest.JPG" width="250" height="188" class="thumbimage" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Junge_L%C3%B6ffler_im_Nest.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-Nestlings</div>
-</div>
-</div>
-</div>
-<p>The nest is a platform of sticks and vegetation which is either constructed on the ground on islands in lakes and rivers or in dense stands of reeds, bushes, mangroves or deciduous trees up to 5 m above the ground1. Within colonies neighbouring nests are usually quite close together, no more than 1 or 2m apart. Breeding colonies are normally sited within 10–15&#160;km of feeding areas, often much less (although the species may also feed up to 35–40&#160;km away).<sup id="cite_ref-IUCN2012_0-4" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=7" title="Edit section: Conservation">edit</a>]</span> <span class="mw-headline" id="Conservation">Conservation</span></h2>
-<p>Threats to the Eurasian Spoonbill include habitat destruction by drainage and degradation by pollution, It is especially adversely affected by the disappearance of reed swamps. In Greece over-fishing and disturbance have caused the population to decline, and human exploitation of eggs and nestlings for food has threatened the species in the past.<sup id="cite_ref-IUCN2012_0-5" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup> As stated above it has recently started to breed in the United Kingdom from where it was extirpated in the 17th Century.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
-<ul class="gallery">
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:28.5px auto;"><a href="/wiki/File:Eurasian_Spoonbill_(Platalea_leucorodia)_at_Bharatpur_I_IMG_5670.jpg" class="image"><img alt="Eurasian Spoonbill (Platalea leucorodia) at Bharatpur I IMG 5670.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Eurasian_Spoonbill_%28Platalea_leucorodia%29_at_Bharatpur_I_IMG_5670.jpg/120px-Eurasian_Spoonbill_%28Platalea_leucorodia%29_at_Bharatpur_I_IMG_5670.jpg" width="120" height="93" /></a></div>
-</div>
-<div class="gallerytext"></div>
-</div>
 </li>
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:30px auto;"><a href="/wiki/File:Loeffler.jpg" class="image"><img alt="Loeffler.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Loeffler.jpg/120px-Loeffler.jpg" width="120" height="90" /></a></div>
-</div>
-<div class="gallerytext"></div>
-</div>
-</li>
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:15px auto;"><a href="/wiki/File:Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg" class="image"><img alt="Platalea Leucorodia in Danubius Pannonico-Mysicus 1726 by Marsigli.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg/83px-Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg" width="83" height="120" /></a></div>
-</div>
-<div class="gallerytext"></div>
-</div>
-</li>
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:15px auto;"><a href="/wiki/File:Hieronymus_Bosch_024.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hieronymus_Bosch_024.jpg/90px-Hieronymus_Bosch_024.jpg" width="90" height="120" /></a></div>
-</div>
-<div class="gallerytext">
-<p>Hieronymus Bosch: <i>The Garden of Earthly Delights</i>, 15th c.</p>
-</div>
-</div>
-</li>
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:30.5px auto;"><a href="/wiki/File:NIEdot374.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/NIEdot374.jpg/120px-NIEdot374.jpg" width="120" height="89" /></a></div>
-</div>
-<div class="gallerytext">
-<p><a href="/wiki/New_International_Encyclopedia" title="New International Encyclopedia">New International Encyclopedia</a>, 1902</p>
-</div>
-</div>
-</li>
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:16px auto;"><a href="/wiki/File:Spoonbill50.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spoonbill50.jpg/120px-Spoonbill50.jpg" width="120" height="118" /></a></div>
-</div>
-<div class="gallerytext">
-<p>Naumann: <i>Naturgeschichte der Vögel Mitteleuropas</i>, 1905</p>
-</div>
-</div>
-</li>
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:15px auto;"><a href="/wiki/File:1597_Birds_60.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1597_Birds_60.png/93px-1597_Birds_60.png" width="93" height="120" /></a></div>
-</div>
-<div class="gallerytext">
-<center>Hungarian stamp issued in 1959</center>
-</div>
-</div>
-</li>
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:32px auto;"><a href="/wiki/File:1968._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA._%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0._%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/1968._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA._%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0._%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0.jpg/120px-1968._%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA._%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0._%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0.jpg" width="120" height="86" /></a></div>
-</div>
-<div class="gallerytext">
-<p>USSR-stamp, 1968</p>
-</div>
-</div>
-</li>
+<li class="toclevel-1 tocsection-7"><a href="#Conservation"><span class="tocnumber">5</span> <span class="toctext">Conservation</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">6</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
 </ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
+</div>
+
+<h2><span class="mw-headline" id="Taxonomy_and_systematics">Taxonomy and systematics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=1" title="Edit section: Taxonomy and systematics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Platalea_leucorodia_-Holes_Bay,_Poole,_Dorset,_England-8.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Platalea_leucorodia_-Holes_Bay%2C_Poole%2C_Dorset%2C_England-8.jpg/220px-Platalea_leucorodia_-Holes_Bay%2C_Poole%2C_Dorset%2C_England-8.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Platalea_leucorodia_-Holes_Bay%2C_Poole%2C_Dorset%2C_England-8.jpg/330px-Platalea_leucorodia_-Holes_Bay%2C_Poole%2C_Dorset%2C_England-8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Platalea_leucorodia_-Holes_Bay%2C_Poole%2C_Dorset%2C_England-8.jpg/440px-Platalea_leucorodia_-Holes_Bay%2C_Poole%2C_Dorset%2C_England-8.jpg 2x" data-file-width="1923" data-file-height="1081" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Platalea_leucorodia_-Holes_Bay,_Poole,_Dorset,_England-8.jpg" class="internal" title="Enlarge"></a></div>Juvenile in <a href="/wiki/Holes_Bay" title="Holes Bay">Holes Bay</a>, Dorset, England</div></div></div>
+<p>A study of <a href="/wiki/Mitochondrial_DNA" title="Mitochondrial DNA">mitochondrial DNA</a> of the spoonbills found that the Eurasian spoonbill is sister taxon to a clade containing the <a href="/wiki/Royal_spoonbill" title="Royal spoonbill">royal</a> and <a href="/wiki/Black-faced_spoonbill" title="Black-faced spoonbill">black-faced spoonbills</a>.<sup id="cite_ref-Chesser2010_3-0" class="reference"><a href="#cite_note-Chesser2010-3">&#91;3&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Eurasian_spoonbill.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eurasian_spoonbill.JPG/220px-Eurasian_spoonbill.JPG" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eurasian_spoonbill.JPG/330px-Eurasian_spoonbill.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eurasian_spoonbill.JPG/440px-Eurasian_spoonbill.JPG 2x" data-file-width="5184" data-file-height="2920" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Eurasian_spoonbill.JPG" class="internal" title="Enlarge"></a></div>A Eurasian spoonbill in Bharatpur Bird sanctuary, Rajasthan, India</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Platalea_leucorodia_MWNH_1953.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Platalea_leucorodia_MWNH_1953.JPG/220px-Platalea_leucorodia_MWNH_1953.JPG" decoding="async" width="220" height="232" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Platalea_leucorodia_MWNH_1953.JPG/330px-Platalea_leucorodia_MWNH_1953.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Platalea_leucorodia_MWNH_1953.JPG/440px-Platalea_leucorodia_MWNH_1953.JPG 2x" data-file-width="2514" data-file-height="2656" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Platalea_leucorodia_MWNH_1953.JPG" class="internal" title="Enlarge"></a></div>Egg, Collection <a href="/wiki/Museum_Wiesbaden,_Germany" class="mw-redirect" title="Museum Wiesbaden, Germany">Museum Wiesbaden, Germany</a></div></div></div>
+<p>The Eurasian spoonbill has three <a href="/wiki/Subspecies" title="Subspecies">subspecies</a>:<sup id="cite_ref-IOC_4-0" class="reference"><a href="#cite_note-IOC-4">&#91;4&#93;</a></sup>
+</p>
+<ul><li><i>P. l. leucorodia</i> – <small><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, 1758</small>: <a href="/wiki/Nominate_subspecies#Nominotypical_subspecies_and_subspecies_autonyms" class="mw-redirect" title="Nominate subspecies">nominate</a>, occupies all the range except as below.</li>
+<li><i>P. l. balsaci</i> – <small><a href="/wiki/Ren%C3%A9_de_Naurois" title="René de Naurois">Naurois</a> &amp; Roux, 1974</small>: found on the islands off the <a href="/wiki/Banc_d%27Arguin" class="mw-redirect" title="Banc d&#39;Arguin">Banc d'Arguin</a>, <a href="/wiki/Mauritania" title="Mauritania">Mauritania</a>.</li>
+<li><i>P. l. archeri</i> – <small><a href="/wiki/Oscar_Neumann" title="Oscar Neumann">Neumann</a>, 1928</small>: found on the coasts of the <a href="/wiki/Red_Sea" title="Red Sea">Red Sea</a> and <a href="/wiki/Somalia" title="Somalia">Somalia</a>.</li></ul>
+<p>Birds in Asia are sometimes separated as <i>P. l. major</i>.
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This species is almost unmistakable in most of its range. The breeding bird is all white except for its dark legs, black bill with a yellow tip, and a yellow breast patch like a <a href="/wiki/Pelican" title="Pelican">pelican</a>. It has a crest in the breeding season. Non-breeders lack the crest and breast patch, and immature birds have a pale bill and black tips to the primary flight feathers. Unlike herons, spoonbills fly with their necks outstretched. The Eurasian spoonbill differs from the <a href="/wiki/African_spoonbill" title="African spoonbill">African spoonbill</a> with which in overlaps in winter, in that the latter species has a red face and legs, and no crest.
+</p><p>They are mostly silent. Even at their breeding colonies the main sounds are bill snapping, occasional deep grunting and occasional trumpeting noises.
+</p>
+<h2><span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is a <a href="/wiki/Palearctic" class="mw-redirect" title="Palearctic">Palearctic</a> species, breeding from the United Kingdom and Spain in the west through to Japan, and also in North Africa. In Europe, only the Netherlands, Spain, Austria, Hungary and Greece have sizeable populations.<sup id="cite_ref-Overdijk2002p88_5-0" class="reference"><a href="#cite_note-Overdijk2002p88-5">&#91;5&#93;</a></sup> Most birds <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> to the tropics in winter, with European breeders mainly going to Africa, but a few remaining in mild winter areas of western Europe south to the United Kingdom. It was <a href="/wiki/Local_extinction" title="Local extinction">extirpated</a> from the United Kingdom in the later part of the seventeenth century, although in the previous century it had been a widespread breeding species in the south-east, even near London. Sporadic breeding attempts in the early 21st century culminated with the formation of a colony at <a href="/wiki/Holkham" title="Holkham">Holkham</a> in <a href="/wiki/Norfolk" title="Norfolk">Norfolk</a> in 2010. In 2011, 8 breeding pairs nested, successfully fledging 14 young.<sup id="cite_ref-naturalengland_6-0" class="reference"><a href="#cite_note-naturalengland-6">&#91;6&#93;</a></sup>
+</p><p>Eurasian spoonbills show a preference for extensive shallow, wetlands with muddy, clay or fine sandy beds. They may inhabit any type of marsh, river, lake, flooded area and mangrove swamp, whether fresh, brackish or saline, but especially those with islands for nesting or dense emergent vegetation (e.g. reedbeds) and scattered trees or shrubs (especially <a href="/wiki/Willow" title="Willow">willow <i>Salix</i> spp.</a>, <a href="/wiki/Oak" title="Oak">oak <i>Quercus </i>spp.</a> or <a href="/wiki/Populus" title="Populus">poplar <i>Populus</i> spp.</a>). Eurasian spoonbills may also frequent sheltered marine habitats during the winter such as deltas, estuaries, tidal creeks and coastal lagoons.<sup id="cite_ref-IUCN_1-1" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=4" title="Edit section: Behaviour and ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Breeding">Breeding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=5" title="Edit section: Breeding">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>More northerly breeding populations are fully migratory but may only migrate short distances while other, more southerly populations are resident and nomadic or partially migratory. In the Palearctic, the species breeds in spring (e.g. from April) but in tropical parts of its range it times breeding to coincide with rainfall. Breeding is normally in single species colonies or in small single species groups amidst mixed-species colonies of other waterbirds such as herons, egrets and cormorants. Outside the breeding season Eurasian spoonbills forage singly or in small flocks of up to 100 individuals. Migration is usually conducted in flocks of up to 100 individuals. Most activity takes place during the morning and evening (although in coastal areas it foraging is governed by tidal rhythms), they often roost communally in roosts which are up to 15&#160;km (9.3&#160;mi) away from the feeding areas.<sup id="cite_ref-IUCN_1-2" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup>
+</p><p>The nest is a platform of sticks and vegetation which is either constructed on the ground on islands in lakes and rivers or in dense stands of reeds, bushes, mangroves or deciduous trees up to 5&#160;m (16&#160;ft) above the ground. Within colonies neighbouring nests are usually quite close together, no more than 1 or 2&#160;m (3.3 or 6.6&#160;ft) apart. Breeding colonies are normally sited within 10–15&#160;km (6.2–9.3&#160;mi) of feeding areas, often much less (although the species may also feed up to 35–40&#160;km (22–25&#160;mi) away).<sup id="cite_ref-IUCN_1-3" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Feeding">Feeding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=6" title="Edit section: Feeding">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The diet consists of aquatic <a href="/wiki/Insect" title="Insect">insects</a>, <a href="/wiki/Mollusks" class="mw-redirect" title="Mollusks">mollusks</a>, <a href="/wiki/Newt" title="Newt">newts</a>, <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a>, worms, leeches, <a href="/wiki/Frog" title="Frog">frogs</a>, tadpoles and small fish up to 10–15&#160;cm (3.9–5.9&#160;in) long. It may also take algae or small fragments of aquatic plants (although these are possibly ingested accidentally with animal matter).<sup id="cite_ref-IUCN_1-4" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup>They use sideways sweeps of their beaks to filter out the tiny fish and shrimps.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Conservation">Conservation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=7" title="Edit section: Conservation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Threats to the Eurasian spoonbill include habitat destruction by drainage and degradation by pollution, It is especially adversely affected by the disappearance of reed swamps. In Greece, over-fishing and disturbance have caused the population to decline, and human exploitation of eggs and nestlings for food has threatened the species in the past.<sup id="cite_ref-IUCN_1-5" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup> As stated above it has recently started to breed in the United Kingdom from where it was extirpated in the 17th century.<sup id="cite_ref-Unwin2000_8-0" class="reference"><a href="#cite_note-Unwin2000-8">&#91;8&#93;</a></sup>
+The Eurasian spoonbill international expert group (<a rel="nofollow" class="external text" href="https://www.unep-aewa.org/en/workinggroup/aewa-international-species-expert-groups-iseg">ESIEG</a>) is one of the first research network created on a waterbird species. It was formed in 1991 and then linked to <a href="/w/index.php?title=Eurosite&amp;action=edit&amp;redlink=1" class="new" title="Eurosite (page does not exist)">Eurosite</a> until 2013 when the group became an <a href="/wiki/Agreement_on_the_Conservation_of_African-Eurasian_Migratory_Waterbirds" title="Agreement on the Conservation of African-Eurasian Migratory Waterbirds">AEWA</a> International Species Expert Groups. An <a rel="nofollow" class="external text" href="https://www.unep-aewa.org/en/publication/international-single-species-action-plan-conservation-eurasian-spoonbill-complete-ts">international action plan for the Eurasian Spoonbill</a> was adopted in 2008. ESIEG is in charge of its implementation.
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Spoonbill-at-gudavi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spoonbill-at-gudavi.jpg/113px-Spoonbill-at-gudavi.jpg" decoding="async" width="113" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spoonbill-at-gudavi.jpg/169px-Spoonbill-at-gudavi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spoonbill-at-gudavi.jpg/226px-Spoonbill-at-gudavi.jpg 2x" data-file-width="1792" data-file-height="1904" /></a></div></div>
+			<div class="gallerytext">
+<p>Spoonbill at Gudavi
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Junge_L%C3%B6ffler_im_Nest.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Junge_L%C3%B6ffler_im_Nest.JPG/120px-Junge_L%C3%B6ffler_im_Nest.JPG" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Junge_L%C3%B6ffler_im_Nest.JPG/180px-Junge_L%C3%B6ffler_im_Nest.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Junge_L%C3%B6ffler_im_Nest.JPG/240px-Junge_L%C3%B6ffler_im_Nest.JPG 2x" data-file-width="2816" data-file-height="2112" /></a></div></div>
+			<div class="gallerytext">
+<p>Nestlings
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:SL_Bundala_NP_asv2020-01_img06.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SL_Bundala_NP_asv2020-01_img06.jpg/120px-SL_Bundala_NP_asv2020-01_img06.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SL_Bundala_NP_asv2020-01_img06.jpg/180px-SL_Bundala_NP_asv2020-01_img06.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/SL_Bundala_NP_asv2020-01_img06.jpg/240px-SL_Bundala_NP_asv2020-01_img06.jpg 2x" data-file-width="5145" data-file-height="3859" /></a></div></div>
+			<div class="gallerytext">
+<p>Immature Eurasian spoonbill, <a href="/wiki/Bundala_National_Park" title="Bundala National Park">Bundala National Park</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Loeffler.jpg" class="image"><img alt="Loeffler.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Loeffler.jpg/120px-Loeffler.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Loeffler.jpg/180px-Loeffler.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Loeffler.jpg/240px-Loeffler.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:36px auto;"><a href="/wiki/File:Spoonbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Spoonbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg/120px-Spoonbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg" decoding="async" width="120" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Spoonbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg/180px-Spoonbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Spoonbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg/240px-Spoonbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg 2x" data-file-width="1647" data-file-height="1066" /></a></div></div>
+			<div class="gallerytext">
+<p>ID composite
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg" class="image"><img alt="Platalea Leucorodia in Danubius Pannonico-Mysicus 1726 by Marsigli.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg/83px-Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg" decoding="async" width="83" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg/124px-Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg/166px-Platalea_Leucorodia_in_Danubius_Pannonico-Mysicus_1726_by_Marsigli.jpg 2x" data-file-width="500" data-file-height="723" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Hieronymus_Bosch_024.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hieronymus_Bosch_024.jpg/90px-Hieronymus_Bosch_024.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hieronymus_Bosch_024.jpg/135px-Hieronymus_Bosch_024.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hieronymus_Bosch_024.jpg/180px-Hieronymus_Bosch_024.jpg 2x" data-file-width="567" data-file-height="757" /></a></div></div>
+			<div class="gallerytext">
+<p>Hieronymus Bosch: <i>The Garden of Earthly Delights</i>, 15th century
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30.5px auto;"><a href="/wiki/File:NIEdot374.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/NIEdot374.jpg/120px-NIEdot374.jpg" decoding="async" width="120" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/NIEdot374.jpg/180px-NIEdot374.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/NIEdot374.jpg/240px-NIEdot374.jpg 2x" data-file-width="1248" data-file-height="928" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/New_International_Encyclopedia" class="mw-redirect" title="New International Encyclopedia">New International Encyclopedia</a>, 1902
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:16px auto;"><a href="/wiki/File:Spoonbill50.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spoonbill50.jpg/120px-Spoonbill50.jpg" decoding="async" width="120" height="118" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spoonbill50.jpg/180px-Spoonbill50.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Spoonbill50.jpg/240px-Spoonbill50.jpg 2x" data-file-width="258" data-file-height="254" /></a></div></div>
+			<div class="gallerytext">
+<p>Naumann: <i>Naturgeschichte der Vögel Mitteleuropas</i>, 1905
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:32px auto;"><a href="/wiki/File:The_Soviet_Union_1968_CPA_3676_stamp_(Eurasian_Spoonbill_and_Glossy_Ibis_(Astrakhan_Nature_Reserve)).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Soviet_Union_1968_CPA_3676_stamp_%28Eurasian_Spoonbill_and_Glossy_Ibis_%28Astrakhan_Nature_Reserve%29%29.jpg/120px-The_Soviet_Union_1968_CPA_3676_stamp_%28Eurasian_Spoonbill_and_Glossy_Ibis_%28Astrakhan_Nature_Reserve%29%29.jpg" decoding="async" width="120" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Soviet_Union_1968_CPA_3676_stamp_%28Eurasian_Spoonbill_and_Glossy_Ibis_%28Astrakhan_Nature_Reserve%29%29.jpg/180px-The_Soviet_Union_1968_CPA_3676_stamp_%28Eurasian_Spoonbill_and_Glossy_Ibis_%28Astrakhan_Nature_Reserve%29%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Soviet_Union_1968_CPA_3676_stamp_%28Eurasian_Spoonbill_and_Glossy_Ibis_%28Astrakhan_Nature_Reserve%29%29.jpg/240px-The_Soviet_Union_1968_CPA_3676_stamp_%28Eurasian_Spoonbill_and_Glossy_Ibis_%28Astrakhan_Nature_Reserve%29%29.jpg 2x" data-file-width="1007" data-file-height="719" /></a></div></div>
+			<div class="gallerytext">
+<p>USSR stamp, 1968
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Platalea_leucorodia_MHNT.ZOO.2010.11.61.1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Platalea_leucorodia_MHNT.ZOO.2010.11.61.1.jpg/120px-Platalea_leucorodia_MHNT.ZOO.2010.11.61.1.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Platalea_leucorodia_MHNT.ZOO.2010.11.61.1.jpg/180px-Platalea_leucorodia_MHNT.ZOO.2010.11.61.1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Platalea_leucorodia_MHNT.ZOO.2010.11.61.1.jpg/240px-Platalea_leucorodia_MHNT.ZOO.2010.11.61.1.jpg 2x" data-file-width="4260" data-file-height="2705" /></a></div></div>
+			<div class="gallerytext">
+<p>Museum specimen - île Kiji, Mauritania
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN2012_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-IUCN2012_0-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003802">"<i>Platalea leucorodia</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003802">http://www.iucnredlist.org/apps/redlist/details/106003802</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Platalea+leucorodia%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003802&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Spoonbill"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Overdijk 2002, p. 88</span></li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.naturalengland.org.uk/about_us/news/2011/120911.aspx">http://www.naturalengland.org.uk/about_us/news/2011/120911.aspx</a></span></li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation Journal">Chesser, R.Terry; Yeung, Carol K.L.; Yao, Cheng-Te; Tians, Xiu-Hua; Li Shou-Hsien (2010). "Molecular phylogeny of the spoonbills (Aves: Threskiornithidae) based on mitochondrial DNA". <i>Zootaxa</i> (2603): 53–60. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1175-5326">1175-5326</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Molecular+phylogeny+of+the+spoonbills+%28Aves%3A+Threskiornithidae%29+based+on+mitochondrial+DNA&amp;rft.jtitle=Zootaxa&amp;rft.aulast=Chesser%2C+R.Terry%3B+Yeung%2C+Carol+K.L.%3B+Yao%2C+Cheng-Te%3B+Tians%2C+Xiu-Hua%3B+Li+Shou-Hsien&amp;rft.au=Chesser%2C+R.Terry%3B+Yeung%2C+Carol+K.L.%3B+Yao%2C+Cheng-Te%3B+Tians%2C+Xiu-Hua%3B+Li+Shou-Hsien&amp;rft.date=2010&amp;rft.issue=2603&amp;rft.pages=53%E2%80%9360&amp;rft.issn=1175-5326&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Spoonbill"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation news">Unwin, Brian (27 August 2000). <i>The Independent</i>. <a rel="nofollow" class="external free" href="http://www.independent.co.uk/environment/spoonbills-return-to-breed-in-the-uk-after-300-years-710261.html">http://www.independent.co.uk/environment/spoonbills-return-to-breed-in-the-uk-after-300-years-710261.html</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=&amp;rft.jtitle=The+Independent&amp;rft.aulast=Unwin&amp;rft.aufirst=Brian&amp;rft.au=Unwin%2C%26%2332%3BBrian&amp;rft.date=27+August+2000&amp;rft_id=http%3A%2F%2Fwww.independent.co.uk%2Fenvironment%2Fspoonbills-return-to-breed-in-the-uk-after-300-years-710261.html&amp;rfr_id=info:sid/en.wikipedia.org:Eurasian_Spoonbill"><span style="display: none;">&#160;</span></span></span></li>
-</ol>
-</div>
-<h2><span class="editsection">[<a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
-<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
-<tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
-<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Platalea_leucorodia" class="extiw" title="wikispecies:Platalea leucorodia">Platalea leucorodia</a></b></i></td>
-</tr>
-</table>
-<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
-<tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
-<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Platalea_leucorodia" class="extiw" title="commons:Category:Platalea leucorodia">Platalea leucorodia</a></b></i></td>
-</tr>
-</table>
-<ul>
-<li><i><a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">Handbook of the Birds of the World</a></i> 1: 504–505. Lynx Edicions.</li>
-<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/eurasian-spoonbill-platalea-leucorodia">Common Spoonbill videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
-<li>Overdijk, O. 2002. Lepelaar <i>Platalea leucorodia</i>, p.&#160;88. SOVON Vogelonderzoek Nederland 2002. <i>Atlas van de Nederlandse Broedvogels 1998–2000 – Nederlandse Fauna 5</i>, Nationaal Natuurhistorisch Museum Naturalis, KNNV Uitgeverij &amp; European Invertebrate Survey-Nederland, Leiden. <a href="/wiki/Special:BookSources/9050111610" class="internal mw-magiclink-isbn">ISBN 90-5011-161-0</a></li>
-</ul>
-<table cellspacing="0" class="navbox" style="border-spacing:0;;">
-<tr>
-<td style="padding:2px;">
-<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
-<tr>
-<th scope="col" style=";" class="navbox-title" colspan="2">
-<div class="noprint plainlinks hlist navbar mini" style="">
-<ul>
-<li class="nv-view"><a href="/wiki/Template:Threskiornithidae" title="Template:Threskiornithidae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
-<li class="nv-talk"><a href="/wiki/Template_talk:Threskiornithidae" title="Template talk:Threskiornithidae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Threskiornithidae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
-</ul>
-</div>
-<div class="" style="font-size:110%;">Traditional listing of <a href="/wiki/Ibis" title="Ibis">Ibises</a> and <a href="/wiki/Spoonbill" title="Spoonbill">spoonbills</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: <a href="/wiki/Threskiornithidae" title="Threskiornithidae">Threskiornithidae</a>)</div>
-</th>
-</tr>
-<tr style="height:2px;">
-<td></td>
-</tr>
-<tr>
-<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
-<tr>
-<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
-<div class="" style="font-size:110%;"><a href="/wiki/Ibis" title="Ibis">Ibises</a> (<b>subfamily: Threskiornithinae</b>)</div>
-</th>
-</tr>
-<tr style="height:2px;">
-<td></td>
-</tr>
-<tr>
-<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b> (prefix † indicates <a href="/wiki/Extinct" title="Extinct" class="mw-redirect">extinct</a> species)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Threskiornis" title="Threskiornis">Threskiornis</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em"><a href="/wiki/African_Sacred_Ibis" title="African Sacred Ibis">African Sacred Ibis</a>&#160;(<i>T.&#160;aethiopicus</i>)&#160;•  <a href="/wiki/Malagasy_Sacred_Ibis" title="Malagasy Sacred Ibis">Malagasy Sacred Ibis</a>&#160;(<i>T.&#160;bernieri</i>)&#160;•  †<a href="/wiki/Reunion_Ibis" title="Reunion Ibis">Reunion Ibis</a>&#160;(<i>T.&#160;solitarius</i>)&#160;•  <a href="/wiki/Black-headed_Ibis" title="Black-headed Ibis">Black-headed Ibis</a>&#160;(<i>T.&#160;melanocephalus</i>)&#160;•  <a href="/wiki/Australian_White_Ibis" title="Australian White Ibis">Australian White Ibis</a>&#160;(<i>T.&#160;molucca</i>) and supporting page <span class="nowrap"><a href="/wiki/Solomons_White_Ibis" title="Solomons White Ibis">Solomons White Ibis</a></span> (<i>T.&#160;molucca&#160;pygmaeus</i>)&#160;•  <a href="/wiki/Straw-necked_Ibis" title="Straw-necked Ibis">Straw-necked Ibis</a>&#160;(<i>T.&#160;spinicollis</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Pseudibis" title="Pseudibis">Pseudibis</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><a href="/wiki/Red-naped_Ibis" title="Red-naped Ibis">Red-naped Ibis</a>&#160;(<i>P.&#160;papillosa</i>)&#160;•  <a href="/wiki/White-shouldered_Ibis" title="White-shouldered Ibis">White-shouldered Ibis</a>&#160;(<i>P.&#160;davisoni</i>)&#160;•  <a href="/wiki/Giant_Ibis" title="Giant Ibis">Giant Ibis</a>&#160;(<i>P.&#160;gigantea</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Geronticus" title="Geronticus">Geronticus</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em"><a href="/wiki/Northern_Bald_Ibis" title="Northern Bald Ibis">Northern Bald Ibis</a>&#160;(<i>G.&#160;eremita</i>)&#160;•  <a href="/wiki/Southern_Bald_Ibis" title="Southern Bald Ibis">Southern Bald Ibis</a>&#160;(<i>G.&#160;calvus</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Nipponia</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><a href="/wiki/Crested_Ibis" title="Crested Ibis">Crested Ibis</a>&#160;(<i>N.&#160;nippon</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Bostrychia" title="Bostrychia">Bostrychia</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em"><a href="/wiki/Olive_Ibis" title="Olive Ibis">Olive Ibis</a>&#160;(<i>B.&#160;olivacea</i>)&#160;•  <a href="/wiki/Sao_Tome_Ibis" title="Sao Tome Ibis" class="mw-redirect">Sao Tome Ibis</a>&#160;(<i>B.&#160;bocagei</i>)&#160;•  <a href="/wiki/Spot-breasted_Ibis" title="Spot-breasted Ibis">Spot-breasted Ibis</a>&#160;(<i>B.&#160;rara</i>)&#160;•  <a href="/wiki/Hadada_Ibis" title="Hadada Ibis">Hadada Ibis</a>&#160;(<i>B.&#160;hagedash</i>)&#160;•  <a href="/wiki/Wattled_Ibis" title="Wattled Ibis">Wattled Ibis</a>&#160;(<i>B.&#160;carunculata</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Theristicus" title="Theristicus">Theristicus</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><a href="/wiki/Plumbeous_Ibis" title="Plumbeous Ibis">Plumbeous Ibis</a>&#160;(<i>T.&#160;caerulescens</i>)&#160;•  <a href="/wiki/Buff-necked_Ibis" title="Buff-necked Ibis">Buff-necked Ibis</a>&#160;(<i>T.&#160;caudatus</i>)&#160;•  <a href="/wiki/Black-faced_Ibis" title="Black-faced Ibis">Black-faced Ibis</a>&#160;(<i>T.&#160;melanopis</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Cercibis</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em"><a href="/wiki/Sharp-tailed_Ibis" title="Sharp-tailed Ibis">Sharp-tailed Ibis</a>&#160;(<i>C.&#160;oxycerca</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Mesembrinibis</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><a href="/wiki/Green_Ibis" title="Green Ibis">Green Ibis</a>&#160;(<i>M.&#160;cayennensis</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Phimosus</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em"><a href="/wiki/Bare-faced_Ibis" title="Bare-faced Ibis">Bare-faced Ibis</a>&#160;(<i>P.&#160;infuscatus</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Eudocimus" title="Eudocimus">Eudocimus</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><a href="/wiki/American_White_Ibis" title="American White Ibis">American White Ibis</a>&#160;(<i>E.&#160;albus</i>)&#160;•  <a href="/wiki/Scarlet_Ibis" title="Scarlet Ibis">Scarlet Ibis</a>&#160;(<i>E.&#160;ruber</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Plegadis" title="Plegadis">Plegadis</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em"><a href="/wiki/Glossy_Ibis" title="Glossy Ibis">Glossy Ibis</a>&#160;(<i>P.&#160;falcinellus</i>)&#160;•  <a href="/wiki/White-faced_Ibis" title="White-faced Ibis">White-faced Ibis</a>&#160;(<i>P.&#160;chihi</i>)&#160;•  <a href="/wiki/Puna_Ibis" title="Puna Ibis">Puna Ibis</a>&#160;(<i>P.&#160;ridgwayi</i>)</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Lophotibis</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><a href="/wiki/Madagascar_Ibis" title="Madagascar Ibis">Madagascar Ibis</a>&#160;(<i>L.&#160;cristata</i>)</div>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
-<tr>
-<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
-<div class="" style="font-size:110%;"><a href="/wiki/Spoonbill" title="Spoonbill">Spoonbills</a> (<b>subfamily: Plataleinae</b>&#160;• <b>genus: <i>Platalea</i>)</b></div>
-</th>
-</tr>
-<tr style="height:2px;">
-<td></td>
-</tr>
-<tr>
-<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Spoonbill" title="Spoonbill">Platalea</a></i><br />
-(spoonbills)</div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em"><strong class="selflink">Eurasian Spoonbill</strong>&#160;(<i>P.&#160;leucorodia</i>)&#160;•  <a href="/wiki/Black-faced_Spoonbill" title="Black-faced Spoonbill">Black-faced Spoonbill</a>&#160;(<i>P.&#160;minor</i>)&#160;•  <a href="/wiki/African_Spoonbill" title="African Spoonbill">African Spoonbill</a>&#160;(<i>P.&#160;alba</i>)&#160;•  <a href="/wiki/Royal_Spoonbill" title="Royal Spoonbill">Royal Spoonbill</a>&#160;(<i>P.&#160;regia</i>)&#160;•  <a href="/wiki/Yellow-billed_Spoonbill" title="Yellow-billed Spoonbill">Yellow-billed Spoonbill</a>&#160;(<i>P.&#160;flavipes</i>)&#160;•  <a href="/wiki/Roseate_Spoonbill" title="Roseate Spoonbill">Roseate Spoonbill</a>&#160;(<i>P.&#160;ajaja</i>)</div>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-IUCN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IUCN_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-IUCN_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-IUCN_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-IUCN_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBirdLife_International2016" class="citation journal cs1">BirdLife International (2016). <a rel="nofollow" class="external text" href="https://www.iucnredlist.org/species/22697555/86435028">"<i>Platalea leucorodia</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species</a></i>. <b>2016</b>: e.T22697555A86435028. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.2305%2FIUCN.UK.2016-3.RLTS.T22697555A86435028.en">10.2305/IUCN.UK.2016-3.RLTS.T22697555A86435028.en</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Platalea+leucorodia&amp;rft.volume=2016&amp;rft.pages=e.T22697555A86435028&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.2305%2FIUCN.UK.2016-3.RLTS.T22697555A86435028.en&amp;rft.au=BirdLife+International&amp;rft_id=https%3A%2F%2Fwww.iucnredlist.org%2Fspecies%2F22697555%2F86435028&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-job-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-job_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFJobling2010" class="citation book cs1">Jobling, James A (2010). <a rel="nofollow" class="external text" href="https://archive.org/details/Helm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling"><i>The Helm Dictionary of Scientific Bird Names</i></a>. London: Christopher Helm. pp.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/Helm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling/page/n157">157</a>, 309. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-2501-4" title="Special:BookSources/978-1-4081-2501-4"><bdi>978-1-4081-2501-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Helm+Dictionary+of+Scientific+Bird+Names&amp;rft.place=London&amp;rft.pages=157%2C+309&amp;rft.pub=Christopher+Helm&amp;rft.date=2010&amp;rft.isbn=978-1-4081-2501-4&amp;rft.aulast=Jobling&amp;rft.aufirst=James+A&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2FHelm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-Chesser2010-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chesser2010_3-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFChesserYeungYaoTians2010" class="citation journal cs1">Chesser, R. Terry; Yeung, Carol K.L.; Yao, Cheng-Te; Tians, Xiu-Hua; Li, Shou-Hsien (2010). <a rel="nofollow" class="external text" href="http://www.mapress.com/zootaxa/list/2010/2603.html">"Molecular phylogeny of the spoonbills (Aves: Threskiornithidae) based on mitochondrial DNA"</a>. <i>Zootaxa</i>. <b>2603</b> (2603): 53–60. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.11646%2Fzootaxa.2603.1.2">10.11646/zootaxa.2603.1.2</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1175-5326">1175-5326</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zootaxa&amp;rft.atitle=Molecular+phylogeny+of+the+spoonbills+%28Aves%3A+Threskiornithidae%29+based+on+mitochondrial+DNA&amp;rft.volume=2603&amp;rft.issue=2603&amp;rft.pages=53-60&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.11646%2Fzootaxa.2603.1.2&amp;rft.issn=1175-5326&amp;rft.aulast=Chesser&amp;rft.aufirst=R.+Terry&amp;rft.au=Yeung%2C+Carol+K.L.&amp;rft.au=Yao%2C+Cheng-Te&amp;rft.au=Tians%2C+Xiu-Hua&amp;rft.au=Li%2C+Shou-Hsien&amp;rft_id=http%3A%2F%2Fwww.mapress.com%2Fzootaxa%2Flist%2F2010%2F2603.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-IOC-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-IOC_4-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGillDonsker2017" class="citation journal cs1">Gill, F.; Donsker, D., eds. (2017). <a rel="nofollow" class="external text" href="http://www.worldbirdnames.org/bow/storks/">"IOC World Bird List (v 7.2)"</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.14344%2FIOC.ML.7.2">10.14344/IOC.ML.7.2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=IOC+World+Bird+List+%28v+7.2%29&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.14344%2FIOC.ML.7.2&amp;rft_id=http%3A%2F%2Fwww.worldbirdnames.org%2Fbow%2Fstorks%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-Overdijk2002p88-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Overdijk2002p88_5-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFOverdijk2002" class="citation book cs1">Overdijk, O. (2002). "Lepelaar <i>Platalea leucorodia</i>". <i>Atlas van de Nederlandse Broedvogels 1998–2000</i> &#91;<i>Atlas of the Breeding Birds of the Netherlands</i>&#93;. Nederlandse Fauna 5 (in Dutch). Leiden: Nationaal Natuurhistorisch Museum Naturalis, KNNV Uitgeverij &amp; European Invertebrate Survey-Nederland. p.&#160;88. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-5011-161-4" title="Special:BookSources/978-90-5011-161-4"><bdi>978-90-5011-161-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Lepelaar+Platalea+leucorodia&amp;rft.btitle=Atlas+van+de+Nederlandse+Broedvogels+1998%E2%80%932000&amp;rft.place=Leiden&amp;rft.series=Nederlandse+Fauna+5&amp;rft.pages=88&amp;rft.pub=Nationaal+Natuurhistorisch+Museum+Naturalis%2C+KNNV+Uitgeverij+%26+European+Invertebrate+Survey-Nederland&amp;rft.date=2002&amp;rft.isbn=978-90-5011-161-4&amp;rft.aulast=Overdijk&amp;rft.aufirst=O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-naturalengland-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-naturalengland_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://webarchive.nationalarchives.gov.uk/20140605090108/http://www.naturalengland.org.uk/about_us/news/2011/120911.aspx">"Breeding spoonbills return to Holkham"</a>. 12 September 2011. Archived from <a rel="nofollow" class="external text" href="http://www.naturalengland.org.uk/about_us/news/2011/120911.aspx">the original</a> on 5 June 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Breeding+spoonbills+return+to+Holkham&amp;rft.date=2011-09-12&amp;rft_id=http%3A%2F%2Fwww.naturalengland.org.uk%2Fabout_us%2Fnews%2F2011%2F120911.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Attenborough, D. 1998 <i>The Life of Birds.</i> BBC books.<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0563%2B38792%2B0" title="Special:BookSources/0563+38792+0">0563 38792 0</a></span>
+</li>
+<li id="cite_note-Unwin2000-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Unwin2000_8-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFUnwin2000" class="citation news cs1">Unwin, Brian (27 August 2000). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/environment/spoonbills-return-to-breed-in-the-uk-after-300-years-710261.html">"Spoonbills return to breed in the UK after 300 years"</a>. <i>The Independent</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=Spoonbills+return+to+breed+in+the+UK+after+300+years&amp;rft.date=2000-08-27&amp;rft.aulast=Unwin&amp;rft.aufirst=Brian&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fenvironment%2Fspoonbills-return-to-breed-in-the-uk-after-300-years-710261.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Platalea_leucorodia" class="extiw" title="commons:Category:Platalea leucorodia"><span style="">Platalea leucorodia</span></a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to <i><b><a href="https://species.wikimedia.org/wiki/Platalea_leucorodia" class="extiw" title="wikispecies:Platalea leucorodia">Platalea leucorodia</a></b></i></td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/species/factsheet/22697555">BirdLife species factsheet for <i>Platalea leucorodia</i></a></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://avibase.bsc-eoc.org/species.jsp?lang=EN&amp;avibaseid=A0A584C1E7D786FE">"Platalea leucorodia"</a>. <i>Avibase</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Avibase&amp;rft.atitle=Platalea+leucorodia&amp;rft_id=https%3A%2F%2Favibase.bsc-eoc.org%2Fspecies.jsp%3Flang%3DEN%26avibaseid%3DA0A584C1E7D786FE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/> <a href="https://www.wikidata.org/wiki/Q171360#P2026" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hbw.com/ibc/species/eurasian-spoonbill-platalea-leucorodia">"Eurasian spoonbill media"</a>. <i><a href="/wiki/Internet_Bird_Collection" class="mw-redirect" title="Internet Bird Collection">Internet Bird Collection</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Internet+Bird+Collection&amp;rft.atitle=Eurasian+spoonbill+media&amp;rft_id=http%3A%2F%2Fwww.hbw.com%2Fibc%2Fspecies%2Feurasian-spoonbill-platalea-leucorodia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEurasian+spoonbill" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></li>
+<li><a rel="nofollow" class="external text" href="http://vireo.acnatsci.org/search.html?Form=Search&amp;SEARCHBY=Common&amp;KEYWORDS=Eurasian+spoonbill&amp;showwhat=images&amp;AGE=All&amp;SEX=All&amp;ACT=All&amp;Search=Search&amp;VIEW=All&amp;ORIENTATION=All&amp;RESULTS=24">Eurasian spoonbill photo gallery</a> at VIREO (Drexel University)</li>
+<li><a rel="nofollow" class="external text" href="http://maps.iucnredlist.org/map.html?id=22697555">Interactive range map of <i>Platalea leucorodia</i></a> at <a rel="nofollow" class="external text" href="http://maps.iucnredlist.org/index.html">IUCN Red List maps</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.xeno-canto.org/species/Platalea-leucorodia">Audio recordings of Eurasian spoonbill</a> on <a href="/wiki/Xeno-canto" title="Xeno-canto">Xeno-canto</a>.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Traditional_listing_of_ibises_and_spoonbills_(family:_Threskiornithidae)" style="padding:3px"><table class="nowraplinks hlist mw-collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Threskiornithidae" title="Template:Threskiornithidae"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Threskiornithidae" title="Template talk:Threskiornithidae"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Threskiornithidae&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Traditional_listing_of_ibises_and_spoonbills_(family:_Threskiornithidae)" style="font-size:114%;margin:0 4em">Traditional listing of <a href="/wiki/Ibis" title="Ibis">ibises</a> and <a href="/wiki/Spoonbill" title="Spoonbill">spoonbills</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: <a href="/wiki/Threskiornithidae" title="Threskiornithidae">Threskiornithidae</a>)</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="*_Ibises&amp;#95;_**_subfamily:_Threskiornithinae" style="font-size:114%;margin:0 4em">
+<ul><li><a href="/wiki/Ibis" title="Ibis">Ibises</a>
+<ul><li>subfamily: Threskiornithinae</li></ul></li></ul>
+</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Genus" title="Genus">Genus</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-abovebelow" colspan="2" style="text-align:left"><div id="Species_(prefix_†_indicates_extinct_species)"><b><a href="/wiki/Species" title="Species">Species</a></b> (prefix † indicates <a href="/wiki/Extinct" class="mw-redirect" title="Extinct">extinct</a> species)</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i><a href="/wiki/Threskiornis" title="Threskiornis">Threskiornis</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/African_sacred_ibis" title="African sacred ibis">African sacred ibis</a> (<i>T. aethiopicus</i>)</li>
+<li><a href="/wiki/Malagasy_sacred_ibis" title="Malagasy sacred ibis">Malagasy sacred ibis</a> (<i>T. bernieri</i>)</li>
+<li>†<a href="/wiki/R%C3%A9union_ibis" title="Réunion ibis">Réunion ibis</a> (<i>T. solitarius</i>)</li>
+<li><a href="/wiki/Black-headed_ibis" title="Black-headed ibis">Black-headed ibis</a> (<i>T. melanocephalus</i>)</li>
+<li><a href="/wiki/Australian_white_ibis" title="Australian white ibis">Australian white ibis</a> (<i>T. moluccus</i>) and supporting page <a href="/wiki/Solomons_white_ibis" title="Solomons white ibis">Solomons white ibis</a> (<i>T. moluccus pygmaeus</i>)</li>
+<li><a href="/wiki/Straw-necked_ibis" title="Straw-necked ibis">Straw-necked ibis</a> (<i>T. spinicollis</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i><a href="/wiki/Pseudibis" title="Pseudibis">Pseudibis</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Red-naped_ibis" title="Red-naped ibis">Red-naped ibis</a> (<i>P. papillosa</i>)</li>
+<li><a href="/wiki/White-shouldered_ibis" title="White-shouldered ibis">White-shouldered ibis</a> (<i>P. davisoni</i>)</li>
+<li><a href="/wiki/Giant_ibis" title="Giant ibis">Giant ibis</a> (<i>P. gigantea</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i><a href="/wiki/Geronticus" title="Geronticus">Geronticus</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Northern_bald_ibis" title="Northern bald ibis">Northern bald ibis</a> (<i>G. eremita</i>)</li>
+<li><a href="/wiki/Southern_bald_ibis" title="Southern bald ibis">Southern bald ibis</a> (<i>G. calvus</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i>Nipponia</i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Crested_ibis" title="Crested ibis">Crested ibis</a> (<i>N. nippon</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i><a href="/wiki/Bostrychia" title="Bostrychia">Bostrychia</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Olive_ibis" title="Olive ibis">Olive ibis</a> (<i>B. olivacea</i>)</li>
+<li><a href="/wiki/S%C3%A3o_Tom%C3%A9_ibis" title="São Tomé ibis">São Tomé ibis</a> (<i>B. bocagei</i>)</li>
+<li><a href="/wiki/Spot-breasted_ibis" title="Spot-breasted ibis">Spot-breasted ibis</a> (<i>B. rara</i>)</li>
+<li><a href="/wiki/Hadada_ibis" title="Hadada ibis">Hadada ibis</a> (<i>B. hagedash</i>)</li>
+<li><a href="/wiki/Wattled_ibis" title="Wattled ibis">Wattled ibis</a> (<i>B. carunculata</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i><a href="/wiki/Theristicus" title="Theristicus">Theristicus</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Plumbeous_ibis" title="Plumbeous ibis">Plumbeous ibis</a> (<i>T. caerulescens</i>)</li>
+<li><a href="/wiki/Buff-necked_ibis" title="Buff-necked ibis">Buff-necked ibis</a> (<i>T. caudatus</i>)</li>
+<li><a href="/wiki/Black-faced_ibis" title="Black-faced ibis">Black-faced ibis</a> (<i>T. melanopis</i>)</li>
+<li><a href="/wiki/Andean_ibis" title="Andean ibis">Andean ibis</a> (<i>T. branickii</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i>Cercibis</i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sharp-tailed_ibis" title="Sharp-tailed ibis">Sharp-tailed ibis</a> (<i>C. oxycerca</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i>Mesembrinibis</i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Green_ibis" title="Green ibis">Green ibis</a> (<i>M. cayennensis</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i>Phimosus</i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bare-faced_ibis" title="Bare-faced ibis">Bare-faced ibis</a> (<i>P. infuscatus</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i><a href="/wiki/Eudocimus" title="Eudocimus">Eudocimus</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_white_ibis" title="American white ibis">American white ibis</a> (<i>E. albus</i>)</li>
+<li><a href="/wiki/Scarlet_ibis" title="Scarlet ibis">Scarlet ibis</a> (<i>E. ruber</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i><a href="/wiki/Plegadis" title="Plegadis">Plegadis</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glossy_ibis" title="Glossy ibis">Glossy ibis</a> (<i>P. falcinellus</i>)</li>
+<li><a href="/wiki/White-faced_ibis" title="White-faced ibis">White-faced ibis</a> (<i>P. chihi</i>)</li>
+<li><a href="/wiki/Puna_ibis" title="Puna ibis">Puna ibis</a> (<i>P. ridgwayi</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i>Lophotibis</i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Madagascan_ibis" title="Madagascan ibis">Madagascan ibis</a> (<i>L. cristata</i>)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="*_Spoonbills_**_subfamily:_Plataleinae_**_genus:_Platalea" style="font-size:114%;margin:0 4em">
+<ul><li><a href="/wiki/Spoonbill" title="Spoonbill">Spoonbills</a>
+<ul><li>subfamily: <i>Plataleinae</i></li>
+<li>genus: <i>Platalea</i></li></ul></li></ul>
+</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Genus" title="Genus">Genus</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-abovebelow" colspan="2" style="text-align:left"><div id="Species"><b><a href="/wiki/Species" title="Species">Species</a></b></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><i><a href="/wiki/Spoonbill" title="Spoonbill">Platalea</a></i><br />(spoonbills)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Eurasian spoonbill</a> (<i>P. leucorodia</i>)</li>
+<li><a href="/wiki/Black-faced_spoonbill" title="Black-faced spoonbill">Black-faced spoonbill</a> (<i>P. minor</i>)</li>
+<li><a href="/wiki/African_spoonbill" title="African spoonbill">African spoonbill</a> (<i>P. alba</i>)</li>
+<li><a href="/wiki/Royal_spoonbill" title="Royal spoonbill">Royal spoonbill</a> (<i>P. regia</i>)</li>
+<li><a href="/wiki/Yellow-billed_spoonbill" title="Yellow-billed spoonbill">Yellow-billed spoonbill</a> (<i>P. flavipes</i>)</li>
+<li><a href="/wiki/Roseate_spoonbill" title="Roseate spoonbill">Roseate spoonbill</a> (<i>P. ajaja</i>)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q171360" class="extiw" title="wikidata:Q171360">Q171360</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Platalea_leucorodia" class="extiw" title="wikispecies:Platalea leucorodia">Platalea leucorodia</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Platalea_leucorodia/">Platalea_leucorodia</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/ARKive" title="ARKive">ARKive</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://web.archive.org/web/*/www.arkive.org/wd/platalea-leucorodia/">platalea-leucorodia</a></span></span></li>
+<li><span style="white-space:nowrap;">Avibase: <span class="uid"><a rel="nofollow" class="external text" href="https://avibase.bsc-eoc.org/species.jsp?avibaseid=A0A584C1E7D786FE">A0A584C1E7D786FE</a></span></span></li>
+<li><span style="white-space:nowrap;">BioLib: <span class="uid"><a rel="nofollow" class="external text" href="https://www.biolib.cz/cz/taxon/id8417">8417</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://datazone.birdlife.org/species/factsheet/22697555">22697555</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/British_Trust_for_Ornithology" title="British Trust for Ornithology">BTO</a>: <span class="uid">SPOON</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Convention_on_the_Conservation_of_Migratory_Species_of_Wild_Animals" title="Convention on the Conservation of Migratory Species of Wild Animals">CMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.cms.int/en/species/platalea-leucorodia">platalea-leucorodia</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EBird" title="EBird">eBird</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ebird.org/species/eurspo1">eurspo1</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/European_Nature_Information_System" title="European Nature Information System">EUNIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eunis.eea.europa.eu/species/1220">1220</a></span></span></li>
+<li><span style="white-space:nowrap;">Euring: <span class="uid">1440</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:faunaeur.org:taxname:96670">96670</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea (new)</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://fauna-eu.org/cdm_dataportal/taxon/55d77a3f-d1d4-48ff-8df6-eff61b7eb1d6">55d77a3f-d1d4-48ff-8df6-eff61b7eb1d6</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=368589">368589</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2480801">2480801</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Handbook_of_the_Birds_of_the_World" title="Handbook of the Birds of the World">IBC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.hbw.com/species/eurasian-spoonbill-platalea-leucorodia">eurasian-spoonbill-platalea-leucorodia</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/3731">3731</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=10196492">10196492</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=174933">174933</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/22697555">22697555</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NBNSYS0000000255">NBNSYS0000000255</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=257867">257867</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/CITES" title="CITES">Species+</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://speciesplus.net/#/taxon_concepts/8745/legal">8745</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=416678">416678</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Xeno-canto" title="Xeno-canto">Xeno-canto</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.xeno-canto.org/species/Platalea-leucorodia">Platalea-leucorodia</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 7821/1000000
-Preprocessor generated node count: 61951/1500000
-Post-expand include size: 139531/2048000 bytes
-Template argument size: 73177/2048000 bytes
-Highest expansion depth: 17/40
-Expensive parser function count: 1/500
+Parsed by mw1351
+Cached time: 20201030041936
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.100 seconds
+Real time usage: 1.471 seconds
+Preprocessor visited node count: 6502/1000000
+Post‐expand include size: 87798/2097152 bytes
+Template argument size: 5874/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 24/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 41051/5000000 bytes
+Lua time usage: 0.718/10.000 seconds
+Lua memory usage: 9.44 MB/50 MB
+Number of Wikibase entities loaded: 25/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1348.013      1 -total
+ 33.34%  449.410      1 Template:Speciesbox
+ 31.69%  427.236      1 Template:Taxobox/core
+ 21.46%  289.347      1 Template:Taxonbar
+ 17.79%  239.789      1 Template:Reflist
+  9.15%  123.285      1 Template:Cite_iucn
+  5.79%   78.085      1 Template:Short_description
+  5.05%   68.096      1 Template:Avibase
+  3.97%   53.500      3 Template:Cite_web
+  3.72%   50.193     19 Template:Delink
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:311969-0!*!0!!en!4!* and timestamp 20121022141041 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Eurasian_Spoonbill&amp;oldid=516453507">http://en.wikipedia.org/w/index.php?title=Eurasian_Spoonbill&amp;oldid=516453507</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Platalea" title="Category:Platalea">Platalea</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Japan" title="Category:Birds of Japan">Birds of Japan</a></li><li><a href="/wiki/Category:British_Isles_coastal_fauna" title="Category:British Isles coastal fauna">British Isles coastal fauna</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_May_2011" title="Category:Articles lacking in-text citations from May 2011">Articles lacking in-text citations from May 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:311969-0!canonical and timestamp 20201030041934 and revision id 984704847
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eurasian_spoonbill&amp;oldid=984704847">https://en.wikipedia.org/w/index.php?title=Eurasian_spoonbill&amp;oldid=984704847</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Platalea" title="Category:Platalea">Platalea</a></li><li><a href="/wiki/Category:Birds_of_Eurasia" title="Category:Birds of Eurasia">Birds of Eurasia</a></li><li><a href="/wiki/Category:Birds_described_in_1758" title="Category:Birds described in 1758">Birds described in 1758</a></li><li><a href="/wiki/Category:Taxa_named_by_Carl_Linnaeus" title="Category:Taxa named by Carl Linnaeus">Taxa named by Carl Linnaeus</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:CS1_Dutch-language_sources_(nl)" title="Category:CS1 Dutch-language sources (nl)">CS1 Dutch-language sources (nl)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Taxonbars_with_20%E2%80%9324_taxon_IDs" title="Category:Taxonbars with 20–24 taxon IDs">Taxonbars with 20–24 taxon IDs</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eurasian+spoonbill" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eurasian+spoonbill" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Eurasian_spoonbill" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Eurasian_spoonbill" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eurasian+Spoonbill&amp;type=signup">Create account</a></li>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eurasian+Spoonbill" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Eurasian_Spoonbill"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:Eurasian_Spoonbill"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-	<h4>
-		</h4>
-	<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Eurasian_spoonbill">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Eurasian_Spoonbill" >Read</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
 	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
 
-<!-- /2 -->
-			</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
 	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
 	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Eurasian_Spoonbill" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Eurasian_Spoonbill" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Eurasian_Spoonbill&amp;oldid=516453507" title="Permanent link to this revision of the page">Permanent link</a></li>
-			<li><a href="/w/index.php?title=Eurasian_Spoonbill&amp;action=info">Page information</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Eurasian_Spoonbill&amp;id=516453507" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /TOOLBOX -->
-
-<!-- coll-print_export -->
-<div class="portal" id='p-coll-print_export'>
-	<h5>Print/export</h5>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eurasian+Spoonbill" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Eurasian+Spoonbill&amp;oldid=516453507&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Eurasian_Spoonbill&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- LANGUAGES -->
-<div class="portal" id='p-lang'>
-	<h5>Languages</h5>
-	<div class="body">
-		<ul>
-			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9F%D1%8D%D1%85%D1%8C%D1%8D%D0%BD%D1%86%D1%8D%D0%B1%D0%B7%D1%83" title="Пэхьэнцэбзу" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
-			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Lepelaar" title="Lepelaar" lang="af" hreflang="af">Afrikaans</a></li>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%85%D9%84%D8%B9%D9%82%D8%A9_%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6" title="أبو ملعقة الأبيض" lang="ar" hreflang="ar">العربية</a></li>
-			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/%C6%8Frsindimdik" title="Ərsindimdik" lang="az" hreflang="az">Azərbaycanca</a></li>
-			<li class="interwiki-ba"><a href="//ba.wikipedia.org/wiki/%D0%9A%D3%A9%D1%80%D3%99%D0%BA%D0%BC%D0%BE%D1%80%D0%BE%D0%BD" title="Көрәкморон" lang="ba" hreflang="ba">Башҡортса</a></li>
-			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0" title="Лопатарка" lang="bg" hreflang="bg">Български</a></li>
-			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Spanell_wenn" title="Spanell wenn" lang="br" hreflang="br">Brezhoneg</a></li>
-			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Becplaner" title="Becplaner" lang="ca" hreflang="ca">Català</a></li>
-			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kolp%C3%ADk_b%C3%ADl%C3%BD" title="Kolpík bílý" lang="cs" hreflang="cs">Česky</a></li>
-			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Skestork" title="Skestork" lang="da" hreflang="da">Dansk</a></li>
-			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/L%C3%B6ffler" title="Löffler" lang="de" hreflang="de">Deutsch</a></li>
-			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A7%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CF%81%CE%BF%CE%BC%CF%8D%CF%84%CE%B1" title="Χουλιαρομύτα" lang="el" hreflang="el">Ελληνικά</a></li>
-			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia" lang="es" hreflang="es">Español</a></li>
-			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/E%C5%ADrazia_plataleo" title="Eŭrazia plataleo" lang="eo" hreflang="eo">Esperanto</a></li>
-			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Mokozabal_zuri" title="Mokozabal zuri" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Sp%C3%B3nnev" title="Spónnev" lang="fo" hreflang="fo">Føroyskt</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Spatule_blanche" title="Spatule blanche" lang="fr" hreflang="fr">Fran��ais</a></li>
-			<li class="interwiki-fy"><a href="//fy.wikipedia.org/wiki/Leppelbek" title="Leppelbek" lang="fy" hreflang="fy">Frysk</a></li>
-			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Cullereiro" title="Cullereiro" lang="gl" hreflang="gl">Galego</a></li>
-			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%85%B8%EB%9E%91%EB%B6%80%EB%A6%AC%EC%A0%80%EC%96%B4%EC%83%88" title="노랑부리저어새" lang="ko" hreflang="ko">한국어</a></li>
-			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/%C4%8Caplja_%C5%BEli%C4%8Darka" title="Čaplja žličarka" lang="hr" hreflang="hr">Hrvatski</a></li>
-			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia" lang="it" hreflang="it">Italiano</a></li>
-			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%9F_%D7%9E%D7%A6%D7%95%D7%99" title="כפן מצוי" lang="he" hreflang="he">עברית</a></li>
-			<li class="interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9F%E1%83%94%E1%83%A0%E1%83%9D" title="ჟერო" lang="ka" hreflang="ka">ქართული</a></li>
-			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%96%D0%B0%D0%BB%D0%B1%D0%B0%D2%93%D0%B0%D0%B9" title="Жалбағай" lang="kk" hreflang="kk">Қазақша</a></li>
-			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia" lang="la" hreflang="la">Latina</a></li>
-			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Girnov%C4%97" title="Girnovė" lang="lt" hreflang="lt">Lietuvių</a></li>
-			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kanalasg%C3%A9m" title="Kanalasgém" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BF%D1%98%D0%B0_%D0%BB%D0%B0%D0%B6%D0%B8%D1%87%D0%B0%D1%80%D0%BA%D0%B0" title="Чапја лажичарка" lang="mk" hreflang="mk">Македонски</a></li>
-			<li class="interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%9A%E0%A4%AE%E0%A4%9A%E0%A5%8D%E0%A4%AF%E0%A4%BE_(%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80)" title="चमच्या (पक्षी)" lang="mr" hreflang="mr">मराठी</a></li>
-			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Lepelaar" title="Lepelaar" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%98%E3%83%A9%E3%82%B5%E3%82%AE" title="ヘラサギ" lang="ja" hreflang="ja">日本語</a></li>
-			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Skjestork" title="Skjestork" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
-			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%DB%8C%D9%88%D8%B1%DB%8C%D8%B4%DB%8C%D8%A7%D8%A6%DB%8C_%D8%B3%D9%BE%D9%88%D9%88%D9%86%D8%A8%D9%84" title="یوریشیائی سپوونبل" lang="pnb" hreflang="pnb">پنجابی</a></li>
-			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Palotier" title="Palotier" lang="pcd" hreflang="pcd">Picard</a></li>
-			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia" lang="pms" hreflang="pms">Piemontèis</a></li>
-			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Warz%C4%99cha_zwyczajna" title="Warzęcha zwyczajna" lang="pl" hreflang="pl">Polski</a></li>
-			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Colhereiro-europeu" title="Colhereiro-europeu" lang="pt" hreflang="pt">Português</a></li>
-			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Lop%C4%83tar" title="Lopătar" lang="ro" hreflang="ro">Română</a></li>
-			<li class="interwiki-rue"><a href="//rue.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D1%8F" title="Колпиця" lang="rue" hreflang="rue">Русиньскый</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0" title="Обыкновенная колпица" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kapustahaikara" title="Kapustahaikara" lang="fi" hreflang="fi">Suomi</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Skedstork" title="Skedstork" lang="sv" hreflang="sv">Svenska</a></li>
-			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_ka%C5%9F%C4%B1k%C3%A7%C4%B1" title="Bayağı kaşıkçı" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%80_(%D0%BF%D1%82%D0%B0%D1%85)" title="Косар (птах)" lang="uk" hreflang="uk">Українська</a></li>
-			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%99%BD%E7%90%B5%E9%B7%BA" title="白琵鷺" lang="zh" hreflang="zh">中文</a></li>
-		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
 	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Eurasian_spoonbill" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Eurasian_spoonbill" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Eurasian_spoonbill&amp;oldid=984704847" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Eurasian_spoonbill&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Eurasian_spoonbill&amp;id=984704847&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q171360" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Eurasian_spoonbill&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Eurasian_spoonbill&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Platalea_leucorodia" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Platalea_leucorodia" hreflang="en">Wikispecies</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%9F%D1%8D%D1%85%D1%8C%D1%8D%D0%BD%D1%86%D1%8D%D0%B1%D0%B7%D1%83" title="Пэхьэнцэбзу – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Gewone_lepelaar" title="Gewone lepelaar – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%85%D9%84%D8%B9%D9%82%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D8%A7%D8%B3%D9%8A" title="أبو ملعقة الأوراسي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Adi_%C9%99rsindimdik" title="Adi ərsindimdik – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D3%A9%D1%80%D3%99%D0%BA%D0%BC%D0%BE%D1%80%D0%BE%D0%BD" title="Көрәкморон – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%BE%D1%9E%D0%BF%D1%96%D1%86%D0%B0" title="Коўпіца – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0" title="Лопатарка – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Spanell_wenn" title="Spanell wenn – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Becplaner_com%C3%BA" title="Becplaner comú – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kolp%C3%ADk_b%C3%ADl%C3%BD" title="Kolpík bílý – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Llwybig" title="Llwybig – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Skestork" title="Skestork – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/L%C3%B6ffler" title="Löffler – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/T%C3%B3_w%C3%B3naan%C3%ADd%C4%99%CC%81%C4%99%CC%81%CA%BC_d%C3%A1%C3%A1%CA%BCadee%CA%BCii" title="Tó wónaanídę́ę́ʼ dááʼadeeʼii – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Luitsnokk-iibis" title="Luitsnokk-iibis – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A7%CE%BF%CF%85%CE%BB%CE%B9%CE%B1%CF%81%CE%BF%CE%BC%CF%8D%CF%84%CE%B1" title="Χουλιαρομύτα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/E%C5%ADrazia_plataleo" title="Eŭrazia plataleo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Mokozabal_zuri" title="Mokozabal zuri – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%81%DA%86%D9%87%E2%80%8C%D9%86%D9%88%DA%A9_%D8%A7%D9%88%D8%B1%D8%A7%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C" title="کفچه‌نوک اوراسیایی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Sp%C3%B3nnev" title="Spónnev – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Spatule_blanche" title="Spatule blanche – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Leppelbek" title="Leppelbek – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Corr_leitheadach_Eor%C3%A1iseach" title="Corr leitheadach Eoráiseach – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Cullereiro" title="Cullereiro – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%85%B8%EB%9E%91%EB%B6%80%EB%A6%AC%EC%A0%80%EC%96%B4%EC%83%88" title="노랑부리저어새 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/%C4%8Caplja_%C5%BEli%C4%8Darka" title="Čaplja žličarka – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ibis_sendok_Eurasia" title="Ibis sendok Eurasia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%9F_%D7%9E%D7%A6%D7%95%D7%99" title="כפן מצוי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9F%E1%83%94%E1%83%A0%E1%83%9D" title="ჟერო – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%96%D0%B0%D0%BB%D0%B1%D0%B0%D2%93%D0%B0%D0%B9" title="Жалбағай – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B0%D1%88%D1%8B%D0%BA_%D1%82%D1%83%D0%BC%D1%88%D1%83%D0%BA%D1%82%D1%83%D1%83_%D0%BA%D1%8B%D1%82%D0%B0%D0%BD" title="Кашык тумшуктуу кытан – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%B0%D0%BB%D0%B0%D0%BD%D0%B5%D1%80_%D0%B8%D0%B1%D0%B8%D1%81" title="Саваланер ибис – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Karo%C5%A1kn%C4%81bis" title="Karošknābis – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Paprastoji_girnov%C4%97" title="Paprastoji girnovė – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-olo"><a href="https://olo.wikipedia.org/wiki/Luzikkuhaigari" title="Luzikkuhaigari – Livvi-Karelian" lang="olo" hreflang="olo" class="interlanguage-link-target">Livvinkarjala</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Kanalasg%C3%A9m" title="Kanalasgém – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BF%D1%98%D0%B0_%D0%BB%D0%B0%D0%B6%D0%B8%D1%87%D0%B0%D1%80%D0%BA%D0%B0" title="Чапја лажичарка – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%95%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8A%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%BB" title="ചട്ടുകക്കൊക്കൻ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%9A%E0%A4%AE%E0%A4%9A%E0%A5%8D%E0%A4%AF%E0%A4%BE_(%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80)" title="चमच्या (पक्षी) – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Lepelaar" title="Lepelaar – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%9A%E0%A4%AE%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%A0%E0%A5%81%E0%A4%81%E0%A4%A1%E0%A5%87_%E0%A4%B8%E0%A4%BE%E0%A4%81%E0%A4%B5%E0%A4%B0%E0%A5%80" title="चम्चाठुँडे साँवरी – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%A9%E3%82%B5%E3%82%AE" title="ヘラサギ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Skjestork" title="Skjestork – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Skeistork" title="Skeistork – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%DB%8C%D9%88%D8%B1%DB%8C%D8%B4%DB%8C%D8%A7%D8%A6%DB%8C_%D8%B3%D9%BE%D9%88%D9%88%D9%86%D8%A8%D9%84" title="یوریشیائی سپوونبل – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Palotier" title="Palotier – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Warz%C4%99cha_zwyczajna" title="Warzęcha zwyczajna – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Colhereiro-europeu" title="Colhereiro-europeu – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Lop%C4%83tar" title="Lopătar – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D1%8F" title="Колпиця – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0" title="Обыкновенная колпица – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%DA%8F%D9%88%D8%A6%D9%8A%D8%B1%D9%88" title="ڏوئيرو – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Ly%C5%BEi%C4%8Diar_biely" title="Lyžičiar biely – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BF%D1%99%D0%B0_%D0%BA%D0%B0%D1%88%D0%B8%D0%BA%D0%B0%D1%80%D0%B0" title="Чапља кашикара – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/%C4%8Caplja_%C5%BEli%C4%8Darka" title="Čaplja žličarka – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kapustahaikara" title="Kapustahaikara – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Skedstork" title="Skedstork – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%B0%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AE%A9%E0%AF%8D" title="கரண்டிவாயன் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Baya%C4%9F%C4%B1_ka%C5%9F%C4%B1k%C3%A7%C4%B1" title="Bayağı kaşıkçı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%80_(%D0%BF%D1%82%D0%B0%D1%85)" title="Косар (птах) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/C%C3%B2_th%C3%ACa_%C3%81_%C3%82u" title="Cò thìa Á Âu – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Platalea_leucorodia" title="Platalea leucorodia – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E7%99%BD%E7%90%B5%E9%B9%AD" title="白琵鹭 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%99%BD%E7%90%B5%E9%B7%BA" title="白琵鷺 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q171360#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
 </div>
 
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 7 October 2012 at 10:20.<br /></li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
-Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Eurasian_Spoonbill&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
-}</script>
-<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by mw38 in 0.202 secs. -->
-	</body>
-</html>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 21 October 2020, at 16:20<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Eurasian_spoonbill&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.100","walltime":"1.471","ppvisitednodes":{"value":6502,"limit":1000000},"postexpandincludesize":{"value":87798,"limit":2097152},"templateargumentsize":{"value":5874,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41051,"limit":5000000},"entityaccesscount":{"value":25,"limit":400},"timingprofile":["100.00% 1348.013      1 -total"," 33.34%  449.410      1 Template:Speciesbox"," 31.69%  427.236      1 Template:Taxobox/core"," 21.46%  289.347      1 Template:Taxonbar"," 17.79%  239.789      1 Template:Reflist","  9.15%  123.285      1 Template:Cite_iucn","  5.79%   78.085      1 Template:Short_description","  5.05%   68.096      1 Template:Avibase","  3.97%   53.500      3 Template:Cite_web","  3.72%   50.193     19 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.718","limit":"10.000"},"limitreport-memusage":{"value":9902053,"limit":52428800}},"cachereport":{"origin":"mw1351","timestamp":"20201030041936","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Eurasian spoonbill","url":"https:\/\/en.wikipedia.org\/wiki\/Eurasian_spoonbill","sameAs":"http:\/\/www.wikidata.org\/entity\/Q171360","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q171360","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-05T07:31:59Z","dateModified":"2020-10-21T16:20:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Eurasian_Spoonbill-2.jpg","headline":"species of bird"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":192,"wgHostname":"mw1350"});});</script>
+</body></html>

@@ -1,429 +1,539 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Spectacled Warbler - Wikipedia, the free encyclopedia</title>
-<meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf1" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Spectacled_Warbler&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Spectacled_Warbler&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-
-/* cache key: enwiki:resourceloader:filter:minify-css:7:8d95de22da3b74bdc8517ef8752d1bee */
-</style>
-
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Spectacled_Warbler","wgTitle":"Spectacled Warbler","wgCurRevisionId":515072605,"wgArticleId":397112,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Sylvia (genus)","Birds of Europe","Birds of Turkey","Birds of Africa","Birds of Palestine","Birds of Pakistan","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Spectacled_Warbler","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"4dd10241fbee617668036415b5466715","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":397112,"title":"Spectacled Warbler","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Africa","Birds of Europe","Birds of Pakistan","Birds of Palestine","Birds of Turkey","Birds of Western Sahara","IUCN Red List least concern species","Sylvia (genus)"],"permissionLevel":"aft-reader"}});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({
-"editToken":"+\\","watchToken":false});;},{},{});
-
-/* cache key: enwiki:resourceloader:filter:minify-js:7:deddd9b1d1718c216e913c8d345259d4 */
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
-}</script>
-<script src="//bits.wikimedia.org/geoiplookup"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf1/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Spectacled_Warbler skin-vector action-view vector-animateLayout">
-		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content" class="mw-body">
-			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Spectacled Warbler</span></h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- tagline -->
-				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-				<!-- /tagline -->
-								<!-- subtitle -->
-				<div id="contentSub"></div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="display:none;" class="pef-notification-container gratitude">
-	<div class="pef-notification">
-		<div class="pef-icon pef-icon-checkmark">&nbsp;</div>
-		<span></span>
+<meta charset="UTF-8"/>
+<title>Spectacled warbler - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c8f39c7f-887b-4c94-a431-ab674c97d4e2","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Spectacled_warbler","wgTitle":"Spectacled warbler","wgCurRevisionId":979697111,"wgRevisionId":979697111,"wgArticleId":397112,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: ref=harv","Cite iucn maint","All articles with dead external links","Articles with dead external links from May 2018","Articles with permanently dead external links","Articles with 'species' microformats","Commons category link is on Wikidata",
+"IUCN Red List least concern species","Curruca","Birds of Southern Europe","Birds of Macaronesia","Birds of North Africa","Birds of Western Asia","Birds described in 1820"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Spectacled_warbler","wgRelevantArticleId":397112,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Spectacled_Warbler","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Spectacled_warbler","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q757121"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sylvia_conspicillata_Gran_Canaria.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Spectacled_warbler"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Spectacled_warbler&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Spectacled_warbler&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Spectacled_warbler"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Spectacled_warbler rootpage-Spectacled_warbler skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
 	</div>
-</div>
-<div style="display:none;" class="pef-notification-container historical">
-	<div class="pef-notification">
-		<div class="pef-icon pef-icon-checkmark">&#160;</div>
-		<span></span>
-	</div>
-</div><div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Spectacled warbler</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Spectacled_Warbler&amp;redirect=no" class="mw-redirect" title="Spectacled Warbler">Spectacled Warbler</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Speckled_warbler" title="Speckled warbler">Speckled warbler</a>.</div>
+<p class="mw-empty-elt">
+</p>
 <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Spectacled warbler
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Spectacled Warbler</th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Sylvia_conspicillata_Gran_Canaria.jpg" class="image"><img alt="Sylvia conspicillata Gran Canaria.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sylvia_conspicillata_Gran_Canaria.jpg/220px-Sylvia_conspicillata_Gran_Canaria.jpg" decoding="async" width="220" height="164" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sylvia_conspicillata_Gran_Canaria.jpg/330px-Sylvia_conspicillata_Gran_Canaria.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sylvia_conspicillata_Gran_Canaria.jpg/440px-Sylvia_conspicillata_Gran_Canaria.jpg 2x" data-file-width="739" data-file-height="550" /></a>
+</td></tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Sylvia_conspicillata_Gran_Canaria.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sylvia_conspicillata_Gran_Canaria.jpg/220px-Sylvia_conspicillata_Gran_Canaria.jpg" width="220" height="164" /></a></td>
-</tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Male on <a href="/wiki/Gran_Canaria" title="Gran Canaria">Gran Canaria</a>
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
 <tr>
-<td colspan="2" style="text-align: center; font-size: 88%">Male on <a href="/wiki/Gran_Canaria" title="Gran Canaria">Gran Canaria</a></td>
-</tr>
-<tr style="text-align: center; background-color: rgb(211,211,164)">
-<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
-</tr>
+<td colspan="2"><div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" data-file-width="240" data-file-height="64" /><br /><a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
 <tr>
-<td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
-<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Curruca" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Domain:
 </td>
-</tr>
+<td><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryota</a>
+</td></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
-</tr>
-<tr>
-<td>Kingdom:</td>
-<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
-</tr>
-<tr>
-<td>Phylum:</td>
-<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordata" title="Chordata" class="mw-redirect">Chordata</a></span></td>
-</tr>
-<tr>
-<td>Class:</td>
-<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Aves" title="Aves" class="mw-redirect">Aves</a></span></td>
-</tr>
-<tr>
-<td>Order:</td>
-<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
-</tr>
-<tr>
-<td>Family:</td>
-<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Sylviidae" title="Sylviidae">Sylviidae</a></span></td>
-</tr>
-<tr>
-<td>Genus:</td>
-<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Typical_warbler" title="Typical warbler">Sylvia</a></i></span></td>
-</tr>
-<tr>
-<td>Species:</td>
-<td><span class="species" style="white-space:nowrap;"><i><b>S. conspicillata</b></i></span></td>
-</tr>
-<tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Sylvia conspicillata</i></span></b><br />
-<small><a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck</a>, 1820, <a href="/wiki/Sardinia" title="Sardinia">Sardinia</a></small></td>
-</tr>
-</table>
-</div>
-<dl>
-<dd><i>Not to be confused with the <a href="/wiki/Speckled_Warbler" title="Speckled Warbler">Speckled Warbler</a>, an Australian bird in the <a href="/wiki/Acanthizidae" title="Acanthizidae">Acanthizidae</a> family.</i></dd>
-</dl>
-<p>The <b>Spectacled Warbler</b> (<i>Sylvia conspicillata</i>) is a <a href="/wiki/Species" title="Species">species</a> in the <a href="/wiki/Typical_warbler" title="Typical warbler">typical warbler</a> genus <i>Sylvia</i>. It breeds in north west <a href="/wiki/Africa" title="Africa">Africa</a>, southwest <a href="/wiki/Europe" title="Europe">Europe</a> from <a href="/wiki/Iberian_peninsula" title="Iberian peninsula" class="mw-redirect">Iberia</a> to <a href="/wiki/Italy" title="Italy">Italy</a>, and then further east on the eastern <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> islands and coastal regions. It is mainly resident in Africa, but other populations <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> to winter in more widely in north and west <a href="/wiki/Africa" title="Africa">Africa</a> and <a href="/wiki/Egypt" title="Egypt">Egypt</a>. This <a href="/wiki/Bird" title="Bird">bird</a> is a rare vagrant to northern and western <a href="/wiki/Europe" title="Europe">Europe</a>.</p>
-<p>It also occurs in some <a href="/wiki/Atlantic" title="Atlantic" class="mw-redirect">Atlantic</a> islands. The <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> <i>orbitalis</i> has been proposed for those of the <a href="/wiki/Cape_Verde_Islands" title="Cape Verde Islands" class="mw-redirect">Cape Verde Islands</a>. The presumed subspecies for the <a href="/wiki/Madeira" title="Madeira">Madeira</a> birds, <i>bella</i> is today usually included in this <a href="/wiki/Taxon" title="Taxon">taxon</a>, as are the birds of the <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a>, where the species is quite common except on <a href="/wiki/El_Hierro" title="El Hierro">El Hierro</a> and known as <i>zarzalero y ratonero</i> (Álamo Tavio 1975).</p>
-<p>These are very small "warblers" and are intermediate between <a href="/wiki/Whitethroat" title="Whitethroat" class="mw-redirect">Whitethroats</a> and <a href="/wiki/Tristram%27s_Warbler" title="Tristram's Warbler">Tristram's Warbler</a> in coloration. Spectacled Warblers are brown above and buff below, with chestnut wing patches and a white throat. Adult males have a grey head and the white eye ring which gives the species its name. Immature birds can be confused with both the Whitethroat and the <a href="/wiki/Subalpine_Warbler" title="Subalpine Warbler">Subalpine Warbler</a>, and identification is difficult in the field. The song is a fast high warble.</p>
-<p>About the precise relationships of this bird, not much can be said with certainty. It seems though as if its intermediate appearance, apart from the <a href="/wiki/Autapomorph" title="Autapomorph" class="mw-redirect">autapomorphic</a> white eye ring, indicates its relationships reasonably well. It is not the closest living relative of at least Tristram's Warbler though.(Helbig 2001, Jønsson &amp; Fjeldså 2006)</p>
-<p>These small <a href="/wiki/Passerine" title="Passerine">passerine</a> birds are found in dry open country with bushes. 3-6 eggs are laid in a nest in a bush. Like their relatives, the Spectacled Warbler is insectivorous.</p>
-<table id="toc" class="toc">
-<tr>
-<td>
-<div id="toctitle">
-<h2>Contents</h2>
-</div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#References"><span class="tocnumber">1</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Further_reading"><span class="tocnumber">2</span> <span class="toctext">Further reading</span></a>
-<ul>
-<li class="toclevel-2 tocsection-3"><a href="#Identification"><span class="tocnumber">2.1</span> <span class="toctext">Identification</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li>
-</ul>
+<td>Kingdom:
 </td>
-</tr>
-</table>
-<h2><span class="editsection">[<a href="/w/index.php?title=Spectacled_Warbler&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Bird" title="Bird">Aves</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Passerine" title="Passerine">Passeriformes</a>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Sylviidae" title="Sylviidae">Sylviidae</a>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><a href="/wiki/Curruca" title="Curruca"><i>Curruca</i></a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>C.&#160;conspicillata</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Curruca conspicillata</i></span></b><br /><div style="font-size: 85%;"><a href="/wiki/Coenraad_Jacob_Temminck" title="Coenraad Jacob Temminck">Temminck</a>, 1820, <a href="/wiki/Sardinia" title="Sardinia">Sardinia</a></div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p>The <b>spectacled warbler</b> (<i>Curruca conspicillata</i>) is a <a href="/wiki/Species" title="Species">species</a> in the <a href="/wiki/Typical_warbler" title="Typical warbler">typical warbler</a> genus, <i>Curruca</i>. The specific <i>conspicillata</i> is from <a href="/wiki/Latin" title="Latin">Latin</a> <i>conspicillum</i>,  a place to look from, equivalent to "spectacled".<sup id="cite_ref-job_2-0" class="reference"><a href="#cite_note-job-2">&#91;2&#93;</a></sup>
+</p><p>It breeds in north west <a href="/wiki/Africa" title="Africa">Africa</a>, southwest <a href="/wiki/Europe" title="Europe">Europe</a> from <a href="/wiki/Iberian_Peninsula" title="Iberian Peninsula">Iberia</a> to <a href="/wiki/Italy" title="Italy">Italy</a>, and then further east on the eastern <a href="/wiki/Mediterranean" class="mw-redirect" title="Mediterranean">Mediterranean</a> islands and coastal regions. It is mainly resident in Africa, but other populations <a href="/wiki/Bird_migration" title="Bird migration">migrate</a> to winter in more widely in north and west <a href="/wiki/Africa" title="Africa">Africa</a> and <a href="/wiki/Egypt" title="Egypt">Egypt</a>. This <a href="/wiki/Bird" title="Bird">bird</a> is a rare vagrant to northern and western <a href="/wiki/Europe" title="Europe">Europe</a>.
+</p><p>It also occurs in some <a href="/wiki/Atlantic" class="mw-redirect" title="Atlantic">Atlantic</a> islands. The <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> <i>orbitalis</i> has been proposed for those of the <a href="/wiki/Cape_Verde_Islands" class="mw-redirect" title="Cape Verde Islands">Cape Verde Islands</a>. The presumed subspecies for the <a href="/wiki/Madeira" title="Madeira">Madeira</a> birds, <i>bella</i> is today usually included in this <a href="/wiki/Taxon" title="Taxon">taxon</a>, as are the birds of the <a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a>, where the species is quite common except on <a href="/wiki/El_Hierro" title="El Hierro">El Hierro</a> and known as <i>zarzalero y ratonero</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>These are very small "warblers" and are intermediate between <a href="/wiki/Whitethroat" class="mw-redirect" title="Whitethroat">whitethroats</a> and <a href="/wiki/Tristram%27s_warbler" title="Tristram&#39;s warbler">Tristram's warbler</a> in coloration. Spectacled warblers are brown above and buff below, with chestnut wing patches and a white throat. Adult males have a grey head and the white eye ring which gives the species its name. Immature birds can be confused with both the whitethroat and the <a href="/wiki/Subalpine_warbler" class="mw-redirect" title="Subalpine warbler">subalpine warbler</a>, and identification is difficult in the field. The song is a fast high warble.
+</p><p>About the precise relationships of this bird, not much can be said with certainty. It seems though as if its intermediate appearance, apart from the <a href="/wiki/Autapomorph" class="mw-redirect" title="Autapomorph">autapomorphic</a> white eye ring, indicates its relationships reasonably well. It is not the closest living relative of at least Tristram's warbler though.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>These small <a href="/wiki/Passerine" title="Passerine">passerine</a> birds are found in dry open country with bushes. 3-6 eggs are laid in a nest in a bush.  Like their relatives, the spectacled warbler is insectivorous.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sylvia_conspicillata_MHNT_232_A%C3%AFn_Taga_Alg%C3%A9rie.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sylvia_conspicillata_MHNT_232_A%C3%AFn_Taga_Alg%C3%A9rie.jpg/220px-Sylvia_conspicillata_MHNT_232_A%C3%AFn_Taga_Alg%C3%A9rie.jpg" decoding="async" width="220" height="189" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sylvia_conspicillata_MHNT_232_A%C3%AFn_Taga_Alg%C3%A9rie.jpg/330px-Sylvia_conspicillata_MHNT_232_A%C3%AFn_Taga_Alg%C3%A9rie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sylvia_conspicillata_MHNT_232_A%C3%AFn_Taga_Alg%C3%A9rie.jpg/440px-Sylvia_conspicillata_MHNT_232_A%C3%AFn_Taga_Alg%C3%A9rie.jpg 2x" data-file-width="3344" data-file-height="2871" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Sylvia_conspicillata_MHNT_232_A%C3%AFn_Taga_Alg%C3%A9rie.jpg" class="internal" title="Enlarge"></a></div>Eggs of <i>Curruca conspicillata </i> <a href="/wiki/MHNT" class="mw-redirect" title="MHNT">MHNT</a></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectacled_warbler&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106008088">"<i>Sylvia conspicillata</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106008088">http://www.iucnredlist.org/apps/redlist/details/106008088</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Sylvia+conspicillata%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106008088&amp;rfr_id=info:sid/en.wikipedia.org:Spectacled_Warbler"><span style="display: none;">&#160;</span></span></span></li>
-</ol>
-</div>
-<ul>
-<li>Álamo Tavío, Manuel (1975): Aves de Fuerteventura en peligro de extinción. <i>In:</i> Asociación Canaria para Defensa de la Naturaleza (ed.): <i>Aves y plantas de Fuerteventura en peligro de extinción</i>: 10-32. Las Palmas de Gran Canaria. <a rel="nofollow" class="external text" href="http://bdigital.ulpgc.es/mdc/texto/pdf/057627_0000.pdf">PDF fulltext</a></li>
-</ul>
-<ul>
-<li>Helbig, A. J. (2001): Phylogeny and biogeography of the genus <i>Sylvia</i>. <i>In:</i> Shirihai, Hadoram: <i>Sylvia warblers</i>: 24-29. Princeton University Press, Princeton, N.J. <small><a href="/wiki/Special:BookSources/0691088330" class="internal mw-magiclink-isbn">ISBN 0-691-08833-0</a></small></li>
-</ul>
-<ul>
-<li>Jønsson, Knud A. and Fjeldså, Jon (2006): A phylogenetic supertree of oscine passerine birds (Aves: Passeri). <i><a href="/wiki/Zoologica_Scripta" title="Zoologica Scripta">Zool. Scripta</a></i> <b>35</b>(2): 149–186. <small><a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1463-6409.2006.00221.x">10.1111/j.1463-6409.2006.00221.x</a></small> (HTML abstract)</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Spectacled_Warbler&amp;action=edit&amp;section=2" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
-<h3><span class="editsection">[<a href="/w/index.php?title=Spectacled_Warbler&amp;action=edit&amp;section=3" title="Edit section: Identification">edit</a>]</span> <span class="mw-headline" id="Identification">Identification</span></h3>
-<ul>
-<li><a href="/wiki/Shirihai,_Hadoram" title="Shirihai, Hadoram" class="mw-redirect">Shirihai, Hadoram</a>, Alan Harris and David Cottridge (1991) Identification of Spectacled Warbler <i><a href="/wiki/British_Birds_(magazine)" title="British Birds (magazine)">British Birds</a></i> 84(10):423-430</li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Spectacled_Warbler&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
-<p><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" /> Media related to <a href="//commons.wikimedia.org/wiki/category:Sylvia_conspicillata" class="extiw" title="commons:category:Sylvia conspicillata">Spectacled Warbler</a> at Wikimedia Commons</p>
-<ul>
-<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" width="14" height="16" /> Data related to <a href="//species.wikimedia.org/wiki/Sylvia_conspicillata" class="extiw" title="wikispecies:Sylvia conspicillata">Spectacled Warbler</a> at Wikispecies</li>
-<li>Madeira Birds: <a rel="nofollow" class="external text" href="http://www.madeirabirds.com/spectacle_warbler">Spectacled Warbler</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/366_SpectacledWarblerSconspicillata.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
-</ul>
-
-
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFBirdLife_International2012" class="citation journal cs1"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="https://www.iucnredlist.org/details/22716976/0">"<i>Sylvia conspicillata</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species</a></i>. <b>2012</b><span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Sylvia+conspicillata&amp;rft.volume=2012&amp;rft.date=2012&amp;rft.au=BirdLife+International&amp;rft_id=https%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F22716976%2F0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectacled+warbler" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: ref=harv (<a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><span class="citation-comment" style="display: none; color: #33aa33; margin-left: 0.3em;">old-form url</span></span>
+</li>
+<li id="cite_note-job-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-job_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFJobling2010" class="citation book cs1">Jobling, James A (2010). <a rel="nofollow" class="external text" href="https://archive.org/details/Helm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling"><i>The Helm Dictionary of Scientific Bird Names</i></a>. London: Christopher Helm. pp.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/Helm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling/page/n117">117</a>, 376. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-2501-4" title="Special:BookSources/978-1-4081-2501-4"><bdi>978-1-4081-2501-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Helm+Dictionary+of+Scientific+Bird+Names&amp;rft.place=London&amp;rft.pages=117%2C+376&amp;rft.pub=Christopher+Helm&amp;rft.date=2010&amp;rft.isbn=978-1-4081-2501-4&amp;rft.aulast=Jobling&amp;rft.aufirst=James+A&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2FHelm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectacled+warbler" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Álamo Tavío, Manuel (1975): "<a rel="nofollow" class="external text" href="http://bdigital.ulpgc.es/mdc/texto/pdf/057627_0000.pdf">Aves de Fuerteventura en peligro de extinción</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since May 2018">permanent dead link</span></a></i>&#93;</span></sup>". <i>In:</i> Asociación Canaria para Defensa de la Naturaleza (ed.): <i>Aves y plantas de Fuerteventura en peligro de extinción</i>: 10-32. Las Palmas de Gran Canaria.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Helbig, A. J. (2001): Phylogeny and biogeography of the genus <i>Sylvia</i>. <i>In:</i> Shirihai, Hadoram: <i>Sylvia warblers</i>: 24-29. Princeton University Press, Princeton, N.J. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-691-08833-0" title="Special:BookSources/0-691-08833-0">0-691-08833-0</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Jønsson, Knud A. and Fjeldså, Jon (2006): A phylogenetic supertree of oscine passerine birds (Aves: Passeri). <i><a href="/wiki/Zoologica_Scripta" title="Zoologica Scripta">Zool. Scripta</a></i> <b>35</b>(2): 149–186. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1463-6409.2006.00221.x">10.1111/j.1463-6409.2006.00221.x</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectacled_warbler&amp;action=edit&amp;section=2" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Shirihai,_Hadoram" class="mw-redirect" title="Shirihai, Hadoram">Shirihai, Hadoram</a>, Alan Harris and David Cottridge (1991) Identification of Spectacled Warbler <i><a href="/wiki/British_Birds_(magazine)" title="British Birds (magazine)">British Birds</a></i> 84(10):423-430</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectacled_warbler&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Sylvia_conspicillata" class="extiw" title="commons:Category:Sylvia conspicillata"><span style="">Spectacled warbler</span></a> at Wikimedia Commons
+</p>
+<ul><li><a href="/wiki/File:Wikispecies-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" decoding="async" width="14" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/27px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a> Data related to <a href="https://species.wikimedia.org/wiki/Sylvia_conspicillata" class="extiw" title="wikispecies:Sylvia conspicillata">Spectacled warbler</a> at Wikispecies</li>
+<li>Madeira Birds: <a rel="nofollow" class="external text" href="http://www.madeirabirds.com/spectacle_warbler">Spectacled warbler</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141202063915/http://aulaenred.ibercaja.es/wp-content/uploads/366_SpectacledWarblerSconspicillata.pdf">Ageing and sexing (PDF; 4.5 MB) by Javier Blasco-Zumeta &amp; Gerd-Michael Heinze</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q757121" class="extiw" title="wikidata:Q757121">Q757121</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Sylvia_conspicillata" class="extiw" title="wikispecies:Sylvia conspicillata">Sylvia conspicillata</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Sylvia_conspicillata/">Sylvia_conspicillata</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://datazone.birdlife.org/species/factsheet/22716976">22716976</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/British_Trust_for_Ornithology" title="British Trust for Ornithology">BTO</a>: <span class="uid">SPEWA</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EBird" title="EBird">eBird</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ebird.org/species/spewar2">spewar2</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/European_Nature_Information_System" title="European Nature Information System">EUNIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eunis.eea.europa.eu/species/1299">1299</a></span></span></li>
+<li><span style="white-space:nowrap;">Euring: <span class="uid">12640</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:faunaeur.org:taxname:97339">97339</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea (new)</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://fauna-eu.org/cdm_dataportal/taxon/1d666fe3-c3e0-400d-a9fd-349dae194288">1d666fe3-c3e0-400d-a9fd-349dae194288</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2492959">2492959</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/15285">15285</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=10791089">10791089</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=563189">563189</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/22716976">22716976</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NHMSYS0000530637">NHMSYS0000530637</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=216227">216227</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="https://de.wikipedia.org/wiki/Tierstimmenarchiv" class="extiw" title="de:Tierstimmenarchiv">TSA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.tierstimmen.org/en/database?field_spec_species_target_id_selective=17101">17101</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 3741/1000000
-Preprocessor generated node count: 32568/1500000
-Post-expand include size: 22930/2048000 bytes
-Template argument size: 4724/2048000 bytes
-Highest expansion depth: 17/40
-Expensive parser function count: 0/500
+Parsed by mw1401
+Cached time: 20201030051421
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.708 seconds
+Real time usage: 0.982 seconds
+Preprocessor visited node count: 6420/1000000
+Post‐expand include size: 32950/2097152 bytes
+Template argument size: 6184/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10777/5000000 bytes
+Lua time usage: 0.501/10.000 seconds
+Lua memory usage: 6.97 MB/50 MB
+Number of Wikibase entities loaded: 17/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  933.685      1 -total
+ 45.44%  424.234      1 Template:Speciesbox
+ 43.72%  408.167      1 Template:Taxobox/core
+ 23.31%  217.618      1 Template:Taxonbar
+ 23.22%  216.796      1 Template:Reflist
+  9.63%   89.901      1 Template:Cite_iucn
+  5.04%   47.104     23 Template:Delink
+  4.95%   46.198      1 Template:Dead_link
+  4.90%   45.741      1 Template:ISBN
+  4.16%   38.820      1 Template:Fix
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:397112-0!*!0!!en!4!* and timestamp 20120928222839 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Spectacled_Warbler&amp;oldid=515072605">http://en.wikipedia.org/w/index.php?title=Spectacled_Warbler&amp;oldid=515072605</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Sylvia_(genus)" title="Category:Sylvia (genus)">Sylvia (genus)</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_of_Palestine" title="Category:Birds of Palestine">Birds of Palestine</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:397112-0!canonical and timestamp 20201030051420 and revision id 979697111
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Spectacled_warbler&amp;oldid=979697111">https://en.wikipedia.org/w/index.php?title=Spectacled_warbler&amp;oldid=979697111</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Curruca" title="Category:Curruca">Curruca</a></li><li><a href="/wiki/Category:Birds_of_Southern_Europe" title="Category:Birds of Southern Europe">Birds of Southern Europe</a></li><li><a href="/wiki/Category:Birds_of_Macaronesia" title="Category:Birds of Macaronesia">Birds of Macaronesia</a></li><li><a href="/wiki/Category:Birds_of_North_Africa" title="Category:Birds of North Africa">Birds of North Africa</a></li><li><a href="/wiki/Category:Birds_of_Western_Asia" title="Category:Birds of Western Asia">Birds of Western Asia</a></li><li><a href="/wiki/Category:Birds_described_in_1820" title="Category:Birds described in 1820">Birds described in 1820</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">CS1 maint: ref=harv</a></li><li><a href="/wiki/Category:Cite_iucn_maint" title="Category:Cite iucn maint">Cite iucn maint</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_May_2018" title="Category:Articles with dead external links from May 2018">Articles with dead external links from May 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Spectacled+warbler" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Spectacled+warbler" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Spectacled_warbler" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Spectacled_warbler" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Spectacled+Warbler&amp;type=signup">Create account</a></li>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Spectacled+Warbler" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Spectacled_Warbler"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:Spectacled_Warbler"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-	<h4>
-		</h4>
-	<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Spectacled_warbler">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Spectacled_warbler&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Spectacled_warbler&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Spectacled_Warbler" >Read</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Spectacled_Warbler&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Spectacled_Warbler&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
 	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
 
-<!-- /2 -->
-			</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
 	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
 	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Spectacled_Warbler" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Spectacled_Warbler" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Spectacled_Warbler&amp;oldid=515072605" title="Permanent link to this revision of the page">Permanent link</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Spectacled_Warbler&amp;id=515072605" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /TOOLBOX -->
-
-<!-- coll-print_export -->
-<div class="portal" id='p-coll-print_export'>
-	<h5>Print/export</h5>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Spectacled+Warbler" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Spectacled+Warbler&amp;oldid=515072605&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Spectacled_Warbler&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- LANGUAGES -->
-<div class="portal" id='p-lang'>
-	<h5>Languages</h5>
-	<div class="body">
-		<ul>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AF%D8%AE%D9%84%D8%A9_%D8%A3%D9%85_%D9%86%D8%B8%D8%A7%D8%B1%D8%A9" title="دخلة أم نظارة" lang="ar" hreflang="ar">العربية</a></li>
-			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Devedig-krineg" title="Devedig-krineg" lang="br" hreflang="br">Brezhoneg</a></li>
-			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Tallarol_trencamates" title="Tallarol trencamates" lang="ca" hreflang="ca">Català</a></li>
-			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Brillengrasm%C3%BCcke" title="Brillengrasmücke" lang="de" hreflang="de">Deutsch</a></li>
-			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata" lang="es" hreflang="es">Español</a></li>
-			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Okulvitra_silvio" title="Okulvitra silvio" lang="eo" hreflang="eo">Esperanto</a></li>
-			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Ezkai-txinbo" title="Ezkai-txinbo" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Brillulj%C3%B3mari" title="Brilluljómari" lang="fo" hreflang="fo">Føroyskt</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Fauvette_%C3%A0_lunettes" title="Fauvette à lunettes" lang="fr" hreflang="fr">Français</a></li>
-			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata" lang="it" hreflang="it">Italiano</a></li>
-			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/T%C3%B6rpeposz%C3%A1ta" title="Törpeposzáta" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Brilgrasmus" title="Brilgrasmus" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata" lang="pms" hreflang="pms">Piemontèis</a></li>
-			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Pokrzewka_okularowa" title="Pokrzewka okularowa" lang="pl" hreflang="pl">Polski</a></li>
-			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Toutinegra-tomilheira" title="Toutinegra-tomilheira" lang="pt" hreflang="pt">Português</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0" title="Очковая славка" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pikkupensaskerttu" title="Pikkupensaskerttu" lang="fi" hreflang="fi">Suomi</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Glas%C3%B6gons%C3%A5ngare" title="Glasögonsångare" lang="sv" hreflang="sv">Svenska</a></li>
-			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Bozk%C4%B1r_%C3%B6tle%C4%9Feni" title="Bozkır ötleğeni" lang="tr" hreflang="tr">Türkçe</a></li>
-		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
 	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Spectacled_warbler" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Spectacled_warbler" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Spectacled_warbler&amp;oldid=979697111" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Spectacled_warbler&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Spectacled_warbler&amp;id=979697111&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q757121" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Spectacled_warbler&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Spectacled_warbler&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sylvia_conspicillata" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Sylvia_conspicillata" hreflang="en">Wikispecies</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D8%AE%D9%84%D8%A9_%D8%A3%D9%85_%D9%86%D8%B8%D8%A7%D8%B1%D8%A9" title="دخلة أم نظارة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9E%D1%87%D0%B8%D0%BB%D0%B0%D1%82%D0%BE_%D0%BA%D0%BE%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%80%D1%87%D0%B5" title="Очилато коприварче – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Devedig-krineg" title="Devedig-krineg – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tallarol_trencamates" title="Tallarol trencamates – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Telor_sbectolog" title="Telor sbectolog – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Brillengrasm%C3%BCcke" title="Brillengrasmücke – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Y%C3%A1d%C3%AD%C5%82tihii_bin%C3%A1k%CA%BCee_%C5%82igaa%C3%ADg%C3%AD%C3%AD" title="Yádíłtihii binákʼee łigaaígíí – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Okulvitra_silvio" title="Okulvitra silvio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ezkai-txinbo" title="Ezkai-txinbo – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B3%DA%A9_%D8%B9%DB%8C%D9%86%DA%A9%DB%8C" title="سسک عینکی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Brillulj%C3%B3mari" title="Brilluljómari – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Fauvette_%C3%A0_lunettes" title="Fauvette à lunettes – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Papuxa_tomi%C3%B1eira" title="Papuxa tomiñeira – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/T%C3%B6rpeposz%C3%A1ta" title="Törpeposzáta – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BE%D1%87%D0%B0%D1%80%D0%B5%D1%81%D1%82%D0%BE_%D0%B3%D1%80%D0%BC%D1%83%D1%88%D0%B0%D1%80%D1%87%D0%B5" title="Наочаресто грмушарче – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Brilgrasmus" title="Brilgrasmus – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Maskesongar" title="Maskesongar – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Pokrzewka_okularowa" title="Pokrzewka okularowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Toutinegra-tomilheira" title="Toutinegra-tomilheira – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%BB%D0%B0%D0%B2%D0%BA%D0%B0" title="Очковая славка – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Pikkupensaskerttu" title="Pikkupensaskerttu – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Glas%C3%B6gons%C3%A5ngare" title="Glasögonsångare – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Bozk%C4%B1r_%C3%B6tle%C4%9Feni" title="Bozkır ötleğeni – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Sylvia_conspicillata" title="Sylvia conspicillata – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q757121#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
 </div>
 
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 28 September 2012 at 22:28.<br /></li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
-Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Spectacled_Warbler&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.footerCleanup","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
-}</script>
-<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by mw25 in 0.165 secs. -->
-	</body>
-</html>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 22 September 2020, at 07:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Spectacled_warbler&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.708","walltime":"0.982","ppvisitednodes":{"value":6420,"limit":1000000},"postexpandincludesize":{"value":32950,"limit":2097152},"templateargumentsize":{"value":6184,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10777,"limit":5000000},"entityaccesscount":{"value":17,"limit":400},"timingprofile":["100.00%  933.685      1 -total"," 45.44%  424.234      1 Template:Speciesbox"," 43.72%  408.167      1 Template:Taxobox/core"," 23.31%  217.618      1 Template:Taxonbar"," 23.22%  216.796      1 Template:Reflist","  9.63%   89.901      1 Template:Cite_iucn","  5.04%   47.104     23 Template:Delink","  4.95%   46.198      1 Template:Dead_link","  4.90%   45.741      1 Template:ISBN","  4.16%   38.820      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.501","limit":"10.000"},"limitreport-memusage":{"value":7311675,"limit":52428800}},"cachereport":{"origin":"mw1401","timestamp":"20201030051421","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Spectacled warbler","url":"https:\/\/en.wikipedia.org\/wiki\/Spectacled_warbler","sameAs":"http:\/\/www.wikidata.org\/entity\/Q757121","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q757121","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-11T06:38:10Z","dateModified":"2020-09-22T07:43:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cb\/Sylvia_conspicillata_Gran_Canaria.jpg","headline":"species of bird"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":180,"wgHostname":"mw1371"});});</script>
+</body></html>

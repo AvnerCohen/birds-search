@@ -1,376 +1,526 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Red-billed Teal - Wikipedia, the free encyclopedia</title>
-<meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf2" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Red-billed_Teal&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Red-billed_Teal&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+<meta charset="UTF-8"/>
+<title>Red-billed teal - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"229e7a77-5a45-4569-813c-d57e29bb05bd","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Red-billed_teal","wgTitle":"Red-billed teal","wgCurRevisionId":986256525,"wgRevisionId":986256525,"wgArticleId":1241851,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: ref=harv","Cite iucn maint","Articles with short description","Short description matches Wikidata","Use dmy dates from June 2013","Articles with 'species' microformats","IUCN Red List least concern species","Anas","Birds of Sub-Saharan Africa","Birds described in 1789",
+"Taxa named by Johann Friedrich Gmelin"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Red-billed_teal","wgRelevantArticleId":1241851,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Red-billed_Teal","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Red-billed_teal","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q387404"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg/1200px-Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Red-billed_teal"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Red-billed_teal&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Red-billed_teal&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Red-billed_teal"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Red-billed_teal rootpage-Red-billed_teal skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Red-billed teal</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Red-billed_Teal&amp;redirect=no" class="mw-redirect" title="Red-billed Teal">Red-billed Teal</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Species of bird</div>
+<p class="mw-empty-elt">
 
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Red-billed_Teal","wgTitle":"Red-billed Teal","wgCurRevisionId":496866069,"wgArticleId":1241851,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Birds of South Africa","Anas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Red-billed_Teal","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"83549e82b9bb749f759a10a23f7993a3","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1241851,"title":"Red-billed Teal","namespace":0,"categories":["Anas","Articles with \'species\' microformats","Birds of South Africa","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
-"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
-}</script>
-<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Red-billed_Teal skin-vector action-view vector-animateLayout">
-		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content" class="mw-body">
-			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Red-billed Teal</span></h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- tagline -->
-				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-				<!-- /tagline -->
-								<!-- subtitle -->
-				<div id="contentSub"></div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+</p>
 <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Red-billed teal
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Red-billed Teal</th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Red-billed_Pintail_(Anas_erythrorhyncha)_RWD1.jpg" class="image"><img alt="Red-billed Pintail (Anas erythrorhyncha) RWD1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg/220px-Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg" decoding="async" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg/330px-Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg/440px-Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg 2x" data-file-width="1512" data-file-height="1134" /></a>
+</td></tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Red-billed_Pintail_(Anas_erythrorhyncha)_RWD1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg/220px-Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg" width="220" height="165" /></a></td>
-</tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Male
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
 <tr>
-<td colspan="2" style="text-align: center; font-size: 88%">Male</td>
-</tr>
-<tr style="text-align: center; background-color: rgb(211,211,164)">
-<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
-</tr>
+<td colspan="2"><div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" data-file-width="240" data-file-height="64" /><br /><a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
 <tr>
-<td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
-<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)</small></div>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Anas" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Domain:
 </td>
-</tr>
+<td><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryota</a>
+</td></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
-</tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
 <tr>
-<td>Kingdom:</td>
-<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animalia" title="Animalia" class="mw-redirect">Animalia</a></span></td>
-</tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
 <tr>
-<td>Phylum:</td>
-<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
-</tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Bird" title="Bird">Aves</a>
+</td></tr>
 <tr>
-<td>Class:</td>
-<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
-</tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a>
+</td></tr>
 <tr>
-<td>Order:</td>
-<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></span></td>
-</tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a>
+</td></tr>
 <tr>
-<td>Family:</td>
-<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></span></td>
-</tr>
-<tr>
-<td>Subfamily:</td>
-<td><span class="subfamily" style="white-space:nowrap;"><a href="/wiki/Anatinae" title="Anatinae">Anatinae</a></span></td>
-</tr>
-<tr>
-<td>Genus:</td>
-<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Anas" title="Anas">Anas</a></i></span></td>
-</tr>
-<tr>
-<td>Species:</td>
-<td><span class="species" style="white-space:nowrap;"><i><b>A. erythrorhyncha</b></i></span></td>
-</tr>
-<tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Anas erythrorhyncha</i></span></b><br />
-<small><a href="/wiki/Johann_Friedrich_Gmelin" title="Johann Friedrich Gmelin">Gmelin</a>, 1789</small></td>
-</tr>
-</table>
-</div>
-<p>The <b>Red-billed Teal</b>, <i><b>Anas erythrorhyncha</b></i>, is a <a href="/wiki/Dabbling_duck" title="Dabbling duck" class="mw-redirect">dabbling duck</a> which is an abundant resident breeder in southern and eastern <a href="/wiki/Africa" title="Africa">Africa</a> typically south of 10° S. This <a href="/wiki/Duck" title="Duck">duck</a> is not <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, but will fly great distances to find suitable waters. It is highly gregarious outside the <a href="/wiki/Breeding_season" title="Breeding season">breeding season</a> and forms large <a href="/wiki/Flock_(birds)" title="Flock (birds)">flocks</a>.</p>
-<p>The Red-billed Teal is 43–48 centimetres (17–19 in) long and has a blackish cap and nape, contrasting pale face, and bright red <a href="/wiki/Beak" title="Beak">bill</a>. The body <a href="/wiki/Plumage" title="Plumage">plumage</a> is a dull dark brown scalloped with white. Flight reveals that the secondary <a href="/wiki/Flight_feather" title="Flight feather">flight feathers</a> are <a href="/wiki/Buff_(color)" title="Buff (color)" class="mw-redirect">buff</a> with a black stripe across them. The sexes are similar, but juveniles are duller than adults.</p>
-<p>This is a quiet species, but the displaying male has a <i>whzzt</i> <a href="/wiki/Bird_call" title="Bird call" class="mw-redirect">call</a>, whereas the female has a soft <a href="/wiki/Mallard" title="Mallard">Mallard-like</a> quack.</p>
-<p>The Red-billed Teal is a bird of <a href="/wiki/Freshwater" title="Freshwater" class="mw-redirect">freshwater</a> <a href="/wiki/Habitat" title="Habitat">habitats</a> in fairly open country and is an <a href="/wiki/Omnivore" title="Omnivore">omnivore</a>. It feeds by <a href="/w/index.php?title=Dabbling&amp;action=edit&amp;redlink=1" class="new" title="Dabbling (page does not exist)">dabbling</a> for plant food, or <a href="/wiki/Foraging" title="Foraging">foraging</a> on land mainly in the evening or at night. It nests on the ground in dense vegetation near water.</p>
-<p>This is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Red-billed_Teal&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
-<ul>
-<li>BirdLife International (2004). <i>Anas erythrorhyncha</i>. 2006. <i><a href="/wiki/IUCN_Red_List_of_Threatened_Species" title="IUCN Red List of Threatened Species" class="mw-redirect">IUCN Red List of Threatened Species</a></i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">IUCN</a> 2006. <a rel="nofollow" class="external text" href="http://www.iucnredlist.org">www.iucnredlist.org</a>. Retrieved on 09 May 2006. Database entry includes justification for why this species is of least concern</li>
-<li>Ian Sinclair, Phil Hockey and Warwick Tarboton, <i>SASOL Birds of Southern Africa</i> (Struik 2002) <a href="/wiki/Special:BookSources/1868727211" class="internal mw-magiclink-isbn">ISBN 1-86872-721-1</a></li>
-<li>Madge and Burn, <i>Wildfowl</i> <a href="/wiki/Special:BookSources/0747022011" class="internal mw-magiclink-isbn">ISBN 0-7470-2201-1</a></li>
-</ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Red-billed_Teal&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
-<ul>
-<li><a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/108.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
-</ul>
+<td>Genus:
+</td>
+<td><a href="/wiki/Anas" title="Anas"><i>Anas</i></a>
+</td></tr>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>A.&#160;erythrorhyncha</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Anas erythrorhyncha</i></span></b><br /><div style="font-size: 85%;"><a href="/wiki/Johann_Friedrich_Gmelin" title="Johann Friedrich Gmelin">Gmelin</a>, 1789</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Anas_erythrorhyncha_MHNT.ZOO.2010.11.32.3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Anas_erythrorhyncha_MHNT.ZOO.2010.11.32.3.jpg/220px-Anas_erythrorhyncha_MHNT.ZOO.2010.11.32.3.jpg" decoding="async" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Anas_erythrorhyncha_MHNT.ZOO.2010.11.32.3.jpg/330px-Anas_erythrorhyncha_MHNT.ZOO.2010.11.32.3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Anas_erythrorhyncha_MHNT.ZOO.2010.11.32.3.jpg/440px-Anas_erythrorhyncha_MHNT.ZOO.2010.11.32.3.jpg 2x" data-file-width="4334" data-file-height="2763" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Anas_erythrorhyncha_MHNT.ZOO.2010.11.32.3.jpg" class="internal" title="Enlarge"></a></div><i>Anas erythrorhyncha</i> - <a href="/wiki/MHNT" class="mw-redirect" title="MHNT">MHNT</a></div></div></div>
+<p>The <b>red-billed teal</b> or <b>red-billed duck</b> (<i>Anas erythrorhyncha</i>) is a <a href="/wiki/Dabbling_duck" class="mw-redirect" title="Dabbling duck">dabbling duck</a> which is an abundant resident breeder in southern and eastern <a href="/wiki/Africa" title="Africa">Africa</a> typically south of 10° S. This <a href="/wiki/Duck" title="Duck">duck</a> is not <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, but will fly great distances to find suitable waters. It is highly gregarious outside the <a href="/wiki/Breeding_season" class="mw-redirect" title="Breeding season">breeding season</a> and forms large <a href="/wiki/Flock_(birds)" title="Flock (birds)">flocks</a>.
+</p><p>The red-billed teal is 43–48 centimetres (17–19&#160;in) long and has a blackish cap and nape, contrasting pale face, and bright red <a href="/wiki/Beak" title="Beak">bill</a>. The body <a href="/wiki/Plumage" title="Plumage">plumage</a> is a dull dark brown scalloped with white. Flight reveals that the secondary <a href="/wiki/Flight_feather" title="Flight feather">flight feathers</a> are <a href="/wiki/Buff_(color)" class="mw-redirect" title="Buff (color)">buff</a> with a black stripe across them. The sexes are similar, but juveniles are duller than adults.
+</p><p>This is a quiet species, but the displaying male has a <i>whzzt</i> <a href="/wiki/Bird_call" class="mw-redirect" title="Bird call">call</a>, whereas the female has a soft <a href="/wiki/Mallard" title="Mallard">Mallard-like</a> quack.
+</p><p>The red-billed teal is a bird of <a href="/wiki/Freshwater" class="mw-redirect" title="Freshwater">freshwater</a> <a href="/wiki/Habitat" title="Habitat">habitats</a> in fairly open country and is an <a href="/wiki/Omnivore" title="Omnivore">omnivore</a>. It feeds by <a href="/w/index.php?title=Dabbling&amp;action=edit&amp;redlink=1" class="new" title="Dabbling (page does not exist)">dabbling</a> for plant food, or <a href="/wiki/Foraging" title="Foraging">foraging</a> on land mainly in the evening or at night. It nests on the ground in dense vegetation near water.
+</p><p>This is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" class="mw-redirect" title="AEWA">AEWA</a>) applies.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Red-billed_teal&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFBirdLife_International2012" class="citation journal cs1"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="https://www.iucnredlist.org/details/22680290/0">"<i>Anas erythrorhyncha</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species</a></i>. <b>2012</b><span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Anas+erythrorhyncha&amp;rft.volume=2012&amp;rft.date=2012&amp;rft.au=BirdLife+International&amp;rft_id=https%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F22680290%2F0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARed-billed+teal" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: ref=harv (<a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><span class="citation-comment" style="display: none; color: #33aa33; margin-left: 0.3em;">old-form url</span></span>
+</li>
+</ol></div></div>
+<ul><li>Ian Sinclair, Phil Hockey and Warwick Tarboton, <i>SASOL Birds of Southern Africa</i> (Struik 2002) <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-86872-721-1" title="Special:BookSources/1-86872-721-1">1-86872-721-1</a></li>
+<li>Madge and Burn, <i>Wildfowl</i> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7470-2201-1" title="Special:BookSources/0-7470-2201-1">0-7470-2201-1</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Red-billed_teal&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/108.pdf">Species text in The Atlas of Southern African Birds</a>.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q387404" class="extiw" title="wikidata:Q387404">Q387404</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Anas_erythrorhyncha" class="extiw" title="wikispecies:Anas erythrorhyncha">Anas erythrorhyncha</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Anas_erythrorhyncha/">Anas_erythrorhyncha</a></span></span></li>
+<li><span style="white-space:nowrap;">Avibase: <span class="uid"><a rel="nofollow" class="external text" href="https://avibase.bsc-eoc.org/species.jsp?avibaseid=8F6876AC4DDE3CB7">8F6876AC4DDE3CB7</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://datazone.birdlife.org/species/factsheet/22680290">22680290</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Convention_on_the_Conservation_of_Migratory_Species_of_Wild_Animals" title="Convention on the Conservation of Migratory Species of Wild Animals">CMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.cms.int/en/species/anas-erythrorhyncha">anas-erythrorhyncha</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EBird" title="EBird">eBird</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ebird.org/species/rebduc1">rebduc1</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eol.org/pages/1048475">1048475</a></span></span></li>
+<li><span style="white-space:nowrap;">Euring: <span class="uid">28000</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=373516">373516</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2498064">2498064</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/6984">6984</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=11170220">11170220</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=553921">553921</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/22680290">22680290</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NHMSYS0000532771">NHMSYS0000532771</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=75843">75843</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=212712">212712</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 3572/1000000
-Preprocessor generated node count: 21903/1500000
-Post-expand include size: 11697/2048000 bytes
-Template argument size: 3722/2048000 bytes
-Highest expansion depth: 31/40
-Expensive parser function count: 0/500
+Parsed by mw1376
+Cached time: 20201030185922
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.808 seconds
+Real time usage: 1.093 seconds
+Preprocessor visited node count: 6326/1000000
+Post‐expand include size: 28371/2097152 bytes
+Template argument size: 5434/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7493/5000000 bytes
+Lua time usage: 0.578/10.000 seconds
+Lua memory usage: 8.18 MB/50 MB
+Number of Wikibase entities loaded: 17/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1036.698      1 -total
+ 42.50%  440.603      1 Template:Speciesbox
+ 41.54%  430.626      1 Template:Taxobox/core
+ 25.77%  267.175      1 Template:Taxonbar
+ 12.12%  125.670      1 Template:Reflist
+ 11.23%  116.432      1 Template:Cite_iucn
+  7.16%   74.188      1 Template:Short_description
+  5.82%   60.328      2 Template:ISBN
+  4.13%   42.866      1 Template:Convert
+  4.10%   42.454     22 Template:Delink
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1241851-0!*!0!!*!4!* and timestamp 20121017211614 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Red-billed_Teal&amp;oldid=496866069">http://en.wikipedia.org/w/index.php?title=Red-billed_Teal&amp;oldid=496866069</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Birds_of_South_Africa" title="Category:Birds of South Africa">Birds of South Africa</a></li><li><a href="/wiki/Category:Anas" title="Category:Anas">Anas</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1241851-0!canonical and timestamp 20201030185937 and revision id 986256525
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Red-billed_teal&amp;oldid=986256525">https://en.wikipedia.org/w/index.php?title=Red-billed_teal&amp;oldid=986256525</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Anas" title="Category:Anas">Anas</a></li><li><a href="/wiki/Category:Birds_of_Sub-Saharan_Africa" title="Category:Birds of Sub-Saharan Africa">Birds of Sub-Saharan Africa</a></li><li><a href="/wiki/Category:Birds_described_in_1789" title="Category:Birds described in 1789">Birds described in 1789</a></li><li><a href="/wiki/Category:Taxa_named_by_Johann_Friedrich_Gmelin" title="Category:Taxa named by Johann Friedrich Gmelin">Taxa named by Johann Friedrich Gmelin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">CS1 maint: ref=harv</a></li><li><a href="/wiki/Category:Cite_iucn_maint" title="Category:Cite iucn maint">Cite iucn maint</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">Use dmy dates from June 2013</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Red-billed+teal" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Red-billed+teal" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Red-billed_teal" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Red-billed_teal" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Red-billed+Teal&amp;type=signup">Create account</a></li>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Red-billed+Teal" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Red-billed_Teal"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:Red-billed_Teal"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-	<h4>
-		</h4>
-	<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Red-billed_teal">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Red-billed_teal&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Red-billed_teal&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Red-billed_Teal" >Read</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Red-billed_Teal&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Red-billed_Teal&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
 	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
 
-<!-- /2 -->
-			</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
 	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
 	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Red-billed_Teal" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Red-billed_Teal" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Red-billed_Teal&amp;oldid=496866069" title="Permanent link to this revision of the page">Permanent link</a></li>
-			<li><a href="/w/index.php?title=Red-billed_Teal&amp;action=info">Page information</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Red-billed_Teal&amp;id=496866069" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /TOOLBOX -->
-
-<!-- coll-print_export -->
-<div class="portal" id='p-coll-print_export'>
-	<h5>Print/export</h5>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Red-billed+Teal" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Red-billed+Teal&amp;oldid=496866069&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Red-billed_Teal&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- LANGUAGES -->
-<div class="portal" id='p-lang'>
-	<h5>Languages</h5>
-	<div class="body">
-		<ul>
-			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Rooibekeend" title="Rooibekeend" lang="af" hreflang="af">Afrikaans</a></li>
-			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/%C3%80nec_bec-roig" title="Ànec bec-roig" lang="ca" hreflang="ca">Català</a></li>
-			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Rotschnabelente" title="Rotschnabelente" lang="de" hreflang="de">Deutsch</a></li>
-			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Ru%C4%9Dbeka_kreko" title="Ruĝbeka kreko" lang="eo" hreflang="eo">Esperanto</a></li>
-			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Canard_%C3%A0_bec_rouge" title="Canard à bec rouge" lang="fr" hreflang="fr">Français</a></li>
-			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha" lang="it" hreflang="it">Italiano</a></li>
-			<li class="interwiki-la"><a href="//la.wikipedia.org/wiki/Anas_erythroryncha" title="Anas erythroryncha" lang="la" hreflang="la">Latina</a></li>
-			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Piroscs%C5%91r%C5%B1_r%C3%A9ce" title="Piroscsőrű réce" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Roodbekpijlstaart" title="Roodbekpijlstaart" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%8F%E3%82%B7%E3%82%AA%E3%83%8A%E3%82%AC%E3%82%AC%E3%83%A2" title="アカハシオナガガモ" lang="ja" hreflang="ja">日本語</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%B0%D1%8F_%D1%88%D0%B8%D0%BB%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D1%8C" title="Красноклювая шилохвость" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/R%C3%B6dn%C3%A4bbad_and" title="Rödnäbbad and" lang="sv" hreflang="sv">Svenska</a></li>
-		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
 	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Red-billed_teal" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Red-billed_teal" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Red-billed_teal&amp;oldid=986256525" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Red-billed_teal&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Red-billed_teal&amp;id=986256525&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q387404" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Red-billed_teal&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Red-billed_teal&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Anas_erythrorhyncha" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Anas_erythrorhyncha" hreflang="en">Wikispecies</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Rooibekeend" title="Rooibekeend – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE%D0%BA%D0%BB%D1%8E%D0%BD%D0%BE_%D0%B1%D1%8A%D1%80%D0%BD%D0%B5" title="Червеноклюно бърне – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/%C3%80nec_becvermell" title="Ànec becvermell – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Corhwyaden_bicoch" title="Corhwyaden bicoch – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/R%C3%B8dn%C3%A6bbet_and" title="Rødnæbbet and – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rotschnabelente" title="Rotschnabelente – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Naal%CA%BCee%C5%82%C3%AD_bidaa%CA%BC_%C5%82ich%C3%AD%CA%BC%C3%ADg%C3%AD%C3%AD" title="Naalʼeełí bidaaʼ łichíʼígíí – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ru%C4%9Dbeka_kreko" title="Ruĝbeka kreko – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%AA%DA%A9%D8%A7%DB%8C_%D9%86%D9%88%DA%A9%E2%80%8C%D8%B3%D8%B1%D8%AE" title="خوتکای نوک‌سرخ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Canard_%C3%A0_bec_rouge" title="Canard à bec rouge – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%A9%D7%99%D7%A8_%D7%90%D7%93%D7%95%D7%9D-%D7%9E%D7%A7%D7%95%D7%A8" title="שרשיר אדום-מקור – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Piroscs%C5%91r%C5%B1_r%C3%A9ce" title="Piroscsőrű réce – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Roodbekpijlstaart" title="Roodbekpijlstaart – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AB%E3%83%8F%E3%82%B7%E3%82%AA%E3%83%8A%E3%82%AC%E3%82%AC%E3%83%A2" title="アカハシオナガガモ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Roodsnavelpielsteert" title="Roodsnavelpielsteert – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%B0%D1%8F_%D1%88%D0%B8%D0%BB%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82%D1%8C" title="Красноклювая шилохвость – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Punanokkasorsa" title="Punanokkasorsa – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/R%C3%B6dn%C3%A4bbad_and" title="Rödnäbbad and – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Anas_erythrorhyncha" title="Anas erythrorhyncha – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q387404#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
 </div>
 
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 10 June 2012 at 07:30.<br /></li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
-Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Red-billed_Teal&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
-}</script>
-<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by srv277 in 0.133 secs. -->
-	</body>
-</html>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 30 October 2020, at 18:59<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Red-billed_teal&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.808","walltime":"1.093","ppvisitednodes":{"value":6326,"limit":1000000},"postexpandincludesize":{"value":28371,"limit":2097152},"templateargumentsize":{"value":5434,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7493,"limit":5000000},"entityaccesscount":{"value":17,"limit":400},"timingprofile":["100.00% 1036.698      1 -total"," 42.50%  440.603      1 Template:Speciesbox"," 41.54%  430.626      1 Template:Taxobox/core"," 25.77%  267.175      1 Template:Taxonbar"," 12.12%  125.670      1 Template:Reflist"," 11.23%  116.432      1 Template:Cite_iucn","  7.16%   74.188      1 Template:Short_description","  5.82%   60.328      2 Template:ISBN","  4.13%   42.866      1 Template:Convert","  4.10%   42.454     22 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.578","limit":"10.000"},"limitreport-memusage":{"value":8579932,"limit":52428800}},"cachereport":{"origin":"mw1376","timestamp":"20201030185922","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Red-billed teal","url":"https:\/\/en.wikipedia.org\/wiki\/Red-billed_teal","sameAs":"http:\/\/www.wikidata.org\/entity\/Q387404","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q387404","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-12-04T16:11:14Z","dateModified":"2020-10-30T18:59:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/16\/Red-billed_Pintail_%28Anas_erythrorhyncha%29_RWD1.jpg","headline":"species of bird"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":199,"wgHostname":"mw1267"});});</script>
+</body></html>

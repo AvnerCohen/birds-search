@@ -1,467 +1,575 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Lesser Sand Plover - Wikipedia, the free encyclopedia</title>
-<meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf2" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lesser_Sand_Plover&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Lesser_Sand_Plover&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+<meta charset="UTF-8"/>
+<title>Lesser sand plover - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5d635dfa-7d22-4e4f-93b9-ffbfa2d2ec5e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lesser_sand_plover","wgTitle":"Lesser sand plover","wgCurRevisionId":943611427,"wgRevisionId":943611427,"wgArticleId":371039,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use dmy dates from March 2018","Articles with 'species' microformats","Commons category link is on Wikidata","Taxonbars with 20–24 taxon IDs","Articles containing video clips","IUCN Red List least concern species",
+"Charadrius","Birds of Asia","Birds of East Africa","Birds described in 1776"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Lesser_sand_plover","wgRelevantArticleId":371039,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Lesser_Sand_Plover","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Lesser_sand_plover","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q305255"};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Charadrius_mongolus_-_Laem_Phak_Bia.jpg/1200px-Charadrius_mongolus_-_Laem_Phak_Bia.jpg"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Lesser_sand_plover"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lesser_sand_plover&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lesser_sand_plover&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lesser_sand_plover"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lesser_sand_plover rootpage-Lesser_sand_plover skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Lesser sand plover</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Lesser_Sand_Plover&amp;redirect=no" class="mw-redirect" title="Lesser Sand Plover">Lesser Sand Plover</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Species of bird</div>
+<p class="mw-empty-elt">
 
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lesser_Sand_Plover","wgTitle":"Lesser Sand Plover","wgCurRevisionId":515499672,"wgArticleId":371039,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Charadrius","Birds of South Australia","Birds of Western Australia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lesser_Sand_Plover","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"8796dc1ba32591eca698ca748974dad6","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":371039,"title":"Lesser Sand Plover","namespace":0,"categories":["Articles with \'species\' microformats","Birds of South Australia","Birds of Western Australia","Charadrius","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,
-"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:bbbf9f62c8dbbff267c6e2aa9e3bd03a */
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
-}</script>
-<script src="//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/OggPlayer.js?12"></script><script>
-wgOggPlayer.msg = {"ogg-play":"Play","ogg-pause":"Pause","ogg-stop":"Stop","ogg-no-player":"Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.","ogg-player-videoElement":"Native browser support","ogg-player-oggPlugin":"Browser plugin","ogg-player-cortado":"Cortado (Java)","ogg-player-vlc-mozilla":"VLC","ogg-player-vlc-activex":"VLC (ActiveX)","ogg-player-quicktime-mozilla":"QuickTime","ogg-player-quicktime-activex":"QuickTime (ActiveX)","ogg-player-totem":"Totem","ogg-player-kaffeine":"Kaffeine","ogg-player-kmplayer":"KMPlayer","ogg-player-mplayerplug-in":"mplayerplug-in","ogg-player-thumbnail":"Still image only","ogg-player-selected":"(selected)","ogg-use-player":"Use player:","ogg-more":"More…","ogg-download":"Download file","ogg-desc-link":"About this file","ogg-dismiss":"Close","ogg-player-soundthumb":"No player","ogg-no-xiphqt":"You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
-wgOggPlayer.cortadoUrl = "http://bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler/cortado-ovt-stripped-0.6.0.jar";
-wgOggPlayer.extPathUrl = "//bits.wikimedia.org/static-1.21wmf2/extensions/OggHandler";
-</script><style>
-.ogg-player-options {
-	border: solid 1px #ccc;
-	padding: 2pt;
-	text-align: left;
-	font-size: 10pt;
-}
-
-.center .ogg-player-options ul {
-	margin: 0.3em 0px 0px 1.5em;
-}
-</style><script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lesser_Sand_Plover skin-vector action-view vector-animateLayout">
-		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content" class="mw-body">
-			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Lesser Sand Plover</span></h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- tagline -->
-				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-				<!-- /tagline -->
-								<!-- subtitle -->
-				<div id="contentSub"></div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+</p>
 <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Lesser sand plover
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Lesser Sand Plover</th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Charadrius_mongolus_-_Laem_Phak_Bia.jpg" class="image"><img alt="Charadrius mongolus - Laem Phak Bia.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Charadrius_mongolus_-_Laem_Phak_Bia.jpg/220px-Charadrius_mongolus_-_Laem_Phak_Bia.jpg" decoding="async" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Charadrius_mongolus_-_Laem_Phak_Bia.jpg/330px-Charadrius_mongolus_-_Laem_Phak_Bia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Charadrius_mongolus_-_Laem_Phak_Bia.jpg/440px-Charadrius_mongolus_-_Laem_Phak_Bia.jpg 2x" data-file-width="3803" data-file-height="2536" /></a>
+</td></tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Charadrius_mongolus_-_Laem_Phak_Bia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Charadrius_mongolus_-_Laem_Phak_Bia.jpg/220px-Charadrius_mongolus_-_Laem_Phak_Bia.jpg" width="220" height="147" /></a></td>
-</tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Laem Phak Bia, Ban Laem, Phetchaburi, Thailand
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
 <tr>
-<td colspan="2" style="text-align: center; font-size: 88%">Laem Phak Bia, Ban Laem, Phetchaburi, Thailand</td>
-</tr>
-<tr style="text-align: center; background-color: rgb(211,211,164)">
-<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
-</tr>
+<td colspan="2"><div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" data-file-width="240" data-file-height="64" /><br /><a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
 <tr>
-<td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
-<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Charadrius" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Domain:
 </td>
-</tr>
+<td><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryota</a>
+</td></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
-</tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
 <tr>
-<td>Kingdom:</td>
-<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
-</tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
 <tr>
-<td>Phylum:</td>
-<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
-</tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Bird" title="Bird">Aves</a>
+</td></tr>
 <tr>
-<td>Class:</td>
-<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
-</tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a>
+</td></tr>
 <tr>
-<td>Order:</td>
-<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Charadriiformes" title="Charadriiformes">Charadriiformes</a></span></td>
-</tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Charadriidae" title="Charadriidae">Charadriidae</a>
+</td></tr>
 <tr>
-<td>Family:</td>
-<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Charadriidae" title="Charadriidae">Charadriidae</a></span></td>
-</tr>
+<td>Genus:
+</td>
+<td><a href="/wiki/Charadrius" title="Charadrius"><i>Charadrius</i></a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<td>Genus:</td>
-<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Charadrius" title="Charadrius">Charadrius</a></i></span></td>
-</tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>C.&#160;mongolus</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
 <tr>
-<td>Species:</td>
-<td><span class="species" style="white-space:nowrap;"><i><b>C. mongolus</b></i></span></td>
-</tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
-</tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Charadrius mongolus</i></span></b><br /><div style="font-size: 85%;"><a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1776</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Charadrius mongolus</i></span></b><br />
-<small><a href="/wiki/Peter_Simon_Pallas" title="Peter Simon Pallas">Pallas</a>, 1776</small></td>
-</tr>
-<tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Subspecies" title="Subspecies">Subspecies</a></th>
-</tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Subspecies
+</th></tr>
 <tr>
 <td colspan="2" style="text-align: left">
-<ul>
-<li><i>C. m. mongolus</i></li>
+<ul><li><i>C. m. mongolus</i></li>
 <li><i>C. m. atrifrons</i></li>
 <li><i>C. m. pamirensis</i></li>
 <li><i>C. m. stegmanni</i></li>
-<li><i>C. m. schaeferi</i></li>
-</ul>
-</td>
-</tr>
-</table>
-</div>
-<div class="thumb tright">
-<div class="thumbinner" style="width:252px;">
-<div id="ogg_player_1">
-<div><a href="/wiki/File:Mongolian_Plover95.ogg" class="image" title="Mongolian Plover95.ogg"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mongolian_Plover95.ogg/mid-Mongolian_Plover95.ogg.jpg" width="250" height="188" alt="" /></a></div>
-<div><button onclick="if (typeof(wgOggPlayer)&#160;!= 'undefined') wgOggPlayer.init(false, {&quot;id&quot;:&quot;ogg_player_1&quot;,&quot;videoUrl&quot;:&quot;//upload.wikimedia.org/wikipedia/commons/f/f3/Mongolian_Plover95.ogg&quot;,&quot;width&quot;:250,&quot;height&quot;:188,&quot;length&quot;:48.6,&quot;linkUrl&quot;:&quot;/wiki/File:Mongolian_Plover95.ogg&quot;,&quot;isVideo&quot;:true});" style="width: 250px; text-align: center" title="Play video"><img src="//bits.wikimedia.org/static-1.21wmf1/extensions/OggHandler/play.png" width="22" height="22" alt="Play video" /></button></div>
-</div>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Mongolian_Plover95.ogg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-Scarborough, SE Queensland, Australia</div>
-</div>
-</div>
-<p>The <b>Lesser Sand Plover</b> (<i>Charadrius mongolus</i>) is a small <a href="/wiki/Wader" title="Wader">wader</a> in the <a href="/wiki/Plover" title="Plover">plover</a> family of <a href="/wiki/Bird" title="Bird">birds</a>. The spelling is commonly given as Lesser Sandplover, but the official <a href="/wiki/British_Ornithologists%27_Union" title="British Ornithologists' Union">British Ornithologists' Union</a> spelling is Lesser Sand Plover.</p>
-<p>There are five races, and the large east Asian forms, <i>C. m. mongolus</i> and <i>C. m. stegmanni</i>, are sometimes<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> given specific status as <b>Mongolian Plover</b>, <i>Charadrius mongolus</i>. If the taxonomic split is accepted, Lesser Sandplover as then defined becomes <i>Charadrius atrifrons</i>, including the three races <i>atrifrons, pamirensis</i> and <i>schaeferi</i>.</p>
-<p>It breeds above the tree line in the <a href="/wiki/Himalayas" title="Himalayas">Himalayas</a> and discontinuously across to bare coastal plains in north-eastern <a href="/wiki/Siberia" title="Siberia">Siberia</a>, with the Mongolian Plover in the eastern part of the range; it has also bred in <a href="/wiki/Alaska" title="Alaska">Alaska</a>. It nests in a <a href="/wiki/Bird_nest#Scrape" title="Bird nest">bare ground scrape</a>, laying three <a href="/wiki/Bird_egg" title="Bird egg">eggs</a>. This species is strongly <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, wintering on sandy beaches in east <a href="/wiki/Africa" title="Africa">Africa</a>, south Asia and <a href="/wiki/Australasia" title="Australasia">Australasia</a>. It is a very rare vagrant in western <a href="/wiki/Europe" title="Europe">Europe</a>, but, surprisingly, of the three individuals recorded in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> up to 2003, one was a Mongolian Plover.</p>
-<div class="thumb tleft">
-<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg/220px-Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg" width="220" height="109" class="thumbimage" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-Lesser Sand Plovers with Sanderlings in <a href="/wiki/Chilika" title="Chilika" class="mw-redirect">Chilika</a>, <a href="/wiki/Orissa" title="Orissa">Orissa</a>, <a href="/wiki/India" title="India">India</a>.</div>
-</div>
-</div>
-<p>This chunky plover is long-legged and long-billed. Breeding males have grey backs and white underparts. The breast, forehead and nape are chestnut, and there is a black eye mask. The <a href="/wiki/Sexual_dimorphism" title="Sexual dimorphism">female is duller</a>, and winter and juvenile birds lack the chestnut, apart from a hint of <a href="/wiki/Rufous" title="Rufous">rufous</a> on the head. Legs are dark and the <a href="/wiki/Beak" title="Beak">bill</a> black.</p>
-<p>In all <a href="/wiki/Plumage" title="Plumage">plumages</a>, this species is very similar to <a href="/wiki/Greater_Sand_Plover" title="Greater Sand Plover">Greater Sand Plover</a>, <i>Charadrius leschenaultii</i>. Separating the species may be straightforward in mixed wintering flocks on an <a href="/wiki/India" title="India">Indian</a> beach, where the difference in size and structure is obvious; it is another thing altogether to identify a lone vagrant to western Europe, where both species are very rare. The problem is compounded in that the <a href="/wiki/Middle_East" title="Middle East">Middle Eastern</a> race of Greater Sandplover is the most similar to Lesser. Lesser usually has darker legs, a white forehead, and a more even white wing bar than greater.</p>
-<p>The Lesser Sand Plover's food is <a href="/wiki/Insect" title="Insect">insects</a>, <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a> and <a href="/wiki/Annelid" title="Annelid">annelid</a> worms, which are obtained by a run-and-pause technique, rather than the steady probing of some other wader groups. This species takes fewer steps and shorter pauses than the Greater Sand Plover when feeding.</p>
-<p>The flight call is a hard trill.</p>
-<p>The Lesser Sand Plover is one of the species to which the <i>Agreement on the Conservation of African-Eurasian Migratory Waterbirds</i> (<a href="/wiki/AEWA" title="AEWA" class="mw-redirect">AEWA</a>) applies.</p>
-<table id="toc" class="toc">
-<tr>
-<td>
-<div id="toctitle">
-<h2>Contents</h2>
-</div>
+<li><i>C. m. schaeferi</i></li></ul>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><div id="mwe_player_0" class="PopUpMediaTransform" style="width:250px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:384px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mongolian_Plover95.ogv/384px--Mongolian_Plover95.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:384px;height:288px&quot; class=&quot;kskin&quot; data-durationhint=&quot;48.6&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Mongolian_Plover95.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/2/2c/Mongolian_Plover95.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Original Ogg file, 384 × 288 (530 kbps)&quot; data-shorttitle=&quot;Ogg source&quot; data-width=&quot;384&quot; data-height=&quot;288&quot; data-bandwidth=&quot;530339&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Mongolian_Plover95.ogv/Mongolian_Plover95.ogv.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;160&quot; data-height=&quot;120&quot; data-bandwidth=&quot;132800&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Mongolian_Plover95.ogv/Mongolian_Plover95.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;214&quot; data-height=&quot;160&quot; data-bandwidth=&quot;216096&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Mongolian_Plover95.ogv/Mongolian_Plover95.ogv.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;240&quot; data-height=&quot;180&quot; data-bandwidth=&quot;162288&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Mongolian_Plover95.ogv/Mongolian_Plover95.ogv.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Small VP9 (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;180944&quot; data-framerate=&quot;25&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Mongolian_Plover95.ogv/Mongolian_Plover95.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;326696&quot; data-framerate=&quot;25&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:Mongolian Plover95.ogv" style="width:250px;height:188px" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mongolian_Plover95.ogv/250px--Mongolian_Plover95.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/2/2c/Mongolian_Plover95.ogv" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Mongolian_Plover95.ogv" class="internal" title="Enlarge"></a></div>Scarborough, SE Queensland, Australia</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Charadrius_mongolus_-_Laem_Pak_Bia.jpg" class="image"><img alt="Charadrius mongolus - Laem Pak Bia.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Charadrius_mongolus_-_Laem_Pak_Bia.jpg/250px-Charadrius_mongolus_-_Laem_Pak_Bia.jpg" decoding="async" width="250" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Charadrius_mongolus_-_Laem_Pak_Bia.jpg/375px-Charadrius_mongolus_-_Laem_Pak_Bia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Charadrius_mongolus_-_Laem_Pak_Bia.jpg/500px-Charadrius_mongolus_-_Laem_Pak_Bia.jpg 2x" data-file-width="3438" data-file-height="2292" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Charadrius_mongolus_-_Laem_Pak_Bia.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg/220px-Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg" decoding="async" width="220" height="109" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg/330px-Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg/440px-Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg 2x" data-file-width="1000" data-file-height="497" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lesser_Sand_Plovers_with_Sanderling_I2_IMG_9382.jpg" class="internal" title="Enlarge"></a></div>Lesser sand plovers with sanderlings in <a href="/wiki/Chilika" class="mw-redirect" title="Chilika">Chilika</a>, <a href="/wiki/Odisha" title="Odisha">Odisha</a>, India</div></div></div>
+<p>The <b>lesser sand plover</b> (<i>Charadrius mongolus</i>) is a small <a href="/wiki/Wader" title="Wader">wader</a> in the <a href="/wiki/Plover" title="Plover">plover</a> family of <a href="/wiki/Bird" title="Bird">birds</a>. The spelling is commonly given as lesser sand-plover, but the official <a href="/wiki/British_Ornithologists%27_Union" title="British Ornithologists&#39; Union">British Ornithologists' Union</a> spelling is "lesser sand plover". The genus name <i>Charadrius</i> is a <a href="/wiki/Late_Latin" title="Late Latin">Late Latin</a> word for a yellowish bird mentioned in the fourth-century <a href="/wiki/Vulgate" title="Vulgate">Vulgate</a>. It derives from <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> <i>kharadrios</i> a bird found in ravines and river valleys (<i>kharadra</i>, "ravine"). The specific <i>mongolus</i> is  <a href="/wiki/Latin" title="Latin">Latin</a> and refers to <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a> which at the time of naming referred to a larger area than the present country.<sup id="cite_ref-job_2-0" class="reference"><a href="#cite_note-job-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#References"><span class="tocnumber">1</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Bibliography"><span class="tocnumber">2</span> <span class="toctext">Bibliography</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Identification"><span class="tocnumber">3</span> <span class="toctext">Identification</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution"><span class="tocnumber">2</span> <span class="toctext">Distribution</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Description"><span class="tocnumber">3</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ecology"><span class="tocnumber">4</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Identification"><span class="tocnumber">5</span> <span class="toctext">Identification</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
 </ul>
-</td>
-</tr>
-</table>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Sand_Plover&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+</div>
+
+<h2><span class="mw-headline" id="Taxonomy">Taxonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are five races, and the large east Asian forms, <i>C. m. mongolus</i> and <i>C. m. stegmanni</i>, are sometimes given specific status as <b>Mongolian plovers</b>, <i>Charadrius mongolus</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> If the taxonomic split is accepted, lesser sand plover as then defined becomes <i>Charadrius atrifrons</i>, including the three races <i>atrifrons, pamirensis</i> and <i>schaeferi</i>.
+</p>
+<h2><span class="mw-headline" id="Distribution">Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit&amp;section=2" title="Edit section: Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It breeds above the tree line in the <a href="/wiki/Himalayas" title="Himalayas">Himalayas</a> and discontinuously across to bare coastal plains in north-eastern <a href="/wiki/Siberia" title="Siberia">Siberia</a>, with the Mongolian plover in the eastern part of the range; it has also bred in Alaska. It nests in a <a href="/wiki/Bird_nest#Scrape" title="Bird nest">bare ground scrape</a>, laying three <a href="/wiki/Bird_egg" title="Bird egg">eggs</a>. This species is strongly <a href="/wiki/Bird_migration" title="Bird migration">migratory</a>, wintering on sandy beaches in east Africa, south Asia and Australasia. It is a very rare vagrant in western Europe, but of the three individuals recorded in Great Britain up to 2003, one was a Mongolian plover.
+</p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit&amp;section=3" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This chunky plover is long-legged and long-billed. Breeding males have grey backs and white underparts. The breast, forehead and nape are chestnut, and there is a black eye mask. The <a href="/wiki/Sexual_dimorphism" title="Sexual dimorphism">female is duller</a>, and winter and juvenile birds lack the chestnut, apart from a hint of <a href="/wiki/Rufous" title="Rufous">rufous</a> on the head. Legs are dark and the <a href="/wiki/Beak" title="Beak">bill</a> black.
+</p><p>In all <a href="/wiki/Plumage" title="Plumage">plumages</a>, this species is very similar to the <a href="/wiki/Greater_sand_plover" title="Greater sand plover">greater sand plover</a>, <i>Charadrius leschenaultii</i>. Separating the species may be straightforward in mixed wintering flocks on an Indian beach, where the difference in size and structure is obvious; it is more difficult to identify a lone vagrant to western Europe, where both species are very rare. The problem is compounded in that the Middle Eastern race of greater sand plover is the most similar to the lesser. The lesser usually has darker legs, a white forehead, and a more even white wing bar than the greater.
+</p>
+<h2><span class="mw-headline" id="Ecology">Ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit&amp;section=4" title="Edit section: Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The lesser sand plover's feeds on <a href="/wiki/Insect" title="Insect">insects</a>, <a href="/wiki/Crustacean" title="Crustacean">crustaceans</a> and <a href="/wiki/Annelid" title="Annelid">annelid</a> worms, which are obtained by a run-and-pause technique, rather than the steady probing of some other wader groups. This species takes fewer steps and shorter pauses than the greater sand plover when feeding.
+</p><p>The flight call is a hard trill.
+</p><p>The lesser sand plover is one of the species to which the <a href="/wiki/Agreement_on_the_Conservation_of_African-Eurasian_Migratory_Waterbirds" title="Agreement on the Conservation of African-Eurasian Migratory Waterbirds">Agreement on the Conservation of African-Eurasian Migratory Waterbirds</a> (AEWA) applies.
+</p>
+<h2><span class="mw-headline" id="Identification">Identification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit&amp;section=5" title="Edit section: Identification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Size is one of the factors distinguishing a lesser sand plover from a <a href="/wiki/Greater_sand_plover" title="Greater sand plover">greater sand plover</a>, with the lesser being slightly smaller. However, it is not easy to rely on size alone especially when seen individually. The length of the bill is another distinguishing feature, with the lesser generally having a shorter bill compared to a greater. The colour of the legs in a lesser sand plover is generally darker, ranging from black to grey, while in a greater sand plover it is much paler, ranging from grey to yellowish.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106003138">"<i>Charadrius mongolus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106003138">http://www.iucnredlist.org/apps/redlist/details/106003138</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Charadrius+mongolus%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106003138&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Sand_Plover"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">e.g. by Garner, Lewington &amp; Slack (2003)</span></li>
-</ol>
-</div>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Sand_Plover&amp;action=edit&amp;section=2" title="Edit section: Bibliography">edit</a>]</span> <span class="mw-headline" id="Bibliography">Bibliography</span></h2>
-<p><i>Shorebirds</i> by Hayman, Marchant and Prater <a href="/wiki/Special:BookSources/0709920342" class="internal mw-magiclink-isbn">ISBN 0-7099-2034-2</a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Sand_Plover&amp;action=edit&amp;section=3" title="Edit section: Identification">edit</a>]</span> <span class="mw-headline" id="Identification">Identification</span></h2>
-<p><b>Differences from Greater Sand Plover</b></p>
-<p>Size is one of the factors distinguishing a Lesser Sand Plover from a Greater of the species with the Lesser Sand Plover being slightly smaller. Having said that, it is not easy to rely on size alone especially when seen individually. The length of the bill is another distinguishing feature with the Lesser Sand Plover generally having a shorter bill compared to a Greater Sand Plover. The colour of the legs in a Lesser Sand Plover is generally darker ranging from black to grey while it is much paler ranging from grey to yellowish for Greater Sand Plovers.</p>
-<p>Garner, Martin, Ian Lewington and Russell Slack (2003) Mongolian and Lesser Sand Plovers: an identification overview <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> 16(9): 377-85</p>
-<p>Identification Guide: Lesser and Greater Sand Plovers&#160;: <a rel="nofollow" class="external free" href="http://www.sunbittern.com/id-sandplovers.html">http://www.sunbittern.com/id-sandplovers.html</a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Sand_Plover&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a>]</span> <span class="mw-headline" id="Further_reading">Further reading</span></h2>
-<ul>
-<li>Taylor, P.B. (1987) Field identification of Greater and Lesser Sandplovers, pp.&#160;15–20 in <i>International Bird Identification: Proceeedings of the 4th International Identification Meeting, Eilat, 1st - 8th November 1986</i> International Birdwatching Centre Eilat</li>
-</ul>
-<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
-<tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
-<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Charadrius_mongolus" class="extiw" title="commons:Category:Charadrius mongolus">Charadrius mongolus</a></b></i></td>
-</tr>
-</table>
-<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
-<tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" /></td>
-<td class="mbox-text plainlist" style=""><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Charadrius_mongolus" class="extiw" title="wikispecies:Charadrius mongolus">Charadrius mongolus</a></b></i></td>
-</tr>
-</table>
-
-
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFBirdLife_International2012" class="citation journal cs1"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="https://www.iucnredlist.org/species/22693855/38773045">"<i>Charadrius mongolus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species</a></i>. <b>2012</b>: e.T22693855A38773045. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.2305%2FIUCN.UK.2012-1.RLTS.T22693855A38773045.en">10.2305/IUCN.UK.2012-1.RLTS.T22693855A38773045.en</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Charadrius+mongolus&amp;rft.volume=2012&amp;rft.pages=e.T22693855A38773045&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.2305%2FIUCN.UK.2012-1.RLTS.T22693855A38773045.en&amp;rft.au=BirdLife+International&amp;rft_id=https%3A%2F%2Fwww.iucnredlist.org%2Fspecies%2F22693855%2F38773045&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+sand+plover" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-job-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-job_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFJobling2010" class="citation book cs1">Jobling, James A (2010). <a rel="nofollow" class="external text" href="https://archive.org/details/Helm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling"><i>The Helm Dictionary of Scientific Bird Names</i></a>. London: Christopher Helm. pp.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/Helm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling/page/n99">99</a>, 259. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-2501-4" title="Special:BookSources/978-1-4081-2501-4"><bdi>978-1-4081-2501-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Helm+Dictionary+of+Scientific+Bird+Names&amp;rft.place=London&amp;rft.pages=99%2C+259&amp;rft.pub=Christopher+Helm&amp;rft.date=2010&amp;rft.isbn=978-1-4081-2501-4&amp;rft.aulast=Jobling&amp;rft.aufirst=James+A&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2FHelm_Dictionary_of_Scientific_Bird_Names_by_James_A._Jobling&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+sand+plover" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">e.g. in Garner, Martin, Ian Lewington and Russell Slack (2003) "Mongolian and Lesser Sand Plovers: an identification overview" <i><a href="/wiki/Birding_World" title="Birding World">Birding World</a></i> 16(9): 377-85</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Taylor, P.B. (1987) Field identification of Greater and Lesser Sandplovers, pp.&#160;15–20 in <i>International Bird Identification: Proceedings of the 4th International Identification Meeting, Eilat, 1st - 8th November 1986</i> International Birdwatching Centre Eilat</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Charadrius_mongolus" class="extiw" title="commons:Category:Charadrius mongolus"><span style="">Charadrius mongolus</span></a> at Wikimedia Commons</li>
+<li><a href="/wiki/File:Wikispecies-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" decoding="async" width="14" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/27px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a> Data related to <a href="https://species.wikimedia.org/wiki/Charadrius_mongolus" class="extiw" title="wikispecies:Charadrius mongolus">Charadrius mongolus</a> at Wikispecies</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q305255" class="extiw" title="wikidata:Q305255">Q305255</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Charadrius_mongolus" class="extiw" title="wikispecies:Charadrius mongolus">Charadrius mongolus</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/American_Birding_Association" title="American Birding Association">ABA</a>: <span class="uid">lesapl</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/ARKive" title="ARKive">ARKive</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://web.archive.org/web/*/www.arkive.org/wd/charadrius-mongolus/">charadrius-mongolus</a></span></span></li>
+<li><span style="white-space:nowrap;">Avibase: <span class="uid"><a rel="nofollow" class="external text" href="https://avibase.bsc-eoc.org/species.jsp?avibaseid=8A4C4629887B0FE7">8A4C4629887B0FE7</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://datazone.birdlife.org/species/factsheet/22693855">22693855</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/British_Trust_for_Ornithology" title="British Trust for Ornithology">BTO</a>: <span class="uid">KENPL</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Convention_on_the_Conservation_of_Migratory_Species_of_Wild_Animals" title="Convention on the Conservation of Migratory Species of Wild Animals">CMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.cms.int/en/species/charadrius-mongolus">charadrius-mongolus</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EBird" title="EBird">eBird</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ebird.org/species/lesplo">lesplo</a></span></span></li>
+<li><span style="white-space:nowrap;">Euring: <span class="uid">4780</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:faunaeur.org:taxname:96876">96876</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea (new)</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://fauna-eu.org/cdm_dataportal/taxon/b8fe67f7-04a0-4dc2-9aa5-c4bb09282dec">b8fe67f7-04a0-4dc2-9aa5-c4bb09282dec</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=371340">371340</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2480298">2480298</a></span></span></li>
+<li><span style="white-space:nowrap;">GNAB: <span class="uid"><a rel="nofollow" class="external text" href="https://www.audubon.org/field-guide/bird/lesser-sand-plover">lesser-sand-plover</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/4785">4785</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=11288757">11288757</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=176514">176514</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/22693855">22693855</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NHMSYS0000530274">NHMSYS0000530274</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=171267">171267</a></span></span></li>
+<li><span style="white-space:nowrap;">NZBO: <span class="uid"><a rel="nofollow" class="external text" href="http://nzbirdsonline.org.nz/species/lesser-sand-plover">lesser-sand-plover</a></span></span></li>
+<li><span style="white-space:nowrap;">NZOR: <span class="uid"><a rel="nofollow" class="external text" href="http://www.nzor.org.nz/names/8b3f11f1-e5ed-4c92-8aef-0f3eb128081f">8b3f11f1-e5ed-4c92-8aef-0f3eb128081f</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/World_Register_of_Marine_Species" title="World Register of Marine Species">WoRMS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=212614">212614</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 3782/1000000
-Preprocessor generated node count: 32223/1500000
-Post-expand include size: 25140/2048000 bytes
-Template argument size: 5461/2048000 bytes
-Highest expansion depth: 17/40
-Expensive parser function count: 0/500
+Parsed by mw1405
+Cached time: 20201030045958
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.648 seconds
+Real time usage: 0.923 seconds
+Preprocessor visited node count: 5444/1000000
+Post‐expand include size: 31771/2097152 bytes
+Template argument size: 5356/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 23/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7363/5000000 bytes
+Lua time usage: 0.436/10.000 seconds
+Lua memory usage: 8.08 MB/50 MB
+Number of Wikibase entities loaded: 23/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  842.725      1 -total
+ 41.86%  352.735      1 Template:Speciesbox
+ 39.68%  334.418      1 Template:Taxobox/core
+ 29.33%  247.145      1 Template:Taxonbar
+ 13.03%  109.791      1 Template:Reflist
+  9.87%   83.195      1 Template:Cite_iucn
+  7.68%   64.685      1 Template:Short_description
+  4.37%   36.819      1 Template:Pagetype
+  4.08%   34.424      1 Template:Commons_category-inline
+  3.74%   31.483      2 Template:Sister-inline
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:371039-0!*!0!!en!4!* and timestamp 20121018114844 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Lesser_Sand_Plover&amp;oldid=515499672">http://en.wikipedia.org/w/index.php?title=Lesser_Sand_Plover&amp;oldid=515499672</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Charadrius" title="Category:Charadrius">Charadrius</a></li><li><a href="/wiki/Category:Birds_of_South_Australia" title="Category:Birds of South Australia">Birds of South Australia</a></li><li><a href="/wiki/Category:Birds_of_Western_Australia" title="Category:Birds of Western Australia">Birds of Western Australia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:371039-0!canonical and timestamp 20201030045957 and revision id 943611427
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lesser_sand_plover&amp;oldid=943611427">https://en.wikipedia.org/w/index.php?title=Lesser_sand_plover&amp;oldid=943611427</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Charadrius" title="Category:Charadrius">Charadrius</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_East_Africa" title="Category:Birds of East Africa">Birds of East Africa</a></li><li><a href="/wiki/Category:Birds_described_in_1776" title="Category:Birds described in 1776">Birds described in 1776</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">Use dmy dates from March 2018</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Taxonbars_with_20%E2%80%9324_taxon_IDs" title="Category:Taxonbars with 20–24 taxon IDs">Taxonbars with 20–24 taxon IDs</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lesser+sand+plover" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lesser+sand+plover" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Lesser_sand_plover" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Lesser_sand_plover" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lesser+Sand+Plover&amp;type=signup">Create account</a></li>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lesser+Sand+Plover" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Lesser_Sand_Plover"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:Lesser_Sand_Plover"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-	<h4>
-		</h4>
-	<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Lesser_sand_plover">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Lesser_sand_plover&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Lesser_sand_plover&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Lesser_Sand_Plover" >Read</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Lesser_Sand_Plover&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lesser_Sand_Plover&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
 	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
 
-<!-- /2 -->
-			</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
 	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
 	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lesser_Sand_Plover" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lesser_Sand_Plover" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Lesser_Sand_Plover&amp;oldid=515499672" title="Permanent link to this revision of the page">Permanent link</a></li>
-			<li><a href="/w/index.php?title=Lesser_Sand_Plover&amp;action=info">Page information</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Lesser_Sand_Plover&amp;id=515499672" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /TOOLBOX -->
-
-<!-- coll-print_export -->
-<div class="portal" id='p-coll-print_export'>
-	<h5>Print/export</h5>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lesser+Sand+Plover" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Lesser+Sand+Plover&amp;oldid=515499672&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lesser_Sand_Plover&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- LANGUAGES -->
-<div class="portal" id='p-lang'>
-	<h5>Languages</h5>
-	<div class="body">
-		<ul>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%82%D8%B7%D9%82%D8%A7%D8%B7_%D8%A7%D9%84%D8%B1%D9%85%D9%84_%D8%B5%D8%BA%D9%8A%D8%B1" title="قطقاط الرمل صغير" lang="ar" hreflang="ar">العربية</a></li>
-			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Nouelig-Azia" title="Nouelig-Azia" lang="br" hreflang="br">Brezhoneg</a></li>
-			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Corriol_mongol" title="Corriol mongol" lang="ca" hreflang="ca">Català</a></li>
-			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Mongolsk_pr%C3%A6stekrave" title="Mongolsk præstekrave" lang="da" hreflang="da">Dansk</a></li>
-			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Mongolenregenpfeifer" title="Mongolenregenpfeifer" lang="de" hreflang="de">Deutsch</a></li>
-			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Charadrius_mongolus" title="Charadrius mongolus" lang="es" hreflang="es">Español</a></li>
-			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Mongola_pluvio" title="Mongola pluvio" lang="eo" hreflang="eo">Esperanto</a></li>
-			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Charadrius_mongolus" title="Charadrius mongolus" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pluvier_de_Mongolie" title="Pluvier de Mongolie" lang="fr" hreflang="fr">Français</a></li>
-			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Charadrius_mongolus" title="Charadrius mongolus" lang="it" hreflang="it">Italiano</a></li>
-			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Tibeti_lile" title="Tibeti lile" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Burung_Rapang_Mognolia" title="Burung Rapang Mognolia" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
-			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%92%E1%80%AE%E1%80%9C%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%81%E1%80%B1%E1%80%AB%E1%80%84%E1%80%BA%E1%80%B8%E1%80%84%E1%80%BE%E1%80%80%E1%80%BA" title="ဒီလုံးခေါင်းငှက်" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A1%E3%83%80%E3%82%A4%E3%83%81%E3%83%89%E3%83%AA" title="メダイチドリ" lang="ja" hreflang="ja">日本語</a></li>
-			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Mongollo" title="Mongollo" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
-			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%86%DA%A9%D8%A7_%D8%B1%DB%8C%D8%AA_%D8%AF%D8%A7_%D9%BE%D9%84%D9%88%D9%88%D8%B1" title="نکا ریت دا پلوور" lang="pnb" hreflang="pnb">پنجابی</a></li>
-			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Sieweczka_mongolska" title="Sieweczka mongolska" lang="pl" hreflang="pl">Polski</a></li>
-			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Borrelho-mongol" title="Borrelho-mongol" lang="pt" hreflang="pt">Português</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D1%83%D1%91%D0%BA" title="Монгольский зуёк" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Yl%C3%A4nk%C3%B6tylli" title="Ylänkötylli" lang="fi" hreflang="fi">Suomi</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Mongolpipare" title="Mongolpipare" lang="sv" hreflang="sv">Svenska</a></li>
-			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Mo%C4%9Fol_c%C4%B1l%C4%B1b%C4%B1t%C4%B1" title="Moğol cılıbıtı" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E6%B2%99%E9%B8%BB" title="蒙古沙鸻" lang="zh" hreflang="zh">中文</a></li>
-		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
 	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lesser_sand_plover" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lesser_sand_plover" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lesser_sand_plover&amp;oldid=943611427" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lesser_sand_plover&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lesser_sand_plover&amp;id=943611427&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q305255" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Lesser_sand_plover&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lesser_sand_plover&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Charadrius_mongolus" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Charadrius_mongolus" hreflang="en">Wikispecies</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Mongoolse_strandkiewiet" title="Mongoolse strandkiewiet – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D9%82%D8%A7%D8%B7_%D8%A7%D9%84%D8%B1%D9%85%D9%84_%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1" title="قطقاط الرمل الصغير – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%97%D1%83%D1%91%D0%BA_%D0%BC%D0%B0%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D1%96" title="Зуёк мангольскі – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B2%E0%A5%87%E0%A4%B8%E0%A4%B0_%E0%A4%B8%E0%A5%88%E0%A4%82%E0%A4%A1_%E0%A4%AA%E0%A5%8D%E0%A4%B2%E0%A5%8B%E0%A4%B5%E0%A4%B0" title="लेसर सैंड प्लोवर – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%81%D0%BA%D0%B8_%D0%B4%D1%8A%D0%B6%D0%B4%D0%BE%D1%81%D0%B2%D0%B8%D1%80%D0%B5%D1%86" title="Монголски дъждосвирец – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Nouelig_mongol" title="Nouelig mongol – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Corriol_de_Mong%C3%B2lia" title="Corriol de Mongòlia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Charadrius_mongolus" title="Charadrius mongolus – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Cwtiad_tywod_bach" title="Cwtiad tywod bach – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Mongolsk_pr%C3%A6stekrave" title="Mongolsk præstekrave – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Mongolenregenpfeifer" title="Mongolenregenpfeifer – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/T%C3%A1b%C4%85%C4%85dij%C3%A1d%C3%AD%C5%82b%C3%A1h%C3%AD_y%C3%A1zh%C3%AD" title="Tábąądijádíłbáhí yázhí – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Charadrius_mongolus" title="Charadrius mongolus – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Mongola_pluvio" title="Mongola pluvio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Charadrius_mongolus" title="Charadrius mongolus – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D9%84%DB%8C%D9%85_%D8%B4%D9%86%DB%8C_%DA%A9%D9%88%DA%86%DA%A9" title="سلیم شنی کوچک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Pluvier_de_Mongolie" title="Pluvier de Mongolie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/P%C3%ADllara_mongol" title="Píllara mongol – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%B8%D5%B6%D5%B2%D5%B8%D5%AC%D5%A1%D5%AF%D5%A1%D5%B6_%D6%84%D5%A1%D6%80%D5%A1%D5%A4%D6%80" title="Մոնղոլական քարադր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Cerek-pasir_mongolia" title="Cerek-pasir mongolia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Charadrius_mongolus" title="Charadrius mongolus – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A4%D7%9E%D7%99_%D7%9E%D7%95%D7%A0%D7%92%D7%95%D7%9C%D7%99" title="חופמי מונגולי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9C%D0%BE%D2%A3%D2%93%D0%BE%D0%BB_%D1%88%D2%AF%D1%80%D1%96%D0%BB%D0%B4%D0%B5%D0%B3%D1%96" title="Моңғол шүрілдегі – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Tibeti_lile" title="Tibeti lile – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%82%E0%B4%97%E0%B5%8B%E0%B4%B3%E0%B4%BF%E0%B4%AF%E0%B5%BB_%E0%B4%AE%E0%B4%A3%E0%B5%BD%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8B%E0%B4%B4%E0%B4%BF" title="മംഗോളിയൻ മണൽക്കോഴി – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Burung_Rapang_Mognolia" title="Burung Rapang Mognolia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%9E%E1%80%B2%E1%80%90%E1%80%9C%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%E1%80%9C%E1%80%B1%E1%80%B8" title="သဲတလိုင်းလေး – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Mongoolse_plevier" title="Mongoolse plevier – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%82%E0%A4%97%E0%A5%8B%E0%A4%B2_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A5%81%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE" title="मंगोल राजपुत्रिका – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%80%E3%82%A4%E3%83%81%E3%83%89%E3%83%AA" title="メダイチドリ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Mongollo" title="Mongollo – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%86%DA%A9%D8%A7_%D8%B1%DB%8C%D8%AA_%D8%AF%D8%A7_%D9%BE%D9%84%D9%88%D9%88%D8%B1" title="نکا ریت دا پلوور – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Sieweczka_mongolska" title="Sieweczka mongolska – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Borrelho-mongol" title="Borrelho-mongol – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D1%83%D1%91%D0%BA" title="Монгольский зуёк – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Yl%C3%A4nk%C3%B6tylli" title="Ylänkötylli – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Mongolpipare" title="Mongolpipare – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Mo%C4%9Fol_c%C4%B1l%C4%B1b%C4%B1t%C4%B1" title="Moğol cılıbıtı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Choi_choi_M%C3%B4ng_C%E1%BB%95" title="Choi choi Mông Cổ – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Charadrius_mongolus" title="Charadrius mongolus – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E6%B2%99%E9%B8%BB" title="蒙古沙鸻 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q305255#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
 </div>
 
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 1 October 2012 at 18:12.<br /></li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
-Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Lesser_Sand_Plover&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments"], null, true);
-}</script>
-<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by mw17 in 0.168 secs. -->
-	</body>
-</html>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 2 March 2020, at 21:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lesser_sand_plover&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.648","walltime":"0.923","ppvisitednodes":{"value":5444,"limit":1000000},"postexpandincludesize":{"value":31771,"limit":2097152},"templateargumentsize":{"value":5356,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7363,"limit":5000000},"entityaccesscount":{"value":23,"limit":400},"timingprofile":["100.00%  842.725      1 -total"," 41.86%  352.735      1 Template:Speciesbox"," 39.68%  334.418      1 Template:Taxobox/core"," 29.33%  247.145      1 Template:Taxonbar"," 13.03%  109.791      1 Template:Reflist","  9.87%   83.195      1 Template:Cite_iucn","  7.68%   64.685      1 Template:Short_description","  4.37%   36.819      1 Template:Pagetype","  4.08%   34.424      1 Template:Commons_category-inline","  3.74%   31.483      2 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.436","limit":"10.000"},"limitreport-memusage":{"value":8471860,"limit":52428800}},"cachereport":{"origin":"mw1405","timestamp":"20201030045958","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lesser sand plover","url":"https:\/\/en.wikipedia.org\/wiki\/Lesser_sand_plover","sameAs":"http:\/\/www.wikidata.org\/entity\/Q305255","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q305255","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-18T07:22:39Z","dateModified":"2020-03-02T21:58:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d8\/Charadrius_mongolus_-_Laem_Phak_Bia.jpg","headline":"species of bird"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":193,"wgHostname":"mw1350"});});</script>
+</body></html>

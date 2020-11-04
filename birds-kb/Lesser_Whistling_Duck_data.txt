@@ -1,140 +1,263 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Lesser Whistling Duck - Wikipedia, the free encyclopedia</title>
-<meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf2" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
-
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lesser_Whistling_Duck","wgTitle":"Lesser Whistling Duck","wgCurRevisionId":508654978,"wgArticleId":438705,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Dendrocygninae","Birds of Asia","Birds of Bangladesh","Birds of Brunei","Birds of Cambodia","Birds of China","Birds of India","Birds of Indonesia","Birds of Japan","Birds of Laos","Birds of Malaysia","Birds of Burma","Birds of Nepal","Birds of Pakistan","Birds of Singapore","Birds of Sri Lanka","Birds of Taiwan","Birds of Thailand","Birds of Vietnam","Birds of Southeast Asia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lesser_Whistling_Duck","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"d7c3ff2c9eafac8df8f81ed92fb5c05c","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":438705,"title":"Lesser Whistling Duck","namespace":0,"categories":["Articles with \'species\' microformats","Birds of Asia","Birds of Bangladesh","Birds of Brunei","Birds of Burma","Birds of Cambodia","Birds of China","Birds of India","Birds of Indonesia","Birds of Japan","Birds of Laos","Birds of Malaysia","Birds of Nepal","Birds of Pakistan","Birds of Singapore","Birds of Southeast Asia","Birds of Sri Lanka","Birds of Taiwan","Birds of Thailand","Birds of Vietnam","Dendrocygninae","IUCN Red List least concern species"],"permissionLevel":"aft-reader"}});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
-"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
-}</script>
-<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lesser_Whistling_Duck skin-vector action-view vector-animateLayout">
-		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content" class="mw-body">
-			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Lesser Whistling Duck</span></h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- tagline -->
-				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-				<!-- /tagline -->
-								<!-- subtitle -->
-				<div id="contentSub"></div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<meta charset="UTF-8"/>
+<title>Lesser whistling duck - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e48c4df3-e7bb-4fcf-86be-29537282effb","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lesser_whistling_duck","wgTitle":"Lesser whistling duck","wgCurRevisionId":932574338,"wgRevisionId":932574338,"wgArticleId":438705,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: ref=harv","Cite iucn maint","Articles with short description","Short description matches Wikidata","Articles with 'species' microformats","Commons category link is on Wikidata","AC with 0 elements","IUCN Red List least concern species","Dendrocygninae","Birds of China",
+"Birds of South Asia","Birds of Southeast Asia","Birds described in 1821"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Lesser_whistling_duck","wgRelevantArticleId":438705,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Lesser_Whistling_Duck","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Lesser_whistling_duck","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":
+"Q244284"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dendrocygna_javanica_-_Chiang_Mai.jpg/1200px-Dendrocygna_javanica_-_Chiang_Mai.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Lesser_whistling_duck"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lesser_whistling_duck&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lesser_whistling_duck&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lesser_whistling_duck"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lesser_whistling_duck rootpage-Lesser_whistling_duck skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Lesser whistling duck</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Lesser_Whistling_Duck&amp;redirect=no" class="mw-redirect" title="Lesser Whistling Duck">Lesser Whistling Duck</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Species of bird</div>
+<p class="mw-empty-elt">
+</p>
 <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Lesser whistling duck
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Lesser Whistling Duck</th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Dendrocygna_javanica_-_Chiang_Mai.jpg" class="image"><img alt="Dendrocygna javanica - Chiang Mai.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dendrocygna_javanica_-_Chiang_Mai.jpg/220px-Dendrocygna_javanica_-_Chiang_Mai.jpg" decoding="async" width="220" height="330" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dendrocygna_javanica_-_Chiang_Mai.jpg/330px-Dendrocygna_javanica_-_Chiang_Mai.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dendrocygna_javanica_-_Chiang_Mai.jpg/440px-Dendrocygna_javanica_-_Chiang_Mai.jpg 2x" data-file-width="1707" data-file-height="2560" /></a>
+</td></tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Dendrocygna_javanica_(Lesser_Whistling_Duck_-_Zwergpfeifgans)_Weltvogelpark_Walsrode_2012-009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dendrocygna_javanica_%28Lesser_Whistling_Duck_-_Zwergpfeifgans%29_Weltvogelpark_Walsrode_2012-009.jpg/220px-Dendrocygna_javanica_%28Lesser_Whistling_Duck_-_Zwergpfeifgans%29_Weltvogelpark_Walsrode_2012-009.jpg" width="220" height="146" /></a></td>
-</tr>
+<td colspan="2" style="text-align: center; font-size: 88%">In Chiang Mai Province, Thailand
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
 <tr>
-<td colspan="2" style="text-align: center; font-size: 88%">Lesser Whistling Duck (<i>Dendrocygna javanica</i>) at <a href="/wiki/Weltvogelpark_Walsrode" title="Weltvogelpark Walsrode">Weltvogelpark Walsrode</a> (Walsrode Bird Park, Germany)</td>
-</tr>
-<tr style="text-align: center; background-color: rgb(211,211,164)">
-<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
-</tr>
+<td colspan="2"><div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" data-file-width="240" data-file-height="64" /><br /><a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN_1-0" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
 <tr>
-<td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
-<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN_0-0" class="reference"><a href="#cite_note-IUCN-0"><span>[</span>1<span>]</span></a></sup></small></div>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Dendrocygna" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Domain:
 </td>
-</tr>
+<td><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryota</a>
+</td></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
-</tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
 <tr>
-<td>Kingdom:</td>
-<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
-</tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
 <tr>
-<td>Phylum:</td>
-<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
-</tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Bird" title="Bird">Aves</a>
+</td></tr>
 <tr>
-<td>Class:</td>
-<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
-</tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a>
+</td></tr>
 <tr>
-<td>Order:</td>
-<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Anseriformes" title="Anseriformes">Anseriformes</a></span></td>
-</tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a>
+</td></tr>
 <tr>
-<td>Family:</td>
-<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Anatidae" title="Anatidae">Anatidae</a></span></td>
-</tr>
+<td>Genus:
+</td>
+<td><a href="/wiki/Whistling_duck" title="Whistling duck"><i>Dendrocygna</i></a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<td>Subfamily:</td>
-<td><span class="subfamily" style="white-space:nowrap;">Dendrocygninae</span></td>
-</tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>D.&#160;javanica</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
 <tr>
-<td>Genus:</td>
-<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Dendrocygna" title="Dendrocygna" class="mw-redirect">Dendrocygna</a></i></span></td>
-</tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
 <tr>
-<td>Species:</td>
-<td><span class="species" style="white-space:nowrap;"><i><b>D. javanica</b></i></span></td>
-</tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Dendrocygna javanica</i></span></b><br /><div style="font-size: 85%;">(<a href="/wiki/Thomas_Horsfield" title="Thomas Horsfield">Horsfield</a>, 1821)</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:DendrocygnaMap.svg" class="image"><img alt="DendrocygnaMap.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/DendrocygnaMap.svg/220px-DendrocygnaMap.svg.png" decoding="async" width="220" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/DendrocygnaMap.svg/330px-DendrocygnaMap.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/DendrocygnaMap.svg/440px-DendrocygnaMap.svg.png 2x" data-file-width="671" data-file-height="618" /></a>
+</td></tr>
 <tr>
-<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Dendrocygna javanica</i></span></b><br />
-<small>(<a href="/wiki/Thomas_Horsfield" title="Thomas Horsfield">Horsfield</a>, 1821)</small></td>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center"><a href="/w/index.php?title=File:DendrocygnaMap.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/DendrocygnaMap.svg/220px-DendrocygnaMap.svg.png" width="220" height="203" /></a></td>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center; font-size: 88%">Resident range in green and summer range in blue</td>
-</tr>
-</table>
-</div>
-<p>The <b>Lesser Whistling Duck</b> (<i>Dendrocygna javanica</i>), also known as <b>Indian Whistling Duck</b> or <b>Lesser Whistling Teal</b>, is a species of <a href="/wiki/Whistling_duck" title="Whistling duck">whistling duck</a> that breeds in the <a href="/wiki/Indian_Subcontinent" title="Indian Subcontinent" class="mw-redirect">Indian Subcontinent</a> and <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>. They are nocturnal feeders and during the day may be found in flocks around lakes and wet paddy fields. They can perch on trees and sometimes build their nest in the hollow of a tree. This brown and long-necked duck has broad wings that are visible in flight and produces a loud two-note wheezy call. It has a chestnut rump, differentiating it from its larger relative, the <a href="/wiki/Fulvous_Whistling_Duck" title="Fulvous Whistling Duck">Fulvous Whistling Duck</a>, which has creamy white.</p>
-<table id="toc" class="toc">
-<tr>
-<td>
-<div id="toctitle">
-<h2>Contents</h2>
-</div>
+<td colspan="2" style="text-align: center; font-size: 88%">Resident range in green and summer range in blue
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p>The <b> lesser whistling duck</b> (<i>Dendrocygna javanica</i>), also known as <b>Indian whistling duck</b> or <b>lesser whistling teal</b>, is a species of <a href="/wiki/Whistling_duck" title="Whistling duck">whistling duck</a> that breeds in the Indian subcontinent and Southeast Asia. They are nocturnal feeders that during the day may be found in flocks around lakes and wet <a href="/wiki/Paddy_field" title="Paddy field">paddy fields</a>. They can perch on trees and sometimes build their nest in the hollow of a tree. This brown and long-necked duck has broad wings that are visible in flight and produces a loud two-note wheezy call. It has a chestnut rump, differentiating it from its larger relative, the <a href="/wiki/Fulvous_whistling_duck" title="Fulvous whistling duck">fulvous whistling duck</a>, which has a creamy white rump.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#Distribution_and_habitat"><span class="tocnumber">2</span> <span class="toctext">Distribution and habitat</span></a></li>
@@ -142,340 +265,335 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
 </ul>
-</td>
-</tr>
-</table>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a>]</span> <span class="mw-headline" id="Description">Description</span></h2>
-<div class="thumb tleft">
-<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lesser_Whistling_Duck_RWD1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lesser_Whistling_Duck_RWD1.jpg/220px-Lesser_Whistling_Duck_RWD1.jpg" width="220" height="165" class="thumbimage" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Lesser_Whistling_Duck_RWD1.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-Swimming at Sylvan Heights Waterfowl Park, North Carolina</div>
 </div>
-</div>
-<p>This chestnut brown duck is confusable only with the <a href="/wiki/Fulvous_Whistling_Duck" title="Fulvous Whistling Duck">Fulvous Whistling Duck</a> (<i>D. bicolor</i>) but has chestnut upper-tail coverts unlike the creamy white in the latter. When flying straight, their head is held below the level of the body as in other <i>Dendrocygna</i> species. The crown appears dark and the sexes are alike in plumage. They fly slowly but with rapid wing-flapping and usually produce a repetitive wheezy <i>seasick</i> call as they circle overhead. They are very nocturnal and often rest during the day. The outermost primary feather has the inner vane modified. This has been said to aid in producing a whistling sound in flight, although this has not been supported by field studies.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-hbk_2-0" class="reference"><a href="#cite_note-hbk-2"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-pcr_3-0" class="reference"><a href="#cite_note-pcr-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-nhd_4-0" class="reference"><a href="#cite_note-nhd-4"><span>[</span>5<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=edit&amp;section=2" title="Edit section: Distribution and habitat">edit</a>]</span> <span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span></h2>
-<div class="thumb tleft">
-<div class="thumbinner" style="width:222px;"><a href="/w/index.php?title=File:DendrocygnaFeather.svg&amp;page=1" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DendrocygnaFeather.svg/220px-DendrocygnaFeather.svg.png" width="220" height="49" class="thumbimage" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:DendrocygnaFeather.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-Shape of the outermost primary, claimed to produce a whistle in flight</div>
-</div>
-</div>
-<div class="thumb tright">
-<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dendrocygna_flight.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dendrocygna_flight.jpg/220px-Dendrocygna_flight.jpg" width="220" height="164" class="thumbimage" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Dendrocygna_flight.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-In flight the broad wings are distinctive</div>
-</div>
-</div>
-<p>This is a largely resident species distributed widely across lowland wetlands of the <a href="/wiki/Indian_Subcontinent" title="Indian Subcontinent" class="mw-redirect">Indian Subcontinent</a> and <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a>. The species ranges across <a href="/wiki/India" title="India">India</a>, <a href="/wiki/Nepal" title="Nepal">Nepal</a>, <a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a>, <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a>, <a href="/wiki/Singapore" title="Singapore">Singapore</a>, <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>, <a href="/wiki/Myanmar" title="Myanmar" class="mw-redirect">Myanmar</a>, <a href="/wiki/Thailand" title="Thailand">Thailand</a> and <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>. They also occur on islands in the region including the Andamans, Nicobars and Maldives.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> They sometimes make local movements in response to weather and changes in water availability and the more northern birds <a href="/wiki/Bird_migration" title="Bird migration">winter</a> further south. They are found in freshwater wetlands with good vegetation cover and often rest during the day on the banks or even on the open sea in coastal areas.<sup id="cite_ref-hbk_2-1" class="reference"><a href="#cite_note-hbk-2"><span>[</span>3<span>]</span></a></sup> Downy chicks are black with a white eyebrow and white patches on the back of the head, the wing, lower back and rump.<sup id="cite_ref-fbi2_6-0" class="reference"><a href="#cite_note-fbi2-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> Albino individuals have been seen in the wild.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></p>
-<p>Large numbers are sometimes found in urban wetlands such as in Kolkata and Goa, particularly during winter.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup> In the Alipore Zoological gardens, captive individuals were introduced in the 1930s and wild birds joined this nucleus subsequently.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup></p>
-<p>With a wide distribution range between 1 to 10 million km², they are considered to have a secure global population of between two and twenty million individuals.<sup id="cite_ref-IUCN_0-1" class="reference"><a href="#cite_note-IUCN-0"><span>[</span>1<span>]</span></a></sup> They are not threatened by hunting as they are not considered good to eat.<sup id="cite_ref-hbk_2-2" class="reference"><a href="#cite_note-hbk-2"><span>[</span>3<span>]</span></a></sup> Hunters in <a href="/wiki/Assam" title="Assam">Assam</a> however have been known to raise the chicks to serve as live decoy.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=edit&amp;section=3" title="Edit section: Behaviour and ecology">edit</a>]</span> <span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span></h2>
-<div class="thumb tleft">
-<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg/220px-Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg" width="220" height="114" class="thumbimage" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-A flock landing (<a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/India" title="India">India</a>)</div>
-</div>
-</div>
-<p>Lesser Whistling Duck are usually gregarious. They feed mainly on plants taken from the water as well as grains from cultivated rice apart from small fish, frogs and invertebrates such as molluscs and worms.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup> They dabble as well as dive in water. They will often waddle on the land and Common Mynas have been noted to follow them on grass.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup> Courtship involves the male facing the female and dipping and raising its bill in the water and swimming around the female.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> They breed during the monsoon or rainy season and may vary locally in relation to the food availability. The nest site may be a tree hole lined with twigs and grass or built in the fork of large tree, sometimes reusing and old nest of a kite or heron or even on the ground. The clutch varies from 7 to 12 white eggs that are incubated by both the parents. Large clutches of up to 17 have been noted<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup> although these may be indications of intraspecific brood parasitism.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup> The eggs hatch after about 22-24 days. More than one brood may be raised in a single season.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-hbk_2-3" class="reference"><a href="#cite_note-hbk-2"><span>[</span>3<span>]</span></a></sup> Young birds may sometimes be carried on the back of the parents.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup></p>
-<p>Local names like <i>sili</i> and <i>silhahi</i> in India are based on their wheezy two-note calls. They become very tame in captivity, walking about and responding to whistles. Individuals in captivity in the USA have lived for up to 9 years.<sup id="cite_ref-nhd_4-1" class="reference"><a href="#cite_note-nhd-4"><span>[</span>5<span>]</span></a></sup></p>
-<div class="thumb tright">
-<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lesser_Whistling-ducks-_Resting_I_IMG_5785.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lesser_Whistling-ducks-_Resting_I_IMG_5785.jpg/220px-Lesser_Whistling-ducks-_Resting_I_IMG_5785.jpg" width="220" height="165" class="thumbimage" /></a>
-<div class="thumbcaption">
-<div class="magnify"><a href="/wiki/File:Lesser_Whistling-ducks-_Resting_I_IMG_5785.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.21wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
-On land (<a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, <a href="/wiki/India" title="India">India</a>)</div>
-</div>
-</div>
-<p>Several endoparasitic cestodes including <i>Hymenolepis javanensis</i> and <i>Cittotaenia sandgroundi</i> have been described from Lesser Whistling Duck hosts apart from ectoparasitic bird lice and mites.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
-<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_whistling_duck&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Migratory_Birds_at_Sukhna_Lake,Chandigarh,India.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Migratory_Birds_at_Sukhna_Lake%2CChandigarh%2CIndia.JPG/220px-Migratory_Birds_at_Sukhna_Lake%2CChandigarh%2CIndia.JPG" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Migratory_Birds_at_Sukhna_Lake%2CChandigarh%2CIndia.JPG/330px-Migratory_Birds_at_Sukhna_Lake%2CChandigarh%2CIndia.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Migratory_Birds_at_Sukhna_Lake%2CChandigarh%2CIndia.JPG/440px-Migratory_Birds_at_Sukhna_Lake%2CChandigarh%2CIndia.JPG 2x" data-file-width="4608" data-file-height="3456" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Migratory_Birds_at_Sukhna_Lake,Chandigarh,India.JPG" class="internal" title="Enlarge"></a></div>The chicks are patterned in black and white</div></div></div>
+<p>This chestnut brown duck is confusable only with the <a href="/wiki/Fulvous_whistling_duck" title="Fulvous whistling duck">fulvous whistling duck</a> (<i>D. bicolor</i>) but has chestnut upper-tail <a href="/wiki/Covert_feather" title="Covert feather">coverts</a> unlike the creamy white in the latter. The ring around the eye is orange to yellow.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> When flying straight, their head is held below the level of the body as in other <i>Dendrocygna</i> species. The crown appears dark and the sexes are alike in <a href="/wiki/Plumage" title="Plumage">plumage</a>. They fly slowly but with rapid wing-flapping and usually produce a repetitive wheezy <i>seasick</i> call as they circle overhead. They are very <a href="/wiki/Nocturnal" class="mw-redirect" title="Nocturnal">nocturnal</a> and often rest during the day. The outermost primary feather has the inner vane modified. They produce very prominent whistling sound while flying.
+</p>
+<h2><span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_whistling_duck&amp;action=edit&amp;section=2" title="Edit section: Distribution and habitat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:DendrocygnaFeather.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DendrocygnaFeather.svg/220px-DendrocygnaFeather.svg.png" decoding="async" width="220" height="49" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DendrocygnaFeather.svg/330px-DendrocygnaFeather.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/DendrocygnaFeather.svg/440px-DendrocygnaFeather.svg.png 2x" data-file-width="500" data-file-height="112" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:DendrocygnaFeather.svg" class="internal" title="Enlarge"></a></div>Shape of the outermost primary, claimed to produce a whistle in flight</div></div></div>
+<p>This is a largely resident species distributed widely across lowland <a href="/wiki/Wetland" title="Wetland">wetlands</a> of the <a href="/wiki/Indian_subcontinent" title="Indian subcontinent">Indian subcontinent</a> and Southeast Asia. The species also occur on islands in the region including the <a href="/wiki/Andaman_Islands" title="Andaman Islands">Andamans</a>, <a href="/wiki/Nicobar_Islands" title="Nicobar Islands">Nicobars</a> and <a href="/wiki/Maldives" title="Maldives">Maldives</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> They sometimes make local movements in response to weather and changes in water availability and the more northern birds <a href="/wiki/Bird_migration" title="Bird migration">winter</a> further south. They are found in freshwater wetlands with good vegetation cover and often rest during the day on the banks or even on the open sea in coastal areas.<sup id="cite_ref-hbk_4-0" class="reference"><a href="#cite_note-hbk-4">&#91;4&#93;</a></sup> Downy chicks are black with a white eyebrow and white patches on the back of the head, the wing, lower back and rump.<sup id="cite_ref-fbi2_5-0" class="reference"><a href="#cite_note-fbi2-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> <a href="/wiki/Albinism_in_biology" class="mw-redirect" title="Albinism in biology">Albino</a> individuals have been seen in the wild.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:White-bellied_Sea_eagle_captured_Lesser_Whistling_Duck_in_Sri_Lanka.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/White-bellied_Sea_eagle_captured_Lesser_Whistling_Duck_in_Sri_Lanka.jpg/220px-White-bellied_Sea_eagle_captured_Lesser_Whistling_Duck_in_Sri_Lanka.jpg" decoding="async" width="220" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/White-bellied_Sea_eagle_captured_Lesser_Whistling_Duck_in_Sri_Lanka.jpg/330px-White-bellied_Sea_eagle_captured_Lesser_Whistling_Duck_in_Sri_Lanka.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/White-bellied_Sea_eagle_captured_Lesser_Whistling_Duck_in_Sri_Lanka.jpg/440px-White-bellied_Sea_eagle_captured_Lesser_Whistling_Duck_in_Sri_Lanka.jpg 2x" data-file-width="698" data-file-height="472" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:White-bellied_Sea_eagle_captured_Lesser_Whistling_Duck_in_Sri_Lanka.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/White-bellied_sea_eagle" title="White-bellied sea eagle">White-bellied sea eagle</a> (<i>Haliaeetus leucogaster</i>) with captured duck</div></div></div>
+<p>Large numbers are sometimes found in urban wetlands such as in <a href="/wiki/Kolkata" title="Kolkata">Kolkata</a> and <a href="/wiki/Goa" title="Goa">Goa</a>, particularly during winter.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> In the <a href="/wiki/Alipore_Zoological_Gardens" class="mw-redirect" title="Alipore Zoological Gardens">Alipore Zoological Gardens</a>, captive individuals were introduced in the 1930s and wild birds joined this nucleus subsequently.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>With a wide distribution range between 1 and 10 million km², they are considered to have a secure global population of between two and twenty million individuals.<sup id="cite_ref-IUCN_1-1" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup> They are not threatened by hunting as they are not considered good to eat.<sup id="cite_ref-hbk_4-1" class="reference"><a href="#cite_note-hbk-4">&#91;4&#93;</a></sup> Hunters in <a href="/wiki/Assam" title="Assam">Assam</a> however have been known to raise the ducklings to serve as live decoy.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_whistling_duck&amp;action=edit&amp;section=3" title="Edit section: Behaviour and ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg/220px-Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg" decoding="async" width="220" height="114" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg/330px-Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg/440px-Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg 2x" data-file-width="1000" data-file-height="519" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lesser_Whistling-ducks-_Landing_together_I2_IMG_1067.jpg" class="internal" title="Enlarge"></a></div>A flock landing (<a href="/wiki/Kolkata" title="Kolkata">Kolkata</a>, India)</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dendrocygna_flight.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dendrocygna_flight.jpg/220px-Dendrocygna_flight.jpg" decoding="async" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dendrocygna_flight.jpg/330px-Dendrocygna_flight.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dendrocygna_flight.jpg/440px-Dendrocygna_flight.jpg 2x" data-file-width="720" data-file-height="537" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dendrocygna_flight.jpg" class="internal" title="Enlarge"></a></div>In flight the broad wings are distinctive</div></div></div><p>Lesser whistling duck are usually <a href="/wiki/Gregarious" class="mw-redirect" title="Gregarious">gregarious</a>. They feed mainly on plants taken from the water as well as grains from cultivated rice apart from small fish, <a href="/wiki/Frog" title="Frog">frogs</a> and invertebrates such as <a href="/wiki/Mollusc" class="mw-redirect" title="Mollusc">molluscs</a> and <a href="/wiki/Worm" title="Worm">worms</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> They dabble as well as dive in water. They will often waddle on the land and <a href="/wiki/Common_myna" title="Common myna">Common mynas</a> have been noted to follow them on grass.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Courtship involves the male facing the female and dipping and raising its bill in the water and swimming around the female.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> They breed during the <a href="/wiki/Monsoon" title="Monsoon">monsoon</a> or rainy season and may vary locally in relation to the food availability. The nest site may be a tree hole lined with twigs and grass or built in the fork of a large tree, sometimes reusing an old nest of a <a href="/wiki/Kite_(bird)" title="Kite (bird)">kite</a> or <a href="/wiki/Heron" title="Heron">heron</a> or even on the ground. The clutch varies from 7 to 12 white eggs that are incubated by both the parents. Large clutches of up to 17 have been noted<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> although these may be indications of intraspecific <a href="/wiki/Brood_parasite" title="Brood parasite">brood parasitism</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> The eggs hatch after about 22–24 days. More than one brood may be raised in a single season.<sup id="cite_ref-hbk_4-2" class="reference"><a href="#cite_note-hbk-4">&#91;4&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Young birds may sometimes be carried on the back of the parents.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>Local names like <i>sili</i> and <i>silhahi</i> in India are based on their wheezy two-note calls. They become very tame in captivity, walking about and responding to whistles. Individuals in captivity in the USA have lived for up to 9 years.<sup id="cite_ref-nhd_21-0" class="reference"><a href="#cite_note-nhd-21">&#91;21&#93;</a></sup>
+</p><p>Several endoparasitic <a href="/wiki/Cestode" class="mw-redirect" title="Cestode">cestodes</a> including <i>Hymenolepis javanensis</i> and <i>Cittotaenia sandgroundi</i> have been described from lesser whistling duck hosts apart from ectoparasitic <a href="/wiki/Bird_lice" class="mw-redirect" title="Bird lice">bird lice</a> and <a href="/wiki/Mite" title="Mite">mites</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_whistling_duck&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
 <ol class="references">
-<li id="cite_note-IUCN-0"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_0-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2009">BirdLife International (2009). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/100600351">"Dendrocygna javanica"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 3.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/100600351">http://www.iucnredlist.org/apps/redlist/details/100600351</a></span><span class="reference-accessdate">. Retrieved 11 May 2006</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Dendrocygna+javanica&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+3.1&amp;rft.aulast=BirdLife+International&amp;rft.au=BirdLife+International&amp;rft.date=2009&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F100600351&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Heinroth, O. (1911). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/proceedingsofint51910inte#page/673/mode/1up">"Beitrage zur Biologie, namentlich Ethologie und Psychologie der Anatiden"</a> (in German). <i>Proc. Fifth International Ornithological Congress, Berlin</i>. Internation Ornithological Congress. pp.&#160;589–702<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/proceedingsofint51910inte#page/673/mode/1up">http://www.archive.org/stream/proceedingsofint51910inte#page/673/mode/1up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Beitrage+zur+Biologie%2C+namentlich+Ethologie+und+Psychologie+der+Anatiden&amp;rft.atitle=Proc.+Fifth+International+Ornithological+Congress%2C+Berlin&amp;rft.aulast=Heinroth%2C+O.&amp;rft.au=Heinroth%2C+O.&amp;rft.date=1911&amp;rft.pages=pp.%26nbsp%3B589%E2%80%93702&amp;rft.pub=Internation+Ornithological+Congress&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fproceedingsofint51910inte%23page%2F673%2Fmode%2F1up&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-hbk-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-hbk_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hbk_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hbk_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hbk_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Salim_Ali_(ornithologist)" title="Salim Ali (ornithologist)" class="mw-redirect">Ali, Salim</a>; <a href="/wiki/Sidney_Dillon_Ripley" title="Sidney Dillon Ripley">Sidney Dillon Ripley</a> (1978). <i>Handbook of the Birds of India and Pakistan. Volume 1</i> (2 ed.). New Delhi: Oxford University Press. pp.&#160;138–139.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+India+and+Pakistan.+Volume+1&amp;rft.aulast=Ali&amp;rft.aufirst=Salim&amp;rft.au=Ali%2C%26%2332%3BSalim&amp;rft.date=1978&amp;rft.pages=pp.%26nbsp%3B138%E2%80%93139&amp;rft.edition=2&amp;rft.place=New+Delhi&amp;rft.pub=Oxford+University+Press&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-pcr-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-pcr_3-0">^</a></b></span> <span class="reference-text"><span class="citation book">Rasmussen PC &amp; JC Anderton (2005). <i>Birds of South Asia. The Ripley Guide. Volume 2</i>. Washington DC and Barcelona: Smithsonian Institution and Lynx Edicions. p.&#160;68.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birds+of+South+Asia.+The+Ripley+Guide.+Volume+2&amp;rft.aulast=Rasmussen+PC+%26+JC+Anderton&amp;rft.au=Rasmussen+PC+%26+JC+Anderton&amp;rft.date=2005&amp;rft.pages=p.%26nbsp%3B68&amp;rft.place=Washington+DC+and+Barcelona&amp;rft.pub=Smithsonian+Institution+and+Lynx+Edicions&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-nhd-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-nhd_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nhd_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Phillips, John C. (1922). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/naturalhistoryof01phi#page/n235/mode/1up"><i>A natural history of the ducks. Volume 1</i></a>. Boston and New York: Houghton Mifflin Company. pp.&#160;148–156<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/naturalhistoryof01phi#page/n235/mode/1up">http://www.archive.org/stream/naturalhistoryof01phi#page/n235/mode/1up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+natural+history+of+the+ducks.+Volume+1&amp;rft.aulast=Phillips%2C+John+C.&amp;rft.au=Phillips%2C+John+C.&amp;rft.date=1922&amp;rft.pages=pp.%26nbsp%3B148%E2%80%93156&amp;rft.place=Boston+and+New+York&amp;rft.pub=Houghton+Mifflin+Company&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fnaturalhistoryof01phi%23page%2Fn235%2Fmode%2F1up&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation Journal">Anderson, R C &amp; M Baldock (2001). <a rel="nofollow" class="external text" href="http://www.orientalbirdclub.org/publications/forktail/17pdfs/Anderson-Maldives.pdf">"New records of birds from the Maldives, with notes on other species"</a>. <i>Forktail</i> <b>17</b>: 67–73<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.orientalbirdclub.org/publications/forktail/17pdfs/Anderson-Maldives.pdf">http://www.orientalbirdclub.org/publications/forktail/17pdfs/Anderson-Maldives.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=New+records+of+birds+from+the+Maldives%2C+with+notes+on+other+species&amp;rft.jtitle=Forktail&amp;rft.aulast=Anderson%2C+R+C+%26+M+Baldock&amp;rft.au=Anderson%2C+R+C+%26+M+Baldock&amp;rft.date=2001&amp;rft.volume=17&amp;rft.pages=67%E2%80%9373&amp;rft_id=http%3A%2F%2Fwww.orientalbirdclub.org%2Fpublications%2Fforktail%2F17pdfs%2FAnderson-Maldives.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-fbi2-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-fbi2_6-0">^</a></b></span> <span class="reference-text"><span class="citation book">Baker, ECS (1929). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/BakerFbiBirds6/BakerFBI6#page/n451/mode/1up/"><i>Fauna of British India. Birds. Volume 6</i></a> (2 ed.). London: Taylor and Francis. pp.&#160;411–413<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/BakerFbiBirds6/BakerFBI6#page/n451/mode/1up/">http://www.archive.org/stream/BakerFbiBirds6/BakerFBI6#page/n451/mode/1up/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fauna+of+British+India.+Birds.+Volume+6&amp;rft.aulast=Baker%2C+ECS&amp;rft.au=Baker%2C+ECS&amp;rft.date=1929&amp;rft.pages=pp.%26nbsp%3B411%E2%80%93413&amp;rft.edition=2&amp;rft.place=London&amp;rft.pub=Taylor+and+Francis&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2FBakerFbiBirds6%2FBakerFBI6%23page%2Fn451%2Fmode%2F1up%2F&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation book">Blanford, WT (1898). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/birdsindia04oaterich#page/430/mode/1up/"><i>Fauna of British India. Birds. Volume 4</i></a>. London: Taylor and Francis. pp.&#160;430–431<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/birdsindia04oaterich#page/430/mode/1up/">http://www.archive.org/stream/birdsindia04oaterich#page/430/mode/1up/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fauna+of+British+India.+Birds.+Volume+4&amp;rft.aulast=Blanford%2C+WT&amp;rft.au=Blanford%2C+WT&amp;rft.date=1898&amp;rft.pages=pp.%26nbsp%3B430%E2%80%93431&amp;rft.place=London&amp;rft.pub=Taylor+and+Francis&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2Fbirdsindia04oaterich%23page%2F430%2Fmode%2F1up%2F&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Chatterjee, Sujan (1995). "Occurrence of albino Lesser Whistling Teal, <i>Dendrocygna javanica</i> (Horsfield)". <i>J. Bombay Nat. Hist. Soc.</i> <b>92</b> (3): 417–418.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Occurrence+of+albino+Lesser+Whistling+Teal%2C+%27%27Dendrocygna+javanica%27%27+%28Horsfield%29&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Chatterjee%2C+Sujan&amp;rft.au=Chatterjee%2C+Sujan&amp;rft.date=1995&amp;rft.volume=92&amp;rft.issue=3&amp;rft.pages=417%E2%80%93418&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation Journal">Abdulali, Humayun (1965). "Behaviour of Lesser Whistling Teal [<i>Dendrocygna javanica</i> (Horsfield)] in Alipore Zoo, Calcutta". <i>J. Bombay Nat. Hist. Soc.</i> <b>62</b> (2): 300–301.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Behaviour+of+Lesser+Whistling+Teal+%5B%27%27Dendrocygna+javanica%27%27+%28Horsfield%29%5D+in+Alipore+Zoo%2C+Calcutta&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Abdulali%2C+Humayun&amp;rft.au=Abdulali%2C+Humayun&amp;rft.date=1965&amp;rft.volume=62&amp;rft.issue=2&amp;rft.pages=300%E2%80%93301&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation Journal">Lainer, Heinz (2000). "Waterfowl of the Carambolim Lake". <i>Newsletter for Birdwatchers</i> <b>40</b> (5): 59–60.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Waterfowl+of+the+Carambolim+Lake&amp;rft.jtitle=Newsletter+for+Birdwatchers&amp;rft.aulast=Lainer%2C+Heinz&amp;rft.au=Lainer%2C+Heinz&amp;rft.date=2000&amp;rft.volume=40&amp;rft.issue=5&amp;rft.pages=59%E2%80%9360&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation Journal">Mazumdar S; P Ghosh and GK Saha (2005). "Diversity and behaviour of waterfowl in Santragachi Jheel, West Bengal, India, during winter season". <i>Indian Birds</i> <b>1</b> (3): 68–69.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Diversity+and+behaviour+of+waterfowl+in+Santragachi+Jheel%2C+West+Bengal%2C+India%2C+during+winter+season&amp;rft.jtitle=Indian+Birds&amp;rft.aulast=Mazumdar+S%3B+P+Ghosh+and+GK+Saha&amp;rft.au=Mazumdar+S%3B+P+Ghosh+and+GK+Saha&amp;rft.date=2005&amp;rft.volume=1&amp;rft.issue=3&amp;rft.pages=68%E2%80%9369&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation Journal">Fooks, HA (1966). "Whistling Teal [<i>Dendrocygna javanica</i> (Horsfield)] and other memories of Alipore Zoo, Calcutta". <i>J. Bombay Nat. Hist. Soc.</i> <b>63</b> (1): 200–202.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Whistling+Teal+%5B%27%27Dendrocygna+javanica%27%27+%28Horsfield%29%5D+and+other+memories+of+Alipore+Zoo%2C+Calcutta&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Fooks%2C+HA&amp;rft.au=Fooks%2C+HA&amp;rft.date=1966&amp;rft.volume=63&amp;rft.issue=1&amp;rft.pages=200%E2%80%93202&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation Journal">Raj, M (1991). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/NLBW31_34#page/n7/mode/1up">"The rearing of Lesser Whistling Teals"</a>. <i>Newsletter for Birdwatchers</i> <b>31</b> (3–4): 6<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/NLBW31_34#page/n7/mode/1up">http://www.archive.org/stream/NLBW31_34#page/n7/mode/1up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+rearing+of+Lesser+Whistling+Teals&amp;rft.jtitle=Newsletter+for+Birdwatchers&amp;rft.aulast=Raj%2C+M&amp;rft.au=Raj%2C+M&amp;rft.date=1991&amp;rft.volume=31&amp;rft.issue=3%E2%80%934&amp;rft.pages=6&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2FNLBW31_34%23page%2Fn7%2Fmode%2F1up&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bolen, Eric G; Rylander, M Kent (1975). "Notes on the morphology and ecology of the Lesser Whistling Teal (<i>Dendrocygna javanica</i>)". <i>J. Bombay Nat. Hist. Soc.</i> <b>72</b> (3): 648–654.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Notes+on+the+morphology+and+ecology+of+the+Lesser+Whistling+Teal+%28%27%27Dendrocygna+javanica%27%27%29&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Bolen%2C+Eric+G%3B+Rylander%2C+M+Kent&amp;rft.au=Bolen%2C+Eric+G%3B+Rylander%2C+M+Kent&amp;rft.date=1975&amp;rft.volume=72&amp;rft.issue=3&amp;rft.pages=648%E2%80%93654&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation Journal">Bharucha, EK (1990). "Common Myna as a campfollower of Lesser Whistling Teals". <i>J. Bombay Nat. Hist. Soc.</i> <b>86</b> (3): 450.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Common+Myna+as+a+campfollower+of+Lesser+Whistling+Teals&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Bharucha%2C+EK&amp;rft.au=Bharucha%2C+EK&amp;rft.date=1990&amp;rft.volume=86&amp;rft.issue=3&amp;rft.pages=450&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation book">Johnsgard, Paul A. (1965). <a rel="nofollow" class="external text" href="http://digitalcommons.unl.edu/bioscihandwaterfowl/10/"><i>Handbook of Waterfowl Behavior</i></a>. Cornell University Press. p.&#160;21<span class="printonly">. <a rel="nofollow" class="external free" href="http://digitalcommons.unl.edu/bioscihandwaterfowl/10/">http://digitalcommons.unl.edu/bioscihandwaterfowl/10/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+Waterfowl+Behavior&amp;rft.aulast=Johnsgard%2C+Paul+A.&amp;rft.au=Johnsgard%2C+Paul+A.&amp;rft.date=1965&amp;rft.pages=p.%26nbsp%3B21&amp;rft.pub=Cornell+University+Press&amp;rft_id=http%3A%2F%2Fdigitalcommons.unl.edu%2Fbioscihandwaterfowl%2F10%2F&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Raj, M (1991). <a rel="nofollow" class="external text" href="http://www.archive.org/stream/NLBW31_56#page/n5/mode/2up">"Field observations on the behaviour of Lesser Whistling Teal in Assam"</a>. <i>Newsletter for Birdwatchers</i> <b>31</b> (5–6): 4–6<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.archive.org/stream/NLBW31_56#page/n5/mode/2up">http://www.archive.org/stream/NLBW31_56#page/n5/mode/2up</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Field+observations+on+the+behaviour+of+Lesser+Whistling+Teal+in+Assam&amp;rft.jtitle=Newsletter+for+Birdwatchers&amp;rft.aulast=Raj%2C+M&amp;rft.au=Raj%2C+M&amp;rft.date=1991&amp;rft.volume=31&amp;rft.issue=5%E2%80%936&amp;rft.pages=4%E2%80%936&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fstream%2FNLBW31_56%23page%2Fn5%2Fmode%2F2up&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation Journal">Aldrich, HC (1945). "Record clutch of eggs of the Whistling Teal [<i>Dendrocygna javanica</i> (Horsf.)]". <i>J. Bombay Nat. Hist. Soc.</i> <b>45</b> (4): 610.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Record+clutch+of+eggs+of+the+Whistling+Teal+%5B%27%27Dendrocygna+javanica%27%27+%28Horsf.%29%5D&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Aldrich%2C+HC&amp;rft.au=Aldrich%2C+HC&amp;rft.date=1945&amp;rft.volume=45&amp;rft.issue=4&amp;rft.pages=610&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation Journal">Yom-Tov, Yoram (2001). "An updated list and some comments on the occurrence of intraspecific nest parasitism in birds". <i>Ibis</i> <b>143</b>: 133–143. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1111%2Fj.1474-919X.2001.tb04177.x">10.1111/j.1474-919X.2001.tb04177.x</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=An+updated+list+and+some+comments+on+the+occurrence+of+intraspecific+nest+parasitism+in+birds&amp;rft.jtitle=Ibis&amp;rft.aulast=Yom-Tov%2C+Yoram&amp;rft.au=Yom-Tov%2C+Yoram&amp;rft.date=2001&amp;rft.volume=143&amp;rft.pages=133%E2%80%93143&amp;rft_id=info:doi/10.1111%2Fj.1474-919X.2001.tb04177.x&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation Journal">Parsons, RE (1940). "Does the Common Whistling Teal have more than one brood in the year?". <i>J. Bombay Nat. Hist. Soc.</i> <b>41</b> (4): 901.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Does+the+Common+Whistling+Teal+have+more+than+one+brood+in+the+year%3F&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Parsons%2C+RE&amp;rft.au=Parsons%2C+RE&amp;rft.date=1940&amp;rft.volume=41&amp;rft.issue=4&amp;rft.pages=901&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation Journal">Basu, B (1967). "The Whistling Teal [<i>Dendrocygna javanica</i> (Horsfield)] in the Calcutta environs". <i>J. Bombay Nat. Hist. Soc.</i> <b>64</b> (3): 558–559.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Whistling+Teal+%5B%27%27Dendrocygna+javanica%27%27+%28Horsfield%29%5D+in+the+Calcutta+environs&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.aulast=Basu%2C+B&amp;rft.au=Basu%2C+B&amp;rft.date=1967&amp;rft.volume=64&amp;rft.issue=3&amp;rft.pages=558%E2%80%93559&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation Journal">Davis, HE (1945). "A New Hymenolepidid Cestode, Hymenolepis javanensis, from an East Indian Tree Duck". <i>Transactions of the American Microscopical Society</i> <b>64</b> (3): 213–219. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F3223557">10.2307/3223557</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+New+Hymenolepidid+Cestode%2C+Hymenolepis+javanensis%2C+from+an+East+Indian+Tree+Duck&amp;rft.jtitle=Transactions+of+the+American+Microscopical+Society&amp;rft.aulast=Davis%2C+HE&amp;rft.au=Davis%2C+HE&amp;rft.date=1945&amp;rft.volume=64&amp;rft.issue=3&amp;rft.pages=213%E2%80%93219&amp;rft_id=info:doi/10.2307%2F3223557&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation Journal">Davis, Helen Edith (1944). "Cittotaenia sandgroundi, a New Anoplocephalid Cestode from a Javanese Tree Duck". <i>The Journal of Parasitology</i> <b>30</b> (4): 241–244. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2307%2F3272644">10.2307/3272644</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Cittotaenia+sandgroundi%2C+a+New+Anoplocephalid+Cestode+from+a+Javanese+Tree+Duck&amp;rft.jtitle=The+Journal+of+Parasitology&amp;rft.aulast=Davis%2C+Helen+Edith&amp;rft.au=Davis%2C+Helen+Edith&amp;rft.date=1944&amp;rft.volume=30&amp;rft.issue=4&amp;rft.pages=241%E2%80%93244&amp;rft_id=info:doi/10.2307%2F3272644&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation Journal">Arnold, DC (2006). "Review of the Genus Acidoproctus (Phthiraptera: Ischnocera: Philopteridae), with Description of a New Species". <i>Journal of the Kansas Entomological Society</i> <b>79</b> (3): 272–282. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.2317%2F0509.26.1">10.2317/0509.26.1</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Review+of+the+Genus+Acidoproctus+%28Phthiraptera%3A+Ischnocera%3A+Philopteridae%29%2C+with+Description+of+a+New+Species&amp;rft.jtitle=Journal+of+the+Kansas+Entomological+Society&amp;rft.aulast=Arnold%2C+DC&amp;rft.au=Arnold%2C+DC&amp;rft.date=2006&amp;rft.volume=79&amp;rft.issue=3&amp;rft.pages=272%E2%80%93282&amp;rft_id=info:doi/10.2317%2F0509.26.1&amp;rfr_id=info:sid/en.wikipedia.org:Lesser_Whistling_Duck"><span style="display: none;">&#160;</span></span></span></li>
-</ol>
-</div>
-<h2><span class="editsection">[<a href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
-<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
-<tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
-<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="//commons.wikimedia.org/wiki/Category:Dendrocygna_javanica" class="extiw" title="commons:Category:Dendrocygna javanica">Dendrocygna javanica</a></b></i></td>
-</tr>
-</table>
-<ul>
-<li><a rel="nofollow" class="external text" href="http://xeno-canto.org/browse.php?query=Dendrocygna+javanica&amp;species_nr=">Call recordings</a></li>
-<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/lesser-whistling-duck-dendrocygna-javanica">Videos and other media on the Internet Bird Collection</a></li>
-</ul>
-
-
+<li id="cite_note-IUCN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBirdLife_International2012" class="citation journal cs1"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="https://www.iucnredlist.org/details/22679758/0">"<i>Dendrocygna javanica</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species</a></i>. <b>2012</b><span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Dendrocygna+javanica&amp;rft.volume=2012&amp;rft.date=2012&amp;rft.au=BirdLife+International&amp;rft_id=https%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F22679758%2F0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: ref=harv (<a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><span class="citation-comment" style="display: none; color: #33aa33; margin-left: 0.3em;">old-form url</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFJohnsgard,_Paul1965" class="citation book cs1">Johnsgard, Paul (1965). <a rel="nofollow" class="external text" href="http://digitalcommons.unl.edu/bioscihandwaterfowl/10"><i>Handbook of waterfowl behaviour</i></a>. Comstock Publishing Associates.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+waterfowl+behaviour&amp;rft.pub=Comstock+Publishing+Associates&amp;rft.date=1965&amp;rft.au=Johnsgard%2C+Paul&amp;rft_id=http%3A%2F%2Fdigitalcommons.unl.edu%2Fbioscihandwaterfowl%2F10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFAnderson,_R_CM_Baldock2001" class="citation journal cs1">Anderson, R C; M Baldock (2001). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120226210547/http://www.orientalbirdclub.org/publications/forktail/17pdfs/Anderson-Maldives.pdf">"New records of birds from the Maldives, with notes on other species"</a> <span class="cs1-format">(PDF)</span>. <i>Forktail</i>. <b>17</b>: 67–73. Archived from <a rel="nofollow" class="external text" href="http://www.orientalbirdclub.org/publications/forktail/17pdfs/Anderson-Maldives.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2012-02-26.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Forktail&amp;rft.atitle=New+records+of+birds+from+the+Maldives%2C+with+notes+on+other+species&amp;rft.volume=17&amp;rft.pages=67-73&amp;rft.date=2001&amp;rft.au=Anderson%2C+R+C&amp;rft.au=M+Baldock&amp;rft_id=http%3A%2F%2Fwww.orientalbirdclub.org%2Fpublications%2Fforktail%2F17pdfs%2FAnderson-Maldives.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-hbk-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-hbk_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hbk_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hbk_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFAliSidney_Dillon_Ripley1978" class="citation book cs1"><a href="/wiki/Salim_Ali" title="Salim Ali">Ali, Salim</a>; <a href="/wiki/Sidney_Dillon_Ripley" title="Sidney Dillon Ripley">Sidney Dillon Ripley</a> (1978). <i>Handbook of the Birds of India and Pakistan. Volume 1</i> (2nd ed.). New Delhi: Oxford University Press. pp.&#160;138–139.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+the+Birds+of+India+and+Pakistan.+Volume+1&amp;rft.place=New+Delhi&amp;rft.pages=138-139&amp;rft.edition=2nd&amp;rft.pub=Oxford+University+Press&amp;rft.date=1978&amp;rft.aulast=Ali&amp;rft.aufirst=Salim&amp;rft.au=Sidney+Dillon+Ripley&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-fbi2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-fbi2_5-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFBaker,_ECS1929" class="citation book cs1">Baker, ECS (1929). <a rel="nofollow" class="external text" href="https://archive.org/stream/BakerFbiBirds6/BakerFBI6#page/n451/mode/1up/"><i>Fauna of British India. Birds. Volume 6</i></a> (2nd ed.). London: Taylor and Francis. pp.&#160;411–413.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fauna+of+British+India.+Birds.+Volume+6&amp;rft.place=London&amp;rft.pages=411-413&amp;rft.edition=2nd&amp;rft.pub=Taylor+and+Francis&amp;rft.date=1929&amp;rft.au=Baker%2C+ECS&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2FBakerFbiBirds6%2FBakerFBI6%23page%2Fn451%2Fmode%2F1up%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFBlanford,_WT1898" class="citation book cs1">Blanford, WT (1898). <a rel="nofollow" class="external text" href="https://archive.org/stream/birdsindia04oaterich#page/430/mode/1up/"><i>Fauna of British India. Birds. Volume 4</i></a>. London: Taylor and Francis. pp.&#160;430–431.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fauna+of+British+India.+Birds.+Volume+4&amp;rft.place=London&amp;rft.pages=430-431&amp;rft.pub=Taylor+and+Francis&amp;rft.date=1898&amp;rft.au=Blanford%2C+WT&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fbirdsindia04oaterich%23page%2F430%2Fmode%2F1up%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFChatterjee,_Sujan1995" class="citation journal cs1">Chatterjee, Sujan (1995). <a rel="nofollow" class="external text" href="https://biodiversitylibrary.org/page/48613976">"Occurrence of albino Lesser Whistling Teal, <i>Dendrocygna javanica</i> (Horsfield)"</a>. <i>J. Bombay Nat. Hist. Soc</i>. <b>92</b> (3): 417–418.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.atitle=Occurrence+of+albino+Lesser+Whistling+Teal%2C+Dendrocygna+javanica+%28Horsfield%29&amp;rft.volume=92&amp;rft.issue=3&amp;rft.pages=417-418&amp;rft.date=1995&amp;rft.au=Chatterjee%2C+Sujan&amp;rft_id=https%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F48613976&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFAbdulali,_Humayun1965" class="citation journal cs1">Abdulali, Humayun (1965). <a rel="nofollow" class="external text" href="https://biodiversitylibrary.org/page/47953721">"Behaviour of Lesser Whistling Teal &#91;<i>Dendrocygna javanica</i> (Horsfield)&#93; in Alipore Zoo, Calcutta"</a>. <i>J. Bombay Nat. Hist. Soc</i>. <b>62</b> (2): 300–301.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.atitle=Behaviour+of+Lesser+Whistling+Teal+%5BDendrocygna+javanica+%28Horsfield%29%5D+in+Alipore+Zoo%2C+Calcutta&amp;rft.volume=62&amp;rft.issue=2&amp;rft.pages=300-301&amp;rft.date=1965&amp;rft.au=Abdulali%2C+Humayun&amp;rft_id=https%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F47953721&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite id="CITEREFLainer,_Heinz2000" class="citation journal cs1">Lainer, Heinz (2000). "Waterfowl of the Carambolim Lake". <i><a href="/wiki/Newsletter_for_Birdwatchers" title="Newsletter for Birdwatchers">Newsletter for Birdwatchers</a></i>. <b>40</b> (5): 59–60.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Newsletter+for+Birdwatchers&amp;rft.atitle=Waterfowl+of+the+Carambolim+Lake&amp;rft.volume=40&amp;rft.issue=5&amp;rft.pages=59-60&amp;rft.date=2000&amp;rft.au=Lainer%2C+Heinz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFMazumdar_SP_GhoshGK_Saha2005" class="citation journal cs1">Mazumdar S; P Ghosh; GK Saha (2005). "Diversity and behaviour of waterfowl in Santragachi Jheel, West Bengal, India, during winter season". <i>Indian Birds</i>. <b>1</b> (3): 68–69.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Indian+Birds&amp;rft.atitle=Diversity+and+behaviour+of+waterfowl+in+Santragachi+Jheel%2C+West+Bengal%2C+India%2C+during+winter+season&amp;rft.volume=1&amp;rft.issue=3&amp;rft.pages=68-69&amp;rft.date=2005&amp;rft.au=Mazumdar+S&amp;rft.au=P+Ghosh&amp;rft.au=GK+Saha&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite id="CITEREFFooks,_HA1966" class="citation journal cs1">Fooks, HA (1966). <a rel="nofollow" class="external text" href="https://biodiversitylibrary.org/page/47950501">"Whistling Teal &#91;<i>Dendrocygna javanica</i> (Horsfield)&#93; and other memories of Alipore Zoo, Calcutta"</a>. <i>J. Bombay Nat. Hist. Soc</i>. <b>63</b> (1): 200–202.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.atitle=Whistling+Teal+%5BDendrocygna+javanica+%28Horsfield%29%5D+and+other+memories+of+Alipore+Zoo%2C+Calcutta&amp;rft.volume=63&amp;rft.issue=1&amp;rft.pages=200-202&amp;rft.date=1966&amp;rft.au=Fooks%2C+HA&amp;rft_id=https%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F47950501&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite id="CITEREFRaj,_M1991" class="citation journal cs1">Raj, M (1991). <a rel="nofollow" class="external text" href="https://archive.org/stream/NLBW31_34#page/n7/mode/1up">"The rearing of Lesser Whistling Teals"</a>. <i><a href="/wiki/Newsletter_for_Birdwatchers" title="Newsletter for Birdwatchers">Newsletter for Birdwatchers</a></i>. <b>31</b> (3–4): 6.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Newsletter+for+Birdwatchers&amp;rft.atitle=The+rearing+of+Lesser+Whistling+Teals&amp;rft.volume=31&amp;rft.issue=3%E2%80%934&amp;rft.pages=6&amp;rft.date=1991&amp;rft.au=Raj%2C+M&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2FNLBW31_34%23page%2Fn7%2Fmode%2F1up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite id="CITEREFBolen,_Eric_GRylander,_M_Kent1975" class="citation journal cs1">Bolen, Eric G; Rylander, M Kent (1975). <a rel="nofollow" class="external text" href="https://biodiversitylibrary.org/page/48287824">"Notes on the morphology and ecology of the Lesser Whistling Teal (<i>Dendrocygna javanica</i>)"</a>. <i>J. Bombay Nat. Hist. Soc</i>. <b>72</b> (3): 648–654.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.atitle=Notes+on+the+morphology+and+ecology+of+the+Lesser+Whistling+Teal+%28Dendrocygna+javanica%29&amp;rft.volume=72&amp;rft.issue=3&amp;rft.pages=648-654&amp;rft.date=1975&amp;rft.au=Bolen%2C+Eric+G&amp;rft.au=Rylander%2C+M+Kent&amp;rft_id=https%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F48287824&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite id="CITEREFBharucha,_EK1990" class="citation journal cs1">Bharucha, EK (1990). <a rel="nofollow" class="external text" href="https://biodiversitylibrary.org/page/48710850">"Common Myna as a campfollower of Lesser Whistling Teals"</a>. <i>J. Bombay Nat. Hist. Soc</i>. <b>86</b> (3): 450.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.atitle=Common+Myna+as+a+campfollower+of+Lesser+Whistling+Teals&amp;rft.volume=86&amp;rft.issue=3&amp;rft.pages=450&amp;rft.date=1990&amp;rft.au=Bharucha%2C+EK&amp;rft_id=https%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F48710850&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFJohnsgard,_Paul_A.1965" class="citation book cs1">Johnsgard, Paul A. (1965). <a rel="nofollow" class="external text" href="http://digitalcommons.unl.edu/bioscihandwaterfowl/10/"><i>Handbook of Waterfowl Behavior</i></a>. Cornell University Press. p.&#160;21.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+Waterfowl+Behavior&amp;rft.pages=21&amp;rft.pub=Cornell+University+Press&amp;rft.date=1965&amp;rft.au=Johnsgard%2C+Paul+A.&amp;rft_id=http%3A%2F%2Fdigitalcommons.unl.edu%2Fbioscihandwaterfowl%2F10%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFRaj,_M1991" class="citation journal cs1">Raj, M (1991). <a rel="nofollow" class="external text" href="https://archive.org/stream/NLBW31_56#page/n5/mode/2up">"Field observations on the behaviour of Lesser Whistling Teal in Assam"</a>. <i><a href="/wiki/Newsletter_for_Birdwatchers" title="Newsletter for Birdwatchers">Newsletter for Birdwatchers</a></i>. <b>31</b> (5–6): 4–6.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Newsletter+for+Birdwatchers&amp;rft.atitle=Field+observations+on+the+behaviour+of+Lesser+Whistling+Teal+in+Assam&amp;rft.volume=31&amp;rft.issue=5%E2%80%936&amp;rft.pages=4-6&amp;rft.date=1991&amp;rft.au=Raj%2C+M&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2FNLBW31_56%23page%2Fn5%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite id="CITEREFAldrich,_HC1945" class="citation journal cs1">Aldrich, HC (1945). <a rel="nofollow" class="external text" href="https://biodiversitylibrary.org/page/48127402">"Record clutch of eggs of the Whistling Teal &#91;<i>Dendrocygna javanica</i> (Horsf.)&#93;"</a>. <i>J. Bombay Nat. Hist. Soc</i>. <b>45</b> (4): 610.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.atitle=Record+clutch+of+eggs+of+the+Whistling+Teal+%5BDendrocygna+javanica+%28Horsf.%29%5D&amp;rft.volume=45&amp;rft.issue=4&amp;rft.pages=610&amp;rft.date=1945&amp;rft.au=Aldrich%2C+HC&amp;rft_id=https%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F48127402&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite id="CITEREFYom-Tov,_Yoram2001" class="citation journal cs1">Yom-Tov, Yoram (2001). "An updated list and some comments on the occurrence of intraspecific nest parasitism in birds". <i>Ibis</i>. <b>143</b>: 133–143. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1474-919X.2001.tb04177.x">10.1111/j.1474-919X.2001.tb04177.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ibis&amp;rft.atitle=An+updated+list+and+some+comments+on+the+occurrence+of+intraspecific+nest+parasitism+in+birds&amp;rft.volume=143&amp;rft.pages=133-143&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1474-919X.2001.tb04177.x&amp;rft.au=Yom-Tov%2C+Yoram&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite id="CITEREFParsons,_RE1940" class="citation journal cs1">Parsons, RE (1940). <a rel="nofollow" class="external text" href="https://biodiversitylibrary.org/page/47819481">"Does the Common Whistling Teal have more than one brood in the year?"</a>. <i>J. Bombay Nat. Hist. Soc</i>. <b>41</b> (4): 901.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.atitle=Does+the+Common+Whistling+Teal+have+more+than+one+brood+in+the+year%3F&amp;rft.volume=41&amp;rft.issue=4&amp;rft.pages=901&amp;rft.date=1940&amp;rft.au=Parsons%2C+RE&amp;rft_id=https%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F47819481&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite id="CITEREFBasu,_B1967" class="citation journal cs1">Basu, B (1967). <a rel="nofollow" class="external text" href="https://biodiversitylibrary.org/page/48069947">"The Whistling Teal &#91;<i>Dendrocygna javanica</i> (Horsfield)&#93; in the Calcutta environs"</a>. <i>J. Bombay Nat. Hist. Soc</i>. <b>64</b> (3): 558–559.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Bombay+Nat.+Hist.+Soc.&amp;rft.atitle=The+Whistling+Teal+%5BDendrocygna+javanica+%28Horsfield%29%5D+in+the+Calcutta+environs&amp;rft.volume=64&amp;rft.issue=3&amp;rft.pages=558-559&amp;rft.date=1967&amp;rft.au=Basu%2C+B&amp;rft_id=https%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F48069947&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-nhd-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-nhd_21-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFPhillips,_John_C.1922" class="citation book cs1">Phillips, John C. (1922). <a rel="nofollow" class="external text" href="https://archive.org/stream/naturalhistoryof01phi#page/n235/mode/1up"><i>A natural history of the ducks. Volume 1</i></a>. Boston and New York: Houghton Mifflin Company. pp.&#160;148–156.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+natural+history+of+the+ducks.+Volume+1&amp;rft.place=Boston+and+New+York&amp;rft.pages=148-156&amp;rft.pub=Houghton+Mifflin+Company&amp;rft.date=1922&amp;rft.au=Phillips%2C+John+C.&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fnaturalhistoryof01phi%23page%2Fn235%2Fmode%2F1up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite id="CITEREFDavis,_HE1945" class="citation journal cs1">Davis, HE (1945). "A New Hymenolepidid Cestode, Hymenolepis javanensis, from an East Indian Tree Duck". <i>Transactions of the American Microscopical Society</i>. <b>64</b> (3): 213–219. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F3223557">10.2307/3223557</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Transactions+of+the+American+Microscopical+Society&amp;rft.atitle=A+New+Hymenolepidid+Cestode%2C+Hymenolepis+javanensis%2C+from+an+East+Indian+Tree+Duck&amp;rft.volume=64&amp;rft.issue=3&amp;rft.pages=213-219&amp;rft.date=1945&amp;rft_id=info%3Adoi%2F10.2307%2F3223557&amp;rft.au=Davis%2C+HE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite id="CITEREFDavis,_Helen_Edith1944" class="citation journal cs1">Davis, Helen Edith (1944). "Cittotaenia sandgroundi, a New Anoplocephalid Cestode from a Javanese Tree Duck". <i>The Journal of Parasitology</i>. <b>30</b> (4): 241–244. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F3272644">10.2307/3272644</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Parasitology&amp;rft.atitle=Cittotaenia+sandgroundi%2C+a+New+Anoplocephalid+Cestode+from+a+Javanese+Tree+Duck&amp;rft.volume=30&amp;rft.issue=4&amp;rft.pages=241-244&amp;rft.date=1944&amp;rft_id=info%3Adoi%2F10.2307%2F3272644&amp;rft.au=Davis%2C+Helen+Edith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite id="CITEREFArnold,_DC2006" class="citation journal cs1">Arnold, DC (2006). "Review of the Genus Acidoproctus (Phthiraptera: Ischnocera: Philopteridae), with Description of a New Species". <i>Journal of the Kansas Entomological Society</i>. <b>79</b> (3): 272–282. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2317%2F0509.26.1">10.2317/0509.26.1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Kansas+Entomological+Society&amp;rft.atitle=Review+of+the+Genus+Acidoproctus+%28Phthiraptera%3A+Ischnocera%3A+Philopteridae%29%2C+with+Description+of+a+New+Species&amp;rft.volume=79&amp;rft.issue=3&amp;rft.pages=272-282&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.2317%2F0509.26.1&amp;rft.au=Arnold%2C+DC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALesser+whistling+duck" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lesser_whistling_duck&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Dendrocygna_javanica" class="extiw" title="commons:Category:Dendrocygna javanica"><span style="">Dendrocygna javanica</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://xeno-canto.org/browse.php?query=Dendrocygna+javanica&amp;species_nr=">Call recordings</a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/lesser-whistling-duck-dendrocygna-javanica">Videos and other media on the Internet Bird Collection</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q244284" class="extiw" title="wikidata:Q244284">Q244284</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Dendrocygna_javanica" class="extiw" title="wikispecies:Dendrocygna javanica">Dendrocygna javanica</a></span></span></span></li>
+<li><span style="white-space:nowrap;">Avibase: <span class="uid"><a rel="nofollow" class="external text" href="https://avibase.bsc-eoc.org/species.jsp?avibaseid=BD683E6E9F6B03A4">BD683E6E9F6B03A4</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://datazone.birdlife.org/species/factsheet/22679758">22679758</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EBird" title="EBird">eBird</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ebird.org/species/lewduc1">lewduc1</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2498404">2498404</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/6891">6891</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=11096649">11096649</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=175052">175052</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/22679758">22679758</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NHMSYS0000533231">NHMSYS0000533231</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=60182">60182</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="https://de.wikipedia.org/wiki/Tierstimmenarchiv" class="extiw" title="de:Tierstimmenarchiv">TSA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.tierstimmen.org/en/database?field_spec_species_target_id_selective=5846">5846</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 20129/1000000
-Preprocessor generated node count: 44208/1500000
-Post-expand include size: 118287/2048000 bytes
-Template argument size: 34068/2048000 bytes
-Highest expansion depth: 17/40
-Expensive parser function count: 0/500
+Parsed by mw1352
+Cached time: 20201101014156
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.848 seconds
+Real time usage: 1.134 seconds
+Preprocessor visited node count: 6573/1000000
+Post‐expand include size: 62680/2097152 bytes
+Template argument size: 4916/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 76207/5000000 bytes
+Lua time usage: 0.608/10.000 seconds
+Lua memory usage: 7.27 MB/50 MB
+Number of Wikibase entities loaded: 12/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1046.412      1 -total
+ 41.29%  432.064      1 Template:Speciesbox
+ 40.60%  424.798      1 Template:Taxobox/core
+ 24.04%  251.513      1 Template:Reflist
+ 17.34%  181.411      1 Template:Taxonbar
+ 12.01%  125.706      1 Template:Cite_iucn
+  7.03%   73.605     17 Template:Cite_journal
+  6.99%   73.168      1 Template:Commons_category
+  6.56%   68.648      1 Template:Short_description
+  6.56%   68.597      1 Template:Sister_project
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:438705-0!*!0!!en!4!* and timestamp 20121017184008 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Lesser_Whistling_Duck&amp;oldid=508654978">http://en.wikipedia.org/w/index.php?title=Lesser_Whistling_Duck&amp;oldid=508654978</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Dendrocygninae" title="Category:Dendrocygninae">Dendrocygninae</a></li><li><a href="/wiki/Category:Birds_of_Asia" title="Category:Birds of Asia">Birds of Asia</a></li><li><a href="/wiki/Category:Birds_of_Bangladesh" title="Category:Birds of Bangladesh">Birds of Bangladesh</a></li><li><a href="/wiki/Category:Birds_of_Brunei" title="Category:Birds of Brunei">Birds of Brunei</a></li><li><a href="/wiki/Category:Birds_of_Cambodia" title="Category:Birds of Cambodia">Birds of Cambodia</a></li><li><a href="/wiki/Category:Birds_of_China" title="Category:Birds of China">Birds of China</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Indonesia" title="Category:Birds of Indonesia">Birds of Indonesia</a></li><li><a href="/wiki/Category:Birds_of_Japan" title="Category:Birds of Japan">Birds of Japan</a></li><li><a href="/wiki/Category:Birds_of_Laos" title="Category:Birds of Laos">Birds of Laos</a></li><li><a href="/wiki/Category:Birds_of_Malaysia" title="Category:Birds of Malaysia">Birds of Malaysia</a></li><li><a href="/wiki/Category:Birds_of_Burma" title="Category:Birds of Burma">Birds of Burma</a></li><li><a href="/wiki/Category:Birds_of_Nepal" title="Category:Birds of Nepal">Birds of Nepal</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Singapore" title="Category:Birds of Singapore">Birds of Singapore</a></li><li><a href="/wiki/Category:Birds_of_Sri_Lanka" title="Category:Birds of Sri Lanka">Birds of Sri Lanka</a></li><li><a href="/wiki/Category:Birds_of_Taiwan" title="Category:Birds of Taiwan">Birds of Taiwan</a></li><li><a href="/wiki/Category:Birds_of_Thailand" title="Category:Birds of Thailand">Birds of Thailand</a></li><li><a href="/wiki/Category:Birds_of_Vietnam" title="Category:Birds of Vietnam">Birds of Vietnam</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:438705-0!canonical and timestamp 20201101014155 and revision id 932574338
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lesser_whistling_duck&amp;oldid=932574338">https://en.wikipedia.org/w/index.php?title=Lesser_whistling_duck&amp;oldid=932574338</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Dendrocygninae" title="Category:Dendrocygninae">Dendrocygninae</a></li><li><a href="/wiki/Category:Birds_of_China" title="Category:Birds of China">Birds of China</a></li><li><a href="/wiki/Category:Birds_of_South_Asia" title="Category:Birds of South Asia">Birds of South Asia</a></li><li><a href="/wiki/Category:Birds_of_Southeast_Asia" title="Category:Birds of Southeast Asia">Birds of Southeast Asia</a></li><li><a href="/wiki/Category:Birds_described_in_1821" title="Category:Birds described in 1821">Birds described in 1821</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">CS1 maint: ref=harv</a></li><li><a href="/wiki/Category:Cite_iucn_maint" title="Category:Cite iucn maint">Cite iucn maint</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:AC_with_0_elements" title="Category:AC with 0 elements">AC with 0 elements</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lesser+whistling+duck" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lesser+whistling+duck" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Lesser_whistling_duck" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Lesser_whistling_duck" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lesser+Whistling+Duck&amp;type=signup">Create account</a></li>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lesser+Whistling+Duck" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Lesser_Whistling_Duck"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:Lesser_Whistling_Duck"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-	<h4>
-		</h4>
-	<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Lesser_whistling_duck">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Lesser_whistling_duck&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Lesser_whistling_duck&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Lesser_Whistling_Duck" >Read</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
 	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
 
-<!-- /2 -->
-			</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
 	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
 	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lesser_Whistling_Duck" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lesser_Whistling_Duck" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Lesser_Whistling_Duck&amp;oldid=508654978" title="Permanent link to this revision of the page">Permanent link</a></li>
-			<li><a href="/w/index.php?title=Lesser_Whistling_Duck&amp;action=info">Page information</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Lesser_Whistling_Duck&amp;id=508654978" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /TOOLBOX -->
-
-<!-- coll-print_export -->
-<div class="portal" id='p-coll-print_export'>
-	<h5>Print/export</h5>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lesser+Whistling+Duck" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Lesser+Whistling+Duck&amp;oldid=508654978&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lesser_Whistling_Duck&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- LANGUAGES -->
-<div class="portal" id='p-lang'>
-	<h5>Languages</h5>
-	<div class="body">
-		<ul>
-			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Hindistan_fit%C3%A7alan_%C3%B6rd%C9%99yi" title="Hindistan fitçalan ördəyi" lang="az" hreflang="az">Azərbaycanca</a></li>
-			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/%C3%80nec_arbori_menut" title="Ànec arbori menut" lang="ca" hreflang="ca">Català</a></li>
-			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Zwergpfeifgans" title="Zwergpfeifgans" lang="de" hreflang="de">Deutsch</a></li>
-			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Dendrocygna_javanica" title="Dendrocygna javanica" lang="es" hreflang="es">Español</a></li>
-			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Sudazia_arbanaso" title="Sudazia arbanaso" lang="eo" hreflang="eo">Esperanto</a></li>
-			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Dendrocygna_javanica" title="Dendrocygna javanica" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%DA%A9_%D8%B3%D9%88%D8%AA%E2%80%8C%D8%B2%D9%86_%D9%87%D9%86%D8%AF%DB%8C" title="اردک سوت‌زن هندی" lang="fa" hreflang="fa">فارسی</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Dendrocygne_siffleur" title="Dendrocygne siffleur" lang="fr" hreflang="fr">Français</a></li>
-			<li class="interwiki-jv"><a href="//jv.wikipedia.org/wiki/Mliwis" title="Mliwis" lang="jv" hreflang="jv">Basa Jawa</a></li>
-			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/J%C3%A1vai_f%C3%BCty%C3%BCl%C5%91l%C3%BAd" title="Jávai fütyülőlúd" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%86%E0%B4%B1%E0%B4%BF%E0%B4%AF_%E0%B4%9A%E0%B5%82%E0%B4%B3%E0%B4%BE%E0%B5%BB_%E0%B4%8E%E0%B4%B0%E0%B4%A3%E0%B5%8D%E0%B4%9F" title="ചെറിയ ചൂളാൻ എരണ്ട" lang="ml" hreflang="ml">മലയാളം</a></li>
-			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Itik_Belibis" title="Itik Belibis" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
-			<li class="interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%BD%D1%8B_%D0%B0%D0%BD%D1%85%D0%B8%D1%80" title="Модны анхир" lang="mn" hreflang="mn">Монгол</a></li>
-			<li class="interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%85%E1%80%85%E1%80%BA%E1%80%85%E1%80%9C%E1%80%AE%E1%80%84%E1%80%BE%E1%80%80%E1%80%BA" title="စစ်စလီငှက်" lang="my" hreflang="my">မြန်မာဘာသာ</a></li>
-			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Indische_fluiteend" title="Indische fluiteend" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%AC%E3%83%A2" title="リュウキュウガモ" lang="ja" hreflang="ja">日本語</a></li>
-			<li class="interwiki-pnb"><a href="//pnb.wikipedia.org/wiki/%D9%86%DA%A9%DB%8C_%D8%B3%DB%8C%D9%B9%DB%8C_%D9%85%D8%A7%D8%B1_%D8%A8%D8%B7%D8%AE" title="نکی سیٹی مار بطخ" lang="pnb" hreflang="pnb">پنجابی</a></li>
-			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Drzewica_indyjska" title="Drzewica indyjska" lang="pl" hreflang="pl">Polski</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D1%81%D0%B2%D0%B8%D1%81%D1%82%D1%8F%D1%89%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0" title="Малая свистящая утка" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Orientalisk_visseland" title="Orientalisk visseland" lang="sv" hreflang="sv">Svenska</a></li>
-			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%94%E0%B9%81%E0%B8%94%E0%B8%87" title="เป็ดแดง" lang="th" hreflang="th">ไทย</a></li>
-			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Java_%C4%B1sl%C4%B1k%C3%A7%C4%B1_%C3%B6rde%C4%9Fi" title="Java ıslıkçı ördeği" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Le_n%C3%A2u" title="Le nâu" lang="vi" hreflang="vi">Tiếng Việt</a></li>
-			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%A0%97%E6%A0%91%E9%B8%AD" title="栗树鸭" lang="zh" hreflang="zh">中文</a></li>
-		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
 	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lesser_whistling_duck" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lesser_whistling_duck" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lesser_whistling_duck&amp;oldid=932574338" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lesser_whistling_duck&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lesser_whistling_duck&amp;id=932574338&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q244284" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Lesser_whistling_duck&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lesser_whistling_duck&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dendrocygna_javanica" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Dendrocygna_javanica" hreflang="en">Wikispecies</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%B6%E0%A7%B0%E0%A6%BE%E0%A6%B2%E0%A6%BF_%E0%A6%B9%E0%A6%BE%E0%A6%81%E0%A6%B9" title="শৰালি হাঁহ – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Hindistan_fit%C3%A7alan_%C3%B6rd%C9%99yi" title="Hindistan fitçalan ördəyi – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Blibis" title="Blibis – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF_%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%B2%E0%A6%BF" title="পাতি সরালি – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%B0_%D1%81%D0%B2%D0%B8%D1%80%D0%B5%D1%89%D0%B0_%D0%BF%D0%B0%D1%82%D0%B8%D1%86%D0%B0" title="Индийска свиреща патица – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/%C3%80nec_arbori_menut" title="Ànec arbori menut – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Dendrocygna_javanica" title="Dendrocygna javanica – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Husi%C4%8Dka_mal%C3%A1" title="Husička malá – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Hwyaden_chwibanog_fechan" title="Hwyaden chwibanog fechan – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Zwergpfeifgans" title="Zwergpfeifgans – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Dendrocygna_javanica" title="Dendrocygna javanica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Sudazia_arbanaso" title="Sudazia arbanaso – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Dendrocygna_javanica" title="Dendrocygna javanica – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%DA%A9_%D8%B3%D9%88%D8%AA%E2%80%8C%D8%B2%D9%86_%D9%87%D9%86%D8%AF%DB%8C" title="اردک سوت‌زن هندی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Dendrocygne_siffleur" title="Dendrocygne siffleur – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Belibis_polos" title="Belibis polos – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Dendrocygna_javanica" title="Dendrocygna javanica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%95%D7%96_%D7%A9%D7%95%D7%A8%D7%A7_%D7%A7%D7%98%D7%9F" title="ברווז שורק קטן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Mliwis" title="Mliwis – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/J%C3%A1vai_f%C3%BCty%C3%BCl%C5%91l%C3%BAd" title="Jávai fütyülőlúd – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%82%E0%B4%B3%E0%B5%BB_%E0%B4%8E%E0%B4%B0%E0%B4%A3%E0%B5%8D%E0%B4%9F" title="ചൂളൻ എരണ്ട – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%A1%E0%A4%88" title="अडई – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Itik_Belibis" title="Itik Belibis – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%BD%D1%8B_%D0%B0%D0%BD%D1%85%D0%B8%D1%80" title="Модны анхир – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%85%E1%80%85%E1%80%BA%E1%80%85%E1%80%9C%E1%80%AE%E1%80%84%E1%80%BE%E1%80%80%E1%80%BA" title="စစ်စလီငှက် – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Indische_fluiteend" title="Indische fluiteend – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A4%BF%E0%A4%B2%E0%A4%B8%E0%A4%BF%E0%A4%B2%E0%A5%87" title="सिलसिले – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%AC%E3%83%A2" title="リュウキュウガモ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Sm%C3%A5plystreand" title="Småplystreand – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%9F%E0%A9%80%E0%A8%B2_(%E0%A8%AC%E0%A9%B1%E0%A8%A4%E0%A8%96%E0%A8%BC)" title="ਟੀਲ (ਬੱਤਖ਼) – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%86%DA%A9%DB%8C_%D8%B3%DB%8C%D9%B9%DB%8C_%D9%85%D8%A7%D8%B1_%D8%A8%D8%B7%D8%AE" title="نکی سیٹی مار بطخ – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Drzewica_indyjska" title="Drzewica indyjska – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D1%81%D0%B2%D0%B8%D1%81%D1%82%D1%8F%D1%89%D0%B0%D1%8F_%D1%83%D1%82%D0%BA%D0%B0" title="Малая свистящая утка – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Intianvihelt%C3%A4j%C3%A4sorsa" title="Intianviheltäjäsorsa – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Orientvisseland" title="Orientvisseland – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%BF%E0%AE%AF_%E0%AE%9A%E0%AF%80%E0%AE%B4%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%B0%E0%AE%B5%E0%AE%BF" title="சிறிய சீழ்க்கைச்சிரவி – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%94%E0%B9%81%E0%B8%94%E0%B8%87" title="เป็ดแดง – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Java_%C4%B1sl%C4%B1k%C3%A7%C4%B1_%C3%B6rde%C4%9Fi" title="Java ıslıkçı ördeği – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Le_n%C3%A2u" title="Le nâu – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Dendrocygna_javanica" title="Dendrocygna javanica – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%A0%97%E6%A0%91%E9%B8%AD" title="栗树鸭 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q244284#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
 </div>
 
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 22 August 2012 at 18:27.<br /></li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
-Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Lesser_Whistling_Duck&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
-}</script>
-<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by srv289 in 0.132 secs. -->
-	</body>
-</html>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 26 December 2019, at 22:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lesser_whistling_duck&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.848","walltime":"1.134","ppvisitednodes":{"value":6573,"limit":1000000},"postexpandincludesize":{"value":62680,"limit":2097152},"templateargumentsize":{"value":4916,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":76207,"limit":5000000},"entityaccesscount":{"value":12,"limit":400},"timingprofile":["100.00% 1046.412      1 -total"," 41.29%  432.064      1 Template:Speciesbox"," 40.60%  424.798      1 Template:Taxobox/core"," 24.04%  251.513      1 Template:Reflist"," 17.34%  181.411      1 Template:Taxonbar"," 12.01%  125.706      1 Template:Cite_iucn","  7.03%   73.605     17 Template:Cite_journal","  6.99%   73.168      1 Template:Commons_category","  6.56%   68.648      1 Template:Short_description","  6.56%   68.597      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.608","limit":"10.000"},"limitreport-memusage":{"value":7618139,"limit":52428800}},"cachereport":{"origin":"mw1352","timestamp":"20201101014156","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lesser whistling duck","url":"https:\/\/en.wikipedia.org\/wiki\/Lesser_whistling_duck","sameAs":"http:\/\/www.wikidata.org\/entity\/Q244284","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q244284","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-01-22T06:51:53Z","dateModified":"2019-12-26T22:19:32Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/87\/Dendrocygna_javanica_-_Chiang_Mai.jpg","headline":"species of bird"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":208,"wgHostname":"mw1384"});});</script>
+</body></html>

@@ -1,832 +1,284 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Brown-throated Martin - Wikipedia, the free encyclopedia</title>
-<meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf3" />
-<link rel="canonical" href="/wiki/Brown-throated_Martin" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brown-throated_Martin&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Brown-throated_Martin&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
-
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brown-throated_Martin","wgTitle":"Brown-throated Martin","wgCurRevisionId":516672360,"wgArticleId":1075667,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with French language external links","IUCN Red List least concern species","Articles with \'species\' microformats","Riparia","Birds of Nepal","Birds of Pakistan","Birds of Bhutan","Birds of India","Birds of Bangladesh"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brown-throated_Martin","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Plain_Martin","wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"a5f7466c7f9390983e8495b8dba746b2","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":1075667,"title":"Brown-throated Martin","namespace":0,"categories":["Articles with \'species\' microformats","Articles with French language external links","Birds of Bangladesh","Birds of Bhutan","Birds of India","Birds of Nepal","Birds of Pakistan","IUCN Red List least concern species","Riparia"],"permissionLevel":"aft-reader"}});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
-"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
-}</script>
-<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf3/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Brown-throated_Martin skin-vector action-view vector-animateLayout">
-		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content" class="mw-body">
-			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Brown-throated Martin</span></h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- tagline -->
-				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-				<!-- /tagline -->
-								<!-- subtitle -->
-				<div id="contentSub">  (Redirected from <a href="/w/index.php?title=Plain_Martin&amp;redirect=no" title="Plain Martin">Plain Martin</a>)</div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
-<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
-<tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Brown-throated Martin</th>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Riparia_paludicola_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Riparia_paludicola_1.jpg/220px-Riparia_paludicola_1.jpg" width="220" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Riparia_paludicola_1.jpg/330px-Riparia_paludicola_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Riparia_paludicola_1.jpg/440px-Riparia_paludicola_1.jpg 2x" /></a></td>
-</tr>
-<tr style="text-align: center; background-color: rgb(211,211,164)">
-<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
-</tr>
-<tr>
-<td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" /><br />
-<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN2012_0-0" class="reference"><a href="#cite_note-IUCN2012-0"><span>[</span>1<span>]</span></a></sup></small></div>
-</td>
-</tr>
-<tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
-</tr>
-<tr>
-<td>Kingdom:</td>
-<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
-</tr>
-<tr>
-<td>Phylum:</td>
-<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
-</tr>
-<tr>
-<td>Class:</td>
-<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
-</tr>
-<tr>
-<td>Order:</td>
-<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passerine" title="Passerine">Passeriformes</a></span></td>
-</tr>
-<tr>
-<td>Family:</td>
-<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Swallow" title="Swallow">Hirundinidae</a></span></td>
-</tr>
-<tr>
-<td>Genus:</td>
-<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Riparia" title="Riparia">Riparia</a></i></span></td>
-</tr>
-<tr>
-<td>Species:</td>
-<td><span class="species" style="white-space:nowrap;"><i><b>R. paludicola</b></i></span></td>
-</tr>
-<tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Riparia paludicola</i></span></b><br />
-<small>(<a href="/wiki/Louis_Jean_Pierre_Vieillot" title="Louis Jean Pierre Vieillot">Vieillot</a>, 1817)</small></td>
-</tr>
-</table>
-</div>
-<p>The <b>Brown-throated Martin</b> or <b>Brown-throated Sand Martin</b> (<i>Riparia paludicola</i>) is a small <a href="/wiki/Passerine" title="Passerine">passerine</a> <a href="/wiki/Bird" title="Bird">bird</a> in the <a href="/wiki/Hirundinidae" title="Hirundinidae" class="mw-redirect">swallow family</a>. It was first formally described as <i>Hirundo paludicola</i> by <a href="/wiki/France" title="France">French</a> <a href="/wiki/Ornithologist" title="Ornithologist" class="mw-redirect">ornithologist</a> <a href="/wiki/Louis_Jean_Pierre_Vieillot" title="Louis Jean Pierre Vieillot">Louis Vieillot</a> in 1817 in his <i>Nouveau Dictionnaire d'Histoire Naturelle</i>.<sup id="cite_ref-viellot_1-0" class="reference"><a href="#cite_note-viellot-1"><span>[</span>2<span>]</span></a></sup></p>
-<p>It has a wide range in <a href="/wiki/Africa" title="Africa">Africa</a> and across <a href="/wiki/India" title="India">India</a> and other parts of southern <a href="/wiki/Asia" title="Asia">Asia</a>. It is a <a href="/wiki/Bird_migration" title="Bird migration">partially migratory</a> species, with some populations making seasonal movements. It is usually associated closely with water.</p>
-<p>The Brown-throated Martin is colonial in its nesting habits, with many pairs breeding close together, according to available space. The nests are at the end of tunnels of 30 to 60&#160;cm in length, bored in sandbanks. The actual nest is a litter of straw and feathers in a chamber at the end of the burrow. Two to four white eggs are the normal clutch, and are incubated by both parents.</p>
-<p>Its brown back, small size and quicker, jerkier flight separate Brown-throated Martin at once from most other members of the swallow family. It is most similar to the <a href="/wiki/Sand_Martin" title="Sand Martin">Sand Martin</a>, <i>Riparia riparia</i> , which is its northern counterpart. Where the breeding ranges overlap in southern Asia, Brown-throated Sand Martins tend to breed at lower altitudes than their relative. In the northern winter, both species are found in the same wetland habitats.</p>
-<p>The 12&#160;cm long Brown-throated Martin is brown above and white or pale brown below. It lacks the narrow brown band on the breast shown by the Sand Martin; the bill is black and the legs are brown. Sexes are similar, but the young have pale tips to the feathers on the rump and wings.</p>
-<p>There are seven races differing in size and the plumage tones of the upperparts or <a href="/w/index.php?title=Underparts&amp;action=edit&amp;redlink=1" class="new" title="Underparts (page does not exist)">underparts</a>.<sup id="cite_ref-Turner_2-0" class="reference"><a href="#cite_note-Turner-2"><span>[</span>3<span>]</span></a></sup></p>
-<ul>
-<li><i>R. p. paludicola</i>, southern Africa. White underparts.</li>
-<li><i>R. p. paludibula</i>, western Africa. Smaller and darker above than the nominate form.</li>
-<li><i>R. p. ducis</i>, eastern Africa. Smaller and darker above and below than the nominate subspecies.</li>
-<li><i>R. p. mauretanica</i>, <a href="/wiki/Morocco" title="Morocco">Morocco</a>. Small and pale</li>
-<li><i>R. p. newtoni</i>, mountains of <a href="/wiki/Cameroon" title="Cameroon">Cameroon</a> only. Darker above than the nominate form, brownish underparts.</li>
-<li><i>R. p. cowani</i>, <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>. Small, greyish underparts.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup></li>
-<li><i>R. p. chinensis</i>, southern Asia. Pale underparts and throat.</li>
-</ul>
-<p>The food of this species consists of small <a href="/wiki/Insect" title="Insect">insects</a>, mostly gnats and other flies whose early stages are aquatic.</p>
-<p>The twittering song of Brown-throated Martin is continuous when the birds are on the wing, and becomes a conversational undertone after they have settled in the roost. There is also a harsh alarm call.</p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Brown-throated_Martin&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-IUCN2012-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUCN2012_0-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106007106">"<i>Riparia paludicola</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106007106">http://www.iucnredlist.org/apps/redlist/details/106007106</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Riparia+paludicola%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106007106&amp;rfr_id=info:sid/en.wikipedia.org:Brown-throated_Martin"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-viellot-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-viellot_1-0">^</a></b></span> <span class="reference-text"><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span> Vieillot, Louis Jean Pierre (1817): <i>Nouveau Dictionnaire d'Histoire Naturelle</i> nouvelle édition, <b>14</b>, 511.</span></li>
-<li id="cite_note-Turner-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Turner_2-0">^</a></b></span> <span class="reference-text"><span class="citation book">Turner, Angela K; Rose, Chris (1989-11). <a rel="nofollow" class="external text" href="http://books.google.com/?id=5NoPAQAAMAAJ"><i>Swallows and Martins: an identification guide and handbook</i></a>. Houghton Mifflin. pp.&#160;133–136. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-395-51174-7" title="Special:BookSources/0-395-51174-7">0-395-51174-7</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/?id=5NoPAQAAMAAJ">http://books.google.com/?id=5NoPAQAAMAAJ</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Swallows+and+Martins%3A+an+identification+guide+and+handbook&amp;rft.aulast=Turner&amp;rft.aufirst=Angela+K&amp;rft.au=Turner%2C%26%2332%3BAngela+K&amp;rft.date=1989-11&amp;rft.pages=pp.%26nbsp%3B133%E2%80%93136&amp;rft.pub=Houghton+Mifflin&amp;rft.isbn=0-395-51174-7&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D5NoPAQAAMAAJ&amp;rfr_id=info:sid/en.wikipedia.org:Brown-throated_Martin"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book">Linnean Society of London (1883). <a rel="nofollow" class="external text" href="http://books.google.com/?id=HtMUAAAAYAAJ&amp;pg=PA322"><i>The Journal of the Linnean Society of London: Zoology</i></a>. Academic Press. p.&#160;322<span class="printonly">. <a rel="nofollow" class="external free" href="http://books.google.com/?id=HtMUAAAAYAAJ&amp;pg=PA322">http://books.google.com/?id=HtMUAAAAYAAJ&amp;pg=PA322</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Journal+of+the+Linnean+Society+of+London%3A+Zoology&amp;rft.aulast=Linnean+Society+of+London&amp;rft.au=Linnean+Society+of+London&amp;rft.date=1883&amp;rft.pages=p.%26nbsp%3B322&amp;rft.pub=Academic+Press&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DHtMUAAAAYAAJ%26pg%3DPA322&amp;rfr_id=info:sid/en.wikipedia.org:Brown-throated_Martin"><span style="display: none;">&#160;</span></span></span></li>
-</ol>
-</div>
-<h2><span class="editsection">[<a href="/w/index.php?title=Brown-throated_Martin&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
-<ul>
-<li>Brown-throated Martin - <a rel="nofollow" class="external text" href="http://sabap2.adu.org.za/docs/sabap1/533.pdf">Species text in The Atlas of Southern African Birds</a>.</li>
-</ul>
-<table cellspacing="0" class="navbox" style="border-spacing:0;;">
-<tr>
-<td style="padding:2px;">
-<table cellspacing="0" class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
-<tr>
-<th scope="col" style=";" class="navbox-title" colspan="2">
-<div class="noprint plainlinks hlist navbar mini" style="">
-<ul>
-<li class="nv-view"><a href="/wiki/Template:Hirundinidae" title="Template:Hirundinidae"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
-<li class="nv-talk"><a href="/wiki/Template_talk:Hirundinidae" title="Template talk:Hirundinidae"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hirundinidae&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
-</ul>
-</div>
-<div class="" style="font-size:110%;"><a href="/wiki/Swallow" title="Swallow">Swallows</a> (<a href="/wiki/Family_(biology)" title="Family (biology)">family</a>: Hirundinidae)</div>
-</th>
-</tr>
-<tr style="height:2px;">
-<td></td>
-</tr>
-<tr>
-<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
-<tr>
-<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
-<div class="" style="font-size:110%;"><a href="/wiki/River_martin" title="River martin">River martins</a> (<b>subfamily: Pseudochelidoninae</b> · <b>genus: <i>Pseudochelidon</i></b>)</div>
-</th>
-</tr>
-<tr style="height:2px;">
-<td></td>
-</tr>
-<tr>
-<td colspan="2" style="width:100%;padding:0px;background:#eef;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"><b><a href="/wiki/Species" title="Species">Species</a></b></div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/River_martin" title="River martin">Pseudochelidon</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/African_River_Martin" title="African River Martin">African River Martin</a></li>
-<li><a href="/wiki/White-eyed_River_Martin" title="White-eyed River Martin">White-eyed River Martin</a></li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
-<tr>
-<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
-<div class="" style="font-size:110%;">All other swallows and martins (<b>subfamily: Hirundininae</b>)</div>
-</th>
-</tr>
-<tr style="height:2px;">
-<td></td>
-</tr>
-<tr>
-<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em"></div>
-<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><b><a href="/wiki/Genus" title="Genus">Genus</a></b></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;background:#eef;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><b><a href="/wiki/Species" title="Species">Species</a></b></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Saw-wing" title="Saw-wing">Psalidoprocne</a></i><br />
-(saw-wings)</div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Square-tailed_Saw-wing" title="Square-tailed Saw-wing">Square-tailed Saw-wing</a></li>
-<li><a href="/wiki/Mountain_Saw-wing" title="Mountain Saw-wing">Mountain Saw-wing</a></li>
-<li><a href="/wiki/White-headed_Saw-wing" title="White-headed Saw-wing">White-headed Saw-wing</a></li>
-<li><a href="/wiki/Black_Saw-wing" title="Black Saw-wing">Black Saw-wing</a></li>
-<li><a href="/wiki/Fanti_Saw-wing" title="Fanti Saw-wing">Fanti Saw-wing</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Pseudhirundo</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Grey-rumped_Swallow" title="Grey-rumped Swallow">Grey-rumped Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Phedina" title="Phedina">Phedina</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Mascarene_Martin" title="Mascarene Martin">Mascarene Martin</a></li>
-<li><a href="/wiki/Brazza%27s_Martin" title="Brazza's Martin">Brazza's Martin</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Riparia" title="Riparia">Riparia</a></i><br />
-(sand martins)</div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Brown-throated_Sand_Martin" title="Brown-throated Sand Martin" class="mw-redirect">Brown-throated Sand Martin</a></li>
-<li><a href="/wiki/Congo_Sand_Martin" title="Congo Sand Martin" class="mw-redirect">Congo Sand Martin</a></li>
-<li><a href="/wiki/Sand_Martin" title="Sand Martin">Sand Martin</a></li>
-<li><a href="/wiki/Sand_Martin" title="Sand Martin">Pale Martin</a></li>
-<li><a href="/wiki/Banded_Martin" title="Banded Martin">Banded Martin</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Tachycineta" title="Tachycineta">Tachycineta</a></i><br />
-(tree swallows)</div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Tree_Swallow" title="Tree Swallow">Tree Swallow</a></li>
-<li><a href="/wiki/Violet-green_Swallow" title="Violet-green Swallow">Violet-green Swallow</a></li>
-<li><a href="/wiki/Golden_Swallow_(bird)" title="Golden Swallow (bird)">Golden Swallow</a></li>
-<li><a href="/wiki/Bahama_Swallow" title="Bahama Swallow">Bahama Swallow</a></li>
-<li><a href="/wiki/Tumbes_Swallow" title="Tumbes Swallow">Tumbes Swallow</a></li>
-<li><a href="/wiki/Mangrove_Swallow" title="Mangrove Swallow">Mangrove Swallow</a></li>
-<li><a href="/wiki/White-winged_Swallow" title="White-winged Swallow">White-winged Swallow</a></li>
-<li><a href="/wiki/White-rumped_Swallow" title="White-rumped Swallow">White-rumped Swallow</a></li>
-<li><a href="/wiki/Chilean_Swallow" title="Chilean Swallow">Chilean Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Progne" title="Progne">Progne</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Purple_Martin" title="Purple Martin">Purple Martin</a></li>
-<li><a href="/wiki/Caribbean_Martin" title="Caribbean Martin">Caribbean Martin</a></li>
-<li><a href="/wiki/Sinaloa_Martin" title="Sinaloa Martin">Sinaloa Martin</a></li>
-<li><a href="/wiki/Gray-breasted_Martin" title="Gray-breasted Martin">Gray-breasted Martin</a></li>
-<li><a href="/wiki/Gal%C3%A1pagos_Martin" title="Galápagos Martin">Galápagos Martin</a></li>
-<li><a href="/wiki/Peruvian_Martin" title="Peruvian Martin">Peruvian Martin</a></li>
-<li><a href="/wiki/Southern_Martin" title="Southern Martin">Southern Martin</a></li>
-<li><a href="/wiki/Brown-chested_Martin" title="Brown-chested Martin">Brown-chested Martin</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Notiochelidon" title="Notiochelidon">Notiochelidon</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Brown-bellied_Swallow" title="Brown-bellied Swallow">Brown-bellied Swallow</a></li>
-<li><a href="/wiki/Blue-and-white_Swallow" title="Blue-and-white Swallow">Blue-and-white Swallow</a></li>
-<li><a href="/wiki/Pale-footed_Swallow" title="Pale-footed Swallow">Pale-footed Swallow</a></li>
-<li><a href="/wiki/Black-capped_Swallow" title="Black-capped Swallow">Black-capped Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Haplochelidon</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Andean_Swallow" title="Andean Swallow">Andean Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Atticora" title="Atticora">Atticora</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/White-banded_Swallow" title="White-banded Swallow">White-banded Swallow</a></li>
-<li><a href="/wiki/Black-collared_Swallow" title="Black-collared Swallow">Black-collared Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Neochelidon</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/White-thighed_Swallow" title="White-thighed Swallow">White-thighed Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Stelgidopteryx" title="Stelgidopteryx">Stelgidopteryx</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Northern_Rough-winged_Swallow" title="Northern Rough-winged Swallow">Northern Rough-winged Swallow</a></li>
-<li><a href="/wiki/Southern_Rough-winged_Swallow" title="Southern Rough-winged Swallow">Southern Rough-winged Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Alopochelidon</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Tawny-headed_Swallow" title="Tawny-headed Swallow">Tawny-headed Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Hirundo" title="Hirundo">Hirundo</a></i><br />
-(barn swallows)</div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Barn_Swallow" title="Barn Swallow">Barn Swallow</a></li>
-<li><a href="/wiki/Red-chested_Swallow" title="Red-chested Swallow">Red-chested Swallow</a></li>
-<li><a href="/wiki/Angola_Swallow" title="Angola Swallow">Angola Swallow</a></li>
-<li><a href="/wiki/Pacific_Swallow" title="Pacific Swallow">Pacific Swallow</a></li>
-<li><a href="/wiki/Welcome_Swallow" title="Welcome Swallow">Welcome Swallow</a></li>
-<li><a href="/wiki/White-throated_Swallow" title="White-throated Swallow">White-throated Swallow</a></li>
-<li><a href="/wiki/Ethiopian_Swallow" title="Ethiopian Swallow">Ethiopian Swallow</a></li>
-<li><a href="/wiki/Wire-tailed_Swallow" title="Wire-tailed Swallow">Wire-tailed Swallow</a></li>
-<li><a href="/wiki/White-throated_Blue_Swallow" title="White-throated Blue Swallow" class="mw-redirect">White-throated Blue Swallow</a></li>
-<li><a href="/wiki/Pied-winged_Swallow" title="Pied-winged Swallow">Pied-winged Swallow</a></li>
-<li><a href="/wiki/White-tailed_Swallow" title="White-tailed Swallow">White-tailed Swallow</a></li>
-<li><a href="/wiki/Pearl-breasted_Swallow" title="Pearl-breasted Swallow">Pearl-breasted Swallow</a></li>
-<li><a href="/wiki/Blue_Swallow" title="Blue Swallow">Blue Swallow</a></li>
-<li><a href="/wiki/Black-and-rufous_Swallow" title="Black-and-rufous Swallow">Black-and-rufous Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Crag_martin" title="Crag martin">Ptyonoprogne</a></i><br />
-(crag martins)</div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Eurasian_Crag_Martin" title="Eurasian Crag Martin">Eurasian Crag Martin</a></li>
-<li><a href="/wiki/Rock_Martin" title="Rock Martin">Rock Martin</a></li>
-<li><a href="/wiki/Dusky_Crag_Martin" title="Dusky Crag Martin">Dusky Crag Martin</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Delichon" title="Delichon">Delichon</a></i><br />
-(house martins)</div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Common_House_Martin" title="Common House Martin">Common House Martin</a></li>
-<li><a href="/wiki/Asian_House_Martin" title="Asian House Martin">Asian House Martin</a></li>
-<li><a href="/wiki/Nepal_House_Martin" title="Nepal House Martin">Nepal House Martin</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Cecropis" title="Cecropis">Cecropis</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Greater_Striped_Swallow" title="Greater Striped Swallow">Greater Striped Swallow</a></li>
-<li><a href="/wiki/Lesser_Striped_Swallow" title="Lesser Striped Swallow">Lesser Striped Swallow</a></li>
-<li><a href="/wiki/Rufous-chested_Swallow" title="Rufous-chested Swallow" class="mw-redirect">Rufous-chested Swallow</a></li>
-<li><a href="/wiki/Mosque_Swallow" title="Mosque Swallow">Mosque Swallow</a></li>
-<li><a href="/wiki/Red-rumped_Swallow" title="Red-rumped Swallow">Red-rumped Swallow</a></li>
-<li><a href="/wiki/Striated_Swallow" title="Striated Swallow">Striated Swallow</a></li>
-<li><a href="/wiki/Striated_Swallow" title="Striated Swallow">Striated Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i><a href="/wiki/Petrochelidon" title="Petrochelidon">Petrochelidon</a></i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/Forest_Swallow" title="Forest Swallow">Forest Swallow</a></li>
-<li><a href="/wiki/Streak-throated_Swallow" title="Streak-throated Swallow">Streak-throated Swallow</a></li>
-<li><a href="/wiki/Fairy_Martin" title="Fairy Martin">Fairy Martin</a></li>
-<li><a href="/wiki/Tree_Martin" title="Tree Martin">Tree Martin</a></li>
-<li><a href="/wiki/American_Cliff_Swallow" title="American Cliff Swallow">American Cliff Swallow</a></li>
-<li><a href="/wiki/Red-throated_Cliff_Swallow" title="Red-throated Cliff Swallow">Red-throated Cliff Swallow</a></li>
-<li><a href="/wiki/Preuss%27s_Cliff_Swallow" title="Preuss's Cliff Swallow">Preuss's Cliff Swallow</a></li>
-<li><a href="/wiki/Red_Sea_Cliff_Swallow" title="Red Sea Cliff Swallow">Red Sea Cliff Swallow</a></li>
-<li><a href="/wiki/South_African_Cliff_Swallow" title="South African Cliff Swallow">South African Cliff Swallow</a></li>
-<li><a href="/wiki/Cave_Swallow" title="Cave Swallow">Cave Swallow</a></li>
-<li><a href="/wiki/Chestnut-collared_Swallow" title="Chestnut-collared Swallow">Chestnut-collared Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-<tr style="height:2px">
-<td></td>
-</tr>
-<tr>
-<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;width:10em;;">
-<div style="padding:0em 0.75em;"><i>Cheramoeca</i></div>
-</th>
-<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
-<div style="padding:0em 0.25em">
-<ul>
-<li><a href="/wiki/White-backed_Swallow" title="White-backed Swallow">White-backed Swallow</a></li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-
+<meta charset="UTF-8"/>
+<title>Plain martin - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"301e4f70-2fcf-4a6d-9e03-01b49e65f762","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Plain_martin","wgTitle":"Plain martin","wgCurRevisionId":839101275,"wgRevisionId":839101275,"wgArticleId":1075673,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Disambiguation pages with short descriptions","Short description is different from Wikidata","All article disambiguation pages","All disambiguation pages","Animal common name disambiguation pages","Disambiguation pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Plain_martin","wgRelevantArticleId":1075673,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Plain_Martin","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Plain_martin","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q15947402"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Plain_martin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Plain_martin&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Plain_martin&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Plain_martin"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Plain_martin rootpage-Plain_martin skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Plain martin</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Plain_Martin&amp;redirect=no" class="mw-redirect" title="Plain Martin">Plain Martin</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The <b>plain martin</b> has been split into two species:
+</p>
+<ul><li><a href="/wiki/Brown-throated_martin" title="Brown-throated martin">Brown-throated martin</a> (<i>Riparia paludicola</i>), found in Africa and Madagascar</li>
+<li><a href="/wiki/Grey-throated_martin" title="Grey-throated martin">Grey-throated martin</a> (<i>Riparia chinensis</i>), found in Asia</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <a href="/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambiguation icon" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" decoding="async" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168" /></a></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Disambiguation page providing links to topics that could be referred to by the same search term</div>This <a href="/wiki/Help:Disambiguation" title="Help:Disambiguation">disambiguation</a> page lists  articles associated with the title <b>Plain martin</b>. <br /> <small>If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Plain_martin&amp;namespace=0">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</small> </td>
+</tr>
+</tbody></table>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 7648/1000000
-Preprocessor generated node count: 56185/1500000
-Post-expand include size: 159809/2048000 bytes
-Template argument size: 77412/2048000 bytes
-Highest expansion depth: 19/40
+Parsed by mw2336
+Cached time: 20201026083647
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.104 seconds
+Real time usage: 0.155 seconds
+Preprocessor visited node count: 1226/1000000
+Post‐expand include size: 4623/2097152 bytes
+Template argument size: 1505/2097152 bytes
+Highest expansion depth: 16/40
 Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 247/5000000 bytes
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.13 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  146.952      1 Template:Disambiguation
+100.00%  146.952      1 -total
+ 79.05%  116.161      1 Template:Dmbox
+ 33.79%   49.656      1 Template:Disambiguation_page_short_description
+ 32.19%   47.307      1 Template:Short_description
+ 29.20%   42.914      3 Template:Main_other
+ 22.26%   32.712      1 Template:Category_handler
+ 10.91%   16.035      1 Template:SDcat
+ 10.82%   15.904     10 Template:Disambiguation/cat
+ 10.82%   15.899      2 Template:Title_disambig_text
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:1075667-0!*!0!!*!4!* and timestamp 20121101162814 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Brown-throated_Martin&amp;oldid=516672360">http://en.wikipedia.org/w/index.php?title=Brown-throated_Martin&amp;oldid=516672360</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Riparia" title="Category:Riparia">Riparia</a></li><li><a href="/wiki/Category:Birds_of_Nepal" title="Category:Birds of Nepal">Birds of Nepal</a></li><li><a href="/wiki/Category:Birds_of_Pakistan" title="Category:Birds of Pakistan">Birds of Pakistan</a></li><li><a href="/wiki/Category:Birds_of_Bhutan" title="Category:Birds of Bhutan">Birds of Bhutan</a></li><li><a href="/wiki/Category:Birds_of_India" title="Category:Birds of India">Birds of India</a></li><li><a href="/wiki/Category:Birds_of_Bangladesh" title="Category:Birds of Bangladesh">Birds of Bangladesh</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_French_language_external_links" title="Category:Articles with French language external links">Articles with French language external links</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1075673-0!canonical and timestamp 20201026083647 and revision id 839101275
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Plain_martin&amp;oldid=839101275">https://en.wikipedia.org/w/index.php?title=Plain_martin&amp;oldid=839101275</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Disambiguation_pages_with_short_descriptions" title="Category:Disambiguation pages with short descriptions">Disambiguation pages with short descriptions</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></li><li><a href="/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></li><li><a href="/wiki/Category:Animal_common_name_disambiguation_pages" title="Category:Animal common name disambiguation pages">Animal common name disambiguation pages</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Plain+martin" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Plain+martin" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Plain_martin" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Plain_martin" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Plain+Martin&amp;type=signup">Create account</a></li>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Plain+Martin" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Brown-throated_Martin"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:Brown-throated_Martin"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-	<h4>
-		</h4>
-	<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Plain_martin">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Plain_martin&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Plain_martin&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Brown-throated_Martin" >Read</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Brown-throated_Martin&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brown-throated_Martin&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
 	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
 
-<!-- /2 -->
-			</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
 	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
 	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brown-throated_Martin" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brown-throated_Martin" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Brown-throated_Martin&amp;oldid=516672360" title="Permanent link to this revision of the page">Permanent link</a></li>
-			<li id="t-info"><a href="/w/index.php?title=Brown-throated_Martin&amp;action=info">Page information</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Brown-throated_Martin&amp;id=516672360" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /TOOLBOX -->
-
-<!-- coll-print_export -->
-<div class="portal" id='p-coll-print_export'>
-	<h5>Print/export</h5>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brown-throated+Martin" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Brown-throated+Martin&amp;oldid=516672360&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brown-throated_Martin&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- LANGUAGES -->
-<div class="portal" id='p-lang'>
-	<h5>Languages</h5>
-	<div class="body">
-		<ul>
-			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Afrikaanse_oewerswael" title="Afrikaanse oewerswael" lang="af" hreflang="af">Afrikaans</a></li>
-			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Ki%C3%A7ik_sahil_qaranqu%C5%9Fu" title="Kiçik sahil qaranquşu" lang="az" hreflang="az">Azərbaycanca</a></li>
-			<li class="interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D0%B0%D0%B3%D0%B0%D0%B2%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%B0%D1%9E%D0%BA%D0%B0" title="Малая берагавая ластаўка" lang="be" hreflang="be">Беларуская</a></li>
-			<li class="interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D0%B0%D0%B3%D0%B0%D0%B2%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%B0%D1%9E%D0%BA%D0%B0" title="Малая берагавая ластаўка" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
-			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/B%C5%99ehule_hn%C4%9Bdohrdl%C3%A1" title="Břehule hnědohrdlá" lang="cs" hreflang="cs">Česky</a></li>
-			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Brungor%C4%9Da_bordhirundo" title="Brungorĝa bordhirundo" lang="eo" hreflang="eo">Esperanto</a></li>
-			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Riparia_paludicola" title="Riparia paludicola" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Hirondelle_paludicole" title="Hirondelle paludicole" lang="fr" hreflang="fr">Français</a></li>
-			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Barnatork%C3%BA_partifecske" title="Barnatorkú partifecske" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Vale_oeverzwaluw" title="Vale oeverzwaluw" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AF%E3%83%B3%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%89%E3%82%A6%E3%83%84%E3%83%90%E3%83%A1" title="タイワンショウドウツバメ" lang="ja" hreflang="ja">日本語</a></li>
-			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Brzeg%C3%B3wka_ma%C5%82a" title="Brzegówka mała" lang="pl" hreflang="pl">Polski</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BB%D0%B0%D1%81%D1%82%D0%BE%D1%87%D0%BA%D0%B0" title="Малая береговая ласточка" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pikkut%C3%B6rm%C3%A4p%C3%A4%C3%A4sky" title="Pikkutörmäpääsky" lang="fi" hreflang="fi">Suomi</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Brunstrupig_backsvala" title="Brunstrupig backsvala" lang="sv" hreflang="sv">Svenska</a></li>
-			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%A3%95%E6%B2%99%E7%87%95" title="棕沙燕" lang="zh" hreflang="zh">中文</a></li>
-		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
 	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Plain_martin" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Plain_martin" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Plain_martin&amp;oldid=839101275" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Plain_martin&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Plain_martin&amp;id=839101275&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15947402" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Plain_martin&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Plain_martin&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15947402#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+	</div>
+</nav>
+
 </div>
 
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 8 October 2012 at 17:29.<br /></li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
-Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Plain_Martin&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf3/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
-}</script>
-<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by srv272 in 0.137 secs. -->
-	</body>
-</html>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 1 May 2018, at 07:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Plain_martin&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.155","ppvisitednodes":{"value":1226,"limit":1000000},"postexpandincludesize":{"value":4623,"limit":2097152},"templateargumentsize":{"value":1505,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":247,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  146.952      1 Template:Disambiguation","100.00%  146.952      1 -total"," 79.05%  116.161      1 Template:Dmbox"," 33.79%   49.656      1 Template:Disambiguation_page_short_description"," 32.19%   47.307      1 Template:Short_description"," 29.20%   42.914      3 Template:Main_other"," 22.26%   32.712      1 Template:Category_handler"," 10.91%   16.035      1 Template:SDcat"," 10.82%   15.904     10 Template:Disambiguation/cat"," 10.82%   15.899      2 Template:Title_disambig_text"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":1182562,"limit":52428800}},"cachereport":{"origin":"mw2336","timestamp":"20201026083647","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Plain martin","url":"https:\/\/en.wikipedia.org\/wiki\/Plain_martin","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15947402","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15947402","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-17T06:34:48Z","dateModified":"2018-05-01T07:48:54Z","headline":"Wikimedia disambiguation page"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":150,"wgHostname":"mw1367"});});</script>
+</body></html>

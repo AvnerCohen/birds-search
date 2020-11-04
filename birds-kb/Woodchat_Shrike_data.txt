@@ -1,441 +1,642 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" class="client-nojs">
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Woodchat Shrike - Wikipedia, the free encyclopedia</title>
-<meta charset="UTF-8" />
-<meta name="generator" content="MediaWiki 1.21wmf2" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Woodchat_Shrike&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Woodchat_Shrike&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
-<meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
-<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
-/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
-
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Woodchat_Shrike","wgTitle":"Woodchat Shrike","wgCurRevisionId":515069293,"wgArticleId":203143,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IUCN Red List least concern species","Articles with \'species\' microformats","Articles with French language external links","Lanius","Birds of Europe","Birds of Turkey","Birds of Western Sahara"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Woodchat_Shrike","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"16bd89e17437f9d160c667f9fe36b706","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wikilove-recipient":"","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Article":{"id":203143,"title":"Woodchat Shrike","namespace":0,"categories":["Articles with \'species\' microformats","Articles with French language external links","Birds of Europe","Birds of Turkey","Birds of Western Sahara","IUCN Red List least concern species","Lanius"],"permissionLevel":"aft-reader"}});
-}</script><script>if(window.mw){
-mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
-,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"gadget-teahouse":1,
-"gadget-ReferenceTooltips":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
-/* cache key: enwiki:resourceloader:filter:minify-js:7:40b6cc1674627f695d918f944f4ae8aa */
-}</script>
-<script>if(window.mw){
-mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
-}</script>
-<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.21wmf2/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Woodchat_Shrike skin-vector action-view vector-animateLayout">
-		<div id="mw-page-base" class="noprint"></div>
-		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content" class="mw-body">
-			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- CentralNotice --><script>mw.centralNotice.initialize();</script></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Woodchat Shrike</span></h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- tagline -->
-				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
-				<!-- /tagline -->
-								<!-- subtitle -->
-				<div id="contentSub"></div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav" class="mw-jump">
-					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<meta charset="UTF-8"/>
+<title>Woodchat shrike - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3c9d1803-0631-4754-a141-9ef0fa914885","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Woodchat_shrike","wgTitle":"Woodchat shrike","wgCurRevisionId":985061755,"wgRevisionId":985061755,"wgArticleId":203143,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with 'species' microformats","Commons category link is on Wikidata","Articles with French-language sources (fr)","IUCN Red List least concern species","Lanius","Birds of Southern Europe","Birds of Western Asia","Birds of Africa","Birds described in 1758","Taxa named by Carl Linnaeus"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Woodchat_shrike","wgRelevantArticleId":203143,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Woodchat_Shrike","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Woodchat_shrike","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q235052"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.14"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/48/Lanius_senator01_new.jpg"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Woodchat_shrike"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Woodchat_shrike&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Woodchat_shrike&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Woodchat_shrike"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Woodchat_shrike rootpage-Woodchat_shrike skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Woodchat shrike</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Woodchat_Shrike&amp;redirect=no" class="mw-redirect" title="Woodchat Shrike">Woodchat Shrike</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
 <table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)">Woodchat shrike
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)">Woodchat Shrike</th>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Lanius_senator01_new.jpg" class="image"><img alt="Lanius senator01 new.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lanius_senator01_new.jpg/220px-Lanius_senator01_new.jpg" decoding="async" width="220" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lanius_senator01_new.jpg/330px-Lanius_senator01_new.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lanius_senator01_new.jpg/440px-Lanius_senator01_new.jpg 2x" data-file-width="1020" data-file-height="651" /></a>
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Lanius_senator01_new.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lanius_senator01_new.jpg/220px-Lanius_senator01_new.jpg" width="220" height="140" /></a></td>
-</tr>
-<tr style="text-align: center; background-color: rgb(211,211,164)">
-<th colspan="2"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></th>
-</tr>
+<td colspan="2"><div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" decoding="async" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/330px-Status_iucn3.1_LC.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/440px-Status_iucn3.1_LC.svg.png 2x" data-file-width="240" data-file-height="64" /><br /><a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-iucn_1-0" class="reference"><a href="#cite_note-iucn-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
 <tr>
-<td colspan="2">
-<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png" width="220" height="59" /><br />
-<a href="/wiki/Least_Concern" title="Least Concern">Least Concern</a><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></small></div>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Lanius" title="edit"><img alt="edit" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Domain:
 </td>
-</tr>
+<td><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryota</a>
+</td></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Biological_classification" title="Biological classification">Scientific classification</a></th>
-</tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
 <tr>
-<td>Kingdom:</td>
-<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Animal" title="Animal">Animalia</a></span></td>
-</tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
 <tr>
-<td>Phylum:</td>
-<td><span class="phylum" style="white-space:nowrap;"><a href="/wiki/Chordate" title="Chordate">Chordata</a></span></td>
-</tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Bird" title="Bird">Aves</a>
+</td></tr>
 <tr>
-<td>Class:</td>
-<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Bird" title="Bird">Aves</a></span></td>
-</tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Passerine" title="Passerine">Passeriformes</a>
+</td></tr>
 <tr>
-<td>Order:</td>
-<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Passeriformes" title="Passeriformes" class="mw-redirect">Passeriformes</a></span></td>
-</tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Shrike" title="Shrike">Laniidae</a>
+</td></tr>
 <tr>
-<td>Family:</td>
-<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Shrike" title="Shrike">Laniidae</a></span></td>
-</tr>
+<td>Genus:
+</td>
+<td><a href="/wiki/Lanius" title="Lanius"><i>Lanius</i></a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<td>Genus:</td>
-<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Lanius" title="Lanius">Lanius</a></i></span></td>
-</tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>L.&#160;senator</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
 <tr>
-<td>Species:</td>
-<td><span class="species" style="white-space:nowrap;"><i><b>L. senator</b></i></span></td>
-</tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
 <tr>
-<th colspan="2" style="text-align: center; background-color: rgb(211,211,164)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
-</tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Lanius senator</i></span></b><br /><div style="font-size: 85%;"><a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a></div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <tr>
-<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Lanius senator</i></span></b><br />
-<small><a href="/wiki/Carolus_Linnaeus" title="Carolus Linnaeus" class="mw-redirect">Linnaeus</a>, 1758</small></td>
-</tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Lanius_senator_distr.png" class="image"><img alt="Lanius senator distr.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lanius_senator_distr.png/220px-Lanius_senator_distr.png" decoding="async" width="220" height="159" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lanius_senator_distr.png/330px-Lanius_senator_distr.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lanius_senator_distr.png/440px-Lanius_senator_distr.png 2x" data-file-width="1245" data-file-height="902" /></a>
+</td></tr>
 <tr>
-<td colspan="2" style="text-align: center"><a href="/wiki/File:Lanius_senator_distr.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lanius_senator_distr.png/220px-Lanius_senator_distr.png" width="220" height="159" /></a></td>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center; font-size: 88%"><br />
-<span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#FF8000; color:#FF8000;">&#160;&#160;&#160;&#160;</span>&#160;Summer</span> <span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#0000FF; color:#0000FF;">&#160;&#160;&#160;&#160;</span>&#160;Winter</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></td>
-</tr>
-</table>
-</div>
-<p>The <b>Woodchat Shrike</b> (<i>Lanius senator</i>) is a member of the <a href="/wiki/Shrike" title="Shrike">shrike</a> family Laniidae.</p>
-<p>The Woodchat breeds in southern <a href="/wiki/Europe" title="Europe">Europe</a>, the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> and northwest <a href="/wiki/Africa" title="Africa">Africa</a>, and winters in tropical Africa. It breeds in open cultivated country, preferably with orchard trees and some bare or sandy ground.</p>
-<p>This <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> medium-sized <a href="/wiki/Perching_bird" title="Perching bird" class="mw-redirect">passerine</a> eats large <a href="/wiki/Insects" title="Insects" class="mw-redirect">insects</a>, small <a href="/wiki/Birds" title="Birds" class="mw-redirect">birds</a> and small amphibians. Like other shrikes it hunts from prominent perches, and impales corpses on thorns or barbed wire as a "larder".</p>
-<p>The male is a striking bird with black and white plumage and a chestnut crown. The race <i>L. s. badius</i> of the western <a href="/wiki/Mediterranean" title="Mediterranean" class="mw-redirect">Mediterranean</a> lacks the large white wing patches.</p>
-<p>In the female and young birds the upperparts are brown and vermiculated. Underparts are buff and also vermiculated.</p>
-<p>This species often overshoots its breeding range on spring migration, and is a rare, but annual, visitor to <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>. The Balearic race <i>badius</i> has occurred in Britain around four times as a vagrant, and has also been recorded once in Ireland.</p>
-<table id="toc" class="toc">
-<tr>
-<td>
-<div id="toctitle">
-<h2>Contents</h2>
-</div>
+<td colspan="2" style="text-align: center; font-size: 88%"><br /><span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#FF8000; color:#FF8000;">&#160;&#160;&#160;&#160;</span>&#160;Summer</span>  <span style="margin:0px; font-size:90%;"><span style="border:solid 1px black; background-color:#0000FF; color:#0000FF;">&#160;&#160;&#160;&#160;</span>&#160;Winter</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p>The <b>woodchat shrike</b> (<i>Lanius senator</i>) is a member of the <a href="/wiki/Shrike" title="Shrike">shrike</a> family Laniidae. The genus name, <i><a href="/wiki/Lanius" title="Lanius">Lanius</a></i>, is derived from the <a href="/wiki/Latin" title="Latin">Latin</a> word for "<a href="/wiki/Butcher" title="Butcher">butcher</a>", and some shrikes are also known as "butcher birds" because of their feeding habits. The specific <i>senator</i> is <a href="/wiki/Latin" title="Latin">Latin</a> for "<a href="/wiki/Roman_Senate" title="Roman Senate">senator</a>", so-named because its chestnut cap recalled the colour of the stripe on the <a href="/wiki/Toga" title="Toga">toga</a> of a Roman senator.<sup id="cite_ref-job_3-0" class="reference"><a href="#cite_note-job-3">&#91;3&#93;</a></sup> The common name "Woodchat" is an Anglicisation of German <i>waldkatze</i>, literally "woodcat",<sup id="cite_ref-OED2_4-0" class="reference"><a href="#cite_note-OED2-4">&#91;4&#93;</a></sup> and  "shrike" is from <a href="/wiki/Old_English" title="Old English">Old English</a> <i>scríc</i>, "shriek", referring to the shrill call.<sup id="cite_ref-OED_5-0" class="reference"><a href="#cite_note-OED-5">&#91;5&#93;</a></sup>
+</p><p>The woodchat shrike breeds in <a href="/wiki/Southern_Europe" title="Southern Europe">southern Europe</a>, the <a href="/wiki/Middle_East" title="Middle East">Middle East</a> and <a href="/wiki/Maghreb" title="Maghreb">northwest Africa</a>, and winters in tropical Africa. It breeds in open cultivated country, preferably with orchard trees and some bare or sandy ground.<sup id="cite_ref-Lefranc_6-0" class="reference"><a href="#cite_note-Lefranc-6">&#91;6&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Gallery"><span class="tocnumber">1</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Notes"><span class="tocnumber">2</span> <span class="toctext">Notes</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Distribution_and_habitat"><span class="tocnumber">2</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Behaviour_and_ecology"><span class="tocnumber">3</span> <span class="toctext">Behaviour and ecology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
 </ul>
-</td>
-</tr>
-</table>
-<h2><span class="editsection">[<a href="/w/index.php?title=Woodchat_Shrike&amp;action=edit&amp;section=1" title="Edit section: Gallery">edit</a>]</span> <span class="mw-headline" id="Gallery">Gallery</span></h2>
-<ul class="gallery">
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:38.5px auto;"><a href="/wiki/File:Lanius_senator-2.jpg" class="image"><img alt="Lanius senator-2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lanius_senator-2.jpg/120px-Lanius_senator-2.jpg" width="120" height="73" /></a></div>
 </div>
-<div class="gallerytext"></div>
-</div>
-</li>
-<li class="gallerybox" style="width: 155px">
-<div style="width: 155px">
-<div class="thumb" style="width: 150px;">
-<div style="margin:35px auto;"><a href="/wiki/File:Occhiocotto_predato.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Occhiocotto_predato.jpg/120px-Occhiocotto_predato.jpg" width="120" height="80" /></a></div>
-</div>
-<div class="gallerytext">
-<p>Prey of L. Senator on a <a href="/wiki/Barbed_wire" title="Barbed wire">barbed wire</a></p>
-</div>
-</div>
-</li>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Woodchat_shrike&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The male is a striking bird with black and white upper parts, a chestnut crown and pure white underparts. The race <i>L. s. badius</i> of the western <a href="/wiki/Mediterranean" class="mw-redirect" title="Mediterranean">Mediterranean</a> lacks the large white wing patches.  In the female and young birds, the upperparts are brown and white and vermiculated. Underparts are buff and also vermiculated.<sup id="cite_ref-Lefranc_6-1" class="reference"><a href="#cite_note-Lefranc-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Woodchat_shrike&amp;action=edit&amp;section=2" title="Edit section: Distribution and habitat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The breeding range of the woodchat shrike is in southern Europe, northern Africa and the Middle East. The range extends from Portugal to Greece, Turkey, Iraq and Iran, and from Mauritania and Western Sahara in northern Africa to Libya. This bird overwinters in tropical central Africa, its winter range extending from Senegal to Sudan and Ethiopia in the east and southwards to Gabon.<sup id="cite_ref-iucn_1-1" class="reference"><a href="#cite_note-iucn-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Behaviour_and_ecology">Behaviour and ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Woodchat_shrike&amp;action=edit&amp;section=3" title="Edit section: Behaviour and ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This <a href="/wiki/Bird_migration" title="Bird migration">migratory</a> medium-sized <a href="/wiki/Perching_bird" class="mw-redirect" title="Perching bird">passerine</a> eats large <a href="/wiki/Insect" title="Insect">insects</a>, small <a href="/wiki/Bird" title="Bird">birds</a> and <a href="/wiki/Amphibian" title="Amphibian">amphibians</a>. Like other shrikes it hunts from prominent perches, and impales corpses on thorns or barbed wire as a "larder". This species often overshoots its breeding range on spring migration, and is a rare, but annual, visitor to <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>. The Balearic race <i>badius</i> has occurred in Britain around four times as a vagrant, and has also been recorded once in Ireland.<sup id="cite_ref-Lefranc_6-2" class="reference"><a href="#cite_note-Lefranc-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Woodchat_shrike&amp;action=edit&amp;section=4" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/wiki/File:Lanius_senator_4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lanius_senator_4.jpg/120px-Lanius_senator_4.jpg" decoding="async" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lanius_senator_4.jpg/180px-Lanius_senator_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lanius_senator_4.jpg/240px-Lanius_senator_4.jpg 2x" data-file-width="1512" data-file-height="1008" /></a></div></div>
+			<div class="gallerytext">
+<p>Adults
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:35px auto;"><a href="/wiki/File:Woodchat_Shrike_juv_-_Castuera_-_Extremadura_S4E5780_(14760575193).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Woodchat_Shrike_juv_-_Castuera_-_Extremadura_S4E5780_%2814760575193%29.jpg/120px-Woodchat_Shrike_juv_-_Castuera_-_Extremadura_S4E5780_%2814760575193%29.jpg" decoding="async" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Woodchat_Shrike_juv_-_Castuera_-_Extremadura_S4E5780_%2814760575193%29.jpg/180px-Woodchat_Shrike_juv_-_Castuera_-_Extremadura_S4E5780_%2814760575193%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Woodchat_Shrike_juv_-_Castuera_-_Extremadura_S4E5780_%2814760575193%29.jpg/240px-Woodchat_Shrike_juv_-_Castuera_-_Extremadura_S4E5780_%2814760575193%29.jpg 2x" data-file-width="1024" data-file-height="683" /></a></div></div>
+			<div class="gallerytext">
+<p>Juvenile
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:19px auto;"><a href="/wiki/File:Lanius_senator_MHNT.ZOO.2010.11.214._Jebsheim_Haut_Rhin.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lanius_senator_MHNT.ZOO.2010.11.214._Jebsheim_Haut_Rhin.jpg/120px-Lanius_senator_MHNT.ZOO.2010.11.214._Jebsheim_Haut_Rhin.jpg" decoding="async" width="120" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lanius_senator_MHNT.ZOO.2010.11.214._Jebsheim_Haut_Rhin.jpg/180px-Lanius_senator_MHNT.ZOO.2010.11.214._Jebsheim_Haut_Rhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lanius_senator_MHNT.ZOO.2010.11.214._Jebsheim_Haut_Rhin.jpg/240px-Lanius_senator_MHNT.ZOO.2010.11.214._Jebsheim_Haut_Rhin.jpg 2x" data-file-width="2948" data-file-height="2759" /></a></div></div>
+			<div class="gallerytext">
+<p>Eggs
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Keulemans_Onze_vogels_3_11.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Keulemans_Onze_vogels_3_11.jpg/84px-Keulemans_Onze_vogels_3_11.jpg" decoding="async" width="84" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Keulemans_Onze_vogels_3_11.jpg/127px-Keulemans_Onze_vogels_3_11.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Keulemans_Onze_vogels_3_11.jpg/169px-Keulemans_Onze_vogels_3_11.jpg 2x" data-file-width="2027" data-file-height="2878" /></a></div></div>
+			<div class="gallerytext">
+<p>Illustration
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Woodchat_Shrike_(Lanius_senator).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Woodchat_Shrike_%28Lanius_senator%29.jpg/90px-Woodchat_Shrike_%28Lanius_senator%29.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Woodchat_Shrike_%28Lanius_senator%29.jpg/135px-Woodchat_Shrike_%28Lanius_senator%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Woodchat_Shrike_%28Lanius_senator%29.jpg/180px-Woodchat_Shrike_%28Lanius_senator%29.jpg 2x" data-file-width="434" data-file-height="578" /></a></div></div>
+			<div class="gallerytext">
+<p>On a stamp of North Macedonia
+</p>
+			</div>
+		</div></li>
 </ul>
-<h2><span class="editsection">[<a href="/w/index.php?title=Woodchat_Shrike&amp;action=edit&amp;section=2" title="Edit section: Notes">edit</a>]</span> <span class="mw-headline" id="Notes">Notes</span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Woodchat_shrike&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation web" id="CITEREFBirdLife_International2012"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife International</a> (2012). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/apps/redlist/details/106005548">"<i>Lanius senator</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species.</a> Version 2012.1</i>. <a href="/wiki/International_Union_for_Conservation_of_Nature" title="International Union for Conservation of Nature">International Union for Conservation of Nature</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iucnredlist.org/apps/redlist/details/106005548">http://www.iucnredlist.org/apps/redlist/details/106005548</a></span><span class="reference-accessdate">. Retrieved 16 July 2012</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=%27%27Lanius+senator%27%27&amp;rft.atitle=%5B%5BIUCN+Red+List%7CIUCN+Red+List+of+Threatened+Species.%5D%5D+Version+2012.1&amp;rft.aulast=%5B%5BBirdLife+International%5D%5D&amp;rft.au=%5B%5BBirdLife+International%5D%5D&amp;rft.date=2012&amp;rft.pub=%5B%5BInternational+Union+for+Conservation+of+Nature%5D%5D&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fapps%2Fredlist%2Fdetails%2F106005548&amp;rfr_id=info:sid/en.wikipedia.org:Woodchat_Shrike"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Tony Harris &amp; Kim Franklin (2000). <i>Shrikes and Bush-Shrikes</i>. Helm. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7136-3861-3" title="Special:BookSources/0-7136-3861-3">0-7136-3861-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Shrikes+and+Bush-Shrikes&amp;rft.aulast=Tony+Harris+%26+Kim+Franklin&amp;rft.au=Tony+Harris+%26+Kim+Franklin&amp;rft.date=2000&amp;rft.pub=Helm&amp;rft.isbn=0-7136-3861-3&amp;rfr_id=info:sid/en.wikipedia.org:Woodchat_Shrike"><span style="display: none;">&#160;</span></span></span></li>
-</ol>
-</div>
-<h2><span class="editsection">[<a href="/w/index.php?title=Woodchat_Shrike&amp;action=edit&amp;section=3" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
-<h2><span class="editsection">[<a href="/w/index.php?title=Woodchat_Shrike&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
-<ul>
-<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" /> Media related to <a href="//commons.wikimedia.org/wiki/category:Lanius_senator" class="extiw" title="commons:category:Lanius senator">Lanius senator</a> at Wikimedia Commons</li>
-<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" width="14" height="16" /> Data related to <a href="//species.wikimedia.org/wiki/Lanius_senator" class="extiw" title="wikispecies:Lanius senator">Lanius senator</a> at Wikispecies</li>
-<li><a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide/pool/tags/Lanius+senator"><i>Lanius senator</i></a> in the <a href="/wiki/Flickr" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="http://www.flickr.com/groups/birdguide">Field Guide Birds of the World</a></li>
-<li><a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org/species.jsp?lang=EN&amp;avibaseid=7E70D490A6476D16">Lanius senator</a> on <a rel="nofollow" class="external text" href="http://avibase.bsc-eoc.org">Avibase</a></li>
-<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/woodchat-shrike-lanius-senator">Woodchat Shrike videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
-<li><a rel="nofollow" class="external text" href="http://www.oiseaux.net/birds/photos/woodchat.shrike.html">Oiseaux</a>, pictures <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span></li>
-<li><a rel="nofollow" class="external text" href="http://www.ibercajalav.net/img/404_WoodchatShrikeLsenator.pdf">Ageing and sexing (PDF) by Javier Blasco-Zumeta</a></li>
-</ul>
-<p><span id="interwiki-de-ga"></span></p>
-
-
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-iucn-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-iucn_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-iucn_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBirdLife_International2017" class="citation journal cs1">BirdLife International (2017). "<i>Lanius senator</i> (amended version of 2016 assessment)". <i><a href="/wiki/The_IUCN_Red_List_of_Threatened_Species" class="mw-redirect" title="The IUCN Red List of Threatened Species">The IUCN Red List of Threatened Species</a></i>. <b>2017</b>: e.T22705095A118777394. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2305%2FIUCN.UK.2017-3.RLTS.T22705095A118777394.en">10.2305/IUCN.UK.2017-3.RLTS.T22705095A118777394.en</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Lanius+senator+%28amended+version+of+2016+assessment%29&amp;rft.volume=2017&amp;rft.pages=e.T22705095A118777394&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.2305%2FIUCN.UK.2017-3.RLTS.T22705095A118777394.en&amp;rft.au=BirdLife+International&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWoodchat+shrike" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r982806391">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFTony_HarrisKim_Franklin2000" class="citation book cs1">Tony Harris &amp; Kim Franklin (2000). <i>Shrikes and Bush-Shrikes</i>. Helm. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7136-3861-5" title="Special:BookSources/978-0-7136-3861-5"><bdi>978-0-7136-3861-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Shrikes+and+Bush-Shrikes&amp;rft.pub=Helm&amp;rft.date=2000&amp;rft.isbn=978-0-7136-3861-5&amp;rft.au=Tony+Harris&amp;rft.au=Kim+Franklin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWoodchat+shrike" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-job-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-job_3-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFJobling2010" class="citation book cs1">Jobling, James A (2010). <i>The Helm Dictionary of Scientific Bird Names</i>. London: Christopher Helm. pp.&#160;219, 353. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-2501-4" title="Special:BookSources/978-1-4081-2501-4"><bdi>978-1-4081-2501-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Helm+Dictionary+of+Scientific+Bird+Names&amp;rft.place=London&amp;rft.pages=219%2C+353&amp;rft.pub=Christopher+Helm&amp;rft.date=2010&amp;rft.isbn=978-1-4081-2501-4&amp;rft.aulast=Jobling&amp;rft.aufirst=James+A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWoodchat+shrike" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+<li id="cite_note-OED2-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-OED2_4-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFReference-OED-Woodchat" class="citation cs1"><a rel="nofollow" class="external text" href="http://oed.com/search?searchType=dictionary&amp;q=Woodchat">"Woodchat"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> (3rd ed.). Oxford University Press. September 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Woodchat&amp;rft.btitle=Oxford+English+Dictionary&amp;rft.edition=3rd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2005-09&amp;rft_id=http%3A%2F%2Foed.com%2Fsearch%3FsearchType%3Ddictionary%26q%3DWoodchat&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWoodchat+shrike" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/>&#160;<span style="font-size:0.95em; font-size:90%; color:#555">(Subscription or <a rel="nofollow" class="external text" href="https://www.oed.com/public/login/loggingin#withyourlibrary">UK public library membership</a> required.)</span></span>
+</li>
+<li id="cite_note-OED-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-OED_5-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFReference-OED-Shrike" class="citation cs1"><a rel="nofollow" class="external text" href="http://oed.com/search?searchType=dictionary&amp;q=Shrike">"Shrike"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> (3rd ed.). Oxford University Press. September 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Shrike&amp;rft.btitle=Oxford+English+Dictionary&amp;rft.edition=3rd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2005-09&amp;rft_id=http%3A%2F%2Foed.com%2Fsearch%3FsearchType%3Ddictionary%26q%3DShrike&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWoodchat+shrike" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/>&#160;<span style="font-size:0.95em; font-size:90%; color:#555">(Subscription or <a rel="nofollow" class="external text" href="https://www.oed.com/public/login/loggingin#withyourlibrary">UK public library membership</a> required.)</span></span>
+</li>
+<li id="cite_note-Lefranc-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lefranc_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lefranc_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lefranc_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFNorbert_LefrancTim_Worfolk2013" class="citation book cs1">Norbert Lefranc; Tim Worfolk (2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=HclLAQAAQBAJ&amp;pg=PA159"><i>Shrikes</i></a>. A&amp;C Black. pp.&#160;159–165. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4081-8756-2" title="Special:BookSources/978-1-4081-8756-2"><bdi>978-1-4081-8756-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Shrikes&amp;rft.pages=159-165&amp;rft.pub=A%26C+Black&amp;rft.date=2013&amp;rft.isbn=978-1-4081-8756-2&amp;rft.au=Norbert+Lefranc&amp;rft.au=Tim+Worfolk&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHclLAQAAQBAJ%26pg%3DPA159&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWoodchat+shrike" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Woodchat_shrike&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Lanius_senator" class="extiw" title="commons:Category:Lanius senator"><span style="">Lanius senator</span></a> at Wikimedia Commons</li>
+<li><a href="/wiki/File:Wikispecies-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/14px-Wikispecies-logo.svg.png" decoding="async" width="14" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/20px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/27px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a> Data related to <a href="https://species.wikimedia.org/wiki/Lanius_senator" class="extiw" title="wikispecies:Lanius senator">Lanius senator</a> at Wikispecies</li>
+<li><a rel="nofollow" class="external text" href="https://www.flickr.com/groups/birdguide/pool/tags/Lanius+senator"><i>Lanius senator</i></a> in <i><a rel="nofollow" class="external text" href="https://www.flickr.com/groups/birdguide">Field Guide: Birds of the World</a></i> on <a href="/wiki/Flickr" title="Flickr">Flickr</a></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://avibase.bsc-eoc.org/species.jsp?lang=EN&amp;avibaseid=7E70D490A6476D16">"Lanius senator"</a>. <i>Avibase</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Avibase&amp;rft.atitle=Lanius+senator&amp;rft_id=https%3A%2F%2Favibase.bsc-eoc.org%2Fspecies.jsp%3Flang%3DEN%26avibaseid%3D7E70D490A6476D16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWoodchat+shrike" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r982806391"/> <a href="https://www.wikidata.org/wiki/Q235052#P2026" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><a rel="nofollow" class="external text" href="http://ibc.lynxeds.com/species/woodchat-shrike-lanius-senator">Woodchat shrike videos, photos &amp; sounds</a> on the Internet Bird Collection</li>
+<li><a rel="nofollow" class="external text" href="http://www.oiseaux.net/birds/photos/woodchat.shrike.html">Oiseaux</a>, pictures <span class="languageicon">(in French)</span></li>
+<li><a rel="nofollow" class="external text" href="http://aulaenred.ibercaja.es/wp-content/uploads/404_WoodchatShrikeLsenator.pdf">Ageing and sexing (PDF; 2.4 MB) by Javier Blasco-Zumeta &amp; Gerd-Michael Heinze</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Shrikes_(family:_Laniidae)" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Laniidae" title="Template:Laniidae"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Laniidae" title="Template talk:Laniidae"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Laniidae&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Shrikes_(family:_Laniidae)" style="font-size:114%;margin:0 4em"><a href="/wiki/Shrike" title="Shrike">Shrikes</a> (family: Laniidae)</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Kingdom:_Animalia_*_Phylum:_Chordata_*_Class:_Aves_*_Order:_Passeriformes_*_Superfamily:_Corvoidea">
+<ul><li>Kingdom: <a href="/wiki/Animal" title="Animal">Animalia</a></li>
+<li>Phylum: <a href="/wiki/Chordate" title="Chordate">Chordata</a></li>
+<li>Class: <a href="/wiki/Bird" title="Bird">Aves</a></li>
+<li>Order: <a href="/wiki/Passerine" title="Passerine">Passeriformes</a></li>
+<li>Superfamily: <a href="/wiki/Corvoidea" title="Corvoidea">Corvoidea</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Lanius" title="Lanius">Lanius</a></i><br /><small><span style="color:#696969"><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(Typical shrikes)</span></span></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tiger_shrike" title="Tiger shrike">Tiger shrike (<i>L. tigrinus</i>)</a></li>
+<li><a href="/wiki/Souza%27s_shrike" title="Souza&#39;s shrike">Souza's shrike (<i>L. souzae</i>)</a></li>
+<li><a href="/wiki/Bull-headed_shrike" title="Bull-headed shrike">Bull-headed shrike (<i>L. bucephalus</i>)</a></li>
+<li><a href="/wiki/Brown_shrike" title="Brown shrike">Brown shrike (<i>L. cristatus</i>)</a></li>
+<li><a href="/wiki/Red-backed_shrike" title="Red-backed shrike">Red-backed shrike (<i>L. collurio</i>)</a></li>
+<li><a href="/wiki/Isabelline_shrike" title="Isabelline shrike">Isabelline shrike (<i>L. isabellinus</i>)</a></li>
+<li><a href="/wiki/Red-tailed_shrike" title="Red-tailed shrike">Red-tailed shrike (<i>L. phoenicuroides</i>)</a></li>
+<li><a href="/wiki/Burmese_shrike" title="Burmese shrike">Burmese shrike (<i>L. collurioides</i>)</a></li>
+<li><a href="/wiki/Emin%27s_shrike" title="Emin&#39;s shrike">Emin's shrike (<i>L. gubernator</i>)</a></li>
+<li><a href="/wiki/Bay-backed_shrike" title="Bay-backed shrike">Bay-backed shrike (<i>L. vittatus</i>)</a></li>
+<li><a href="/wiki/Long-tailed_shrike" title="Long-tailed shrike">Long-tailed shrike (<i>L. schach</i>)</a></li>
+<li><a href="/wiki/Grey-backed_shrike" title="Grey-backed shrike">Grey-backed shrike (<i>L. tephronotus</i>)</a></li>
+<li><a href="/wiki/Mountain_shrike" title="Mountain shrike">Mountain shrike (<i>L. validirostris</i>)</a></li>
+<li><a href="/wiki/Mackinnon%27s_shrike" title="Mackinnon&#39;s shrike">Mackinnon's shrike (<i>L. mackinnoni</i>)</a></li>
+<li><a href="/wiki/Lesser_grey_shrike" title="Lesser grey shrike">Lesser grey shrike (<i>L. minor</i>)</a></li>
+<li><a href="/wiki/Loggerhead_shrike" title="Loggerhead shrike">Loggerhead shrike (<i>L. ludovicianus</i>)</a></li>
+<li><a href="/wiki/Northern_shrike" title="Northern shrike">Northern shrike (<i>L. borealis</i>)</a></li>
+<li><a href="/wiki/Great_grey_shrike" title="Great grey shrike">Great grey shrike (<i>L. excubitor</i>)</a></li>
+<li><a href="/wiki/Iberian_grey_shrike" title="Iberian grey shrike">Iberian grey shrike (<i>L. meridionalis</i>)</a></li>
+<li><a href="/wiki/Chinese_grey_shrike" title="Chinese grey shrike">Chinese grey shrike (<i>L. sphenocercus</i>)</a></li>
+<li><a href="/wiki/Grey-backed_fiscal" title="Grey-backed fiscal">Grey-backed fiscal (<i>L. excubitoroides</i>)</a></li>
+<li><a href="/wiki/Long-tailed_fiscal" title="Long-tailed fiscal">Long-tailed fiscal (<i>L. cabanisi</i>)</a></li>
+<li><a href="/wiki/Taita_fiscal" title="Taita fiscal">Taita fiscal (<i>L. dorsalis</i>)</a></li>
+<li><a href="/wiki/Somali_fiscal" title="Somali fiscal">Somali fiscal (<i>L. somalicus</i>)</a></li>
+<li><a href="/wiki/Northern_fiscal" title="Northern fiscal">Northern fiscal (<i>L. humeralis</i>)</a></li>
+<li><a href="/wiki/Southern_fiscal" title="Southern fiscal">Southern fiscal (<i>L. collaris</i>)</a></li>
+<li><a href="/wiki/S%C3%A3o_Tom%C3%A9_fiscal" title="São Tomé fiscal">São Tomé fiscal (<i>L. newtoni</i>)</a></li>
+<li><a class="mw-selflink selflink">Woodchat shrike (<i>L. senator</i>)</a></li>
+<li><a href="/wiki/Masked_shrike" title="Masked shrike">Masked shrike (<i>L. nubicus</i>)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i>Corvinella</i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yellow-billed_shrike" title="Yellow-billed shrike">Yellow-billed shrike (<i>C. corvina</i>)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i>Urolestes</i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Magpie_shrike" title="Magpie shrike">Magpie shrike (<i>U. melanoleucus</i>)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Eurocephalus" title="Eurocephalus">Eurocephalus</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Northern_white-crowned_shrike" title="Northern white-crowned shrike">Northern white-crowned shrike (<i>E. ruppelli</i>)</a></li>
+<li><a href="/wiki/Southern_white-crowned_shrike" title="Southern white-crowned shrike">Southern white-crowned shrike (<i>E. anguitimens</i>)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q235052" class="extiw" title="wikidata:Q235052">Q235052</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Lanius_senator" class="extiw" title="wikispecies:Lanius senator">Lanius senator</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/ARKive" title="ARKive">ARKive</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://web.archive.org/web/*/www.arkive.org/wd/lanius-senator/">lanius-senator</a></span></span></li>
+<li><span style="white-space:nowrap;">Avibase: <span class="uid"><a rel="nofollow" class="external text" href="https://avibase.bsc-eoc.org/species.jsp?avibaseid=7E70D490A6476D16">7E70D490A6476D16</a></span></span></li>
+<li><span style="white-space:nowrap;">BioLib: <span class="uid"><a rel="nofollow" class="external text" href="https://www.biolib.cz/cz/taxon/id8972">8972</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/BirdLife_International" title="BirdLife International">BirdLife</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://datazone.birdlife.org/species/factsheet/22705095">22705095</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/British_Trust_for_Ornithology" title="British Trust for Ornithology">BTO</a>: <span class="uid">WOOSH</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/EBird" title="EBird">eBird</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://ebird.org/species/wooshr1">wooshr1</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/European_Nature_Information_System" title="European Nature Information System">EUNIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eunis.eea.europa.eu/species/1102">1102</a></span></span></li>
+<li><span style="white-space:nowrap;">Euring: <span class="uid">15230</span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.eu-nomen.eu/portal/taxon.php?GUID=urn:lsid:faunaeur.org:taxname:97121">97121</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fauna_Europaea" title="Fauna Europaea">Fauna Europaea (new)</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://fauna-eu.org/cdm_dataportal/taxon/a43da552-ee20-4771-8d1e-8249745fb059">a43da552-ee20-4771-8d1e-8249745fb059</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://fossilworks.org/bridge.pl?a=taxonInfo&amp;taxon_no=369529">369529</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/2492867">2492867</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/INaturalist" title="INaturalist">iNaturalist</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/taxa/12039">12039</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=10215493">10215493</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=560732">560732</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://apiv3.iucnredlist.org/api/v3/taxonredirect/22705095">22705095</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Biodiversity_Network" title="National Biodiversity Network">NBN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://data.nbn.org.uk/Taxa/NHMSYS0000530430">NHMSYS0000530430</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=187436">187436</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="https://de.wikipedia.org/wiki/Tierstimmenarchiv" class="extiw" title="de:Tierstimmenarchiv">TSA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.tierstimmen.org/en/database?field_spec_species_target_id_selective=9020">9020</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Preprocessor visited node count: 4605/1000000
-Preprocessor generated node count: 39785/1500000
-Post-expand include size: 28498/2048000 bytes
-Template argument size: 6519/2048000 bytes
-Highest expansion depth: 18/40
-Expensive parser function count: 1/500
+Parsed by mw1268
+Cached time: 20201103000341
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.824 seconds
+Real time usage: 1.149 seconds
+Preprocessor visited node count: 6485/1000000
+Post‐expand include size: 54097/2097152 bytes
+Template argument size: 6257/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 19/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 26336/5000000 bytes
+Lua time usage: 0.583/10.000 seconds
+Lua memory usage: 20.1 MB/50 MB
+Number of Wikibase entities loaded: 20/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1089.074      1 -total
+ 38.81%  422.720      1 Template:Speciesbox
+ 38.20%  416.031      1 Template:Taxobox/core
+ 21.38%  232.826      1 Template:Taxonbar
+ 14.30%  155.684      1 Template:Reflist
+ 10.81%  117.715      1 Template:In_lang
+  8.18%   89.048      1 Template:Cite_journal
+  5.67%   61.712      1 Template:Avibase
+  3.99%   43.484     23 Template:Delink
+  3.47%   37.797      1 Template:Cite_web
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:203143-0!*!0!!en!4!* and timestamp 20121018154923 -->
-</div>				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Woodchat_Shrike&amp;oldid=515069293">http://en.wikipedia.org/w/index.php?title=Woodchat_Shrike&amp;oldid=515069293</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Lanius" title="Category:Lanius">Lanius</a></li><li><a href="/wiki/Category:Birds_of_Europe" title="Category:Birds of Europe">Birds of Europe</a></li><li><a href="/wiki/Category:Birds_of_Turkey" title="Category:Birds of Turkey">Birds of Turkey</a></li><li><a href="/wiki/Category:Birds_of_Western_Sahara" title="Category:Birds of Western Sahara">Birds of Western Sahara</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Articles_with_French_language_external_links" title="Category:Articles with French language external links">Articles with French language external links</a></li></ul></div></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:203143-0!canonical and timestamp 20201103000340 and revision id 985061755
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Woodchat_shrike&amp;oldid=985061755">https://en.wikipedia.org/w/index.php?title=Woodchat_shrike&amp;oldid=985061755</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:IUCN_Red_List_least_concern_species" title="Category:IUCN Red List least concern species">IUCN Red List least concern species</a></li><li><a href="/wiki/Category:Lanius" title="Category:Lanius">Lanius</a></li><li><a href="/wiki/Category:Birds_of_Southern_Europe" title="Category:Birds of Southern Europe">Birds of Southern Europe</a></li><li><a href="/wiki/Category:Birds_of_Western_Asia" title="Category:Birds of Western Asia">Birds of Western Asia</a></li><li><a href="/wiki/Category:Birds_of_Africa" title="Category:Birds of Africa">Birds of Africa</a></li><li><a href="/wiki/Category:Birds_described_in_1758" title="Category:Birds described in 1758">Birds described in 1758</a></li><li><a href="/wiki/Category:Taxa_named_by_Carl_Linnaeus" title="Category:Taxa named by Carl Linnaeus">Taxa named by Carl Linnaeus</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_French-language_sources_(fr)" title="Category:Articles with French-language sources (fr)">Articles with French-language sources (fr)</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Woodchat+shrike" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Woodchat+shrike" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Woodchat_shrike" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Woodchat_shrike" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Woodchat+Shrike&amp;type=signup">Create account</a></li>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Woodchat+Shrike" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Woodchat_Shrike"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:Woodchat_Shrike"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-	<h4>
-		</h4>
-	<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Woodchat_shrike">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Woodchat_shrike&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Woodchat_shrike&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view" class="selected"><span><a href="/wiki/Woodchat_Shrike" >Read</a></span></li>
-					<li id="ca-edit"><span><a href="/w/index.php?title=Woodchat_Shrike&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Woodchat_Shrike&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
 	<form action="/w/index.php" id="searchform">
-				<div id="simpleSearch">
-						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
 		</div>
 	</form>
 </div>
 
-<!-- /2 -->
-			</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C12_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
 	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
 	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Woodchat_Shrike" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Woodchat_Shrike" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-			<li id="t-permalink"><a href="/w/index.php?title=Woodchat_Shrike&amp;oldid=515069293" title="Permanent link to this revision of the page">Permanent link</a></li>
-			<li><a href="/w/index.php?title=Woodchat_Shrike&amp;action=info">Page information</a></li>
-<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Woodchat_Shrike&amp;id=515069293" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+		
 	</div>
-</div>
+</nav>
 
-<!-- /TOOLBOX -->
-
-<!-- coll-print_export -->
-<div class="portal" id='p-coll-print_export'>
-	<h5>Print/export</h5>
-	<div class="body">
-		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Woodchat+Shrike" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Woodchat+Shrike&amp;oldid=515069293&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Woodchat_Shrike&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
-</div>
-
-<!-- /coll-print_export -->
-
-<!-- LANGUAGES -->
-<div class="portal" id='p-lang'>
-	<h5>Languages</h5>
-	<div class="body">
-		<ul>
-			<li class="interwiki-kbd"><a href="//kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B0%D0%B6%D1%8C%D1%8B%D0%BA%D1%8A%D1%89%D1%85%D1%8C%D1%8D%D0%BF%D0%BB%D1%8A" title="Къажьыкъщхьэплъ" lang="kbd" hreflang="kbd">Адыгэбзэ</a></li>
-			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AF%D9%82%D9%86%D8%A7%D8%B4_%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A" title="دقناش أوروبي" lang="ar" hreflang="ar">العربية</a></li>
-			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0_%D1%81%D0%B2%D1%80%D0%B0%D1%87%D0%BA%D0%B0" title="Червеноглава сврачка" lang="bg" hreflang="bg">Български</a></li>
-			<li class="interwiki-br"><a href="//br.wikipedia.org/wiki/Pig-spern_penn_ruz" title="Pig-spern penn ruz" lang="br" hreflang="br">Brezhoneg</a></li>
-			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Capsigrany" title="Capsigrany" lang="ca" hreflang="ca">Català</a></li>
-			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/%C5%A4uh%C3%BDk_rudohlav%C3%BD" title="Ťuhýk rudohlavý" lang="cs" hreflang="cs">Česky</a></li>
-			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Rotkopfw%C3%BCrger" title="Rotkopfwürger" lang="de" hreflang="de">Deutsch</a></li>
-			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Punapea-%C3%B5gija" title="Punapea-õgija" lang="et" hreflang="et">Eesti</a></li>
-			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Lanius_senator" title="Lanius senator" lang="es" hreflang="es">Español</a></li>
-			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Ru%C4%9Dkapa_lanio" title="Ruĝkapa lanio" lang="eo" hreflang="eo">Esperanto</a></li>
-			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Antzandobi_kaskagorri" title="Antzandobi kaskagorri" lang="eu" hreflang="eu">Euskara</a></li>
-			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%DA%86%D8%B4%D9%85_%DA%A9%D9%84%D9%87%E2%80%8C%D8%B3%D8%B1%D8%AE" title="سنگ‌چشم کله‌سرخ" lang="fa" hreflang="fa">فارسی</a></li>
-			<li class="interwiki-fo"><a href="//fo.wikipedia.org/wiki/Sk%C3%BAlvtyrningur" title="Skúlvtyrningur" lang="fo" hreflang="fo">Føroyskt</a></li>
-			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pie-gri%C3%A8che_%C3%A0_t%C3%AAte_rousse" title="Pie-grièche à tête rousse" lang="fr" hreflang="fr">Français</a></li>
-			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Picanzo_cabecirrubio" title="Picanzo cabecirrubio" lang="gl" hreflang="gl">Galego</a></li>
-			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%BF%D5%A1%D6%80%D5%B4%D6%80%D5%A1%D5%AF%D5%A1%D5%BF%D5%A1%D6%80_%D5%B7%D5%A1%D5%B4%D6%83%D6%80%D5%B8%D6%82%D5%AF" title="Կարմրակատար շամփրուկ" lang="hy" hreflang="hy">Հայերեն</a></li>
-			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Lanius_senator" title="Lanius senator" lang="it" hreflang="it">Italiano</a></li>
-			<li class="interwiki-ku"><a href="//ku.wikipedia.org/wiki/Sersor" title="Sersor" lang="ku" hreflang="ku">Kurdî</a></li>
-			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/V%C3%B6r%C3%B6sfej%C5%B1_g%C3%A9bics" title="Vörösfejű gébics" lang="hu" hreflang="hu">Magyar</a></li>
-			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Roodkopklauwier" title="Roodkopklauwier" lang="nl" hreflang="nl">Nederlands</a></li>
-			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/R%C3%B8dhodevarsler" title="Rødhodevarsler" lang="no" hreflang="no">Norsk (bokmål)‎</a></li>
-			<li class="interwiki-pcd"><a href="//pcd.wikipedia.org/wiki/Agache-%C3%A9creuh%C3%A8le_%C3%A0_t%C3%A9te_rousse" title="Agache-écreuhèle à téte rousse" lang="pcd" hreflang="pcd">Picard</a></li>
-			<li class="interwiki-pms"><a href="//pms.wikipedia.org/wiki/Lanius_senator" title="Lanius senator" lang="pms" hreflang="pms">Piemontèis</a></li>
-			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Dzierzba_rudog%C5%82owa" title="Dzierzba rudogłowa" lang="pl" hreflang="pl">Polski</a></li>
-			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Pican%C3%A7o-barreteiro" title="Picanço-barreteiro" lang="pt" hreflang="pt">Português</a></li>
-			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BE%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D1%83%D1%82" title="Красноголовый сорокопут" lang="ru" hreflang="ru">Русский</a></li>
-			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Rjavoglavi_srakoper" title="Rjavoglavi srakoper" lang="sl" hreflang="sl">Slovenščina</a></li>
-			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Punap%C3%A4%C3%A4lepink%C3%A4inen" title="Punapäälepinkäinen" lang="fi" hreflang="fi">Suomi</a></li>
-			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/R%C3%B6dhuvad_t%C3%B6rnskata" title="Rödhuvad törnskata" lang="sv" hreflang="sv">Svenska</a></li>
-			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_ba%C5%9Fl%C4%B1_%C3%B6r%C3%BCmcek_ku%C5%9Fu" title="Kızıl başlı örümcek kuşu" lang="tr" hreflang="tr">Türkçe</a></li>
-			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D1%83%D0%B4_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9" title="Сорокопуд червоноголовий" lang="uk" hreflang="uk">Українська</a></li>
-			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9E%97%E4%B3%AD%E4%BC%AF%E5%8A%B3" title="林䳭伯劳" lang="zh" hreflang="zh">中文</a></li>
-		</ul>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
 	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Woodchat_shrike" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Woodchat_shrike" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Woodchat_shrike&amp;oldid=985061755" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Woodchat_shrike&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Woodchat_shrike&amp;id=985061755&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q235052" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Woodchat_shrike&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Woodchat_shrike&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Lanius_senator" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Lanius_senator" hreflang="en">Wikispecies</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-kbd"><a href="https://kbd.wikipedia.org/wiki/%D0%9A%D1%8A%D0%B0%D0%B6%D1%8C%D1%8B%D0%BA%D1%8A%D1%89%D1%85%D1%8C%D1%8D%D0%BF%D0%BB%D1%8A" title="Къажьыкъщхьэплъ – Kabardian" lang="kbd" hreflang="kbd" class="interlanguage-link-target">Адыгэбзэ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B5%D8%B1%D8%AF_%D8%A3%D8%AD%D9%85%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A9" title="صرد أحمر القنة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Lanius_senator" title="Lanius senator – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D1%80%D1%8B%D1%87%D1%83%D0%BD_%D1%87%D1%8B%D1%80%D0%B2%D0%BE%D0%BD%D0%B0%D0%B3%D0%B0%D0%BB%D0%BE%D0%B2%D1%8B" title="Грычун чырвонагаловы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0_%D1%81%D0%B2%D1%80%D0%B0%D1%87%D0%BA%D0%B0" title="Червеноглава сврачка – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Pig-spern_penn_ruz" title="Pig-spern penn ruz – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Capsigrany" title="Capsigrany – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Lanius_senator" title="Lanius senator – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C5%A4uh%C3%BDk_rudohlav%C3%BD" title="Ťuhýk rudohlavý – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Cigydd_pengoch" title="Cigydd pengoch – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/R%C3%B8dhovedet_tornskade" title="Rødhovedet tornskade – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article badge"><a href="https://de.wikipedia.org/wiki/Rotkopfw%C3%BCrger" title="Rotkopfwürger – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Ch%C3%A9ch%CA%BCiltah_zahal%C3%A1niitsoh" title="Chéchʼiltah zahalániitsoh – Navajo" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Punapea-%C3%B5gija" title="Punapea-õgija – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%BF%CE%BA%CE%BA%CE%B9%CE%BD%CE%BF%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%AC%CF%82" title="Κοκκινοκεφαλάς – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lanius_senator" title="Lanius senator – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Ru%C4%9Dkapa_lanio" title="Ruĝkapa lanio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Antzandobi_kaskagorri" title="Antzandobi kaskagorri – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%E2%80%8C%DA%86%D8%B4%D9%85_%DA%A9%D9%84%D9%87%E2%80%8C%D8%B3%D8%B1%D8%AE" title="سنگ‌چشم کله‌سرخ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Sk%C3%BAlvtyrningur" title="Skúlvtyrningur – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Pie-gri%C3%A8che_%C3%A0_t%C3%AAte_rousse" title="Pie-grièche à tête rousse – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Scr%C3%A9ach%C3%A1n_coille" title="Scréachán coille – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Picanzo_cabecirrubio" title="Picanzo cabecirrubio – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D6%80%D5%B4%D6%80%D5%A1%D5%AF%D5%A1%D5%BF%D5%A1%D6%80_%D5%B7%D5%A1%D5%B4%D6%83%D6%80%D5%B8%D6%82%D5%AF" title="Կարմրակատար շամփրուկ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Lanius_senator" title="Lanius senator – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Gasor" title="Gasor – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/V%C3%B6r%C3%B6sfej%C5%B1_g%C3%A9bics" title="Vörösfejű gébics – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A6%D1%80%D0%B2%D0%B5%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BE_%D1%81%D0%B2%D1%80%D0%B0%D1%87%D0%B5" title="Црвеноглаво свраче – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Roodkopklauwier" title="Roodkopklauwier – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/R%C3%B8dhodevarsler" title="Rødhodevarsler – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Raudhovudvarslar" title="Raudhovudvarslar – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pcd"><a href="https://pcd.wikipedia.org/wiki/Agache-%C3%A9creuh%C3%A8le_%C3%A0_t%C3%A9te_rousse" title="Agache-écreuhèle à téte rousse – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lanius_senator" title="Lanius senator – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dzierzba_rudog%C5%82owa" title="Dzierzba rudogłowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Pican%C3%A7o-barreteiro" title="Picanço-barreteiro – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BE%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D1%83%D1%82" title="Красноголовый сорокопут – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Strako%C5%A1_%C4%8Dervenohlav%C3%BD" title="Strakoš červenohlavý – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Rjavoglavi_srakoper" title="Rjavoglavi srakoper – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Punap%C3%A4%C3%A4lepink%C3%A4inen" title="Punapäälepinkäinen – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/R%C3%B6dhuvad_t%C3%B6rnskata" title="Rödhuvad törnskata – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_ba%C5%9Fl%C4%B1_%C3%B6r%C3%BCmcek_ku%C5%9Fu" title="Kızıl başlı örümcek kuşu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D1%83%D0%B4_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9" title="Сорокопуд червоноголовий – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/B%C3%A1ch_thanh_Woodchat" title="Bách thanh Woodchat – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Lanius_senator" title="Lanius senator – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9E%97%E4%B3%AD%E4%BC%AF%E5%8A%B3" title="林䳭伯劳 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q235052#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
 </div>
 
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-info">
-											<li id="footer-info-lastmod"> This page was last modified on 28 September 2012 at 22:03.<br /></li>
-											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
-additional terms may apply.
-See <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.<br/>
-Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
-									</ul>
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Woodchat_Shrike&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf2/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
-		</div>
-		<!-- /footer -->
-		<script>if(window.mw){
-mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
-}</script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<script>if(window.mw){
-mw.loader.load(["mobile.desktop","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.Experiments.lib","ext.Experiments.experiments","mw.PopUpMediaTransform"], null, true);
-}</script>
-<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
-<!-- Served by mw52 in 0.174 secs. -->
-	</body>
-</html>
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 23 October 2020, at 18:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Woodchat_shrike&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.824","walltime":"1.149","ppvisitednodes":{"value":6485,"limit":1000000},"postexpandincludesize":{"value":54097,"limit":2097152},"templateargumentsize":{"value":6257,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26336,"limit":5000000},"entityaccesscount":{"value":20,"limit":400},"timingprofile":["100.00% 1089.074      1 -total"," 38.81%  422.720      1 Template:Speciesbox"," 38.20%  416.031      1 Template:Taxobox/core"," 21.38%  232.826      1 Template:Taxonbar"," 14.30%  155.684      1 Template:Reflist"," 10.81%  117.715      1 Template:In_lang","  8.18%   89.048      1 Template:Cite_journal","  5.67%   61.712      1 Template:Avibase","  3.99%   43.484     23 Template:Delink","  3.47%   37.797      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.583","limit":"10.000"},"limitreport-memusage":{"value":21076177,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20201103000341","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Woodchat shrike","url":"https:\/\/en.wikipedia.org\/wiki\/Woodchat_shrike","sameAs":"http:\/\/www.wikidata.org\/entity\/Q235052","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q235052","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-03-29T16:03:27Z","dateModified":"2020-10-23T18:43:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/48\/Lanius_senator01_new.jpg","headline":"species of bird"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":168,"wgHostname":"mw1331"});});</script>
+</body></html>
